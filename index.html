@@ -1,0 +1,570 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<title>Basco 今日英语练习</title>
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  min-height: 100vh;
+  padding: 16px;
+  color: #333;
+}
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+}
+/* Header */
+.header {
+  background: rgba(255,255,255,0.95);
+  border-radius: 16px;
+  padding: 20px;
+  text-align: center;
+  margin-bottom: 16px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+}
+.header h1 { font-size: 20px; color: #4a3f8a; margin-bottom: 6px; }
+.header .subtitle { font-size: 13px; color: #888; }
+.progress-bar {
+  width: 100%;
+  height: 8px;
+  background: #e8e4f0;
+  border-radius: 4px;
+  margin-top: 12px;
+  overflow: hidden;
+}
+.progress-fill {
+  height: 100%;
+  background: linear-gradient(90deg, #667eea, #764ba2);
+  border-radius: 4px;
+  transition: width 0.5s ease;
+}
+.progress-text { font-size: 12px; color: #999; margin-top: 6px; }
+
+/* Question Card */
+.card {
+  background: rgba(255,255,255,0.97);
+  border-radius: 16px;
+  padding: 24px 20px;
+  margin-bottom: 16px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+  transition: transform 0.3s ease, opacity 0.3s ease;
+}
+.card.slide-in { animation: slideIn 0.35s ease; }
+@keyframes slideIn {
+  from { transform: translateX(60px); opacity: 0; }
+  to { transform: translateX(0); opacity: 1; }
+}
+.q-tag {
+  display: inline-block;
+  font-size: 11px;
+  padding: 3px 10px;
+  border-radius: 20px;
+  color: #fff;
+  margin-bottom: 12px;
+  font-weight: 600;
+}
+.tag-vocabulary { background: #43b883; }
+.tag-grammar { background: #3b82f6; }
+.tag-cloze { background: #f59e0b; }
+.tag-reading { background: #ef4444; }
+.q-number { font-size: 14px; color: #999; margin-bottom: 8px; }
+.q-stem {
+  font-size: 16px;
+  line-height: 1.7;
+  margin-bottom: 18px;
+  white-space: pre-wrap;
+  word-break: break-word;
+}
+.q-stem .blank { 
+  display: inline-block;
+  min-width: 80px;
+  border-bottom: 2px solid #667eea;
+  margin: 0 2px;
+}
+.reading-passage {
+  background: #f8f7ff;
+  border-left: 3px solid #667eea;
+  padding: 14px 16px;
+  border-radius: 0 8px 8px 0;
+  margin-bottom: 16px;
+  font-size: 14px;
+  line-height: 1.8;
+  color: #444;
+  white-space: pre-wrap;
+  word-break: break-word;
+}
+
+/* Options */
+.options { display: flex; flex-direction: column; gap: 10px; }
+.option-btn {
+  display: flex;
+  align-items: center;
+  padding: 14px 16px;
+  border: 2px solid #e8e4f0;
+  border-radius: 12px;
+  background: #fff;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  font-size: 15px;
+  line-height: 1.5;
+  -webkit-tap-highlight-color: transparent;
+}
+.option-btn:active { transform: scale(0.98); }
+.option-btn:hover { border-color: #b8b0d8; background: #f8f7ff; }
+.option-btn.selected {
+  border-color: #667eea;
+  background: #eef0ff;
+  color: #4a3f8a;
+  font-weight: 600;
+}
+.option-btn.correct {
+  border-color: #43b883;
+  background: #edfff6;
+  color: #1a7f4b;
+}
+.option-btn.wrong {
+  border-color: #ef4444;
+  background: #fff0f0;
+  color: #c0392b;
+}
+.option-letter {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  background: #f0edf5;
+  font-weight: 700;
+  font-size: 14px;
+  margin-right: 12px;
+  flex-shrink: 0;
+  transition: all 0.2s;
+}
+.selected .option-letter { background: #667eea; color: #fff; }
+.correct .option-letter { background: #43b883; color: #fff; }
+.wrong .option-letter { background: #ef4444; color: #fff; }
+
+/* Next / Submit */
+.action-bar {
+  display: flex;
+  gap: 10px;
+  margin-top: 18px;
+}
+.btn {
+  flex: 1;
+  padding: 14px;
+  border: none;
+  border-radius: 12px;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s;
+  -webkit-tap-highlight-color: transparent;
+}
+.btn-primary {
+  background: linear-gradient(135deg, #667eea, #764ba2);
+  color: #fff;
+}
+.btn-primary:disabled { opacity: 0.4; cursor: not-allowed; }
+.btn-primary:not(:disabled):active { transform: scale(0.97); }
+.btn-secondary {
+  background: #f0edf5;
+  color: #666;
+}
+
+/* Explanation */
+.explanation {
+  margin-top: 14px;
+  padding: 14px 16px;
+  background: #fffbeb;
+  border-left: 3px solid #f59e0b;
+  border-radius: 0 10px 10px 0;
+  font-size: 14px;
+  line-height: 1.7;
+  color: #6b5900;
+  animation: fadeIn 0.3s ease;
+}
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* Result Page */
+.result-card {
+  background: rgba(255,255,255,0.97);
+  border-radius: 16px;
+  padding: 28px 20px;
+  text-align: center;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+}
+.result-score {
+  font-size: 56px;
+  font-weight: 800;
+  background: linear-gradient(135deg, #667eea, #764ba2);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin: 10px 0;
+}
+.result-label { font-size: 14px; color: #888; }
+.result-dots { margin: 16px 0; font-size: 20px; letter-spacing: 4px; }
+.result-msg { font-size: 15px; color: #555; margin: 12px 0 20px; line-height: 1.6; }
+.stat-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+  margin: 16px 0;
+}
+.stat-item {
+  background: #f8f7ff;
+  border-radius: 10px;
+  padding: 12px;
+}
+.stat-item .val { font-size: 22px; font-weight: 700; color: #4a3f8a; }
+.stat-item .lbl { font-size: 11px; color: #999; margin-top: 2px; }
+
+/* Answer string */
+.answer-string {
+  margin-top: 20px;
+  padding: 14px;
+  background: #f0edf5;
+  border-radius: 10px;
+}
+.answer-string .label { font-size: 12px; color: #888; margin-bottom: 6px; }
+.answer-string .code {
+  font-size: 20px;
+  font-weight: 700;
+  letter-spacing: 3px;
+  color: #4a3f8a;
+  font-family: 'Courier New', monospace;
+}
+
+/* Error review section */
+.error-section { margin-top: 16px; text-align: left; }
+.error-section h3 { font-size: 16px; color: #c0392b; margin-bottom: 12px; text-align: center; }
+.error-item {
+  background: #fff8f8;
+  border: 1px solid #ffe0e0;
+  border-radius: 10px;
+  padding: 14px;
+  margin-bottom: 10px;
+}
+.error-item .ei-head {
+  font-size: 14px;
+  font-weight: 600;
+  color: #c0392b;
+  margin-bottom: 8px;
+}
+.error-item .ei-stem { font-size: 13px; color: #555; margin-bottom: 6px; line-height: 1.6; white-space: pre-wrap; }
+.error-item .ei-answer { font-size: 13px; margin-bottom: 6px; }
+.error-item .ei-explain {
+  font-size: 13px;
+  line-height: 1.6;
+  color: #6b5900;
+  background: #fffbeb;
+  padding: 10px;
+  border-radius: 6px;
+}
+.hidden { display: none !important; }
+</style>
+</head>
+<body>
+<div class="container">
+  <!-- Header -->
+  <div class="header">
+    <h1>📝 Basco 今日英语练习</h1>
+    <div class="subtitle">第 1 天 · 2026年3月28日 · 沪教版八年级下</div>
+    <div class="progress-bar"><div class="progress-fill" id="progressFill" style="width:0%"></div></div>
+    <div class="progress-text" id="progressText">第 1 题 / 共 10 题</div>
+  </div>
+
+  <!-- Question Area -->
+  <div id="questionArea"></div>
+
+  <!-- Result Area -->
+  <div id="resultArea" class="hidden"></div>
+</div>
+
+<script>
+// Quiz data embedded
+var quizData = {
+  "date": "2026-03-28",
+  "session_number": 1,
+  "questions": [
+    {
+      "id": 1, "type": "vocabulary", "knowledge_point": "word_meaning", "difficulty": 1,
+      "stem": "The old man is very kind. He always _____ to help people in need.",
+      "options": ["A. offers", "B. refuses", "C. forgets", "D. fails"],
+      "correct_answer": "A",
+      "explanation": "offer to do sth. 意为"主动提出做某事"。句意：这位老人很善良，他总是主动帮助有需要的人。refuse 拒绝；forget 忘记；fail 失败。"
+    },
+    {
+      "id": 2, "type": "vocabulary", "knowledge_point": "phrase_collocation", "difficulty": 1,
+      "stem": "We should _____ the old and be polite to everyone.",
+      "options": ["A. look for", "B. look after", "C. look up", "D. look out"],
+      "correct_answer": "B",
+      "explanation": "look after 意为"照顾"，与句意"我们应该照顾老人"匹配。look for 寻找；look up 查阅；look out 小心。"
+    },
+    {
+      "id": 3, "type": "grammar", "knowledge_point": "present_perfect", "difficulty": 1,
+      "stem": "— How long have you _____ this bike?\n— For about two years.",
+      "options": ["A. bought", "B. had", "C. borrowed", "D. got"],
+      "correct_answer": "B",
+      "explanation": "how long 提问持续时间，需要延续性动词。buy 是非延续性动词，不能与 for 连用，其对应的延续性动词是 have（拥有）。buy → have, borrow → keep, join → be in/be a member of。"
+    },
+    {
+      "id": 4, "type": "grammar", "knowledge_point": "passive_voice", "difficulty": 2,
+      "stem": "The 2026 World Cup _____ in the USA, Canada and Mexico.",
+      "options": ["A. holds", "B. will hold", "C. will be held", "D. was held"],
+      "correct_answer": "C",
+      "explanation": "世界杯是"被举办的"，且 2026 年表示将来，用一般将来时的被动语态 will be held。主动变被动：主语（World Cup）是动作的承受者 → be + done。"
+    },
+    {
+      "id": 5, "type": "grammar", "knowledge_point": "object_clause", "difficulty": 2,
+      "stem": "Could you tell me _____?",
+      "options": ["A. where does he live", "B. where he lives", "C. where did he live", "D. where he does live"],
+      "correct_answer": "B",
+      "explanation": "宾语从句必须使用陈述语序（主语 + 谓语）。A 和 C 是疑问语序，D 多了助动词 does，只有 B 是正确的陈述语序 where he lives。"
+    },
+    {
+      "id": 6, "type": "cloze", "knowledge_point": "cloze_general", "difficulty": 2,
+      "stem": "Tom was a quiet boy who didn't have many friends at school. One day, a new student named Lily came to his class. She sat next to Tom and smiled at him. \"Hi, I'm Lily. Would you like to be my (6)___?\" Tom was (7)___ at first, but he nodded shyly. From that day on, they did everything together — they studied, played and even (8)___ books with each other.\n\n(6)",
+      "options": ["A. teacher", "B. friend", "C. parent", "D. doctor"],
+      "correct_answer": "B",
+      "explanation": "根据上下文，Lily 问 Tom 是否愿意做她的朋友（friend）。后文提到他们一起学习、玩耍，说明他们成了朋友。"
+    },
+    {
+      "id": 7, "type": "cloze", "knowledge_point": "cloze_general", "difficulty": 2,
+      "stem": "(续上文)\n(7)",
+      "options": ["A. angry", "B. bored", "C. surprised", "D. sad"],
+      "correct_answer": "C",
+      "explanation": "Tom 是一个安静的男孩，没有很多朋友。当 Lily 主动邀请他做朋友时，他一开始感到"惊讶"（surprised），然后害羞地点了点头。"
+    },
+    {
+      "id": 8, "type": "cloze", "knowledge_point": "cloze_general", "difficulty": 2,
+      "stem": "(续上文)\n(8)",
+      "options": ["A. shared", "B. threw", "C. lost", "D. sold"],
+      "correct_answer": "A",
+      "explanation": "share...with each other 意为"互相分享……"。他们互相分享书籍，符合朋友之间的行为。threw 扔；lost 丢失；sold 卖。"
+    },
+    {
+      "id": 9, "type": "reading", "knowledge_point": "main_idea", "difficulty": 2,
+      "stem": "9. What is the passage mainly about?",
+      "reading_passage": "Do you know that animals can communicate with each other? They don't use words like we do, but they have their own ways. For example, bees dance to tell other bees where to find food. Dogs wag their tails when they are happy. Dolphins make sounds to \"talk\" to each other underwater. Even ants leave a special smell on the ground so that other ants can follow the path to food.\n\nScientists have studied animal communication for many years. They have found that some animals can learn new ways to communicate. For example, some gorillas have been taught to use sign language. One famous gorilla named Koko could use more than 1,000 signs!",
+      "options": ["A. How bees find food.", "B. Why dogs wag their tails.", "C. How animals communicate.", "D. How scientists study gorillas."],
+      "correct_answer": "C",
+      "explanation": "文章第一段介绍了蜜蜂、狗、海豚、蚂蚁等不同动物的交流方式，第二段讲科学家研究动物交流。主旨是"动物如何交流"。做主旨大意题时，关注首段首句。"
+    },
+    {
+      "id": 10, "type": "reading", "knowledge_point": "detail", "difficulty": 2,
+      "stem": "(续上文)\n10. According to the passage, which of the following is TRUE?",
+      "options": ["A. Bees use sounds to communicate.", "B. Ants leave a smell to guide other ants.", "C. Dolphins dance to talk to each other.", "D. Koko could use more than 2,000 signs."],
+      "correct_answer": "B",
+      "explanation": "原文：\"ants leave a special smell on the ground so that other ants can follow the path to food\"，与 B 一致。A 错（蜜蜂是跳舞）；C 错（海豚是发声音）；D 错（Koko 是 1,000+ 不是 2,000）。"
+    }
+  ]
+};
+
+var currentQ = 0;
+var answers = new Array(quizData.questions.length).fill(null);
+var answered = new Array(quizData.questions.length).fill(false);
+var totalQ = quizData.questions.length;
+
+var typeLabels = { vocabulary: "词汇题", grammar: "语法题", cloze: "完形填空", reading: "阅读理解" };
+var tagClasses = { vocabulary: "tag-vocabulary", grammar: "tag-grammar", cloze: "tag-cloze", reading: "tag-reading" };
+
+function updateProgress() {
+  var done = answers.filter(function(a) { return a !== null; }).length;
+  document.getElementById("progressFill").style.width = (done / totalQ * 100) + "%";
+  document.getElementById("progressText").textContent = "第 " + (currentQ + 1) + " 题 / 共 " + totalQ + " 题　已答 " + done + " 题";
+}
+
+function renderQuestion() {
+  var q = quizData.questions[currentQ];
+  var area = document.getElementById("questionArea");
+  
+  var html = '<div class="card slide-in">';
+  html += '<span class="q-tag ' + (tagClasses[q.type] || "tag-grammar") + '">' + (typeLabels[q.type] || q.type) + '</span>';
+  html += '<div class="q-number">第 ' + q.id + ' 题</div>';
+  
+  // Reading passage (show for first reading question)
+  if (q.reading_passage) {
+    html += '<div class="reading-passage">' + escapeHtml(q.reading_passage) + '</div>';
+  }
+  
+  html += '<div class="q-stem">' + escapeHtml(q.stem) + '</div>';
+  html += '<div class="options">';
+  
+  var letters = ["A", "B", "C", "D"];
+  for (var i = 0; i < q.options.length; i++) {
+    var letter = letters[i];
+    var isSelected = answers[currentQ] === letter;
+    var cls = "option-btn" + (isSelected ? " selected" : "");
+    if (answered[currentQ]) {
+      if (letter === q.correct_answer) cls = "option-btn correct";
+      else if (isSelected && letter !== q.correct_answer) cls = "option-btn wrong";
+      else cls = "option-btn";
+    }
+    var optText = q.options[i].replace(/^[A-D]\.\s*/, "");
+    html += '<div class="' + cls + '" data-letter="' + letter + '" onclick="selectOption(\'' + letter + '\')">';
+    html += '<span class="option-letter">' + letter + '</span>';
+    html += '<span>' + escapeHtml(optText) + '</span>';
+    html += '</div>';
+  }
+  html += '</div>';
+  
+  // Show explanation if answered
+  if (answered[currentQ]) {
+    var icon = answers[currentQ] === q.correct_answer ? "✅" : "❌";
+    html += '<div class="explanation">' + icon + ' ' + escapeHtml(q.explanation) + '</div>';
+  }
+  
+  // Action bar
+  html += '<div class="action-bar">';
+  if (currentQ > 0) {
+    html += '<button class="btn btn-secondary" onclick="prevQuestion()">◀ 上一题</button>';
+  }
+  if (!answered[currentQ]) {
+    html += '<button class="btn btn-primary" id="confirmBtn" onclick="confirmAnswer()" ' + (answers[currentQ] === null ? 'disabled' : '') + '>确认答案</button>';
+  } else if (currentQ < totalQ - 1) {
+    html += '<button class="btn btn-primary" onclick="nextQuestion()">下一题 ▶</button>';
+  } else {
+    var allDone = answered.every(function(a) { return a; });
+    if (allDone) {
+      html += '<button class="btn btn-primary" onclick="showResult()">📊 查看成绩</button>';
+    } else {
+      html += '<button class="btn btn-primary" onclick="goToUnanswered()">继续答题 ▶</button>';
+    }
+  }
+  html += '</div>';
+  html += '</div>';
+  
+  area.innerHTML = html;
+  updateProgress();
+}
+
+function selectOption(letter) {
+  if (answered[currentQ]) return;
+  answers[currentQ] = letter;
+  renderQuestion();
+}
+
+function confirmAnswer() {
+  if (answers[currentQ] === null) return;
+  answered[currentQ] = true;
+  renderQuestion();
+  
+  // Auto-advance after 1.5s if not last question
+  var allDone = answered.every(function(a) { return a; });
+  if (!allDone && currentQ < totalQ - 1) {
+    setTimeout(function() { nextQuestion(); }, 1800);
+  }
+}
+
+function nextQuestion() {
+  if (currentQ < totalQ - 1) { currentQ++; renderQuestion(); }
+}
+
+function prevQuestion() {
+  if (currentQ > 0) { currentQ--; renderQuestion(); }
+}
+
+function goToUnanswered() {
+  for (var i = 0; i < totalQ; i++) {
+    if (!answered[i]) { currentQ = i; renderQuestion(); return; }
+  }
+}
+
+function showResult() {
+  document.getElementById("questionArea").classList.add("hidden");
+  var area = document.getElementById("resultArea");
+  area.classList.remove("hidden");
+  
+  var correct = 0;
+  var dots = "";
+  var errors = [];
+  var answerStr = "";
+  
+  for (var i = 0; i < totalQ; i++) {
+    var q = quizData.questions[i];
+    var isCorrect = answers[i] === q.correct_answer;
+    if (isCorrect) { correct++; dots += "✅"; } else { dots += "❌"; errors.push(i); }
+    answerStr += answers[i];
+  }
+  
+  var rate = Math.round(correct / totalQ * 100);
+  var emoji = rate >= 80 ? "🎉" : rate >= 60 ? "💪" : "📚";
+  var msg = rate >= 90 ? "太棒了！几乎全对！" : rate >= 80 ? "很不错！继续保持！" : rate >= 60 ? "还可以，错题要好好看讲解哦！" : "别灰心，把错题弄懂就是进步！";
+  
+  var html = '<div class="result-card">';
+  html += '<div class="result-label">今日成绩</div>';
+  html += '<div class="result-score">' + correct + '/' + totalQ + '</div>';
+  html += '<div class="result-dots">' + dots + '</div>';
+  html += '<div class="result-msg">' + emoji + ' ' + msg + '</div>';
+  
+  html += '<div class="stat-grid">';
+  html += '<div class="stat-item"><div class="val">' + rate + '%</div><div class="lbl">正确率</div></div>';
+  html += '<div class="stat-item"><div class="val">' + errors.length + '</div><div class="lbl">错题数</div></div>';
+  html += '</div>';
+  
+  html += '<div class="answer-string">';
+  html += '<div class="label">你的答案（可复制发给老师）</div>';
+  html += '<div class="code">' + answerStr + '</div>';
+  html += '</div>';
+  
+  // Error review
+  if (errors.length > 0) {
+    html += '<div class="error-section"><h3>❌ 错题详解</h3>';
+    for (var j = 0; j < errors.length; j++) {
+      var idx = errors[j];
+      var q = quizData.questions[idx];
+      html += '<div class="error-item">';
+      html += '<div class="ei-head">第 ' + q.id + ' 题 · ' + (typeLabels[q.type] || q.type) + '</div>';
+      var stemPreview = q.stem.length > 80 ? q.stem.substring(0, 80) + "..." : q.stem;
+      html += '<div class="ei-stem">' + escapeHtml(stemPreview) + '</div>';
+      html += '<div class="ei-answer">你的答案：<span style="color:#c0392b;font-weight:600">' + answers[idx] + '</span>　正确答案：<span style="color:#1a7f4b;font-weight:600">' + q.correct_answer + '</span></div>';
+      html += '<div class="ei-explain">📖 ' + escapeHtml(q.explanation) + '</div>';
+      html += '</div>';
+    }
+    html += '</div>';
+  }
+  
+  html += '<div class="action-bar" style="margin-top:20px">';
+  html += '<button class="btn btn-secondary" onclick="reviewAll()">📋 逐题回顾</button>';
+  html += '<button class="btn btn-primary" onclick="copyAnswers(\'' + answerStr + '\')">📋 复制答案</button>';
+  html += '</div>';
+  
+  html += '</div>';
+  area.innerHTML = html;
+}
+
+function reviewAll() {
+  document.getElementById("resultArea").classList.add("hidden");
+  document.getElementById("questionArea").classList.remove("hidden");
+  currentQ = 0;
+  renderQuestion();
+}
+
+function copyAnswers(str) {
+  if (navigator.clipboard) {
+    navigator.clipboard.writeText(str).then(function() { alert("答案已复制：" + str); });
+  } else {
+    prompt("请复制以下答案：", str);
+  }
+}
+
+function escapeHtml(text) {
+  var div = document.createElement('div');
+  div.textContent = text;
+  return div.innerHTML.replace(/\n/g, '<br>');
+}
+
+// Init
+renderQuestion();
+</script>
+</body>
+</html>
