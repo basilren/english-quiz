@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="0">
+<title>Basco 错题本</title>
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  background: linear-gradient(135deg, #e74c3c 0%, #c0392b 100%);
+  min-height: 100vh; padding: 12px; color: #333;
+}
+.container { max-width: 600px; margin: 0 auto; }
+.header {
+  background: rgba(255,255,255,0.95); border-radius: 16px;
+  padding: 16px 20px; text-align: center; margin-bottom: 12px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+}
+.header h1 { font-size: 20px; color: #c0392b; margin-bottom: 4px; }
+.header .subtitle { font-size: 12px; color: #888; }
+.summary {
+  display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 8px; margin-top: 12px;
+}
+.summary-item { background: #fff5f5; border-radius: 10px; padding: 10px; text-align: center; }
+.summary-item .val { font-size: 22px; font-weight: 800; color: #c0392b; }
+.summary-item .lbl { font-size: 11px; color: #999; margin-top: 2px; }
+
+.card {
+  background: rgba(255,255,255,0.97); border-radius: 16px;
+  padding: 18px 16px; margin-bottom: 12px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+  animation: fadeIn 0.3s ease;
+}
+@keyframes fadeIn { from{opacity:0;transform:translateY(8px)} to{opacity:1;transform:translateY(0)} }
+
+.error-tag {
+  display: inline-block; font-size: 11px; padding: 3px 10px;
+  border-radius: 20px; color: #fff; margin-right: 6px; margin-bottom: 8px; font-weight: 600;
+}
+.tag-grammar { background: #3b82f6; }
+.tag-cloze { background: #f59e0b; }
+.tag-reading { background: #ef4444; }
+.tag-vocabulary { background: #43b883; }
+
+.error-source { font-size: 11px; color: #aaa; margin-bottom: 8px; }
+.error-stem {
+  font-size: 14px; line-height: 1.6; margin-bottom: 12px;
+  white-space: pre-wrap; word-break: break-word; color: #333;
+}
+.options-review { display: flex; flex-direction: column; gap: 6px; margin-bottom: 12px; }
+.opt-item {
+  padding: 10px 12px; border-radius: 10px; font-size: 13px; line-height: 1.4;
+  border: 2px solid #f0edf5; background: #fafafa;
+}
+.opt-item.correct { border-color: #43b883; background: #edfff6; color: #1a7f4b; font-weight: 600; }
+.opt-item.wrong { border-color: #ef4444; background: #fff0f0; color: #c0392b; text-decoration: line-through; opacity: 0.7; }
+.opt-item.dim { opacity: 0.5; }
+
+.answer-bar {
+  display: flex; gap: 12px; font-size: 13px; margin-bottom: 10px;
+}
+.answer-bar .wrong-ans { color: #c0392b; font-weight: 600; }
+.answer-bar .correct-ans { color: #1a7f4b; font-weight: 600; }
+
+.explanation {
+  padding: 12px 14px; background: #fffbeb;
+  border-left: 3px solid #f59e0b; border-radius: 0 10px 10px 0;
+  font-size: 13px; line-height: 1.7; color: #6b5900;
+}
+.tip {
+  margin-top: 10px; padding: 10px 12px; background: #f0f7ff;
+  border-left: 3px solid #3b82f6; border-radius: 0 10px 10px 0;
+  font-size: 12px; line-height: 1.6; color: #1e40af;
+}
+
+.weakness-section {
+  background: rgba(255,255,255,0.97); border-radius: 16px;
+  padding: 18px 16px; margin-bottom: 12px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+}
+.weakness-section h3 { font-size: 15px; color: #c0392b; margin-bottom: 12px; text-align: center; }
+.weakness-row {
+  display: flex; justify-content: space-between; align-items: center;
+  padding: 8px 0; border-bottom: 1px dashed #f0edf5;
+}
+.weakness-row:last-child { border-bottom: none; }
+.weakness-name { font-size: 13px; color: #555; }
+.weakness-count { font-size: 13px; font-weight: 700; }
+.weakness-count.red { color: #c0392b; }
+.weakness-count.yellow { color: #f59e0b; }
+
+.footer { text-align: center; padding: 16px; color: rgba(255,255,255,0.7); font-size: 12px; }
+.quiz-link {
+  display: block; text-align: center; padding: 14px;
+  background: linear-gradient(135deg, #667eea, #764ba2);
+  color: #fff; border-radius: 12px; font-size: 15px; font-weight: 600;
+  text-decoration: none; margin-bottom: 12px;
+}
+.quiz-link:active { transform: scale(0.97); }
+</style>
+</head>
+<body>
+<div class="container">
+  <div class="header">
+    <h1>📒 Basco 错题本</h1>
+    <div class="subtitle">更新于 2026年3月28日</div>
+    <div class="summary">
+      <div class="summary-item"><div class="val">5</div><div class="lbl">错题总数</div></div>
+      <div class="summary-item"><div class="val">4</div><div class="lbl">涉及知识点</div></div>
+      <div class="summary-item"><div class="val">75%</div><div class="lbl">总正确率</div></div>
+    </div>
+  </div>
+
+  <!-- Error 1 -->
+  <div class="card">
+    <span class="error-tag tag-grammar">语法题</span>
+    <div class="error-source">第1组 · 第3题 · 现在完成时</div>
+    <div class="error-stem">— How long have you _____ this bike?
+— For about two years.</div>
+    <div class="options-review">
+      <div class="opt-item dim">A. bought</div>
+      <div class="opt-item correct">B. had ✅ 正确答案</div>
+      <div class="opt-item dim">C. borrowed</div>
+      <div class="opt-item dim">D. got</div>
+    </div>
+    <div class="explanation">
+      📖 how long 提问持续时间，需要延续性动词。buy 是非延续性动词（瞬间动作），不能与 for/since 连用。要把它转换成延续性动词：<br><br>
+      <b>常考转换：</b><br>
+      buy → <b>have</b>（拥有）<br>
+      borrow → <b>keep</b><br>
+      join → <b>be in / be a member of</b><br>
+      die → <b>be dead</b><br><br>
+      ✏️ 例句：I have <b>had</b> this book for three months.
+    </div>
+    <div class="tip">💡 <b>记忆口诀</b>：how long 问多久，延续动词不能丢。买变有(buy→have)，借变保(borrow→keep)。</div>
+  </div>
+
+  <!-- Error 2 -->
+  <div class="card">
+    <span class="error-tag tag-cloze">完形填空</span>
+    <div class="error-source">第1组 · 第7题 · 情感词辨析</div>
+    <div class="error-stem">Tom was a quiet boy who didn't have many friends. She said "Would you like to be my friend?" Tom was (7)___ at first, but he nodded shyly.</div>
+    <div class="options-review">
+      <div class="opt-item dim">A. angry</div>
+      <div class="opt-item dim">B. bored</div>
+      <div class="opt-item correct">C. surprised ✅ 正确答案</div>
+      <div class="opt-item dim">D. sad</div>
+    </div>
+    <div class="explanation">
+      📖 Tom 没有很多朋友，Lily 突然邀请他做朋友，他一开始感到 'surprised'（惊讶），然后害羞地点头。要根据<b>人物性格</b>和<b>上下文情境</b>来推断情感词。
+    </div>
+    <div class="tip">💡 <b>完形技巧</b>：做情感题时，先看人物背景（quiet, didn't have many friends），再看转折（but he nodded），从而推断合理的情感。</div>
+  </div>
+
+  <!-- Error 3 -->
+  <div class="card">
+    <span class="error-tag tag-reading">阅读理解</span>
+    <div class="error-source">第1组 · 第10题 · 细节理解</div>
+    <div class="error-stem">According to the passage, which of the following is TRUE?</div>
+    <div class="options-review">
+      <div class="opt-item wrong">A. Bees use sounds to communicate. ❌ 蜜蜂是跳舞</div>
+      <div class="opt-item correct">B. Ants leave a smell to guide other ants. ✅</div>
+      <div class="opt-item wrong">C. Dolphins dance to talk to each other. ❌ 海豚是发声</div>
+      <div class="opt-item wrong">D. Koko could use more than 2,000 signs. ❌ 是1,000+</div>
+    </div>
+    <div class="explanation">
+      📖 原文："ants leave a special smell on the ground so that other ants can follow the path to food"，与 B 完全一致。其他选项都有细节篡改。
+    </div>
+    <div class="tip">💡 <b>细节题口诀</b>：回原文、找原句、逐词比对选项。注意数字、动作是否被替换。</div>
+  </div>
+
+  <!-- Error 4 -->
+  <div class="card">
+    <span class="error-tag tag-grammar">语法题</span>
+    <div class="error-source">第2组 · 第5题 · 宾语从句</div>
+    <div class="error-stem">Could you tell me _____?</div>
+    <div class="options-review">
+      <div class="opt-item wrong">A. where does he live ❌ 疑问语序</div>
+      <div class="opt-item correct">B. where he lives ✅ 陈述语序</div>
+      <div class="opt-item wrong">C. where did he live ❌ 疑问语序</div>
+      <div class="opt-item wrong">D. where he does live ❌ 多余助动词</div>
+    </div>
+    <div class="explanation">
+      📖 宾语从句必须用<b>陈述语序</b>（主语 + 谓语），不能用疑问语序。<br><br>
+      <b>宾语从句三要素：</b><br>
+      ① 连接词（where/what/if/whether...）<br>
+      ② 陈述语序（主语在前，谓语在后）<br>
+      ③ 时态一致（主句现在时，从句可灵活）
+    </div>
+    <div class="tip">💡 <b>判断方法</b>：看到 tell me / know / wonder 后面跟从句，先检查语序是不是"主+谓"。如果像问句一样倒装就是错的。</div>
+  </div>
+
+  <!-- Error 5 -->
+  <div class="card">
+    <span class="error-tag tag-reading">阅读理解</span>
+    <div class="error-source">第2组 · 第9题 · 主旨大意</div>
+    <div class="error-stem">What is the passage mainly about?
+(文章讲述蜜蜂跳舞、狗摇尾巴、海豚发声、蚂蚁留气味等动物交流方式)</div>
+    <div class="options-review">
+      <div class="opt-item dim">A. How bees find food.</div>
+      <div class="opt-item dim">B. Why dogs wag their tails.</div>
+      <div class="opt-item correct">C. How animals communicate. ✅</div>
+      <div class="opt-item dim">D. How scientists study gorillas.</div>
+    </div>
+    <div class="explanation">
+      📖 文章首句 "animals can communicate with each other" 就是中心句，后面蜜蜂、狗、海豚、蚂蚁都是例子。A/B/D 都只提到了文章的某一个细节，以偏概全。
+    </div>
+    <div class="tip">💡 <b>主旨大意题技巧</b>：① 看首段首句（topic sentence）② 看每段关键词的共同点 ③ 排除"以偏概全"的选项</div>
+  </div>
+
+  <!-- Weakness Summary -->
+  <div class="weakness-section">
+    <h3>📊 错题知识点分布</h3>
+    <div class="weakness-row">
+      <span class="weakness-name">🔴 现在完成时</span>
+      <span class="weakness-count red">1题 · 正确率50%</span>
+    </div>
+    <div class="weakness-row">
+      <span class="weakness-name">🔴 宾语从句</span>
+      <span class="weakness-count red">1题 · 正确率50%</span>
+    </div>
+    <div class="weakness-row">
+      <span class="weakness-name">🔴 阅读-主旨大意</span>
+      <span class="weakness-count red">1题 · 正确率50%</span>
+    </div>
+    <div class="weakness-row">
+      <span class="weakness-name">🔴 阅读-细节理解</span>
+      <span class="weakness-count red">1题 · 正确率50%</span>
+    </div>
+    <div class="weakness-row">
+      <span class="weakness-name">🟡 完形填空</span>
+      <span class="weakness-count yellow">1题 · 正确率83%</span>
+    </div>
+  </div>
+
+  <a class="quiz-link" href="/english-quiz/?v=3">📝 去做第3组弱项强化题 →</a>
+
+  <div class="footer">Basco English Tutor · 错题本会随练习自动更新</div>
+</div>
+</body>
+</html>
