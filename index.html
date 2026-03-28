@@ -13,10 +13,8 @@ body {
   padding: 16px;
   color: #333;
 }
-.container {
-  max-width: 600px;
-  margin: 0 auto;
-}
+.container { max-width: 600px; margin: 0 auto; }
+
 /* Header */
 .header {
   background: rgba(255,255,255,0.95);
@@ -29,18 +27,12 @@ body {
 .header h1 { font-size: 20px; color: #4a3f8a; margin-bottom: 6px; }
 .header .subtitle { font-size: 13px; color: #888; }
 .progress-bar {
-  width: 100%;
-  height: 8px;
-  background: #e8e4f0;
-  border-radius: 4px;
-  margin-top: 12px;
-  overflow: hidden;
+  width: 100%; height: 8px; background: #e8e4f0;
+  border-radius: 4px; margin-top: 12px; overflow: hidden;
 }
 .progress-fill {
-  height: 100%;
-  background: linear-gradient(90deg, #667eea, #764ba2);
-  border-radius: 4px;
-  transition: width 0.5s ease;
+  height: 100%; background: linear-gradient(90deg, #667eea, #764ba2);
+  border-radius: 4px; transition: width 0.5s ease;
 }
 .progress-text { font-size: 12px; color: #999; margin-top: 6px; }
 
@@ -51,7 +43,6 @@ body {
   padding: 24px 20px;
   margin-bottom: 16px;
   box-shadow: 0 4px 20px rgba(0,0,0,0.1);
-  transition: transform 0.3s ease, opacity 0.3s ease;
 }
 .card.slide-in { animation: slideIn 0.35s ease; }
 @keyframes slideIn {
@@ -59,13 +50,8 @@ body {
   to { transform: translateX(0); opacity: 1; }
 }
 .q-tag {
-  display: inline-block;
-  font-size: 11px;
-  padding: 3px 10px;
-  border-radius: 20px;
-  color: #fff;
-  margin-bottom: 12px;
-  font-weight: 600;
+  display: inline-block; font-size: 11px; padding: 3px 10px;
+  border-radius: 20px; color: #fff; margin-bottom: 12px; font-weight: 600;
 }
 .tag-vocabulary { background: #43b883; }
 .tag-grammar { background: #3b82f6; }
@@ -73,120 +59,64 @@ body {
 .tag-reading { background: #ef4444; }
 .q-number { font-size: 14px; color: #999; margin-bottom: 8px; }
 .q-stem {
-  font-size: 16px;
-  line-height: 1.7;
-  margin-bottom: 18px;
-  white-space: pre-wrap;
-  word-break: break-word;
-}
-.q-stem .blank { 
-  display: inline-block;
-  min-width: 80px;
-  border-bottom: 2px solid #667eea;
-  margin: 0 2px;
+  font-size: 16px; line-height: 1.7; margin-bottom: 18px;
+  white-space: pre-wrap; word-break: break-word;
 }
 .reading-passage {
-  background: #f8f7ff;
-  border-left: 3px solid #667eea;
-  padding: 14px 16px;
-  border-radius: 0 8px 8px 0;
-  margin-bottom: 16px;
-  font-size: 14px;
-  line-height: 1.8;
-  color: #444;
-  white-space: pre-wrap;
-  word-break: break-word;
+  background: #f8f7ff; border-left: 3px solid #667eea;
+  padding: 14px 16px; border-radius: 0 8px 8px 0;
+  margin-bottom: 16px; font-size: 14px; line-height: 1.8;
+  color: #444; white-space: pre-wrap; word-break: break-word;
 }
+
+/* Sub-question inside group */
+.sub-question { margin-bottom: 20px; padding-bottom: 16px; border-bottom: 1px dashed #e8e4f0; }
+.sub-question:last-child { border-bottom: none; margin-bottom: 0; padding-bottom: 0; }
+.sub-q-label { font-size: 14px; font-weight: 600; color: #4a3f8a; margin-bottom: 10px; }
 
 /* Options */
 .options { display: flex; flex-direction: column; gap: 10px; }
 .option-btn {
-  display: flex;
-  align-items: center;
-  padding: 14px 16px;
-  border: 2px solid #e8e4f0;
-  border-radius: 12px;
-  background: #fff;
-  cursor: pointer;
-  transition: all 0.2s ease;
-  font-size: 15px;
-  line-height: 1.5;
-  -webkit-tap-highlight-color: transparent;
+  display: flex; align-items: center; padding: 14px 16px;
+  border: 2px solid #e8e4f0; border-radius: 12px; background: #fff;
+  cursor: pointer; transition: all 0.2s ease; font-size: 15px;
+  line-height: 1.5; -webkit-tap-highlight-color: transparent;
 }
 .option-btn:active { transform: scale(0.98); }
 .option-btn:hover { border-color: #b8b0d8; background: #f8f7ff; }
-.option-btn.selected {
-  border-color: #667eea;
-  background: #eef0ff;
-  color: #4a3f8a;
-  font-weight: 600;
-}
-.option-btn.correct {
-  border-color: #43b883;
-  background: #edfff6;
-  color: #1a7f4b;
-}
-.option-btn.wrong {
-  border-color: #ef4444;
-  background: #fff0f0;
-  color: #c0392b;
-}
+.option-btn.selected { border-color: #667eea; background: #eef0ff; color: #4a3f8a; font-weight: 600; }
+.option-btn.correct { border-color: #43b883; background: #edfff6; color: #1a7f4b; }
+.option-btn.wrong { border-color: #ef4444; background: #fff0f0; color: #c0392b; }
+.option-btn.disabled { pointer-events: none; opacity: 0.7; }
 .option-letter {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  width: 28px;
-  height: 28px;
-  border-radius: 50%;
-  background: #f0edf5;
-  font-weight: 700;
-  font-size: 14px;
-  margin-right: 12px;
-  flex-shrink: 0;
+  display: inline-flex; align-items: center; justify-content: center;
+  width: 28px; height: 28px; border-radius: 50%; background: #f0edf5;
+  font-weight: 700; font-size: 14px; margin-right: 12px; flex-shrink: 0;
   transition: all 0.2s;
 }
 .selected .option-letter { background: #667eea; color: #fff; }
 .correct .option-letter { background: #43b883; color: #fff; }
 .wrong .option-letter { background: #ef4444; color: #fff; }
 
-/* Next / Submit */
-.action-bar {
-  display: flex;
-  gap: 10px;
-  margin-top: 18px;
-}
+/* Navigation */
+.nav-bar { display: flex; gap: 10px; margin-top: 18px; }
 .btn {
-  flex: 1;
-  padding: 14px;
-  border: none;
-  border-radius: 12px;
-  font-size: 16px;
-  font-weight: 600;
-  cursor: pointer;
-  transition: all 0.2s;
+  flex: 1; padding: 14px; border: none; border-radius: 12px;
+  font-size: 16px; font-weight: 600; cursor: pointer; transition: all 0.2s;
   -webkit-tap-highlight-color: transparent;
 }
-.btn-primary {
-  background: linear-gradient(135deg, #667eea, #764ba2);
-  color: #fff;
-}
+.btn-primary { background: linear-gradient(135deg, #667eea, #764ba2); color: #fff; }
 .btn-primary:disabled { opacity: 0.4; cursor: not-allowed; }
 .btn-primary:not(:disabled):active { transform: scale(0.97); }
-.btn-secondary {
-  background: #f0edf5;
-  color: #666;
-}
+.btn-secondary { background: #f0edf5; color: #666; }
+.btn-submit { background: linear-gradient(135deg, #43b883, #2d8f6f); color: #fff; }
+.btn-submit:active { transform: scale(0.97); }
 
 /* Explanation */
 .explanation {
-  margin-top: 14px;
-  padding: 14px 16px;
-  background: #fffbeb;
-  border-left: 3px solid #f59e0b;
-  border-radius: 0 10px 10px 0;
-  font-size: 14px;
-  line-height: 1.7;
-  color: #6b5900;
+  margin-top: 14px; padding: 14px 16px; background: #fffbeb;
+  border-left: 3px solid #f59e0b; border-radius: 0 10px 10px 0;
+  font-size: 14px; line-height: 1.7; color: #6b5900;
   animation: fadeIn 0.3s ease;
 }
 @keyframes fadeIn {
@@ -196,101 +126,75 @@ body {
 
 /* Result Page */
 .result-card {
-  background: rgba(255,255,255,0.97);
-  border-radius: 16px;
-  padding: 28px 20px;
-  text-align: center;
-  box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+  background: rgba(255,255,255,0.97); border-radius: 16px;
+  padding: 28px 20px; text-align: center; box-shadow: 0 4px 20px rgba(0,0,0,0.1);
 }
 .result-score {
-  font-size: 56px;
-  font-weight: 800;
+  font-size: 56px; font-weight: 800;
   background: linear-gradient(135deg, #667eea, #764ba2);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text; -webkit-text-fill-color: transparent;
   margin: 10px 0;
 }
 .result-label { font-size: 14px; color: #888; }
 .result-dots { margin: 16px 0; font-size: 20px; letter-spacing: 4px; }
 .result-msg { font-size: 15px; color: #555; margin: 12px 0 20px; line-height: 1.6; }
-.stat-grid {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 10px;
-  margin: 16px 0;
-}
-.stat-item {
-  background: #f8f7ff;
-  border-radius: 10px;
-  padding: 12px;
-}
+.stat-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin: 16px 0; }
+.stat-item { background: #f8f7ff; border-radius: 10px; padding: 12px; }
 .stat-item .val { font-size: 22px; font-weight: 700; color: #4a3f8a; }
 .stat-item .lbl { font-size: 11px; color: #999; margin-top: 2px; }
-
-/* Answer string */
-.answer-string {
-  margin-top: 20px;
-  padding: 14px;
-  background: #f0edf5;
-  border-radius: 10px;
-}
+.answer-string { margin-top: 20px; padding: 14px; background: #f0edf5; border-radius: 10px; }
 .answer-string .label { font-size: 12px; color: #888; margin-bottom: 6px; }
 .answer-string .code {
-  font-size: 20px;
-  font-weight: 700;
-  letter-spacing: 3px;
-  color: #4a3f8a;
-  font-family: 'Courier New', monospace;
+  font-size: 20px; font-weight: 700; letter-spacing: 3px;
+  color: #4a3f8a; font-family: 'Courier New', monospace;
 }
 
-/* Error review section */
+/* Error review */
 .error-section { margin-top: 16px; text-align: left; }
 .error-section h3 { font-size: 16px; color: #c0392b; margin-bottom: 12px; text-align: center; }
 .error-item {
-  background: #fff8f8;
-  border: 1px solid #ffe0e0;
-  border-radius: 10px;
-  padding: 14px;
-  margin-bottom: 10px;
+  background: #fff8f8; border: 1px solid #ffe0e0; border-radius: 10px;
+  padding: 14px; margin-bottom: 10px;
 }
-.error-item .ei-head {
-  font-size: 14px;
-  font-weight: 600;
-  color: #c0392b;
-  margin-bottom: 8px;
-}
+.error-item .ei-head { font-size: 14px; font-weight: 600; color: #c0392b; margin-bottom: 8px; }
 .error-item .ei-stem { font-size: 13px; color: #555; margin-bottom: 6px; line-height: 1.6; white-space: pre-wrap; }
 .error-item .ei-answer { font-size: 13px; margin-bottom: 6px; }
 .error-item .ei-explain {
-  font-size: 13px;
-  line-height: 1.6;
-  color: #6b5900;
-  background: #fffbeb;
-  padding: 10px;
-  border-radius: 6px;
+  font-size: 13px; line-height: 1.6; color: #6b5900;
+  background: #fffbeb; padding: 10px; border-radius: 6px;
 }
+
+/* Status badge */
+.status-badge {
+  display: inline-block; font-size: 11px; padding: 2px 8px;
+  border-radius: 10px; margin-left: 8px;
+}
+.badge-done { background: #edfff6; color: #1a7f4b; }
+.badge-pending { background: #fff0f0; color: #c0392b; }
+
+/* Submitted overlay */
+.submitted-notice {
+  text-align: center; padding: 16px; background: #edfff6;
+  border-radius: 12px; margin-top: 16px; color: #1a7f4b; font-weight: 600;
+}
+
 .hidden { display: none !important; }
 </style>
 </head>
 <body>
 <div class="container">
-  <!-- Header -->
   <div class="header">
     <h1>📝 Basco 今日英语练习</h1>
     <div class="subtitle">第 1 天 · 2026年3月28日 · 沪教版八年级下</div>
     <div class="progress-bar"><div class="progress-fill" id="progressFill" style="width:0%"></div></div>
     <div class="progress-text" id="progressText">第 1 题 / 共 10 题</div>
   </div>
-
-  <!-- Question Area -->
   <div id="questionArea"></div>
-
-  <!-- Result Area -->
   <div id="resultArea" class="hidden"></div>
 </div>
 
 <script>
-// Quiz data embedded
+// NOTE: All strings must use escaped quotes. NEVER use Chinese quotes.
 var quizData = {
   "date": "2026-03-28",
   "session_number": 1,
@@ -314,214 +218,335 @@ var quizData = {
       "stem": "— How long have you _____ this bike?\n— For about two years.",
       "options": ["A. bought", "B. had", "C. borrowed", "D. got"],
       "correct_answer": "B",
-      "explanation": "how long 提问持续时间，需要延续性动词。buy 是非延续性动词，不能与 for 连用，其对应的延续性动词是 have（拥有）。buy → have, borrow → keep, join → be in/be a member of。"
+      "explanation": "how long 提问持续时间，需要延续性动词。buy 是非延续性动词，不能与 for 连用，其对应的延续性动词是 have（拥有）。buy -> have, borrow -> keep。"
     },
     {
       "id": 4, "type": "grammar", "knowledge_point": "passive_voice", "difficulty": 2,
       "stem": "The 2026 World Cup _____ in the USA, Canada and Mexico.",
       "options": ["A. holds", "B. will hold", "C. will be held", "D. was held"],
       "correct_answer": "C",
-      "explanation": "世界杯是'被举办的'，且 2026 年表示将来，用一般将来时的被动语态 will be held。主动变被动：主语（World Cup）是动作的承受者 → be + done。"
+      "explanation": "世界杯是'被举办的'，且 2026 年表示将来，用一般将来时的被动语态 will be held。"
     },
     {
       "id": 5, "type": "grammar", "knowledge_point": "object_clause", "difficulty": 2,
       "stem": "Could you tell me _____?",
       "options": ["A. where does he live", "B. where he lives", "C. where did he live", "D. where he does live"],
       "correct_answer": "B",
-      "explanation": "宾语从句必须使用陈述语序（主语 + 谓语）。A 和 C 是疑问语序，D 多了助动词 does，只有 B 是正确的陈述语序 where he lives。"
+      "explanation": "宾语从句必须使用陈述语序（主语 + 谓语）。A 和 C 是疑问语序，D 多了助动词 does，只有 B 是正确的陈述语序。"
     },
     {
       "id": 6, "type": "cloze", "knowledge_point": "cloze_general", "difficulty": 2,
-      "stem": "Tom was a quiet boy who didn't have many friends at school. One day, a new student named Lily came to his class. She sat next to Tom and smiled at him. \"Hi, I'm Lily. Would you like to be my (6)___?\" Tom was (7)___ at first, but he nodded shyly. From that day on, they did everything together — they studied, played and even (8)___ books with each other.\n\n(6)",
+      "group": "cloze_1",
+      "group_passage": "Tom was a quiet boy who didn't have many friends at school. One day, a new student named Lily came to his class. She sat next to Tom and smiled at him. \"Hi, I'm Lily. Would you like to be my (6)___?\" Tom was (7)___ at first, but he nodded shyly. From that day on, they did everything together — they studied, played and even (8)___ books with each other.",
+      "stem": "(6)",
       "options": ["A. teacher", "B. friend", "C. parent", "D. doctor"],
       "correct_answer": "B",
-      "explanation": "根据上下文，Lily 问 Tom 是否愿意做她的朋友（friend）。后文提到他们一起学习、玩耍，说明他们成了朋友。"
+      "explanation": "根据上下文，Lily 问 Tom 是否愿意做她的朋友（friend）。后文提到他们一起学习、玩耍。"
     },
     {
       "id": 7, "type": "cloze", "knowledge_point": "cloze_general", "difficulty": 2,
-      "stem": "(续上文)\n(7)",
+      "group": "cloze_1",
+      "stem": "(7)",
       "options": ["A. angry", "B. bored", "C. surprised", "D. sad"],
       "correct_answer": "C",
-      "explanation": "Tom 是一个安静的男孩，没有很多朋友。当 Lily 主动邀请他做朋友时，他一开始感到'惊讶'（surprised），然后害羞地点了点头。"
+      "explanation": "Tom 没有很多朋友，当 Lily 主动邀请他时，他一开始感到'惊讶'（surprised），然后害羞地点了点头。"
     },
     {
       "id": 8, "type": "cloze", "knowledge_point": "cloze_general", "difficulty": 2,
-      "stem": "(续上文)\n(8)",
+      "group": "cloze_1",
+      "stem": "(8)",
       "options": ["A. shared", "B. threw", "C. lost", "D. sold"],
       "correct_answer": "A",
-      "explanation": "share...with each other 意为'互相分享……'。他们互相分享书籍，符合朋友之间的行为。threw 扔；lost 丢失；sold 卖。"
+      "explanation": "share...with each other 意为'互相分享'。他们互相分享书籍，符合朋友之间的行为。"
     },
     {
       "id": 9, "type": "reading", "knowledge_point": "main_idea", "difficulty": 2,
+      "group": "reading_1",
+      "group_passage": "Do you know that animals can communicate with each other? They don't use words like we do, but they have their own ways. For example, bees dance to tell other bees where to find food. Dogs wag their tails when they are happy. Dolphins make sounds to talk to each other underwater. Even ants leave a special smell on the ground so that other ants can follow the path to food.\n\nScientists have studied animal communication for many years. They have found that some animals can learn new ways to communicate. For example, some gorillas have been taught to use sign language. One famous gorilla named Koko could use more than 1,000 signs!",
       "stem": "9. What is the passage mainly about?",
-      "reading_passage": "Do you know that animals can communicate with each other? They don't use words like we do, but they have their own ways. For example, bees dance to tell other bees where to find food. Dogs wag their tails when they are happy. Dolphins make sounds to \"talk\" to each other underwater. Even ants leave a special smell on the ground so that other ants can follow the path to food.\n\nScientists have studied animal communication for many years. They have found that some animals can learn new ways to communicate. For example, some gorillas have been taught to use sign language. One famous gorilla named Koko could use more than 1,000 signs!",
       "options": ["A. How bees find food.", "B. Why dogs wag their tails.", "C. How animals communicate.", "D. How scientists study gorillas."],
       "correct_answer": "C",
-      "explanation": "文章第一段介绍了蜜蜂、狗、海豚、蚂蚁等不同动物的交流方式，第二段讲科学家研究动物交流。主旨是'动物如何交流'。做主旨大意题时，关注首段首句。"
+      "explanation": "文章介绍了蜜蜂、狗、海豚、蚂蚁等动物的交流方式，主旨是'动物如何交流'。做主旨大意题时，关注首段首句。"
     },
     {
       "id": 10, "type": "reading", "knowledge_point": "detail", "difficulty": 2,
-      "stem": "(续上文)\n10. According to the passage, which of the following is TRUE?",
+      "group": "reading_1",
+      "stem": "10. According to the passage, which of the following is TRUE?",
       "options": ["A. Bees use sounds to communicate.", "B. Ants leave a smell to guide other ants.", "C. Dolphins dance to talk to each other.", "D. Koko could use more than 2,000 signs."],
       "correct_answer": "B",
-      "explanation": "原文：\"ants leave a special smell on the ground so that other ants can follow the path to food\"，与 B 一致。A 错（蜜蜂是跳舞）；C 错（海豚是发声音）；D 错（Koko 是 1,000+ 不是 2,000）。"
+      "explanation": "原文：ants leave a special smell on the ground so that other ants can follow the path to food，与 B 一致。A 错（蜜蜂是跳舞）；C 错（海豚是发声音）；D 错（是 1,000+ 不是 2,000）。"
     }
   ]
 };
 
-var currentQ = 0;
-var answers = new Array(quizData.questions.length).fill(null);
-var answered = new Array(quizData.questions.length).fill(false);
-var totalQ = quizData.questions.length;
+// === State ===
+var questions = quizData.questions;
+var totalQ = questions.length;
+var answers = new Array(totalQ).fill(null);
+var graded = false;
+
+// Group questions: single / cloze group / reading group
+var pages = [];
+(function buildPages() {
+  var i = 0;
+  while (i < totalQ) {
+    var q = questions[i];
+    if (q.group) {
+      // Collect all questions in this group
+      var groupId = q.group;
+      var groupItems = [];
+      while (i < totalQ && questions[i].group === groupId) {
+        groupItems.push(i);
+        i++;
+      }
+      pages.push({ type: "group", indices: groupItems, groupType: q.type });
+    } else {
+      pages.push({ type: "single", indices: [i] });
+      i++;
+    }
+  }
+})();
+
+var currentPage = 0;
+var totalPages = pages.length;
 
 var typeLabels = { vocabulary: "词汇题", grammar: "语法题", cloze: "完形填空", reading: "阅读理解" };
 var tagClasses = { vocabulary: "tag-vocabulary", grammar: "tag-grammar", cloze: "tag-cloze", reading: "tag-reading" };
 
-function updateProgress() {
-  var done = answers.filter(function(a) { return a !== null; }).length;
-  document.getElementById("progressFill").style.width = (done / totalQ * 100) + "%";
-  document.getElementById("progressText").textContent = "第 " + (currentQ + 1) + " 题 / 共 " + totalQ + " 题　已答 " + done + " 题";
+function escapeHtml(text) {
+  if (!text) return '';
+  var div = document.createElement('div');
+  div.textContent = text;
+  return div.innerHTML.replace(/\n/g, '<br>');
 }
 
-function renderQuestion() {
-  var q = quizData.questions[currentQ];
+function updateProgress() {
+  var done = answers.filter(function(a) { return a !== null; }).length;
+  var page = pages[currentPage];
+  var firstQ = questions[page.indices[0]];
+  document.getElementById("progressFill").style.width = (done / totalQ * 100) + "%";
+  document.getElementById("progressText").textContent =
+    "第 " + (currentPage + 1) + " 页 / 共 " + totalPages + " 页　已答 " + done + "/" + totalQ + " 题";
+}
+
+function renderPage() {
+  var page = pages[currentPage];
   var area = document.getElementById("questionArea");
-  
-  var html = '<div class="card slide-in">';
-  html += '<span class="q-tag ' + (tagClasses[q.type] || "tag-grammar") + '">' + (typeLabels[q.type] || q.type) + '</span>';
-  html += '<div class="q-number">第 ' + q.id + ' 题</div>';
-  
-  // Reading passage (show for first reading question)
-  if (q.reading_passage) {
-    html += '<div class="reading-passage">' + escapeHtml(q.reading_passage) + '</div>';
+  var html = '';
+
+  if (page.type === "single") {
+    html = renderSingleQuestion(page.indices[0]);
+  } else {
+    html = renderGroupQuestions(page);
   }
-  
+
+  // Navigation
+  html += '<div class="nav-bar">';
+  if (currentPage > 0) {
+    html += '<button class="btn btn-secondary" onclick="prevPage()">◀ 上一页</button>';
+  }
+  if (currentPage < totalPages - 1) {
+    html += '<button class="btn btn-primary" onclick="nextPage()">下一页 ▶</button>';
+  } else {
+    // Last page - show submit if not graded
+    if (!graded) {
+      var allDone = answers.every(function(a) { return a !== null; });
+      html += '<button class="btn btn-submit" onclick="submitAll()" ' + (allDone ? '' : 'disabled title="请先完成所有题目"') + '>✅ 提交全部答案</button>';
+    } else {
+      html += '<button class="btn btn-primary" onclick="showResult()">📊 查看成绩</button>';
+    }
+  }
+  html += '</div>';
+
+  area.innerHTML = html;
+  updateProgress();
+}
+
+function renderSingleQuestion(idx) {
+  var q = questions[idx];
+  var html = '<div class="card slide-in">';
+  html += '<span class="q-tag ' + (tagClasses[q.type] || 'tag-grammar') + '">' + (typeLabels[q.type] || q.type) + '</span>';
+  html += '<div class="q-number">第 ' + q.id + ' 题</div>';
   html += '<div class="q-stem">' + escapeHtml(q.stem) + '</div>';
-  html += '<div class="options">';
-  
+  html += renderOptions(idx);
+  if (graded) html += renderExplanation(idx);
+  html += '</div>';
+  return html;
+}
+
+function renderGroupQuestions(page) {
+  var indices = page.indices;
+  var firstQ = questions[indices[0]];
+  var html = '<div class="card slide-in">';
+  html += '<span class="q-tag ' + (tagClasses[firstQ.type] || 'tag-grammar') + '">' + (typeLabels[firstQ.type] || firstQ.type) + '</span>';
+
+  // Show passage once
+  if (firstQ.group_passage) {
+    html += '<div class="reading-passage">' + escapeHtml(firstQ.group_passage) + '</div>';
+  }
+
+  // Render each sub-question
+  for (var j = 0; j < indices.length; j++) {
+    var idx = indices[j];
+    var q = questions[idx];
+    html += '<div class="sub-question">';
+    html += '<div class="sub-q-label">第 ' + q.id + ' 题 ' + escapeHtml(q.stem) + '</div>';
+    html += renderOptions(idx);
+    if (graded) html += renderExplanation(idx);
+    html += '</div>';
+  }
+
+  html += '</div>';
+  return html;
+}
+
+function renderOptions(idx) {
+  var q = questions[idx];
   var letters = ["A", "B", "C", "D"];
+  var html = '<div class="options">';
   for (var i = 0; i < q.options.length; i++) {
     var letter = letters[i];
-    var isSelected = answers[currentQ] === letter;
-    var cls = "option-btn" + (isSelected ? " selected" : "");
-    if (answered[currentQ]) {
-      if (letter === q.correct_answer) cls = "option-btn correct";
-      else if (isSelected && letter !== q.correct_answer) cls = "option-btn wrong";
-      else cls = "option-btn";
+    var isSelected = answers[idx] === letter;
+    var cls = "option-btn";
+    if (graded) {
+      cls += " disabled";
+      if (letter === q.correct_answer) cls += " correct";
+      else if (isSelected && letter !== q.correct_answer) cls += " wrong";
+    } else {
+      if (isSelected) cls += " selected";
     }
     var optText = q.options[i].replace(/^[A-D]\.\s*/, "");
-    html += '<div class="' + cls + '" data-letter="' + letter + '" onclick="selectOption(\'' + letter + '\')">';
+    html += '<div class="' + cls + '" onclick="selectOption(' + idx + ',\'' + letter + '\')">';
     html += '<span class="option-letter">' + letter + '</span>';
     html += '<span>' + escapeHtml(optText) + '</span>';
     html += '</div>';
   }
   html += '</div>';
-  
-  // Show explanation if answered
-  if (answered[currentQ]) {
-    var icon = answers[currentQ] === q.correct_answer ? "✅" : "❌";
-    html += '<div class="explanation">' + icon + ' ' + escapeHtml(q.explanation) + '</div>';
-  }
-  
-  // Action bar
-  html += '<div class="action-bar">';
-  if (currentQ > 0) {
-    html += '<button class="btn btn-secondary" onclick="prevQuestion()">◀ 上一题</button>';
-  }
-  if (!answered[currentQ]) {
-    html += '<button class="btn btn-primary" id="confirmBtn" onclick="confirmAnswer()" ' + (answers[currentQ] === null ? 'disabled' : '') + '>确认答案</button>';
-  } else if (currentQ < totalQ - 1) {
-    html += '<button class="btn btn-primary" onclick="nextQuestion()">下一题 ▶</button>';
-  } else {
-    var allDone = answered.every(function(a) { return a; });
-    if (allDone) {
-      html += '<button class="btn btn-primary" onclick="showResult()">📊 查看成绩</button>';
-    } else {
-      html += '<button class="btn btn-primary" onclick="goToUnanswered()">继续答题 ▶</button>';
-    }
-  }
-  html += '</div>';
-  html += '</div>';
-  
-  area.innerHTML = html;
-  updateProgress();
+  return html;
 }
 
-function selectOption(letter) {
-  if (answered[currentQ]) return;
-  answers[currentQ] = letter;
-  renderQuestion();
+function renderExplanation(idx) {
+  var q = questions[idx];
+  var isCorrect = answers[idx] === q.correct_answer;
+  var icon = isCorrect ? "✅" : "❌";
+  var prefix = isCorrect ? "" : "你选 " + answers[idx] + "，正确答案 " + q.correct_answer + "。";
+  return '<div class="explanation">' + icon + ' ' + prefix + escapeHtml(q.explanation) + '</div>';
 }
 
-function confirmAnswer() {
-  if (answers[currentQ] === null) return;
-  answered[currentQ] = true;
-  renderQuestion();
-  
-  // Auto-advance after 1.5s if not last question
-  var allDone = answered.every(function(a) { return a; });
-  if (!allDone && currentQ < totalQ - 1) {
-    setTimeout(function() { nextQuestion(); }, 1800);
-  }
+function selectOption(idx, letter) {
+  if (graded) return;
+  answers[idx] = letter;
+  renderPage();
 }
 
-function nextQuestion() {
-  if (currentQ < totalQ - 1) { currentQ++; renderQuestion(); }
+function nextPage() {
+  if (currentPage < totalPages - 1) { currentPage++; renderPage(); window.scrollTo(0, 0); }
 }
 
-function prevQuestion() {
-  if (currentQ > 0) { currentQ--; renderQuestion(); }
+function prevPage() {
+  if (currentPage > 0) { currentPage--; renderPage(); window.scrollTo(0, 0); }
 }
 
-function goToUnanswered() {
+function submitAll() {
+  var unanswered = [];
   for (var i = 0; i < totalQ; i++) {
-    if (!answered[i]) { currentQ = i; renderQuestion(); return; }
+    if (answers[i] === null) unanswered.push(questions[i].id);
   }
+  if (unanswered.length > 0) {
+    alert("还有 " + unanswered.length + " 道题未作答：第 " + unanswered.join(", ") + " 题");
+    return;
+  }
+  graded = true;
+
+  // Auto-submit answers to archive
+  autoSubmitAnswers();
+
+  // Re-render current page with grading
+  renderPage();
+
+  // Show a brief notice then go to result
+  setTimeout(function() { showResult(); }, 500);
+}
+
+function autoSubmitAnswers() {
+  // Build answer string
+  var answerStr = answers.join("");
+
+  // Calculate score
+  var correct = 0;
+  for (var i = 0; i < totalQ; i++) {
+    if (answers[i] === questions[i].correct_answer) correct++;
+  }
+  var rate = Math.round(correct / totalQ * 100);
+
+  // Store to localStorage for persistence
+  var record = {
+    date: quizData.date,
+    session: quizData.session_number,
+    answers: answerStr,
+    score: correct,
+    total: totalQ,
+    rate: rate,
+    timestamp: new Date().toISOString(),
+    submitted: true
+  };
+  try {
+    localStorage.setItem("basco_quiz_" + quizData.date, JSON.stringify(record));
+    // Also store cumulative history
+    var history = JSON.parse(localStorage.getItem("basco_history") || "[]");
+    history.push(record);
+    localStorage.setItem("basco_history", JSON.stringify(history));
+  } catch(e) {}
 }
 
 function showResult() {
   document.getElementById("questionArea").classList.add("hidden");
   var area = document.getElementById("resultArea");
   area.classList.remove("hidden");
-  
+
   var correct = 0;
   var dots = "";
   var errors = [];
   var answerStr = "";
-  
+
   for (var i = 0; i < totalQ; i++) {
-    var q = quizData.questions[i];
+    var q = questions[i];
     var isCorrect = answers[i] === q.correct_answer;
     if (isCorrect) { correct++; dots += "✅"; } else { dots += "❌"; errors.push(i); }
     answerStr += answers[i];
   }
-  
+
   var rate = Math.round(correct / totalQ * 100);
   var emoji = rate >= 80 ? "🎉" : rate >= 60 ? "💪" : "📚";
-  var msg = rate >= 90 ? "太棒了！几乎全对！" : rate >= 80 ? "很不错！继续保持！" : rate >= 60 ? "还可以，错题要好好看讲解哦！" : "别灰心，把错题弄懂就是进步！";
-  
+  var msg = rate >= 90 ? "太棒了！几乎全对！" :
+            rate >= 80 ? "很不错！继续保持！" :
+            rate >= 60 ? "还可以，错题要好好看讲解哦！" :
+            "别灰心，把错题弄懂就是进步！";
+
   var html = '<div class="result-card">';
   html += '<div class="result-label">今日成绩</div>';
   html += '<div class="result-score">' + correct + '/' + totalQ + '</div>';
   html += '<div class="result-dots">' + dots + '</div>';
   html += '<div class="result-msg">' + emoji + ' ' + msg + '</div>';
-  
+
   html += '<div class="stat-grid">';
   html += '<div class="stat-item"><div class="val">' + rate + '%</div><div class="lbl">正确率</div></div>';
   html += '<div class="stat-item"><div class="val">' + errors.length + '</div><div class="lbl">错题数</div></div>';
   html += '</div>';
-  
+
+  html += '<div class="submitted-notice">✅ 答案已自动归档</div>';
+
   html += '<div class="answer-string">';
-  html += '<div class="label">你的答案（可复制发给老师）</div>';
+  html += '<div class="label">你的答案</div>';
   html += '<div class="code">' + answerStr + '</div>';
   html += '</div>';
-  
+
   // Error review
   if (errors.length > 0) {
     html += '<div class="error-section"><h3>❌ 错题详解</h3>';
     for (var j = 0; j < errors.length; j++) {
       var idx = errors[j];
-      var q = quizData.questions[idx];
+      var q = questions[idx];
       html += '<div class="error-item">';
       html += '<div class="ei-head">第 ' + q.id + ' 题 · ' + (typeLabels[q.type] || q.type) + '</div>';
       var stemPreview = q.stem.length > 80 ? q.stem.substring(0, 80) + "..." : q.stem;
@@ -532,21 +557,22 @@ function showResult() {
     }
     html += '</div>';
   }
-  
-  html += '<div class="action-bar" style="margin-top:20px">';
+
+  html += '<div class="nav-bar" style="margin-top:20px">';
   html += '<button class="btn btn-secondary" onclick="reviewAll()">📋 逐题回顾</button>';
   html += '<button class="btn btn-primary" onclick="copyAnswers(\'' + answerStr + '\')">📋 复制答案</button>';
   html += '</div>';
-  
   html += '</div>';
+
   area.innerHTML = html;
+  window.scrollTo(0, 0);
 }
 
 function reviewAll() {
   document.getElementById("resultArea").classList.add("hidden");
   document.getElementById("questionArea").classList.remove("hidden");
-  currentQ = 0;
-  renderQuestion();
+  currentPage = 0;
+  renderPage();
 }
 
 function copyAnswers(str) {
@@ -557,14 +583,25 @@ function copyAnswers(str) {
   }
 }
 
-function escapeHtml(text) {
-  var div = document.createElement('div');
-  div.textContent = text;
-  return div.innerHTML.replace(/\n/g, '<br>');
-}
+// Check if already submitted today
+(function checkPreviousSubmission() {
+  try {
+    var prev = localStorage.getItem("basco_quiz_" + quizData.date);
+    if (prev) {
+      var record = JSON.parse(prev);
+      if (record.submitted) {
+        // Restore answers
+        for (var i = 0; i < record.answers.length && i < totalQ; i++) {
+          answers[i] = record.answers[i];
+        }
+        graded = true;
+      }
+    }
+  } catch(e) {}
+})();
 
 // Init
-renderQuestion();
+renderPage();
 </script>
 </body>
 </html>
