@@ -28,9 +28,10 @@ body {
   padding: 20px 16px; margin-bottom: 12px;
   box-shadow: 0 4px 20px rgba(0,0,0,0.1);
 }
-.card.compact .q-stem, .card.compact .reading-passage, .card.compact .options { line-height: 1.5; }
-.card.compact .option-btn { padding: 10px 12px; font-size: 14px; }
-.card.compact .sub-question { margin-bottom: 14px; padding-bottom: 12px; }
+.card.compact .q-stem, .card.compact .reading-passage, .card.compact .options { line-height: 1.4; }
+.card.compact .option-btn { padding: 9px 12px; font-size: 13px; }
+.card.compact .sub-question { margin-bottom: 12px; padding-bottom: 10px; }
+.card.compact .reading-passage { font-size: 12px; line-height: 1.6; padding: 10px 12px; }
 .slide-in { animation: slideIn 0.3s ease; }
 @keyframes slideIn { from{transform:translateX(50px);opacity:0}to{transform:translateX(0);opacity:1} }
 
@@ -91,7 +92,6 @@ body {
 }
 @keyframes fadeIn{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:translateY(0)}}
 
-/* Result */
 .result-card {
   background:rgba(255,255,255,0.97);border-radius:16px;
   padding:24px 18px;text-align:center;box-shadow:0 4px 20px rgba(0,0,0,0.1);
@@ -127,9 +127,9 @@ body {
 <div class="container">
   <div class="header">
     <h1 id="mainTitle">📝 Basco 今日英语练习</h1>
-    <div class="subtitle" id="subtitleText">第 1 天 · 2026年3月28日 · 沪教版</div>
+    <div class="subtitle" id="subtitleText">第 3 组 · 2026年3月28日 · 弱项强化</div>
     <div class="progress-bar"><div class="progress-fill" id="progressFill" style="width:0%"></div></div>
-    <div class="progress-text" id="progressText">第 1 题 / 共 10 题</div>
+    <div class="progress-text" id="progressText">第 1 页 / 共 13 题</div>
   </div>
   <div id="questionArea"></div>
   <div id="resultArea" class="hidden"></div>
@@ -137,12 +137,12 @@ body {
 
 <script>
 // NOTE: All strings must avoid Chinese quotes. Use single quotes only.
-var quizData = {"date":"2026-03-28","session_number":1,"questions":[{"id":1,"type":"vocabulary","knowledge_point":"word_meaning","difficulty":1,"stem":"The old man is very kind. He always _____ to help people in need.","options":["A. offers","B. refuses","C. forgets","D. fails"],"correct_answer":"A","explanation":"offer to do sth. 意为'主动提出做某事'。句意：这位老人很善良，他总是主动帮助有需要的人。refuse 拒绝；forget 忘记；fail 失败。"},{"id":2,"type":"vocabulary","knowledge_point":"phrase_collocation","difficulty":1,"stem":"We should _____ the old and be polite to everyone.","options":["A. look for","B. look after","C. look up","D. look out"],"correct_answer":"B","explanation":"look after 意为'照顾'，与句意'我们应该照顾老人'匹配。look for 寻找；look up 查阅；look out 小心。"},{"id":3,"type":"grammar","knowledge_point":"present_perfect","difficulty":1,"stem":"-- How long have you _____ this bike?\n-- For about two years.","options":["A. bought","B. had","C. borrowed","D. got"],"correct_answer":"B","explanation":"how long 提问持续时间，需要延续性动词。buy 是非延续性动词，不能与 for 连用，其对应的延续性动词是 have（拥有）。buy -> have, borrow -> keep。"},{"id":4,"type":"grammar","knowledge_point":"passive_voice","difficulty":2,"stem":"The 2026 World Cup _____ in the USA, Canada and Mexico.","options":["A. holds","B. will hold","C. will be held","D. was held"],"correct_answer":"C","explanation":"世界杯是'被举办的'，且 2026 年表示将来，用一般将来时的被动语态 will be held。"},{"id":5,"type":"grammar","knowledge_point":"object_clause","difficulty":2,"stem":"Could you tell me _____?","options":["A. where does he live","B. where he lives","C. where did he live","D. where he does live"],"correct_answer":"B","explanation":"宾语从句必须使用陈述语序（主语 + 谓语）。A 和 C 是疑问语序，D 多了助动词 does，只有 B 是正确的陈述语序。"},{"id":6,"type":"cloze","knowledge_point":"cloze_general","difficulty":2,"group":"cloze_1","group_passage":"Tom was a quiet boy who didn't have many friends at school. One day, a new student named Lily came to his class. She sat next to Tom and smiled at him. 'Hi, I'm Lily. Would you like to be my (6)___?' Tom was (7)___ at first, but he nodded shyly. From that day on, they did everything together -- they studied, played and even (8)___ books with each other.","stem":"(6)","options":["A. teacher","B. friend","C. parent","D. doctor"],"correct_answer":"B","explanation":"根据上下文，Lily 问 Tom 是否愿意做她的朋友（friend）。后文提到他们一起学习、玩耍。"},{"id":7,"type":"cloze","knowledge_point":"cloze_general","difficulty":2,"group":"cloze_1","stem":"(7)","options":["A. angry","B. bored","C. surprised","D. sad"],"correct_answer":"C","explanation":"Tom 没有很多朋友，当 Lily 主动邀请他时，他一开始感到'惊讶'（surprised），然后害羞地点了点头。"},{"id":8,"type":"cloze","knowledge_point":"cloze_general","difficulty":2,"group":"cloze_1","stem":"(8)","options":["A. shared","B. threw","C. lost","D. sold"],"correct_answer":"A","explanation":"share...with each other 意为'互相分享'。他们互相分享书籍，符合朋友之间的行为。"},{"id":9,"type":"reading","knowledge_point":"main_idea","difficulty":2,"group":"reading_1","group_passage":"Do you know that animals can communicate with each other? They don't use words like we do, but they have their own ways. For example, bees dance to tell other bees where to find food. Dogs wag their tails when they are happy. Dolphins make sounds to talk to each other underwater. Even ants leave a special smell on the ground so that other ants can follow the path to food.\n\nScientists have studied animal communication for many years. They have found that some animals can learn new ways to communicate. For example, some gorillas have been taught to use sign language. One famous gorilla named Koko could use more than 1,000 signs!","stem":"9. What is the passage mainly about?","options":["A. How bees find food.","B. Why dogs wag their tails.","C. How animals communicate.","D. How scientists study gorillas."],"correct_answer":"C","explanation":"文章介绍了蜜蜂、狗、海豚、蚂蚁等动物的交流方式，主旨是'动物如何交流'。做主旨大意题时，关注首段首句。"},{"id":10,"type":"reading","knowledge_point":"detail","difficulty":2,"group":"reading_1","stem":"10. According to the passage, which of the following is TRUE?","options":["A. Bees use sounds to communicate.","B. Ants leave a smell to guide other ants.","C. Dolphins dance to talk to each other.","D. Koko could use more than 2,000 signs."],"correct_answer":"B","explanation":"原文：ants leave a special smell on the ground so that other ants can follow the path to food，与 B 一致。A 错（蜜蜂是跳舞）；C 错（海豚是发声音）；D 错（是 1,000+ 不是 2,000）。"}]};
+var quizData = {"date":"2026-03-28","session_number":3,"questions":[{"id":1,"type":"grammar","knowledge_point":"present_perfect","difficulty":2,"stem":"My father _____ in this city since he was twenty years old.","options":["A. has lived","B. lived","C. is living","D. will live"],"correct_answer":"A","explanation":"since 引导的时间状语从句用一般过去时，主句用现在完成时 has/have + done。since he was twenty 表示从20岁开始到现在一直住在这个城市，用 has lived。"},{"id":2,"type":"grammar","knowledge_point":"present_perfect","difficulty":2,"stem":"-- Have you _____ been to Beijing?\n-- Yes. I _____ there last summer.","options":["A. ever; went","B. never; go","C. ever; have been","D. never; went"],"correct_answer":"A","explanation":"ever 用于现在完成时的疑问句中，意为'曾经'。回答中 last summer 是过去的时间点，所以用一般过去时 went。Have you ever been to...? 是常考句型。"},{"id":3,"type":"grammar","knowledge_point":"object_clause","difficulty":2,"stem":"I don't know _____ he will come or not tomorrow.","options":["A. that","B. if","C. whether","D. what"],"correct_answer":"C","explanation":"whether...or not 是固定搭配，表示'是否...还是不...'。虽然 if 和 whether 都可以引导宾语从句表示'是否'，但与 or not 直接连用时只能用 whether，不能用 if。"},{"id":4,"type":"grammar","knowledge_point":"object_clause","difficulty":2,"stem":"-- Do you know _____?\n-- Sorry, I have no idea.","options":["A. how much does it cost","B. how much it costs","C. how much did it cost","D. how much it did cost"],"correct_answer":"B","explanation":"宾语从句三要素：(1) 连接词（how much）(2) 陈述语序（it costs，主语在前谓语在后）(3) 时态一致（主句一般现在时，从句也用一般现在时）。A 和 C 是疑问语序，D 多了助动词。"},{"id":5,"type":"vocabulary","knowledge_point":"word_meaning","difficulty":2,"stem":"The government has taken action to _____ the air pollution in the city.","options":["A. produce","B. reduce","C. introduce","D. increase"],"correct_answer":"B","explanation":"reduce 意为'减少'，与 air pollution（空气污染）搭配，表示政府采取措施减少空气污染。produce 生产；introduce 介绍；increase 增加。注意 reduce 和 increase 是反义词。"},{"id":6,"type":"vocabulary","knowledge_point":"phrase_collocation","difficulty":2,"stem":"Please _____ the lights when you leave the classroom.","options":["A. turn on","B. turn off","C. turn up","D. turn down"],"correct_answer":"B","explanation":"turn off 意为'关闭'，离开教室时应该关灯。turn on 打开；turn up 调大（音量）；turn down 调小/拒绝。turn 短语辨析是常考点。"},{"id":7,"type":"cloze","knowledge_point":"cloze_general","difficulty":2,"group":"cloze_1","group_passage":"Last Sunday, Jenny and her family went to the beach. It was a (7)___ day and the sun was shining brightly. Jenny was excited because she loved playing in the sand. She (8)___ a big sandcastle with her little brother. After that, they went swimming in the sea. The water was a bit cold, but they didn't (9)___. They had a great time. When it was time to go home, Jenny felt (10)___ because she didn't want to leave. 'Don't worry,' said her mother. 'We can come back next weekend.'","stem":"(7)","options":["A. rainy","B. cloudy","C. sunny","D. windy"],"correct_answer":"C","explanation":"后文说 the sun was shining brightly（阳光灿烂），所以天气是 sunny（晴朗的）。上下文对应是完形填空的核心技巧。"},{"id":8,"type":"cloze","knowledge_point":"cloze_general","difficulty":2,"group":"cloze_1","stem":"(8)","options":["A. built","B. bought","C. broke","D. brought"],"correct_answer":"A","explanation":"build a sandcastle 意为'建沙堡'。Jenny 和弟弟在沙滩上建了一个大沙堡。bought 买；broke 打碎；brought 带来。注意 build-built-built 的不规则变化。"},{"id":9,"type":"cloze","knowledge_point":"cloze_general","difficulty":2,"group":"cloze_1","stem":"(9)","options":["A. mind","B. matter","C. decide","D. agree"],"correct_answer":"A","explanation":"didn't mind 意为'不介意'。虽然水有点冷，但他们不介意。mind 常用于否定句和疑问句。Do you mind...? / I don't mind."},{"id":10,"type":"cloze","knowledge_point":"cloze_general","difficulty":2,"group":"cloze_1","stem":"(10)","options":["A. happy","B. surprised","C. proud","D. sad"],"correct_answer":"D","explanation":"后文 because she didn't want to leave 说明 Jenny 不想离开，所以她感到 sad（难过）。转折关系：felt sad because didn't want to leave。"},{"id":11,"type":"reading","knowledge_point":"main_idea","difficulty":2,"group":"reading_1","group_passage":"Have you ever thought about what life will be like in the future? Scientists believe that robots will play an important role in our daily lives. In the future, robots may cook meals, clean houses and even take care of children. Some robots are already working in hospitals, helping doctors with operations.\n\nHowever, not everyone thinks this is a good idea. Some people worry that robots will take away jobs from humans. If robots can do everything, what will people do? Others believe that robots will create new types of jobs that we cannot imagine today.\n\nOne thing is certain: technology is changing our world quickly. We need to prepare for these changes and learn new skills to keep up with the times.","stem":"11. What is the best title for this passage?","options":["A. How to Make Robots","B. Robots in Hospitals","C. Robots and Our Future","D. Why People Hate Robots"],"correct_answer":"C","explanation":"文章讨论了机器人在未来生活中的角色，包括正面（帮助生活）和反面（可能取代工作）观点。最佳标题应概括全文，C 选项'机器人与我们的未来'最合适。A 太窄（制造方法）；B 太窄（只提了医院）；D 太极端（不是所有人都讨厌）。"},{"id":12,"type":"reading","knowledge_point":"detail","difficulty":2,"group":"reading_1","stem":"12. What can robots do in the future according to the passage?","options":["A. Build houses and roads.","B. Cook, clean and look after children.","C. Teach students at school.","D. Drive cars and fly planes."],"correct_answer":"B","explanation":"原文第一段：robots may cook meals, clean houses and even take care of children。与 B 选项完全对应。做细节题时，要回原文找对应的句子，逐词比对。"},{"id":13,"type":"reading","knowledge_point":"inference","difficulty":2,"group":"reading_1","stem":"13. What does the writer think about the future?","options":["A. Robots will definitely take all jobs.","B. Technology will stop changing.","C. We should learn new skills for the future.","D. Robots are not useful at all."],"correct_answer":"C","explanation":"最后一段：We need to prepare for these changes and learn new skills to keep up with the times。作者认为我们需要学习新技能来跟上时代。这是推理判断题，需要从文章整体态度推断作者观点。"}]};
 
 var questions = quizData.questions;
 var totalQ = questions.length;
 var answers = new Array(totalQ).fill(null);
-var confirmed = new Array(totalQ).fill(false); // per-question confirm status
+var confirmed = new Array(totalQ).fill(false);
 
 // Build pages: single or grouped
 var pages = [];
@@ -177,18 +177,17 @@ function renderPage(){
   else html=renderGroup(page, isCompact);
   // Nav
   html+='<div class="nav-bar">';
-  if(currentPage>0) html+='<button class="btn btn-secondary" onclick="prevPage()">◀ 上一页</button>';
-  // Check if all questions on this page are confirmed
+  if(currentPage>0) html+='<button class="btn btn-secondary" onclick="prevPage()">&#9664; 上一页</button>';
   var allPageConfirmed = page.indices.every(function(idx){return confirmed[idx];});
   var allPageAnswered = page.indices.every(function(idx){return answers[idx]!==null;});
   if(!allPageConfirmed){
-    html+='<button class="btn btn-submit" onclick="confirmPage()" '+(allPageAnswered?'':'disabled')+'>✅ 提交本页</button>';
+    html+='<button class="btn btn-submit" onclick="confirmPage()" '+(allPageAnswered?'':'disabled')+'>&#10004; 提交本页</button>';
   } else if(currentPage<totalPages-1){
-    html+='<button class="btn btn-primary" onclick="nextPage()">下一页 ▶</button>';
+    html+='<button class="btn btn-primary" onclick="nextPage()">下一页 &#9654;</button>';
   } else {
     var allDone=confirmed.every(Boolean);
-    if(allDone) html+='<button class="btn btn-primary" onclick="showResult()">📊 查看成绩</button>';
-    else html+='<button class="btn btn-primary" onclick="goNext()">继续答题 ▶</button>';
+    if(allDone) html+='<button class="btn btn-primary" onclick="showResult()">&#128202; 查看成绩</button>';
+    else html+='<button class="btn btn-primary" onclick="goNext()">继续答题 &#9654;</button>';
   }
   html+='</div>';
   area.innerHTML=html; updateProgress();
@@ -240,8 +239,8 @@ function renderOpts(idx){
 
 function renderExpl(idx){
   var q=questions[idx], ok=answers[idx]===q.correct_answer;
-  var icon=ok?"✅":"❌", pre=ok?"":"你选 "+answers[idx]+"，正确答案 "+q.correct_answer+"。";
-  return '<div class="explanation">'+icon+' '+pre+esc(q.explanation)+'</div>';
+  var icon=ok?"&#10004;":"&#10008;", pre=ok?"":"你选 "+answers[idx]+"，正确答案 "+q.correct_answer+"。";
+  return '<div class="explanation">'+(ok?'<span style="color:#43b883;font-weight:700">'+icon+' 正确！</span> ':'<span style="color:#c0392b;font-weight:700">'+icon+' 错误</span> '+pre)+esc(q.explanation)+'</div>';
 }
 
 function selOpt(idx,L){ if(confirmed[idx])return; answers[idx]=L; renderPage(); }
@@ -252,7 +251,6 @@ function confirmPage(){
   if(unanswered.length>0){alert("本页还有"+unanswered.length+"题未作答");return;}
   page.indices.forEach(function(i){confirmed[i]=true;});
   renderPage();
-  // Auto-save progress
   saveProgress();
 }
 
@@ -288,35 +286,35 @@ function showResult(){
   var correct=0,dots="",errors=[],ansStr="";
   for(var i=0;i<totalQ;i++){
     var ok=answers[i]===questions[i].correct_answer;
-    if(ok){correct++;dots+="✅";}else{dots+="❌";errors.push(i);}
+    if(ok){correct++;dots+="&#10004;";}else{dots+="&#10008;";errors.push(i);}
     ansStr+=answers[i];
   }
   var rate=Math.round(correct/totalQ*100);
-  var emoji=rate>=80?"🎉":rate>=60?"💪":"📚";
+  var emoji=rate>=80?"&#127881;":rate>=60?"&#128170;":"&#128218;";
   var msg=rate>=90?"太棒了！几乎全对！":rate>=80?"很不错！继续保持！":rate>=60?"还可以，错题好好看讲解！":"别灰心，弄懂错题就是进步！";
   var html='<div class="result-card">';
-  html+='<div class="result-label">今日成绩</div>';
+  html+='<div class="result-label">第 3 组成绩</div>';
   html+='<div class="result-score">'+correct+'/'+totalQ+'</div>';
   html+='<div class="result-dots">'+dots+'</div>';
   html+='<div class="result-msg">'+emoji+' '+msg+'</div>';
   html+='<div class="stat-grid"><div class="stat-item"><div class="val">'+rate+'%</div><div class="lbl">正确率</div></div>';
   html+='<div class="stat-item"><div class="val">'+errors.length+'</div><div class="lbl">错题数</div></div></div>';
-  html+='<div class="submitted-notice">✅ 答案已自动归档</div>';
+  html+='<div class="submitted-notice">&#10004; 答案已自动归档</div>';
   if(errors.length>0){
-    html+='<div class="error-section"><h3>❌ 错题详解</h3>';
+    html+='<div class="error-section"><h3>&#10008; 错题详解</h3>';
     for(var j=0;j<errors.length;j++){
       var idx=errors[j],q=questions[idx];
       var sp=q.stem.length>60?q.stem.substring(0,60)+"...":q.stem;
-      html+='<div class="error-item"><div class="ei-head">第'+q.id+'题 · '+(typeLabels[q.type]||q.type)+'</div>';
+      html+='<div class="error-item"><div class="ei-head">第'+q.id+'题 &middot; '+(typeLabels[q.type]||q.type)+'</div>';
       html+='<div class="ei-stem">'+esc(sp)+'</div>';
-      html+='<div class="ei-answer">你选：<span style="color:#c0392b;font-weight:600">'+answers[idx]+'</span>　正确：<span style="color:#1a7f4b;font-weight:600">'+q.correct_answer+'</span></div>';
-      html+='<div class="ei-explain">📖 '+esc(q.explanation)+'</div></div>';
+      html+='<div class="ei-answer">你选：<span style="color:#c0392b;font-weight:600">'+answers[idx]+'</span>&emsp;正确：<span style="color:#1a7f4b;font-weight:600">'+q.correct_answer+'</span></div>';
+      html+='<div class="ei-explain">&#128214; '+esc(q.explanation)+'</div></div>';
     }
     html+='</div>';
   }
   html+='<div class="nav-bar" style="margin-top:16px">';
-  html+='<button class="btn btn-secondary" onclick="reviewAll()">📋 逐题回顾</button>';
-  html+='<button class="btn btn-primary" onclick="copyAns(\''+ansStr+'\')">📋 复制答案</button>';
+  html+='<button class="btn btn-secondary" onclick="reviewAll()">&#128203; 逐题回顾</button>';
+  html+='<button class="btn btn-primary" onclick="copyAns(\''+ansStr+'\')">&#128203; 复制答案</button>';
   html+='</div></div>';
   area.innerHTML=html; window.scrollTo(0,0);
 }
