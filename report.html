@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+<title>Basco 学习报告</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);min-height:100vh;padding:12px;color:#333}
+.container{max-width:600px;margin:0 auto}
+.card{background:rgba(255,255,255,0.97);border-radius:16px;padding:18px 16px;margin-bottom:12px;box-shadow:0 4px 20px rgba(0,0,0,0.1)}
+.card h2{font-size:16px;color:#4a3f8a;margin-bottom:12px;text-align:center}
+.card h3{font-size:14px;color:#4a3f8a;margin-bottom:10px}
+
+/* Header */
+.header{text-align:center;padding-bottom:6px}
+.header h1{font-size:22px;color:#4a3f8a;margin-bottom:2px}
+.header .sub{font-size:12px;color:#888}
+.big-stats{display:grid;grid-template-columns:1fr 1fr 1fr;gap:8px;margin-top:14px}
+.big-stat{background:#f8f7ff;border-radius:12px;padding:12px 8px;text-align:center}
+.big-stat .num{font-size:28px;font-weight:800;background:linear-gradient(135deg,#667eea,#764ba2);-webkit-background-clip:text;-webkit-text-fill-color:transparent}
+.big-stat .lbl{font-size:11px;color:#999;margin-top:2px}
+
+/* Streak */
+.streak{display:flex;align-items:center;justify-content:center;gap:8px;margin-top:14px;padding:10px;background:#fff8eb;border-radius:10px}
+.streak .fire{font-size:28px}
+.streak .txt{font-size:14px;color:#b45309;font-weight:600}
+
+/* Calendar */
+.calendar{display:grid;grid-template-columns:repeat(7,1fr);gap:4px;margin-top:10px}
+.cal-header{font-size:10px;color:#999;text-align:center;padding:4px 0}
+.cal-day{aspect-ratio:1;display:flex;align-items:center;justify-content:center;border-radius:8px;font-size:11px;color:#ccc;background:#f9f8fc}
+.cal-day.active{background:#43b883;color:#fff;font-weight:700}
+.cal-day.today{border:2px solid #667eea}
+.cal-day.empty{background:transparent}
+
+/* Progress bars */
+.bar-row{display:flex;align-items:center;margin-bottom:10px}
+.bar-label{width:80px;font-size:12px;color:#555;flex-shrink:0}
+.bar-track{flex:1;height:20px;background:#f0edf5;border-radius:10px;overflow:hidden;position:relative}
+.bar-fill{height:100%;border-radius:10px;transition:width 0.6s ease}
+.bar-fill.green{background:linear-gradient(90deg,#43b883,#2d8f6f)}
+.bar-fill.yellow{background:linear-gradient(90deg,#f59e0b,#d97706)}
+.bar-fill.red{background:linear-gradient(90deg,#ef4444,#c0392b)}
+.bar-val{width:42px;text-align:right;font-size:12px;font-weight:700;color:#555;margin-left:6px}
+
+/* Weakness pills */
+.pills{display:flex;flex-wrap:wrap;gap:6px;margin-top:6px}
+.pill{padding:5px 12px;border-radius:20px;font-size:12px;font-weight:600;color:#fff}
+.pill.red{background:#ef4444}.pill.yellow{background:#f59e0b}.pill.green{background:#43b883}.pill.gray{background:#aaa}
+
+/* Session list */
+.session-row{display:flex;justify-content:space-between;align-items:center;padding:10px 0;border-bottom:1px dashed #f0edf5}
+.session-row:last-child{border-bottom:none}
+.session-info{font-size:13px;color:#555}
+.session-score{font-size:14px;font-weight:700}
+.session-score.high{color:#43b883}.session-score.mid{color:#f59e0b}.session-score.low{color:#ef4444}
+
+/* Advice */
+.advice-item{display:flex;gap:10px;margin-bottom:10px;align-items:flex-start}
+.advice-icon{font-size:20px;flex-shrink:0;margin-top:2px}
+.advice-text{font-size:13px;line-height:1.6;color:#555}
+.advice-text b{color:#4a3f8a}
+
+/* Links */
+.link-bar{display:flex;gap:8px;margin-bottom:12px}
+.link-btn{flex:1;display:block;text-align:center;padding:13px;border-radius:12px;font-size:14px;font-weight:600;text-decoration:none;color:#fff}
+.link-btn.purple{background:linear-gradient(135deg,#667eea,#764ba2)}
+.link-btn.red{background:linear-gradient(135deg,#e74c3c,#c0392b)}
+.footer{text-align:center;padding:14px;color:rgba(255,255,255,0.6);font-size:11px}
+</style>
+</head>
+<body>
+<div class="container">
+
+  <!-- Header -->
+  <div class="card header">
+    <h1>📊 Basco 学习报告</h1>
+    <div class="sub">沪教版 Oxford English 8B · 2026年3月28日</div>
+    <div class="big-stats">
+      <div class="big-stat"><div class="num">1</div><div class="lbl">练习天数</div></div>
+      <div class="big-stat"><div class="num">20</div><div class="lbl">总做题数</div></div>
+      <div class="big-stat"><div class="num">75%</div><div class="lbl">总正确率</div></div>
+    </div>
+    <div class="streak">
+      <span class="fire">🔥</span>
+      <span class="txt">连续打卡 1 天！继续坚持！</span>
+    </div>
+  </div>
+
+  <!-- Calendar -->
+  <div class="card">
+    <h2>📅 3月打卡日历</h2>
+    <div class="calendar">
+      <div class="cal-header">一</div><div class="cal-header">二</div><div class="cal-header">三</div>
+      <div class="cal-header">四</div><div class="cal-header">五</div><div class="cal-header">六</div><div class="cal-header">日</div>
+      <div class="cal-day empty"></div>
+      <div class="cal-day empty"></div>
+      <div class="cal-day empty"></div>
+      <div class="cal-day empty"></div>
+      <div class="cal-day empty"></div>
+      <div class="cal-day">1</div>
+      <div class="cal-day">2</div>
+      <div class="cal-day">3</div>
+      <div class="cal-day">4</div>
+      <div class="cal-day">5</div>
+      <div class="cal-day">6</div>
+      <div class="cal-day">7</div>
+      <div class="cal-day">8</div>
+      <div class="cal-day">9</div>
+      <div class="cal-day">10</div>
+      <div class="cal-day">11</div>
+      <div class="cal-day">12</div>
+      <div class="cal-day">13</div>
+      <div class="cal-day">14</div>
+      <div class="cal-day">15</div>
+      <div class="cal-day">16</div>
+      <div class="cal-day">17</div>
+      <div class="cal-day">18</div>
+      <div class="cal-day">19</div>
+      <div class="cal-day">20</div>
+      <div class="cal-day">21</div>
+      <div class="cal-day">22</div>
+      <div class="cal-day">23</div>
+      <div class="cal-day">24</div>
+      <div class="cal-day">25</div>
+      <div class="cal-day">26</div>
+      <div class="cal-day">27</div>
+      <div class="cal-day active today">28</div>
+      <div class="cal-day">29</div>
+      <div class="cal-day">30</div>
+      <div class="cal-day">31</div>
+    </div>
+    <div style="text-align:center;margin-top:8px;font-size:11px;color:#999">🟢 = 已打卡 · 3月28日做了 <b>2组</b>（20题）</div>
+  </div>
+
+  <!-- Accuracy by type -->
+  <div class="card">
+    <h2>📈 各题型正确率</h2>
+    <div class="bar-row">
+      <span class="bar-label">词汇题</span>
+      <div class="bar-track"><div class="bar-fill green" style="width:100%"></div></div>
+      <span class="bar-val">100%</span>
+    </div>
+    <div class="bar-row">
+      <span class="bar-label">被动语态</span>
+      <div class="bar-track"><div class="bar-fill green" style="width:100%"></div></div>
+      <span class="bar-val">100%</span>
+    </div>
+    <div class="bar-row">
+      <span class="bar-label">完形填空</span>
+      <div class="bar-track"><div class="bar-fill green" style="width:83%"></div></div>
+      <span class="bar-val">83%</span>
+    </div>
+    <div class="bar-row">
+      <span class="bar-label">现在完成时</span>
+      <div class="bar-track"><div class="bar-fill red" style="width:50%"></div></div>
+      <span class="bar-val">50%</span>
+    </div>
+    <div class="bar-row">
+      <span class="bar-label">宾语从句</span>
+      <div class="bar-track"><div class="bar-fill red" style="width:50%"></div></div>
+      <span class="bar-val">50%</span>
+    </div>
+    <div class="bar-row">
+      <span class="bar-label">阅读-主旨</span>
+      <div class="bar-track"><div class="bar-fill red" style="width:50%"></div></div>
+      <span class="bar-val">50%</span>
+    </div>
+    <div class="bar-row">
+      <span class="bar-label">阅读-细节</span>
+      <div class="bar-track"><div class="bar-fill red" style="width:50%"></div></div>
+      <span class="bar-val">50%</span>
+    </div>
+  </div>
+
+  <!-- Weakness -->
+  <div class="card">
+    <h2>🎯 弱项状态</h2>
+    <h3>🔴 弱项（正确率 &lt; 60%）</h3>
+    <div class="pills" style="margin-bottom:14px">
+      <span class="pill red">现在完成时 50%</span>
+      <span class="pill red">宾语从句 50%</span>
+      <span class="pill red">阅读-主旨大意 50%</span>
+      <span class="pill red">阅读-细节理解 50%</span>
+    </div>
+    <h3>🟢 已掌握（正确率 &gt; 80%）</h3>
+    <div class="pills" style="margin-bottom:14px">
+      <span class="pill green">单词释义 100%</span>
+      <span class="pill green">词组搭配 100%</span>
+      <span class="pill green">被动语态 100%</span>
+      <span class="pill green">完形填空 83%</span>
+    </div>
+    <h3>⬜ 未涉及（待解锁）</h3>
+    <div class="pills">
+      <span class="pill gray">不定式</span>
+      <span class="pill gray">动名词</span>
+      <span class="pill gray">条件状语从句</span>
+      <span class="pill gray">词义猜测</span>
+      <span class="pill gray">推理判断</span>
+    </div>
+  </div>
+
+  <!-- Session History -->
+  <div class="card">
+    <h2>📋 做题记录</h2>
+    <div class="session-row">
+      <div class="session-info">3月28日 · 第1组 · 10题</div>
+      <div class="session-score mid">70%（7/10）</div>
+    </div>
+    <div class="session-row">
+      <div class="session-info">3月28日 · 第2组 · 10题</div>
+      <div class="session-score mid">80%（8/10）</div>
+    </div>
+    <div style="text-align:center;margin-top:10px;font-size:12px;color:#43b883;font-weight:600">📈 第2组比第1组提升了 10%！</div>
+  </div>
+
+  <!-- Advice -->
+  <div class="card">
+    <h2>💡 下阶段建议</h2>
+    <div class="advice-item">
+      <span class="advice-icon">📖</span>
+      <div class="advice-text"><b>重点攻克阅读理解</b>：你的阅读主旨大意和细节理解正确率都是 50%。建议做阅读时先看题目再读文章（带着问题阅读），注意首段首句找中心句。</div>
+    </div>
+    <div class="advice-item">
+      <span class="advice-icon">⏰</span>
+      <div class="advice-text"><b>巩固现在完成时</b>：重点掌握「非延续性动词→延续性动词」的转换（buy→have, borrow→keep），以及 since/for 的区别。</div>
+    </div>
+    <div class="advice-item">
+      <span class="advice-icon">💬</span>
+      <div class="advice-text"><b>强化宾语从句</b>：记住三要素——连接词、陈述语序、时态一致。特别注意 whether 和 if 的区别（or not 只能跟 whether）。</div>
+    </div>
+    <div class="advice-item">
+      <span class="advice-icon">🔥</span>
+      <div class="advice-text"><b>坚持打卡</b>：今天是第1天，养成每天做题的习惯，连续坚持 7 天会看到明显进步！第3组弱项强化题已经准备好了。</div>
+    </div>
+  </div>
+
+  <!-- Links -->
+  <div class="link-bar">
+    <a class="link-btn purple" href="/english-quiz/">📝 去做题</a>
+    <a class="link-btn red" href="/english-quiz/errors.html">📒 错题本</a>
+  </div>
+
+  <div class="footer">Basco English Tutor · 报告随练习自动更新 · 加油💪</div>
+</div>
+</body>
+</html>
