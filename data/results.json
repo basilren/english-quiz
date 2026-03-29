@@ -30,17 +30,12 @@
       "question_id": 3,
       "type": "grammar",
       "knowledge_point": "present_perfect",
-      "label": "ç°å¨å®ææ¶",
+      "label": "现在完成时",
       "stem": "-- How long have you _____ this bike?\n-- For about two years.",
-      "options": [
-        "A. bought",
-        "B. had",
-        "C. borrowed",
-        "D. got"
-      ],
+      "options": ["A. bought", "B. had", "C. borrowed", "D. got"],
       "correct_answer": "B",
       "student_answer": "A",
-      "explanation": "how long æé®æç»­æ¶é´ï¼éè¦å»¶ç»­æ§å¨è¯ãbuy æ¯éå»¶ç»­æ§å¨è¯ï¼ä¸è½ä¸ for è¿ç¨ï¼å¶å¯¹åºçå»¶ç»­æ§å¨è¯æ¯ haveï¼æ¥æï¼ãbuy -> have, borrow -> keep, join -> be inã"
+      "explanation": "how long 提问持续时间，需要延续性动词。buy 是非延续性动词，不能与 for 连用，其对应的延续性动词是 have（拥有）。buy -> have, borrow -> keep, join -> be in。"
     },
     {
       "date": "2026-03-28",
@@ -48,17 +43,12 @@
       "question_id": 7,
       "type": "cloze",
       "knowledge_point": "cloze_general",
-      "label": "å®å½¢å¡«ç©º",
+      "label": "完形填空",
       "stem": "Tom was (7)___ at first, but he nodded shyly.",
-      "options": [
-        "A. angry",
-        "B. bored",
-        "C. surprised",
-        "D. sad"
-      ],
+      "options": ["A. angry", "B. bored", "C. surprised", "D. sad"],
       "correct_answer": "C",
       "student_answer": "D",
-      "explanation": "Tom æ²¡æå¾å¤æåï¼å½ Lily ä¸»å¨éè¯·ä»åæåæ¶ï¼ä»ä¸å¼å§æå°'æè®¶'ï¼surprisedï¼ï¼ç¶åå®³ç¾å°ç¹äºç¹å¤´ãæ ¹æ®äººç©æ§æ ¼åä¸ä¸ææå¢æ¨æ­ææè¯ã"
+      "explanation": "Tom 没有很多朋友，当 Lily 主动邀请他做朋友时，他一开始感到'惊讶'（surprised），然后害羞地点了点头。根据人物性格和上下文情景推断情感词。"
     },
     {
       "date": "2026-03-28",
@@ -66,17 +56,12 @@
       "question_id": 10,
       "type": "reading",
       "knowledge_point": "detail",
-      "label": "éè¯»-ç»èçè§£",
+      "label": "阅读-细节理解",
       "stem": "According to the passage, which of the following is TRUE?",
-      "options": [
-        "A. Bees use sounds to communicate.",
-        "B. Ants leave a smell to guide other ants.",
-        "C. Dolphins dance to talk to each other.",
-        "D. Koko could use more than 2,000 signs."
-      ],
+      "options": ["A. Bees use sounds to communicate.", "B. Ants leave a smell to guide other ants.", "C. Dolphins dance to talk to each other.", "D. Koko could use more than 2,000 signs."],
       "correct_answer": "B",
       "student_answer": "D",
-      "explanation": "åæï¼ants leave a special smell on the ground so that other ants can follow the path to foodï¼ä¸ B ä¸è´ãA éï¼èèæ¯è·³èï¼ï¼C éï¼æµ·è±æ¯åå£°é³ï¼ï¼D éï¼æ¯ 1,000+ ä¸æ¯ 2,000ï¼ã"
+      "explanation": "原文：ants leave a special smell on the ground so that other ants can follow the path to food，与 B 一致。A 错（蜜蜂是跳舞）；C 错（海豚是发声音）；D 错（是 1,000+ 不是 2,000）。"
     },
     {
       "date": "2026-03-28",
@@ -84,17 +69,12 @@
       "question_id": 5,
       "type": "grammar",
       "knowledge_point": "object_clause",
-      "label": "å®¾è¯­ä»å¥",
+      "label": "宾语从句",
       "stem": "Could you tell me _____?",
-      "options": [
-        "A. where does he live",
-        "B. where he lives",
-        "C. where did he live",
-        "D. where he does live"
-      ],
+      "options": ["A. where does he live", "B. where he lives", "C. where did he live", "D. where he does live"],
       "correct_answer": "B",
       "student_answer": "A",
-      "explanation": "å®¾è¯­ä»å¥å¿é¡»ä½¿ç¨éè¿°è¯­åºï¼ä¸»è¯­ + è°è¯­ï¼ãA å C æ¯çé®è¯­åºï¼D å¤äºå©å¨è¯ doesï¼åªæ B æ¯æ­£ç¡®çéè¿°è¯­åºã"
+      "explanation": "宾语从句必须使用陈述语序（主语 + 谓语）。A 和 C 是疑问语序；D 多了助动词 does；只有 B 是正确的陈述语序。"
     },
     {
       "date": "2026-03-28",
@@ -102,17 +82,12 @@
       "question_id": 9,
       "type": "reading",
       "knowledge_point": "main_idea",
-      "label": "éè¯»-ä¸»æ¨å¤§æ",
+      "label": "阅读-主旨大意",
       "stem": "What is the passage mainly about?",
-      "options": [
-        "A. How bees find food.",
-        "B. Why dogs wag their tails.",
-        "C. How animals communicate.",
-        "D. How scientists study gorillas."
-      ],
+      "options": ["A. How bees find food.", "B. Why dogs wag their tails.", "C. How animals communicate.", "D. How scientists study gorillas."],
       "correct_answer": "C",
       "student_answer": "A",
-      "explanation": "æç« é¦å¥ animals can communicate with each other å°±æ¯ä¸­å¿å¥ï¼åæèèãçãæµ·è±ãèèé½æ¯ä¾å­ãA/B/D é½åªæå°äºæä¸ä¸ªç»èï¼ä»¥åæ¦å¨ãåä¸»æ¨é¢ï¼çé¦æ®µé¦å¥ã"
+      "explanation": "文章首句 animals can communicate with each other 就是中心句，后文蜜蜂、蚂蚁、海豚、猩猩都是例子。A/B/D 都只提到了某一个细节，以偏概全。做主旨题：看首段首句。"
     },
     {
       "date": "2026-03-29",
@@ -122,12 +97,7 @@
       "knowledge_point": "phrase_collocation",
       "label": "词组搭配",
       "stem": "He was late for school because his alarm clock didn't _____.",
-      "options": [
-        "A. go off",
-        "B. go on",
-        "C. go out",
-        "D. go up"
-      ],
+      "options": ["A. go off", "B. go on", "C. go out", "D. go up"],
       "correct_answer": "A",
       "student_answer": "D",
       "explanation": "go off 意为'（闹钟）响'。闹钟没响所以迟到了。go on 继续；go out 出去/熄灭；go up 上升。go 短语辨析是常考点，注意 go off 还可以表示'（食物）变质'。"
@@ -140,12 +110,7 @@
       "knowledge_point": "inference",
       "label": "阅读-推理判断",
       "stem": "14. According to the passage, what should you NOT do before bedtime?",
-      "options": [
-        "A. Read a book.",
-        "B. Use your phone.",
-        "C. Listen to soft music.",
-        "D. Go to bed at a fixed time."
-      ],
+      "options": ["A. Read a book.", "B. Use your phone.", "C. Listen to soft music.", "D. Go to bed at a fixed time."],
       "correct_answer": "B",
       "student_answer": "D",
       "explanation": "原文最后一段：You should also stop using your phone at least 30 minutes before bedtime。说明睡前不应该用手机。A（读书）和 C（听轻音乐）是推荐做的事；D（固定时间睡觉）也是建议。这道题考查否定细节，注意审题中的 NOT。"

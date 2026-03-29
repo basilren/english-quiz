@@ -174,15 +174,15 @@ function render(){
   area.innerHTML=html;
 }
 
-// Load data from GitHub raw file
+// Load data from same-origin path (GitHub Pages serves this directly)
 function loadData(){
-  var url='https://raw.githubusercontent.com/basilren/english-quiz/main/data/results.json?t='+Date.now();
+  var url='./data/results.json?t='+Date.now();
   fetch(url)
-  .then(function(r){return r.arrayBuffer();})
-  .then(function(buf){
-    var decoder=new TextDecoder('utf-8');
-    var text=decoder.decode(buf);
-    var data=JSON.parse(text);
+  .then(function(r){
+    if(!r.ok) throw new Error('HTTP '+r.status);
+    return r.json();
+  })
+  .then(function(data){
     errorData=data.errors||[];
     sessionsData=data.sessions||[];
     render();

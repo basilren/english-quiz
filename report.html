@@ -66,13 +66,13 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;b
 var kpLabels={present_perfect:'现在完成时',object_clause:'宾语从句',conditional:'条件状语从句',infinitive:'不定式',gerund:'动名词',passive_voice:'被动语态',word_meaning:'单词释义',phrase_collocation:'词组搭配',cloze_general:'完形填空',detail:'阅读-细节理解',main_idea:'阅读-主旨大意',inference:'阅读-推理判断',word_guessing:'阅读-词义猜测'};
 
 function loadData(){
-  var url='https://raw.githubusercontent.com/basilren/english-quiz/main/data/results.json?t='+Date.now();
+  var url='./data/results.json?t='+Date.now();
   fetch(url)
-  .then(function(r){return r.arrayBuffer();})
-  .then(function(buf){
-    var decoder=new TextDecoder('utf-8');
-    var text=decoder.decode(buf);
-    var data=JSON.parse(text);
+  .then(function(r){
+    if(!r.ok) throw new Error('HTTP '+r.status);
+    return r.json();
+  })
+  .then(function(data){
     renderReport(data);
   })
   .catch(function(err){
