@@ -332,7 +332,12 @@ function submitToGitHub(){
   .then(function(fileInfo){
     var existing;
     if(fileInfo.content){
-      try{existing=JSON.parse(atob(fileInfo.content.replace(/\n/g,'')));}catch(e){existing={student:'Basco',sessions:[],errors:[]};}
+      try{
+        var raw=atob(fileInfo.content.replace(/\n/g,''));
+        // Decode UTF-8: atob returns Latin-1, need to convert back to UTF-8
+        var utf8=decodeURIComponent(escape(raw));
+        existing=JSON.parse(utf8);
+      }catch(e){existing={student:'Basco',sessions:[],errors:[]};}
     } else {
       existing={student:'Basco',sessions:[],errors:[]};
     }
