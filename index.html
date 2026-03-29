@@ -134,7 +134,7 @@ body {
 <div class="container">
   <div class="header">
     <h1 id="mainTitle">📝 Basco 今日英语练习</h1>
-    <div class="subtitle" id="subtitleText">第 2 天 · 2026年3月29日 · 弱项强化+新知识点</div>
+    <div class="subtitle" id="subtitleText">第 2 天 · 第 2 组 · 2026年3月29日</div>
     <div class="progress-bar"><div class="progress-fill" id="progressFill" style="width:0%"></div></div>
     <div class="progress-text" id="progressText">第 1 页 / 共 14 题</div>
   </div>
@@ -322,6 +322,11 @@ function showResult(){
   html+='<div class="nav-bar" style="margin-top:16px">';
   html+='<button class="btn btn-secondary" onclick="reviewAll()">&#128203; 逐题回顾</button>';
   html+='<button class="btn btn-primary" onclick="copyAns(\''+ansStr+'\')">&#128203; 复制答案</button>';
+  html+='</div>';
+  html+='<div class="nav-bar" style="margin-top:12px">';
+  html+='<button class="btn btn-link" onclick="window.location.href=\'errors.html\'">&#128221; 查看错题本</button>';
+  html+='<button class="btn btn-link" onclick="window.location.href=\'report.html\'">&#128202; 查看学习报告</button>';
+  html+='<button class="btn btn-link" onclick="window.location.href=\'index.html\'">&#128221; 再做一组</button>';
   html+='</div></div>';
   area.innerHTML=html; window.scrollTo(0,0);
 }
