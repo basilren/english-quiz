@@ -68,8 +68,11 @@ var kpLabels={present_perfect:'现在完成时',object_clause:'宾语从句',con
 function loadData(){
   var url='https://raw.githubusercontent.com/basilren/english-quiz/main/data/results.json?t='+Date.now();
   fetch(url)
-  .then(function(r){return r.json();})
-  .then(function(data){
+  .then(function(r){return r.arrayBuffer();})
+  .then(function(buf){
+    var decoder=new TextDecoder('utf-8');
+    var text=decoder.decode(buf);
+    var data=JSON.parse(text);
     renderReport(data);
   })
   .catch(function(err){
