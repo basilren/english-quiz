@@ -35,6 +35,13 @@
       "total": 16,
       "correct": 13,
       "rate": 81
+    },
+    {
+      "date": "2026-03-31",
+      "session": 1,
+      "total": 15,
+      "correct": 9,
+      "rate": 60
     }
   ],
   "errors": [
@@ -289,6 +296,114 @@
       "correct_answer": "B",
       "student_answer": "D",
       "explanation": "主旨题：四段分别讲了(1)青少年睡眠不足的现状(2)原因(3)危害(4)建议。全文围绕'青少年与睡眠'展开。A 只涉及电子设备；C 只涉及作业；D 文中没提科学家为什么研究睡眠。做主旨题：标题要能概括全文，不能以偏概全。"
+    },
+    {
+      "date": "2026-03-31",
+      "session": 1,
+      "question_id": 2,
+      "type": "grammar",
+      "knowledge_point": "object_clause",
+      "label": "宾语从句",
+      "stem": "I wonder _____ she will come to the party tomorrow.",
+      "options": [
+        "A. that",
+        "B. if",
+        "C. what",
+        "D. when"
+      ],
+      "correct_answer": "B",
+      "student_answer": "A",
+      "explanation": "wonder 后接宾语从句，表示'想知道是否'用 if/whether。这里意思是'我想知道她明天是否会来参加聚会'，表疑问用 if。that 引导确定的事实（不表示疑问）；what 是'什么'；when 是'什么时候'——但句中 tomorrow 已经给出了时间，所以不需要 when。宾语从句连接词选择：确定用 that，是否用 if/whether，疑问用特殊疑问词。"
+    },
+    {
+      "date": "2026-03-31",
+      "session": 1,
+      "question_id": 6,
+      "type": "vocabulary",
+      "knowledge_point": "synonym_antonym",
+      "label": "词汇题",
+      "stem": "The movie was so boring that many people left the cinema early.\nThe underlined word 'boring' is closest in meaning to _____.",
+      "options": [
+        "A. exciting",
+        "B. interesting",
+        "C. dull",
+        "D. funny"
+      ],
+      "correct_answer": "C",
+      "student_answer": "B",
+      "explanation": "boring 意为'无聊的，乏味的'，其近义词是 dull（枯燥的，无趣的）。exciting 兴奋的（反义词）；interesting 有趣的（反义词）；funny 好笑的。近反义词常考对：boring-dull, happy-glad, big-large, hard-difficult, beautiful-pretty, begin-start。"
+    },
+    {
+      "date": "2026-03-31",
+      "session": 1,
+      "question_id": 8,
+      "type": "cloze",
+      "knowledge_point": "cloze_general",
+      "label": "完形填空",
+      "stem": "(8)",
+      "options": [
+        "A. month",
+        "B. week",
+        "C. year",
+        "D. hour"
+      ],
+      "correct_answer": "B",
+      "student_answer": "A",
+      "explanation": "every week 意为'每周'。结合语境，学生社团收集废纸和塑料瓶的频率应该是'每周'——太频繁（每小时）或太稀疏（每年）都不合理。而且后文说已经种了50多棵树（一个月内），说明活动频率较高。完形填空技巧：选择最符合日常生活逻辑的选项。"
+    },
+    {
+      "date": "2026-03-31",
+      "session": 1,
+      "question_id": 9,
+      "type": "cloze",
+      "knowledge_point": "cloze_general",
+      "label": "完形填空",
+      "stem": "(9)",
+      "options": [
+        "A. cut",
+        "B. water",
+        "C. plant",
+        "D. climb"
+      ],
+      "correct_answer": "C",
+      "student_answer": "A",
+      "explanation": "plant trees 意为'种树'。上下文说用卖废品的钱来做环保，后面又说 they have planted over 50 trees，前后呼应。cut trees 砍树（与环保矛盾）；water trees 浇树（用钱浇树不通）；climb trees 爬树。完形填空技巧：注意前后文照应，planted 提示答案是 plant。"
+    },
+    {
+      "date": "2026-03-31",
+      "session": 1,
+      "question_id": 14,
+      "type": "reading",
+      "knowledge_point": "inference",
+      "label": "阅读-推理判断",
+      "stem": "14. From the passage, we can infer that _____.",
+      "options": [
+        "A. Little Free Libraries are only popular in the USA",
+        "B. Todd Bol built the library to make money",
+        "C. sharing books can help people feel closer to each other",
+        "D. most people think Little Free Libraries are useless"
+      ],
+      "correct_answer": "C",
+      "student_answer": "A",
+      "explanation": "推理判断题：原文第四段说 When neighbours share books, they also share ideas and start conversations，以及 92% of people feel more connected to their community。由此可推断'分享书籍能帮助人们彼此更亲近'。A 错：原文说 in more than 100 countries（不只美国）；B 错：是为了纪念母亲 to honour his mother；D 错：92% 的人觉得更有社区归属感，说明很有用。推理题关键：答案不直接照抄原文，但要有原文依据。"
+    },
+    {
+      "date": "2026-03-31",
+      "session": 1,
+      "question_id": 15,
+      "type": "reading",
+      "knowledge_point": "main_idea",
+      "label": "阅读-主旨大意",
+      "stem": "15. What is the best title for this passage?",
+      "options": [
+        "A. How to Build a Wooden Box",
+        "B. Todd Bol: A Famous Writer",
+        "C. Little Free Libraries: Sharing Books, Building Community",
+        "D. The History of Libraries in America"
+      ],
+      "correct_answer": "C",
+      "student_answer": "D",
+      "explanation": "主旨题：五段分别讲了(1)什么是小免费图书馆(2)起源(3)全球发展(4)社区价值(5)如何开始。全文围绕'小免费图书馆'展开，核心是分享书籍和建设社区。A 太窄（只提到了箱子）；B 错（Bol 不是作家）；D 太宽且不准确（不只是美国）。做主旨题：标题要涵盖全文内容，不能以偏概全，也不能太宽泛。注意首段和每段首句。"
     }
   ]
 }
