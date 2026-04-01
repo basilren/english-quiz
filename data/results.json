@@ -42,6 +42,13 @@
       "total": 15,
       "correct": 9,
       "rate": 60
+    },
+    {
+      "date": "2026-04-01",
+      "session": 1,
+      "total": 14,
+      "correct": 10,
+      "rate": 71
     }
   ],
   "errors": [
@@ -404,6 +411,78 @@
       "correct_answer": "C",
       "student_answer": "D",
       "explanation": "主旨题：五段分别讲了(1)什么是小免费图书馆(2)起源(3)全球发展(4)社区价值(5)如何开始。全文围绕'小免费图书馆'展开，核心是分享书籍和建设社区。A 太窄（只提到了箱子）；B 错（Bol 不是作家）；D 太宽且不准确（不只是美国）。做主旨题：标题要涵盖全文内容，不能以偏概全，也不能太宽泛。注意首段和每段首句。"
+    },
+    {
+      "date": "2026-04-01",
+      "session": 1,
+      "question_id": 4,
+      "type": "grammar",
+      "knowledge_point": "tense_general",
+      "label": "语法题",
+      "stem": "When I _____ home yesterday, my mother _____ dinner in the kitchen.",
+      "options": [
+        "A. got; was cooking",
+        "B. got; cooked",
+        "C. was getting; cooked",
+        "D. was getting; was cooking"
+      ],
+      "correct_answer": "A",
+      "student_answer": "C",
+      "explanation": "when 引导的时间状语从句中，'我到家'是短暂动作用一般过去时（got），'妈妈在做饭'是持续动作用过去进行时（was cooking）。这是 when 从句的经典搭配：when + 短暂动作（过去时），主句 + 持续动作（过去进行时）。对比 while：while + 持续动作（过去进行时），主句可以是过去时或过去进行时。"
+    },
+    {
+      "date": "2026-04-01",
+      "session": 1,
+      "question_id": 6,
+      "type": "cloze",
+      "knowledge_point": "cloze_general",
+      "label": "完形填空",
+      "stem": "(6)",
+      "options": [
+        "A. subjects",
+        "B. challenges",
+        "C. chances",
+        "D. choices"
+      ],
+      "correct_answer": "B",
+      "student_answer": "A",
+      "explanation": "challenges 意为'挑战'。原文说'我以为会很容易'，但第一天面对的_____彻底改变了我的想法——转折关系表明这里应该是'困难/挑战'。A subjects 科目；C chances 机会；D choices 选择——都不符合'改变想法'的转折逻辑。完形技巧：however 后面通常是与前文相反的内容，'以为容易'→ 实际遇到了'挑战'。"
+    },
+    {
+      "date": "2026-04-01",
+      "session": 1,
+      "question_id": 7,
+      "type": "cloze",
+      "knowledge_point": "cloze_general",
+      "label": "完形填空",
+      "stem": "(7)",
+      "options": [
+        "A. excited",
+        "B. shy",
+        "C. angry",
+        "D. bored"
+      ],
+      "correct_answer": "B",
+      "student_answer": "A",
+      "explanation": "shy 意为'害羞的'。上文说'大多数孩子从没跟外国人说过话'，所以他们太害羞了，一个字也说不出来。注意 too...to... 结构：too shy to say = 太害羞以至于说不出。excited 兴奋（兴奋了反而会主动说话）；angry 生气（无来由）；bored 无聊（也不会导致不说话）。需要联系上句'没见过外国人'来推理心理状态。"
+    },
+    {
+      "date": "2026-04-01",
+      "session": 1,
+      "question_id": 10,
+      "type": "cloze",
+      "knowledge_point": "cloze_general",
+      "label": "完形填空",
+      "stem": "(10)",
+      "options": [
+        "A. make up",
+        "B. hold",
+        "C. have",
+        "D. take part in"
+      ],
+      "correct_answer": "C",
+      "student_answer": "D",
+      "explanation": "have conversations 意为'进行对话'，是固定搭配。have a conversation/discussion/talk with sb. 都是常见搭配。make up 编造/化妆；hold 举行（hold a meeting，但不说 hold conversations）；take part in 参加（活动，不接 conversations）。完形填空中的固定搭配考查：需要积累常见动宾搭配，have 是万能动词，搭配范围很广。"
     }
   ]
 }
