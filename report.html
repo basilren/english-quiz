@@ -66,17 +66,28 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;b
 var kpLabels={present_perfect:'现在完成时',object_clause:'宾语从句',conditional:'条件状语从句',infinitive:'不定式',gerund:'动名词',passive_voice:'被动语态',word_meaning:'单词释义',phrase_collocation:'词组搭配',cloze_general:'完形填空',detail:'阅读-细节理解',main_idea:'阅读-主旨大意',inference:'阅读-推理判断',word_guessing:'阅读-词义猜测'};
 
 function loadData(){
-  var url='./data/results.json?t='+Date.now();
-  fetch(url)
+  var url='./data/results.json?v='+Date.now();
+  fetch(url,{cache:'no-store'})
   .then(function(r){
     if(!r.ok) throw new Error('HTTP '+r.status);
-    return r.json();
+    return r.text();
   })
-  .then(function(data){
+  .then(function(text){
+    var data=JSON.parse(text);
     renderReport(data);
   })
   .catch(function(err){
-    document.getElementById('reportContent').innerHTML='<div class="loading-msg">⚠️ 加载失败，请刷新重试</div>';
+    // Fallback: GitHub API
+    fetch('https://api.github.com/repos/basilren/english-quiz/contents/data/results.json',{headers:{'Accept':'application/vnd.github.v3+json'}})
+    .then(function(r){return r.json();})
+    .then(function(info){
+      var raw=atob(info.content.replace(/\n/g,''));
+      var text=decodeURIComponent(escape(raw));
+      renderReport(JSON.parse(text));
+    })
+    .catch(function(e){
+      document.getElementById('reportContent').innerHTML='<div class="loading-msg">\u26A0\uFE0F \u52A0\u8F7D\u5931\u8D25\uFF0C\u8BF7\u5237\u65B0</div>';
+    });
   });
 }
 

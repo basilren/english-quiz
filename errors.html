@@ -174,22 +174,55 @@ function render(){
   area.innerHTML=html;
 }
 
-// Load data from same-origin path (GitHub Pages serves this directly)
+// Load data with fallback
 function loadData(){
-  var url='./data/results.json?t='+Date.now();
-  fetch(url)
+  var url='./data/results.json?v='+Date.now();
+  var timeout=setTimeout(function(){
+    document.getElementById('errorList').innerHTML='<div class="empty-msg">⏳ 加载较慢，正在重试...</div>';
+    loadFallback();
+  },8000);
+
+  fetch(url,{cache:'no-store'})
   .then(function(r){
+    clearTimeout(timeout);
     if(!r.ok) throw new Error('HTTP '+r.status);
-    return r.json();
+    return r.text();
   })
-  .then(function(data){
+  .then(function(text){
+    try{
+      var data=JSON.parse(text);
+      errorData=data.errors||[];
+      sessionsData=data.sessions||[];
+      render();
+    }catch(e){
+      console.error('JSON parse error:',e);
+      loadFallback();
+    }
+  })
+  .catch(function(err){
+    clearTimeout(timeout);
+    console.error('Fetch error:',err);
+    loadFallback();
+  });
+}
+
+function loadFallback(){
+  // Fallback: load via GitHub API (base64 decode)
+  var apiUrl='https://api.github.com/repos/basilren/english-quiz/contents/data/results.json';
+  fetch(apiUrl,{headers:{'Accept':'application/vnd.github.v3+json'}})
+  .then(function(r){return r.json();})
+  .then(function(info){
+    if(!info.content) throw new Error('No content');
+    var raw=atob(info.content.replace(/\n/g,''));
+    var text=decodeURIComponent(escape(raw));
+    var data=JSON.parse(text);
     errorData=data.errors||[];
     sessionsData=data.sessions||[];
     render();
   })
   .catch(function(err){
-    document.getElementById('errorList').innerHTML='<div class="empty-msg">⚠️ 加载失败，请刷新重试</div>';
-    console.error('Load error:',err);
+    document.getElementById('errorList').innerHTML='<div class="empty-msg">⚠️ 加载失败，请刷新重试<br><span style="font-size:11px;color:#999">'+err.message+'</span></div>';
+    console.error('Fallback error:',err);
   });
 }
 
