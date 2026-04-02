@@ -6,7 +6,7 @@
 <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
 <meta http-equiv="Pragma" content="no-cache">
 <meta http-equiv="Expires" content="0">
-<title>Basco 今日英语练习</title>
+<title>Bosco 今日英语练习</title>
 <script>
 // Page loaded successfully - reset 404 retry counter
 try { sessionStorage.removeItem('gh404_retry'); } catch(e) {}
@@ -133,7 +133,7 @@ body {
 <body>
 <div class="container">
   <div class="header">
-    <h1 id="mainTitle">📝 Basco 今日英语练习</h1>
+    <h1 id="mainTitle">📝 Bosco 今日英语练习</h1>
     <div class="subtitle" id="subtitleText">第 6 天 · 第 1 组 · 2026年4月2日</div>
     <div class="progress-bar"><div class="progress-fill" id="progressFill" style="width:0%"></div></div>
     <div class="progress-text" id="progressText">第 1 页 / 共 14 题</div>
@@ -337,9 +337,9 @@ function submitToGitHub(){
         // Decode UTF-8: atob returns Latin-1, need to convert back to UTF-8
         var utf8=decodeURIComponent(escape(raw));
         existing=JSON.parse(utf8);
-      }catch(e){existing={student:'Basco',sessions:[],errors:[]};}
+      }catch(e){existing={student:'Bosco',sessions:[],errors:[]};}
     } else {
-      existing={student:'Basco',sessions:[],errors:[]};
+      existing={student:'Bosco',sessions:[],errors:[]};
     }
 
     // Check for duplicate session
