@@ -49,6 +49,13 @@
       "total": 14,
       "correct": 10,
       "rate": 71
+    },
+    {
+      "date": "2026-04-02",
+      "session": 1,
+      "total": 14,
+      "correct": 10,
+      "rate": 71
     }
   ],
   "errors": [
@@ -483,6 +490,78 @@
       "correct_answer": "C",
       "student_answer": "D",
       "explanation": "have conversations 意为'进行对话'，是固定搭配。have a conversation/discussion/talk with sb. 都是常见搭配。make up 编造/化妆；hold 举行（hold a meeting，但不说 hold conversations）；take part in 参加（活动，不接 conversations）。完形填空中的固定搭配考查：需要积累常见动宾搭配，have 是万能动词，搭配范围很广。"
+    },
+    {
+      "date": "2026-04-02",
+      "session": 1,
+      "question_id": 3,
+      "type": "grammar",
+      "knowledge_point": "object_clause",
+      "label": "宾语从句",
+      "stem": "I don't know _____ the meeting will start. Do you have any idea?",
+      "options": [
+        "A. what",
+        "B. that",
+        "C. when",
+        "D. which"
+      ],
+      "correct_answer": "C",
+      "student_answer": "B",
+      "explanation": "宾语从句引导词取决于从句缺少的成分。'the meeting will start' 主谓宾完整，缺少时间状语，用 when（什么时候）。what 问'什么'（作主语或宾语）；that 引导陈述句（无疑问意义）；which 问'哪一个'。"
+    },
+    {
+      "date": "2026-04-02",
+      "session": 1,
+      "question_id": 7,
+      "type": "cloze",
+      "knowledge_point": "cloze_general",
+      "label": "完形填空",
+      "stem": "(7)",
+      "options": [
+        "A. excited",
+        "B. nervous",
+        "C. proud",
+        "D. lonely"
+      ],
+      "correct_answer": "B",
+      "student_answer": "A",
+      "explanation": "Jenny 是个害羞的女孩，不喜欢在别人面前说话（shy, never liked speaking in front of others），被要求做演讲时自然感到'紧张'（nervous）。后文'She wanted to run away'也印证了紧张的心理。excited 兴奋；proud 骄傲；lonely 孤独——都不符合语境。"
+    },
+    {
+      "date": "2026-04-02",
+      "session": 1,
+      "question_id": 8,
+      "type": "cloze",
+      "knowledge_point": "cloze_general",
+      "label": "完形填空",
+      "stem": "(8)",
+      "options": [
+        "A. laughed at",
+        "B. agreed with",
+        "C. encouraged",
+        "D. reminded"
+      ],
+      "correct_answer": "C",
+      "student_answer": "B",
+      "explanation": "妈妈看到女儿紧张，说'别担心，做你自己，用心说'——这是在'鼓励'（encouraged）她。laughed at 嘲笑（妈妈不会嘲笑紧张的孩子）；agreed with 同意（后面不是表达赞同）；reminded 提醒（这里不是提醒做什么事）。需要跨句理解妈妈说话的目的。"
+    },
+    {
+      "date": "2026-04-02",
+      "session": 1,
+      "question_id": 12,
+      "type": "reading",
+      "knowledge_point": "inference",
+      "label": "阅读-推理判断",
+      "stem": "12. Why don't vertical farms need pesticides?",
+      "options": [
+        "A. Because the plants are very strong.",
+        "B. Because there are no insects inside the buildings.",
+        "C. Because the LED lights can kill insects.",
+        "D. Because the computers control the insects."
+      ],
+      "correct_answer": "B",
+      "student_answer": "C",
+      "explanation": "原文第三段：vertical farms don't need pesticides because there are no insects inside the buildings。因为建筑内没有昆虫，所以不需要农药。A 文中未提；C 和 D 是编造的因果关系。注意 because 引导的原因从句。"
     }
   ]
 }
