@@ -56,6 +56,13 @@
       "total": 14,
       "correct": 10,
       "rate": 71
+    },
+    {
+      "date": "2026-04-03",
+      "session": 1,
+      "total": 14,
+      "correct": 8,
+      "rate": 57
     }
   ],
   "errors": [
@@ -562,6 +569,114 @@
       "correct_answer": "B",
       "student_answer": "C",
       "explanation": "原文第三段：vertical farms don't need pesticides because there are no insects inside the buildings。因为建筑内没有昆虫，所以不需要农药。A 文中未提；C 和 D 是编造的因果关系。注意 because 引导的原因从句。"
+    },
+    {
+      "date": "2026-04-03",
+      "session": 1,
+      "question_id": 3,
+      "type": "grammar",
+      "knowledge_point": "object_clause",
+      "label": "宾语从句",
+      "stem": "The teacher asked the students _____.",
+      "options": [
+        "A. if they have finished their homework",
+        "B. whether they had finished their homework",
+        "C. have they finished their homework",
+        "D. did they finish their homework"
+      ],
+      "correct_answer": "B",
+      "student_answer": "A",
+      "explanation": "宾语从句三要素：(1) 引导词：一般疑问句用 if/whether；(2) 陈述语序：排除 C 和 D（疑问语序）；(3) 时态呼应：主句 asked 是过去时，从句要用相应的过去时态，'已经完成'用过去完成时 had finished。A 虽然是陈述语序，但用了 have finished（现在完成时），没有做时态呼应。"
+    },
+    {
+      "date": "2026-04-03",
+      "session": 1,
+      "question_id": 5,
+      "type": "vocabulary",
+      "knowledge_point": "word_meaning",
+      "label": "单词释义",
+      "stem": "The pollution in the river has _____ the fish population. Many species have disappeared.",
+      "options": [
+        "A. increased",
+        "B. protected",
+        "C. reduced",
+        "D. improved"
+      ],
+      "correct_answer": "C",
+      "student_answer": "B",
+      "explanation": "后半句'很多物种已经消失了'说明鱼的数量是'减少'（reduced）了。increase 增加（与消失矛盾）；protect 保护（与物种消失矛盾）；improve 改善（语义不符）。reduce 意为'减少，降低'，是 8B Unit 5 保护濒危动物的重要词汇。"
+    },
+    {
+      "date": "2026-04-03",
+      "session": 1,
+      "question_id": 8,
+      "type": "cloze",
+      "knowledge_point": "cloze_general",
+      "label": "完形填空",
+      "stem": "(8)",
+      "options": [
+        "A. how",
+        "B. why",
+        "C. when",
+        "D. where"
+      ],
+      "correct_answer": "B",
+      "student_answer": "C",
+      "explanation": "Tom 担心'忘词怎么办'，Jack 回应'那就是为什么（why）我们需要练习'。这里 That's why... 是固定句型，意为'那就是...的原因'。how 怎样（That's how we... 那就是我们如何...，逻辑不通）；when 什么时候（不合语境）；where 哪里（不合语境）。注意 That's why 和 That's because 的区别：why 后面跟结果，because 后面跟原因。"
+    },
+    {
+      "date": "2026-04-03",
+      "session": 1,
+      "question_id": 10,
+      "type": "cloze",
+      "knowledge_point": "cloze_general",
+      "label": "完形填空",
+      "stem": "(10)",
+      "options": [
+        "A. looked",
+        "B. turned",
+        "C. broke",
+        "D. ran"
+      ],
+      "correct_answer": "C",
+      "student_answer": "A",
+      "explanation": "演唱结束后，大厅先是'安静了一会儿'，然后'爆发出'热烈掌声。broke into 意为'突然爆发'，是固定搭配。broke into applause / broke into laughter / broke into tears 都是常见表达。looked into 调查；turned into 变成（虽然语法可以，但 turned into applause 不是地道表达）；ran into 偶遇/撞上。这道题考查动词短语搭配和语境推断。"
+    },
+    {
+      "date": "2026-04-03",
+      "session": 1,
+      "question_id": 11,
+      "type": "reading",
+      "knowledge_point": "detail",
+      "label": "阅读-细节理解",
+      "stem": "11. According to the passage, how many species of marine animals have been found with plastic inside them?",
+      "options": [
+        "A. About 80.",
+        "B. More than 700.",
+        "C. About 8 million.",
+        "D. More than 2018."
+      ],
+      "correct_answer": "B",
+      "student_answer": "C",
+      "explanation": "原文第二段：Scientists have found plastic inside the stomachs of more than 700 species of marine animals。答案直接对应 B。A 的 80 文中未提；C 的 8 million 是每年流入海洋的塑料吨数，不是物种数；D 的 2018 是欧盟宣布禁令的年份。做细节题注意区分不同数字对应的对象。"
+    },
+    {
+      "date": "2026-04-03",
+      "session": 1,
+      "question_id": 13,
+      "type": "reading",
+      "knowledge_point": "main_idea",
+      "label": "阅读-主旨大意",
+      "stem": "13. What is the passage mainly about?",
+      "options": [
+        "A. How sea turtles are endangered by pollution.",
+        "B. The problem of ocean plastic pollution and efforts to fight it.",
+        "C. Why the European Union banned plastic items.",
+        "D. The story of two teenage girls from Bali."
+      ],
+      "correct_answer": "B",
+      "student_answer": "D",
+      "explanation": "文章四段结构：(1) 海洋塑料污染的严重程度 (2) 塑料如何危害海洋生物 (3) 各方的应对措施 (4) 专家认为还需更大改变。覆盖了'问题+应对'两个方面，B 最全面。A 只涉及海龟（第二段的一个例子）；C 只涉及欧盟（第三段一个例子）；D 只涉及两姐妹（第三段一个例子）。做主旨题：找能概括全文所有段落的选项，以偏概全的排除。"
     }
   ]
 }
