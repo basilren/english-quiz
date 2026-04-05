@@ -63,6 +63,13 @@
       "total": 14,
       "correct": 8,
       "rate": 57
+    },
+    {
+      "date": "2026-04-04",
+      "session": 1,
+      "total": 14,
+      "correct": 12,
+      "rate": 86
     }
   ],
   "errors": [
@@ -677,6 +684,42 @@
       "correct_answer": "B",
       "student_answer": "D",
       "explanation": "文章四段结构：(1) 海洋塑料污染的严重程度 (2) 塑料如何危害海洋生物 (3) 各方的应对措施 (4) 专家认为还需更大改变。覆盖了'问题+应对'两个方面，B 最全面。A 只涉及海龟（第二段的一个例子）；C 只涉及欧盟（第三段一个例子）；D 只涉及两姐妹（第三段一个例子）。做主旨题：找能概括全文所有段落的选项，以偏概全的排除。"
+    },
+    {
+      "date": "2026-04-04",
+      "session": 1,
+      "question_id": 7,
+      "type": "cloze",
+      "knowledge_point": "cloze_general",
+      "label": "完形填空",
+      "stem": "(7)",
+      "options": [
+        "A. study",
+        "B. train",
+        "C. play",
+        "D. rest"
+      ],
+      "correct_answer": "B",
+      "student_answer": "D",
+      "explanation": "train 意为'训练'。Alex 之前赢得很轻松，不需要很努力地训练（train hard）。上下文：跑步比赛 + 不需要很努力 → 不需要很辛苦地训练。A study 学习（不适合跑步场景）；C play 玩（太宽泛）；D rest 休息（逻辑不通：不需要努力休息？）。"
+    },
+    {
+      "date": "2026-04-04",
+      "session": 1,
+      "question_id": 11,
+      "type": "cloze",
+      "knowledge_point": "cloze_general",
+      "label": "完形填空",
+      "stem": "(11)",
+      "options": [
+        "A. broke",
+        "B. kept",
+        "C. set",
+        "D. lost"
+      ],
+      "correct_answer": "C",
+      "student_answer": "B",
+      "explanation": "set a record 意为'创造纪录'。经过几周训练，Alex 创造了新的个人纪录。set a new record / set a personal record 是固定搭配。A broke（break a record 打破纪录也可以，但 break 的过去式是 broke，这里 personal record 更适合 set）；B kept 保持；D lost 失去。注意：set 的过去式仍是 set，不变形。"
     }
   ]
 }
