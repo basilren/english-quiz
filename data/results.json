@@ -70,6 +70,13 @@
       "total": 14,
       "correct": 12,
       "rate": 86
+    },
+    {
+      "date": "2026-04-06",
+      "session": 1,
+      "total": 14,
+      "correct": 10,
+      "rate": 71
     }
   ],
   "errors": [
@@ -720,6 +727,78 @@
       "correct_answer": "C",
       "student_answer": "B",
       "explanation": "set a record 意为'创造纪录'。经过几周训练，Alex 创造了新的个人纪录。set a new record / set a personal record 是固定搭配。A broke（break a record 打破纪录也可以，但 break 的过去式是 broke，这里 personal record 更适合 set）；B kept 保持；D lost 失去。注意：set 的过去式仍是 set，不变形。"
+    },
+    {
+      "date": "2026-04-06",
+      "session": 1,
+      "question_id": 8,
+      "type": "cloze",
+      "knowledge_point": "cloze_general",
+      "label": "完形填空",
+      "stem": "(8)",
+      "options": [
+        "A. nodded",
+        "B. raised",
+        "C. shook",
+        "D. turned"
+      ],
+      "correct_answer": "C",
+      "student_answer": "A",
+      "explanation": "shook his head 意为'摇头'，表示否定或不想说。David 一开始什么都不说（said nothing），摇头表示不想谈。nodded 点头（表示肯定，与 said nothing 矛盾）；raised 抬头；turned 转头。shake one's head = 摇头，nod one's head = 点头。注意 shook 是 shake 的过去式。"
+    },
+    {
+      "date": "2026-04-06",
+      "session": 1,
+      "question_id": 11,
+      "type": "cloze",
+      "knowledge_point": "cloze_general",
+      "label": "完形填空",
+      "stem": "(11)",
+      "options": [
+        "A. noisy",
+        "B. peaceful",
+        "C. busy",
+        "D. famous"
+      ],
+      "correct_answer": "B",
+      "student_answer": "A",
+      "explanation": "peaceful 意为'和平的，安宁的'。父母不再吵架了，家庭重新变得平静。peaceful 与前文 arguing（吵架）形成对比。noisy 吵闹的（与'停止吵架'矛盾）；busy 忙碌的（无关）；famous 出名的（无关）。"
+    },
+    {
+      "date": "2026-04-06",
+      "session": 1,
+      "question_id": 12,
+      "type": "reading",
+      "knowledge_point": "detail",
+      "label": "阅读-细节理解",
+      "stem": "12. According to the first theory, what do dreams help our brains do?",
+      "options": [
+        "A. Create new memories.",
+        "B. Process information from the day.",
+        "C. Forget everything we learned.",
+        "D. Stay awake at night."
+      ],
+      "correct_answer": "B",
+      "student_answer": "A",
+      "explanation": "原文第二段：dreams help our brains process information from the day。梦帮助大脑处理白天的信息。A 不是'创造新记忆'而是'整理记忆'；C 太极端（不是忘记所有东西）；D 相反（梦发生在睡眠中）。"
+    },
+    {
+      "date": "2026-04-06",
+      "session": 1,
+      "question_id": 14,
+      "type": "reading",
+      "knowledge_point": "main_idea",
+      "label": "阅读-主旨大意",
+      "stem": "14. What is the best title for this passage?",
+      "options": [
+        "A. How to Sleep Better at Night",
+        "B. The Science Behind Dreams",
+        "C. Why REM Sleep Is Dangerous",
+        "D. How to Remember Your Dreams"
+      ],
+      "correct_answer": "B",
+      "student_answer": "A",
+      "explanation": "全文五段：(1) 引出问题——为什么做梦 (2) 理论一：处理信息 (3) 理论二：处理情绪 (4) 做梦的生理机制(REM) (5) 总结。核心话题是'梦背后的科学'。A 文章不是讲如何睡得更好；C REM 不是危险的；D 只是文中一小部分内容。主旨题：找覆盖全文所有段落的选项。"
     }
   ]
 }
