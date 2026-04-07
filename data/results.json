@@ -77,6 +77,13 @@
       "total": 14,
       "correct": 10,
       "rate": 71
+    },
+    {
+      "date": "2026-04-07",
+      "session": 1,
+      "total": 14,
+      "correct": 11,
+      "rate": 79
     }
   ],
   "errors": [
@@ -799,6 +806,60 @@
       "correct_answer": "B",
       "student_answer": "A",
       "explanation": "全文五段：(1) 引出问题——为什么做梦 (2) 理论一：处理信息 (3) 理论二：处理情绪 (4) 做梦的生理机制(REM) (5) 总结。核心话题是'梦背后的科学'。A 文章不是讲如何睡得更好；C REM 不是危险的；D 只是文中一小部分内容。主旨题：找覆盖全文所有段落的选项。"
+    },
+    {
+      "date": "2026-04-07",
+      "session": 1,
+      "question_id": 7,
+      "type": "cloze",
+      "knowledge_point": "cloze_general",
+      "label": "完形填空",
+      "stem": "(7)",
+      "options": [
+        "A. brave",
+        "B. crazy",
+        "C. smart",
+        "D. kind"
+      ],
+      "correct_answer": "B",
+      "student_answer": "A",
+      "explanation": "crazy 意为'疯狂的'。后文线索：because nobody seemed to read paper books any more（因为似乎没人再看纸质书了）。别人认为在没人看纸质书的时代开书店是'疯狂的'举动。brave 勇敢的（偏正面）；smart 聪明的（与'没人买书'矛盾）；kind 善良的（无关）。"
+    },
+    {
+      "date": "2026-04-07",
+      "session": 1,
+      "question_id": 8,
+      "type": "cloze",
+      "knowledge_point": "cloze_general",
+      "label": "完形填空",
+      "stem": "(8)",
+      "options": [
+        "A. terrible",
+        "B. simple",
+        "C. creative",
+        "D. strange"
+      ],
+      "correct_answer": "C",
+      "student_answer": "D",
+      "explanation": "creative 意为'有创意的'。后文描述了 Book and Coffee 活动的具体做法——带书交换+免费咖啡，这是一个有创意的想法。而且结果是 the shop quickly became popular（很快变受欢迎），说明这个想法很成功。terrible 可怕的、simple 简单的、strange 奇怪的——都无法解释'迅速流行'的结果。"
+    },
+    {
+      "date": "2026-04-07",
+      "session": 1,
+      "question_id": 13,
+      "type": "reading",
+      "knowledge_point": "inference",
+      "label": "阅读-推理判断",
+      "stem": "13. What can we infer from Paragraph 3?",
+      "options": [
+        "A. AI will completely replace doctors and teachers.",
+        "B. Patients prefer talking to AI rather than real doctors.",
+        "C. AI is a useful tool, but human connection is still important.",
+        "D. Teachers will no longer be needed in the future."
+      ],
+      "correct_answer": "C",
+      "student_answer": "A",
+      "explanation": "推理判断题：第三段举了医生和老师两个例子。AI 帮医生读 X 光片但病人仍想和真人医生交谈；AI 帮老师备课但学生在有关爱的老师时学得最好。两个例子都说明：AI 是有用的工具，但人与人的联系仍然重要。A/D 说'完全替代'，原文明确说 not replace humans completely；B 与原文相反（patients still want to talk to a real doctor）。"
     }
   ]
 }
