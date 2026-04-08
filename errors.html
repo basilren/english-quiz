@@ -71,7 +71,9 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;b
     <div class="filter-btn" data-filter="vocabulary" onclick="setFilter('vocabulary')">词汇</div>
   </div>
 
+  <div id="dateSearch"></div>
   <div id="errorList"><div class="loading-msg">⏳ 加载错题数据...</div></div>
+  <div id="pagination"></div>
 
   <div class="link-bar">
     <a class="link-btn purple" href="/english-quiz/">📝 去做题</a>
@@ -84,6 +86,9 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;b
 var errorData = [];
 var sessionsData = [];
 var currentFilter = 'all';
+var searchDate = '';
+var currentPage = 1;
+var PAGE_SIZE = 5;
 var tagMap = {grammar:'tag-grammar',cloze:'tag-cloze',reading:'tag-reading',vocabulary:'tag-vocabulary',listening:'tag-listening'};
 var typeMap = {grammar:'语法题',cloze:'完形填空',reading:'阅读理解',vocabulary:'词汇题',listening:'听力题'};
 
@@ -96,15 +101,19 @@ function daysAgo(dateStr){
 }
 
 function setFilter(f){
-  currentFilter=f;
+  currentFilter=f;currentPage=1;
   document.querySelectorAll('.filter-btn').forEach(function(b){
     b.classList.toggle('active',b.dataset.filter===f);
   });
   render();
 }
 
+function setSearchDate(v){searchDate=v;currentPage=1;render();}
+function goPage(p){currentPage=p;render();window.scrollTo(0,document.getElementById('errorList').offsetTop-60);}
+
 function getFiltered(){
   return errorData.filter(function(e){
+    if(searchDate && e.date!==searchDate) return false;
     if(currentFilter==='all') return true;
     if(currentFilter==='7') return daysAgo(e.date)<=7;
     if(currentFilter==='30') return daysAgo(e.date)<=30;
@@ -121,7 +130,6 @@ function render(){
   filtered.forEach(function(e){points[e.knowledge_point]=1;});
   document.getElementById('totalPoints').textContent=Object.keys(points).length;
 
-  // Calculate overall rate from sessions
   if(sessionsData.length>0){
     var totalC=0,totalT=0;
     sessionsData.forEach(function(s){totalC+=s.correct;totalT+=s.total;});
@@ -129,13 +137,29 @@ function render(){
     document.getElementById('updateTime').textContent='共 '+sessionsData.length+' 组 · 最后更新 '+sessionsData[sessionsData.length-1].date;
   }
 
+  // Date selector
+  var allDates={};errorData.forEach(function(e){allDates[e.date]=1;});
+  var dateList=Object.keys(allDates).sort().reverse();
+  var dateHtml='<select onchange="setSearchDate(this.value)" style="padding:6px 10px;border:1.5px solid #e2e8f0;border-radius:8px;font-size:13px;outline:none;color:#334155;background:#fff;margin-bottom:10px;width:100%"><option value="">全部日期</option>';
+  dateList.forEach(function(d){var sel=searchDate===d?' selected':'';dateHtml+='<option value="'+d+'"'+sel+'>'+d+(daysAgo(d)===0?' (今天)':daysAgo(d)===1?' (昨天)':'')+'</option>';});
+  dateHtml+='</select>';
+  document.getElementById('dateSearch').innerHTML=dateHtml;
+
   if(filtered.length===0){
     area.innerHTML='<div class="empty-msg">🎉 没有错题！继续保持！</div>';
+    document.getElementById('pagination').innerHTML='';
     return;
   }
 
+  // Pagination
+  var totalPages=Math.ceil(filtered.length/PAGE_SIZE);
+  if(currentPage>totalPages) currentPage=totalPages;
+  var start=(currentPage-1)*PAGE_SIZE;
+  var pageItems=filtered.slice(start,start+PAGE_SIZE);
+
+  // Group by date
   var groups={};
-  filtered.forEach(function(e){
+  pageItems.forEach(function(e){
     if(!groups[e.date]) groups[e.date]=[];
     groups[e.date].push(e);
   });
@@ -172,6 +196,15 @@ function render(){
     html+='</div>';
   });
   area.innerHTML=html;
+
+  // Pagination controls
+  var pgHtml='<div style="display:flex;align-items:center;justify-content:center;gap:8px;margin-top:16px;padding-bottom:8px">';
+  pgHtml+='<span style="font-size:12px;color:#64748b">'+filtered.length+' 题 · 第 '+currentPage+'/'+totalPages+' 页</span>';
+  pgHtml+='</div><div style="display:flex;gap:6px;justify-content:center;flex-wrap:wrap">';
+  if(currentPage>1) pgHtml+='<button onclick="goPage('+(currentPage-1)+')" style="padding:6px 14px;border:1.5px solid #667eea;border-radius:8px;background:#fff;color:#667eea;font-size:13px;font-weight:600;cursor:pointer">&#x2B05; 上一页</button>';
+  if(currentPage<totalPages) pgHtml+='<button onclick="goPage('+(currentPage+1)+')" style="padding:6px 14px;border:1.5px solid #667eea;border-radius:8px;background:#667eea;color:#fff;font-size:13px;font-weight:600;cursor:pointer">下一页 &#x27A1;</button>';
+  pgHtml+='</div>';
+  document.getElementById('pagination').innerHTML=pgHtml;
 }
 
 // Load data with fallback

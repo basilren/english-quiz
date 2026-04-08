@@ -29,3 +29,10 @@
 - 新主题：完形-校园音乐节、阅读-海洋塑料污染（避开已用主题）
 - 难度级别：完形3，语法/词汇/阅读2
 - Git push 成功：95dfc41
+
+### 2026-04-07 11:00 - Day 11 Session 1
+- 生成 14 道题：语法 4 题（现在完成时×2 been/gone+非延续性动词、宾语从句×1 if/whether、不定式×1 It is+adj+to do）、词汇 2 题（word_meaning×1 boring、phrase_collocation×1 set up）、完形填空 5 题（**难度3** 社区二手书店-Amy创业，含 crazy/creative/exchange...for/communicate/share 跨句推理+固定搭配）、阅读理解 3 题（议论文-AI与未来职业，含细节+推理+词义猜测 optimistic）
+- 弱项加权：现在完成时(50%)×2、宾语从句(50%)×1 持续强化；不定式（未测试）首次单独出题
+- 新主题：完形-社区二手书店、阅读-人工智能与未来职业（避开已用主题）
+- 难度级别：完形3，语法/词汇/阅读2
+- Git push 成功：2c6eab7
