@@ -84,6 +84,13 @@
       "total": 14,
       "correct": 11,
       "rate": 79
+    },
+    {
+      "date": "2026-04-08",
+      "session": 1,
+      "total": 20,
+      "correct": 15,
+      "rate": 75
     }
   ],
   "errors": [
@@ -860,6 +867,96 @@
       "correct_answer": "C",
       "student_answer": "A",
       "explanation": "推理判断题：第三段举了医生和老师两个例子。AI 帮医生读 X 光片但病人仍想和真人医生交谈；AI 帮老师备课但学生在有关爱的老师时学得最好。两个例子都说明：AI 是有用的工具，但人与人的联系仍然重要。A/D 说'完全替代'，原文明确说 not replace humans completely；B 与原文相反（patients still want to talk to a real doctor）。"
+    },
+    {
+      "date": "2026-04-08",
+      "session": 1,
+      "question_id": 14,
+      "type": "cloze",
+      "knowledge_point": "cloze_general",
+      "label": "完形填空",
+      "stem": "(14)",
+      "options": [
+        "A. writing",
+        "B. shouting",
+        "C. talking",
+        "D. complaining"
+      ],
+      "correct_answer": "C",
+      "student_answer": "D",
+      "explanation": "talking to each other face to face 面对面交谈。关键线索：face to face（面对面）+ 后文 played board games, read books 都是积极的社交活动。complaining 抱怨（But 后面是正面转折，不应该是抱怨）；writing 和 shouting 不搭配 face to face 的语境。"
+    },
+    {
+      "date": "2026-04-08",
+      "session": 1,
+      "question_id": 15,
+      "type": "cloze",
+      "knowledge_point": "cloze_general",
+      "label": "完形填空",
+      "stem": "(15)",
+      "options": [
+        "A. disappointed",
+        "B. frightened",
+        "C. surprised",
+        "D. bored"
+      ],
+      "correct_answer": "C",
+      "student_answer": "A",
+      "explanation": "surprised 意为'惊讶的'。一天结束时，大部分学生感到惊讶——原来没有手机也能这么开心。后面学生说 I actually had more fun than usual，actually 表示出乎意料。surprised 完美呼应了这种'超出预期'的情感。"
+    },
+    {
+      "date": "2026-04-08",
+      "session": 1,
+      "question_id": 18,
+      "type": "reading",
+      "knowledge_point": "inference",
+      "label": "阅读-推理判断",
+      "stem": "18. Why are vending machines rarely damaged in Japan?",
+      "options": [
+        "A. Because they are made of very strong materials.",
+        "B. Because there are security cameras everywhere.",
+        "C. Because Japan has a very low crime rate.",
+        "D. Because the police watch them carefully."
+      ],
+      "correct_answer": "C",
+      "student_answer": "B",
+      "explanation": "原文第三段：Because the country is very safe, the machines are rarely damaged or stolen from。因为日本非常安全（犯罪率低），机器很少被破坏。A/B/D 都是文中没提到的原因。"
+    },
+    {
+      "date": "2026-04-08",
+      "session": 1,
+      "question_id": 19,
+      "type": "reading",
+      "knowledge_point": "word_guessing",
+      "label": "阅读-词义猜测",
+      "stem": "19. The underlined phrase 'daily necessities' in Paragraph 2 most probably means _____.",
+      "options": [
+        "A. expensive gifts",
+        "B. electronic products",
+        "C. things people need every day",
+        "D. toys for children"
+      ],
+      "correct_answer": "C",
+      "student_answer": "B",
+      "explanation": "词义猜测：原文说在偏远地区商店少，自动售货机是人们购买 daily necessities 的重要方式。daily = 每天的，necessities 从上下文推断是人们需要的东西。daily necessities = 日常必需品 = things people need every day。"
+    },
+    {
+      "date": "2026-04-08",
+      "session": 1,
+      "question_id": 20,
+      "type": "reading",
+      "knowledge_point": "main_idea",
+      "label": "阅读-主旨大意",
+      "stem": "20. What is the passage mainly about?",
+      "options": [
+        "A. How to use vending machines in Japan.",
+        "B. Why Japanese people don't like shopping.",
+        "C. Japan's vending machines and why they are so popular.",
+        "D. The history of vending machines around the world."
+      ],
+      "correct_answer": "C",
+      "student_answer": "D",
+      "explanation": "全文四段：(1) 日本自动售货机数量惊人 (2) 种类繁多 (3) 流行的原因 (4) 创新用途。核心主题是'日本的自动售货机为什么这么多/这么受欢迎'。A 太窄（不只是如何使用）；B 原文没说不喜欢购物；D 没涉及全球历史。"
     }
   ]
 }
