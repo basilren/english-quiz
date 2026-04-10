@@ -98,81 +98,16 @@
       "total": 20,
       "correct": 16,
       "rate": 80
+    },
+    {
+      "date": "2026-04-10",
+      "session": 1,
+      "total": 20,
+      "correct": 16,
+      "rate": 80
     }
   ],
   "errors": [
-    {
-      "date": "2026-03-28",
-      "session": 1,
-      "question_id": 10,
-      "type": "reading",
-      "knowledge_point": "detail",
-      "label": "阅读-细节理解",
-      "stem": "According to the passage, which of the following is TRUE?",
-      "options": [
-        "A. Bees use sounds to communicate.",
-        "B. Ants leave a smell to guide other ants.",
-        "C. Dolphins dance to talk to each other.",
-        "D. Koko could use more than 2,000 signs."
-      ],
-      "correct_answer": "B",
-      "student_answer": "D",
-      "explanation": "原文：ants leave a special smell on the ground so that other ants can follow the path to food，与 B 一致。A 错（蜜蜂是跳舞）；C 错（海豚是发声音）；D 错（是 1,000+ 不是 2,000）。"
-    },
-    {
-      "date": "2026-03-28",
-      "session": 2,
-      "question_id": 5,
-      "type": "grammar",
-      "knowledge_point": "object_clause",
-      "label": "宾语从句",
-      "stem": "Could you tell me _____?",
-      "options": [
-        "A. where does he live",
-        "B. where he lives",
-        "C. where did he live",
-        "D. where he does live"
-      ],
-      "correct_answer": "B",
-      "student_answer": "A",
-      "explanation": "宾语从句必须使用陈述语序（主语 + 谓语）。A 和 C 是疑问语序；D 多了助动词 does；只有 B 是正确的陈述语序。"
-    },
-    {
-      "date": "2026-03-28",
-      "session": 2,
-      "question_id": 9,
-      "type": "reading",
-      "knowledge_point": "main_idea",
-      "label": "阅读-主旨大意",
-      "stem": "What is the passage mainly about?",
-      "options": [
-        "A. How bees find food.",
-        "B. Why dogs wag their tails.",
-        "C. How animals communicate.",
-        "D. How scientists study gorillas."
-      ],
-      "correct_answer": "C",
-      "student_answer": "A",
-      "explanation": "文章首句 animals can communicate with each other 就是中心句，后文蜜蜂、蚂蚁、海豚、猩猩都是例子。A/B/D 都只提到了某一个细节，以偏概全。做主旨题：看首段首句。"
-    },
-    {
-      "date": "2026-03-29",
-      "session": 1,
-      "question_id": 7,
-      "type": "vocabulary",
-      "knowledge_point": "phrase_collocation",
-      "label": "词组搭配",
-      "stem": "He was late for school because his alarm clock didn't _____.",
-      "options": [
-        "A. go off",
-        "B. go on",
-        "C. go out",
-        "D. go up"
-      ],
-      "correct_answer": "A",
-      "student_answer": "D",
-      "explanation": "go off 意为'（闹钟）响'。闹钟没响所以迟到了。go on 继续；go out 出去/熄灭；go up 上升。go 短语辨析是常考点，注意 go off 还可以表示'（食物）变质'。"
-    },
     {
       "date": "2026-03-29",
       "session": 1,
@@ -1000,6 +935,78 @@
       "correct_answer": "B",
       "student_answer": "C",
       "explanation": "主旨题：全文五段结构为——(1)什么是微塑料 (2)来源 (3)分布之广 (4)对健康的潜在影响 (5)我们能做什么。核心主题是'微塑料这个小东西带来越来越大的威胁'。A 太绝对（不是说完全不用塑料）；C 太窄（科学家研究海洋只是文章的一个细节）；D 没涉及塑料污染历史。B 最全面概括。"
+    },
+    {
+      "date": "2026-04-10",
+      "session": 1,
+      "question_id": 13,
+      "type": "cloze",
+      "knowledge_point": "cloze_general",
+      "label": "完形填空",
+      "stem": "(13)",
+      "options": [
+        "A. learn",
+        "B. forget",
+        "C. teach",
+        "D. lose"
+      ],
+      "correct_answer": "A",
+      "student_answer": "B",
+      "explanation": "Ms. Chen 鼓励大家试一试，说'你可能会对你所学到的东西感到惊讶'（You might be surprised by what you learn）。这里是 what 引导的宾语从句，表示'你学到的东西'。全文主旨就是'教别人的过程中自己也有收获'，呼应结尾 helping others is also a way of helping yourself。learn 完美对应主题。"
+    },
+    {
+      "date": "2026-04-10",
+      "session": 1,
+      "question_id": 15,
+      "type": "cloze",
+      "knowledge_point": "cloze_general",
+      "label": "完形填空",
+      "stem": "(15)",
+      "options": [
+        "A. dropped",
+        "B. remained",
+        "C. improved",
+        "D. appeared"
+      ],
+      "correct_answer": "C",
+      "student_answer": "B",
+      "explanation": "句意：让我最惊讶的是我自己的阅读速度和词汇量也提高了（improved）。这是跨句推理题：前文说 Daming 从不敢读到能独立读章节书（他进步了），紧接着说'更让我惊讶的是我自己也...'，逻辑上应该是'也进步了'。dropped 下降；remained 保持不变；appeared 出现。too 提示与前面的积极变化一致。"
+    },
+    {
+      "date": "2026-04-10",
+      "session": 1,
+      "question_id": 18,
+      "type": "reading",
+      "knowledge_point": "inference",
+      "label": "阅读-推理判断",
+      "stem": "18. What can we infer from Paragraph 4?",
+      "options": [
+        "A. Shared bikes are no longer popular.",
+        "B. All users park their bikes properly now.",
+        "C. The management of shared bikes needed improvement.",
+        "D. Rivers are the best place to keep old bikes."
+      ],
+      "correct_answer": "C",
+      "student_answer": "D",
+      "explanation": "推理判断：第四段说用户乱停乱放、坏车被扔进河里或堆在空地，城市不得不出台严格规定。由此推断：共享单车的管理需要改进（needed improvement）。A 与最后一段矛盾（继续增长）；B 说'所有人'太绝对；D 是荒谬选项。推理题关键：从问题现象推出背后的结论。"
+    },
+    {
+      "date": "2026-04-10",
+      "session": 1,
+      "question_id": 20,
+      "type": "reading",
+      "knowledge_point": "attitude_purpose",
+      "label": "阅读理解",
+      "stem": "20. What is the writer's attitude towards the future of shared bicycles?",
+      "options": [
+        "A. Worried and uncertain.",
+        "B. Positive and hopeful.",
+        "C. Angry and disappointed.",
+        "D. Neutral and uninterested."
+      ],
+      "correct_answer": "B",
+      "student_answer": "D",
+      "explanation": "观点态度题：最后一段用了 continue to grow in popularity（持续增长）、building more bike lanes（建更多车道）、playing a bigger role than ever（发挥更大作用），这些都是积极正面的表述。Despite these challenges（尽管有这些挑战）用转折表明作者承认问题但仍持乐观态度。观点态度题技巧：看 but/however/despite 后面的内容，那才是作者的真实立场。"
     }
   ]
 }
