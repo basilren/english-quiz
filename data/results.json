@@ -105,81 +105,16 @@
       "total": 20,
       "correct": 16,
       "rate": 80
+    },
+    {
+      "date": "2026-04-11",
+      "session": 1,
+      "total": 20,
+      "correct": 16,
+      "rate": 80
     }
   ],
   "errors": [
-    {
-      "date": "2026-03-29",
-      "session": 1,
-      "question_id": 14,
-      "type": "reading",
-      "knowledge_point": "inference",
-      "label": "阅读-推理判断",
-      "stem": "14. According to the passage, what should you NOT do before bedtime?",
-      "options": [
-        "A. Read a book.",
-        "B. Use your phone.",
-        "C. Listen to soft music.",
-        "D. Go to bed at a fixed time."
-      ],
-      "correct_answer": "B",
-      "student_answer": "D",
-      "explanation": "原文最后一段：You should also stop using your phone at least 30 minutes before bedtime。说明睡前不应该用手机。A（读书）和 C（听轻音乐）是推荐做的事；D（固定时间睡觉）也是建议。这道题考查否定细节，注意审题中的 NOT。"
-    },
-    {
-      "date": "2026-03-29",
-      "session": 3,
-      "question_id": 2,
-      "type": "grammar",
-      "knowledge_point": "present_perfect",
-      "label": "现在完成时",
-      "stem": "She has been a teacher _____ she graduated from university.",
-      "options": [
-        "A. when",
-        "B. for",
-        "C. since",
-        "D. before"
-      ],
-      "correct_answer": "C",
-      "student_answer": "A",
-      "explanation": "since + 过去的时间点或动作（用一般过去时），主句用现在完成时。since she graduated 表示'自从她大学毕业以来'。for + 时间段（如 for ten years）。when 引导时间状语从句但不与现在完成时搭配。"
-    },
-    {
-      "date": "2026-03-29",
-      "session": 3,
-      "question_id": 6,
-      "type": "vocabulary",
-      "knowledge_point": "word_meaning",
-      "label": "单词释义",
-      "stem": "The movie was so _____ that many people in the cinema began to cry.",
-      "options": [
-        "A. moving",
-        "B. boring",
-        "C. exciting",
-        "D. relaxing"
-      ],
-      "correct_answer": "A",
-      "student_answer": "C",
-      "explanation": "moving 意为'感人的，令人感动的'。电影院里很多人开始哭了，说明电影很感人。boring 无聊的；exciting 激动人心的；relaxing 令人放松的。注意 moved（感动的，描述人的感受）vs moving（感人的，描述事物）。"
-    },
-    {
-      "date": "2026-03-29",
-      "session": 3,
-      "question_id": 9,
-      "type": "cloze",
-      "knowledge_point": "cloze_general",
-      "label": "完形填空",
-      "stem": "(9)",
-      "options": [
-        "A. small",
-        "B. old",
-        "C. modern",
-        "D. broken"
-      ],
-      "correct_answer": "C",
-      "student_answer": "B",
-      "explanation": "modern 意为'现代的'。北京有很多现代化的建筑和繁忙的街道，用 modern buildings 最贴切。"
-    },
     {
       "date": "2026-03-29",
       "session": 3,
@@ -1007,6 +942,78 @@
       "correct_answer": "B",
       "student_answer": "D",
       "explanation": "观点态度题：最后一段用了 continue to grow in popularity（持续增长）、building more bike lanes（建更多车道）、playing a bigger role than ever（发挥更大作用），这些都是积极正面的表述。Despite these challenges（尽管有这些挑战）用转折表明作者承认问题但仍持乐观态度。观点态度题技巧：看 but/however/despite 后面的内容，那才是作者的真实立场。"
+    },
+    {
+      "date": "2026-04-11",
+      "session": 1,
+      "question_id": 13,
+      "type": "cloze",
+      "knowledge_point": "cloze_general",
+      "label": "完形填空",
+      "stem": "(13)",
+      "options": [
+        "A. embarrassing",
+        "B. touching",
+        "C. confusing",
+        "D. frightening"
+      ],
+      "correct_answer": "B",
+      "student_answer": "A",
+      "explanation": "下文描写小同学小心翼翼地拿起漫画、脸上充满喜悦，作者感悟到'传递快乐'的意义——这是一个感人的（touching）时刻。embarrassing（尴尬的）、confusing（困惑的）、frightening（可怕的）都是负面情感词，与温馨的场景矛盾。touching moment = 感人的时刻，呼应全段的温暖基调。"
+    },
+    {
+      "date": "2026-04-11",
+      "session": 1,
+      "question_id": 14,
+      "type": "cloze",
+      "knowledge_point": "cloze_general",
+      "label": "完形填空",
+      "stem": "(14)",
+      "options": [
+        "A. fill",
+        "B. cover",
+        "C. light up",
+        "D. turn away"
+      ],
+      "correct_answer": "C",
+      "student_answer": "B",
+      "explanation": "watched his face light up with joy = 看着他的脸因喜悦而亮起来。light up 意为'（脸）放光/亮起来'，常用来形容喜悦的表情。fill with（充满）语法上应该是 fill with joy（但 face filled with joy 缺 was）；cover（覆盖）语义不通；turn away（转开）与 joy 矛盾。light up with joy 是描写欣喜表情的经典搭配。"
+    },
+    {
+      "date": "2026-04-11",
+      "session": 1,
+      "question_id": 18,
+      "type": "reading",
+      "knowledge_point": "inference",
+      "label": "阅读-推理判断",
+      "stem": "18. What can we infer from Paragraph 2?",
+      "options": [
+        "A. It is easier to fly on Mars than on Earth.",
+        "B. Ingenuity uses the same blades as Earth helicopters.",
+        "C. Engineers had to solve special problems to fly on Mars.",
+        "D. Mars has a thicker atmosphere than Earth."
+      ],
+      "correct_answer": "C",
+      "student_answer": "A",
+      "explanation": "推理判断：第二段说火星大气密度只有地球的百分之一，飞行极具挑战性，工程师为此专门设计了更快旋转的桨叶来解决问题。由此推断：工程师必须解决特殊问题才能在火星飞行（C）。A 说更容易（与 extremely challenging 矛盾）；B 说使用相同桨叶（与 spin much faster 矛盾）；D 说大气更厚（与 100 times thinner 矛盾）。"
+    },
+    {
+      "date": "2026-04-11",
+      "session": 1,
+      "question_id": 19,
+      "type": "reading",
+      "knowledge_point": "word_guessing",
+      "label": "阅读-词义猜测",
+      "stem": "19. What does the word 'extend' in Paragraph 3 most probably mean?",
+      "options": [
+        "A. Cancel.",
+        "B. Shorten.",
+        "C. Make longer.",
+        "D. Start over."
+      ],
+      "correct_answer": "C",
+      "student_answer": "A",
+      "explanation": "词义猜测：原文说 Ingenuity 原计划只飞5次，但表现太好，所以 NASA decided to extend its mission。从'原计划5次'到'最终完成72次'可推断 extend = 延长/扩展（make longer）。cancel（取消）与'继续飞'矛盾；shorten（缩短）与'从5次到72次'矛盾；start over（重新开始）不符合语境。前后文的数字对比（5 vs 72）是关键推理线索。"
     }
   ]
 }
