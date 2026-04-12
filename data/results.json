@@ -112,99 +112,16 @@
       "total": 20,
       "correct": 16,
       "rate": 80
+    },
+    {
+      "date": "2026-04-12",
+      "session": 1,
+      "total": 20,
+      "correct": 15,
+      "rate": 75
     }
   ],
   "errors": [
-    {
-      "date": "2026-03-29",
-      "session": 3,
-      "question_id": 11,
-      "type": "cloze",
-      "knowledge_point": "cloze_general",
-      "label": "完形填空",
-      "stem": "(11)",
-      "options": [
-        "A. happy",
-        "B. lucky",
-        "C. sorry",
-        "D. free"
-      ],
-      "correct_answer": "C",
-      "student_answer": "B",
-      "explanation": "feel sorry to do sth. 意为'对做某事感到遗憾/不舍'。旅行结束时他不舍得离开。sorry 不只是'抱歉'，还有'遗憾、不舍'的意思。"
-    },
-    {
-      "date": "2026-03-30",
-      "session": 1,
-      "question_id": 13,
-      "type": "cloze",
-      "knowledge_point": "cloze_general",
-      "label": "完形填空",
-      "stem": "(13)",
-      "options": [
-        "A. worse",
-        "B. bigger",
-        "C. better",
-        "D. older"
-      ],
-      "correct_answer": "C",
-      "student_answer": "B",
-      "explanation": "get better 意为'好转，康复'。经过两周的照顾，小鸟好转了，又能飞了。worse 更差；bigger 更大；older 更老——都不符合'康复'的语境。"
-    },
-    {
-      "date": "2026-03-30",
-      "session": 1,
-      "question_id": 15,
-      "type": "reading",
-      "knowledge_point": "inference",
-      "label": "阅读-推理判断",
-      "stem": "15. From the passage, we can infer that _____.",
-      "options": [
-        "A. all teenagers sleep less than 6 hours",
-        "B. homework is the only reason for poor sleep",
-        "C. using phones before bed may affect sleep quality",
-        "D. drinking coffee in the morning causes poor sleep"
-      ],
-      "correct_answer": "C",
-      "student_answer": "B",
-      "explanation": "推理判断题：原文说 blue light from phones can trick the brain... making it harder to fall asleep，由此可推断'睡前用手机可能影响睡眠质量'。A 说'所有'太绝对（原文是 most）；B 说'唯一原因'太绝对（原文提到了两个原因）；D 文中说的是 evening 不是 morning。推理题技巧：答案不照抄原文，但要有原文依据。"
-    },
-    {
-      "date": "2026-03-30",
-      "session": 1,
-      "question_id": 16,
-      "type": "reading",
-      "knowledge_point": "main_idea",
-      "label": "阅读-主旨大意",
-      "stem": "16. What is the best title for this passage?",
-      "options": [
-        "A. How to Use Electronic Devices",
-        "B. Teenagers and Sleep",
-        "C. The Dangers of Homework",
-        "D. Why Scientists Study Sleep"
-      ],
-      "correct_answer": "B",
-      "student_answer": "D",
-      "explanation": "主旨题：四段分别讲了(1)青少年睡眠不足的现状(2)原因(3)危害(4)建议。全文围绕'青少年与睡眠'展开。A 只涉及电子设备；C 只涉及作业；D 文中没提科学家为什么研究睡眠。做主旨题：标题要能概括全文，不能以偏概全。"
-    },
-    {
-      "date": "2026-03-31",
-      "session": 1,
-      "question_id": 2,
-      "type": "grammar",
-      "knowledge_point": "object_clause",
-      "label": "宾语从句",
-      "stem": "I wonder _____ she will come to the party tomorrow.",
-      "options": [
-        "A. that",
-        "B. if",
-        "C. what",
-        "D. when"
-      ],
-      "correct_answer": "B",
-      "student_answer": "A",
-      "explanation": "wonder 后接宾语从句，表示'想知道是否'用 if/whether。这里意思是'我想知道她明天是否会来参加聚会'，表疑问用 if。that 引导确定的事实（不表示疑问）；what 是'什么'；when 是'什么时候'——但句中 tomorrow 已经给出了时间，所以不需要 when。宾语从句连接词选择：确定用 that，是否用 if/whether，疑问用特殊疑问词。"
-    },
     {
       "date": "2026-03-31",
       "session": 1,
@@ -1014,6 +931,96 @@
       "correct_answer": "C",
       "student_answer": "A",
       "explanation": "词义猜测：原文说 Ingenuity 原计划只飞5次，但表现太好，所以 NASA decided to extend its mission。从'原计划5次'到'最终完成72次'可推断 extend = 延长/扩展（make longer）。cancel（取消）与'继续飞'矛盾；shorten（缩短）与'从5次到72次'矛盾；start over（重新开始）不符合语境。前后文的数字对比（5 vs 72）是关键推理线索。"
+    },
+    {
+      "date": "2026-04-12",
+      "session": 1,
+      "question_id": 10,
+      "type": "cloze",
+      "knowledge_point": "cloze_general",
+      "label": "完形填空",
+      "stem": "(10)",
+      "options": [
+        "A. photos",
+        "B. shadows",
+        "C. reflections",
+        "D. paintings"
+      ],
+      "correct_answer": "C",
+      "student_answer": "A",
+      "explanation": "'See the reflections of the mountains in the water.' Reflections = mirror images in clear water. photos = camera pictures; shadows = dark shapes; paintings = art."
+    },
+    {
+      "date": "2026-04-12",
+      "session": 1,
+      "question_id": 11,
+      "type": "cloze",
+      "knowledge_point": "cloze_general",
+      "label": "完形填空",
+      "stem": "(11)",
+      "options": [
+        "A. boring",
+        "B. worthwhile",
+        "C. dangerous",
+        "D. impossible"
+      ],
+      "correct_answer": "B",
+      "student_answer": "D",
+      "explanation": "'Tiring but worthwhile' -- 'but' shows contrast. Although tiring, it was worth doing. boring has no contrast with tiring; dangerous/impossible don't fit the context."
+    },
+    {
+      "date": "2026-04-12",
+      "session": 1,
+      "question_id": 12,
+      "type": "cloze",
+      "knowledge_point": "cloze_general",
+      "label": "完形填空",
+      "stem": "(12)",
+      "options": [
+        "A. lanterns",
+        "B. flowers",
+        "C. posters",
+        "D. flags"
+      ],
+      "correct_answer": "A",
+      "student_answer": "B",
+      "explanation": "'Thousands of lanterns lit up the streets.' Lijiang's old town is famous for red lanterns at night. 'Lit up' = illuminated. Only lanterns give light."
+    },
+    {
+      "date": "2026-04-12",
+      "session": 1,
+      "question_id": 19,
+      "type": "reading",
+      "knowledge_point": "detail",
+      "label": "阅读-细节理解",
+      "stem": "19. Why does blue light from screens affect sleep?",
+      "options": [
+        "A. It damages the eyes permanently.",
+        "B. It makes the brain think it is still daytime.",
+        "C. It makes the bedroom too bright to sleep.",
+        "D. It causes headaches that keep people awake."
+      ],
+      "correct_answer": "B",
+      "student_answer": "C",
+      "explanation": "Paragraph 2: 'The blue light from screens tricks the brain into thinking it is still daytime.' Directly matches B. Key phrase: 'tricks the brain into thinking'."
+    },
+    {
+      "date": "2026-04-12",
+      "session": 1,
+      "question_id": 20,
+      "type": "reading",
+      "knowledge_point": "inference",
+      "label": "阅读-推理判断",
+      "stem": "20. What can we infer from the passage?",
+      "options": [
+        "A. All teenagers drink coffee every day.",
+        "B. Sleeping too much is also a problem for teenagers.",
+        "C. Good sleep habits can help improve school performance.",
+        "D. Doctors recommend that teenagers sleep less than 7 hours."
+      ],
+      "correct_answer": "C",
+      "student_answer": "B",
+      "explanation": "Paragraph 3 says lack of sleep leads to 'poor concentration, lower grades'. The reverse: good sleep -> better concentration -> better grades = better performance. A is too extreme; B not discussed; D contradicts the 8-10 hours recommendation."
     }
   ]
 }
