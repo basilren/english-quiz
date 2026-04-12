@@ -17,6 +17,15 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;b
 .summary-item .val{font-size:22px;font-weight:800;color:#c0392b}
 .summary-item .lbl{font-size:11px;color:#999;margin-top:2px}
 
+/* Date picker row */
+.date-picker-row{display:flex;align-items:center;gap:8px;background:rgba(255,255,255,.9);border-radius:12px;padding:10px 14px;margin-bottom:10px;box-shadow:0 2px 10px rgba(0,0,0,.06)}
+.date-picker-row label{font-size:13px;font-weight:600;color:#c0392b;white-space:nowrap}
+.date-picker-row input[type="date"]{flex:1;padding:7px 10px;border:2px solid #f0e0e0;border-radius:8px;font-size:13px;color:#c0392b;background:#fff;outline:none;min-width:0}
+.date-picker-row input[type="date"]:focus{border-color:#e74c3c}
+.date-picker-row .date-hint{font-size:11px;color:#999;white-space:nowrap}
+.date-clear-btn{padding:6px 12px;border:1.5px solid #e0d0d0;border-radius:8px;background:#fff;color:#999;font-size:12px;cursor:pointer;white-space:nowrap}
+.date-clear-btn:active{background:#f5f5f5}
+
 .filter-bar{display:flex;gap:6px;margin-bottom:12px;flex-wrap:wrap}
 .filter-btn{padding:7px 14px;border-radius:20px;border:2px solid rgba(255,255,255,0.4);background:rgba(255,255,255,0.15);color:#fff;font-size:12px;font-weight:600;cursor:pointer;transition:all 0.2s}
 .filter-btn.active{background:#fff;color:#c0392b;border-color:#fff}
@@ -52,7 +61,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;b
 <body>
 <div class="container">
   <div class="header">
-    <h1 id="title">📒 Bosco 错题本</h1>
+    <h1 id="title">&#128210; Bosco 错题本</h1>
     <div class="sub" id="updateTime">加载中...</div>
     <div class="summary">
       <div class="summary-item"><div class="val" id="totalErrors">-</div><div class="lbl">错题总数</div></div>
@@ -61,32 +70,37 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;b
     </div>
   </div>
 
+  <!-- Date Picker (new) -->
+  <div class="date-picker-row">
+    <label>&#128197; 日期：</label>
+    <input type="date" id="datePicker" onchange="onDatePickerChange()">
+    <span class="date-hint" id="dateHint"></span>
+    <button class="date-clear-btn" onclick="clearDateFilter()">全部</button>
+  </div>
+
   <div class="filter-bar" id="filterBar">
     <div class="filter-btn active" data-filter="all" onclick="setFilter('all')">全部</div>
-    <div class="filter-btn" data-filter="7" onclick="setFilter('7')">近7天</div>
-    <div class="filter-btn" data-filter="30" onclick="setFilter('30')">近30天</div>
     <div class="filter-btn" data-filter="grammar" onclick="setFilter('grammar')">语法</div>
     <div class="filter-btn" data-filter="reading" onclick="setFilter('reading')">阅读</div>
     <div class="filter-btn" data-filter="cloze" onclick="setFilter('cloze')">完形</div>
     <div class="filter-btn" data-filter="vocabulary" onclick="setFilter('vocabulary')">词汇</div>
   </div>
 
-  <div id="dateSearch"></div>
-  <div id="errorList"><div class="loading-msg">⏳ 加载错题数据...</div></div>
+  <div id="errorList"><div class="loading-msg">&#9203; 加载错题数据...</div></div>
   <div id="pagination"></div>
 
   <div class="link-bar">
-    <a class="link-btn purple" href="/english-quiz/">📝 去做题</a>
-    <a class="link-btn green" href="/english-quiz/report.html">📊 学习报告</a>
+    <a class="link-btn purple" href="/english-quiz/">&#128221; 去做题</a>
+    <a class="link-btn green" href="/english-quiz/report.html">&#128202; 学习报告</a>
   </div>
-  <div class="footer">Bosco English Tutor · 错题本随练习自动更新</div>
+  <div class="footer">Bosco English Tutor &middot; 错题本随练习自动更新</div>
 </div>
 
 <script>
 var errorData = [];
 var sessionsData = [];
 var currentFilter = 'all';
-var searchDate = '';
+var selectedDate = '';
 var currentPage = 1;
 var PAGE_SIZE = 5;
 var tagMap = {grammar:'tag-grammar',cloze:'tag-cloze',reading:'tag-reading',vocabulary:'tag-vocabulary',listening:'tag-listening'};
@@ -108,17 +122,48 @@ function setFilter(f){
   render();
 }
 
-function setSearchDate(v){searchDate=v;currentPage=1;render();}
+function onDatePickerChange(){
+  selectedDate=document.getElementById('datePicker').value||'';
+  currentPage=1;
+  updateDateHint();
+  render();
+}
+
+function clearDateFilter(){
+  selectedDate='';
+  document.getElementById('datePicker').value='';
+  document.getElementById('dateHint').textContent='';
+  currentPage=1;
+  render();
+}
+
+function updateDateHint(){
+  var hint=document.getElementById('dateHint');
+  if(!selectedDate){hint.textContent='';return;}
+  var ago=daysAgo(selectedDate);
+  if(ago===0) hint.textContent='今天';
+  else if(ago===1) hint.textContent='昨天';
+  else if(ago>0) hint.textContent=ago+'天前';
+  else hint.textContent='';
+}
+
 function goPage(p){currentPage=p;render();window.scrollTo(0,document.getElementById('errorList').offsetTop-60);}
 
 function getFiltered(){
   return errorData.filter(function(e){
-    if(searchDate && e.date!==searchDate) return false;
+    if(selectedDate && e.date!==selectedDate) return false;
     if(currentFilter==='all') return true;
-    if(currentFilter==='7') return daysAgo(e.date)<=7;
-    if(currentFilter==='30') return daysAgo(e.date)<=30;
     return e.type===currentFilter;
   });
+}
+
+// Find the most recent date that has errors
+function findLatestErrorDate(){
+  if(errorData.length===0) return '';
+  var dates={};
+  errorData.forEach(function(e){dates[e.date]=1;});
+  var sorted=Object.keys(dates).sort().reverse();
+  return sorted[0]||'';
 }
 
 function render(){
@@ -137,16 +182,8 @@ function render(){
     document.getElementById('updateTime').textContent='共 '+sessionsData.length+' 组 · 最后更新 '+sessionsData[sessionsData.length-1].date;
   }
 
-  // Date selector
-  var allDates={};errorData.forEach(function(e){allDates[e.date]=1;});
-  var dateList=Object.keys(allDates).sort().reverse();
-  var dateHtml='<select onchange="setSearchDate(this.value)" style="padding:6px 10px;border:1.5px solid #e2e8f0;border-radius:8px;font-size:13px;outline:none;color:#334155;background:#fff;margin-bottom:10px;width:100%"><option value="">全部日期</option>';
-  dateList.forEach(function(d){var sel=searchDate===d?' selected':'';dateHtml+='<option value="'+d+'"'+sel+'>'+d+(daysAgo(d)===0?' (今天)':daysAgo(d)===1?' (昨天)':'')+'</option>';});
-  dateHtml+='</select>';
-  document.getElementById('dateSearch').innerHTML=dateHtml;
-
   if(filtered.length===0){
-    area.innerHTML='<div class="empty-msg">🎉 没有错题！继续保持！</div>';
+    area.innerHTML='<div class="empty-msg">&#127881; '+(selectedDate?selectedDate+' ':'')+'没有错题！继续保持！</div>';
     document.getElementById('pagination').innerHTML='';
     return;
   }
@@ -170,11 +207,11 @@ function render(){
     var ago=daysAgo(date);
     var label=ago===0?'今天':ago===1?'昨天':date;
     html+='<div class="date-group">';
-    html+='<div class="date-label">📅 '+label+' · '+groups[date].length+'道错题</div>';
+    html+='<div class="date-label">&#128197; '+label+' &middot; '+groups[date].length+'道错题</div>';
     groups[date].forEach(function(e){
       html+='<div class="card">';
       html+='<span class="error-tag '+(tagMap[e.type]||'tag-grammar')+'">'+(e.label||typeMap[e.type]||e.type)+'</span>';
-      html+='<div class="error-source">第'+e.session+'组 · 第'+e.question_id+'题</div>';
+      html+='<div class="error-source">第'+e.session+'组 &middot; 第'+e.question_id+'题</div>';
       html+='<div class="error-stem">'+esc(e.stem)+'</div>';
       html+='<div class="opts">';
       var letters=['A','B','C','D'];
@@ -184,13 +221,13 @@ function render(){
         else if(L===e.student_answer) cls+=' wrong';
         else cls+=' dim';
         var mark='';
-        if(L===e.correct_answer) mark=' ✅';
-        if(L===e.student_answer && L!==e.correct_answer) mark=' ❌ 你选';
+        if(L===e.correct_answer) mark=' &#10004;';
+        if(L===e.student_answer && L!==e.correct_answer) mark=' &#10008; 你选';
         html+='<div class="'+cls+'">'+esc(e.options[i])+mark+'</div>';
       }
       html+='</div>';
-      html+='<div class="answer-info">你选 <span class="wrong-a">'+e.student_answer+'</span> → 正确 <span class="correct-a">'+e.correct_answer+'</span></div>';
-      html+='<div class="expl">📖 '+esc(e.explanation)+'</div>';
+      html+='<div class="answer-info">你选 <span class="wrong-a">'+e.student_answer+'</span> &#8594; 正确 <span class="correct-a">'+e.correct_answer+'</span></div>';
+      html+='<div class="expl">&#128214; '+esc(e.explanation)+'</div>';
       html+='</div>';
     });
     html+='</div>';
@@ -199,10 +236,10 @@ function render(){
 
   // Pagination controls
   var pgHtml='<div style="display:flex;align-items:center;justify-content:center;gap:8px;margin-top:16px;padding-bottom:8px">';
-  pgHtml+='<span style="font-size:12px;color:#64748b">'+filtered.length+' 题 · 第 '+currentPage+'/'+totalPages+' 页</span>';
+  pgHtml+='<span style="font-size:12px;color:#64748b">'+filtered.length+' 题 &middot; 第 '+currentPage+'/'+totalPages+' 页</span>';
   pgHtml+='</div><div style="display:flex;gap:6px;justify-content:center;flex-wrap:wrap">';
-  if(currentPage>1) pgHtml+='<button onclick="goPage('+(currentPage-1)+')" style="padding:6px 14px;border:1.5px solid #667eea;border-radius:8px;background:#fff;color:#667eea;font-size:13px;font-weight:600;cursor:pointer">&#x2B05; 上一页</button>';
-  if(currentPage<totalPages) pgHtml+='<button onclick="goPage('+(currentPage+1)+')" style="padding:6px 14px;border:1.5px solid #667eea;border-radius:8px;background:#667eea;color:#fff;font-size:13px;font-weight:600;cursor:pointer">下一页 &#x27A1;</button>';
+  if(currentPage>1) pgHtml+='<button onclick="goPage('+(currentPage-1)+')" style="padding:6px 14px;border:1.5px solid #667eea;border-radius:8px;background:#fff;color:#667eea;font-size:13px;font-weight:600;cursor:pointer">&#9664; 上一页</button>';
+  if(currentPage<totalPages) pgHtml+='<button onclick="goPage('+(currentPage+1)+')" style="padding:6px 14px;border:1.5px solid #667eea;border-radius:8px;background:#667eea;color:#fff;font-size:13px;font-weight:600;cursor:pointer">下一页 &#9654;</button>';
   pgHtml+='</div>';
   document.getElementById('pagination').innerHTML=pgHtml;
 }
@@ -211,7 +248,7 @@ function render(){
 function loadData(){
   var url='./data/results.json?v='+Date.now();
   var timeout=setTimeout(function(){
-    document.getElementById('errorList').innerHTML='<div class="empty-msg">⏳ 加载较慢，正在重试...</div>';
+    document.getElementById('errorList').innerHTML='<div class="empty-msg">&#9203; 加载较慢，正在重试...</div>';
     loadFallback();
   },8000);
 
@@ -226,6 +263,7 @@ function loadData(){
       var data=JSON.parse(text);
       errorData=data.errors||[];
       sessionsData=data.sessions||[];
+      initDatePicker();
       render();
     }catch(e){
       console.error('JSON parse error:',e);
@@ -240,7 +278,6 @@ function loadData(){
 }
 
 function loadFallback(){
-  // Fallback: load via GitHub API (base64 decode)
   var apiUrl='https://api.github.com/repos/basilren/english-quiz/contents/data/results.json';
   fetch(apiUrl,{headers:{'Accept':'application/vnd.github.v3+json'}})
   .then(function(r){return r.json();})
@@ -251,12 +288,23 @@ function loadFallback(){
     var data=JSON.parse(text);
     errorData=data.errors||[];
     sessionsData=data.sessions||[];
+    initDatePicker();
     render();
   })
   .catch(function(err){
-    document.getElementById('errorList').innerHTML='<div class="empty-msg">⚠️ 加载失败，请刷新重试<br><span style="font-size:11px;color:#999">'+err.message+'</span></div>';
+    document.getElementById('errorList').innerHTML='<div class="empty-msg">&#9888; 加载失败，请刷新重试<br><span style="font-size:11px;color:#999">'+err.message+'</span></div>';
     console.error('Fallback error:',err);
   });
+}
+
+// Initialize date picker: default to most recent day with errors
+function initDatePicker(){
+  var latest=findLatestErrorDate();
+  if(latest){
+    selectedDate=latest;
+    document.getElementById('datePicker').value=latest;
+    updateDateHint();
+  }
 }
 
 loadData();

@@ -8,106 +8,73 @@
 <meta http-equiv="Expires" content="0">
 <title>Bosco 今日英语练习</title>
 <script>
-// Page loaded successfully - reset 404 retry counter
 try { sessionStorage.removeItem('gh404_retry'); } catch(e) {}
 </script>
 <style>
-* { margin: 0; padding: 0; box-sizing: border-box; }
-body {
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-  min-height: 100vh; padding: 12px; color: #333;
-}
-.container { max-width: 600px; margin: 0 auto; }
-.header {
-  background: rgba(255,255,255,0.95); border-radius: 16px;
-  padding: 16px 20px; text-align: center; margin-bottom: 12px;
-  box-shadow: 0 4px 20px rgba(0,0,0,0.1);
-}
-.header h1 { font-size: 18px; color: #4a3f8a; margin-bottom: 4px; }
-.header .subtitle { font-size: 12px; color: #888; }
-.progress-bar { width:100%; height:6px; background:#e8e4f0; border-radius:3px; margin-top:10px; overflow:hidden; }
-.progress-fill { height:100%; background:linear-gradient(90deg,#667eea,#764ba2); border-radius:3px; transition:width 0.5s; }
-.progress-text { font-size:11px; color:#999; margin-top:4px; }
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);min-height:100vh;padding:12px;color:#333}
+.container{max-width:600px;margin:0 auto}
+.header{background:rgba(255,255,255,.95);border-radius:16px;padding:16px 20px;text-align:center;margin-bottom:10px;box-shadow:0 4px 20px rgba(0,0,0,.1)}
+.header h1{font-size:18px;color:#4a3f8a;margin-bottom:4px}
+.header .subtitle{font-size:12px;color:#888}
+.progress-bar{width:100%;height:6px;background:#e8e4f0;border-radius:3px;margin-top:10px;overflow:hidden}
+.progress-fill{height:100%;background:linear-gradient(90deg,#667eea,#764ba2);border-radius:3px;transition:width .5s}
+.progress-text{font-size:11px;color:#999;margin-top:4px}
 
-.card {
-  background: rgba(255,255,255,0.97); border-radius: 16px;
-  padding: 20px 16px; margin-bottom: 12px;
-  box-shadow: 0 4px 20px rgba(0,0,0,0.1);
-}
-.card.compact .q-stem, .card.compact .reading-passage, .card.compact .options { line-height: 1.4; }
-.card.compact .option-btn { padding: 9px 12px; font-size: 13px; }
-.card.compact .sub-question { margin-bottom: 12px; padding-bottom: 10px; }
-.card.compact .reading-passage { font-size: 12px; line-height: 1.6; padding: 10px 12px; }
-.slide-in { animation: slideIn 0.3s ease; }
-@keyframes slideIn { from{transform:translateX(50px);opacity:0}to{transform:translateX(0);opacity:1} }
+/* Type Tabs */
+.type-tabs{display:flex;gap:4px;background:rgba(255,255,255,.85);border-radius:12px;padding:4px;margin-bottom:10px;overflow-x:auto;flex-wrap:nowrap}
+.type-tab{flex:1;min-width:0;padding:8px 4px;border:none;border-radius:10px;font-size:12px;font-weight:600;cursor:pointer;transition:all .2s;background:transparent;color:#888;white-space:nowrap;-webkit-tap-highlight-color:transparent}
+.type-tab.active{background:#fff;color:#4a3f8a;box-shadow:0 1px 6px rgba(0,0,0,.08)}
+.type-tab .tab-badge{display:inline-block;font-size:10px;background:#e8e4f0;color:#666;border-radius:8px;padding:1px 5px;margin-left:2px;vertical-align:middle}
+.type-tab.active .tab-badge{background:#667eea;color:#fff}
+.type-tab.done .tab-check{color:#43b883;margin-left:2px;font-size:11px}
+.type-tab:active{transform:scale(.96)}
 
-.q-tag { display:inline-block; font-size:11px; padding:3px 10px; border-radius:20px; color:#fff; margin-bottom:10px; font-weight:600; }
+.card{background:rgba(255,255,255,.97);border-radius:16px;padding:20px 16px;margin-bottom:12px;box-shadow:0 4px 20px rgba(0,0,0,.1)}
+.card.compact .q-stem,.card.compact .reading-passage,.card.compact .options{line-height:1.4}
+.card.compact .option-btn{padding:9px 12px;font-size:13px}
+.card.compact .sub-question{margin-bottom:12px;padding-bottom:10px}
+.card.compact .reading-passage{font-size:12px;line-height:1.6;padding:10px 12px}
+.slide-in{animation:slideIn .3s ease}
+@keyframes slideIn{from{transform:translateX(50px);opacity:0}to{transform:translateX(0);opacity:1}}
+
+.q-tag{display:inline-block;font-size:11px;padding:3px 10px;border-radius:20px;color:#fff;margin-bottom:10px;font-weight:600}
 .tag-vocabulary{background:#43b883}.tag-grammar{background:#3b82f6}.tag-cloze{background:#f59e0b}.tag-reading{background:#ef4444}.tag-listening{background:#8b5cf6}
-.q-number { font-size:13px; color:#999; margin-bottom:6px; }
-.q-stem { font-size:15px; line-height:1.6; margin-bottom:14px; white-space:pre-wrap; word-break:break-word; }
-.reading-passage {
-  background:#f8f7ff; border-left:3px solid #667eea;
-  padding:12px 14px; border-radius:0 8px 8px 0;
-  margin-bottom:14px; font-size:13px; line-height:1.7;
-  color:#444; white-space:pre-wrap; word-break:break-word;
-}
-.sub-question { margin-bottom:18px; padding-bottom:14px; border-bottom:1px dashed #e8e4f0; }
-.sub-question:last-child { border-bottom:none; margin-bottom:0; padding-bottom:0; }
-.sub-q-label { font-size:14px; font-weight:600; color:#4a3f8a; margin-bottom:8px; }
+.q-number{font-size:13px;color:#999;margin-bottom:6px}
+.q-stem{font-size:15px;line-height:1.6;margin-bottom:14px;white-space:pre-wrap;word-break:break-word}
+.reading-passage{background:#f8f7ff;border-left:3px solid #667eea;padding:12px 14px;border-radius:0 8px 8px 0;margin-bottom:14px;font-size:13px;line-height:1.7;color:#444;white-space:pre-wrap;word-break:break-word}
+.sub-question{margin-bottom:18px;padding-bottom:14px;border-bottom:1px dashed #e8e4f0}
+.sub-question:last-child{border-bottom:none;margin-bottom:0;padding-bottom:0}
+.sub-q-label{font-size:14px;font-weight:600;color:#4a3f8a;margin-bottom:8px}
 
-.options { display:flex; flex-direction:column; gap:8px; }
-.option-btn {
-  display:flex; align-items:center; padding:12px 14px;
-  border:2px solid #e8e4f0; border-radius:12px; background:#fff;
-  cursor:pointer; transition:all 0.2s; font-size:14px; line-height:1.4;
-  -webkit-tap-highlight-color:transparent;
-}
-.option-btn:active{transform:scale(0.98)}
+.options{display:flex;flex-direction:column;gap:8px}
+.option-btn{display:flex;align-items:center;padding:12px 14px;border:2px solid #e8e4f0;border-radius:12px;background:#fff;cursor:pointer;transition:all .2s;font-size:14px;line-height:1.4;-webkit-tap-highlight-color:transparent}
+.option-btn:active{transform:scale(.98)}
 .option-btn.selected{border-color:#667eea;background:#eef0ff;color:#4a3f8a;font-weight:600}
 .option-btn.correct{border-color:#43b883;background:#edfff6;color:#1a7f4b}
 .option-btn.wrong{border-color:#ef4444;background:#fff0f0;color:#c0392b}
-.option-btn.disabled{pointer-events:none;opacity:0.7}
-.option-btn.dim{opacity:0.5}
-.option-letter {
-  display:inline-flex;align-items:center;justify-content:center;
-  width:26px;height:26px;border-radius:50%;background:#f0edf5;
-  font-weight:700;font-size:13px;margin-right:10px;flex-shrink:0;transition:all 0.2s;
-}
+.option-btn.disabled{pointer-events:none;opacity:.7}
+.option-btn.dim{opacity:.5}
+.option-letter{display:inline-flex;align-items:center;justify-content:center;width:26px;height:26px;border-radius:50%;background:#f0edf5;font-weight:700;font-size:13px;margin-right:10px;flex-shrink:0;transition:all .2s}
 .selected .option-letter{background:#667eea;color:#fff}
 .correct .option-letter{background:#43b883;color:#fff}
 .wrong .option-letter{background:#ef4444;color:#fff}
 
 .nav-bar{display:flex;gap:8px;margin-top:14px}
-.btn {
-  flex:1;padding:12px;border:none;border-radius:12px;
-  font-size:15px;font-weight:600;cursor:pointer;transition:all 0.2s;
-  -webkit-tap-highlight-color:transparent;
-}
+.btn{flex:1;padding:12px;border:none;border-radius:12px;font-size:15px;font-weight:600;cursor:pointer;transition:all .2s;-webkit-tap-highlight-color:transparent}
 .btn-primary{background:linear-gradient(135deg,#667eea,#764ba2);color:#fff}
-.btn-primary:disabled{opacity:0.4;cursor:not-allowed}
-.btn-primary:not(:disabled):active{transform:scale(0.97)}
+.btn-primary:disabled{opacity:.4;cursor:not-allowed}
+.btn-primary:not(:disabled):active{transform:scale(.97)}
 .btn-secondary{background:#f0edf5;color:#666}
 .btn-submit{background:linear-gradient(135deg,#43b883,#2d8f6f);color:#fff}
-.btn-submit:active{transform:scale(0.97)}
+.btn-submit:active{transform:scale(.97)}
+.btn-link{background:transparent;color:#667eea;font-size:13px;text-decoration:underline;padding:8px}
 
-.explanation {
-  margin-top:12px;padding:12px 14px;background:#fffbeb;
-  border-left:3px solid #f59e0b;border-radius:0 10px 10px 0;
-  font-size:13px;line-height:1.6;color:#6b5900;
-  animation:fadeIn 0.3s ease;
-}
+.explanation{margin-top:12px;padding:12px 14px;background:#fffbeb;border-left:3px solid #f59e0b;border-radius:0 10px 10px 0;font-size:13px;line-height:1.6;color:#6b5900;animation:fadeIn .3s ease}
 @keyframes fadeIn{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:translateY(0)}}
 
-.result-card {
-  background:rgba(255,255,255,0.97);border-radius:16px;
-  padding:24px 18px;text-align:center;box-shadow:0 4px 20px rgba(0,0,0,0.1);
-}
-.result-score {
-  font-size:52px;font-weight:800;
-  background:linear-gradient(135deg,#667eea,#764ba2);
-  -webkit-background-clip:text;-webkit-text-fill-color:transparent;margin:8px 0;
-}
+.result-card{background:rgba(255,255,255,.97);border-radius:16px;padding:24px 18px;text-align:center;box-shadow:0 4px 20px rgba(0,0,0,.1)}
+.result-score{font-size:52px;font-weight:800;background:linear-gradient(135deg,#667eea,#764ba2);-webkit-background-clip:text;-webkit-text-fill-color:transparent;margin:8px 0}
 .result-label{font-size:13px;color:#888}
 .result-dots{margin:12px 0;font-size:18px;letter-spacing:3px}
 .result-msg{font-size:14px;color:#555;margin:10px 0 16px;line-height:1.5}
@@ -118,10 +85,7 @@ body {
 
 .error-section{margin-top:14px;text-align:left}
 .error-section h3{font-size:15px;color:#c0392b;margin-bottom:10px;text-align:center}
-.error-item {
-  background:#fff8f8;border:1px solid #ffe0e0;border-radius:10px;
-  padding:12px;margin-bottom:8px;
-}
+.error-item{background:#fff8f8;border:1px solid #ffe0e0;border-radius:10px;padding:12px;margin-bottom:8px}
 .error-item .ei-head{font-size:13px;font-weight:600;color:#c0392b;margin-bottom:6px}
 .error-item .ei-stem{font-size:12px;color:#555;margin-bottom:4px;line-height:1.5;white-space:pre-wrap}
 .error-item .ei-answer{font-size:12px;margin-bottom:4px}
@@ -133,18 +97,20 @@ body {
 <body>
 <div class="container">
   <div class="header">
-    <h1 id="mainTitle">📝 Bosco 今日英语练习</h1>
-    <div class="subtitle" id="subtitleText">第 15 天 · 第 1 组 · 2026年4月11日</div>
+    <h1 id="mainTitle">&#128221; Bosco 今日英语练习</h1>
+    <div class="subtitle" id="subtitleText">第 16 天 &middot; 第 1 组 &middot; 2026年4月12日</div>
     <div class="progress-bar"><div class="progress-fill" id="progressFill" style="width:0%"></div></div>
-    <div class="progress-text" id="progressText">第 1 页 / 共 14 题</div>
+    <div class="progress-text" id="progressText">第 1 页 / 共 18 题</div>
   </div>
+  <!-- Type Tabs -->
+  <div class="type-tabs" id="typeTabs"></div>
   <div id="questionArea"></div>
   <div id="resultArea" class="hidden"></div>
 </div>
 
 <script>
 // NOTE: All strings must avoid Chinese quotes. Use single quotes only.
-var quizData = {"date":"2026-04-11","session_number":1,"questions":[{"id":1,"type":"grammar","knowledge_point":"present_perfect","difficulty":2,"stem":"-- How long has your father _____ in this company?\n-- For more than ten years.","options":["A. worked","B. joined","C. come","D. started"],"correct_answer":"A","explanation":"how long 提问持续时间，需要延续性动词。work 本身就是延续性动词，可以与 for + 一段时间连用。join/come/start 都是非延续性动词（瞬间动词），不能与 for ten years 搭配。如果要用 join，需改为 been in（join -> be in）。记住：has worked for ten years = 已经工作了十年。"},{"id":2,"type":"grammar","knowledge_point":"present_perfect","difficulty":2,"stem":"-- Have you ever _____ to Beijing?\n-- Yes, I _____ there last summer.","options":["A. been; went","B. gone; went","C. been; have been","D. gone; have gone"],"correct_answer":"A","explanation":"Have you ever been to...? 表示'你曾经去过...吗？'（人已经回来了才能问这个问题）。回答用一般过去时 I went there last summer（去年夏天去的），因为 last summer 是明确的过去时间点，不能用现在完成时。been to = 去过（已回来）；gone to = 去了（未回来）。第二空有 last summer 时间标志，必须用一般过去时 went。"},{"id":3,"type":"grammar","knowledge_point":"object_clause","difficulty":2,"stem":"I wonder _____ you could help me carry these boxes upstairs.","options":["A. that","B. what","C. if","D. how"],"correct_answer":"C","explanation":"I wonder if/whether... 表示'我想知道是否...'。句意：我想知道你是否能帮我把这些箱子搬上楼。that 引导确定的陈述（不表'是否'）；what 是'什么'（后面不能接完整句子）；how 是'怎样'（语义不通）。if = whether 表示'是否'，是宾语从句中最常考的引导词之一。"},{"id":4,"type":"grammar","knowledge_point":"object_clause","difficulty":2,"stem":"She didn't tell me when she _____ back from Shanghai.","options":["A. will come","B. would come","C. comes","D. has come"],"correct_answer":"B","explanation":"宾语从句时态呼应规则：主句是过去时（didn't tell），从句要用相应的过去时态。'将要回来'的将来概念在过去时态中用 would come（过去将来时）。will come 没有时态呼应；comes 是一般现在时（不符合）；has come 是现在完成时（也不符合）。口诀：主过从过 —— 主句过去时，从句跟着'过去'。"},{"id":5,"type":"grammar","knowledge_point":"conditional","difficulty":2,"stem":"_____ you study harder, you will fail the exam again.","options":["A. If","B. Unless","C. When","D. After"],"correct_answer":"B","explanation":"句意：除非你更努力学习，否则你又会考试不及格。unless = if...not（除非），后接肯定句。Unless you study harder = If you don't study harder。如果选 If，则后面应该是否定句（If you don't study harder），但题目中 study harder 是肯定形式，所以用 unless。when/after 不表条件关系，语义不通。"},{"id":6,"type":"grammar","knowledge_point":"tense_general","difficulty":2,"stem":"Listen! Someone _____ the piano in the next room. It sounds beautiful.","options":["A. plays","B. played","C. is playing","D. has played"],"correct_answer":"C","explanation":"Listen!（听！）是现在进行时的标志词，表示'此刻正在发生'的动作。someone is playing the piano = 有人正在弹钢琴。plays（一般现在时：经常弹）不符合'此刻'语境；played（过去时）与 Listen 矛盾；has played（完成时）强调结果而非正在进行。常见标志词：Look!/Listen!/now/at the moment -> 现在进行时。"},{"id":7,"type":"grammar","knowledge_point":"infinitive","difficulty":2,"stem":"The book is too difficult for me _____.","options":["A. understand","B. understanding","C. to understand","D. understood"],"correct_answer":"C","explanation":"too + adj. + (for sb.) + to do sth. 是固定句型，意为'太...而不能做某事'。too difficult for me to understand = 太难了我理解不了。注意这个句型本身含有否定含义（不能做），所以不需要在 to understand 前加 not。类似：The box is too heavy for the boy to carry.（箱子太重男孩搬不动）。"},{"id":8,"type":"grammar","knowledge_point":"gerund","difficulty":2,"stem":"Would you mind _____ the door? It is too cold outside.","options":["A. close","B. to close","C. closing","D. closed"],"correct_answer":"C","explanation":"mind doing sth. 意为'介意做某事'。Would you mind closing the door? = 你介意关上门吗？mind 后面必须接动名词（V-ing），不能接不定式（to do）。类似用法：Do you mind waiting? / I don't mind helping. 必须接 doing 的动词口诀：'完成享受别介意，建议练习要坚持'（finish/enjoy/mind/suggest/practice/keep）。"},{"id":9,"type":"vocabulary","knowledge_point":"word_meaning","difficulty":2,"stem":"The scientist made an important _____ that could change the way we treat diseases.","options":["A. decision","B. discovery","C. difference","D. discussion"],"correct_answer":"B","explanation":"make a discovery 意为'做出发现'。句意：这位科学家做出了一个重要发现，可能改变我们治疗疾病的方式。decision 决定（make a decision）；difference 区别（make a difference 产生影响）；discussion 讨论（have a discussion）。根据语境'改变治疗疾病的方式'，只有'发现'（discovery）最合逻辑。"},{"id":10,"type":"vocabulary","knowledge_point":"phrase_collocation","difficulty":2,"stem":"We should _____ the environment by planting more trees.","options":["A. look after","B. look up","C. look for","D. look out"],"correct_answer":"A","explanation":"look after 意为'照顾/照料'，look after the environment = 保护环境。look up 查找（在字典中）；look for 寻找；look out 当心/小心。句意：我们应该通过多种植树木来保护环境。by planting more trees（通过种树）是保护环境的方式，与 look after（照料）搭配。"},{"id":11,"type":"vocabulary","knowledge_point":"word_form","difficulty":2,"stem":"Keeping a diary every day helps to improve your _____ (write) skills.","options":["A. write","B. writing","C. writer","D. written"],"correct_answer":"B","explanation":"writing skills = 写作技能。空格处作定语修饰 skills，需要用动名词 writing 作形容词性修饰语。write（动词原形）不能直接修饰名词；writer（作家）是人，不修饰 skills；written（过去分词）虽然可以作定语，但 written skills 不是固定搭配。类似搭配：reading ability, speaking contest, swimming pool。"},{"id":12,"type":"cloze","knowledge_point":"cloze_general","difficulty":3,"group":"cloze_1","group_passage":"Every year in June, our school holds a special event called the 'Flea Market Day'. Students bring things they no longer need -- old books, toys, clothes -- and sell them to other students at very low prices.\n\nLast year, I decided to sell some of my old comic books. I spent the whole evening before the event setting up price tags and making a colourful sign. I was (12)_____ that nobody would be interested in my old comics. To my surprise, a long queue formed at my table within the first ten minutes!\n\nThe most (13)_____ moment came when a younger student picked up a comic I had loved as a child. He held it carefully and asked, 'Is this really only five yuan?' I nodded and watched his face (14)_____ with joy. At that moment, I realised that selling was not just about making money -- it was about passing on happiness.\n\nBy noon, I had sold almost everything. I (15)_____ 87 yuan in total, and I decided to donate half of it to the school library. My teacher said she was proud of my choice. She told us that the flea market teaches students an important (16)_____ -- that things we no longer value can still bring joy to others.","stem":"(12)","options":["A. sure","B. worried","C. excited","D. satisfied"],"correct_answer":"B","explanation":"后文用 To my surprise（让我惊讶的是）转折，说排了长队——说明事前的心情是担忧/紧张的。I was worried that nobody would be interested = 我担心没人对我的旧漫画感兴趣。sure（确定）和 excited（兴奋）与后面的'惊讶'转折不搭；satisfied（满意）是对结果的评价，不适合用在'事前担心'的语境。worried 与 To my surprise 构成情感反转。"},{"id":13,"type":"cloze","knowledge_point":"cloze_general","difficulty":3,"group":"cloze_1","stem":"(13)","options":["A. embarrassing","B. touching","C. confusing","D. frightening"],"correct_answer":"B","explanation":"下文描写小同学小心翼翼地拿起漫画、脸上充满喜悦，作者感悟到'传递快乐'的意义——这是一个感人的（touching）时刻。embarrassing（尴尬的）、confusing（困惑的）、frightening（可怕的）都是负面情感词，与温馨的场景矛盾。touching moment = 感人的时刻，呼应全段的温暖基调。"},{"id":14,"type":"cloze","knowledge_point":"cloze_general","difficulty":3,"group":"cloze_1","stem":"(14)","options":["A. fill","B. cover","C. light up","D. turn away"],"correct_answer":"C","explanation":"watched his face light up with joy = 看着他的脸因喜悦而亮起来。light up 意为'（脸）放光/亮起来'，常用来形容喜悦的表情。fill with（充满）语法上应该是 fill with joy（但 face filled with joy 缺 was）；cover（覆盖）语义不通；turn away（转开）与 joy 矛盾。light up with joy 是描写欣喜表情的经典搭配。"},{"id":15,"type":"cloze","knowledge_point":"cloze_general","difficulty":3,"group":"cloze_1","stem":"(15)","options":["A. spent","B. paid","C. earned","D. borrowed"],"correct_answer":"C","explanation":"I earned 87 yuan in total = 我总共赚了87元。这里说的是卖东西的收入，所以用 earned（赚得）。spent（花费）是支出不是收入；paid（支付）也是付出；borrowed（借）与卖东西无关。earn money = 赚钱，后文还捐了一半给图书馆，逻辑完整：赚钱 -> 捐款。"},{"id":16,"type":"cloze","knowledge_point":"cloze_general","difficulty":3,"group":"cloze_1","stem":"(16)","options":["A. lesson","B. subject","C. language","D. method"],"correct_answer":"A","explanation":"teach sb. a lesson = 给某人上一课/教某人一个道理。这里 lesson 指'人生道理/经验教训'，不是'课堂'。an important lesson -- that things we no longer value can still bring joy to others = 一个重要的道理——我们不再珍视的东西仍然能给别人带来快乐。subject（科目）、language（语言）、method（方法）都不能与 teach...that 从句搭配。lesson 一词多义是中考常考点。"},{"id":17,"type":"reading","knowledge_point":"detail","difficulty":2,"group":"reading_1","group_passage":"In 2021, NASA successfully landed a small helicopter called Ingenuity on Mars. It was the first time a human-made aircraft had ever flown on another planet. The flight lasted only 39 seconds, but it was considered one of the greatest achievements in space exploration.\n\nFlying on Mars is extremely challenging because the atmosphere there is about 100 times thinner than Earth's. This means there is very little air for a helicopter's blades to push against. To solve this problem, engineers designed Ingenuity with blades that spin much faster than those on Earth -- about 2,400 times per minute.\n\nIngenuity was originally planned to make just five test flights. However, it performed so well that NASA decided to extend its mission. By the time it retired in January 2024, the tiny helicopter had completed 72 flights and travelled over 17 kilometres across the Martian surface.\n\nThe success of Ingenuity has opened up exciting possibilities. Future Mars helicopters could be used to explore areas that rovers cannot reach, such as steep cliffs and deep valleys. They could also help scientists choose the best landing sites for future human missions.\n\nScientists believe that within the next twenty years, astronauts may walk on Mars for the first time. When that day comes, flying machines like Ingenuity will have played an important role in making it possible.","stem":"17. How long did Ingenuity's first flight on Mars last?","options":["A. About 5 minutes.","B. 39 seconds.","C. 72 minutes.","D. 24 hours."],"correct_answer":"B","explanation":"原文第一段：The flight lasted only 39 seconds。直接对应 B 选项。A/C/D 的数字与原文不符。做细节题时要精确定位关键数字，39 seconds 出现在第一段末尾，不要与后文的 72 flights 或 2,400 times 混淆。"},{"id":18,"type":"reading","knowledge_point":"inference","difficulty":2,"group":"reading_1","stem":"18. What can we infer from Paragraph 2?","options":["A. It is easier to fly on Mars than on Earth.","B. Ingenuity uses the same blades as Earth helicopters.","C. Engineers had to solve special problems to fly on Mars.","D. Mars has a thicker atmosphere than Earth."],"correct_answer":"C","explanation":"推理判断：第二段说火星大气密度只有地球的百分之一，飞行极具挑战性，工程师为此专门设计了更快旋转的桨叶来解决问题。由此推断：工程师必须解决特殊问题才能在火星飞行（C）。A 说更容易（与 extremely challenging 矛盾）；B 说使用相同桨叶（与 spin much faster 矛盾）；D 说大气更厚（与 100 times thinner 矛盾）。"},{"id":19,"type":"reading","knowledge_point":"word_guessing","difficulty":2,"group":"reading_1","stem":"19. What does the word 'extend' in Paragraph 3 most probably mean?","options":["A. Cancel.","B. Shorten.","C. Make longer.","D. Start over."],"correct_answer":"C","explanation":"词义猜测：原文说 Ingenuity 原计划只飞5次，但表现太好，所以 NASA decided to extend its mission。从'原计划5次'到'最终完成72次'可推断 extend = 延长/扩展（make longer）。cancel（取消）与'继续飞'矛盾；shorten（缩短）与'从5次到72次'矛盾；start over（重新开始）不符合语境。前后文的数字对比（5 vs 72）是关键推理线索。"},{"id":20,"type":"reading","knowledge_point":"main_idea","difficulty":2,"group":"reading_1","stem":"20. What is the best title for this passage?","options":["A. How to Build a Helicopter.","B. The First Flight on Mars and Its Impact.","C. Why Mars Is Too Dangerous to Visit.","D. The History of NASA."],"correct_answer":"B","explanation":"主旨大意题：全文围绕 Ingenuity 在火星的首次飞行（第1-2段）、任务扩展（第3段）、以及对未来的影响（第4-5段）展开。B'火星首飞及其影响'最全面。A 只涉及制造（文章不是讲怎么造直升机）；C 说火星太危险（文章基调是积极的）；D 说 NASA 历史（太宽泛）。做主旨题：选最全面、不偏不窄的标题。"}]};
+var quizData = {"date":"2026-04-12","session_number":1,"questions":[{"id":1,"type":"grammar","knowledge_point":"present_perfect","difficulty":2,"stem":"-- Have you ever _____ to Beijing?\n-- Yes, I _____ there last summer.","options":["A. been; went","B. gone; went","C. been; have been","D. gone; have gone"],"correct_answer":"A","explanation":"have been to = have visited somewhere (and returned). In the answer, 'last summer' is a specific past time, so use simple past 'went'. have gone to = went and hasn't returned yet -- doesn't fit since the person IS here talking. Pattern: Have you ever been to...? Yes, I went there + [past time]."},{"id":2,"type":"grammar","knowledge_point":"present_perfect","difficulty":2,"stem":"The Smiths _____ in China since 2019. They love living here.","options":["A. are","B. have been","C. were","D. had been"],"correct_answer":"B","explanation":"since 2019 = from 2019 until now, a key signal for present perfect tense. have been = have been (continuing state). 'are' can't express duration from past; 'were' means they left; 'had been' is past perfect -- used when talking about a time before another past event, not here."},{"id":3,"type":"grammar","knowledge_point":"present_perfect","difficulty":3,"stem":"This is the most interesting book that I _____ ever _____.","options":["A. /; read","B. have; read","C. had; read","D. /; reading"],"correct_answer":"B","explanation":"'This is the most/best/first... that + present perfect' is a classic pattern. The superlative 'most interesting' triggers present perfect in the that-clause. have ever read = have ever read. Don't use past perfect (had read) here -- that requires a reference to another past event."},{"id":4,"type":"grammar","knowledge_point":"object_clause","difficulty":2,"stem":"The teacher asked the students _____.","options":["A. if they had finished the homework","B. if had they finished the homework","C. that they had finished the homework","D. have they finished the homework"],"correct_answer":"A","explanation":"Object clause rules: 1) Use statement word order (subject + verb); 2) The teacher 'asked' = yes/no question, so use if/whether; 3) Tense shifts back: 'have finished' -> 'had finished'. Option B has inverted word order (wrong); C uses 'that' (for statements, not questions); D has no conjunction and wrong word order."},{"id":5,"type":"grammar","knowledge_point":"object_clause","difficulty":3,"stem":"-- Do you know _____?\n-- Sorry, I have no idea.","options":["A. how much does it cost","B. how much it costs","C. how much did it cost","D. how much it costed"],"correct_answer":"B","explanation":"Object clause = statement word order. 'how much it costs' (subject 'it' before verb 'costs'). A and C use question word order (wrong). D: 'costed' is wrong -- cost is an irregular verb: cost-cost-cost (no -ed form). The main clause is present tense, so the object clause uses present tense too."},{"id":6,"type":"grammar","knowledge_point":"passive_voice","difficulty":2,"stem":"Paper _____ by the Chinese about two thousand years ago.","options":["A. invented","B. was invented","C. is invented","D. invents"],"correct_answer":"B","explanation":"Paper is the receiver of the action (paper can't invent itself), so use passive voice: be + past participle. 'Two thousand years ago' = past time, so use 'was invented'. A lacks the be-verb; C is present tense (doesn't match 'ago'); D is active voice (paper invents? No!)."},{"id":7,"type":"grammar","knowledge_point":"conditional","difficulty":2,"stem":"If it _____ tomorrow, we will go to the park for a picnic.","options":["A. won't rain","B. doesn't rain","C. didn't rain","D. isn't raining"],"correct_answer":"B","explanation":"In if-clauses for real future conditions, use simple present tense (not will/won't). 'If + simple present, will + do' is the pattern. A uses won't (future tense in if-clause = wrong); C is simple past (for unreal conditions); D is present continuous (not standard for this pattern). Key rule: main clause future, if-clause present."},{"id":8,"type":"vocabulary","knowledge_point":"word_form","difficulty":2,"stem":"It's _____ (danger) to swim alone in the deep river.","options":["A. danger","B. dangerous","C. dangerously","D. endangered"],"correct_answer":"B","explanation":"It's + adjective + to do sth. After 'It's', we need an adjective. danger (noun) -> dangerous (adjective) -> dangerously (adverb). endangered = close to extinction (meaning doesn't fit). Pattern: It is dangerous/important/necessary to do sth."},{"id":9,"type":"vocabulary","knowledge_point":"phrase_collocation","difficulty":2,"stem":"We should _____ the lights when we leave the room to save energy.","options":["A. turn on","B. turn off","C. turn up","D. turn down"],"correct_answer":"B","explanation":"turn off = switch off (lights, devices). 'When we leave the room' + 'save energy' = we should turn off the lights. turn on = switch on; turn up = increase volume/heat; turn down = decrease volume / reject. turn off is the most frequently tested phrase in energy-saving contexts."},{"id":10,"type":"cloze","knowledge_point":"cloze_general","difficulty":3,"group":"cloze_1","group_passage":"Last summer, my family took a road trip across Yunnan Province. It was one of the best experiences of my life.\n\nWe started our journey in Kunming, the capital city. The weather there was so (10)___ that people call it the 'Spring City'. We visited Green Lake Park and saw many people dancing and singing in the morning.\n\nAfter two days, we drove to Dali, a beautiful old town near Erhai Lake. The lake was so clear that we could see the (11)___ of the mountains in the water. My father rented bikes for us, and we rode along the lake for hours. It was tiring but (12)___.\n\nThe most amazing part was our visit to Lijiang. The old town was full of narrow streets, traditional shops, and small rivers. At night, thousands of (13)___ lit up the streets, making the whole town look like a fairy tale. I took so many photos that my phone ran out of storage!\n\nOn our way home, my mother said, 'The best thing about traveling is not the places you visit, but the (14)___ you share with your family.' I think she was absolutely right.","stem":"(10)","options":["A. cold","B. hot","C. comfortable","D. terrible"],"correct_answer":"C","explanation":"The weather is so comfortable that people call it the 'Spring City'. Kunming is famous for its mild, pleasant climate all year round -- hence 'Spring City'. cold/hot/terrible all contradict the nickname. 'Comfortable' means pleasant and agreeable -- perfect for spring-like weather."},{"id":11,"type":"cloze","knowledge_point":"cloze_general","difficulty":3,"group":"cloze_1","stem":"(11)","options":["A. photos","B. shadows","C. reflections","D. paintings"],"correct_answer":"C","explanation":"'The lake was so clear that we could see the reflections of the mountains in the water.' Reflections = mirror images in water. photos (pictures taken by camera); shadows (dark shapes caused by blocking light); paintings (art). Only reflections describes what you see when looking at clear water."},{"id":12,"type":"cloze","knowledge_point":"cloze_general","difficulty":3,"group":"cloze_1","stem":"(12)","options":["A. boring","B. worthwhile","C. dangerous","D. impossible"],"correct_answer":"B","explanation":"'It was tiring but worthwhile.' The 'but' shows contrast: although tiring, it was worth doing. boring (= tiring, no contrast); dangerous (not mentioned); impossible (they DID ride, so not impossible). worthwhile = worth the effort."},{"id":13,"type":"cloze","knowledge_point":"cloze_general","difficulty":3,"group":"cloze_1","stem":"(13)","options":["A. lanterns","B. flowers","C. posters","D. flags"],"correct_answer":"A","explanation":"'Thousands of lanterns lit up the streets, making the whole town look like a fairy tale.' Lijiang's old town is famous for its red lanterns at night. 'Lit up' means illuminated -- lanterns give light. flowers/posters/flags cannot 'light up' streets. Context clue: 'at night' + 'lit up' = lanterns."},{"id":14,"type":"cloze","knowledge_point":"cloze_general","difficulty":3,"group":"cloze_1","stem":"(14)","options":["A. food","B. money","C. memories","D. gifts"],"correct_answer":"C","explanation":"'The best thing about traveling is not the places you visit, but the memories you share with your family.' Mom is saying: the real value of travel is the shared memories, not just sightseeing. food/money/gifts are all material things -- they don't match the emotional tone."},{"id":15,"type":"reading","knowledge_point":"detail","difficulty":2,"group":"reading_1","group_passage":"Sleep is one of the most important things for our health, but many teenagers today are not getting enough of it. According to doctors, teenagers aged 13-18 need about 8-10 hours of sleep every night. However, a recent study shows that nearly 70% of high school students sleep less than 7 hours on school nights.\n\nWhy are teenagers sleeping so little? There are several reasons. First, heavy homework loads keep students up late. Many students report that they cannot finish their homework before 11 p.m. Second, electronic devices such as smartphones and tablets are a major problem. The blue light from screens tricks the brain into thinking it is still daytime, making it harder to fall asleep. Third, some teenagers drink coffee or energy drinks to stay awake during the day, which then makes it difficult for them to sleep at night.\n\nLack of sleep has serious effects on teenagers. It can lead to poor concentration in class, lower grades, and even health problems such as obesity and depression. Studies also show that tired teenagers are more likely to have accidents.\n\nExperts suggest several ways to improve sleep quality. First, try to go to bed and wake up at the same time every day, even on weekends. Second, stop using electronic devices at least 30 minutes before bedtime. Third, avoid caffeine after 3 p.m. Finally, make your bedroom dark, quiet, and cool -- the ideal environment for sleep.\n\nRemember: sleep is not a waste of time. It is your brain's way of recharging for a new day!","stem":"15. According to the study, how many high school students sleep less than 7 hours on school nights?","options":["A. About 30%.","B. About 50%.","C. About 70%.","D. About 90%."],"correct_answer":"C","explanation":"Paragraph 1: 'nearly 70% of high school students sleep less than 7 hours on school nights.' The answer is directly stated -- about 70%, matching option C."},{"id":16,"type":"reading","knowledge_point":"detail","difficulty":2,"group":"reading_1","stem":"16. Why does blue light from screens affect sleep?","options":["A. It damages the eyes permanently.","B. It makes the brain think it is still daytime.","C. It makes the bedroom too bright to sleep.","D. It causes headaches that keep people awake."],"correct_answer":"B","explanation":"Paragraph 2: 'The blue light from screens tricks the brain into thinking it is still daytime, making it harder to fall asleep.' Directly matches B. Key phrase: 'tricks the brain into thinking'."},{"id":17,"type":"reading","knowledge_point":"inference","difficulty":3,"group":"reading_1","stem":"17. What can we infer from the passage?","options":["A. All teenagers drink coffee every day.","B. Sleeping too much is also a problem for teenagers.","C. Good sleep habits can help improve school performance.","D. Doctors recommend that teenagers sleep less than 7 hours."],"correct_answer":"C","explanation":"Inference: Paragraph 3 says lack of sleep leads to 'poor concentration in class, lower grades'. The reverse is also true: good sleep -> better concentration -> better grades. A ('all teenagers' -- too extreme); B (sleeping too much -- not discussed); D (doctors recommend 8-10 hours, not less than 7)."},{"id":18,"type":"reading","knowledge_point":"main_idea","difficulty":2,"group":"reading_1","stem":"18. What is the main purpose of this passage?","options":["A. To advertise a new sleeping pill.","B. To explain why sleep matters for teenagers and how to improve it.","C. To criticize teenagers for using smartphones too much.","D. To compare sleep habits in different countries."],"correct_answer":"B","explanation":"The passage explains why teens lack sleep (Para 2), its harmful effects (Para 3), and how to improve (Para 4). So the purpose is to explain importance + give solutions = B. C is too narrow (smartphones are ONE reason). For main idea, cover ALL paragraphs."}]};
 
 var questions = quizData.questions;
 var totalQ = questions.length;
@@ -160,29 +126,79 @@ var pages = [];
     if (q.group) {
       var gid = q.group, items = [];
       while (i < totalQ && questions[i].group === gid) { items.push(i); i++; }
-      pages.push({ type:"group", indices:items, groupType:q.type });
+      pages.push({ type:'group', indices:items, groupType:q.type });
     } else {
-      pages.push({ type:"single", indices:[i] }); i++;
+      pages.push({ type:'single', indices:[i] }); i++;
     }
   }
 })();
 var currentPage = 0, totalPages = pages.length;
-var typeLabels={vocabulary:"词汇题",grammar:"语法题",cloze:"完形填空",reading:"阅读理解",listening:"听力题"};
-var tagClasses={vocabulary:"tag-vocabulary",grammar:"tag-grammar",cloze:"tag-cloze",reading:"tag-reading",listening:"tag-listening"};
+
+// === TYPE TAB NAVIGATION ===
+var typeOrder = ['grammar','vocabulary','cloze','reading'];
+var typeLabels = {vocabulary:'词汇题',grammar:'语法题',cloze:'完形填空',reading:'阅读理解',listening:'听力题'};
+var typeShortLabels = {vocabulary:'词汇',grammar:'语法',cloze:'完形',reading:'阅读'};
+var tagClasses = {vocabulary:'tag-vocabulary',grammar:'tag-grammar',cloze:'tag-cloze',reading:'tag-reading',listening:'tag-listening'};
+
+// Map type -> page indices
+var typePageMap = {};
+(function(){
+  for(var p=0;p<pages.length;p++){
+    var t=questions[pages[p].indices[0]].type;
+    if(!typePageMap[t]) typePageMap[t]=[];
+    typePageMap[t].push(p);
+  }
+})();
+// Count questions per type
+var typeQCount = {};
+questions.forEach(function(q){typeQCount[q.type]=(typeQCount[q.type]||0)+1;});
+
+function getCurrentType(){ return questions[pages[currentPage].indices[0]].type; }
+
+function buildTypeTabs(){
+  var curType=getCurrentType();
+  var html='';
+  typeOrder.forEach(function(t){
+    if(!typePageMap[t]) return;
+    var cnt=typeQCount[t]||0;
+    var allDone=true;
+    questions.forEach(function(q,i){if(q.type===t&&!confirmed[i])allDone=false;});
+    var cls='type-tab'+(curType===t?' active':'')+(allDone?' done':'');
+    html+='<button class="'+cls+'" onclick="jumpToType(\''+t+'\')">';
+    html+=(typeShortLabels[t]||t);
+    html+='<span class="tab-badge">'+cnt+'</span>';
+    if(allDone) html+='<span class="tab-check">&#10003;</span>';
+    html+='</button>';
+  });
+  document.getElementById('typeTabs').innerHTML=html;
+}
+
+function jumpToType(type){
+  var pgs=typePageMap[type];
+  if(!pgs||pgs.length===0)return;
+  var target=pgs[0];
+  for(var i=0;i<pgs.length;i++){
+    var pg=pages[pgs[i]];
+    if(!pg.indices.every(function(idx){return confirmed[idx];})){target=pgs[i];break;}
+  }
+  currentPage=target;
+  renderPage();
+  window.scrollTo(0,0);
+}
 
 function esc(t){if(!t)return'';var d=document.createElement('div');d.textContent=t;return d.innerHTML.replace(/\n/g,'<br>');}
 function updateProgress(){
   var done=confirmed.filter(Boolean).length;
-  document.getElementById("progressFill").style.width=(done/totalQ*100)+"%";
-  document.getElementById("progressText").textContent="第"+(currentPage+1)+"页/共"+totalPages+"页 已完成"+done+"/"+totalQ+"题";
+  document.getElementById('progressFill').style.width=(done/totalQ*100)+'%';
+  document.getElementById('progressText').textContent='第'+(currentPage+1)+'页/共'+totalPages+'页 已完成'+done+'/'+totalQ+'题';
 }
 
 function renderPage(){
-  var page=pages[currentPage], area=document.getElementById("questionArea"), html='';
+  buildTypeTabs();
+  var page=pages[currentPage], area=document.getElementById('questionArea'), html='';
   var isCompact = page.indices.length > 3 ? ' compact' : '';
-  if(page.type==="single") html=renderSingle(page.indices[0], isCompact);
+  if(page.type==='single') html=renderSingle(page.indices[0], isCompact);
   else html=renderGroup(page, isCompact);
-  // Nav
   html+='<div class="nav-bar">';
   if(currentPage>0) html+='<button class="btn btn-secondary" onclick="prevPage()">&#9664; 上一页</button>';
   var allPageConfirmed = page.indices.every(function(idx){return confirmed[idx];});
@@ -197,7 +213,10 @@ function renderPage(){
     else html+='<button class="btn btn-primary" onclick="goNext()">继续答题 &#9654;</button>';
   }
   html+='</div>';
-  area.innerHTML=html; updateProgress();
+  area.innerHTML=html;
+  document.getElementById('resultArea').classList.add('hidden');
+  document.getElementById('questionArea').classList.remove('hidden');
+  updateProgress();
 }
 
 function renderSingle(idx, compact){
@@ -228,16 +247,16 @@ function renderGroup(page, compact){
 }
 
 function renderOpts(idx){
-  var q=questions[idx], letters=["A","B","C","D"], html='<div class="options">';
+  var q=questions[idx], letters=['A','B','C','D'], html='<div class="options">';
   for(var i=0;i<q.options.length;i++){
-    var L=letters[i], sel=answers[idx]===L, cls="option-btn";
+    var L=letters[i], sel=answers[idx]===L, cls='option-btn';
     if(confirmed[idx]){
-      cls+=" disabled";
-      if(L===q.correct_answer) cls+=" correct";
-      else if(sel&&L!==q.correct_answer) cls+=" wrong";
-      else cls+=" dim";
-    } else { if(sel) cls+=" selected"; }
-    var txt=q.options[i].replace(/^[A-D]\.\s*/,"");
+      cls+=' disabled';
+      if(L===q.correct_answer) cls+=' correct';
+      else if(sel&&L!==q.correct_answer) cls+=' wrong';
+      else cls+=' dim';
+    } else { if(sel) cls+=' selected'; }
+    var txt=q.options[i].replace(/^[A-D]\.\s*/,'');
     html+='<div class="'+cls+'" onclick="selOpt('+idx+',\''+L+'\')">';
     html+='<span class="option-letter">'+L+'</span><span>'+esc(txt)+'</span></div>';
   }
@@ -246,7 +265,7 @@ function renderOpts(idx){
 
 function renderExpl(idx){
   var q=questions[idx], ok=answers[idx]===q.correct_answer;
-  var icon=ok?"&#10004;":"&#10008;", pre=ok?"":"你选 "+answers[idx]+"，正确答案 "+q.correct_answer+"。";
+  var icon=ok?'&#10004;':'&#10008;', pre=ok?'':'你选 '+answers[idx]+'，正确答案 '+q.correct_answer+'。';
   return '<div class="explanation">'+(ok?'<span style="color:#43b883;font-weight:700">'+icon+' 正确！</span> ':'<span style="color:#c0392b;font-weight:700">'+icon+' 错误</span> '+pre)+esc(q.explanation)+'</div>';
 }
 
@@ -255,7 +274,7 @@ function selOpt(idx,L){ if(confirmed[idx])return; answers[idx]=L; renderPage(); 
 function confirmPage(){
   var page=pages[currentPage];
   var unanswered=page.indices.filter(function(i){return answers[i]===null;});
-  if(unanswered.length>0){alert("本页还有"+unanswered.length+"题未作答");return;}
+  if(unanswered.length>0){alert('本页还有'+unanswered.length+'题未作答');return;}
   page.indices.forEach(function(i){confirmed[i]=true;});
   renderPage();
   saveProgress();
@@ -272,17 +291,17 @@ function goNext(){
 function saveProgress(){
   var allDone=confirmed.every(Boolean);
   if(!allDone)return;
-  var correct=0, ansStr="";
+  var correct=0, ansStr='';
   for(var i=0;i<totalQ;i++){
     if(answers[i]===questions[i].correct_answer) correct++;
     ansStr+=answers[i];
   }
   var record={date:quizData.date,session:quizData.session_number,answers:ansStr,score:correct,total:totalQ,rate:Math.round(correct/totalQ*100),timestamp:new Date().toISOString(),submitted:true};
   try{
-    localStorage.setItem("basco_quiz_"+quizData.date+"_"+quizData.session_number,JSON.stringify(record));
-    var hist=JSON.parse(localStorage.getItem("basco_history")||"[]");
+    localStorage.setItem('basco_quiz_'+quizData.date+'_'+quizData.session_number,JSON.stringify(record));
+    var hist=JSON.parse(localStorage.getItem('basco_history')||'[]');
     hist.push(record);
-    localStorage.setItem("basco_history",JSON.stringify(hist));
+    localStorage.setItem('basco_history',JSON.stringify(hist));
   }catch(e){}
 }
 
@@ -297,10 +316,9 @@ function submitToGitHub(){
   if(syncBtn)syncBtn.disabled=true;
   if(syncStatus)syncStatus.innerHTML='&#9889; 正在同步数据...';
 
-  // Build error list for this session
   var newErrors=[];
   var typeLabelsMap={grammar:'语法题',cloze:'完形填空',reading:'阅读理解',vocabulary:'词汇题',listening:'听力题'};
-  var kpLabels={present_perfect:'现在完成时',object_clause:'宾语从句',conditional:'条件状语从句',infinitive:'不定式',gerund:'动名词',passive_voice:'被动语态',word_meaning:'单词释义',phrase_collocation:'词组搭配',cloze_general:'完形填空',detail:'阅读-细节理解',main_idea:'阅读-主旨大意',inference:'阅读-推理判断',word_guessing:'阅读-词义猜测'};
+  var kpLabels={present_perfect:'现在完成时',object_clause:'宾语从句',conditional:'条件状语从句',infinitive:'不定式',gerund:'动名词',passive_voice:'被动语态',word_meaning:'单词释义',phrase_collocation:'词组搭配',word_form:'词形变换',cloze_general:'完形填空',detail:'阅读-细节理解',main_idea:'阅读-主旨大意',inference:'阅读-推理判断',word_guessing:'阅读-词义猜测'};
   var correct=0;
   for(var i=0;i<totalQ;i++){
     var q=questions[i];
@@ -323,7 +341,6 @@ function submitToGitHub(){
   }
   var newSession={date:quizData.date,session:quizData.session_number,total:totalQ,correct:correct,rate:Math.round(correct/totalQ*100)};
 
-  // Fetch current results.json, merge, then push
   var apiBase='https://api.github.com/repos/'+GH_OWNER+'/'+GH_REPO+'/contents/'+GH_FILE;
   var token=_gt();
 
@@ -334,7 +351,6 @@ function submitToGitHub(){
     if(fileInfo.content){
       try{
         var raw=atob(fileInfo.content.replace(/\n/g,''));
-        // Decode UTF-8: atob returns Latin-1, need to convert back to UTF-8
         var utf8=decodeURIComponent(escape(raw));
         existing=JSON.parse(utf8);
       }catch(e){existing={student:'Bosco',sessions:[],errors:[]};}
@@ -342,7 +358,6 @@ function submitToGitHub(){
       existing={student:'Bosco',sessions:[],errors:[]};
     }
 
-    // Check for duplicate session
     var dup=existing.sessions.some(function(s){return s.date===newSession.date&&s.session===newSession.session;});
     if(dup){
       if(syncStatus)syncStatus.innerHTML='&#10004; 本组成绩已同步过';
@@ -350,10 +365,8 @@ function submitToGitHub(){
       return Promise.resolve('skip');
     }
 
-    // Merge
     existing.sessions.push(newSession);
     for(var j=0;j<newErrors.length;j++){existing.errors.push(newErrors[j]);}
-    // Keep max 50 errors
     if(existing.errors.length>50) existing.errors=existing.errors.slice(existing.errors.length-50);
 
     var newContent=btoa(unescape(encodeURIComponent(JSON.stringify(existing,null,2))));
@@ -383,19 +396,19 @@ function submitToGitHub(){
 
 function showResult(){
   saveProgress();
-  document.getElementById("questionArea").classList.add("hidden");
-  var area=document.getElementById("resultArea"); area.classList.remove("hidden");
-  var correct=0,dots="",errors=[],ansStr="";
+  document.getElementById('questionArea').classList.add('hidden');
+  var area=document.getElementById('resultArea'); area.classList.remove('hidden');
+  var correct=0,dots='',errors=[],ansStr='';
   for(var i=0;i<totalQ;i++){
     var ok=answers[i]===questions[i].correct_answer;
-    if(ok){correct++;dots+="&#10004;";}else{dots+="&#10008;";errors.push(i);}
+    if(ok){correct++;dots+='&#10004;';}else{dots+='&#10008;';errors.push(i);}
     ansStr+=answers[i];
   }
   var rate=Math.round(correct/totalQ*100);
-  var emoji=rate>=80?"&#127881;":rate>=60?"&#128170;":"&#128218;";
-  var msg=rate>=90?"太棒了！几乎全对！":rate>=80?"很不错！继续保持！":rate>=60?"还可以，错题好好看讲解！":"别灰心，弄懂错题就是进步！";
+  var emoji=rate>=80?'&#127881;':rate>=60?'&#128170;':'&#128218;';
+  var msg=rate>=90?'太棒了！几乎全对！':rate>=80?'很不错！继续保持！':rate>=60?'还可以，错题好好看讲解！':'别灰心，弄懂错题就是进步！';
   var html='<div class="result-card">';
-  html+='<div class="result-label">第 15 天成绩</div>';
+  html+='<div class="result-label">第 16 天成绩</div>';
   html+='<div class="result-score">'+correct+'/'+totalQ+'</div>';
   html+='<div class="result-dots">'+dots+'</div>';
   html+='<div class="result-msg">'+emoji+' '+msg+'</div>';
@@ -407,7 +420,7 @@ function showResult(){
     html+='<div class="error-section"><h3>&#10008; 错题详解</h3>';
     for(var j=0;j<errors.length;j++){
       var idx=errors[j],q=questions[idx];
-      var sp=q.stem.length>60?q.stem.substring(0,60)+"...":q.stem;
+      var sp=q.stem.length>60?q.stem.substring(0,60)+'...':q.stem;
       html+='<div class="error-item"><div class="ei-head">第'+q.id+'题 &middot; '+(typeLabels[q.type]||q.type)+'</div>';
       html+='<div class="ei-stem">'+esc(sp)+'</div>';
       html+='<div class="ei-answer">你选：<span style="color:#c0392b;font-weight:600">'+answers[idx]+'</span>&emsp;正确：<span style="color:#1a7f4b;font-weight:600">'+q.correct_answer+'</span></div>';
@@ -427,23 +440,22 @@ function showResult(){
   html+='<div style="text-align:center;margin-top:10px"><button id="syncBtn" class="btn btn-secondary" onclick="submitToGitHub()" style="width:auto;padding:8px 20px;font-size:12px">&#128259; 重新同步</button></div>';
   html+='</div>';
   area.innerHTML=html; window.scrollTo(0,0);
-  // Auto submit to GitHub
   submitToGitHub();
 }
 function reviewAll(){
-  document.getElementById("resultArea").classList.add("hidden");
-  document.getElementById("questionArea").classList.remove("hidden");
+  document.getElementById('resultArea').classList.add('hidden');
+  document.getElementById('questionArea').classList.remove('hidden');
   currentPage=0; renderPage();
 }
 function copyAns(s){
-  if(navigator.clipboard) navigator.clipboard.writeText(s).then(function(){alert("已复制："+s);});
-  else prompt("请复制：",s);
+  if(navigator.clipboard) navigator.clipboard.writeText(s).then(function(){alert('已复制：'+s);});
+  else prompt('请复制：',s);
 }
 
 // Restore previous submission
 (function(){
   try{
-    var k="basco_quiz_"+quizData.date+"_"+quizData.session_number;
+    var k='basco_quiz_'+quizData.date+'_'+quizData.session_number;
     var prev=localStorage.getItem(k);
     if(prev){var r=JSON.parse(prev);if(r.submitted){for(var i=0;i<r.answers.length&&i<totalQ;i++){answers[i]=r.answers[i];confirmed[i]=true;}}}
   }catch(e){}
