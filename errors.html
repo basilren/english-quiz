@@ -17,14 +17,22 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;b
 .summary-item .val{font-size:22px;font-weight:800;color:#c0392b}
 .summary-item .lbl{font-size:11px;color:#999;margin-top:2px}
 
-/* Date picker row */
-.date-picker-row{display:flex;align-items:center;gap:8px;background:rgba(255,255,255,.9);border-radius:12px;padding:10px 14px;margin-bottom:10px;box-shadow:0 2px 10px rgba(0,0,0,.06)}
+/* Multi-date picker */
+.date-picker-section{background:rgba(255,255,255,.9);border-radius:12px;padding:12px 14px;margin-bottom:10px;box-shadow:0 2px 10px rgba(0,0,0,.06)}
+.date-picker-row{display:flex;align-items:center;gap:8px;margin-bottom:8px}
 .date-picker-row label{font-size:13px;font-weight:600;color:#c0392b;white-space:nowrap}
 .date-picker-row input[type="date"]{flex:1;padding:7px 10px;border:2px solid #f0e0e0;border-radius:8px;font-size:13px;color:#c0392b;background:#fff;outline:none;min-width:0}
 .date-picker-row input[type="date"]:focus{border-color:#e74c3c}
-.date-picker-row .date-hint{font-size:11px;color:#999;white-space:nowrap}
-.date-clear-btn{padding:6px 12px;border:1.5px solid #e0d0d0;border-radius:8px;background:#fff;color:#999;font-size:12px;cursor:pointer;white-space:nowrap}
-.date-clear-btn:active{background:#f5f5f5}
+.date-add-btn{padding:7px 14px;border:2px solid #e74c3c;border-radius:8px;background:#fff;color:#e74c3c;font-size:13px;font-weight:600;cursor:pointer;white-space:nowrap}
+.date-add-btn:active{background:#fff5f5;transform:scale(.96)}
+
+/* Selected date chips */
+.date-chips{display:flex;flex-wrap:wrap;gap:6px}
+.date-chip{display:inline-flex;align-items:center;gap:4px;padding:5px 10px;border-radius:20px;background:#e74c3c;color:#fff;font-size:12px;font-weight:600;animation:fadeIn .2s ease}
+.date-chip .chip-close{cursor:pointer;font-size:14px;opacity:.8;margin-left:2px}
+.date-chip .chip-close:hover{opacity:1}
+.date-chip-all{background:#999}
+.date-hint{font-size:11px;color:#999;margin-top:4px}
 
 .filter-bar{display:flex;gap:6px;margin-bottom:12px;flex-wrap:wrap}
 .filter-btn{padding:7px 14px;border-radius:20px;border:2px solid rgba(255,255,255,0.4);background:rgba(255,255,255,0.15);color:#fff;font-size:12px;font-weight:600;cursor:pointer;transition:all 0.2s}
@@ -37,7 +45,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;b
 .card{background:rgba(255,255,255,0.97);border-radius:16px;padding:16px;margin-bottom:10px;box-shadow:0 4px 20px rgba(0,0,0,0.1);animation:fadeIn 0.3s ease}
 @keyframes fadeIn{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}}
 .error-tag{display:inline-block;font-size:11px;padding:3px 10px;border-radius:20px;color:#fff;margin-right:6px;margin-bottom:8px;font-weight:600}
-.tag-grammar{background:#3b82f6}.tag-cloze{background:#f59e0b}.tag-reading{background:#ef4444}.tag-vocabulary{background:#43b883}.tag-listening{background:#8b5cf6}
+.tag-grammar{background:#3b82f6}.tag-cloze{background:#f59e0b}.tag-reading{background:#ef4444}.tag-vocabulary{background:#43b883}.tag-fill{background:#8b5cf6}
 .error-source{font-size:11px;color:#aaa;margin-bottom:8px}
 .error-stem{font-size:14px;line-height:1.6;margin-bottom:12px;white-space:pre-wrap;word-break:break-word;color:#333}
 .opts{display:flex;flex-direction:column;gap:5px;margin-bottom:12px}
@@ -56,9 +64,29 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;b
 .link-btn.purple{background:linear-gradient(135deg,#667eea,#764ba2)}
 .link-btn.green{background:linear-gradient(135deg,#43b883,#2d8f6f)}
 .footer{text-align:center;padding:14px;color:rgba(255,255,255,0.6);font-size:11px}
+
+/* WeChat overlay */
+.wx-overlay{position:fixed;top:0;left:0;right:0;bottom:0;background:rgba(0,0,0,.7);z-index:9999;display:flex;flex-direction:column;align-items:center;padding-top:60px}
+.wx-arrow{font-size:48px;color:#fff;animation:bounce 1.5s infinite}
+@keyframes bounce{0%,100%{transform:translateY(0)}50%{transform:translateY(-10px)}}
+.wx-msg{color:#fff;font-size:16px;text-align:center;margin-top:20px;line-height:1.8;padding:0 30px}
+.wx-msg strong{font-size:18px}
+.hidden{display:none!important}
 </style>
 </head>
 <body>
+
+<!-- WeChat Guide Overlay -->
+<div id="wxOverlay" class="wx-overlay hidden" onclick="this.classList.add('hidden')">
+  <div class="wx-arrow">&#8599;&#65039;</div>
+  <div class="wx-msg">
+    <strong>&#128522; 微信内无法直接打开</strong><br><br>
+    &#10147; 请点击右上角 <strong>&#8942;</strong> 菜单<br>
+    &#10147; 选择「<strong>在浏览器中打开</strong>」<br><br>
+    <span style="font-size:13px;opacity:.7">点击任意位置关闭此提示</span>
+  </div>
+</div>
+
 <div class="container">
   <div class="header">
     <h1 id="title">&#128210; Bosco 错题本</h1>
@@ -70,12 +98,16 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;b
     </div>
   </div>
 
-  <!-- Date Picker (new) -->
-  <div class="date-picker-row">
-    <label>&#128197; 日期：</label>
-    <input type="date" id="datePicker" onchange="onDatePickerChange()">
-    <span class="date-hint" id="dateHint"></span>
-    <button class="date-clear-btn" onclick="clearDateFilter()">全部</button>
+  <!-- Multi-date picker -->
+  <div class="date-picker-section">
+    <div class="date-picker-row">
+      <label>&#128197; 日期：</label>
+      <input type="date" id="datePicker">
+      <button class="date-add-btn" onclick="addSelectedDate()">+ 添加</button>
+      <button class="date-add-btn" onclick="clearAllDates()" style="border-color:#999;color:#999">全部</button>
+    </div>
+    <div class="date-chips" id="dateChips"></div>
+    <div class="date-hint" id="dateHint"></div>
   </div>
 
   <div class="filter-bar" id="filterBar">
@@ -84,6 +116,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;b
     <div class="filter-btn" data-filter="reading" onclick="setFilter('reading')">阅读</div>
     <div class="filter-btn" data-filter="cloze" onclick="setFilter('cloze')">完形</div>
     <div class="filter-btn" data-filter="vocabulary" onclick="setFilter('vocabulary')">词汇</div>
+    <div class="filter-btn" data-filter="fill" onclick="setFilter('fill')">填空</div>
   </div>
 
   <div id="errorList"><div class="loading-msg">&#9203; 加载错题数据...</div></div>
@@ -97,14 +130,22 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;b
 </div>
 
 <script>
+// === WeChat detection ===
+(function(){
+  var ua=navigator.userAgent.toLowerCase();
+  if(ua.indexOf('micromessenger')!==-1){
+    document.getElementById('wxOverlay').classList.remove('hidden');
+  }
+})();
+
 var errorData = [];
 var sessionsData = [];
 var currentFilter = 'all';
-var selectedDate = '';
+var selectedDates = []; // array of date strings for multi-select
 var currentPage = 1;
 var PAGE_SIZE = 5;
-var tagMap = {grammar:'tag-grammar',cloze:'tag-cloze',reading:'tag-reading',vocabulary:'tag-vocabulary',listening:'tag-listening'};
-var typeMap = {grammar:'语法题',cloze:'完形填空',reading:'阅读理解',vocabulary:'词汇题',listening:'听力题'};
+var tagMap = {grammar:'tag-grammar',cloze:'tag-cloze',reading:'tag-reading',vocabulary:'tag-vocabulary',fill:'tag-fill'};
+var typeMap = {grammar:'语法题',cloze:'完形填空',reading:'阅读理解',vocabulary:'词汇题',fill:'短文填空'};
 
 function esc(t){if(!t)return'';var d=document.createElement('div');d.textContent=t;return d.innerHTML.replace(/\n/g,'<br>');}
 
@@ -112,6 +153,13 @@ function daysAgo(dateStr){
   var d=new Date(dateStr+'T00:00:00'), now=new Date();
   now.setHours(0,0,0,0);
   return Math.floor((now-d)/(1000*60*60*24));
+}
+
+function dateLabel(dateStr){
+  var ago=daysAgo(dateStr);
+  if(ago===0) return '今天';
+  if(ago===1) return '昨天';
+  return dateStr;
 }
 
 function setFilter(f){
@@ -122,36 +170,63 @@ function setFilter(f){
   render();
 }
 
-function onDatePickerChange(){
-  selectedDate=document.getElementById('datePicker').value||'';
-  currentPage=1;
-  updateDateHint();
-  render();
-}
-
-function clearDateFilter(){
-  selectedDate='';
+// === Multi-date management ===
+function addSelectedDate(){
+  var val=document.getElementById('datePicker').value;
+  if(!val) return;
+  if(selectedDates.indexOf(val)===-1){
+    selectedDates.push(val);
+    selectedDates.sort().reverse(); // newest first
+  }
   document.getElementById('datePicker').value='';
-  document.getElementById('dateHint').textContent='';
   currentPage=1;
+  renderDateChips();
   render();
 }
 
-function updateDateHint(){
+function removeDate(dateStr){
+  selectedDates=selectedDates.filter(function(d){return d!==dateStr;});
+  currentPage=1;
+  renderDateChips();
+  render();
+}
+
+function clearAllDates(){
+  selectedDates=[];
+  document.getElementById('datePicker').value='';
+  currentPage=1;
+  renderDateChips();
+  render();
+}
+
+function setInitialDate(dateStr){
+  if(dateStr && selectedDates.indexOf(dateStr)===-1){
+    selectedDates.push(dateStr);
+  }
+  renderDateChips();
+}
+
+function renderDateChips(){
+  var container=document.getElementById('dateChips');
   var hint=document.getElementById('dateHint');
-  if(!selectedDate){hint.textContent='';return;}
-  var ago=daysAgo(selectedDate);
-  if(ago===0) hint.textContent='今天';
-  else if(ago===1) hint.textContent='昨天';
-  else if(ago>0) hint.textContent=ago+'天前';
-  else hint.textContent='';
+  if(selectedDates.length===0){
+    container.innerHTML='<span class="date-chip date-chip-all">显示全部日期</span>';
+    hint.textContent='可通过上方日期选择器筛选特定日期';
+    return;
+  }
+  var html='';
+  selectedDates.forEach(function(d){
+    html+='<span class="date-chip">'+dateLabel(d)+' ('+d+') <span class="chip-close" onclick="removeDate(\''+d+'\')">&times;</span></span>';
+  });
+  container.innerHTML=html;
+  hint.textContent='已选 '+selectedDates.length+' 天，点击 x 移除，或点「全部」查看所有日期';
 }
 
 function goPage(p){currentPage=p;render();window.scrollTo(0,document.getElementById('errorList').offsetTop-60);}
 
 function getFiltered(){
   return errorData.filter(function(e){
-    if(selectedDate && e.date!==selectedDate) return false;
+    if(selectedDates.length>0 && selectedDates.indexOf(e.date)===-1) return false;
     if(currentFilter==='all') return true;
     return e.type===currentFilter;
   });
@@ -179,11 +254,12 @@ function render(){
     var totalC=0,totalT=0;
     sessionsData.forEach(function(s){totalC+=s.correct;totalT+=s.total;});
     document.getElementById('overallRate').textContent=Math.round(totalC/totalT*100)+'%';
-    document.getElementById('updateTime').textContent='共 '+sessionsData.length+' 组 · 最后更新 '+sessionsData[sessionsData.length-1].date;
+    document.getElementById('updateTime').textContent='共 '+sessionsData.length+' 组 &middot; 最后更新 '+sessionsData[sessionsData.length-1].date;
   }
 
   if(filtered.length===0){
-    area.innerHTML='<div class="empty-msg">&#127881; '+(selectedDate?selectedDate+' ':'')+'没有错题！继续保持！</div>';
+    var dateInfo=selectedDates.length>0?selectedDates.join(', ')+' ':'';
+    area.innerHTML='<div class="empty-msg">&#127881; '+dateInfo+'没有错题！继续保持！</div>';
     document.getElementById('pagination').innerHTML='';
     return;
   }
@@ -204,8 +280,7 @@ function render(){
   var dates=Object.keys(groups).sort().reverse();
   var html='';
   dates.forEach(function(date){
-    var ago=daysAgo(date);
-    var label=ago===0?'今天':ago===1?'昨天':date;
+    var label=dateLabel(date);
     html+='<div class="date-group">';
     html+='<div class="date-label">&#128197; '+label+' &middot; '+groups[date].length+'道错题</div>';
     groups[date].forEach(function(e){
@@ -214,7 +289,7 @@ function render(){
       html+='<div class="error-source">第'+e.session+'组 &middot; 第'+e.question_id+'题</div>';
       html+='<div class="error-stem">'+esc(e.stem)+'</div>';
       html+='<div class="opts">';
-      var letters=['A','B','C','D'];
+      var letters=['A','B','C','D','E'];
       for(var i=0;i<e.options.length;i++){
         var L=letters[i], cls='opt';
         if(L===e.correct_answer) cls+=' correct';
@@ -297,13 +372,13 @@ function loadFallback(){
   });
 }
 
-// Initialize date picker: default to most recent day with errors
+// Initialize: default to most recent day with errors
 function initDatePicker(){
   var latest=findLatestErrorDate();
   if(latest){
-    selectedDate=latest;
-    document.getElementById('datePicker').value=latest;
-    updateDateHint();
+    setInitialDate(latest);
+  } else {
+    renderDateChips();
   }
 }
 

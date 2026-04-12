@@ -39,10 +39,16 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;b
 @keyframes slideIn{from{transform:translateX(50px);opacity:0}to{transform:translateX(0);opacity:1}}
 
 .q-tag{display:inline-block;font-size:11px;padding:3px 10px;border-radius:20px;color:#fff;margin-bottom:10px;font-weight:600}
-.tag-vocabulary{background:#43b883}.tag-grammar{background:#3b82f6}.tag-cloze{background:#f59e0b}.tag-reading{background:#ef4444}.tag-listening{background:#8b5cf6}
+.tag-vocabulary{background:#43b883}.tag-grammar{background:#3b82f6}.tag-cloze{background:#f59e0b}.tag-reading{background:#ef4444}.tag-fill{background:#8b5cf6}
 .q-number{font-size:13px;color:#999;margin-bottom:6px}
 .q-stem{font-size:15px;line-height:1.6;margin-bottom:14px;white-space:pre-wrap;word-break:break-word}
 .reading-passage{background:#f8f7ff;border-left:3px solid #667eea;padding:12px 14px;border-radius:0 8px 8px 0;margin-bottom:14px;font-size:13px;line-height:1.7;color:#444;white-space:pre-wrap;word-break:break-word}
+/* Fill-in-blank passage: highlight blanks */
+.fill-passage{background:#f8f7ff;border-left:3px solid #8b5cf6;padding:12px 14px;border-radius:0 8px 8px 0;margin-bottom:14px;font-size:13px;line-height:1.8;color:#444}
+.fill-passage .blank{display:inline-block;min-width:30px;border-bottom:2px solid #8b5cf6;color:#8b5cf6;font-weight:700;padding:0 4px;margin:0 2px}
+.fill-passage .blank.filled{color:#4a3f8a;background:#ede9fe;border-radius:4px;border-bottom:none;padding:1px 6px}
+.fill-passage .blank.correct-blank{color:#1a7f4b;background:#edfff6;border-color:#43b883}
+.fill-passage .blank.wrong-blank{color:#c0392b;background:#fff0f0;border-color:#ef4444}
 .sub-question{margin-bottom:18px;padding-bottom:14px;border-bottom:1px dashed #e8e4f0}
 .sub-question:last-child{border-bottom:none;margin-bottom:0;padding-bottom:0}
 .sub-q-label{font-size:14px;font-weight:600;color:#4a3f8a;margin-bottom:8px}
@@ -91,16 +97,36 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;b
 .error-item .ei-answer{font-size:12px;margin-bottom:4px}
 .error-item .ei-explain{font-size:12px;line-height:1.5;color:#6b5900;background:#fffbeb;padding:8px;border-radius:6px}
 .submitted-notice{text-align:center;padding:12px;background:#edfff6;border-radius:10px;margin-top:12px;color:#1a7f4b;font-weight:600;font-size:14px}
+
+/* WeChat overlay */
+.wx-overlay{position:fixed;top:0;left:0;right:0;bottom:0;background:rgba(0,0,0,.7);z-index:9999;display:flex;flex-direction:column;align-items:center;padding-top:60px}
+.wx-arrow{font-size:48px;color:#fff;animation:bounce 1.5s infinite}
+@keyframes bounce{0%,100%{transform:translateY(0)}50%{transform:translateY(-10px)}}
+.wx-msg{color:#fff;font-size:16px;text-align:center;margin-top:20px;line-height:1.8;padding:0 30px}
+.wx-msg strong{font-size:18px}
+
 .hidden{display:none!important}
 </style>
 </head>
 <body>
+
+<!-- WeChat Guide Overlay -->
+<div id="wxOverlay" class="wx-overlay hidden" onclick="this.classList.add('hidden')">
+  <div class="wx-arrow">&#8599;&#65039;</div>
+  <div class="wx-msg">
+    <strong>&#128522; 微信内无法直接打开</strong><br><br>
+    &#10147; 请点击右上角 <strong>&#8942;</strong> 菜单<br>
+    &#10147; 选择「<strong>在浏览器中打开</strong>」<br><br>
+    <span style="font-size:13px;opacity:.7">点击任意位置关闭此提示</span>
+  </div>
+</div>
+
 <div class="container">
   <div class="header">
     <h1 id="mainTitle">&#128221; Bosco 今日英语练习</h1>
-    <div class="subtitle" id="subtitleText">第 16 天 &middot; 第 1 组 &middot; 2026年4月12日</div>
+    <div class="subtitle" id="subtitleText">第 17 天 &middot; 第 1 组 &middot; 2026年4月12日</div>
     <div class="progress-bar"><div class="progress-fill" id="progressFill" style="width:0%"></div></div>
-    <div class="progress-text" id="progressText">第 1 页 / 共 18 题</div>
+    <div class="progress-text" id="progressText">第 1 页 / 共 20 题</div>
   </div>
   <!-- Type Tabs -->
   <div class="type-tabs" id="typeTabs"></div>
@@ -109,8 +135,131 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;b
 </div>
 
 <script>
+// === WeChat detection ===
+(function(){
+  var ua=navigator.userAgent.toLowerCase();
+  if(ua.indexOf('micromessenger')!==-1){
+    document.getElementById('wxOverlay').classList.remove('hidden');
+  }
+})();
+
 // NOTE: All strings must avoid Chinese quotes. Use single quotes only.
-var quizData = {"date":"2026-04-12","session_number":1,"questions":[{"id":1,"type":"grammar","knowledge_point":"present_perfect","difficulty":2,"stem":"-- Have you ever _____ to Beijing?\n-- Yes, I _____ there last summer.","options":["A. been; went","B. gone; went","C. been; have been","D. gone; have gone"],"correct_answer":"A","explanation":"have been to = have visited somewhere (and returned). In the answer, 'last summer' is a specific past time, so use simple past 'went'. have gone to = went and hasn't returned yet -- doesn't fit since the person IS here talking. Pattern: Have you ever been to...? Yes, I went there + [past time]."},{"id":2,"type":"grammar","knowledge_point":"present_perfect","difficulty":2,"stem":"The Smiths _____ in China since 2019. They love living here.","options":["A. are","B. have been","C. were","D. had been"],"correct_answer":"B","explanation":"since 2019 = from 2019 until now, a key signal for present perfect tense. have been = have been (continuing state). 'are' can't express duration from past; 'were' means they left; 'had been' is past perfect -- used when talking about a time before another past event, not here."},{"id":3,"type":"grammar","knowledge_point":"present_perfect","difficulty":3,"stem":"This is the most interesting book that I _____ ever _____.","options":["A. /; read","B. have; read","C. had; read","D. /; reading"],"correct_answer":"B","explanation":"'This is the most/best/first... that + present perfect' is a classic pattern. The superlative 'most interesting' triggers present perfect in the that-clause. have ever read = have ever read. Don't use past perfect (had read) here -- that requires a reference to another past event."},{"id":4,"type":"grammar","knowledge_point":"object_clause","difficulty":2,"stem":"The teacher asked the students _____.","options":["A. if they had finished the homework","B. if had they finished the homework","C. that they had finished the homework","D. have they finished the homework"],"correct_answer":"A","explanation":"Object clause rules: 1) Use statement word order (subject + verb); 2) The teacher 'asked' = yes/no question, so use if/whether; 3) Tense shifts back: 'have finished' -> 'had finished'. Option B has inverted word order (wrong); C uses 'that' (for statements, not questions); D has no conjunction and wrong word order."},{"id":5,"type":"grammar","knowledge_point":"object_clause","difficulty":3,"stem":"-- Do you know _____?\n-- Sorry, I have no idea.","options":["A. how much does it cost","B. how much it costs","C. how much did it cost","D. how much it costed"],"correct_answer":"B","explanation":"Object clause = statement word order. 'how much it costs' (subject 'it' before verb 'costs'). A and C use question word order (wrong). D: 'costed' is wrong -- cost is an irregular verb: cost-cost-cost (no -ed form). The main clause is present tense, so the object clause uses present tense too."},{"id":6,"type":"grammar","knowledge_point":"passive_voice","difficulty":2,"stem":"Paper _____ by the Chinese about two thousand years ago.","options":["A. invented","B. was invented","C. is invented","D. invents"],"correct_answer":"B","explanation":"Paper is the receiver of the action (paper can't invent itself), so use passive voice: be + past participle. 'Two thousand years ago' = past time, so use 'was invented'. A lacks the be-verb; C is present tense (doesn't match 'ago'); D is active voice (paper invents? No!)."},{"id":7,"type":"grammar","knowledge_point":"conditional","difficulty":2,"stem":"If it _____ tomorrow, we will go to the park for a picnic.","options":["A. won't rain","B. doesn't rain","C. didn't rain","D. isn't raining"],"correct_answer":"B","explanation":"In if-clauses for real future conditions, use simple present tense (not will/won't). 'If + simple present, will + do' is the pattern. A uses won't (future tense in if-clause = wrong); C is simple past (for unreal conditions); D is present continuous (not standard for this pattern). Key rule: main clause future, if-clause present."},{"id":8,"type":"vocabulary","knowledge_point":"word_form","difficulty":2,"stem":"It's _____ (danger) to swim alone in the deep river.","options":["A. danger","B. dangerous","C. dangerously","D. endangered"],"correct_answer":"B","explanation":"It's + adjective + to do sth. After 'It's', we need an adjective. danger (noun) -> dangerous (adjective) -> dangerously (adverb). endangered = close to extinction (meaning doesn't fit). Pattern: It is dangerous/important/necessary to do sth."},{"id":9,"type":"vocabulary","knowledge_point":"phrase_collocation","difficulty":2,"stem":"We should _____ the lights when we leave the room to save energy.","options":["A. turn on","B. turn off","C. turn up","D. turn down"],"correct_answer":"B","explanation":"turn off = switch off (lights, devices). 'When we leave the room' + 'save energy' = we should turn off the lights. turn on = switch on; turn up = increase volume/heat; turn down = decrease volume / reject. turn off is the most frequently tested phrase in energy-saving contexts."},{"id":10,"type":"cloze","knowledge_point":"cloze_general","difficulty":3,"group":"cloze_1","group_passage":"Last summer, my family took a road trip across Yunnan Province. It was one of the best experiences of my life.\n\nWe started our journey in Kunming, the capital city. The weather there was so (10)___ that people call it the 'Spring City'. We visited Green Lake Park and saw many people dancing and singing in the morning.\n\nAfter two days, we drove to Dali, a beautiful old town near Erhai Lake. The lake was so clear that we could see the (11)___ of the mountains in the water. My father rented bikes for us, and we rode along the lake for hours. It was tiring but (12)___.\n\nThe most amazing part was our visit to Lijiang. The old town was full of narrow streets, traditional shops, and small rivers. At night, thousands of (13)___ lit up the streets, making the whole town look like a fairy tale. I took so many photos that my phone ran out of storage!\n\nOn our way home, my mother said, 'The best thing about traveling is not the places you visit, but the (14)___ you share with your family.' I think she was absolutely right.","stem":"(10)","options":["A. cold","B. hot","C. comfortable","D. terrible"],"correct_answer":"C","explanation":"The weather is so comfortable that people call it the 'Spring City'. Kunming is famous for its mild, pleasant climate all year round -- hence 'Spring City'. cold/hot/terrible all contradict the nickname. 'Comfortable' means pleasant and agreeable -- perfect for spring-like weather."},{"id":11,"type":"cloze","knowledge_point":"cloze_general","difficulty":3,"group":"cloze_1","stem":"(11)","options":["A. photos","B. shadows","C. reflections","D. paintings"],"correct_answer":"C","explanation":"'The lake was so clear that we could see the reflections of the mountains in the water.' Reflections = mirror images in water. photos (pictures taken by camera); shadows (dark shapes caused by blocking light); paintings (art). Only reflections describes what you see when looking at clear water."},{"id":12,"type":"cloze","knowledge_point":"cloze_general","difficulty":3,"group":"cloze_1","stem":"(12)","options":["A. boring","B. worthwhile","C. dangerous","D. impossible"],"correct_answer":"B","explanation":"'It was tiring but worthwhile.' The 'but' shows contrast: although tiring, it was worth doing. boring (= tiring, no contrast); dangerous (not mentioned); impossible (they DID ride, so not impossible). worthwhile = worth the effort."},{"id":13,"type":"cloze","knowledge_point":"cloze_general","difficulty":3,"group":"cloze_1","stem":"(13)","options":["A. lanterns","B. flowers","C. posters","D. flags"],"correct_answer":"A","explanation":"'Thousands of lanterns lit up the streets, making the whole town look like a fairy tale.' Lijiang's old town is famous for its red lanterns at night. 'Lit up' means illuminated -- lanterns give light. flowers/posters/flags cannot 'light up' streets. Context clue: 'at night' + 'lit up' = lanterns."},{"id":14,"type":"cloze","knowledge_point":"cloze_general","difficulty":3,"group":"cloze_1","stem":"(14)","options":["A. food","B. money","C. memories","D. gifts"],"correct_answer":"C","explanation":"'The best thing about traveling is not the places you visit, but the memories you share with your family.' Mom is saying: the real value of travel is the shared memories, not just sightseeing. food/money/gifts are all material things -- they don't match the emotional tone."},{"id":15,"type":"reading","knowledge_point":"detail","difficulty":2,"group":"reading_1","group_passage":"Sleep is one of the most important things for our health, but many teenagers today are not getting enough of it. According to doctors, teenagers aged 13-18 need about 8-10 hours of sleep every night. However, a recent study shows that nearly 70% of high school students sleep less than 7 hours on school nights.\n\nWhy are teenagers sleeping so little? There are several reasons. First, heavy homework loads keep students up late. Many students report that they cannot finish their homework before 11 p.m. Second, electronic devices such as smartphones and tablets are a major problem. The blue light from screens tricks the brain into thinking it is still daytime, making it harder to fall asleep. Third, some teenagers drink coffee or energy drinks to stay awake during the day, which then makes it difficult for them to sleep at night.\n\nLack of sleep has serious effects on teenagers. It can lead to poor concentration in class, lower grades, and even health problems such as obesity and depression. Studies also show that tired teenagers are more likely to have accidents.\n\nExperts suggest several ways to improve sleep quality. First, try to go to bed and wake up at the same time every day, even on weekends. Second, stop using electronic devices at least 30 minutes before bedtime. Third, avoid caffeine after 3 p.m. Finally, make your bedroom dark, quiet, and cool -- the ideal environment for sleep.\n\nRemember: sleep is not a waste of time. It is your brain's way of recharging for a new day!","stem":"15. According to the study, how many high school students sleep less than 7 hours on school nights?","options":["A. About 30%.","B. About 50%.","C. About 70%.","D. About 90%."],"correct_answer":"C","explanation":"Paragraph 1: 'nearly 70% of high school students sleep less than 7 hours on school nights.' The answer is directly stated -- about 70%, matching option C."},{"id":16,"type":"reading","knowledge_point":"detail","difficulty":2,"group":"reading_1","stem":"16. Why does blue light from screens affect sleep?","options":["A. It damages the eyes permanently.","B. It makes the brain think it is still daytime.","C. It makes the bedroom too bright to sleep.","D. It causes headaches that keep people awake."],"correct_answer":"B","explanation":"Paragraph 2: 'The blue light from screens tricks the brain into thinking it is still daytime, making it harder to fall asleep.' Directly matches B. Key phrase: 'tricks the brain into thinking'."},{"id":17,"type":"reading","knowledge_point":"inference","difficulty":3,"group":"reading_1","stem":"17. What can we infer from the passage?","options":["A. All teenagers drink coffee every day.","B. Sleeping too much is also a problem for teenagers.","C. Good sleep habits can help improve school performance.","D. Doctors recommend that teenagers sleep less than 7 hours."],"correct_answer":"C","explanation":"Inference: Paragraph 3 says lack of sleep leads to 'poor concentration in class, lower grades'. The reverse is also true: good sleep -> better concentration -> better grades. A ('all teenagers' -- too extreme); B (sleeping too much -- not discussed); D (doctors recommend 8-10 hours, not less than 7)."},{"id":18,"type":"reading","knowledge_point":"main_idea","difficulty":2,"group":"reading_1","stem":"18. What is the main purpose of this passage?","options":["A. To advertise a new sleeping pill.","B. To explain why sleep matters for teenagers and how to improve it.","C. To criticize teenagers for using smartphones too much.","D. To compare sleep habits in different countries."],"correct_answer":"B","explanation":"The passage explains why teens lack sleep (Para 2), its harmful effects (Para 3), and how to improve (Para 4). So the purpose is to explain importance + give solutions = B. C is too narrow (smartphones are ONE reason). For main idea, cover ALL paragraphs."}]};
+var quizData = {"date":"2026-04-12","session_number":1,"questions":[
+  {"id":1,"type":"grammar","knowledge_point":"present_perfect","difficulty":2,
+   "stem":"-- Have you ever _____ to Beijing?\n-- Yes, I _____ there last summer.",
+   "options":["A. been; went","B. gone; went","C. been; have been","D. gone; have gone"],
+   "correct_answer":"A",
+   "explanation":"have been to = have visited somewhere (and returned). In the answer, 'last summer' is a specific past time, so use simple past 'went'. have gone to = went and hasn't returned yet -- doesn't fit since the person IS here talking."},
+
+  {"id":2,"type":"grammar","knowledge_point":"present_perfect","difficulty":2,
+   "stem":"The Smiths _____ in China since 2019. They love living here.",
+   "options":["A. are","B. have been","C. were","D. had been"],
+   "correct_answer":"B",
+   "explanation":"since 2019 = from 2019 until now, a key signal for present perfect tense. have been = have been (continuing state). 'are' can't express duration from past; 'were' means they left; 'had been' is past perfect -- not needed here."},
+
+  {"id":3,"type":"grammar","knowledge_point":"present_perfect","difficulty":3,
+   "stem":"This is the most interesting book that I _____ ever _____.",
+   "options":["A. /; read","B. have; read","C. had; read","D. /; reading"],
+   "correct_answer":"B",
+   "explanation":"'This is the most/best/first... that + present perfect' is a classic pattern. The superlative 'most interesting' triggers present perfect in the that-clause. have ever read = have ever read."},
+
+  {"id":4,"type":"grammar","knowledge_point":"object_clause","difficulty":2,
+   "stem":"The teacher asked the students _____.",
+   "options":["A. if they had finished the homework","B. if had they finished the homework","C. that they had finished the homework","D. have they finished the homework"],
+   "correct_answer":"A",
+   "explanation":"Object clause rules: 1) Statement word order (subject + verb); 2) The teacher 'asked' = yes/no question, use if/whether; 3) Tense shifts back: 'have finished' -> 'had finished'. B has inverted word order; C uses 'that' for a question; D has no conjunction."},
+
+  {"id":5,"type":"grammar","knowledge_point":"passive_voice","difficulty":2,
+   "stem":"Paper _____ by the Chinese about two thousand years ago.",
+   "options":["A. invented","B. was invented","C. is invented","D. invents"],
+   "correct_answer":"B",
+   "explanation":"Paper is the receiver of the action, so use passive voice: be + past participle. 'Two thousand years ago' = past time, so 'was invented'. A lacks be-verb; C is present tense; D is active voice."},
+
+  {"id":6,"type":"grammar","knowledge_point":"conditional","difficulty":2,
+   "stem":"If it _____ tomorrow, we will go to the park for a picnic.",
+   "options":["A. won't rain","B. doesn't rain","C. didn't rain","D. isn't raining"],
+   "correct_answer":"B",
+   "explanation":"In if-clauses for real future conditions, use simple present (not will/won't). 'If + simple present, will + do' is the pattern. Key rule: main clause future, if-clause present."},
+
+  {"id":7,"type":"vocabulary","knowledge_point":"word_form","difficulty":2,
+   "stem":"It's _____ (danger) to swim alone in the deep river.",
+   "options":["A. danger","B. dangerous","C. dangerously","D. endangered"],
+   "correct_answer":"B",
+   "explanation":"It's + adjective + to do sth. After 'It's', we need an adjective. danger (noun) -> dangerous (adj) -> dangerously (adv). Pattern: It is dangerous/important/necessary to do sth."},
+
+  {"id":8,"type":"vocabulary","knowledge_point":"phrase_collocation","difficulty":2,
+   "stem":"We should _____ the lights when we leave the room to save energy.",
+   "options":["A. turn on","B. turn off","C. turn up","D. turn down"],
+   "correct_answer":"B",
+   "explanation":"turn off = switch off. 'Leave the room' + 'save energy' = turn off the lights. turn on = switch on; turn up = increase; turn down = decrease/reject."},
+
+  {"id":9,"type":"cloze","knowledge_point":"cloze_general","difficulty":3,"group":"cloze_1",
+   "group_passage":"Last summer, my family took a road trip across Yunnan Province. It was one of the best experiences of my life.\n\nWe started our journey in Kunming, the capital city. The weather there was so (9)___ that people call it the 'Spring City'. We visited Green Lake Park and saw many people dancing and singing in the morning.\n\nAfter two days, we drove to Dali, a beautiful old town near Erhai Lake. The lake was so clear that we could see the (10)___ of the mountains in the water. My father rented bikes for us, and we rode along the lake for hours. It was tiring but (11)___.\n\nThe most amazing part was our visit to Lijiang. The old town was full of narrow streets, traditional shops, and small rivers. At night, thousands of (12)___ lit up the streets, making the whole town look like a fairy tale.\n\nOn our way home, my mother said, 'The best thing about traveling is not the places you visit, but the (13)___ you share with your family.' I think she was absolutely right.",
+   "stem":"(9)","options":["A. cold","B. hot","C. comfortable","D. terrible"],
+   "correct_answer":"C",
+   "explanation":"Kunming is famous for its mild, pleasant climate -- hence 'Spring City'. 'Comfortable' = pleasant weather. cold/hot/terrible all contradict the nickname."},
+
+  {"id":10,"type":"cloze","knowledge_point":"cloze_general","difficulty":3,"group":"cloze_1",
+   "stem":"(10)","options":["A. photos","B. shadows","C. reflections","D. paintings"],
+   "correct_answer":"C",
+   "explanation":"'See the reflections of the mountains in the water.' Reflections = mirror images in clear water. photos = camera pictures; shadows = dark shapes; paintings = art."},
+
+  {"id":11,"type":"cloze","knowledge_point":"cloze_general","difficulty":3,"group":"cloze_1",
+   "stem":"(11)","options":["A. boring","B. worthwhile","C. dangerous","D. impossible"],
+   "correct_answer":"B",
+   "explanation":"'Tiring but worthwhile' -- 'but' shows contrast. Although tiring, it was worth doing. boring has no contrast with tiring; dangerous/impossible don't fit the context."},
+
+  {"id":12,"type":"cloze","knowledge_point":"cloze_general","difficulty":3,"group":"cloze_1",
+   "stem":"(12)","options":["A. lanterns","B. flowers","C. posters","D. flags"],
+   "correct_answer":"A",
+   "explanation":"'Thousands of lanterns lit up the streets.' Lijiang's old town is famous for red lanterns at night. 'Lit up' = illuminated. Only lanterns give light."},
+
+  {"id":13,"type":"cloze","knowledge_point":"cloze_general","difficulty":3,"group":"cloze_1",
+   "stem":"(13)","options":["A. food","B. money","C. memories","D. gifts"],
+   "correct_answer":"C",
+   "explanation":"'The best thing about traveling is the memories you share with your family.' The emotional tone requires 'memories', not material things like food/money/gifts."},
+
+  {"id":14,"type":"fill","knowledge_point":"sentence_fill","difficulty":3,"group":"fill_1",
+   "group_passage":"A: Hi, Tom! Long time no see. (14)___\nB: I went to Beijing with my parents.\nA: That sounds great! (15)___\nB: We visited the Great Wall and the Summer Palace.\nA: Wow! (16)___\nB: Yes, we did. The food there was delicious, especially the Peking duck.\nA: I'm so jealous! I hope I can go there someday too.\nB: (17)___ It's really worth visiting.",
+   "fill_options":["A. Did you try any local food?","B. Where did you go during the holiday?","C. What did you do there?","D. You should go when you have a chance.","E. How long did you stay there?"],
+   "stem":"(14)","options":["A. Did you try any local food?","B. Where did you go during the holiday?","C. What did you do there?","D. You should go when you have a chance.","E. How long did you stay there?"],
+   "correct_answer":"B",
+   "explanation":"The answer is 'I went to Beijing' -- this is answering WHERE the person went. So the question must ask about the destination. 'Where did you go during the holiday?' matches perfectly. A asks about food; C asks about activities; D is a suggestion; E asks about duration."},
+
+  {"id":15,"type":"fill","knowledge_point":"sentence_fill","difficulty":3,"group":"fill_1",
+   "stem":"(15)","options":["A. Did you try any local food?","B. Where did you go during the holiday?","C. What did you do there?","D. You should go when you have a chance.","E. How long did you stay there?"],
+   "correct_answer":"C",
+   "explanation":"The answer is 'We visited the Great Wall and the Summer Palace' -- describing ACTIVITIES done there. So the question asks 'What did you do there?' A asks about food; B was already used for (14); D is a suggestion; E asks about time."},
+
+  {"id":16,"type":"fill","knowledge_point":"sentence_fill","difficulty":3,"group":"fill_1",
+   "stem":"(16)","options":["A. Did you try any local food?","B. Where did you go during the holiday?","C. What did you do there?","D. You should go when you have a chance.","E. How long did you stay there?"],
+   "correct_answer":"A",
+   "explanation":"The answer is 'Yes, we did. The food there was delicious, especially the Peking duck.' This is answering a yes/no question about FOOD. 'Did you try any local food?' is the only option that matches. The 'Yes, we did' confirms it's a did-you question."},
+
+  {"id":17,"type":"fill","knowledge_point":"sentence_fill","difficulty":3,"group":"fill_1",
+   "stem":"(17)","options":["A. Did you try any local food?","B. Where did you go during the holiday?","C. What did you do there?","D. You should go when you have a chance.","E. How long did you stay there?"],
+   "correct_answer":"D",
+   "explanation":"A says 'I hope I can go there someday' -- expressing a wish. B responds with 'You should go when you have a chance' + 'It's really worth visiting' -- giving encouragement and a suggestion. This is the natural way to respond to someone's wish. E asks about duration (doesn't fit the flow)."},
+
+  {"id":18,"type":"reading","knowledge_point":"detail","difficulty":2,"group":"reading_1",
+   "group_passage":"Sleep is one of the most important things for our health, but many teenagers today are not getting enough of it. According to doctors, teenagers aged 13-18 need about 8-10 hours of sleep every night. However, a recent study shows that nearly 70% of high school students sleep less than 7 hours on school nights.\n\nWhy are teenagers sleeping so little? There are several reasons. First, heavy homework loads keep students up late. Many students report that they cannot finish their homework before 11 p.m. Second, electronic devices such as smartphones and tablets are a major problem. The blue light from screens tricks the brain into thinking it is still daytime, making it harder to fall asleep. Third, some teenagers drink coffee or energy drinks to stay awake during the day, which then makes it difficult for them to sleep at night.\n\nLack of sleep has serious effects on teenagers. It can lead to poor concentration in class, lower grades, and even health problems such as obesity and depression. Studies also show that tired teenagers are more likely to have accidents.\n\nExperts suggest several ways to improve sleep quality. First, try to go to bed and wake up at the same time every day, even on weekends. Second, stop using electronic devices at least 30 minutes before bedtime. Third, avoid caffeine after 3 p.m. Finally, make your bedroom dark, quiet, and cool -- the ideal environment for sleep.",
+   "stem":"18. According to the study, how many high school students sleep less than 7 hours on school nights?",
+   "options":["A. About 30%.","B. About 50%.","C. About 70%.","D. About 90%."],
+   "correct_answer":"C",
+   "explanation":"Paragraph 1: 'nearly 70% of high school students sleep less than 7 hours on school nights.' Directly stated -- about 70%, matching option C."},
+
+  {"id":19,"type":"reading","knowledge_point":"detail","difficulty":2,"group":"reading_1",
+   "stem":"19. Why does blue light from screens affect sleep?",
+   "options":["A. It damages the eyes permanently.","B. It makes the brain think it is still daytime.","C. It makes the bedroom too bright to sleep.","D. It causes headaches that keep people awake."],
+   "correct_answer":"B",
+   "explanation":"Paragraph 2: 'The blue light from screens tricks the brain into thinking it is still daytime.' Directly matches B. Key phrase: 'tricks the brain into thinking'."},
+
+  {"id":20,"type":"reading","knowledge_point":"inference","difficulty":3,"group":"reading_1",
+   "stem":"20. What can we infer from the passage?",
+   "options":["A. All teenagers drink coffee every day.","B. Sleeping too much is also a problem for teenagers.","C. Good sleep habits can help improve school performance.","D. Doctors recommend that teenagers sleep less than 7 hours."],
+   "correct_answer":"C",
+   "explanation":"Paragraph 3 says lack of sleep leads to 'poor concentration, lower grades'. The reverse: good sleep -> better concentration -> better grades = better performance. A is too extreme; B not discussed; D contradicts the 8-10 hours recommendation."}
+]};
 
 var questions = quizData.questions;
 var totalQ = questions.length;
@@ -135,10 +284,10 @@ var pages = [];
 var currentPage = 0, totalPages = pages.length;
 
 // === TYPE TAB NAVIGATION ===
-var typeOrder = ['grammar','vocabulary','cloze','reading'];
-var typeLabels = {vocabulary:'词汇题',grammar:'语法题',cloze:'完形填空',reading:'阅读理解',listening:'听力题'};
-var typeShortLabels = {vocabulary:'词汇',grammar:'语法',cloze:'完形',reading:'阅读'};
-var tagClasses = {vocabulary:'tag-vocabulary',grammar:'tag-grammar',cloze:'tag-cloze',reading:'tag-reading',listening:'tag-listening'};
+var typeOrder = ['grammar','vocabulary','cloze','fill','reading'];
+var typeLabels = {vocabulary:'词汇题',grammar:'语法题',cloze:'完形填空',reading:'阅读理解',fill:'短文填空'};
+var typeShortLabels = {vocabulary:'词汇',grammar:'语法',cloze:'完形',reading:'阅读',fill:'填空'};
+var tagClasses = {vocabulary:'tag-vocabulary',grammar:'tag-grammar',cloze:'tag-cloze',reading:'tag-reading',fill:'tag-fill'};
 
 // Map type -> page indices
 var typePageMap = {};
@@ -234,7 +383,12 @@ function renderGroup(page, compact){
   var indices=page.indices, fq=questions[indices[0]];
   var html='<div class="card slide-in'+compact+'">';
   html+='<span class="q-tag '+(tagClasses[fq.type]||'tag-grammar')+'">'+(typeLabels[fq.type]||fq.type)+'</span>';
-  if(fq.group_passage) html+='<div class="reading-passage">'+esc(fq.group_passage)+'</div>';
+  // For fill type, render the passage with blanks showing selected answers
+  if(fq.type==='fill' && fq.group_passage){
+    html+=renderFillPassage(fq.group_passage, indices);
+  } else if(fq.group_passage){
+    html+='<div class="reading-passage">'+esc(fq.group_passage)+'</div>';
+  }
   for(var j=0;j<indices.length;j++){
     var idx=indices[j], q=questions[idx];
     html+='<div class="sub-question">';
@@ -246,8 +400,29 @@ function renderGroup(page, compact){
   html+='</div>'; return html;
 }
 
+function renderFillPassage(passage, indices){
+  // Replace (14)___ style blanks with interactive spans
+  var html = esc(passage);
+  for(var j=0;j<indices.length;j++){
+    var idx=indices[j], q=questions[idx];
+    var num=q.id;
+    var pattern=new RegExp('\\('+num+'\\)___','g');
+    var letter=answers[idx]||'___';
+    var cls='blank';
+    if(answers[idx]) cls+=' filled';
+    if(confirmed[idx]){
+      if(answers[idx]===q.correct_answer) cls+=' correct-blank';
+      else cls+=' wrong-blank';
+    }
+    html=html.replace(pattern,'<span class="'+cls+'">('+num+') '+letter+'</span>');
+  }
+  return '<div class="fill-passage">'+html+'</div>';
+}
+
 function renderOpts(idx){
-  var q=questions[idx], letters=['A','B','C','D'], html='<div class="options">';
+  var q=questions[idx], html='<div class="options">';
+  // For fill type, options may have E
+  var letters = q.options.length > 4 ? ['A','B','C','D','E'] : ['A','B','C','D'];
   for(var i=0;i<q.options.length;i++){
     var L=letters[i], sel=answers[idx]===L, cls='option-btn';
     if(confirmed[idx]){
@@ -256,7 +431,7 @@ function renderOpts(idx){
       else if(sel&&L!==q.correct_answer) cls+=' wrong';
       else cls+=' dim';
     } else { if(sel) cls+=' selected'; }
-    var txt=q.options[i].replace(/^[A-D]\.\s*/,'');
+    var txt=q.options[i].replace(/^[A-E]\.\s*/,'');
     html+='<div class="'+cls+'" onclick="selOpt('+idx+',\''+L+'\')">';
     html+='<span class="option-letter">'+L+'</span><span>'+esc(txt)+'</span></div>';
   }
@@ -317,8 +492,8 @@ function submitToGitHub(){
   if(syncStatus)syncStatus.innerHTML='&#9889; 正在同步数据...';
 
   var newErrors=[];
-  var typeLabelsMap={grammar:'语法题',cloze:'完形填空',reading:'阅读理解',vocabulary:'词汇题',listening:'听力题'};
-  var kpLabels={present_perfect:'现在完成时',object_clause:'宾语从句',conditional:'条件状语从句',infinitive:'不定式',gerund:'动名词',passive_voice:'被动语态',word_meaning:'单词释义',phrase_collocation:'词组搭配',word_form:'词形变换',cloze_general:'完形填空',detail:'阅读-细节理解',main_idea:'阅读-主旨大意',inference:'阅读-推理判断',word_guessing:'阅读-词义猜测'};
+  var typeLabelsMap={grammar:'语法题',cloze:'完形填空',reading:'阅读理解',vocabulary:'词汇题',fill:'短文填空'};
+  var kpLabels={present_perfect:'现在完成时',object_clause:'宾语从句',conditional:'条件状语从句',infinitive:'不定式',gerund:'动名词',passive_voice:'被动语态',word_meaning:'单词释义',phrase_collocation:'词组搭配',word_form:'词形变换',cloze_general:'完形填空',detail:'阅读-细节理解',main_idea:'阅读-主旨大意',inference:'阅读-推理判断',word_guessing:'阅读-词义猜测',sentence_fill:'短文填空'};
   var correct=0;
   for(var i=0;i<totalQ;i++){
     var q=questions[i];
@@ -408,7 +583,7 @@ function showResult(){
   var emoji=rate>=80?'&#127881;':rate>=60?'&#128170;':'&#128218;';
   var msg=rate>=90?'太棒了！几乎全对！':rate>=80?'很不错！继续保持！':rate>=60?'还可以，错题好好看讲解！':'别灰心，弄懂错题就是进步！';
   var html='<div class="result-card">';
-  html+='<div class="result-label">第 16 天成绩</div>';
+  html+='<div class="result-label">第 17 天成绩</div>';
   html+='<div class="result-score">'+correct+'/'+totalQ+'</div>';
   html+='<div class="result-dots">'+dots+'</div>';
   html+='<div class="result-msg">'+emoji+' '+msg+'</div>';
