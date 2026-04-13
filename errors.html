@@ -17,22 +17,14 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;b
 .summary-item .val{font-size:22px;font-weight:800;color:#c0392b}
 .summary-item .lbl{font-size:11px;color:#999;margin-top:2px}
 
-/* Multi-date picker */
+/* Date range picker */
 .date-picker-section{background:rgba(255,255,255,.9);border-radius:12px;padding:12px 14px;margin-bottom:10px;box-shadow:0 2px 10px rgba(0,0,0,.06)}
-.date-picker-row{display:flex;align-items:center;gap:8px;margin-bottom:8px}
+.date-picker-row{display:flex;align-items:center;gap:6px;flex-wrap:wrap}
 .date-picker-row label{font-size:13px;font-weight:600;color:#c0392b;white-space:nowrap}
-.date-picker-row input[type="date"]{flex:1;padding:7px 10px;border:2px solid #f0e0e0;border-radius:8px;font-size:13px;color:#c0392b;background:#fff;outline:none;min-width:0}
+.date-picker-row input[type="date"]{flex:1;padding:7px 10px;border:2px solid #f0e0e0;border-radius:8px;font-size:13px;color:#c0392b;background:#fff;outline:none;min-width:110px}
 .date-picker-row input[type="date"]:focus{border-color:#e74c3c}
-.date-add-btn{padding:7px 14px;border:2px solid #e74c3c;border-radius:8px;background:#fff;color:#e74c3c;font-size:13px;font-weight:600;cursor:pointer;white-space:nowrap}
-.date-add-btn:active{background:#fff5f5;transform:scale(.96)}
-
-/* Selected date chips */
-.date-chips{display:flex;flex-wrap:wrap;gap:6px}
-.date-chip{display:inline-flex;align-items:center;gap:4px;padding:5px 10px;border-radius:20px;background:#e74c3c;color:#fff;font-size:12px;font-weight:600;animation:fadeIn .2s ease}
-.date-chip .chip-close{cursor:pointer;font-size:14px;opacity:.8;margin-left:2px}
-.date-chip .chip-close:hover{opacity:1}
-.date-chip-all{background:#999}
-.date-hint{font-size:11px;color:#999;margin-top:4px}
+.date-picker-row .sep{font-size:13px;color:#999;padding:0 2px}
+.date-range-info{font-size:11px;color:#999;margin-top:6px}
 
 .filter-bar{display:flex;gap:6px;margin-bottom:12px;flex-wrap:wrap}
 .filter-btn{padding:7px 14px;border-radius:20px;border:2px solid rgba(255,255,255,0.4);background:rgba(255,255,255,0.15);color:#fff;font-size:12px;font-weight:600;cursor:pointer;transition:all 0.2s}
@@ -98,16 +90,15 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;b
     </div>
   </div>
 
-  <!-- Multi-date picker -->
+  <!-- Date range picker -->
   <div class="date-picker-section">
     <div class="date-picker-row">
-      <label>&#128197; 日期：</label>
-      <input type="date" id="datePicker">
-      <button class="date-add-btn" onclick="addSelectedDate()">+ 添加</button>
-      <button class="date-add-btn" onclick="clearAllDates()" style="border-color:#999;color:#999">全部</button>
+      <label>&#128197;</label>
+      <input type="date" id="dateFrom" onchange="onDateRangeChange()">
+      <span class="sep">~</span>
+      <input type="date" id="dateTo" onchange="onDateRangeChange()">
     </div>
-    <div class="date-chips" id="dateChips"></div>
-    <div class="date-hint" id="dateHint"></div>
+    <div class="date-range-info" id="dateRangeInfo"></div>
   </div>
 
   <div class="filter-bar" id="filterBar">
@@ -141,7 +132,8 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;b
 var errorData = [];
 var sessionsData = [];
 var currentFilter = 'all';
-var selectedDates = []; // array of date strings for multi-select
+var dateFrom = ''; // range start
+var dateTo = '';   // range end
 var currentPage = 1;
 var PAGE_SIZE = 5;
 var tagMap = {grammar:'tag-grammar',cloze:'tag-cloze',reading:'tag-reading',vocabulary:'tag-vocabulary',fill:'tag-fill'};
@@ -170,75 +162,51 @@ function setFilter(f){
   render();
 }
 
-// === Multi-date management ===
-function addSelectedDate(){
-  var val=document.getElementById('datePicker').value;
-  if(!val) return;
-  if(selectedDates.indexOf(val)===-1){
-    selectedDates.push(val);
-    selectedDates.sort().reverse(); // newest first
-  }
-  document.getElementById('datePicker').value='';
+// === Date range management ===
+function onDateRangeChange(){
+  dateFrom=document.getElementById('dateFrom').value||'';
+  dateTo=document.getElementById('dateTo').value||'';
   currentPage=1;
-  renderDateChips();
+  updateDateRangeInfo();
   render();
 }
 
-function removeDate(dateStr){
-  selectedDates=selectedDates.filter(function(d){return d!==dateStr;});
-  currentPage=1;
-  renderDateChips();
-  render();
-}
-
-function clearAllDates(){
-  selectedDates=[];
-  document.getElementById('datePicker').value='';
-  currentPage=1;
-  renderDateChips();
-  render();
-}
-
-function setInitialDate(dateStr){
-  if(dateStr && selectedDates.indexOf(dateStr)===-1){
-    selectedDates.push(dateStr);
-  }
-  renderDateChips();
-}
-
-function renderDateChips(){
-  var container=document.getElementById('dateChips');
-  var hint=document.getElementById('dateHint');
-  if(selectedDates.length===0){
-    container.innerHTML='<span class="date-chip date-chip-all">显示全部日期</span>';
-    hint.textContent='可通过上方日期选择器筛选特定日期';
+function updateDateRangeInfo(){
+  var info=document.getElementById('dateRangeInfo');
+  if(!dateFrom && !dateTo){
+    info.textContent='显示全部日期的错题';
     return;
   }
-  var html='';
-  selectedDates.forEach(function(d){
-    html+='<span class="date-chip">'+dateLabel(d)+' ('+d+') <span class="chip-close" onclick="removeDate(\''+d+'\')">&times;</span></span>';
-  });
-  container.innerHTML=html;
-  hint.textContent='已选 '+selectedDates.length+' 天，点击 x 移除，或点「全部」查看所有日期';
+  var parts=[];
+  if(dateFrom) parts.push(dateFrom);
+  if(dateTo) parts.push(dateTo);
+  if(dateFrom && dateTo){
+    info.textContent='筛选 '+dateFrom+' ~ '+dateTo+' 的错题';
+  } else if(dateFrom){
+    info.textContent='筛选 '+dateFrom+' 之后的错题';
+  } else {
+    info.textContent='筛选 '+dateTo+' 之前的错题';
+  }
 }
 
 function goPage(p){currentPage=p;render();window.scrollTo(0,document.getElementById('errorList').offsetTop-60);}
 
 function getFiltered(){
   return errorData.filter(function(e){
-    if(selectedDates.length>0 && selectedDates.indexOf(e.date)===-1) return false;
+    if(dateFrom && e.date<dateFrom) return false;
+    if(dateTo && e.date>dateTo) return false;
     if(currentFilter==='all') return true;
     return e.type===currentFilter;
   });
 }
 
-// Find the most recent date that has errors
-function findLatestErrorDate(){
-  if(errorData.length===0) return '';
+// Find the date range that has errors
+function findErrorDateRange(){
+  if(errorData.length===0) return {min:'',max:''};
   var dates={};
   errorData.forEach(function(e){dates[e.date]=1;});
-  var sorted=Object.keys(dates).sort().reverse();
-  return sorted[0]||'';
+  var sorted=Object.keys(dates).sort();
+  return {min:sorted[0]||'',max:sorted[sorted.length-1]||''};
 }
 
 function render(){
@@ -258,7 +226,7 @@ function render(){
   }
 
   if(filtered.length===0){
-    var dateInfo=selectedDates.length>0?selectedDates.join(', ')+' ':'';
+    var dateInfo=(dateFrom||dateTo)?((dateFrom||'')+'~'+(dateTo||'')+' '):'';
     area.innerHTML='<div class="empty-msg">&#127881; '+dateInfo+'没有错题！继续保持！</div>';
     document.getElementById('pagination').innerHTML='';
     return;
@@ -372,13 +340,17 @@ function loadFallback(){
   });
 }
 
-// Initialize: default to most recent day with errors
+// Initialize: default to full date range of errors
 function initDatePicker(){
-  var latest=findLatestErrorDate();
-  if(latest){
-    setInitialDate(latest);
+  var range=findErrorDateRange();
+  if(range.min){
+    document.getElementById('dateFrom').value=range.min;
+    document.getElementById('dateTo').value=range.max;
+    dateFrom=range.min;
+    dateTo=range.max;
+    updateDateRangeInfo();
   } else {
-    renderDateChips();
+    updateDateRangeInfo();
   }
 }
 

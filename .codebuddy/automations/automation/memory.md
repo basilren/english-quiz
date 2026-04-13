@@ -36,3 +36,10 @@
 - 新主题：完形-社区二手书店、阅读-人工智能与未来职业（避开已用主题）
 - 难度级别：完形3，语法/词汇/阅读2
 - Git push 成功：2c6eab7
+
+### 2026-04-11 22:13 - Day 15 Session 1
+- 生成 20 道题：语法 8 题（现在完成时×2 延续性动词+been/gone、宾语从句×2 if引导+时态呼应、条件句×1 unless、时态综合×1 现在进行时、不定式×1 too...to...、动名词×1 mind doing）、词汇 3 题（word_meaning×1 discovery、phrase_collocation×1 look after、word_form×1 writing skills）、完形填空 5 题（**难度3** 校园跳蚤市场-传递快乐，含 worried/touching/light up/earned/lesson 跨句推理+情感反转+固定搭配）、阅读理解 4 题（科普-火星直升机Ingenuity，含细节+推理+词义猜测extend+主旨大意）
+- 弱项加权：现在完成时(50%)×2、宾语从句(50%)×2 持续强化；条件句/不定式/动名词/时态综合各1题覆盖未测试知识点；词形变换(word_form)首次出题
+- 新主题：完形-校园跳蚤市场、阅读-火星直升机Ingenuity（避开已用主题）
+- 难度级别：完形3，语法/词汇/阅读2
+- Git push 成功：9e6ce00
