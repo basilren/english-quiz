@@ -119,99 +119,16 @@
       "total": 20,
       "correct": 15,
       "rate": 75
+    },
+    {
+      "date": "2026-04-13",
+      "session": 1,
+      "total": 20,
+      "correct": 15,
+      "rate": 75
     }
   ],
   "errors": [
-    {
-      "date": "2026-03-31",
-      "session": 1,
-      "question_id": 6,
-      "type": "vocabulary",
-      "knowledge_point": "synonym_antonym",
-      "label": "词汇题",
-      "stem": "The movie was so boring that many people left the cinema early.\nThe underlined word 'boring' is closest in meaning to _____.",
-      "options": [
-        "A. exciting",
-        "B. interesting",
-        "C. dull",
-        "D. funny"
-      ],
-      "correct_answer": "C",
-      "student_answer": "B",
-      "explanation": "boring 意为'无聊的，乏味的'，其近义词是 dull（枯燥的，无趣的）。exciting 兴奋的（反义词）；interesting 有趣的（反义词）；funny 好笑的。近反义词常考对：boring-dull, happy-glad, big-large, hard-difficult, beautiful-pretty, begin-start。"
-    },
-    {
-      "date": "2026-03-31",
-      "session": 1,
-      "question_id": 8,
-      "type": "cloze",
-      "knowledge_point": "cloze_general",
-      "label": "完形填空",
-      "stem": "(8)",
-      "options": [
-        "A. month",
-        "B. week",
-        "C. year",
-        "D. hour"
-      ],
-      "correct_answer": "B",
-      "student_answer": "A",
-      "explanation": "every week 意为'每周'。结合语境，学生社团收集废纸和塑料瓶的频率应该是'每周'——太频繁（每小时）或太稀疏（每年）都不合理。而且后文说已经种了50多棵树（一个月内），说明活动频率较高。完形填空技巧：选择最符合日常生活逻辑的选项。"
-    },
-    {
-      "date": "2026-03-31",
-      "session": 1,
-      "question_id": 9,
-      "type": "cloze",
-      "knowledge_point": "cloze_general",
-      "label": "完形填空",
-      "stem": "(9)",
-      "options": [
-        "A. cut",
-        "B. water",
-        "C. plant",
-        "D. climb"
-      ],
-      "correct_answer": "C",
-      "student_answer": "A",
-      "explanation": "plant trees 意为'种树'。上下文说用卖废品的钱来做环保，后面又说 they have planted over 50 trees，前后呼应。cut trees 砍树（与环保矛盾）；water trees 浇树（用钱浇树不通）；climb trees 爬树。完形填空技巧：注意前后文照应，planted 提示答案是 plant。"
-    },
-    {
-      "date": "2026-03-31",
-      "session": 1,
-      "question_id": 14,
-      "type": "reading",
-      "knowledge_point": "inference",
-      "label": "阅读-推理判断",
-      "stem": "14. From the passage, we can infer that _____.",
-      "options": [
-        "A. Little Free Libraries are only popular in the USA",
-        "B. Todd Bol built the library to make money",
-        "C. sharing books can help people feel closer to each other",
-        "D. most people think Little Free Libraries are useless"
-      ],
-      "correct_answer": "C",
-      "student_answer": "A",
-      "explanation": "推理判断题：原文第四段说 When neighbours share books, they also share ideas and start conversations，以及 92% of people feel more connected to their community。由此可推断'分享书籍能帮助人们彼此更亲近'。A 错：原文说 in more than 100 countries（不只美国）；B 错：是为了纪念母亲 to honour his mother；D 错：92% 的人觉得更有社区归属感，说明很有用。推理题关键：答案不直接照抄原文，但要有原文依据。"
-    },
-    {
-      "date": "2026-03-31",
-      "session": 1,
-      "question_id": 15,
-      "type": "reading",
-      "knowledge_point": "main_idea",
-      "label": "阅读-主旨大意",
-      "stem": "15. What is the best title for this passage?",
-      "options": [
-        "A. How to Build a Wooden Box",
-        "B. Todd Bol: A Famous Writer",
-        "C. Little Free Libraries: Sharing Books, Building Community",
-        "D. The History of Libraries in America"
-      ],
-      "correct_answer": "C",
-      "student_answer": "D",
-      "explanation": "主旨题：五段分别讲了(1)什么是小免费图书馆(2)起源(3)全球发展(4)社区价值(5)如何开始。全文围绕'小免费图书馆'展开，核心是分享书籍和建设社区。A 太窄（只提到了箱子）；B 错（Bol 不是作家）；D 太宽且不准确（不只是美国）。做主旨题：标题要涵盖全文内容，不能以偏概全，也不能太宽泛。注意首段和每段首句。"
-    },
     {
       "date": "2026-04-01",
       "session": 1,
@@ -1021,6 +938,96 @@
       "correct_answer": "C",
       "student_answer": "B",
       "explanation": "Paragraph 3 says lack of sleep leads to 'poor concentration, lower grades'. The reverse: good sleep -> better concentration -> better grades = better performance. A is too extreme; B not discussed; D contradicts the 8-10 hours recommendation."
+    },
+    {
+      "date": "2026-04-13",
+      "session": 1,
+      "question_id": 9,
+      "type": "cloze",
+      "knowledge_point": "cloze_general",
+      "label": "完形填空",
+      "stem": "(9)",
+      "options": [
+        "A. stop",
+        "B. continue",
+        "C. start",
+        "D. forget"
+      ],
+      "correct_answer": "A",
+      "student_answer": "B",
+      "explanation": "“如果你们还觉得无聊，我们就停止。”陈老师在做一个约定：试一个月，不喜欢就停。这听起来“很公平”。continue（继续，与“觉得无聊”矛盾）；start（已经开始了）；forget（不符合约定逻辑）。"
+    },
+    {
+      "date": "2026-04-13",
+      "session": 1,
+      "question_id": 12,
+      "type": "cloze",
+      "knowledge_point": "cloze_general",
+      "label": "完形填空",
+      "stem": "(12)",
+      "options": [
+        "A. dangerous",
+        "B. boring",
+        "C. popular",
+        "D. expensive"
+      ],
+      "correct_answer": "C",
+      "student_answer": "D",
+      "explanation": "“我们的花园成了学校最受欢迎的地方。”证据：“其他学校的老师都来参观。”很多人想看 = popular。dangerous/boring 与积极结尾矛盾；expensive 不适合描述校园花园。"
+    },
+    {
+      "date": "2026-04-13",
+      "session": 1,
+      "question_id": 13,
+      "type": "reading",
+      "knowledge_point": "detail",
+      "label": "阅读-细节理解",
+      "stem": "13. Why can cities be good places for bees?",
+      "options": [
+        "A. Cities have fewer insects that compete with bees.",
+        "B. Cities have a greater variety of flowers throughout the year.",
+        "C. City buildings protect bees from bad weather.",
+        "D. City people feed bees with sugar water regularly."
+      ],
+      "correct_answer": "B",
+      "student_answer": "A",
+      "explanation": "第2段：“公园、花园和行道树几乎全年提供各种各样的花。”直接对应B。文章对比了城市（多种花，全年）和乡村（单一作物，短期）。A、C、D文中未提及。"
+    },
+    {
+      "date": "2026-04-13",
+      "session": 1,
+      "question_id": 14,
+      "type": "reading",
+      "knowledge_point": "detail",
+      "label": "阅读-细节理解",
+      "stem": "14. What is one challenge of urban beekeeping mentioned in the passage?",
+      "options": [
+        "A. Bees produce less honey in cities.",
+        "B. It is too expensive to buy beekeeping equipment.",
+        "C. Diseases may spread between hives that are too close.",
+        "D. City bees are more aggressive than country bees."
+      ],
+      "correct_answer": "C",
+      "student_answer": "D",
+      "explanation": "第4段：“也有人担心蜂箱太近会传播疾病。”直接对应C。A、B、D文中均未提及。细节题解题技巧：定位关键词（challenge）-> 找到对应段落 -> 逐一对比选项。"
+    },
+    {
+      "date": "2026-04-13",
+      "session": 1,
+      "question_id": 16,
+      "type": "reading",
+      "knowledge_point": "main_idea",
+      "label": "阅读-主旨大意",
+      "stem": "16. What is the best title for this passage?",
+      "options": [
+        "A. How to Start a Beekeeping Business",
+        "B. Bees in the City: A Growing Trend",
+        "C. The Danger of Keeping Bees at Home",
+        "D. Why Bees Are Disappearing from the World"
+      ],
+      "correct_answer": "B",
+      "student_answer": "D",
+      "explanation": "文章内容：城市养蜂流行（第1段）、城市为什么适合蜂蜂（第2段）、环境益处（第3段）、挑战（第4段）、增长趋势（第5段）。主题 = 城市养蜂的增长趋势 = B。A太窄（没有商业建议）；C太消极（挑战只是一段）；D只关注减少（一个细节，不是主题）。标题题技巧：答案必须涵盖所有段落。"
     }
   ]
 }
