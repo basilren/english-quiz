@@ -177,10 +177,9 @@ function updateDateRangeInfo(){
     info.textContent='显示全部日期的错题';
     return;
   }
-  var parts=[];
-  if(dateFrom) parts.push(dateFrom);
-  if(dateTo) parts.push(dateTo);
-  if(dateFrom && dateTo){
+  if(dateFrom && dateTo && dateFrom===dateTo){
+    info.textContent='筛选 '+dateFrom+' 当天的错题';
+  } else if(dateFrom && dateTo){
     info.textContent='筛选 '+dateFrom+' ~ '+dateTo+' 的错题';
   } else if(dateFrom){
     info.textContent='筛选 '+dateFrom+' 之后的错题';
@@ -197,6 +196,10 @@ function getFiltered(){
     if(dateTo && e.date>dateTo) return false;
     if(currentFilter==='all') return true;
     return e.type===currentFilter;
+  }).sort(function(a,b){
+    if(a.date>b.date) return -1;
+    if(a.date<b.date) return 1;
+    return (b.question_id||0)-(a.question_id||0);
   });
 }
 
@@ -340,18 +343,16 @@ function loadFallback(){
   });
 }
 
-// Initialize: default to full date range of errors
+// Initialize: default to yesterday
 function initDatePicker(){
-  var range=findErrorDateRange();
-  if(range.min){
-    document.getElementById('dateFrom').value=range.min;
-    document.getElementById('dateTo').value=range.max;
-    dateFrom=range.min;
-    dateTo=range.max;
-    updateDateRangeInfo();
-  } else {
-    updateDateRangeInfo();
-  }
+  var yesterday=new Date();
+  yesterday.setDate(yesterday.getDate()-1);
+  var yStr=yesterday.getFullYear()+'-'+String(yesterday.getMonth()+1).padStart(2,'0')+'-'+String(yesterday.getDate()).padStart(2,'0');
+  document.getElementById('dateFrom').value=yStr;
+  document.getElementById('dateTo').value=yStr;
+  dateFrom=yStr;
+  dateTo=yStr;
+  updateDateRangeInfo();
 }
 
 loadData();
