@@ -126,63 +126,16 @@
       "total": 20,
       "correct": 15,
       "rate": 75
+    },
+    {
+      "date": "2026-04-14",
+      "session": 1,
+      "total": 20,
+      "correct": 17,
+      "rate": 85
     }
   ],
   "errors": [
-    {
-      "date": "2026-04-01",
-      "session": 1,
-      "question_id": 4,
-      "type": "grammar",
-      "knowledge_point": "tense_general",
-      "label": "语法题",
-      "stem": "When I _____ home yesterday, my mother _____ dinner in the kitchen.",
-      "options": [
-        "A. got; was cooking",
-        "B. got; cooked",
-        "C. was getting; cooked",
-        "D. was getting; was cooking"
-      ],
-      "correct_answer": "A",
-      "student_answer": "C",
-      "explanation": "when 引导的时间状语从句中，'我到家'是短暂动作用一般过去时（got），'妈妈在做饭'是持续动作用过去进行时（was cooking）。这是 when 从句的经典搭配：when + 短暂动作（过去时），主句 + 持续动作（过去进行时）。对比 while：while + 持续动作（过去进行时），主句可以是过去时或过去进行时。"
-    },
-    {
-      "date": "2026-04-01",
-      "session": 1,
-      "question_id": 6,
-      "type": "cloze",
-      "knowledge_point": "cloze_general",
-      "label": "完形填空",
-      "stem": "(6)",
-      "options": [
-        "A. subjects",
-        "B. challenges",
-        "C. chances",
-        "D. choices"
-      ],
-      "correct_answer": "B",
-      "student_answer": "A",
-      "explanation": "challenges 意为'挑战'。原文说'我以为会很容易'，但第一天面对的_____彻底改变了我的想法——转折关系表明这里应该是'困难/挑战'。A subjects 科目；C chances 机会；D choices 选择——都不符合'改变想法'的转折逻辑。完形技巧：however 后面通常是与前文相反的内容，'以为容易'→ 实际遇到了'挑战'。"
-    },
-    {
-      "date": "2026-04-01",
-      "session": 1,
-      "question_id": 7,
-      "type": "cloze",
-      "knowledge_point": "cloze_general",
-      "label": "完形填空",
-      "stem": "(7)",
-      "options": [
-        "A. excited",
-        "B. shy",
-        "C. angry",
-        "D. bored"
-      ],
-      "correct_answer": "B",
-      "student_answer": "A",
-      "explanation": "shy 意为'害羞的'。上文说'大多数孩子从没跟外国人说过话'，所以他们太害羞了，一个字也说不出来。注意 too...to... 结构：too shy to say = 太害羞以至于说不出。excited 兴奋（兴奋了反而会主动说话）；angry 生气（无来由）；bored 无聊（也不会导致不说话）。需要联系上句'没见过外国人'来推理心理状态。"
-    },
     {
       "date": "2026-04-01",
       "session": 1,
@@ -1028,6 +981,60 @@
       "correct_answer": "B",
       "student_answer": "D",
       "explanation": "文章内容：城市养蜂流行（第1段）、城市为什么适合蜂蜂（第2段）、环境益处（第3段）、挑战（第4段）、增长趋势（第5段）。主题 = 城市养蜂的增长趋势 = B。A太窄（没有商业建议）；C太消极（挑战只是一段）；D只关注减少（一个细节，不是主题）。标题题技巧：答案必须涵盖所有段落。"
+    },
+    {
+      "date": "2026-04-14",
+      "session": 1,
+      "question_id": 11,
+      "type": "cloze",
+      "knowledge_point": "cloze_general",
+      "label": "完形填空",
+      "stem": "(11)",
+      "options": [
+        "A. complained",
+        "B. cheered",
+        "C. argued",
+        "D. whispered"
+      ],
+      "correct_answer": "B",
+      "student_answer": "D",
+      "explanation": "“第一个番茄变红时，全班欢呼。”这是兴奋和自豪的时刻——辛苦有了回报。complained（抱怨，消极）；argued（争论，消极）；whispered（低语，太平静）。cheered 表达了成功的喜悦。"
+    },
+    {
+      "date": "2026-04-14",
+      "session": 1,
+      "question_id": 13,
+      "type": "reading",
+      "knowledge_point": "detail",
+      "label": "阅读-细节理解",
+      "stem": "13. Why can cities be good places for bees?",
+      "options": [
+        "A. Cities have fewer insects that compete with bees.",
+        "B. Cities have a greater variety of flowers throughout the year.",
+        "C. City buildings protect bees from bad weather.",
+        "D. City people feed bees with sugar water regularly."
+      ],
+      "correct_answer": "B",
+      "student_answer": "A",
+      "explanation": "第2段：“公园、花园和行道树几乎全年提供各种各样的花。”直接对应B。文章对比了城市（多种花，全年）和乡村（单一作物，短期）。A、C、D文中未提及。"
+    },
+    {
+      "date": "2026-04-14",
+      "session": 1,
+      "question_id": 14,
+      "type": "reading",
+      "knowledge_point": "detail",
+      "label": "阅读-细节理解",
+      "stem": "14. What is one challenge of urban beekeeping mentioned in the passage?",
+      "options": [
+        "A. Bees produce less honey in cities.",
+        "B. It is too expensive to buy beekeeping equipment.",
+        "C. Diseases may spread between hives that are too close.",
+        "D. City bees are more aggressive than country bees."
+      ],
+      "correct_answer": "C",
+      "student_answer": "D",
+      "explanation": "第4段：“也有人担心蜂箱太近会传播疾病。”直接对应C。A、B、D文中均未提及。细节题解题技巧：定位关键词（challenge）-> 找到对应段落 -> 逐一对比选项。"
     }
   ]
 }
