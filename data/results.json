@@ -133,117 +133,16 @@
       "total": 20,
       "correct": 17,
       "rate": 85
+    },
+    {
+      "date": "2026-04-15",
+      "session": 1,
+      "total": 20,
+      "correct": 14,
+      "rate": 70
     }
   ],
   "errors": [
-    {
-      "date": "2026-04-01",
-      "session": 1,
-      "question_id": 10,
-      "type": "cloze",
-      "knowledge_point": "cloze_general",
-      "label": "完形填空",
-      "stem": "(10)",
-      "options": [
-        "A. make up",
-        "B. hold",
-        "C. have",
-        "D. take part in"
-      ],
-      "correct_answer": "C",
-      "student_answer": "D",
-      "explanation": "have conversations 意为'进行对话'，是固定搭配。have a conversation/discussion/talk with sb. 都是常见搭配。make up 编造/化妆；hold 举行（hold a meeting，但不说 hold conversations）；take part in 参加（活动，不接 conversations）。完形填空中的固定搭配考查：需要积累常见动宾搭配，have 是万能动词，搭配范围很广。"
-    },
-    {
-      "date": "2026-04-02",
-      "session": 1,
-      "question_id": 3,
-      "type": "grammar",
-      "knowledge_point": "object_clause",
-      "label": "宾语从句",
-      "stem": "I don't know _____ the meeting will start. Do you have any idea?",
-      "options": [
-        "A. what",
-        "B. that",
-        "C. when",
-        "D. which"
-      ],
-      "correct_answer": "C",
-      "student_answer": "B",
-      "explanation": "宾语从句引导词取决于从句缺少的成分。'the meeting will start' 主谓宾完整，缺少时间状语，用 when（什么时候）。what 问'什么'（作主语或宾语）；that 引导陈述句（无疑问意义）；which 问'哪一个'。"
-    },
-    {
-      "date": "2026-04-02",
-      "session": 1,
-      "question_id": 7,
-      "type": "cloze",
-      "knowledge_point": "cloze_general",
-      "label": "完形填空",
-      "stem": "(7)",
-      "options": [
-        "A. excited",
-        "B. nervous",
-        "C. proud",
-        "D. lonely"
-      ],
-      "correct_answer": "B",
-      "student_answer": "A",
-      "explanation": "Jenny 是个害羞的女孩，不喜欢在别人面前说话（shy, never liked speaking in front of others），被要求做演讲时自然感到'紧张'（nervous）。后文'She wanted to run away'也印证了紧张的心理。excited 兴奋；proud 骄傲；lonely 孤独——都不符合语境。"
-    },
-    {
-      "date": "2026-04-02",
-      "session": 1,
-      "question_id": 8,
-      "type": "cloze",
-      "knowledge_point": "cloze_general",
-      "label": "完形填空",
-      "stem": "(8)",
-      "options": [
-        "A. laughed at",
-        "B. agreed with",
-        "C. encouraged",
-        "D. reminded"
-      ],
-      "correct_answer": "C",
-      "student_answer": "B",
-      "explanation": "妈妈看到女儿紧张，说'别担心，做你自己，用心说'——这是在'鼓励'（encouraged）她。laughed at 嘲笑（妈妈不会嘲笑紧张的孩子）；agreed with 同意（后面不是表达赞同）；reminded 提醒（这里不是提醒做什么事）。需要跨句理解妈妈说话的目的。"
-    },
-    {
-      "date": "2026-04-02",
-      "session": 1,
-      "question_id": 12,
-      "type": "reading",
-      "knowledge_point": "inference",
-      "label": "阅读-推理判断",
-      "stem": "12. Why don't vertical farms need pesticides?",
-      "options": [
-        "A. Because the plants are very strong.",
-        "B. Because there are no insects inside the buildings.",
-        "C. Because the LED lights can kill insects.",
-        "D. Because the computers control the insects."
-      ],
-      "correct_answer": "B",
-      "student_answer": "C",
-      "explanation": "原文第三段：vertical farms don't need pesticides because there are no insects inside the buildings。因为建筑内没有昆虫，所以不需要农药。A 文中未提；C 和 D 是编造的因果关系。注意 because 引导的原因从句。"
-    },
-    {
-      "date": "2026-04-03",
-      "session": 1,
-      "question_id": 3,
-      "type": "grammar",
-      "knowledge_point": "object_clause",
-      "label": "宾语从句",
-      "stem": "The teacher asked the students _____.",
-      "options": [
-        "A. if they have finished their homework",
-        "B. whether they had finished their homework",
-        "C. have they finished their homework",
-        "D. did they finish their homework"
-      ],
-      "correct_answer": "B",
-      "student_answer": "A",
-      "explanation": "宾语从句三要素：(1) 引导词：一般疑问句用 if/whether；(2) 陈述语序：排除 C 和 D（疑问语序）；(3) 时态呼应：主句 asked 是过去时，从句要用相应的过去时态，'已经完成'用过去完成时 had finished。A 虽然是陈述语序，但用了 have finished（现在完成时），没有做时态呼应。"
-    },
     {
       "date": "2026-04-03",
       "session": 1,
@@ -1035,6 +934,117 @@
       "correct_answer": "C",
       "student_answer": "D",
       "explanation": "第4段：“也有人担心蜂箱太近会传播疾病。”直接对应C。A、B、D文中均未提及。细节题解题技巧：定位关键词（challenge）-> 找到对应段落 -> 逐一对比选项。"
+    },
+    {
+      "date": "2026-04-15",
+      "session": 1,
+      "question_id": 10,
+      "type": "cloze",
+      "knowledge_point": "cloze_general",
+      "label": "完形填空",
+      "stem": "(10)",
+      "options": [
+        "A. questions",
+        "B. stories",
+        "C. reasons",
+        "D. jokes"
+      ],
+      "correct_answer": "C",
+      "student_answer": "B",
+      "explanation": "辩论需要论据来支持自己的观点。'一开始只能想到一两个理由'，后来通过阅读和讨论找到了更多。后文 'good points to support our side' 也印证了 reasons。questions（问题，辩论不是回答问题）；stories（故事，不是辩论的核心）；jokes（笑话，不相关）。"
+    },
+    {
+      "date": "2026-04-15",
+      "session": 1,
+      "question_id": 15,
+      "type": "reading",
+      "knowledge_point": "word_guessing",
+      "label": "阅读-词义猜测",
+      "stem": "15. The word 'debris' in Paragraph 2 most probably means _____.",
+      "options": [
+        "A. new technology",
+        "B. broken pieces of waste",
+        "C. useful equipment",
+        "D. natural objects in space"
+      ],
+      "correct_answer": "B",
+      "student_answer": "D",
+      "explanation": "第1段给出了解释：'Space junk, also called space debris, includes old satellites, broken pieces of rockets, and even tiny chips of paint.' 通过 'also called'（也叫做）可知 debris = space junk = 太空垃圾。后面列举的都是废弃物品（旧卫星、碎片、油漆屑），所以 debris = broken pieces of waste。词义猜测技巧：找同义解释标志词 also called / that is / in other words。"
+    },
+    {
+      "date": "2026-04-15",
+      "session": 1,
+      "question_id": 16,
+      "type": "reading",
+      "knowledge_point": "main_idea",
+      "label": "阅读-主旨大意",
+      "stem": "16. What is the passage mainly about?",
+      "options": [
+        "A. The history of satellite technology.",
+        "B. How astronauts live in space.",
+        "C. The problem of space junk and efforts to solve it.",
+        "D. Why humans should stop sending objects into space."
+      ],
+      "correct_answer": "C",
+      "student_answer": "D",
+      "explanation": "文章结构：第1-2段介绍太空垃圾是什么 -> 第3段为什么是问题 -> 第4段解决方案 -> 第5段紧迫性。主题 = 太空垃圾问题及解决努力 = C。A 太窄（历史只是背景）；B 文中未涉及宇航员生活；D 太极端（文章没有说应停止发射）。主旨题技巧：答案必须涵盖文章所有段落的核心内容，不能以偏概全。"
+    },
+    {
+      "date": "2026-04-15",
+      "session": 1,
+      "question_id": 17,
+      "type": "fill",
+      "knowledge_point": "sentence_fill",
+      "label": "短文填空",
+      "stem": "(17)",
+      "options": [
+        "A. She is the best cook I have ever known.",
+        "B. She knows more about the news than anyone in our family.",
+        "C. There, she does tai chi for about an hour.",
+        "D. At first, she found it quite difficult.",
+        "E. She believes that keeping active is the secret to a long life."
+      ],
+      "correct_answer": "C",
+      "student_answer": "D",
+      "explanation": "空格前说'奶奶每天早上5:30去公园'，空格后说'她说这有助于保持健康和头脑清醒'。空格处应该是在公园做什么——'在那里打太极拳约一小时'。C 中的 There 指代 the park，承上启下。A 是关于烹饪的，B 是关于新闻的，D 是关于困难的，E 虽然有道理但缺少具体活动信息（she says 后面才是感受）。"
+    },
+    {
+      "date": "2026-04-15",
+      "session": 1,
+      "question_id": 18,
+      "type": "fill",
+      "knowledge_point": "sentence_fill",
+      "label": "短文填空",
+      "stem": "(18)",
+      "options": [
+        "A. She is the best cook I have ever known.",
+        "B. She knows more about the news than anyone in our family.",
+        "C. There, she does tai chi for about an hour.",
+        "D. At first, she found it quite difficult.",
+        "E. She believes that keeping active is the secret to a long life."
+      ],
+      "correct_answer": "B",
+      "student_answer": "E",
+      "explanation": "空格前说'奶奶喜欢下午读报纸'，空格后说'她经常给我们讲世界上正在发生的有趣故事'。所以空格处是对她读报的评价——'她对新闻的了解比家里任何人都多'。B 承接读报纸的话题，也解释了为什么她能讲那么多故事。A 是关于烹饪的，C 是关于太极的，D 是关于困难的，E 是关于运动哲学的。"
+    },
+    {
+      "date": "2026-04-15",
+      "session": 1,
+      "question_id": 20,
+      "type": "fill",
+      "knowledge_point": "sentence_fill",
+      "label": "短文填空",
+      "stem": "(20)",
+      "options": [
+        "A. She is the best cook I have ever known.",
+        "B. She knows more about the news than anyone in our family.",
+        "C. There, she does tai chi for about an hour.",
+        "D. At first, she found it quite difficult.",
+        "E. She believes that keeping active is the secret to a long life."
+      ],
+      "correct_answer": "D",
+      "student_answer": "C",
+      "explanation": "空格前说'上个月奶奶学会了用智能手机'，空格后说'现在她每天给我们发搞笑图片和语音消息'。D 说'一开始她觉得很困难'，形成了从困难到熟练的转折：学手机 -> 一开始难 -> 现在玩得很好。这种'先难后易'的叙事很自然。E 是干扰项，虽然与生活态度有关，但 keeping active 更适合运动话题而非手机话题。"
     }
   ]
 }
