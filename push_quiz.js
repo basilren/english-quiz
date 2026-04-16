@@ -15,10 +15,25 @@ try {
   // 2. Pull latest
   execSync('git pull', { cwd: REPO_PATH, stdio: 'inherit' });
 
-  // 3. Update index.html
+  // 3. Update index.html - only replace the quizData line, preserve everything after
   var htmlPath = path.join(REPO_PATH, 'index.html');
   var html = fs.readFileSync(htmlPath, 'utf8');
-  html = html.replace(/var quizData = \{.*?\};/s, 'var quizData = ' + JSON.stringify(quiz) + ';');
+  // Match from "var quizData = {" to the end of the JSON object + ";"
+  // Use a more precise pattern: match the line starting with "var quizData"
+  var lines = html.split('\n');
+  var found = false;
+  for (var i = 0; i < lines.length; i++) {
+    if (lines[i].trimStart().startsWith('var quizData = {')) {
+      lines[i] = 'var quizData = ' + JSON.stringify(quiz) + ';';
+      found = true;
+      break;
+    }
+  }
+  if (!found) {
+    console.error('ERROR: Could not find quizData line in index.html');
+    process.exit(1);
+  }
+  html = lines.join('\n');
   
   // Update day counter
   var dayMatch = html.match(/\u7B2C (\d+) \u5929/);
