@@ -140,99 +140,16 @@
       "total": 20,
       "correct": 14,
       "rate": 70
+    },
+    {
+      "date": "2026-04-16",
+      "session": 1,
+      "total": 20,
+      "correct": 15,
+      "rate": 75
     }
   ],
   "errors": [
-    {
-      "date": "2026-04-03",
-      "session": 1,
-      "question_id": 5,
-      "type": "vocabulary",
-      "knowledge_point": "word_meaning",
-      "label": "单词释义",
-      "stem": "The pollution in the river has _____ the fish population. Many species have disappeared.",
-      "options": [
-        "A. increased",
-        "B. protected",
-        "C. reduced",
-        "D. improved"
-      ],
-      "correct_answer": "C",
-      "student_answer": "B",
-      "explanation": "后半句'很多物种已经消失了'说明鱼的数量是'减少'（reduced）了。increase 增加（与消失矛盾）；protect 保护（与物种消失矛盾）；improve 改善（语义不符）。reduce 意为'减少，降低'，是 8B Unit 5 保护濒危动物的重要词汇。"
-    },
-    {
-      "date": "2026-04-03",
-      "session": 1,
-      "question_id": 8,
-      "type": "cloze",
-      "knowledge_point": "cloze_general",
-      "label": "完形填空",
-      "stem": "(8)",
-      "options": [
-        "A. how",
-        "B. why",
-        "C. when",
-        "D. where"
-      ],
-      "correct_answer": "B",
-      "student_answer": "C",
-      "explanation": "Tom 担心'忘词怎么办'，Jack 回应'那就是为什么（why）我们需要练习'。这里 That's why... 是固定句型，意为'那就是...的原因'。how 怎样（That's how we... 那就是我们如何...，逻辑不通）；when 什么时候（不合语境）；where 哪里（不合语境）。注意 That's why 和 That's because 的区别：why 后面跟结果，because 后面跟原因。"
-    },
-    {
-      "date": "2026-04-03",
-      "session": 1,
-      "question_id": 10,
-      "type": "cloze",
-      "knowledge_point": "cloze_general",
-      "label": "完形填空",
-      "stem": "(10)",
-      "options": [
-        "A. looked",
-        "B. turned",
-        "C. broke",
-        "D. ran"
-      ],
-      "correct_answer": "C",
-      "student_answer": "A",
-      "explanation": "演唱结束后，大厅先是'安静了一会儿'，然后'爆发出'热烈掌声。broke into 意为'突然爆发'，是固定搭配。broke into applause / broke into laughter / broke into tears 都是常见表达。looked into 调查；turned into 变成（虽然语法可以，但 turned into applause 不是地道表达）；ran into 偶遇/撞上。这道题考查动词短语搭配和语境推断。"
-    },
-    {
-      "date": "2026-04-03",
-      "session": 1,
-      "question_id": 11,
-      "type": "reading",
-      "knowledge_point": "detail",
-      "label": "阅读-细节理解",
-      "stem": "11. According to the passage, how many species of marine animals have been found with plastic inside them?",
-      "options": [
-        "A. About 80.",
-        "B. More than 700.",
-        "C. About 8 million.",
-        "D. More than 2018."
-      ],
-      "correct_answer": "B",
-      "student_answer": "C",
-      "explanation": "原文第二段：Scientists have found plastic inside the stomachs of more than 700 species of marine animals。答案直接对应 B。A 的 80 文中未提；C 的 8 million 是每年流入海洋的塑料吨数，不是物种数；D 的 2018 是欧盟宣布禁令的年份。做细节题注意区分不同数字对应的对象。"
-    },
-    {
-      "date": "2026-04-03",
-      "session": 1,
-      "question_id": 13,
-      "type": "reading",
-      "knowledge_point": "main_idea",
-      "label": "阅读-主旨大意",
-      "stem": "13. What is the passage mainly about?",
-      "options": [
-        "A. How sea turtles are endangered by pollution.",
-        "B. The problem of ocean plastic pollution and efforts to fight it.",
-        "C. Why the European Union banned plastic items.",
-        "D. The story of two teenage girls from Bali."
-      ],
-      "correct_answer": "B",
-      "student_answer": "D",
-      "explanation": "文章四段结构：(1) 海洋塑料污染的严重程度 (2) 塑料如何危害海洋生物 (3) 各方的应对措施 (4) 专家认为还需更大改变。覆盖了'问题+应对'两个方面，B 最全面。A 只涉及海龟（第二段的一个例子）；C 只涉及欧盟（第三段一个例子）；D 只涉及两姐妹（第三段一个例子）。做主旨题：找能概括全文所有段落的选项，以偏概全的排除。"
-    },
     {
       "date": "2026-04-04",
       "session": 1,
@@ -1045,6 +962,99 @@
       "correct_answer": "D",
       "student_answer": "C",
       "explanation": "空格前说'上个月奶奶学会了用智能手机'，空格后说'现在她每天给我们发搞笑图片和语音消息'。D 说'一开始她觉得很困难'，形成了从困难到熟练的转折：学手机 -> 一开始难 -> 现在玩得很好。这种'先难后易'的叙事很自然。E 是干扰项，虽然与生活态度有关，但 keeping active 更适合运动话题而非手机话题。"
+    },
+    {
+      "date": "2026-04-16",
+      "session": 1,
+      "question_id": 11,
+      "type": "cloze",
+      "knowledge_point": "cloze_general",
+      "label": "完形填空",
+      "stem": "(11)",
+      "options": [
+        "A. forget",
+        "B. notice",
+        "C. discuss",
+        "D. imagine"
+      ],
+      "correct_answer": "B",
+      "student_answer": "C",
+      "explanation": "老师说：尝试展示人们每天路过但从未真正'注意到'的东西。notice = 注意到。walk past 但从未 notice，形成对比：经过但视而不见。forget（忘记，不是'视而不见'的意思）；discuss（讨论，与 walk past 不搭）；imagine（想象，东西是真实的不是想象的）。后文证实：他拍的正是日常场景中的温情。"
+    },
+    {
+      "date": "2026-04-16",
+      "session": 1,
+      "question_id": 15,
+      "type": "reading",
+      "knowledge_point": "word_guessing",
+      "label": "阅读-词义猜测",
+      "stem": "15. The underlined word 'uncover' in the last paragraph probably means _____.",
+      "options": [
+        "A. hide",
+        "B. protect",
+        "C. discover",
+        "D. destroy"
+      ],
+      "correct_answer": "C",
+      "student_answer": "B",
+      "explanation": "原文：'we may finally uncover the secrets hidden beneath the waves'。un- 是否定前缀，cover = 覆盖，uncover = 揭开/发现。与 hide（藏起来）相反；protect（保护）与语境无关；destroy（破坏）太消极。语境提示：secrets hidden = 隐藏的秘密，uncover 就是把它们揭示出来 = discover。词义猜测技巧：拆解词缀 un- = not / reverse。"
+    },
+    {
+      "date": "2026-04-16",
+      "session": 1,
+      "question_id": 17,
+      "type": "fill",
+      "knowledge_point": "sentence_fill",
+      "label": "短文填空",
+      "stem": "(17)",
+      "options": [
+        "A. His parents were not happy about this idea at first.",
+        "B. After the show, his parents finally understood his love for music.",
+        "C. Sometimes his fingers hurt so much that he could hardly hold a pen.",
+        "D. On the night of the show, Tom felt very nervous backstage.",
+        "E. He practised the same song more than a hundred times."
+      ],
+      "correct_answer": "A",
+      "student_answer": "B",
+      "explanation": "空格前说'他告诉父母想学吉他'，空格后说'They thought he was too young'(他们觉得他太小)。They 是指父母，所以空格处说的是父母的反应——'父母一开始不太高兴'。A 承上启下：Tom说想学 -> 父母不高兴 -> 觉得太小。B 是关于演出后的，C 是关于手指疼的，D 是关于紧张的，E 是关于练习的。"
+    },
+    {
+      "date": "2026-04-16",
+      "session": 1,
+      "question_id": 18,
+      "type": "fill",
+      "knowledge_point": "sentence_fill",
+      "label": "短文填空",
+      "stem": "(18)",
+      "options": [
+        "A. His parents were not happy about this idea at first.",
+        "B. After the show, his parents finally understood his love for music.",
+        "C. Sometimes his fingers hurt so much that he could hardly hold a pen.",
+        "D. On the night of the show, Tom felt very nervous backstage.",
+        "E. He practised the same song more than a hundred times."
+      ],
+      "correct_answer": "C",
+      "student_answer": "E",
+      "explanation": "空格前说'每天放学后练习至少一小时'，空格后说'But he kept going because music made him happy'。But 表示转折，说明空格处是练习的困难——'有时手指疼得几乎拿不动笔'。C 描述练习的艰辛，与 but 后的坚持形成对比。A 是关于父母的，B 是关于演出后的，D 是关于紧张的，E 也是关于练习但没有困难的意思。"
+    },
+    {
+      "date": "2026-04-16",
+      "session": 1,
+      "question_id": 20,
+      "type": "fill",
+      "knowledge_point": "sentence_fill",
+      "label": "短文填空",
+      "stem": "(20)",
+      "options": [
+        "A. His parents were not happy about this idea at first.",
+        "B. After the show, his parents finally understood his love for music.",
+        "C. Sometimes his fingers hurt so much that he could hardly hold a pen.",
+        "D. On the night of the show, Tom felt very nervous backstage.",
+        "E. He practised the same song more than a hundred times."
+      ],
+      "correct_answer": "B",
+      "student_answer": "A",
+      "explanation": "空格前说'观众热烈鼓掌'，空格后说'They even bought him a new guitar'。They 指的是父母，所以空格处是父母的态度转变——'演出后，父母终于理解了他对音乐的热爱'。B 承上（演出成功）启下（买新吉他），形成完整的故事弧线。E 是干扰项，虽然与练习相关，但与后文 They 不衔接。"
     }
   ]
 }
