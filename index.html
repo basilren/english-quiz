@@ -194,10 +194,11 @@ var totalPages=pages.length;
 
 // Map type -> page indices
 var typePageMap = {};
+var typeOrder = [];
 (function(){
   for(var p=0;p<pages.length;p++){
     var t=questions[pages[p].indices[0]].type;
-    if(!typePageMap[t]) typePageMap[t]=[];
+    if(!typePageMap[t]){typePageMap[t]=[];typeOrder.push(t);}
     typePageMap[t].push(p);
   }
 })();
