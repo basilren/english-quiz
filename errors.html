@@ -197,9 +197,10 @@ function getFiltered(){
     if(currentFilter==='all') return true;
     return e.type===currentFilter;
   }).sort(function(a,b){
+    // Sort by date descending (today first), then question_id ascending
     if(a.date>b.date) return -1;
     if(a.date<b.date) return 1;
-    return (b.question_id||0)-(a.question_id||0);
+    return (a.question_id||0)-(b.question_id||0);
   });
 }
 
@@ -343,15 +344,17 @@ function loadFallback(){
   });
 }
 
-// Initialize: default to yesterday
+// Initialize: default to yesterday ~ today
 function initDatePicker(){
+  var today=new Date();
+  var tStr=today.getFullYear()+'-'+String(today.getMonth()+1).padStart(2,'0')+'-'+String(today.getDate()).padStart(2,'0');
   var yesterday=new Date();
   yesterday.setDate(yesterday.getDate()-1);
   var yStr=yesterday.getFullYear()+'-'+String(yesterday.getMonth()+1).padStart(2,'0')+'-'+String(yesterday.getDate()).padStart(2,'0');
   document.getElementById('dateFrom').value=yStr;
-  document.getElementById('dateTo').value=yStr;
+  document.getElementById('dateTo').value=tStr;
   dateFrom=yStr;
-  dateTo=yStr;
+  dateTo=tStr;
   updateDateRangeInfo();
 }
 
