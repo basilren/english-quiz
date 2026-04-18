@@ -154,117 +154,16 @@
       "total": 20,
       "correct": 16,
       "rate": 80
+    },
+    {
+      "date": "2026-04-18",
+      "session": 1,
+      "total": 20,
+      "correct": 14,
+      "rate": 70
     }
   ],
   "errors": [
-    {
-      "date": "2026-04-06",
-      "session": 1,
-      "question_id": 12,
-      "type": "reading",
-      "knowledge_point": "detail",
-      "label": "阅读-细节理解",
-      "stem": "12. According to the first theory, what do dreams help our brains do?",
-      "options": [
-        "A. Create new memories.",
-        "B. Process information from the day.",
-        "C. Forget everything we learned.",
-        "D. Stay awake at night."
-      ],
-      "correct_answer": "B",
-      "student_answer": "A",
-      "explanation": "原文第二段：dreams help our brains process information from the day。梦帮助大脑处理白天的信息。A 不是'创造新记忆'而是'整理记忆'；C 太极端（不是忘记所有东西）；D 相反（梦发生在睡眠中）。"
-    },
-    {
-      "date": "2026-04-06",
-      "session": 1,
-      "question_id": 14,
-      "type": "reading",
-      "knowledge_point": "main_idea",
-      "label": "阅读-主旨大意",
-      "stem": "14. What is the best title for this passage?",
-      "options": [
-        "A. How to Sleep Better at Night",
-        "B. The Science Behind Dreams",
-        "C. Why REM Sleep Is Dangerous",
-        "D. How to Remember Your Dreams"
-      ],
-      "correct_answer": "B",
-      "student_answer": "A",
-      "explanation": "全文五段：(1) 引出问题——为什么做梦 (2) 理论一：处理信息 (3) 理论二：处理情绪 (4) 做梦的生理机制(REM) (5) 总结。核心话题是'梦背后的科学'。A 文章不是讲如何睡得更好；C REM 不是危险的；D 只是文中一小部分内容。主旨题：找覆盖全文所有段落的选项。"
-    },
-    {
-      "date": "2026-04-07",
-      "session": 1,
-      "question_id": 7,
-      "type": "cloze",
-      "knowledge_point": "cloze_general",
-      "label": "完形填空",
-      "stem": "(7)",
-      "options": [
-        "A. brave",
-        "B. crazy",
-        "C. smart",
-        "D. kind"
-      ],
-      "correct_answer": "B",
-      "student_answer": "A",
-      "explanation": "crazy 意为'疯狂的'。后文线索：because nobody seemed to read paper books any more（因为似乎没人再看纸质书了）。别人认为在没人看纸质书的时代开书店是'疯狂的'举动。brave 勇敢的（偏正面）；smart 聪明的（与'没人买书'矛盾）；kind 善良的（无关）。"
-    },
-    {
-      "date": "2026-04-07",
-      "session": 1,
-      "question_id": 8,
-      "type": "cloze",
-      "knowledge_point": "cloze_general",
-      "label": "完形填空",
-      "stem": "(8)",
-      "options": [
-        "A. terrible",
-        "B. simple",
-        "C. creative",
-        "D. strange"
-      ],
-      "correct_answer": "C",
-      "student_answer": "D",
-      "explanation": "creative 意为'有创意的'。后文描述了 Book and Coffee 活动的具体做法——带书交换+免费咖啡，这是一个有创意的想法。而且结果是 the shop quickly became popular（很快变受欢迎），说明这个想法很成功。terrible 可怕的、simple 简单的、strange 奇怪的——都无法解释'迅速流行'的结果。"
-    },
-    {
-      "date": "2026-04-07",
-      "session": 1,
-      "question_id": 13,
-      "type": "reading",
-      "knowledge_point": "inference",
-      "label": "阅读-推理判断",
-      "stem": "13. What can we infer from Paragraph 3?",
-      "options": [
-        "A. AI will completely replace doctors and teachers.",
-        "B. Patients prefer talking to AI rather than real doctors.",
-        "C. AI is a useful tool, but human connection is still important.",
-        "D. Teachers will no longer be needed in the future."
-      ],
-      "correct_answer": "C",
-      "student_answer": "A",
-      "explanation": "推理判断题：第三段举了医生和老师两个例子。AI 帮医生读 X 光片但病人仍想和真人医生交谈；AI 帮老师备课但学生在有关爱的老师时学得最好。两个例子都说明：AI 是有用的工具，但人与人的联系仍然重要。A/D 说'完全替代'，原文明确说 not replace humans completely；B 与原文相反（patients still want to talk to a real doctor）。"
-    },
-    {
-      "date": "2026-04-08",
-      "session": 1,
-      "question_id": 14,
-      "type": "cloze",
-      "knowledge_point": "cloze_general",
-      "label": "完形填空",
-      "stem": "(14)",
-      "options": [
-        "A. writing",
-        "B. shouting",
-        "C. talking",
-        "D. complaining"
-      ],
-      "correct_answer": "C",
-      "student_answer": "D",
-      "explanation": "talking to each other face to face 面对面交谈。关键线索：face to face（面对面）+ 后文 played board games, read books 都是积极的社交活动。complaining 抱怨（But 后面是正面转折，不应该是抱怨）；writing 和 shouting 不搭配 face to face 的语境。"
-    },
     {
       "date": "2026-04-08",
       "session": 1,
@@ -1065,6 +964,118 @@
       "correct_answer": "D",
       "student_answer": "A",
       "explanation": "空格前说'老人们拉着我们的手让我们再来'，空格后说'I decided to visit at least once a month'（我决定每月至少去一次）。D：'在回家的路上，我意识到给出我们的时间是最好的礼物'，是全文的感悟升华——被感动 → 反思 → 决定以后定期去。E 是干扰项，虽然提到礼物但与后文的'决定定期去'逻辑不够紧密。"
+    },
+    {
+      "date": "2026-04-18",
+      "session": 1,
+      "question_id": 12,
+      "type": "cloze",
+      "knowledge_point": "cloze_general",
+      "label": "完形填空",
+      "stem": "(12)",
+      "options": [
+        "A. dream",
+        "B. act",
+        "C. mistake",
+        "D. rule"
+      ],
+      "correct_answer": "B",
+      "student_answer": "A",
+      "explanation": "act of kindness 意为'善举，善意的举动'。one small act of kindness 一个小小的善举。act of kindness 是英语中的固定搭配，强调'善行'。考查固定搭配+语境理解。"
+    },
+    {
+      "date": "2026-04-18",
+      "session": 1,
+      "question_id": 16,
+      "type": "reading",
+      "knowledge_point": "inference",
+      "label": "阅读-推理判断",
+      "stem": "16. What can we infer from the passage?",
+      "options": [
+        "A. Earth Day is only celebrated in the United States.",
+        "B. Small actions by individuals can have a big impact.",
+        "C. The U.S. government doesn't care about the environment.",
+        "D. Earth Day was a failure in 1970."
+      ],
+      "correct_answer": "B",
+      "student_answer": "A",
+      "explanation": "推理题：原文倒数第二段明确表达小行动集合起来有大影响。A 错（190+ 国家庆祝）；C 错（政府制定了保护法）；D 错（文中说是巨大成功）。推理要找到原文支撑但换种说法。"
+    },
+    {
+      "date": "2026-04-18",
+      "session": 1,
+      "question_id": 17,
+      "type": "fill",
+      "knowledge_point": "sentence_fill",
+      "label": "短文填空",
+      "stem": "(17)",
+      "options": [
+        "A. We took a bus from school and arrived at the farm after about an hour.",
+        "B. Each chicken laid one or two eggs every day.",
+        "C. We were given small pieces of bread to feed them.",
+        "D. On the way back to school, we talked happily about our experiences.",
+        "E. The animals lived in small cages and looked very sad."
+      ],
+      "correct_answer": "A",
+      "student_answer": "C",
+      "explanation": "空格前说'我们都很兴奋'，空格后说'农夫 Mr. Wang 在大门口迎接我们'。空格处需要衔接'从学校出发 → 到达农场'。A：'我们坐校车，大约一小时后到达农场'最合理。B 是关于鸡蛋的，C 是关于喂羊的，D 是回家路上的，E 是干扰项（与后文'友好的 Mr. Wang'不符）。"
+    },
+    {
+      "date": "2026-04-18",
+      "session": 1,
+      "question_id": 18,
+      "type": "fill",
+      "knowledge_point": "sentence_fill",
+      "label": "短文填空",
+      "stem": "(18)",
+      "options": [
+        "A. We took a bus from school and arrived at the farm after about an hour.",
+        "B. Each chicken laid one or two eggs every day.",
+        "C. We were given small pieces of bread to feed them.",
+        "D. On the way back to school, we talked happily about our experiences.",
+        "E. The animals lived in small cages and looked very sad."
+      ],
+      "correct_answer": "B",
+      "student_answer": "E",
+      "explanation": "空格前说'去看鸡'，空格后说'我们学到了新鲜鸡蛋比超市买的更好'。空格处应该是关于鸡和鸡蛋的信息。B：'每只鸡每天下1-2个蛋'承上启下——看到鸡 → 了解下蛋 → 对比新鲜鸡蛋。"
+    },
+    {
+      "date": "2026-04-18",
+      "session": 1,
+      "question_id": 19,
+      "type": "fill",
+      "knowledge_point": "sentence_fill",
+      "label": "短文填空",
+      "stem": "(19)",
+      "options": [
+        "A. We took a bus from school and arrived at the farm after about an hour.",
+        "B. Each chicken laid one or two eggs every day.",
+        "C. We were given small pieces of bread to feed them.",
+        "D. On the way back to school, we talked happily about our experiences.",
+        "E. The animals lived in small cages and looked very sad."
+      ],
+      "correct_answer": "C",
+      "student_answer": "D",
+      "explanation": "空格前说'最兴奋的是喂羊'，空格后说'它们很友好，凑近我们'。空格处需要解释喂羊的方式。C：'我们拿到小块面包来喂它们' 完美衔接——喂羊 → 拿面包 → 羊凑近。代词 them 指代 goats。"
+    },
+    {
+      "date": "2026-04-18",
+      "session": 1,
+      "question_id": 20,
+      "type": "fill",
+      "knowledge_point": "sentence_fill",
+      "label": "短文填空",
+      "stem": "(20)",
+      "options": [
+        "A. We took a bus from school and arrived at the farm after about an hour.",
+        "B. Each chicken laid one or two eggs every day.",
+        "C. We were given small pieces of bread to feed them.",
+        "D. On the way back to school, we talked happily about our experiences.",
+        "E. The animals lived in small cages and looked very sad."
+      ],
+      "correct_answer": "D",
+      "student_answer": "B",
+      "explanation": "空格前说'走之前 Mr. Wang 给了我们蔬菜和鸡蛋'，空格后说'这是充满乐趣和学习的一天'——是全文总结。空格处应该是过渡——从离开农场到总结整天。D：'回学校路上，我们愉快地谈论经历'是自然的收尾，连接离开和总结。E 是干扰项（与整天的快乐基调矛盾）。"
     }
   ]
 }
