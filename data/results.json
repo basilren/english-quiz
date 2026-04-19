@@ -161,99 +161,16 @@
       "total": 20,
       "correct": 14,
       "rate": 70
+    },
+    {
+      "date": "2026-04-19",
+      "session": 1,
+      "total": 20,
+      "correct": 15,
+      "rate": 75
     }
   ],
   "errors": [
-    {
-      "date": "2026-04-08",
-      "session": 1,
-      "question_id": 15,
-      "type": "cloze",
-      "knowledge_point": "cloze_general",
-      "label": "完形填空",
-      "stem": "(15)",
-      "options": [
-        "A. disappointed",
-        "B. frightened",
-        "C. surprised",
-        "D. bored"
-      ],
-      "correct_answer": "C",
-      "student_answer": "A",
-      "explanation": "surprised 意为'惊讶的'。一天结束时，大部分学生感到惊讶——原来没有手机也能这么开心。后面学生说 I actually had more fun than usual，actually 表示出乎意料。surprised 完美呼应了这种'超出预期'的情感。"
-    },
-    {
-      "date": "2026-04-08",
-      "session": 1,
-      "question_id": 18,
-      "type": "reading",
-      "knowledge_point": "inference",
-      "label": "阅读-推理判断",
-      "stem": "18. Why are vending machines rarely damaged in Japan?",
-      "options": [
-        "A. Because they are made of very strong materials.",
-        "B. Because there are security cameras everywhere.",
-        "C. Because Japan has a very low crime rate.",
-        "D. Because the police watch them carefully."
-      ],
-      "correct_answer": "C",
-      "student_answer": "B",
-      "explanation": "原文第三段：Because the country is very safe, the machines are rarely damaged or stolen from。因为日本非常安全（犯罪率低），机器很少被破坏。A/B/D 都是文中没提到的原因。"
-    },
-    {
-      "date": "2026-04-08",
-      "session": 1,
-      "question_id": 19,
-      "type": "reading",
-      "knowledge_point": "word_guessing",
-      "label": "阅读-词义猜测",
-      "stem": "19. The underlined phrase 'daily necessities' in Paragraph 2 most probably means _____.",
-      "options": [
-        "A. expensive gifts",
-        "B. electronic products",
-        "C. things people need every day",
-        "D. toys for children"
-      ],
-      "correct_answer": "C",
-      "student_answer": "B",
-      "explanation": "词义猜测：原文说在偏远地区商店少，自动售货机是人们购买 daily necessities 的重要方式。daily = 每天的，necessities 从上下文推断是人们需要的东西。daily necessities = 日常必需品 = things people need every day。"
-    },
-    {
-      "date": "2026-04-08",
-      "session": 1,
-      "question_id": 20,
-      "type": "reading",
-      "knowledge_point": "main_idea",
-      "label": "阅读-主旨大意",
-      "stem": "20. What is the passage mainly about?",
-      "options": [
-        "A. How to use vending machines in Japan.",
-        "B. Why Japanese people don't like shopping.",
-        "C. Japan's vending machines and why they are so popular.",
-        "D. The history of vending machines around the world."
-      ],
-      "correct_answer": "C",
-      "student_answer": "D",
-      "explanation": "全文四段：(1) 日本自动售货机数量惊人 (2) 种类繁多 (3) 流行的原因 (4) 创新用途。核心主题是'日本的自动售货机为什么这么多/这么受欢迎'。A 太窄（不只是如何使用）；B 原文没说不喜欢购物；D 没涉及全球历史。"
-    },
-    {
-      "date": "2026-04-09",
-      "session": 1,
-      "question_id": 13,
-      "type": "cloze",
-      "knowledge_point": "cloze_general",
-      "label": "完形填空",
-      "stem": "(13)",
-      "options": [
-        "A. nervous",
-        "B. excited",
-        "C. relaxed",
-        "D. satisfied"
-      ],
-      "correct_answer": "A",
-      "student_answer": "D",
-      "explanation": "后文 What if nobody wanted to buy our sushi? 表达了担忧，说明当时心情是 nervous（紧张的）。What if...? 是表示担心的句型。excited 兴奋（与担忧矛盾）；relaxed 放松（与担忧矛盾）；satisfied 满意（还没开始卖，谈不上满意）。注意通过后文的情感线索反推前文的情绪词。"
-    },
     {
       "date": "2026-04-09",
       "session": 1,
@@ -1076,6 +993,98 @@
       "correct_answer": "D",
       "student_answer": "B",
       "explanation": "空格前说'走之前 Mr. Wang 给了我们蔬菜和鸡蛋'，空格后说'这是充满乐趣和学习的一天'——是全文总结。空格处应该是过渡——从离开农场到总结整天。D：'回学校路上，我们愉快地谈论经历'是自然的收尾，连接离开和总结。E 是干扰项（与整天的快乐基调矛盾）。"
+    },
+    {
+      "date": "2026-04-19",
+      "session": 1,
+      "question_id": 11,
+      "type": "cloze",
+      "knowledge_point": "cloze_general",
+      "label": "完形填空",
+      "stem": "(11)___",
+      "options": [
+        "A. forced",
+        "B. invited",
+        "C. ordered",
+        "D. warned"
+      ],
+      "correct_answer": "B",
+      "student_answer": "A",
+      "explanation": "固定搭配 invite sb. to do sth.（邀请某人做某事）。force（强迫）、order（命令）、warn（警告）都是强硬的动词，与 Emma 等人友好的性格不符。结合后文'虽然我篮球不好，但他们耐心教我'可以反推——是友好的邀请（invite）而非强迫。动词辨析要看情感色彩。"
+    },
+    {
+      "date": "2026-04-19",
+      "session": 1,
+      "question_id": 14,
+      "type": "reading",
+      "knowledge_point": "detail",
+      "label": "阅读-细节理解",
+      "stem": "Why do spiders make webs?",
+      "options": [
+        "A. To decorate their homes.",
+        "B. To catch food.",
+        "C. To protect themselves from enemies.",
+        "D. To communicate with other spiders."
+      ],
+      "correct_answer": "B",
+      "student_answer": "C",
+      "explanation": "原文第二段第一句：'Spiders make their webs to catch food.'（蜘蛛织网是为了捕食）。A（装饰）、C（防御）、D（交流）都未在文中提及，属于无中生有的干扰项。细节题做法：抓原文直接陈述的目的/原因句。"
+    },
+    {
+      "date": "2026-04-19",
+      "session": 1,
+      "question_id": 15,
+      "type": "reading",
+      "knowledge_point": "inference",
+      "label": "阅读-推理判断",
+      "stem": "What can we infer from the passage about scientists' research on spider silk?",
+      "options": [
+        "A. They have already produced large amounts of spider silk material.",
+        "B. Spider silk is too weak to be useful in daily life.",
+        "C. The research could lead to new practical materials in the future.",
+        "D. Only a few scientists are interested in spider silk."
+      ],
+      "correct_answer": "C",
+      "student_answer": "A",
+      "explanation": "推理题。原文第四段：'If they succeed, we may one day have cars, ropes, and even bulletproof vests...'（如果他们成功，未来可能有...制造的汽车/绳索/防弹衣）——暗示研究有望带来新的实用材料。A 错（目前只在实验室阶段，不是大规模生产）；B 与原文矛盾（蜘蛛丝很强）；D 过度引申。推理题要抓原文暗示+未来展望。"
+    },
+    {
+      "date": "2026-04-19",
+      "session": 1,
+      "question_id": 17,
+      "type": "fill",
+      "knowledge_point": "sentence_fill",
+      "label": "短文填空",
+      "stem": "(17)___",
+      "options": [
+        "A. She was disappointed and wanted to cry.",
+        "B. She reads all kinds of books, from stories to science.",
+        "C. Jenny decided to do her best to win the competition.",
+        "D. The teacher told her to use it for recording book notes.",
+        "E. Jenny refused to read any more books after that day."
+      ],
+      "correct_answer": "B",
+      "student_answer": "E",
+      "explanation": "空格前说'每晚读书至少一小时'，空格后说'最喜欢的是冒险小说系列'。空格处需要承上启下——从'读书时长'过渡到'具体喜好'。B（读各种书，从故事到科学）很好地展示了她读书的广度，再引出'最爱冒险小说'的具体偏好。做题：找承接前后句的过渡句。"
+    },
+    {
+      "date": "2026-04-19",
+      "session": 1,
+      "question_id": 19,
+      "type": "fill",
+      "knowledge_point": "sentence_fill",
+      "label": "短文填空",
+      "stem": "(19)___",
+      "options": [
+        "A. She was disappointed and wanted to cry.",
+        "B. She reads all kinds of books, from stories to science.",
+        "C. Jenny decided to do her best to win the competition.",
+        "D. The teacher told her to use it for recording book notes.",
+        "E. Jenny refused to read any more books after that day."
+      ],
+      "correct_answer": "A",
+      "student_answer": "B",
+      "explanation": "空格前说'第一名是另一个班的男生，读了12本'（Jenny 得了第二），空格后用 'However, Jenny wasn't sad at all'（然而她一点也不难过）。however 是转折，说明空格处应该是'预期会难过'的内容。A（她很失望想哭）恰好与后句转折形成对比——从预期失望到实际不难过。E 是干扰项（后文她继续读书，没放弃）。"
     }
   ]
 }
