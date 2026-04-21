@@ -175,45 +175,16 @@
       "total": 20,
       "correct": 16,
       "rate": 80
+    },
+    {
+      "date": "2026-04-21",
+      "session": 1,
+      "total": 20,
+      "correct": 18,
+      "rate": 90
     }
   ],
   "errors": [
-    {
-      "date": "2026-04-10",
-      "session": 1,
-      "question_id": 15,
-      "type": "cloze",
-      "knowledge_point": "cloze_general",
-      "label": "完形填空",
-      "stem": "(15)",
-      "options": [
-        "A. dropped",
-        "B. remained",
-        "C. improved",
-        "D. appeared"
-      ],
-      "correct_answer": "C",
-      "student_answer": "B",
-      "explanation": "句意：让我最惊讶的是我自己的阅读速度和词汇量也提高了（improved）。这是跨句推理题：前文说 Daming 从不敢读到能独立读章节书（他进步了），紧接着说'更让我惊讶的是我自己也...'，逻辑上应该是'也进步了'。dropped 下降；remained 保持不变；appeared 出现。too 提示与前面的积极变化一致。"
-    },
-    {
-      "date": "2026-04-10",
-      "session": 1,
-      "question_id": 18,
-      "type": "reading",
-      "knowledge_point": "inference",
-      "label": "阅读-推理判断",
-      "stem": "18. What can we infer from Paragraph 4?",
-      "options": [
-        "A. Shared bikes are no longer popular.",
-        "B. All users park their bikes properly now.",
-        "C. The management of shared bikes needed improvement.",
-        "D. Rivers are the best place to keep old bikes."
-      ],
-      "correct_answer": "C",
-      "student_answer": "D",
-      "explanation": "推理判断：第四段说用户乱停乱放、坏车被扔进河里或堆在空地，城市不得不出台严格规定。由此推断：共享单车的管理需要改进（needed improvement）。A 与最后一段矛盾（继续增长）；B 说'所有人'太绝对；D 是荒谬选项。推理题关键：从问题现象推出背后的结论。"
-    },
     {
       "date": "2026-04-10",
       "session": 1,
@@ -1095,6 +1066,44 @@
       "correct_answer": "C",
       "student_answer": "E",
       "explanation": "空格前说'老师宣布了一个惊喜'（a surprise），空格后说'大家都欢呼起来'和'迫不及待计划下一季种什么'。空格处应该是惊喜的具体内容，而且能让大家兴奋。C（她告诉我们菜园明年会扩大两倍）——这对热爱种菜的学生来说是惊喜，也解释了他们为什么急着计划'下一季种什么'。E（邀请家长）是干扰项，不够'惊喜'。"
+    },
+    {
+      "date": "2026-04-21",
+      "session": 1,
+      "question_id": 17,
+      "type": "fill",
+      "knowledge_point": "sentence_fill",
+      "label": "短文填空",
+      "stem": "(17)___",
+      "options": [
+        "A. My classmate Wang Mei was the most generous buyer.",
+        "B. Then a kind-looking woman walked over to my table.",
+        "C. The playground was full of colourful tables and excited students.",
+        "D. The headmaster said he was very proud of all of us.",
+        "E. Each class decorated their own table with balloons and posters."
+      ],
+      "correct_answer": "C",
+      "student_answer": "A",
+      "explanation": "空格在'义卖9点开始'之后，空格后说'一些学生站在桌子后面叫卖吸引买家'。空格处应描述义卖现场的整体场景，承接'开始'到'叫卖'之间的画面。C（操场上摆满了五颜六色的桌子和兴奋的学生）描绘了活动开始时的热闹场景，自然过渡到后面的叫卖行为。A/B/D 是后面段落的内容（某个买家/我的桌子/校长总结），不适合放在场景开篇。E 也描写桌子，但'装饰'的时间应该在活动开始前，而非刚开始时。"
+    },
+    {
+      "date": "2026-04-21",
+      "session": 1,
+      "question_id": 19,
+      "type": "fill",
+      "knowledge_point": "sentence_fill",
+      "label": "短文填空",
+      "stem": "(19)___",
+      "options": [
+        "A. My classmate Wang Mei was the most generous buyer.",
+        "B. Then a kind-looking woman walked over to my table.",
+        "C. The playground was full of colourful tables and excited students.",
+        "D. The headmaster said he was very proud of all of us.",
+        "E. Each class decorated their own table with balloons and posters."
+      ],
+      "correct_answer": "A",
+      "student_answer": "E",
+      "explanation": "空格后说'她买了6个蛋糕，全部送给了低年级学生'（She bought six cakes and gave them all to the younger students），紧接着'大家都喜欢她因为她总是先想着别人'。空格处需要引入这位慷慨的同学。A（我的同学王梅是最慷慨的买家）引出了'慷慨'的主题，后面的 She 指代王梅，买蛋糕送人的行为正是'慷慨'的具体表现。做题：She = Wang Mei，代词指代是关键线索。"
     }
   ]
 }
