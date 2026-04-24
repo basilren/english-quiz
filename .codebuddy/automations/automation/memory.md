@@ -87,3 +87,23 @@
 - 难度级别：完形3，语法/词汇/阅读2，短文填空2
 - Git push 成功：898fdd8
 
+### 2026-04-22 11:00 - Day 25 Session 1
+- 生成 20 道题：语法 5 题（现在完成时×1 been/gone辨析、宾语从句×1 whether引导、定语从句×1 who引导首次出题、条件句×1 主将从现、doing vs to do×1 stop doing/to do辨析）、词汇 2 题（context_word×1 boring语境、word_form×1 confident→confidently）、完形填空 5 题（**难度3** 校园环保周Eco Week-从不感兴趣到积极行动，含 interested in/took/picked up/avoid/proud 固定搭配+环保语境推理）、阅读理解 4 题（科普-3D打印技术，含细节+推理+词义猜测dramatically+观点态度hopeful but cautious）、短文填空 4 题（社区运动会，5选4含干扰项E）
+- 弱项加权：现在完成时(50%)×1、宾语从句(50%)×1 持续强化；定语从句(relative_clause)首次出题；条件句(conditional)巩固；doing vs to do(doing_vs_todo)巩固；观点态度题(attitude_purpose)覆盖
+- 新主题：完形-校园环保周、阅读-3D打印技术、填空-社区运动会（避开已用主题）
+- 难度级别：完形3，语法/词汇/阅读2，短文填空2
+- Git push 成功：f64b357
+
+### 2026-04-23 11:00 - Day 26 Session 1
+- 生成 20 道题：语法 4 题（现在完成时×1 延续性动词have、宾语从句×1 when引导+陈述语序、最高级×1 the highest+in the world首次出题、反身代词×1 dress herself首次出题）、词汇 3 题（phrase_collocation×1 protect the environment、synonym_antonym×1 rapid=quick、prefix_suffix×1 impossible否定前缀im-）、完形填空 5 题（**难度3** 校园接力赛-克服紧张逆转获胜，含 nervous/focus on/energy/passed/teamwork 跨句推理+固定搭配）、阅读理解 4 题（科普-动物迁徙，含细节+推理+词义猜测remarkable+主旨大意）、短文填空 4 题（学校艺术展，5选4含干扰项E）
+- 弱项加权：现在完成时(50%)×1、宾语从句(50%)×1 持续强化；最高级(superlative)首次出题；反身代词(reflexive_pronoun)首次出题
+- 新主题：完形-校园接力赛、阅读-动物迁徙、填空-学校艺术展（避开已用主题）
+- 难度级别：完形3，语法/词汇/阅读2，短文填空2
+- Git push 成功：7a501a4
+
+
+
+
+
+
+
