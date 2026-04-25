@@ -1,0 +1,45 @@
+name: Daily Quiz Generator
+
+on:
+  schedule:
+    # 每天 UTC 22:00 = 北京时间次日 06:00
+    - cron: "0 22 * * *"
+  workflow_dispatch:
+    # 支持手动触发（方便测试）
+
+permissions:
+  contents: write
+
+jobs:
+  generate-quiz:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install -r scripts/requirements.txt
+
+      - name: Generate daily quiz
+        env:
+          KIMI_API_KEY: ${{ secrets.KIMI_API_KEY }}
+          KIMI_MODEL: ${{ vars.KIMI_MODEL || 'kimi-k2.5' }}
+        run: |
+          python scripts/generate_quiz.py
+
+      - name: Deploy to GitHub Pages
+        if: success()
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: .

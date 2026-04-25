@@ -1,0 +1,21 @@
+{
+  "name": "Bosco",
+  "grade": 8,
+  "level": "CEFR A2-B1",
+  "target_exam": "中考",
+  "weak_points": [
+    "present_perfect_vs_past_simple",
+    "relative_clause_who_which",
+    "passive_voice",
+    "word_guessing_context",
+    "main_idea_title"
+  ],
+  "recent_errors": [],
+  "preferred_topics": [
+    "daily_life",
+    "school_life",
+    "science",
+    "environment"
+  ],
+  "difficulty_preference": "challenge_with_support"
+}
