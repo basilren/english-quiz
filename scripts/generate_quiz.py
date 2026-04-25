@@ -28,7 +28,7 @@ API_BASE = "https://api.moonshot.cn/v1"
 # 其他可选: kimi-k2-0711-preview, moonshot-v1-32k, moonshot-v1-128k
 DEFAULT_MODEL = "kimi-k2-0905-preview"
 MAX_RETRIES = 3
-TIMEOUT = 120
+TIMEOUT = 300  # K2 生成 20 道题较慢，给足时间
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 INDEX_HTML = REPO_ROOT / "index.html"
@@ -201,18 +201,46 @@ def call_kimi(prompt: str, api_key: str, model: str) -> dict:
         ],
         "temperature": 1,
         "max_tokens": 8000,
+        "stream": True,
     }
 
     for attempt in range(1, MAX_RETRIES + 1):
         try:
-            log(f"调用 Kimi API (尝试 {attempt}/{MAX_RETRIES})...")
-            resp = requests.post(url, headers=headers, json=payload, timeout=TIMEOUT)
+            log(f"调用 Kimi API (尝试 {attempt}/{MAX_RETRIES}, stream 模式)...")
+            resp = requests.post(url, headers=headers, json=payload, timeout=TIMEOUT, stream=True)
             if resp.status_code != 200:
                 log(f"API 返回 {resp.status_code}: {resp.text[:500]}")
             resp.raise_for_status()
-            data = resp.json()
-            content = data["choices"][0]["message"]["content"]
-            return parse_quiz_json(content)
+
+            # 流式累积 content
+            content_parts = []
+            chunk_count = 0
+            last_log_time = time.time()
+            for line in resp.iter_lines(decode_unicode=True):
+                if not line:
+                    continue
+                if line.startswith("data: "):
+                    data_str = line[6:]
+                    if data_str.strip() == "[DONE]":
+                        break
+                    try:
+                        chunk = json.loads(data_str)
+                        delta = chunk.get("choices", [{}])[0].get("delta", {})
+                        piece = delta.get("content", "")
+                        if piece:
+                            content_parts.append(piece)
+                            chunk_count += 1
+                            # 每 10 秒打一次进度
+                            if time.time() - last_log_time >= 10:
+                                total_chars = sum(len(x) for x in content_parts)
+                                log(f"  已接收 {chunk_count} 块, {total_chars} 字符...")
+                                last_log_time = time.time()
+                    except json.JSONDecodeError:
+                        continue
+
+            full_content = "".join(content_parts)
+            log(f"流式接收完成，共 {len(full_content)} 字符")
+            return parse_quiz_json(full_content)
         except requests.exceptions.RequestException as e:
             log(f"API 请求失败: {e}")
             if attempt < MAX_RETRIES:
