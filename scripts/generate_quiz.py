@@ -161,11 +161,13 @@ def build_prompt(student: dict, kb: str, errors: list, today: str, session: int)
 - 需要添加 group: "reading_1" 和 group_passage: 完整短文
 - 4 道题分别覆盖：detail(细节)、inference(推理)、word_guessing(词义猜测)、main_idea(主旨)
 
-**短文填空 (fill)**：4 题共用一篇短文，从 5 个选项中选 4 个填入。
+**选词填空 (fill)**：4 题共用一篇短文，考查词汇辨析与语法变形。
 - 需要添加 group: "fill_1" 和 group_passage: 完整短文
-- 5 个选项为 A-E，4 道题的 correct_answer 分别对应其中 4 个
+- 给出 5 个备选单词（如动词的不同形式、近义词等），选项标记 A-E
+- 4 道题的 correct_answer 分别对应其中 4 个正确形式
 - 每道题的 options 数组都包含相同的 5 个选项
 - stem 只显示题号，如 "(17)___"
+- 重点：选项必须是**单词/词组**（如 play / played / playing / to play / plays），考查词汇变形和用法，不能是连接词/句子（如 However / Then）
 
 ### 题目分布
 - 语法选择：3-4 题
