@@ -59,8 +59,8 @@ def load_text(path: Path) -> str:
         return f.read()
 
 
-def get_recent_errors(days: int = 14, max_items: int = 15) -> list:
-    """提取最近 N 天的错题记录"""
+def get_recent_errors(days: int = 10, max_items: int = 12) -> list:
+    """提取最近 N 天的错题记录（默认 10 天，最多 12 条）"""
     data = load_json(DATA_JSON)
     errors = data.get("errors", [])
     if not errors:
@@ -120,7 +120,7 @@ def build_prompt(student: dict, kb: str, errors: list, today: str, session: int)
 ## 知识点大纲
 {kb}
 
-## 近期错题（最近14天，去重后）
+## 近期错题（最近10天，去重后）
 {error_text}
 
 ## 出题要求
@@ -366,6 +366,27 @@ def git_commit(today: str, session: int) -> None:
             log(result.stdout.strip())
 
 
+def prune_old_errors(days: int = 10) -> int:
+    """清理 results.json 中超过 N 天的错题记录，返回清理条数。
+
+    仅清理 errors 数组，sessions（成绩统计）保留全部用于长期趋势分析。
+    """
+    data = load_json(DATA_JSON)
+    errors = data.get("errors", [])
+    if not errors:
+        return 0
+
+    cutoff = (datetime.now(BJ_TZ) - timedelta(days=days)).strftime("%Y-%m-%d")
+    kept = [e for e in errors if e.get("date", "") >= cutoff]
+    removed = len(errors) - len(kept)
+
+    if removed > 0:
+        data["errors"] = kept
+        with open(DATA_JSON, "w", encoding="utf-8") as f:
+            json.dump(data, f, ensure_ascii=False, indent=2)
+    return removed
+
+
 def main():
     api_key = os.environ.get("KIMI_API_KEY", "")
     if not api_key:
@@ -382,6 +403,12 @@ def main():
     # 加载上下文
     student = load_json(PROFILE_JSON)
     kb = load_text(KB_MD)
+
+    # 清理 10 天前的旧错题（保持 prompt 精简 + 文件不膨胀）
+    removed = prune_old_errors(days=10)
+    if removed > 0:
+        log(f"已清理 {removed} 条超过 10 天的旧错题")
+
     errors = get_recent_errors()
     log(f"加载到 {len(errors)} 条近期错题")
 
