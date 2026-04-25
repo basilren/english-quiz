@@ -37,7 +37,7 @@ jobs:
       - name: Generate daily quiz
         env:
           KIMI_API_KEY: ${{ secrets.KIMI_API_KEY }}
-          KIMI_MODEL: ${{ vars.KIMI_MODEL || 'kimi-k2-0905-preview' }}
+          KIMI_MODEL: ${{ vars.KIMI_MODEL || 'kimi-k2.5' }}
         run: python scripts/generate_quiz.py
 
       - name: Commit and push quiz

@@ -24,9 +24,11 @@ import requests
 
 # ── 配置 ──────────────────────────────────────────
 API_BASE = "https://api.moonshot.cn/v1"
-# Kimi K2 系列最新稳定版（2025-09 发布，256K 上下文）
-# 其他可选: kimi-k2-0711-preview, moonshot-v1-32k, moonshot-v1-128k
-DEFAULT_MODEL = "kimi-k2-0905-preview"
+# Kimi 官方 API 模型名（2026-04 校验有效）
+# kimi-k2.6 - 最新最强
+# kimi-k2.5 - 稳定版（也可用）
+# kimi-k2-turbo-preview - 高速版 60-100 tokens/s
+DEFAULT_MODEL = "kimi-k2.5"
 MAX_RETRIES = 3
 TIMEOUT = 300  # K2 生成 20 道题较慢，给足时间
 
