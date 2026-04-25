@@ -38,6 +38,10 @@ jobs:
         env:
           KIMI_API_KEY: ${{ secrets.KIMI_API_KEY }}
           KIMI_MODEL: ${{ vars.KIMI_MODEL || 'kimi-k2.5' }}
+          PYTHONIOENCODING: utf-8
+          PYTHONUTF8: "1"
+          LC_ALL: C.UTF-8
+          LANG: C.UTF-8
         run: python scripts/generate_quiz.py
 
       - name: Commit and push quiz

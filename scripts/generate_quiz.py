@@ -315,30 +315,41 @@ def update_index_html(quiz: dict) -> None:
     if not INDEX_HTML.exists():
         raise FileNotFoundError(f"找不到 {INDEX_HTML}")
 
-    with open(INDEX_HTML, "r", encoding="utf-8") as f:
-        content = f.read()
+    # 二进制读取再用 utf-8 解码，避免平台默认编码干扰
+    with open(INDEX_HTML, "rb") as f:
+        raw = f.read()
+    content = raw.decode("utf-8")
 
-    # 将 quiz 对象序列化为单行 JSON（避免换行破坏 HTML）
-    quiz_json = json.dumps(quiz, ensure_ascii=False, separators=(",", ":"))
+    # 清洗 quiz：去掉所有字符串中的裸换行/回车（JS 字面量不允许裸换行）
+    # 同时对所有字符串做 strip + 去除 \r，保留用户可读空格
+    def _sanitize(obj):
+        if isinstance(obj, dict):
+            return {k: _sanitize(v) for k, v in obj.items()}
+        if isinstance(obj, list):
+            return [_sanitize(x) for x in obj]
+        if isinstance(obj, str):
+            # 去除 \r，换行归一为 \n，然后由 json.dumps 自动转义为 \\n
+            return obj.replace("\r\n", "\n").replace("\r", "\n")
+        return obj
 
-    # 替换 var quizData = {...}; 这一行
-    # 匹配 var quizData = 后面直到分号的内容
+    safe_quiz = _sanitize(quiz)
+
+    # 单行 JSON（ensure_ascii=False 保留中文原字符，json.dumps 会把 \n 转义为 \\n）
+    quiz_json = json.dumps(safe_quiz, ensure_ascii=False, separators=(",", ":"))
+
+    # 匹配 var quizData = {...};
     pattern = r'var\s+quizData\s*=\s*\{[\s\S]*?\};'
     replacement = f'var quizData = {quiz_json};'
 
     new_content, count = re.subn(pattern, replacement, content, count=1)
     if count == 0:
-        # 如果没匹配到，尝试更宽松的匹配
-        pattern2 = r'var\s+quizData\s*=\s*\{[^}]*\}[^;]*;'
-        new_content, count = re.subn(pattern2, replacement, content, count=1)
-
-    if count == 0:
         raise RuntimeError("无法在 index.html 中找到 var quizData 的定义")
 
-    with open(INDEX_HTML, "w", encoding="utf-8") as f:
-        f.write(new_content)
+    # 二进制写入 UTF-8 BOM-less
+    with open(INDEX_HTML, "wb") as f:
+        f.write(new_content.encode("utf-8"))
 
-    log(f"已更新 {INDEX_HTML}")
+    log(f"已更新 {INDEX_HTML} ({len(new_content)} chars)")
 
 
 def git_commit(today: str, session: int) -> None:
