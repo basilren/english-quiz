@@ -337,6 +337,17 @@ def update_index_html(quiz: dict) -> None:
     # 单行 JSON（ensure_ascii=False 保留中文原字符，json.dumps 会把 \n 转义为 \\n）
     quiz_json = json.dumps(safe_quiz, ensure_ascii=False, separators=(",", ":"))
 
+    # —— 防御式后处理：无论前面怎么处理，quiz_json 里绝对不能有裸换行/回车 ——
+    # 任何残留的 CR / LF 一律转义为 \\r / \\n（字符串字面量安全）
+    if "\n" in quiz_json or "\r" in quiz_json:
+        before_lf = quiz_json.count("\n")
+        before_cr = quiz_json.count("\r")
+        quiz_json = quiz_json.replace("\r\n", "\\n").replace("\n", "\\n").replace("\r", "\\n")
+        log(f"⚠️ 检测并转义了裸换行 ({before_lf} LF, {before_cr} CR)")
+
+    # 兜底：也不能出现裸 U+2028 / U+2029（JS 中同样视为行终止符）
+    quiz_json = quiz_json.replace("\u2028", "\\u2028").replace("\u2029", "\\u2029")
+
     # 匹配 var quizData = {...};
     pattern = r'var\s+quizData\s*=\s*\{[\s\S]*?\};'
     replacement = f'var quizData = {quiz_json};'
