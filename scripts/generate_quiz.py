@@ -24,7 +24,9 @@ import requests
 
 # ── 配置 ──────────────────────────────────────────
 API_BASE = "https://api.moonshot.cn/v1"
-DEFAULT_MODEL = "kimi-k2.5"
+# Kimi K2 系列最新稳定版（2025-09 发布，256K 上下文）
+# 其他可选: kimi-k2-0711-preview, moonshot-v1-32k, moonshot-v1-128k
+DEFAULT_MODEL = "kimi-k2-0905-preview"
 MAX_RETRIES = 3
 TIMEOUT = 120
 
@@ -205,6 +207,8 @@ def call_kimi(prompt: str, api_key: str, model: str) -> dict:
         try:
             log(f"调用 Kimi API (尝试 {attempt}/{MAX_RETRIES})...")
             resp = requests.post(url, headers=headers, json=payload, timeout=TIMEOUT)
+            if resp.status_code != 200:
+                log(f"API 返回 {resp.status_code}: {resp.text[:500]}")
             resp.raise_for_status()
             data = resp.json()
             content = data["choices"][0]["message"]["content"]
