@@ -430,10 +430,11 @@ def main():
     # 更新 index.html
     update_index_html(quiz)
 
-    # git 提交
-    git_commit(today, session)
+    # git 提交交给外层 workflow 统一处理（避免 identity 未配置等问题）
+    # 本地手动运行时，如需自动推送可取消下面两行注释
+    # git_commit(today, session)
 
-    log("✅ 每日出题完成并推送!")
+    log("✅ 每日出题完成！（commit/push 由 workflow 处理）")
 
 
 if __name__ == "__main__":

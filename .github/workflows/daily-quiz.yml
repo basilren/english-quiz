@@ -29,17 +29,20 @@ jobs:
       - name: Install dependencies
         run: pip install -r scripts/requirements.txt
 
+      - name: Configure git identity
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
       - name: Generate daily quiz
         env:
           KIMI_API_KEY: ${{ secrets.KIMI_API_KEY }}
-          KIMI_MODEL: ${{ vars.KIMI_MODEL || 'kimi-k2.5' }}
+          KIMI_MODEL: ${{ vars.KIMI_MODEL || 'kimi-k2-0905-preview' }}
         run: python scripts/generate_quiz.py
 
       - name: Commit and push quiz
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add index.html scripts/student_profile.json || true
+          git add index.html scripts/student_profile.json data/results.json || true
           if ! git diff --cached --quiet; then
             DATE=$(date -u -d "+8 hours" +"%Y-%m-%d")
             git commit -m "chore: auto-generated daily quiz for $DATE"
