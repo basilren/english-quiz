@@ -142,7 +142,7 @@ def build_prompt(student: dict, kb: str, errors: list, today: str, session: int)
 
 每道题的字段：
 - id: 整数，1-20
-- type: 题型，必须是以下之一："grammar"(语法选择)、"vocabulary"(词汇)、"cloze"(完形填空)、"reading"(阅读理解)、"fill"(短文填空)
+- type: 题型，必须是以下之一："grammar"(语法选择)、"vocabulary"(词汇)、"cloze"(完形填空)、"reading"(阅读理解)、"fill"(选句子填空)
 - knowledge_point: 知识点标签，如 "present_perfect"、"word_meaning"、"cloze_general"、"detail"、"sentence_fill" 等
 - difficulty: 难度 1-3，1=基础，2=中等，3=较难
 - stem: 题干文本
@@ -161,13 +161,13 @@ def build_prompt(student: dict, kb: str, errors: list, today: str, session: int)
 - 需要添加 group: "reading_1" 和 group_passage: 完整短文
 - 4 道题分别覆盖：detail(细节)、inference(推理)、word_guessing(词义猜测)、main_idea(主旨)
 
-**选词填空 (fill)**：4 题共用一篇短文，考查词汇辨析与语法变形。
+**选句子填空 (fill)**：4 题共用一篇短文，考查句子衔接与逻辑关系。
 - 需要添加 group: "fill_1" 和 group_passage: 完整短文
-- 给出 5 个备选单词（如动词的不同形式、近义词等），选项标记 A-E
-- 4 道题的 correct_answer 分别对应其中 4 个正确形式
+- 给出 5 个备选句子（如连接词、过渡句、逻辑关系句等），选项标记 A-E
+- 4 道题的 correct_answer 分别对应其中 4 个正确句子
 - 每道题的 options 数组都包含相同的 5 个选项
 - stem 只显示题号，如 "(17)___"
-- 重点：选项必须是**单词/词组**（如 play / played / playing / to play / plays），考查词汇变形和用法，不能是连接词/句子（如 However / Then）
+- 重点：选项必须是**完整的句子或连接词**（如 However / Then / In addition / As a result / On the other hand），考查段落衔接和逻辑关系，不能是单词/词组变形
 
 ### 题目分布
 - 语法选择：3-4 题
