@@ -126,6 +126,27 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;b
 .wx-msg strong{font-size:18px}
 
 .hidden{display:none!important}
+
+/* Word lookup popup */
+.word-popup{position:fixed;left:50%;bottom:80px;transform:translateX(-50%) translateY(20px);background:rgba(255,255,255,.98);border-radius:16px;padding:16px 20px;box-shadow:0 8px 32px rgba(0,0,0,.25);z-index:10000;min-width:260px;max-width:90vw;opacity:0;transition:all .25s ease;pointer-events:none}
+.word-popup.show{opacity:1;transform:translateX(-50%) translateY(0);pointer-events:auto}
+.word-popup .pw-word{font-size:18px;font-weight:700;color:#4a3f8a;margin-bottom:6px}
+.word-popup .pw-meaning{font-size:14px;color:#555;margin-bottom:10px;line-height:1.5}
+.word-popup .pw-confusable{font-size:12px;color:#c0392b;margin-bottom:12px}
+.word-popup .pw-btns{display:flex;gap:8px}
+.word-popup .pw-btn{flex:1;padding:10px;border:none;border-radius:10px;font-size:13px;font-weight:600;cursor:pointer;-webkit-tap-highlight-color:transparent}
+.word-popup .pw-btn-add{background:linear-gradient(135deg,#43b883,#2d8f6f);color:#fff}
+.word-popup .pw-btn-close{background:#f0edf5;color:#666}
+.word-popup .pw-toast{color:#43b883;font-size:12px;text-align:center;margin-top:8px;font-weight:600;min-height:18px}
+
+/* Bottom nav */
+.bottom-nav{display:flex;gap:6px;margin-top:12px}
+.bottom-nav a{flex:1;padding:10px 4px;text-align:center;border-radius:10px;background:rgba(255,255,255,.9);color:#4a3f8a;font-size:12px;font-weight:600;text-decoration:none}
+.bottom-nav a:active{transform:scale(.96)}
+
+/* Toast */
+.toast{position:fixed;bottom:60px;left:50%;transform:translateX(-50%) translateY(20px);background:rgba(0,0,0,.8);color:#fff;padding:10px 20px;border-radius:20px;font-size:13px;opacity:0;transition:all .3s;pointer-events:none;z-index:10001}
+.toast.show{opacity:1;transform:translateX(-50%) translateY(0)}
 </style>
 </head>
 <body>
@@ -153,6 +174,18 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;b
   <div id="questionArea"></div>
   <div id="resultArea" class="hidden"></div>
 </div>
+
+<div id="wordPopup" class="word-popup">
+  <div class="pw-word" id="pwWord">word</div>
+  <div class="pw-meaning" id="pwMeaning">meaning</div>
+  <div class="pw-confusable" id="pwConfusable"></div>
+  <div class="pw-btns">
+    <button class="pw-btn pw-btn-add" id="pwAddBtn" onclick="addToVocabBook()">&#128218; 加入积累本</button>
+    <button class="pw-btn pw-btn-close" onclick="closeWordPopup()">关闭</button>
+  </div>
+  <div class="pw-toast" id="pwToast"></div>
+</div>
+<div id="toast" class="toast"></div>
 
 <script>
 // === WeChat detection ===
@@ -562,8 +595,11 @@ function showResult(){
   html+='<button class="btn btn-primary" onclick="copyAns(\''+ansStr+'\')">&#128203; 复制答案</button>';
   html+='</div>';
   html+='<div class="nav-bar" style="margin-top:12px">';
-  html+='<button class="btn btn-link" onclick="window.location.href=\'errors.html\'">&#128221; 查看错题本</button>';
-  html+='<button class="btn btn-link" onclick="window.location.href=\'report.html\'">&#128202; 查看学习报告</button>';
+  html+='<button class="btn btn-link" onclick="window.location.href=\'vocab_book.html\'">&#128218; 积累本</button>';
+  html+='<button class="btn btn-link" onclick="window.location.href=\'errors.html\'">&#128221; 错题本</button>';
+  html+='<button class="btn btn-link" onclick="window.location.href=\'report.html\'">&#128202; 学习报告</button>';
+  html+='</div>';
+  html+='<div class="nav-bar" style="margin-top:8px">';
   html+='<button class="btn btn-link" onclick="window.location.href=\'index.html\'">&#128221; 再做一组</button>';
   html+='</div>';
   html+='<div style="text-align:center;margin-top:10px"><button id="syncBtn" class="btn btn-secondary" onclick="submitToGitHub()" style="width:auto;padding:8px 20px;font-size:12px">&#128259; 重新同步</button></div>';
@@ -581,6 +617,124 @@ function copyAns(s){
   else prompt('请复制：',s);
 }
 
+// === Word lookup & long-press ===
+var vocabLocalData=null, confusableLocalData=null;
+var currentLookupWord='';
+var LONG_PRESS_DURATION=600;
+var pressTimer=null, pressTarget=null;
+
+function fetchLocalJSON(url,cb){
+  var xhr=new XMLHttpRequest();
+  xhr.open('GET',url,true);
+  xhr.onreadystatechange=function(){
+    if(xhr.readyState===4){if(xhr.status===200){try{cb(JSON.parse(xhr.responseText));}catch(e){cb(null);}}else{cb(null);}}
+  };
+  xhr.send();
+}
+fetchLocalJSON('vocab_data.json',function(d){vocabLocalData=d;});
+fetchLocalJSON('confusables.json',function(d){confusableLocalData=d;});
+
+function getSelectionText(){var s=window.getSelection();return s?s.toString().trim():'';}
+function getWordAtPoint(x,y){
+  var node,offset;
+  if(document.caretPositionFromPoint){var pos=document.caretPositionFromPoint(x,y);node=pos.offsetNode;offset=pos.offset;}
+  else if(document.caretRangeFromPoint){var range=document.caretRangeFromPoint(x,y);node=range.startContainer;offset=range.startOffset;}
+  else{return'';}
+  if(node.nodeType!==3)return'';
+  var text=node.textContent;
+  var start=offset,end=offset;
+  while(start>0&&/[a-zA-Z]/.test(text[start-1]))start--;
+  while(end<text.length&&/[a-zA-Z]/.test(text[end]))end++;
+  var word=text.substring(start,end);
+  return(word.length>=2&&/^[a-zA-Z]+$/.test(word))?word.toLowerCase():'';
+}
+
+function findLocalMeaning(word){
+  if(!vocabLocalData||!vocabLocalData.words)return null;
+  return vocabLocalData.words[word]||null;
+}
+function findLocalConfusable(word){
+  if(!confusableLocalData||!confusableLocalData.pairs)return[];
+  var arr=confusableLocalData.pairs[word];
+  if(arr)return arr;
+  for(var k in confusableLocalData.pairs){
+    var list=confusableLocalData.pairs[k];
+    for(var i=0;i<list.length;i++)if(list[i].toLowerCase()===word)return[k].concat(list.filter(function(x){return x.toLowerCase()!==word;}));
+  }
+  return[];
+}
+
+function lookupWord(word){
+  currentLookupWord=word;
+  document.getElementById('pwWord').textContent=word;
+  var mean=findLocalMeaning(word);
+  var meanEl=document.getElementById('pwMeaning');
+  var confEl=document.getElementById('pwConfusable');
+  var addBtn=document.getElementById('pwAddBtn');
+  if(mean){meanEl.textContent=mean;meanEl.style.display='block';}
+  else{meanEl.textContent='本地词库未收录，将尝试联网查询...';meanEl.style.display='block';fetchOnlineMeaning(word);}
+  var conf=findLocalConfusable(word);
+  if(conf&&conf.length>0){confEl.innerHTML='&#128161; 易混词: <b>'+conf.join('</b>, <b>')+'</b>';confEl.style.display='block';}
+  else{confEl.style.display='none';}
+  var book=JSON.parse(localStorage.getItem('basco_vocab_book')||'{"version":1,"words":[]}');
+  var exists=book.words.some(function(x){return x.word.toLowerCase()===word.toLowerCase();});
+  addBtn.textContent=exists?'&#10004; 已在积累本':'&#128218; 加入积累本';
+  addBtn.disabled=exists;
+  document.getElementById('pwToast').textContent='';
+  document.getElementById('wordPopup').classList.add('show');
+}
+function fetchOnlineMeaning(word){
+  fetch('https://api.dictionaryapi.dev/api/v2/entries/en/'+word)
+  .then(function(r){if(!r.ok)throw new Error('fail');return r.json();})
+  .then(function(data){
+    var def='';try{def=data[0].meanings[0].definitions[0].definition;}catch(e){}
+    if(def)document.getElementById('pwMeaning').textContent=def;
+    else document.getElementById('pwMeaning').textContent='未找到释义';
+  }).catch(function(){document.getElementById('pwMeaning').textContent='未找到释义';});
+}
+function closeWordPopup(){document.getElementById('wordPopup').classList.remove('show');}
+function addToVocabBook(){
+  if(!currentLookupWord)return;
+  var book=JSON.parse(localStorage.getItem('basco_vocab_book')||'{"version":1,"words":[]}');
+  if(book.words.some(function(x){return x.word.toLowerCase()===currentLookupWord.toLowerCase();})){
+    document.getElementById('pwToast').textContent='该单词已在积累本中';
+    return;
+  }
+  var mean=findLocalMeaning(currentLookupWord)||'';
+  var conf=findLocalConfusable(currentLookupWord);
+  book.words.push({word:currentLookupWord,addedAt:new Date().toISOString().slice(0,10),fromQuestion:null,meaning:mean,confusable:conf});
+  localStorage.setItem('basco_vocab_book',JSON.stringify(book));
+  document.getElementById('pwAddBtn').textContent='&#10004; 已添加';
+  document.getElementById('pwAddBtn').disabled=true;
+  document.getElementById('pwToast').textContent='已添加到积累本 &#10004;';
+}
+function showToast(msg){
+  var t=document.getElementById('toast');t.textContent=msg;t.classList.add('show');
+  setTimeout(function(){t.classList.remove('show');},2000);
+}
+
+function attachLongPress(){
+  var area=document.getElementById('questionArea');
+  if(!area)return;
+  area.addEventListener('touchstart',function(e){
+    if(e.touches.length!==1)return;
+    var t=e.touches[0];
+    var word=getWordAtPoint(t.clientX,t.clientY);
+    if(!word)return;
+    pressTimer=setTimeout(function(){lookupWord(word);},LONG_PRESS_DURATION);
+  },{passive:true});
+  area.addEventListener('touchend',function(){if(pressTimer){clearTimeout(pressTimer);pressTimer=null;}});
+  area.addEventListener('touchmove',function(){if(pressTimer){clearTimeout(pressTimer);pressTimer=null;}});
+  area.addEventListener('mousedown',function(e){
+    if(e.button!==0)return;
+    var word=getWordAtPoint(e.clientX,e.clientY);
+    if(!word)return;
+    pressTimer=setTimeout(function(){lookupWord(word);},LONG_PRESS_DURATION);
+  });
+  area.addEventListener('mouseup',function(){if(pressTimer){clearTimeout(pressTimer);pressTimer=null;}});
+  area.addEventListener('mousemove',function(){if(pressTimer){clearTimeout(pressTimer);pressTimer=null;}});
+}
+
 // Restore previous submission
 (function(){
   try{
@@ -590,6 +744,7 @@ function copyAns(s){
   }catch(e){}
 })();
 renderPage();
+attachLongPress();
 </script>
 </body>
 </html>

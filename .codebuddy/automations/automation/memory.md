@@ -108,6 +108,16 @@
 - 难度级别：完形3，语法/词汇/阅读2，短文填空2
 - Git push 成功：932a02e
 
+### 2026-04-25 12:06 - Day 28 Session 1
+- 生成 20 道题：语法 4 题（现在完成时×1 延续性动词had、宾语从句×1 whether+ask语境、定语从句×1 who引导+先行词是人、比较级×1 more difficult+than）、词汇 3 题（word_meaning×1 discovery vs invention、prefix_suffix×1 dangerous/-ous后缀、synonym_antonym×1 pleasant=enjoyable）、完形填空 5 题（**难度3** 午间才艺秀-克服恐惧弹吉他，含 dared/until/magical/silent/fear 跨句推理+固定搭配+not...until句型）、阅读理解 4 题（说明文-修理咖啡馆Repair Cafes，含细节+推理+词义猜测landfills+主旨大意）、短文填空 4 题（校园职业日Career Day，5选4含干扰项E-厨师）
+- 弱项加权：现在完成时(50%)×1、宾语从句(50%)×1 持续强化；定语从句(relative_clause)巩固；比较级(comparative)巩固
+- 新主题：完形-午间才艺秀、阅读-修理咖啡馆、填空-校园职业日（避开已用主题）
+- 难度级别：完形3，语法/词汇/阅读2，短文填空2
+- Git push 成功：49a9096
+
+
+
+
 
 
 

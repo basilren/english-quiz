@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+<title>Bosco 的积累本</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);min-height:100vh;padding:12px;color:#333}
+.container{max-width:600px;margin:0 auto}
+.header{background:rgba(255,255,255,.95);border-radius:16px;padding:16px 20px;text-align:center;margin-bottom:12px;box-shadow:0 4px 20px rgba(0,0,0,.1)}
+.header h1{font-size:18px;color:#4a3f8a;margin-bottom:4px}
+.header .subtitle{font-size:12px;color:#888}
+
+.search-box{display:flex;gap:8px;margin-bottom:12px}
+.search-box input{flex:1;padding:12px 14px;border:2px solid #e8e4f0;border-radius:12px;font-size:14px;outline:none}
+.search-box input:focus{border-color:#667eea}
+.search-box button{padding:12px 18px;border:none;border-radius:12px;background:linear-gradient(135deg,#667eea,#764ba2);color:#fff;font-size:14px;font-weight:600;cursor:pointer}
+
+.card{background:rgba(255,255,255,.97);border-radius:16px;padding:16px;margin-bottom:10px;box-shadow:0 4px 20px rgba(0,0,0,.1);position:relative}
+.card .word{font-size:18px;font-weight:700;color:#4a3f8a;margin-bottom:6px;display:flex;align-items:center;gap:8px}
+.card .meaning{font-size:14px;color:#555;margin-bottom:6px}
+.card .confusable{font-size:13px;color:#888;margin-bottom:4px}
+.card .confusable b{color:#c0392b}
+.card .meta{font-size:11px;color:#aaa}
+.card .delete{position:absolute;top:12px;right:12px;width:28px;height:28px;border:none;border-radius:50%;background:#fff0f0;color:#c0392b;font-size:16px;cursor:pointer;display:flex;align-items:center;justify-content:center}
+.card .delete:active{transform:scale(.9)}
+
+.empty{text-align:center;padding:40px 20px;color:#fff;opacity:.8}
+.empty .icon{font-size:48px;margin-bottom:12px}
+.empty p{font-size:14px}
+
+.bottom-nav{display:flex;gap:8px;margin-top:16px}
+.bottom-nav a{flex:1;padding:12px;text-align:center;border-radius:12px;background:rgba(255,255,255,.9);color:#4a3f8a;font-size:14px;font-weight:600;text-decoration:none;box-shadow:0 2px 10px rgba(0,0,0,.08)}
+.bottom-nav a:active{transform:scale(.97)}
+
+.toast{position:fixed;bottom:60px;left:50%;transform:translateX(-50%) translateY(20px);background:rgba(0,0,0,.8);color:#fff;padding:10px 20px;border-radius:20px;font-size:13px;opacity:0;transition:all .3s;pointer-events:none;z-index:9999}
+.toast.show{opacity:1;transform:translateX(-50%) translateY(0)}
+
+.loading{color:#fff;text-align:center;padding:40px;font-size:14px}
+</style>
+</head>
+<body>
+<div class="container">
+  <div class="header">
+    <h1>&#128218; Bosco 的积累本</h1>
+    <div class="subtitle" id="subtitle">共收藏 0 个单词</div>
+  </div>
+  <div class="search-box">
+    <input type="text" id="searchInput" placeholder="搜索单词..." oninput="render()">
+    <button onclick="exportData()">导出</button>
+  </div>
+  <div id="wordList"><div class="loading">加载中...</div></div>
+  <div class="bottom-nav">
+    <a href="index.html">&#128221; 去做题</a>
+    <a href="errors.html">&#10060; 错题本</a>
+    <a href="report.html">&#128202; 学习报告</a>
+  </div>
+</div>
+<div id="toast" class="toast"></div>
+
+<script>
+var vocabData=null, confusableData=null;
+var STORAGE_KEY='basco_vocab_book';
+
+function showToast(msg){
+  var t=document.getElementById('toast');
+  t.textContent=msg;t.classList.add('show');
+  setTimeout(function(){t.classList.remove('show');},2000);
+}
+
+function loadBooks(){
+  var raw=localStorage.getItem(STORAGE_KEY);
+  if(!raw)return{version:1,words:[]};
+  try{return JSON.parse(raw);}catch(e){return{version:1,words:[]};}
+}
+function saveBooks(data){
+  localStorage.setItem(STORAGE_KEY,JSON.stringify(data));
+}
+
+function fetchJSON(url,cb){
+  var xhr=new XMLHttpRequest();
+  xhr.open('GET',url,true);
+  xhr.onreadystatechange=function(){
+    if(xhr.readyState===4){
+      if(xhr.status===200){try{cb(JSON.parse(xhr.responseText));}catch(e){cb(null);}}
+      else{cb(null);}
+    }
+  };
+  xhr.send();
+}
+
+function findConfusable(word){
+  if(!confusableData||!confusableData.pairs)return[];
+  var w=word.toLowerCase();
+  if(confusableData.pairs[w])return confusableData.pairs[w];
+  for(var k in confusableData.pairs){
+    var arr=confusableData.pairs[k];
+    for(var i=0;i<arr.length;i++)if(arr[i].toLowerCase()===w)return[k].concat(arr.filter(function(x){return x.toLowerCase()!==w;}));
+  }
+  return[];
+}
+
+function findMeaning(word){
+  if(!vocabData||!vocabData.words)return null;
+  var w=word.toLowerCase();
+  if(vocabData.words[w])return vocabData.words[w];
+  return null;
+}
+
+function deleteWord(word){
+  var book=loadBooks();
+  book.words=book.words.filter(function(x){return x.word!==word;});
+  saveBooks(book);render();showToast('已删除: '+word);
+}
+
+function render(){
+  var book=loadBooks();
+  var list=document.getElementById('wordList');
+  var keyword=document.getElementById('searchInput').value.trim().toLowerCase();
+  var words=book.words.slice().reverse();
+  if(keyword)words=words.filter(function(x){return x.word.toLowerCase().indexOf(keyword)!==-1;});
+  document.getElementById('subtitle').textContent='共收藏 '+book.words.length+' 个单词'+(keyword?' / 搜索到 '+words.length+' 个':'');
+  if(words.length===0){
+    list.innerHTML='<div class="empty"><div class="icon">&#128218;</div><p>'+(keyword?'没有找到匹配的单词':'积累本还是空的~<br>去做题时长按单词即可添加')+'</p></div>';
+    return;
+  }
+  var html='';
+  for(var i=0;i<words.length;i++){
+    var w=words[i];
+    var conf=findConfusable(w.word);
+    var mean=findMeaning(w.word)||w.meaning||'';
+    html+='<div class="card">';
+    html+='<button class="delete" onclick="deleteWord(\''+w.word+'\')">&times;</button>';
+    html+='<div class="word">'+w.word+'</div>';
+    if(mean)html+='<div class="meaning">'+mean+'</div>';
+    if(conf&&conf.length>0)html+='<div class="confusable">&#128161; 易混词: <b>'+conf.join('</b>, <b>')+'</b></div>';
+    html+='<div class="meta">添加于 '+w.addedAt+(w.fromQuestion?' · 第'+w.fromQuestion+'题':'')+'</div>';
+    html+='</div>';
+  }
+  list.innerHTML=html;
+}
+
+function exportData(){
+  var book=loadBooks();
+  var text=book.words.map(function(x){return x.word;}).join('\n');
+  var blob=new Blob([text],{type:'text/plain'});
+  var a=document.createElement('a');
+  a.href=URL.createObjectURL(blob);
+  a.download='bosco_vocab.txt';a.click();
+  showToast('已导出单词列表');
+}
+
+// Init
+fetchJSON('vocab_data.json',function(d){vocabData=d;});
+fetchJSON('confusables.json',function(d){confusableData=d;render();});
+</script>
+</body>
+</html>
