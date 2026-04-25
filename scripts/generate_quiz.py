@@ -199,7 +199,7 @@ def call_kimi(prompt: str, api_key: str, model: str) -> dict:
             {"role": "system", "content": "你是一个专业的初中英语出题系统。你必须严格输出合法的 JSON，不要包含任何 markdown 代码块标记或其他说明文字。"},
             {"role": "user", "content": prompt},
         ],
-        "temperature": 0.7,
+        "temperature": 1,
         "max_tokens": 8000,
     }
 
