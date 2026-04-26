@@ -204,7 +204,7 @@ def call_kimi(prompt: str, api_key: str, model: str) -> dict:
             {"role": "user", "content": prompt},
         ],
         "temperature": 1,
-        "max_tokens": 8000,
+        "max_tokens": 12000,
         "stream": True,
     }
 
@@ -265,8 +265,16 @@ def call_kimi(prompt: str, api_key: str, model: str) -> dict:
 
 def parse_quiz_json(text: str) -> dict:
     """从模型输出中提取并解析 JSON"""
+    original = text.strip()
+    log(f"原始响应长度: {len(original)} 字符")
+    # 保存原始响应到临时文件以便调试
+    debug_file = REPO_ROOT / "scripts" / "debug_raw_response.txt"
+    with open(debug_file, "w", encoding="utf-8") as f:
+        f.write(original)
+    log(f"原始响应已保存至: {debug_file}")
+
     # 去掉可能的 markdown 代码块标记
-    text = text.strip()
+    text = original
     if text.startswith("```"):
         # 去掉开头的 ```json 或 ```
         text = re.sub(r"^```(?:json)?\s*", "", text)
@@ -281,7 +289,28 @@ def parse_quiz_json(text: str) -> dict:
     if start != -1 and end != -1 and end > start:
         text = text[start:end + 1]
 
-    return json.loads(text)
+    # 尝试解析，如果失败，尝试修复常见的 JSON 格式错误
+    for attempt in range(2):
+        try:
+            return json.loads(text)
+        except json.JSONDecodeError as e:
+            log(f"JSON 解析失败 (尝试 {attempt+1}/2): {e}")
+            if attempt == 0:
+                # 第一次尝试失败，尝试修复常见的格式问题
+                # 1. 修复尾随逗号（对象或数组最后一个元素后的逗号）
+                text = re.sub(r',\s*}', '}', text)
+                text = re.sub(r',\s*]', ']', text)
+                # 2. 修复缺失逗号：在 } 后跟 { 或 " 前缺少逗号？这里简单处理，可能不通用
+                # 3. 修复未转义的控制字符
+                # 由于不确定具体错误，我们记录修复后的文本并继续
+                debug_file_fixed = REPO_ROOT / "scripts" / "debug_fixed_response.txt"
+                with open(debug_file_fixed, "w", encoding="utf-8") as f:
+                    f.write(text)
+                log(f"修复后响应已保存至: {debug_file_fixed}")
+            else:
+                # 第二次尝试仍然失败，抛出异常并附带更多上下文
+                log(f"最终解析失败，原始响应前500字符: {original[:500]}")
+                raise
 
 
 def validate_quiz(quiz: dict) -> bool:
