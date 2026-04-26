@@ -7,7 +7,7 @@
       "type": "grammar",
       "knowledge_point": "present_perfect_vs_past_simple",
       "difficulty": 2,
-      "stem": "â______ you ______ your homework yet?\nâYes. I ______ it an hour ago.",
+      "stem": "—______ you ______ your homework yet?\n—Yes. I ______ it an hour ago.",
       "options": [
         "A. Did; finish; finished",
         "B. Have; finished; finished",
@@ -15,8 +15,8 @@
         "D. Did; finish; have finished"
       ],
       "correct_answer": "B",
-      "explanation": "æ¬é¢èæ¥ç°å¨å®ææ¶ä¸ä¸è¬è¿å»æ¶çåºå«ãé®å¥ä¸­çyetï¼å·²ç»ï¼æ¯ç°å¨å®ææ¶çæ å¿è¯ï¼ä¸»è¯­æ¯youï¼æä»¥ç¨Have...finishedï¼ç­å¥ä¸­çan hour agoï¼ä¸å°æ¶åï¼æ¯ä¸è¬è¿å»æ¶çæ å¿ï¼æä»¥ç¨finishedãè§£é¢æå·§ï¼çå°yet, already, since, forç¨ç°å¨å®ææ¶ï¼çå°yesterday, ago, last weekç¨ä¸è¬è¿å»æ¶ã",
-      "label": "è¯­æ³é¢"
+      "explanation": "本题考查现在完成时与一般过去时的区别。问句中的yet（已经）是现在完成时的标志词，主语是you，所以用Have...finished；答句中的an hour ago（一小时前）是一般过去时的标志，所以用finished。解题技巧：看到yet, already, since, for用现在完成时；看到yesterday, ago, last week用一般过去时。",
+      "label": "语法题"
     },
     {
       "id": 2,
@@ -31,8 +31,8 @@
         "D. which; which"
       ],
       "correct_answer": "A",
-      "explanation": "æ¬é¢èæ¥å®è¯­ä»å¥ä»£è¯whoåwhichçç¨æ³ãè¯boyæäººï¼ä»£è¯ç¨whoæthatï¼è¯bookæç©ï¼ä»£è¯ç¨whichæthatãå£è¯ï¼è¯æ¯äººç¨whoï¼è¯æ¯ç©ç¨whichï¼thatçå¯æ¿ã",
-      "label": "è¯­æ³é¢"
+      "explanation": "本题考查定语从句代词who和which的用法。词boy指人，代词用who或that；词book指物，代词用which或that。口诀：词是人用who，词是物用which，that皆可替。",
+      "label": "语法题"
     },
     {
       "id": 3,
@@ -47,8 +47,8 @@
         "D. opens"
       ],
       "correct_answer": "B",
-      "explanation": "æ¬é¢èæ¥ä¸è¬å°æ¥æ¶çè¢«å¨è¯­æãä¸»è¯­libraryï¼å¾ä¹¦é¦ï¼æ¯å¨ä½openï¼å¼æ¾ï¼çæ¿åï¼æä»¥ç¨è¢«å¨è¯­æï¼æ¶é´ç¶è¯­next monthè¡¨ç¤ºå°æ¥ï¼æä»¥ç¨will be openedãç»æï¼will be + è¿å»åè¯ãAåCæ¯ä¸»å¨è¯­æï¼Dæ¯ä¸è¬ç°å¨æ¶ï¼é½ä¸ç¬¦åã",
-      "label": "è¯­æ³é¢"
+      "explanation": "本题考查一般将来时的被动语态。主语library（图书馆）是动作open（开放）的承受，所以用被动语态；时间状语next month表示将来，所以用will be opened。结构：will be + 过去分词。A和C是主动语态，D是一般现在时，都不符合。",
+      "label": "语法题"
     },
     {
       "id": 4,
@@ -63,8 +63,8 @@
         "D. if; comes"
       ],
       "correct_answer": "A",
-      "explanation": "æ¬é¢èæ¥å®¾è¯­ä»å¥çå¼å¯¼è¯åæ¶æãwonderï¼æ³ç¥éï¼åé¢æ¥if/whetherå¼å¯¼çå®¾è¯­ä»å¥ï¼è¡¨ç¤º\"æ¯å¦\"ï¼æé¤Cï¼tomorrowè¡¨æä»å¥ç¨ä¸è¬å°æ¥æ¶will comeï¼èifå¼å¯¼çæ¡ä»¶ç¶è¯­ä»å¥æç¨\"ä¸»å°ä»ç°\"ï¼è¿éæ¯å®¾è¯­ä»å¥ï¼ä¸åæ­¤éå¶ãæ³¨æåºåifå¼å¯¼å®¾è¯­ä»å¥ï¼æ¯å¦ï¼åæ¡ä»¶ç¶è¯­ä»å¥ï¼å¦æï¼çä¸åç¨æ³ã",
-      "label": "è¯­æ³é¢"
+      "explanation": "本题考查宾语从句的引导词和时态。wonder（想知道）后面接if/whether引导的宾语从句，表示\"是否\"，排除C；tomorrow表明从句用一般将来时will come，而if引导的条件状语从句才用\"主将从现\"，这里是宾语从句，不受此限制。注意区分if引导宾语从句（是否）和条件状语从句（如果）的不同用法。",
+      "label": "语法题"
     },
     {
       "id": 5,
@@ -79,8 +79,8 @@
         "D. very tall and big"
       ],
       "correct_answer": "C",
-      "explanation": "æ¬é¢èæ¥æ ¹æ®ä¸ä¸æçæµè¯ä¹ãæ ¹æ®ååå¥'we must be careful not to shake it'ï¼å°å¿ä¸è¦ææå®ï¼å¯ä»¥æ¨æ­ï¼è¿åº§å»ºç­åºè¯¥æ¯'èå¼±çãæç¢ç'ãAæä¸º'ååº'ï¼Bæä¸º'ç¾ä¸½'ï¼Dæä¸º'é«å¤§'ï¼é½ä¸ç¬¦åè¯­å¢ãè§£é¢æå·§ï¼éè¿ãåä¹è¯ãåä¹è¯æè§£éè¯´ææ¥çè¯ã",
-      "label": "è¯æ±é¢"
+      "explanation": "本题考查根据上下文猜测词义。根据后半句'we must be careful not to shake it'（小心不要摇晃它）可以推断，这座建筑应该是'脆弱的、易碎的'。A意为'坚固'，B意为'美丽'，D意为'高大'，都不符合语境。解题技巧：通过、同义词、反义词或解释说明来猜词。",
+      "label": "词汇题"
     },
     {
       "id": 6,
@@ -95,8 +95,8 @@
         "D. multiply"
       ],
       "correct_answer": "A",
-      "explanation": "æ¬é¢èæ¥æè¯æ³åç¼ãå¥æï¼å¦æä½ ç»happyè¿ä¸ªè¯'å ä¸'åç¼unï¼ä½ ä¼å¾å°ä¸ä¸ªææç¸åçæ°è¯ãadd...to...æä¸º'æ...å å°...'ï¼subtractæ¯'åå»'ï¼divideæ¯'é¤'ï¼multiplyæ¯'ä¹'ãun-æ¯å¸¸è§å¦å®åç¼ï¼å¦unhappy, unhealthy, unfairã",
-      "label": "è¯æ±é¢"
+      "explanation": "本题考查构词法前缀。句意：如果你给happy这个词'加上'前缀un，你会得到一个意思相反的新词。add...to...意为'把...加到...'；subtract是'减去'，divide是'除'，multiply是'乘'。un-是常见否定前缀，如unhappy, unhealthy, unfair。",
+      "label": "词汇题"
     },
     {
       "id": 7,
@@ -111,8 +111,8 @@
         "D. take off"
       ],
       "correct_answer": "A",
-      "explanation": "æ¬é¢èæ¥å¨è¯ç­è¯­è¾¨æãlook afteræä¸º''ï¼turn downæä¸º'è°ä½ï¼é³éï¼'æ'æç»'ï¼give upæä¸º'æ¾å¼'ï¼take offæä¸º'èµ·é£'æ'è±ä¸'ãæ ¹æ®ååå¥'å¥¶å¥¶'ï¼å¯ç¥éè¦''å¥¹ãè§£é¢æå·§ï¼ç§¯ç´¯å¸¸è§å¨è¯ç­è¯­ï¼ç»åè¯­å¢çè§£ã",
-      "label": "è¯æ±é¢"
+      "explanation": "本题考查动词短语辨析。look after意为''；turn down意为'调低（音量）'或'拒绝'；give up意为'放弃'；take off意为'起飞'或'脱下'。根据前半句'奶奶'，可知需要''她。解题技巧：积累常见动词短语，结合语境理解。",
+      "label": "词汇题"
     },
     {
       "id": 8,
@@ -127,8 +127,8 @@
         "D. is building"
       ],
       "correct_answer": "B",
-      "explanation": "æ¬é¢èæ¥è¢«å¨è¯­æåæ¶æãä¸»è¯­'a new vertical garden'ï¼åç´è±å­ï¼æ¯å¨ä½buildçæ¿åï¼åºç¨è¢«å¨è¯­æï¼æ¶é´ç¶è¯­Last yearè¡¨æç¨ä¸è¬è¿å»æ¶ï¼æä»¥éwas builtãç»æï¼was/were + è¿å»åè¯ãAæ¯ä¸»å¨è¯­æä¸è¬ç°å¨æ¶ï¼Cæ¯ä¸»å¨è¯­æè¿å»å¼ï¼ç¼ºå°wasï¼ï¼Dæ¯ç°å¨è¿è¡æ¶ã",
-      "label": "å®å½¢å¡«ç©º",
+      "explanation": "本题考查被动语态和时态。主语'a new vertical garden'（垂直花园）是动作build的承受，应用被动语态；时间状语Last year表明用一般过去时，所以选was built。结构：was/were + 过去分词。A是主动语态一般现在时，C是主动语态过去式（缺少was），D是现在进行时。",
+      "label": "完形填空",
       "group": "cloze_1",
       "group_passage": "Many cities around the world are now building vertical gardens on the walls of tall buildings. These green walls not only make the city more beautiful but also help improve the air quality.\n\nLast year, a new vertical garden (8)______ on the east side of our city. It covers an area of 2,000 square meters and (9)______ over 5,000 different plants. The garden was designed by a famous Italian architect who wanted to bring nature back to urban areas.\n\nThe maintenance of the garden is quite special. Unlike traditional gardens, this one uses an automatic watering system. Water (10)______ to the plants through small pipes hidden behind the wall. This system saves about 30% of water compared to normal gardening methods.\n\nLocal residents love this new landmark. \"When I look at the green wall from my window, I feel relaxed,\" said Mrs. Wang, who lives nearby. The garden has also attracted many birds and insects, and it (11)______ the local biodiversity significantly.\n\nCity planners say more vertical gardens (12)______ in the future to make our city greener and more sustainable."
     },
@@ -145,8 +145,8 @@
         "D. discovers"
       ],
       "correct_answer": "A",
-      "explanation": "æ¬é¢èæ¥å¨è¯è¯ä¹è¾¨æãincludeæä¸º'ã'ï¼inventæä¸º'åæ'ï¼produceæä¸º'çäº§'ï¼discoveræä¸º'åç°'ãå¥æï¼å®å å°2000å¹³æ¹ç±³ï¼5000å¤ç§ä¸åçæ¤ç©ãè±å­''æ¤ç©ï¼æä»¥éAã",
-      "label": "å®å½¢å¡«ç©º",
+      "explanation": "本题考查动词词义辨析。include意为'、'；invent意为'发明'；produce意为'生产'；discover意为'发现'。句意：它占地2000平方米，5000多种不同的植物。花园''植物，所以选A。",
+      "label": "完形填空",
       "group": "cloze_1",
       "group_passage": "Many cities around the world are now building vertical gardens on the walls of tall buildings. These green walls not only make the city more beautiful but also help improve the air quality.\n\nLast year, a new vertical garden (8)______ on the east side of our city. It covers an area of 2,000 square meters and (9)______ over 5,000 different plants. The garden was designed by a famous Italian architect who wanted to bring nature back to urban areas.\n\nThe maintenance of the garden is quite special. Unlike traditional gardens, this one uses an automatic watering system. Water (10)______ to the plants through small pipes hidden behind the wall. This system saves about 30% of water compared to normal gardening methods.\n\nLocal residents love this new landmark. \"When I look at the green wall from my window, I feel relaxed,\" said Mrs. Wang, who lives nearby. The garden has also attracted many birds and insects, and it (11)______ the local biodiversity significantly.\n\nCity planners say more vertical gardens (12)______ in the future to make our city greener and more sustainable."
     },
@@ -163,8 +163,8 @@
         "D. was sending"
       ],
       "correct_answer": "B",
-      "explanation": "æ¬é¢èæ¥ä¸è¬ç°å¨æ¶çè¢«å¨è¯­æãä¸»è¯­Wateræ¯å¨ä½sendï¼è¾éï¼çæ¿åï¼åºç¨è¢«å¨è¯­æï¼è¿éæè¿°çæ¯å®¢è§äºå®åç³»ç»çå¸¸è§è¿ä½ï¼ç¨ä¸è¬ç°å¨æ¶ï¼æä»¥éis sentãç»æï¼am/is/are + è¿å»åè¯ãAæ¯ä¸»å¨è¯­æï¼Cç¼ºå°beå¨è¯ï¼Dæ¯è¿å»è¿è¡æ¶ä¸»å¨è¯­æã",
-      "label": "å®å½¢å¡«ç©º",
+      "explanation": "本题考查一般现在时的被动语态。主语Water是动作send（输送）的承受，应用被动语态；这里描述的是客观事实和系统的常规运作，用一般现在时，所以选is sent。结构：am/is/are + 过去分词。A是主动语态，C缺少be动词，D是过去进行时主动语态。",
+      "label": "完形填空",
       "group": "cloze_1",
       "group_passage": "Many cities around the world are now building vertical gardens on the walls of tall buildings. These green walls not only make the city more beautiful but also help improve the air quality.\n\nLast year, a new vertical garden (8)______ on the east side of our city. It covers an area of 2,000 square meters and (9)______ over 5,000 different plants. The garden was designed by a famous Italian architect who wanted to bring nature back to urban areas.\n\nThe maintenance of the garden is quite special. Unlike traditional gardens, this one uses an automatic watering system. Water (10)______ to the plants through small pipes hidden behind the wall. This system saves about 30% of water compared to normal gardening methods.\n\nLocal residents love this new landmark. \"When I look at the green wall from my window, I feel relaxed,\" said Mrs. Wang, who lives nearby. The garden has also attracted many birds and insects, and it (11)______ the local biodiversity significantly.\n\nCity planners say more vertical gardens (12)______ in the future to make our city greener and more sustainable."
     },
@@ -181,8 +181,8 @@
         "D. protects"
       ],
       "correct_answer": "C",
-      "explanation": "æ¬é¢èæ¥å¨è¯è¯ä¹è¾¨æåè¯­å¢çè§£ãmakeæä¸º'ä½¿ãå¶ä½'ï¼changeæä¸º'æ¹å'ï¼improveæä¸º'æ¹åãæé«'ï¼protectæä¸º'ä¿æ¤'ãå¥æï¼è±å­ä¹å¸å¼äºè®¸å¤é¸ç±»åæè«ï¼æ¾èæ¹åäºå½å°ççç©å¤æ ·æ§ãimprove biodiversityï¼æ¹åçç©å¤æ ·æ§ï¼æ¯æä½³ï¼è¡¨ç¤ºè®©çç©å¤æ ·æ§åå¾æ´å¥½ã",
-      "label": "å®å½¢å¡«ç©º",
+      "explanation": "本题考查动词词义辨析及语境理解。make意为'使、制作'；change意为'改变'；improve意为'改善、提高'；protect意为'保护'。句意：花园也吸引了许多鸟类和昆虫，显著改善了当地的生物多样性。improve biodiversity（改善生物多样性）是最佳，表示让生物多样性变得更好。",
+      "label": "完形填空",
       "group": "cloze_1",
       "group_passage": "Many cities around the world are now building vertical gardens on the walls of tall buildings. These green walls not only make the city more beautiful but also help improve the air quality.\n\nLast year, a new vertical garden (8)______ on the east side of our city. It covers an area of 2,000 square meters and (9)______ over 5,000 different plants. The garden was designed by a famous Italian architect who wanted to bring nature back to urban areas.\n\nThe maintenance of the garden is quite special. Unlike traditional gardens, this one uses an automatic watering system. Water (10)______ to the plants through small pipes hidden behind the wall. This system saves about 30% of water compared to normal gardening methods.\n\nLocal residents love this new landmark. \"When I look at the green wall from my window, I feel relaxed,\" said Mrs. Wang, who lives nearby. The garden has also attracted many birds and insects, and it (11)______ the local biodiversity significantly.\n\nCity planners say more vertical gardens (12)______ in the future to make our city greener and more sustainable."
     },
@@ -199,8 +199,8 @@
         "D. were built"
       ],
       "correct_answer": "C",
-      "explanation": "æ¬é¢èæ¥ä¸è¬å°æ¥æ¶çè¢«å¨è¯­æãä¸»è¯­more vertical gardensæ¯å¨ä½buildçæ¿åï¼åºç¨è¢«å¨è¯­æï¼æ¶é´ç¶è¯­in the futureè¡¨æç¨ä¸è¬å°æ¥æ¶ï¼æä»¥éwill be builtãç»æï¼will be + è¿å»åè¯ãAæ¯ä¸»å¨è¯­æï¼Bæ¯ä¸è¬ç°å¨æ¶è¢«å¨ï¼Dæ¯ä¸è¬è¿å»æ¶è¢«å¨ï¼é½ä¸ç¬¦åin the futureçæ¶é´è¦æ±ã",
-      "label": "å®å½¢å¡«ç©º",
+      "explanation": "本题考查一般将来时的被动语态。主语more vertical gardens是动作build的承受，应用被动语态；时间状语in the future表明用一般将来时，所以选will be built。结构：will be + 过去分词。A是主动语态，B是一般现在时被动，D是一般过去时被动，都不符合in the future的时间要求。",
+      "label": "完形填空",
       "group": "cloze_1",
       "group_passage": "Many cities around the world are now building vertical gardens on the walls of tall buildings. These green walls not only make the city more beautiful but also help improve the air quality.\n\nLast year, a new vertical garden (8)______ on the east side of our city. It covers an area of 2,000 square meters and (9)______ over 5,000 different plants. The garden was designed by a famous Italian architect who wanted to bring nature back to urban areas.\n\nThe maintenance of the garden is quite special. Unlike traditional gardens, this one uses an automatic watering system. Water (10)______ to the plants through small pipes hidden behind the wall. This system saves about 30% of water compared to normal gardening methods.\n\nLocal residents love this new landmark. \"When I look at the green wall from my window, I feel relaxed,\" said Mrs. Wang, who lives nearby. The garden has also attracted many birds and insects, and it (11)______ the local biodiversity significantly.\n\nCity planners say more vertical gardens (12)______ in the future to make our city greener and more sustainable."
     },
@@ -217,10 +217,10 @@
         "D. The dining hall needed more trash bins."
       ],
       "correct_answer": "B",
-      "explanation": "æ¬é¢æ¯ç»èçè§£é¢ãæ ¹æ®æç« ç¬¬äºæ®µç¬¬äºå¥'We noticed that many students didn't want to touch the bin lid with their hands after eating'å¯ç¥ï¼å­¦çä»¬æ³¨æå°å¾å¤åå­¦ä¸æ³å¨åå®é¥­åç¨æè§¦æ¸åå¾æ¡¶çå­ï¼è¿å°±æ¯ä»ä»¬æ³è¦è§£å³çé®é¢ãAãCãDéé¡¹å¨æä¸­åæªæåæä¸åæä¸ç¬¦ãè§£é¢æå·§ï¼å¸¦çé®é¢æ¾ï¼å®ä½åæå¥å­ã",
-      "label": "-ç»èçè§£",
+      "explanation": "本题是细节理解题。根据文章第二段第二句'We noticed that many students didn't want to touch the bin lid with their hands after eating'可知，学生们注意到很多同学不想在吃完饭后用手触摸垃圾桶盖子，这就是他们想要解决的问题。A、C、D选项在文中均未提及或与原文不符。解题技巧：带着问题找，定位原文句子。",
+      "label": "-细节理解",
       "group": "reading_1",
-      "group_passage": "Young Inventors Change School Life\n\nHave you ever dreamed of inventing something useful? At Green Middle School, students are encouraged to turn their creative ideas into real projects during the annual Science Week.\n\nLast month, three eighth-grade students surprised everyone with their inventionâa smart trash bin. \"We noticed that many students didn't want to touch the bin lid with their hands after eating,\" explained Li Wei, the team leader. Their design uses a simple sensor. When someone puts their hand near the bin, the lid opens automatically. It is powered by a small solar panel on top, making it environmentally friendly.\n\nThe invention took them three weeks to complete. They faced many challenges, especially with the sensor sensitivity. \"At first, the lid opened even when people just walked past,\" laughed Zhang Ming, another team member. After many tests and adjustments, they finally made it work perfectly.\n\nTeachers were impressed not just by the technology, but by the students' problem-solving skills. \"They learned more from this hands-on experience than from textbooks,\" said their science teacher, Mr. Liu. The smart bin has now been placed in the school dining hall, and the team hopes to improve it further by adding a compression system to save space.\n\nThe school plans to display the best inventions at the city youth center next semester, giving these young creators a chance to share their ideas with a wider audience."
+      "group_passage": "Young Inventors Change School Life\n\nHave you ever dreamed of inventing something useful? At Green Middle School, students are encouraged to turn their creative ideas into real projects during the annual Science Week.\n\nLast month, three eighth-grade students surprised everyone with their invention—a smart trash bin. \"We noticed that many students didn't want to touch the bin lid with their hands after eating,\" explained Li Wei, the team leader. Their design uses a simple sensor. When someone puts their hand near the bin, the lid opens automatically. It is powered by a small solar panel on top, making it environmentally friendly.\n\nThe invention took them three weeks to complete. They faced many challenges, especially with the sensor sensitivity. \"At first, the lid opened even when people just walked past,\" laughed Zhang Ming, another team member. After many tests and adjustments, they finally made it work perfectly.\n\nTeachers were impressed not just by the technology, but by the students' problem-solving skills. \"They learned more from this hands-on experience than from textbooks,\" said their science teacher, Mr. Liu. The smart bin has now been placed in the school dining hall, and the team hopes to improve it further by adding a compression system to save space.\n\nThe school plans to display the best inventions at the city youth center next semester, giving these young creators a chance to share their ideas with a wider audience."
     },
     {
       "id": 14,
@@ -235,10 +235,10 @@
         "D. They spent only one week completing the invention."
       ],
       "correct_answer": "C",
-      "explanation": "æ¬é¢æ¯æ¨çå¤æ­é¢ãæ ¹æ®ç¬¬åæ®µç¬¬ä¸å¥'Teachers were impressed not just by the technology, but by the students' problem-solving skills'ä»¥å'They learned more from this hands-on experience than from textbooks'å¯ä»¥æ¨æ­ï¼å­¦çéè¿è¿ä¸ªé¡¹ç®æé«äºè§£å³é®é¢çè½åãAä¸ç¬¬ä¸æ®µæå°çfaced many challengesçç¾ï¼Bæä¸­æªæåä¸ä¸ææä¸ç¬¦ï¼Dä¸ç¬¬ä¸æ®µç¬¬ä¸å¥took them three weeksçç¾ãè§£é¢æå·§ï¼æ¨çé¢è¦åºäºåæä¿¡æ¯åçæ¨æ­ï¼ä¸è½ä¸»è§èæ­ï¼ä¹ä¸è½éä¸åæçç¾çéé¡¹ã",
-      "label": "-æ¨çå¤æ­",
+      "explanation": "本题是推理判断题。根据第四段第一句'Teachers were impressed not just by the technology, but by the students' problem-solving skills'以及'They learned more from this hands-on experience than from textbooks'可以推断，学生通过这个项目提高了解决问题的能力。A与第三段提到的faced many challenges矛盾；B文中未提及且与文意不符；D与第三段第一句took them three weeks矛盾。解题技巧：推理题要基于原文信息合理推断，不能主观臆断，也不能选与原文矛盾的选项。",
+      "label": "-推理判断",
       "group": "reading_1",
-      "group_passage": "Young Inventors Change School Life\n\nHave you ever dreamed of inventing something useful? At Green Middle School, students are encouraged to turn their creative ideas into real projects during the annual Science Week.\n\nLast month, three eighth-grade students surprised everyone with their inventionâa smart trash bin. \"We noticed that many students didn't want to touch the bin lid with their hands after eating,\" explained Li Wei, the team leader. Their design uses a simple sensor. When someone puts their hand near the bin, the lid opens automatically. It is powered by a small solar panel on top, making it environmentally friendly.\n\nThe invention took them three weeks to complete. They faced many challenges, especially with the sensor sensitivity. \"At first, the lid opened even when people just walked past,\" laughed Zhang Ming, another team member. After many tests and adjustments, they finally made it work perfectly.\n\nTeachers were impressed not just by the technology, but by the students' problem-solving skills. \"They learned more from this hands-on experience than from textbooks,\" said their science teacher, Mr. Liu. The smart bin has now been placed in the school dining hall, and the team hopes to improve it further by adding a compression system to save space.\n\nThe school plans to display the best inventions at the city youth center next semester, giving these young creators a chance to share their ideas with a wider audience."
+      "group_passage": "Young Inventors Change School Life\n\nHave you ever dreamed of inventing something useful? At Green Middle School, students are encouraged to turn their creative ideas into real projects during the annual Science Week.\n\nLast month, three eighth-grade students surprised everyone with their invention—a smart trash bin. \"We noticed that many students didn't want to touch the bin lid with their hands after eating,\" explained Li Wei, the team leader. Their design uses a simple sensor. When someone puts their hand near the bin, the lid opens automatically. It is powered by a small solar panel on top, making it environmentally friendly.\n\nThe invention took them three weeks to complete. They faced many challenges, especially with the sensor sensitivity. \"At first, the lid opened even when people just walked past,\" laughed Zhang Ming, another team member. After many tests and adjustments, they finally made it work perfectly.\n\nTeachers were impressed not just by the technology, but by the students' problem-solving skills. \"They learned more from this hands-on experience than from textbooks,\" said their science teacher, Mr. Liu. The smart bin has now been placed in the school dining hall, and the team hopes to improve it further by adding a compression system to save space.\n\nThe school plans to display the best inventions at the city youth center next semester, giving these young creators a chance to share their ideas with a wider audience."
     },
     {
       "id": 15,
@@ -253,10 +253,10 @@
         "D. Moving something quickly."
       ],
       "correct_answer": "A",
-      "explanation": "æ¬é¢æ¯è¯ä¹çæµé¢ãæ ¹æ®ç¬¬åæ®µæåä¸å¥'adding a compression system to save space'ï¼å¢å ä¸ä¸ªcompressionç³»ç»æ¥èçç©ºé´ï¼å¯ç¥ï¼è½å¤èçç©ºé´çåºè¯¥æ¯'åç¼©'ç³»ç»ï¼å³ä½¿ç©ä½ä½ç§¯åå°ãBæä¸º'æ¶é'ï¼Cæä¸º''ï¼Dæä¸º'å¿«éç§»å¨'ï¼é½ä¸è½ç´æ¥å¸¦æ¥èçç©ºé´çææãè§£é¢æå·§ï¼éè¿ä¸ä¸æä¸­çç®çç¶è¯­to save spaceæ¥æ¨æ­è¯ä¹ã",
-      "label": "-è¯ä¹çæµ",
+      "explanation": "本题是词义猜测题。根据第四段最后一句'adding a compression system to save space'（增加一个compression系统来节省空间）可知，能够节省空间的应该是'压缩'系统，即使物体体积变小。B意为'收集'，C意为''，D意为'快速移动'，都不能直接带来节省空间的效果。解题技巧：通过上下文中的目的状语to save space来推断词义。",
+      "label": "-词义猜测",
       "group": "reading_1",
-      "group_passage": "Young Inventors Change School Life\n\nHave you ever dreamed of inventing something useful? At Green Middle School, students are encouraged to turn their creative ideas into real projects during the annual Science Week.\n\nLast month, three eighth-grade students surprised everyone with their inventionâa smart trash bin. \"We noticed that many students didn't want to touch the bin lid with their hands after eating,\" explained Li Wei, the team leader. Their design uses a simple sensor. When someone puts their hand near the bin, the lid opens automatically. It is powered by a small solar panel on top, making it environmentally friendly.\n\nThe invention took them three weeks to complete. They faced many challenges, especially with the sensor sensitivity. \"At first, the lid opened even when people just walked past,\" laughed Zhang Ming, another team member. After many tests and adjustments, they finally made it work perfectly.\n\nTeachers were impressed not just by the technology, but by the students' problem-solving skills. \"They learned more from this hands-on experience than from textbooks,\" said their science teacher, Mr. Liu. The smart bin has now been placed in the school dining hall, and the team hopes to improve it further by adding a compression system to save space.\n\nThe school plans to display the best inventions at the city youth center next semester, giving these young creators a chance to share their ideas with a wider audience."
+      "group_passage": "Young Inventors Change School Life\n\nHave you ever dreamed of inventing something useful? At Green Middle School, students are encouraged to turn their creative ideas into real projects during the annual Science Week.\n\nLast month, three eighth-grade students surprised everyone with their invention—a smart trash bin. \"We noticed that many students didn't want to touch the bin lid with their hands after eating,\" explained Li Wei, the team leader. Their design uses a simple sensor. When someone puts their hand near the bin, the lid opens automatically. It is powered by a small solar panel on top, making it environmentally friendly.\n\nThe invention took them three weeks to complete. They faced many challenges, especially with the sensor sensitivity. \"At first, the lid opened even when people just walked past,\" laughed Zhang Ming, another team member. After many tests and adjustments, they finally made it work perfectly.\n\nTeachers were impressed not just by the technology, but by the students' problem-solving skills. \"They learned more from this hands-on experience than from textbooks,\" said their science teacher, Mr. Liu. The smart bin has now been placed in the school dining hall, and the team hopes to improve it further by adding a compression system to save space.\n\nThe school plans to display the best inventions at the city youth center next semester, giving these young creators a chance to share their ideas with a wider audience."
     },
     {
       "id": 16,
@@ -271,10 +271,10 @@
         "D. Solar Power in School Buildings"
       ],
       "correct_answer": "C",
-      "explanation": "æ¬é¢æ¯ä¸»æ¨å¤§æé¢ï¼æä½³æ é¢ï¼ãæç« ä¸»è¦è®²è¿°äºä¸ä¸ªå­¦çåææºè½åå¾æ¡¶ï¼å±ç¤ºäºå¹´è½»åæå®¶å¦ä½éè¿åæ°æ¹åæ ¡å­çæ´»ãAéé¡¹åªæ¶ååæè¿ç¨ï¼è¿äºçé¢ï¼Béé¡¹å¼ºè°ç§å­¦å¨çéè¦æ§ï¼ä½æç« éç¹æ¯å­¦ççåæï¼Déé¡¹åªæå°å¤ªé³è½ï¼æ¯ç»èèéä¸»æ¨ãCéé¡¹'å¹´è½»åæå®¶æ¹åæ ¡å­çæ´»'æè½æ¦æ¬ä¸»æ¨ãè§£é¢æå·§ï¼æä½³æ é¢è¦è½æ¦æ¬ï¼ä¸è½ä»¥åæ¦ï¼éå¸¸ä¸æç« å¼å¤´æç»å°¾çä¸»é¢å¥ã",
-      "label": "-ä¸»æ¨å¤§æ",
+      "explanation": "本题是主旨大意题（最佳标题）。文章主要讲述了三个学生发明智能垃圾桶，展示了年轻发明家如何通过创新改变校园生活。A选项只涉及发明过程，过于片面；B选项强调科学周的重要性，但文章重点是学生的发明；D选项只提到太阳能，是细节而非主旨。C选项'年轻发明家改变校园生活'最能概括主旨。解题技巧：最佳标题要能概括，不能以偏概，通常与文章开头或结尾的主题句。",
+      "label": "-主旨大意",
       "group": "reading_1",
-      "group_passage": "Young Inventors Change School Life\n\nHave you ever dreamed of inventing something useful? At Green Middle School, students are encouraged to turn their creative ideas into real projects during the annual Science Week.\n\nLast month, three eighth-grade students surprised everyone with their inventionâa smart trash bin. \"We noticed that many students didn't want to touch the bin lid with their hands after eating,\" explained Li Wei, the team leader. Their design uses a simple sensor. When someone puts their hand near the bin, the lid opens automatically. It is powered by a small solar panel on top, making it environmentally friendly.\n\nThe invention took them three weeks to complete. They faced many challenges, especially with the sensor sensitivity. \"At first, the lid opened even when people just walked past,\" laughed Zhang Ming, another team member. After many tests and adjustments, they finally made it work perfectly.\n\nTeachers were impressed not just by the technology, but by the students' problem-solving skills. \"They learned more from this hands-on experience than from textbooks,\" said their science teacher, Mr. Liu. The smart bin has now been placed in the school dining hall, and the team hopes to improve it further by adding a compression system to save space.\n\nThe school plans to display the best inventions at the city youth center next semester, giving these young creators a chance to share their ideas with a wider audience."
+      "group_passage": "Young Inventors Change School Life\n\nHave you ever dreamed of inventing something useful? At Green Middle School, students are encouraged to turn their creative ideas into real projects during the annual Science Week.\n\nLast month, three eighth-grade students surprised everyone with their invention—a smart trash bin. \"We noticed that many students didn't want to touch the bin lid with their hands after eating,\" explained Li Wei, the team leader. Their design uses a simple sensor. When someone puts their hand near the bin, the lid opens automatically. It is powered by a small solar panel on top, making it environmentally friendly.\n\nThe invention took them three weeks to complete. They faced many challenges, especially with the sensor sensitivity. \"At first, the lid opened even when people just walked past,\" laughed Zhang Ming, another team member. After many tests and adjustments, they finally made it work perfectly.\n\nTeachers were impressed not just by the technology, but by the students' problem-solving skills. \"They learned more from this hands-on experience than from textbooks,\" said their science teacher, Mr. Liu. The smart bin has now been placed in the school dining hall, and the team hopes to improve it further by adding a compression system to save space.\n\nThe school plans to display the best inventions at the city youth center next semester, giving these young creators a chance to share their ideas with a wider audience."
     },
     {
       "id": 17,
@@ -290,8 +290,8 @@
         "E. Then, he started to build the robot body with his father."
       ],
       "correct_answer": "B",
-      "explanation": "æ¬é¢èæ¥æ®µè½è¡æ¥åä¸ä¸æé»è¾ãåä¸å¥æå°'æå¯¹åå­¦Tomå¶ä½çæºå¨äºº'ï¼åä¸å¥è¯´'å®è½èªå¨ææ«æå®¤å°é¢'ãéé¡¹B'å®æ¯ç±åæ¶ææå¶æçï¼æ¯å¦æ§ç¶å­åçå­'æ­£å¥½æ¯å¯¹æºå¨äººçè¿ä¸æ­¥æè¿°ï¼è¡æ¥èªç¶ãAè¡¨ç¤ºè½¬æï¼Cè¡¨ç¤ºç¬¬ä¸æ­¥ï¼Dè¡¨ç¤ºç»æï¼Eè¡¨ç¤ºç¶åï¼é½ä¸ç¬¦åæ­¤å¤å¯¹æºå¨äººè¿è¡æè¿°çåè½ã",
-      "label": "ç­æå¡«ç©º",
+      "explanation": "本题考查段落衔接和上下文逻辑。前一句提到'我对同学Tom制作的机器人'，后一句说'它能自动打扫教室地面'。选项B'它是由回收材料制成的，比如旧瓶子和盒子'正好是对机器人的进一步描述，衔接自然。A表示转折，C表示第一步，D表示结果，E表示然后，都不符合此处对机器人进行描述的功能。",
+      "label": "短文填空",
       "group": "fill_1",
       "group_passage": "Last month, our school held a Science Day. Many students brought their creative inventions to show. I was interested in a robot made by my classmate Tom. (17)______ It could clean the classroom floor automatically.\n\nI asked Tom how he made it. (18)______ He told me he spent two months on it. At first, he faced many technical problems. (19)______ He almost gave up, but his father encouraged him to keep trying. Finally, he solved all the problems successfully.\n\n(20)______ His success inspired me to start my own science project."
     },
@@ -309,8 +309,8 @@
         "E. Then, he started to build the robot body with his father."
       ],
       "correct_answer": "C",
-      "explanation": "æ¬é¢èæ¥é»è¾é¡ºåºåè¿æ¥è¯ãåä¸å¥é®'æé®ä»å¦ä½å¶ä½ç'ï¼åä¸å¥åºè¯¥åç­å¶ä½çç¬¬ä¸æ­¥ãéé¡¹C'ï¼ä»å¨ç½ä¸å­¦ä¹ äºä¸äºåºç¡æºå¨äººææ¯'ä¸­çFirstï¼ï¼å¾å¥½å°å¼å¯äºå¶ä½è¿ç¨çæè¿°ï¼ç¬¦åæ¶é´é¡ºåºãEä¸­çThenï¼ç¶åï¼åºè¯¥ç¨äºæè¿°ç¬¬äºæ­¥ï¼ä¸éåä½ä¸ºå¼å§ã",
-      "label": "ç­æå¡«ç©º",
+      "explanation": "本题考查逻辑顺序和连接词。前一句问'我问他如何制作的'，后一句应该回答制作的第一步。选项C'，他在网上学习了一些基础机器人技术'中的First（）很好地开启了制作过程的描述，符合时间顺序。E中的Then（然后）应该用于描述第二步，不适合作为开始。",
+      "label": "短文填空",
       "group": "fill_1",
       "group_passage": "Last month, our school held a Science Day. Many students brought their creative inventions to show. I was interested in a robot made by my classmate Tom. (17)______ It could clean the classroom floor automatically.\n\nI asked Tom how he made it. (18)______ He told me he spent two months on it. At first, he faced many technical problems. (19)______ He almost gave up, but his father encouraged him to keep trying. Finally, he solved all the problems successfully.\n\n(20)______ His success inspired me to start my own science project."
     },
@@ -328,8 +328,8 @@
         "E. Then, he started to build the robot body with his father."
       ],
       "correct_answer": "A",
-      "explanation": "æ¬é¢èæ¥è½¬æãåä¸å¥è¯´'èµ·åï¼ä»é¢ä¸´è®¸å¤ææ¯é®é¢'ï¼åä¸å¥è¯´'ä»å ä¹è¦æ¾å¼äº'ãéé¡¹A'ç¶èï¼ç¼ç¨é¨åççå¾ææææ§'ä¸­çHoweverï¼ç¶èï¼è¡¨ç¤ºè½¬æï¼è¿ä¸æ­¥è¯´æéå°çå°é¾ï¼ä¸åæç'å ä¹æ¾å¼'å½¢æå æé»è¾ãEéé¡¹è½ç¶ä¹æ¯è¿ç¨æè¿°ï¼ä½æ­¤å¤éè¦å¼ºè°å°é¾èéç»§ç»­æ­¥éª¤ã",
-      "label": "ç­æå¡«ç©º",
+      "explanation": "本题考查转折。前一句说'起初，他面临许多技术问题'，后一句说'他几乎要放弃了'。选项A'然而，编程部分真的很有挑战性'中的However（然而）表示转折，进一步说明遇到的困难，与后文的'几乎放弃'形成因果逻辑。E选项虽然也是过程描述，但此处需要强调困难而非继续步骤。",
+      "label": "短文填空",
       "group": "fill_1",
       "group_passage": "Last month, our school held a Science Day. Many students brought their creative inventions to show. I was interested in a robot made by my classmate Tom. (17)______ It could clean the classroom floor automatically.\n\nI asked Tom how he made it. (18)______ He told me he spent two months on it. At first, he faced many technical problems. (19)______ He almost gave up, but his father encouraged him to keep trying. Finally, he solved all the problems successfully.\n\n(20)______ His success inspired me to start my own science project."
     },
@@ -347,8 +347,8 @@
         "E. Then, he started to build the robot body with his father."
       ],
       "correct_answer": "D",
-      "explanation": "æ¬é¢èæ¥åæ»ç»ãåä¸å¥è¯´'æåï¼ä»æåå°è§£å³äºææé®é¢'ï¼åä¸å¥è¯´'ä»çæåæ¿å±äºæå¼å§èªå·±çç§å­¦é¡¹ç®'ãéé¡¹D'å æ­¤ï¼ä»æä¸ºäºç§å­¦æ¥çææ'ä¸­çAs a resultï¼å æ­¤ãç»æï¼è¡¨ç¤ºï¼æ¿æ¥ä¸æçæåï¼å¹¶å¼åºä¸æçå½±åï¼èµ·å°æ¿ä¸å¯ä¸çä½ç¨ã",
-      "label": "ç­æå¡«ç©º",
+      "explanation": "本题考查和总结。前一句说'最后，他成功地解决了所有问题'，后一句说'他的成功激励了我开始自己的科学项目'。选项D'因此，他成为了科学日的明星'中的As a result（因此、结果）表示，承接上文的成功，并引出下文的影响，起到承上启下的作用。",
+      "label": "短文填空",
       "group": "fill_1",
       "group_passage": "Last month, our school held a Science Day. Many students brought their creative inventions to show. I was interested in a robot made by my classmate Tom. (17)______ It could clean the classroom floor automatically.\n\nI asked Tom how he made it. (18)______ He told me he spent two months on it. At first, he faced many technical problems. (19)______ He almost gave up, but his father encouraged him to keep trying. Finally, he solved all the problems successfully.\n\n(20)______ His success inspired me to start my own science project."
     }
