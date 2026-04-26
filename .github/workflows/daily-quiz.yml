@@ -46,7 +46,7 @@ jobs:
 
       - name: Commit and push quiz
         run: |
-          git add index.html scripts/student_profile.json data/results.json || true
+          git add quiz_data.json scripts/student_profile.json data/results.json || true
           if ! git diff --cached --quiet; then
             DATE=$(date -u -d "+8 hours" +"%Y-%m-%d")
             git commit -m "chore: auto-generated daily quiz for $DATE"

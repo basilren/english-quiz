@@ -1,0 +1,356 @@
+{
+  "date": "2026-04-26",
+  "session_number": 1,
+  "questions": [
+    {
+      "id": 1,
+      "type": "grammar",
+      "knowledge_point": "present_perfect_vs_past_simple",
+      "difficulty": 2,
+      "stem": "â______ you ______ your homework yet?\nâYes. I ______ it an hour ago.",
+      "options": [
+        "A. Did; finish; finished",
+        "B. Have; finished; finished",
+        "C. Have; finished; have finished",
+        "D. Did; finish; have finished"
+      ],
+      "correct_answer": "B",
+      "explanation": "æ¬é¢èæ¥ç°å¨å®ææ¶ä¸ä¸è¬è¿å»æ¶çåºå«ãé®å¥ä¸­çyetï¼å·²ç»ï¼æ¯ç°å¨å®ææ¶çæ å¿è¯ï¼ä¸»è¯­æ¯youï¼æä»¥ç¨Have...finishedï¼ç­å¥ä¸­çan hour agoï¼ä¸å°æ¶åï¼æ¯ä¸è¬è¿å»æ¶çæ å¿ï¼æä»¥ç¨finishedãè§£é¢æå·§ï¼çå°yet, already, since, forç¨ç°å¨å®ææ¶ï¼çå°yesterday, ago, last weekç¨ä¸è¬è¿å»æ¶ã",
+      "label": "è¯­æ³é¢"
+    },
+    {
+      "id": 2,
+      "type": "grammar",
+      "knowledge_point": "relative_clause_who_which",
+      "difficulty": 2,
+      "stem": "The boy ______ is wearing a blue jacket is my cousin, and the book ______ is on the desk is his.",
+      "options": [
+        "A. who; which",
+        "B. which; who",
+        "C. who; who",
+        "D. which; which"
+      ],
+      "correct_answer": "A",
+      "explanation": "æ¬é¢èæ¥å®è¯­ä»å¥ä»£è¯whoåwhichçç¨æ³ãè¯boyæäººï¼ä»£è¯ç¨whoæthatï¼è¯bookæç©ï¼ä»£è¯ç¨whichæthatãå£è¯ï¼è¯æ¯äººç¨whoï¼è¯æ¯ç©ç¨whichï¼thatçå¯æ¿ã",
+      "label": "è¯­æ³é¢"
+    },
+    {
+      "id": 3,
+      "type": "grammar",
+      "knowledge_point": "passive_voice",
+      "difficulty": 2,
+      "stem": "The new school library ______ next month. It will be the largest in our city.",
+      "options": [
+        "A. will open",
+        "B. will be opened",
+        "C. is opening",
+        "D. opens"
+      ],
+      "correct_answer": "B",
+      "explanation": "æ¬é¢èæ¥ä¸è¬å°æ¥æ¶çè¢«å¨è¯­æãä¸»è¯­libraryï¼å¾ä¹¦é¦ï¼æ¯å¨ä½openï¼å¼æ¾ï¼çæ¿åï¼æä»¥ç¨è¢«å¨è¯­æï¼æ¶é´ç¶è¯­next monthè¡¨ç¤ºå°æ¥ï¼æä»¥ç¨will be openedãç»æï¼will be + è¿å»åè¯ãAåCæ¯ä¸»å¨è¯­æï¼Dæ¯ä¸è¬ç°å¨æ¶ï¼é½ä¸ç¬¦åã",
+      "label": "è¯­æ³é¢"
+    },
+    {
+      "id": 4,
+      "type": "grammar",
+      "knowledge_point": "object_clause",
+      "difficulty": 3,
+      "stem": "I wonder ______ Tom ______ to the party tomorrow. If he comes, I will be very happy.",
+      "options": [
+        "A. if; will come",
+        "B. whether; comes",
+        "C. that; will come",
+        "D. if; comes"
+      ],
+      "correct_answer": "A",
+      "explanation": "æ¬é¢èæ¥å®¾è¯­ä»å¥çå¼å¯¼è¯åæ¶æãwonderï¼æ³ç¥éï¼åé¢æ¥if/whetherå¼å¯¼çå®¾è¯­ä»å¥ï¼è¡¨ç¤º\"æ¯å¦\"ï¼æé¤Cï¼tomorrowè¡¨æä»å¥ç¨ä¸è¬å°æ¥æ¶will comeï¼èifå¼å¯¼çæ¡ä»¶ç¶è¯­ä»å¥æç¨\"ä¸»å°ä»ç°\"ï¼è¿éæ¯å®¾è¯­ä»å¥ï¼ä¸åæ­¤éå¶ãæ³¨æåºåifå¼å¯¼å®¾è¯­ä»å¥ï¼æ¯å¦ï¼åæ¡ä»¶ç¶è¯­ä»å¥ï¼å¦æï¼çä¸åç¨æ³ã",
+      "label": "è¯­æ³é¢"
+    },
+    {
+      "id": 5,
+      "type": "vocabulary",
+      "knowledge_point": "word_guessing_context",
+      "difficulty": 2,
+      "stem": "The old building is so fragile that we must be careful not to shake it. The underlined word 'fragile' probably means ______.",
+      "options": [
+        "A. strong and solid",
+        "B. beautiful and colorful",
+        "C. easily broken or damaged",
+        "D. very tall and big"
+      ],
+      "correct_answer": "C",
+      "explanation": "æ¬é¢èæ¥æ ¹æ®ä¸ä¸æçæµè¯ä¹ãæ ¹æ®ååå¥'we must be careful not to shake it'ï¼å°å¿ä¸è¦ææå®ï¼å¯ä»¥æ¨æ­ï¼è¿åº§å»ºç­åºè¯¥æ¯'èå¼±çãæç¢ç'ãAæä¸º'ååº'ï¼Bæä¸º'ç¾ä¸½'ï¼Dæä¸º'é«å¤§'ï¼é½ä¸ç¬¦åè¯­å¢ãè§£é¢æå·§ï¼éè¿ãåä¹è¯ãåä¹è¯æè§£éè¯´ææ¥çè¯ã",
+      "label": "è¯æ±é¢"
+    },
+    {
+      "id": 6,
+      "type": "vocabulary",
+      "knowledge_point": "prefix_suffix",
+      "difficulty": 2,
+      "stem": "If you ______ the 'un' to the word 'happy', you get a new word with the opposite meaning.",
+      "options": [
+        "A. add",
+        "B. subtract",
+        "C. divide",
+        "D. multiply"
+      ],
+      "correct_answer": "A",
+      "explanation": "æ¬é¢èæ¥æè¯æ³åç¼ãå¥æï¼å¦æä½ ç»happyè¿ä¸ªè¯'å ä¸'åç¼unï¼ä½ ä¼å¾å°ä¸ä¸ªææç¸åçæ°è¯ãadd...to...æä¸º'æ...å å°...'ï¼subtractæ¯'åå»'ï¼divideæ¯'é¤'ï¼multiplyæ¯'ä¹'ãun-æ¯å¸¸è§å¦å®åç¼ï¼å¦unhappy, unhealthy, unfairã",
+      "label": "è¯æ±é¢"
+    },
+    {
+      "id": 7,
+      "type": "vocabulary",
+      "knowledge_point": "phrasal_verbs",
+      "difficulty": 2,
+      "stem": "My grandmother is ill, so I need to ______ her at home this weekend.",
+      "options": [
+        "A. look after",
+        "B. turn down",
+        "C. give up",
+        "D. take off"
+      ],
+      "correct_answer": "A",
+      "explanation": "æ¬é¢èæ¥å¨è¯ç­è¯­è¾¨æãlook afteræä¸º''ï¼turn downæä¸º'è°ä½ï¼é³éï¼'æ'æç»'ï¼give upæä¸º'æ¾å¼'ï¼take offæä¸º'èµ·é£'æ'è±ä¸'ãæ ¹æ®ååå¥'å¥¶å¥¶'ï¼å¯ç¥éè¦''å¥¹ãè§£é¢æå·§ï¼ç§¯ç´¯å¸¸è§å¨è¯ç­è¯­ï¼ç»åè¯­å¢çè§£ã",
+      "label": "è¯æ±é¢"
+    },
+    {
+      "id": 8,
+      "type": "cloze",
+      "knowledge_point": "cloze_general",
+      "difficulty": 2,
+      "stem": "(8)______",
+      "options": [
+        "A. builds",
+        "B. was built",
+        "C. built",
+        "D. is building"
+      ],
+      "correct_answer": "B",
+      "explanation": "æ¬é¢èæ¥è¢«å¨è¯­æåæ¶æãä¸»è¯­'a new vertical garden'ï¼åç´è±å­ï¼æ¯å¨ä½buildçæ¿åï¼åºç¨è¢«å¨è¯­æï¼æ¶é´ç¶è¯­Last yearè¡¨æç¨ä¸è¬è¿å»æ¶ï¼æä»¥éwas builtãç»æï¼was/were + è¿å»åè¯ãAæ¯ä¸»å¨è¯­æä¸è¬ç°å¨æ¶ï¼Cæ¯ä¸»å¨è¯­æè¿å»å¼ï¼ç¼ºå°wasï¼ï¼Dæ¯ç°å¨è¿è¡æ¶ã",
+      "label": "å®å½¢å¡«ç©º",
+      "group": "cloze_1",
+      "group_passage": "Many cities around the world are now building vertical gardens on the walls of tall buildings. These green walls not only make the city more beautiful but also help improve the air quality.\n\nLast year, a new vertical garden (8)______ on the east side of our city. It covers an area of 2,000 square meters and (9)______ over 5,000 different plants. The garden was designed by a famous Italian architect who wanted to bring nature back to urban areas.\n\nThe maintenance of the garden is quite special. Unlike traditional gardens, this one uses an automatic watering system. Water (10)______ to the plants through small pipes hidden behind the wall. This system saves about 30% of water compared to normal gardening methods.\n\nLocal residents love this new landmark. \"When I look at the green wall from my window, I feel relaxed,\" said Mrs. Wang, who lives nearby. The garden has also attracted many birds and insects, and it (11)______ the local biodiversity significantly.\n\nCity planners say more vertical gardens (12)______ in the future to make our city greener and more sustainable."
+    },
+    {
+      "id": 9,
+      "type": "cloze",
+      "knowledge_point": "cloze_vocabulary",
+      "difficulty": 2,
+      "stem": "(9)______",
+      "options": [
+        "A. includes",
+        "B. invents",
+        "C. produces",
+        "D. discovers"
+      ],
+      "correct_answer": "A",
+      "explanation": "æ¬é¢èæ¥å¨è¯è¯ä¹è¾¨æãincludeæä¸º'ã'ï¼inventæä¸º'åæ'ï¼produceæä¸º'çäº§'ï¼discoveræä¸º'åç°'ãå¥æï¼å®å å°2000å¹³æ¹ç±³ï¼5000å¤ç§ä¸åçæ¤ç©ãè±å­''æ¤ç©ï¼æä»¥éAã",
+      "label": "å®å½¢å¡«ç©º",
+      "group": "cloze_1",
+      "group_passage": "Many cities around the world are now building vertical gardens on the walls of tall buildings. These green walls not only make the city more beautiful but also help improve the air quality.\n\nLast year, a new vertical garden (8)______ on the east side of our city. It covers an area of 2,000 square meters and (9)______ over 5,000 different plants. The garden was designed by a famous Italian architect who wanted to bring nature back to urban areas.\n\nThe maintenance of the garden is quite special. Unlike traditional gardens, this one uses an automatic watering system. Water (10)______ to the plants through small pipes hidden behind the wall. This system saves about 30% of water compared to normal gardening methods.\n\nLocal residents love this new landmark. \"When I look at the green wall from my window, I feel relaxed,\" said Mrs. Wang, who lives nearby. The garden has also attracted many birds and insects, and it (11)______ the local biodiversity significantly.\n\nCity planners say more vertical gardens (12)______ in the future to make our city greener and more sustainable."
+    },
+    {
+      "id": 10,
+      "type": "cloze",
+      "knowledge_point": "passive_voice",
+      "difficulty": 2,
+      "stem": "(10)______",
+      "options": [
+        "A. sends",
+        "B. is sent",
+        "C. sent",
+        "D. was sending"
+      ],
+      "correct_answer": "B",
+      "explanation": "æ¬é¢èæ¥ä¸è¬ç°å¨æ¶çè¢«å¨è¯­æãä¸»è¯­Wateræ¯å¨ä½sendï¼è¾éï¼çæ¿åï¼åºç¨è¢«å¨è¯­æï¼è¿éæè¿°çæ¯å®¢è§äºå®åç³»ç»çå¸¸è§è¿ä½ï¼ç¨ä¸è¬ç°å¨æ¶ï¼æä»¥éis sentãç»æï¼am/is/are + è¿å»åè¯ãAæ¯ä¸»å¨è¯­æï¼Cç¼ºå°beå¨è¯ï¼Dæ¯è¿å»è¿è¡æ¶ä¸»å¨è¯­æã",
+      "label": "å®å½¢å¡«ç©º",
+      "group": "cloze_1",
+      "group_passage": "Many cities around the world are now building vertical gardens on the walls of tall buildings. These green walls not only make the city more beautiful but also help improve the air quality.\n\nLast year, a new vertical garden (8)______ on the east side of our city. It covers an area of 2,000 square meters and (9)______ over 5,000 different plants. The garden was designed by a famous Italian architect who wanted to bring nature back to urban areas.\n\nThe maintenance of the garden is quite special. Unlike traditional gardens, this one uses an automatic watering system. Water (10)______ to the plants through small pipes hidden behind the wall. This system saves about 30% of water compared to normal gardening methods.\n\nLocal residents love this new landmark. \"When I look at the green wall from my window, I feel relaxed,\" said Mrs. Wang, who lives nearby. The garden has also attracted many birds and insects, and it (11)______ the local biodiversity significantly.\n\nCity planners say more vertical gardens (12)______ in the future to make our city greener and more sustainable."
+    },
+    {
+      "id": 11,
+      "type": "cloze",
+      "knowledge_point": "cloze_vocabulary",
+      "difficulty": 3,
+      "stem": "(11)______",
+      "options": [
+        "A. makes",
+        "B. changes",
+        "C. improves",
+        "D. protects"
+      ],
+      "correct_answer": "C",
+      "explanation": "æ¬é¢èæ¥å¨è¯è¯ä¹è¾¨æåè¯­å¢çè§£ãmakeæä¸º'ä½¿ãå¶ä½'ï¼changeæä¸º'æ¹å'ï¼improveæä¸º'æ¹åãæé«'ï¼protectæä¸º'ä¿æ¤'ãå¥æï¼è±å­ä¹å¸å¼äºè®¸å¤é¸ç±»åæè«ï¼æ¾èæ¹åäºå½å°ççç©å¤æ ·æ§ãimprove biodiversityï¼æ¹åçç©å¤æ ·æ§ï¼æ¯æä½³ï¼è¡¨ç¤ºè®©çç©å¤æ ·æ§åå¾æ´å¥½ã",
+      "label": "å®å½¢å¡«ç©º",
+      "group": "cloze_1",
+      "group_passage": "Many cities around the world are now building vertical gardens on the walls of tall buildings. These green walls not only make the city more beautiful but also help improve the air quality.\n\nLast year, a new vertical garden (8)______ on the east side of our city. It covers an area of 2,000 square meters and (9)______ over 5,000 different plants. The garden was designed by a famous Italian architect who wanted to bring nature back to urban areas.\n\nThe maintenance of the garden is quite special. Unlike traditional gardens, this one uses an automatic watering system. Water (10)______ to the plants through small pipes hidden behind the wall. This system saves about 30% of water compared to normal gardening methods.\n\nLocal residents love this new landmark. \"When I look at the green wall from my window, I feel relaxed,\" said Mrs. Wang, who lives nearby. The garden has also attracted many birds and insects, and it (11)______ the local biodiversity significantly.\n\nCity planners say more vertical gardens (12)______ in the future to make our city greener and more sustainable."
+    },
+    {
+      "id": 12,
+      "type": "cloze",
+      "knowledge_point": "passive_voice",
+      "difficulty": 3,
+      "stem": "(12)______",
+      "options": [
+        "A. will build",
+        "B. are built",
+        "C. will be built",
+        "D. were built"
+      ],
+      "correct_answer": "C",
+      "explanation": "æ¬é¢èæ¥ä¸è¬å°æ¥æ¶çè¢«å¨è¯­æãä¸»è¯­more vertical gardensæ¯å¨ä½buildçæ¿åï¼åºç¨è¢«å¨è¯­æï¼æ¶é´ç¶è¯­in the futureè¡¨æç¨ä¸è¬å°æ¥æ¶ï¼æä»¥éwill be builtãç»æï¼will be + è¿å»åè¯ãAæ¯ä¸»å¨è¯­æï¼Bæ¯ä¸è¬ç°å¨æ¶è¢«å¨ï¼Dæ¯ä¸è¬è¿å»æ¶è¢«å¨ï¼é½ä¸ç¬¦åin the futureçæ¶é´è¦æ±ã",
+      "label": "å®å½¢å¡«ç©º",
+      "group": "cloze_1",
+      "group_passage": "Many cities around the world are now building vertical gardens on the walls of tall buildings. These green walls not only make the city more beautiful but also help improve the air quality.\n\nLast year, a new vertical garden (8)______ on the east side of our city. It covers an area of 2,000 square meters and (9)______ over 5,000 different plants. The garden was designed by a famous Italian architect who wanted to bring nature back to urban areas.\n\nThe maintenance of the garden is quite special. Unlike traditional gardens, this one uses an automatic watering system. Water (10)______ to the plants through small pipes hidden behind the wall. This system saves about 30% of water compared to normal gardening methods.\n\nLocal residents love this new landmark. \"When I look at the green wall from my window, I feel relaxed,\" said Mrs. Wang, who lives nearby. The garden has also attracted many birds and insects, and it (11)______ the local biodiversity significantly.\n\nCity planners say more vertical gardens (12)______ in the future to make our city greener and more sustainable."
+    },
+    {
+      "id": 13,
+      "type": "reading",
+      "knowledge_point": "detail",
+      "difficulty": 2,
+      "stem": "What was the main problem the students wanted to solve with their invention?",
+      "options": [
+        "A. The trash bin was too small for the dining hall.",
+        "B. Students didn't want to touch the bin lid with their hands.",
+        "C. The old bins were not environmentally friendly.",
+        "D. The dining hall needed more trash bins."
+      ],
+      "correct_answer": "B",
+      "explanation": "æ¬é¢æ¯ç»èçè§£é¢ãæ ¹æ®æç« ç¬¬äºæ®µç¬¬äºå¥'We noticed that many students didn't want to touch the bin lid with their hands after eating'å¯ç¥ï¼å­¦çä»¬æ³¨æå°å¾å¤åå­¦ä¸æ³å¨åå®é¥­åç¨æè§¦æ¸åå¾æ¡¶çå­ï¼è¿å°±æ¯ä»ä»¬æ³è¦è§£å³çé®é¢ãAãCãDéé¡¹å¨æä¸­åæªæåæä¸åæä¸ç¬¦ãè§£é¢æå·§ï¼å¸¦çé®é¢æ¾ï¼å®ä½åæå¥å­ã",
+      "label": "-ç»èçè§£",
+      "group": "reading_1",
+      "group_passage": "Young Inventors Change School Life\n\nHave you ever dreamed of inventing something useful? At Green Middle School, students are encouraged to turn their creative ideas into real projects during the annual Science Week.\n\nLast month, three eighth-grade students surprised everyone with their inventionâa smart trash bin. \"We noticed that many students didn't want to touch the bin lid with their hands after eating,\" explained Li Wei, the team leader. Their design uses a simple sensor. When someone puts their hand near the bin, the lid opens automatically. It is powered by a small solar panel on top, making it environmentally friendly.\n\nThe invention took them three weeks to complete. They faced many challenges, especially with the sensor sensitivity. \"At first, the lid opened even when people just walked past,\" laughed Zhang Ming, another team member. After many tests and adjustments, they finally made it work perfectly.\n\nTeachers were impressed not just by the technology, but by the students' problem-solving skills. \"They learned more from this hands-on experience than from textbooks,\" said their science teacher, Mr. Liu. The smart bin has now been placed in the school dining hall, and the team hopes to improve it further by adding a compression system to save space.\n\nThe school plans to display the best inventions at the city youth center next semester, giving these young creators a chance to share their ideas with a wider audience."
+    },
+    {
+      "id": 14,
+      "type": "reading",
+      "knowledge_point": "inference",
+      "difficulty": 3,
+      "stem": "What can we infer from the passage about the students?",
+      "options": [
+        "A. They succeeded in making the invention without any difficulties.",
+        "B. They are only interested in winning prizes and becoming famous.",
+        "C. They improved their problem-solving skills through the project.",
+        "D. They spent only one week completing the invention."
+      ],
+      "correct_answer": "C",
+      "explanation": "æ¬é¢æ¯æ¨çå¤æ­é¢ãæ ¹æ®ç¬¬åæ®µç¬¬ä¸å¥'Teachers were impressed not just by the technology, but by the students' problem-solving skills'ä»¥å'They learned more from this hands-on experience than from textbooks'å¯ä»¥æ¨æ­ï¼å­¦çéè¿è¿ä¸ªé¡¹ç®æé«äºè§£å³é®é¢çè½åãAä¸ç¬¬ä¸æ®µæå°çfaced many challengesçç¾ï¼Bæä¸­æªæåä¸ä¸ææä¸ç¬¦ï¼Dä¸ç¬¬ä¸æ®µç¬¬ä¸å¥took them three weeksçç¾ãè§£é¢æå·§ï¼æ¨çé¢è¦åºäºåæä¿¡æ¯åçæ¨æ­ï¼ä¸è½ä¸»è§èæ­ï¼ä¹ä¸è½éä¸åæçç¾çéé¡¹ã",
+      "label": "-æ¨çå¤æ­",
+      "group": "reading_1",
+      "group_passage": "Young Inventors Change School Life\n\nHave you ever dreamed of inventing something useful? At Green Middle School, students are encouraged to turn their creative ideas into real projects during the annual Science Week.\n\nLast month, three eighth-grade students surprised everyone with their inventionâa smart trash bin. \"We noticed that many students didn't want to touch the bin lid with their hands after eating,\" explained Li Wei, the team leader. Their design uses a simple sensor. When someone puts their hand near the bin, the lid opens automatically. It is powered by a small solar panel on top, making it environmentally friendly.\n\nThe invention took them three weeks to complete. They faced many challenges, especially with the sensor sensitivity. \"At first, the lid opened even when people just walked past,\" laughed Zhang Ming, another team member. After many tests and adjustments, they finally made it work perfectly.\n\nTeachers were impressed not just by the technology, but by the students' problem-solving skills. \"They learned more from this hands-on experience than from textbooks,\" said their science teacher, Mr. Liu. The smart bin has now been placed in the school dining hall, and the team hopes to improve it further by adding a compression system to save space.\n\nThe school plans to display the best inventions at the city youth center next semester, giving these young creators a chance to share their ideas with a wider audience."
+    },
+    {
+      "id": 15,
+      "type": "reading",
+      "knowledge_point": "word_guessing",
+      "difficulty": 2,
+      "stem": "What does the underlined word 'compression' in Paragraph 4 probably mean?",
+      "options": [
+        "A. Making something smaller in size.",
+        "B. Collecting things together.",
+        "C. Cleaning something thoroughly.",
+        "D. Moving something quickly."
+      ],
+      "correct_answer": "A",
+      "explanation": "æ¬é¢æ¯è¯ä¹çæµé¢ãæ ¹æ®ç¬¬åæ®µæåä¸å¥'adding a compression system to save space'ï¼å¢å ä¸ä¸ªcompressionç³»ç»æ¥èçç©ºé´ï¼å¯ç¥ï¼è½å¤èçç©ºé´çåºè¯¥æ¯'åç¼©'ç³»ç»ï¼å³ä½¿ç©ä½ä½ç§¯åå°ãBæä¸º'æ¶é'ï¼Cæä¸º''ï¼Dæä¸º'å¿«éç§»å¨'ï¼é½ä¸è½ç´æ¥å¸¦æ¥èçç©ºé´çææãè§£é¢æå·§ï¼éè¿ä¸ä¸æä¸­çç®çç¶è¯­to save spaceæ¥æ¨æ­è¯ä¹ã",
+      "label": "-è¯ä¹çæµ",
+      "group": "reading_1",
+      "group_passage": "Young Inventors Change School Life\n\nHave you ever dreamed of inventing something useful? At Green Middle School, students are encouraged to turn their creative ideas into real projects during the annual Science Week.\n\nLast month, three eighth-grade students surprised everyone with their inventionâa smart trash bin. \"We noticed that many students didn't want to touch the bin lid with their hands after eating,\" explained Li Wei, the team leader. Their design uses a simple sensor. When someone puts their hand near the bin, the lid opens automatically. It is powered by a small solar panel on top, making it environmentally friendly.\n\nThe invention took them three weeks to complete. They faced many challenges, especially with the sensor sensitivity. \"At first, the lid opened even when people just walked past,\" laughed Zhang Ming, another team member. After many tests and adjustments, they finally made it work perfectly.\n\nTeachers were impressed not just by the technology, but by the students' problem-solving skills. \"They learned more from this hands-on experience than from textbooks,\" said their science teacher, Mr. Liu. The smart bin has now been placed in the school dining hall, and the team hopes to improve it further by adding a compression system to save space.\n\nThe school plans to display the best inventions at the city youth center next semester, giving these young creators a chance to share their ideas with a wider audience."
+    },
+    {
+      "id": 16,
+      "type": "reading",
+      "knowledge_point": "main_idea",
+      "difficulty": 3,
+      "stem": "What is the best title for the passage?",
+      "options": [
+        "A. How to Make a Smart Trash Bin",
+        "B. The Importance of Science Weeks",
+        "C. Young Inventors Change School Life",
+        "D. Solar Power in School Buildings"
+      ],
+      "correct_answer": "C",
+      "explanation": "æ¬é¢æ¯ä¸»æ¨å¤§æé¢ï¼æä½³æ é¢ï¼ãæç« ä¸»è¦è®²è¿°äºä¸ä¸ªå­¦çåææºè½åå¾æ¡¶ï¼å±ç¤ºäºå¹´è½»åæå®¶å¦ä½éè¿åæ°æ¹åæ ¡å­çæ´»ãAéé¡¹åªæ¶ååæè¿ç¨ï¼è¿äºçé¢ï¼Béé¡¹å¼ºè°ç§å­¦å¨çéè¦æ§ï¼ä½æç« éç¹æ¯å­¦ççåæï¼Déé¡¹åªæå°å¤ªé³è½ï¼æ¯ç»èèéä¸»æ¨ãCéé¡¹'å¹´è½»åæå®¶æ¹åæ ¡å­çæ´»'æè½æ¦æ¬ä¸»æ¨ãè§£é¢æå·§ï¼æä½³æ é¢è¦è½æ¦æ¬ï¼ä¸è½ä»¥åæ¦ï¼éå¸¸ä¸æç« å¼å¤´æç»å°¾çä¸»é¢å¥ã",
+      "label": "-ä¸»æ¨å¤§æ",
+      "group": "reading_1",
+      "group_passage": "Young Inventors Change School Life\n\nHave you ever dreamed of inventing something useful? At Green Middle School, students are encouraged to turn their creative ideas into real projects during the annual Science Week.\n\nLast month, three eighth-grade students surprised everyone with their inventionâa smart trash bin. \"We noticed that many students didn't want to touch the bin lid with their hands after eating,\" explained Li Wei, the team leader. Their design uses a simple sensor. When someone puts their hand near the bin, the lid opens automatically. It is powered by a small solar panel on top, making it environmentally friendly.\n\nThe invention took them three weeks to complete. They faced many challenges, especially with the sensor sensitivity. \"At first, the lid opened even when people just walked past,\" laughed Zhang Ming, another team member. After many tests and adjustments, they finally made it work perfectly.\n\nTeachers were impressed not just by the technology, but by the students' problem-solving skills. \"They learned more from this hands-on experience than from textbooks,\" said their science teacher, Mr. Liu. The smart bin has now been placed in the school dining hall, and the team hopes to improve it further by adding a compression system to save space.\n\nThe school plans to display the best inventions at the city youth center next semester, giving these young creators a chance to share their ideas with a wider audience."
+    },
+    {
+      "id": 17,
+      "type": "fill",
+      "knowledge_point": "sentence_fill",
+      "difficulty": 2,
+      "stem": "(17)______",
+      "options": [
+        "A. However, the programming part was really challenging.",
+        "B. It was made of recycled materials like old bottles and boxes.",
+        "C. First, he learned some basic robotics online.",
+        "D. As a result, he became the star of the Science Day.",
+        "E. Then, he started to build the robot body with his father."
+      ],
+      "correct_answer": "B",
+      "explanation": "æ¬é¢èæ¥æ®µè½è¡æ¥åä¸ä¸æé»è¾ãåä¸å¥æå°'æå¯¹åå­¦Tomå¶ä½çæºå¨äºº'ï¼åä¸å¥è¯´'å®è½èªå¨ææ«æå®¤å°é¢'ãéé¡¹B'å®æ¯ç±åæ¶ææå¶æçï¼æ¯å¦æ§ç¶å­åçå­'æ­£å¥½æ¯å¯¹æºå¨äººçè¿ä¸æ­¥æè¿°ï¼è¡æ¥èªç¶ãAè¡¨ç¤ºè½¬æï¼Cè¡¨ç¤ºç¬¬ä¸æ­¥ï¼Dè¡¨ç¤ºç»æï¼Eè¡¨ç¤ºç¶åï¼é½ä¸ç¬¦åæ­¤å¤å¯¹æºå¨äººè¿è¡æè¿°çåè½ã",
+      "label": "ç­æå¡«ç©º",
+      "group": "fill_1",
+      "group_passage": "Last month, our school held a Science Day. Many students brought their creative inventions to show. I was interested in a robot made by my classmate Tom. (17)______ It could clean the classroom floor automatically.\n\nI asked Tom how he made it. (18)______ He told me he spent two months on it. At first, he faced many technical problems. (19)______ He almost gave up, but his father encouraged him to keep trying. Finally, he solved all the problems successfully.\n\n(20)______ His success inspired me to start my own science project."
+    },
+    {
+      "id": 18,
+      "type": "fill",
+      "knowledge_point": "sentence_fill",
+      "difficulty": 2,
+      "stem": "(18)______",
+      "options": [
+        "A. However, the programming part was really challenging.",
+        "B. It was made of recycled materials like old bottles and boxes.",
+        "C. First, he learned some basic robotics online.",
+        "D. As a result, he became the star of the Science Day.",
+        "E. Then, he started to build the robot body with his father."
+      ],
+      "correct_answer": "C",
+      "explanation": "æ¬é¢èæ¥é»è¾é¡ºåºåè¿æ¥è¯ãåä¸å¥é®'æé®ä»å¦ä½å¶ä½ç'ï¼åä¸å¥åºè¯¥åç­å¶ä½çç¬¬ä¸æ­¥ãéé¡¹C'ï¼ä»å¨ç½ä¸å­¦ä¹ äºä¸äºåºç¡æºå¨äººææ¯'ä¸­çFirstï¼ï¼å¾å¥½å°å¼å¯äºå¶ä½è¿ç¨çæè¿°ï¼ç¬¦åæ¶é´é¡ºåºãEä¸­çThenï¼ç¶åï¼åºè¯¥ç¨äºæè¿°ç¬¬äºæ­¥ï¼ä¸éåä½ä¸ºå¼å§ã",
+      "label": "ç­æå¡«ç©º",
+      "group": "fill_1",
+      "group_passage": "Last month, our school held a Science Day. Many students brought their creative inventions to show. I was interested in a robot made by my classmate Tom. (17)______ It could clean the classroom floor automatically.\n\nI asked Tom how he made it. (18)______ He told me he spent two months on it. At first, he faced many technical problems. (19)______ He almost gave up, but his father encouraged him to keep trying. Finally, he solved all the problems successfully.\n\n(20)______ His success inspired me to start my own science project."
+    },
+    {
+      "id": 19,
+      "type": "fill",
+      "knowledge_point": "sentence_fill",
+      "difficulty": 3,
+      "stem": "(19)______",
+      "options": [
+        "A. However, the programming part was really challenging.",
+        "B. It was made of recycled materials like old bottles and boxes.",
+        "C. First, he learned some basic robotics online.",
+        "D. As a result, he became the star of the Science Day.",
+        "E. Then, he started to build the robot body with his father."
+      ],
+      "correct_answer": "A",
+      "explanation": "æ¬é¢èæ¥è½¬æãåä¸å¥è¯´'èµ·åï¼ä»é¢ä¸´è®¸å¤ææ¯é®é¢'ï¼åä¸å¥è¯´'ä»å ä¹è¦æ¾å¼äº'ãéé¡¹A'ç¶èï¼ç¼ç¨é¨åççå¾ææææ§'ä¸­çHoweverï¼ç¶èï¼è¡¨ç¤ºè½¬æï¼è¿ä¸æ­¥è¯´æéå°çå°é¾ï¼ä¸åæç'å ä¹æ¾å¼'å½¢æå æé»è¾ãEéé¡¹è½ç¶ä¹æ¯è¿ç¨æè¿°ï¼ä½æ­¤å¤éè¦å¼ºè°å°é¾èéç»§ç»­æ­¥éª¤ã",
+      "label": "ç­æå¡«ç©º",
+      "group": "fill_1",
+      "group_passage": "Last month, our school held a Science Day. Many students brought their creative inventions to show. I was interested in a robot made by my classmate Tom. (17)______ It could clean the classroom floor automatically.\n\nI asked Tom how he made it. (18)______ He told me he spent two months on it. At first, he faced many technical problems. (19)______ He almost gave up, but his father encouraged him to keep trying. Finally, he solved all the problems successfully.\n\n(20)______ His success inspired me to start my own science project."
+    },
+    {
+      "id": 20,
+      "type": "fill",
+      "knowledge_point": "sentence_fill",
+      "difficulty": 2,
+      "stem": "(20)______",
+      "options": [
+        "A. However, the programming part was really challenging.",
+        "B. It was made of recycled materials like old bottles and boxes.",
+        "C. First, he learned some basic robotics online.",
+        "D. As a result, he became the star of the Science Day.",
+        "E. Then, he started to build the robot body with his father."
+      ],
+      "correct_answer": "D",
+      "explanation": "æ¬é¢èæ¥åæ»ç»ãåä¸å¥è¯´'æåï¼ä»æåå°è§£å³äºææé®é¢'ï¼åä¸å¥è¯´'ä»çæåæ¿å±äºæå¼å§èªå·±çç§å­¦é¡¹ç®'ãéé¡¹D'å æ­¤ï¼ä»æä¸ºäºç§å­¦æ¥çææ'ä¸­çAs a resultï¼å æ­¤ãç»æï¼è¡¨ç¤ºï¼æ¿æ¥ä¸æçæåï¼å¹¶å¼åºä¸æçå½±åï¼èµ·å°æ¿ä¸å¯ä¸çä½ç¨ã",
+      "label": "ç­æå¡«ç©º",
+      "group": "fill_1",
+      "group_passage": "Last month, our school held a Science Day. Many students brought their creative inventions to show. I was interested in a robot made by my classmate Tom. (17)______ It could clean the classroom floor automatically.\n\nI asked Tom how he made it. (18)______ He told me he spent two months on it. At first, he faced many technical problems. (19)______ He almost gave up, but his father encouraged him to keep trying. Finally, he solved all the problems successfully.\n\n(20)______ His success inspired me to start my own science project."
+    }
+  ]
+}

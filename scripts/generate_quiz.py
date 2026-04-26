@@ -34,6 +34,7 @@ TIMEOUT = 300  # K2 生成 20 道题较慢，给足时间
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 INDEX_HTML = REPO_ROOT / "index.html"
+QUIZ_DATA_JSON = REPO_ROOT / "quiz_data.json"
 DATA_JSON = REPO_ROOT / "data" / "results.json"
 PROFILE_JSON = REPO_ROOT / "scripts" / "student_profile.json"
 KB_MD = REPO_ROOT / "scripts" / "knowledge_base.md"
@@ -114,6 +115,8 @@ def build_prompt(student: dict, kb: str, errors: list, today: str, session: int)
 
     prompt = f"""你是一位资深的初中英语教师，正在为初二学生 Bosco 生成每日英语练习题。
 
+**重要提示：你必须生成 EXACTLY 20 道题，不多不少！**
+
 ## 学生档案
 ```json
 {json.dumps(student, ensure_ascii=False, indent=2)}
@@ -169,12 +172,14 @@ def build_prompt(student: dict, kb: str, errors: list, today: str, session: int)
 - stem 只显示题号，如 "(17)___"
 - 重点：选项必须是**完整的句子或连接词**（如 However / Then / In addition / As a result / On the other hand），考查段落衔接和逻辑关系，不能是单词/词组变形
 
-### 题目分布
-- 语法选择：3-4 题
-- 词汇：2-3 题
-- 完形填空：4-5 题（共用1篇）
-- 阅读理解：4 题（共用1篇）
-- 短文填空：4 题（共用1篇）
+### 题目分布（确保总数为 20 题）
+- 语法选择：4 题
+- 词汇：3 题  
+- 完形填空：5 题（共用1篇短文）
+- 阅读理解：4 题（共用1篇短文）
+- 选句子填空：4 题（共用1篇短文）
+
+**重要：** 请严格确保总题数为 20 题（4+3+5+4+4=20）。
 
 ### 其他要求
 1. 题目要贴合初二中考难度，避免过难或过简单
@@ -183,6 +188,11 @@ def build_prompt(student: dict, kb: str, errors: list, today: str, session: int)
 4. 讲解要详细，用中文，适合学生自学理解
 5. 选项要有一定干扰性，不能太明显
 6. 所有文本使用 UTF-8 编码，不要有特殊不可见字符
+
+### 最后提醒
+1. **必须生成恰好 20 道题**（4语法 + 3词汇 + 5完形 + 4阅读 + 4选句子填空）
+2. 每道题必须有完整的字段
+3. 完形、阅读、选句子填空必须共用短文
 
 ### 输出格式
 只输出纯 JSON，不要任何 markdown 代码块标记（不要 ```json），不要任何解释性文字，直接输出合法的 JSON 字符串。
@@ -323,6 +333,9 @@ def validate_quiz(quiz: dict) -> bool:
     questions = quiz.get("questions", [])
     if len(questions) != 20:
         log(f"验证失败: 题目数量不是 20，实际 {len(questions)}")
+        # 输出每道题的 id 和类型，便于调试
+        for i, q in enumerate(questions):
+            log(f"  第{i+1}: id={q.get('id', 'N/A')}, type={q.get('type', 'N/A')}")
         return False
 
     required_q = {"id", "type", "knowledge_point", "difficulty", "stem", "options", "correct_answer", "explanation", "label"}
@@ -337,61 +350,36 @@ def validate_quiz(quiz: dict) -> bool:
             log(f"验证失败: 第 {i+1} 题(fill)选项数量不是 5")
             return False
 
+    # 检查 id 是否从 1 到 20 连续（允许不连续但警告）
+    ids = [q.get("id") for q in questions]
+    if sorted(ids) != list(range(1, 21)):
+        log(f"警告: id 不连续或重复: {ids}")
+    else:
+        log("id 连续 ✓")
+
     log("题目格式验证通过 ✓")
     return True
 
 
-def update_index_html(quiz: dict) -> None:
-    """更新 index.html 中的 quizData"""
-    if not INDEX_HTML.exists():
-        raise FileNotFoundError(f"找不到 {INDEX_HTML}")
-
-    # 二进制读取再用 utf-8 解码，避免平台默认编码干扰
-    with open(INDEX_HTML, "rb") as f:
-        raw = f.read()
-    content = raw.decode("utf-8")
-
-    # 清洗 quiz：去掉所有字符串中的裸换行/回车（JS 字面量不允许裸换行）
-    # 同时对所有字符串做 strip + 去除 \r，保留用户可读空格
+def update_quiz_data(quiz: dict) -> None:
+    """将 quiz 数据写入 quiz_data.json（index.html 通过 XHR 加载）"""
+    # 清洗 quiz：去掉所有字符串中的裸回车
     def _sanitize(obj):
         if isinstance(obj, dict):
             return {k: _sanitize(v) for k, v in obj.items()}
         if isinstance(obj, list):
             return [_sanitize(x) for x in obj]
         if isinstance(obj, str):
-            # 去除 \r，换行归一为 \n，然后由 json.dumps 自动转义为 \\n
             return obj.replace("\r\n", "\n").replace("\r", "\n")
         return obj
 
     safe_quiz = _sanitize(quiz)
 
-    # 单行 JSON（ensure_ascii=False 保留中文原字符，json.dumps 会把 \n 转义为 \\n）
-    quiz_json = json.dumps(safe_quiz, ensure_ascii=False, separators=(",", ":"))
+    # 写入外部 JSON 文件（格式化，便于调试）
+    with open(QUIZ_DATA_JSON, "w", encoding="utf-8") as f:
+        json.dump(safe_quiz, f, ensure_ascii=False, indent=2)
 
-    # —— 防御式后处理：无论前面怎么处理，quiz_json 里绝对不能有裸换行/回车 ——
-    # 任何残留的 CR / LF 一律转义为 \\r / \\n（字符串字面量安全）
-    if "\n" in quiz_json or "\r" in quiz_json:
-        before_lf = quiz_json.count("\n")
-        before_cr = quiz_json.count("\r")
-        quiz_json = quiz_json.replace("\r\n", "\\n").replace("\n", "\\n").replace("\r", "\\n")
-        log(f"⚠️ 检测并转义了裸换行 ({before_lf} LF, {before_cr} CR)")
-
-    # 兜底：也不能出现裸 U+2028 / U+2029（JS 中同样视为行终止符）
-    quiz_json = quiz_json.replace("\u2028", "\\u2028").replace("\u2029", "\\u2029")
-
-    # 匹配 var quizData = {...};
-    pattern = r'var\s+quizData\s*=\s*\{[\s\S]*?\};'
-    replacement = f'var quizData = {quiz_json};'
-
-    new_content, count = re.subn(pattern, replacement, content, count=1)
-    if count == 0:
-        raise RuntimeError("无法在 index.html 中找到 var quizData 的定义")
-
-    # 二进制写入 UTF-8 BOM-less
-    with open(INDEX_HTML, "wb") as f:
-        f.write(new_content.encode("utf-8"))
-
-    log(f"已更新 {INDEX_HTML} ({len(new_content)} chars)")
+    log(f"已更新 {QUIZ_DATA_JSON} ({len(json.dumps(safe_quiz, ensure_ascii=False))} chars)")
 
 
 def git_commit(today: str, session: int) -> None:
@@ -399,7 +387,7 @@ def git_commit(today: str, session: int) -> None:
     import subprocess
 
     cmds = [
-        ["git", "add", "index.html"],
+        ["git", "add", "quiz_data.json"],
         ["git", "commit", "-m", f"auto: daily quiz {today} session-{session}"],
         ["git", "push", "origin", "main"],
     ]
@@ -467,23 +455,46 @@ def main():
     errors = get_recent_errors()
     log(f"加载到 {len(errors)} 条近期错题")
 
-    # 构建 prompt 并调用 API
-    prompt = build_prompt(student, kb, errors, today, session)
-    log("Prompt 长度: {} chars".format(len(prompt)))
-
-    quiz = call_kimi(prompt, api_key, model)
-
-    # 验证
-    if not validate_quiz(quiz):
-        log("题目验证失败，终止")
+    # 构建 prompt 并调用 API（最多重试 3 次）
+    max_attempts = 3
+    quiz = None
+    for attempt in range(1, max_attempts + 1):
+        log(f"=== 生成尝试 {attempt}/{max_attempts} ===")
+        prompt = build_prompt(student, kb, errors, today, session)
+        log("Prompt 长度: {} chars".format(len(prompt)))
+        try:
+            quiz = call_kimi(prompt, api_key, model)
+        except Exception as e:
+            log(f"API 调用失败: {e}")
+            if attempt == max_attempts:
+                raise
+            continue
+        
+        # 验证
+        if validate_quiz(quiz):
+            log(f"第 {attempt} 次尝试验证通过 ✓")
+            break
+        else:
+            log(f"第 {attempt} 次尝试验证失败")
+            if attempt == max_attempts:
+                log("所有重试均失败，终止")
+                sys.exit(1)
+            # 等待片刻后重试
+            wait_sec = 2 ** attempt  # 指数退避
+            log(f"等待 {wait_sec} 秒后重试...")
+            time.sleep(wait_sec)
+    
+    # 确保 quiz 不为 None（理论上不会）
+    if quiz is None:
+        log("严重错误: 未生成有效 quiz")
         sys.exit(1)
 
     # 确保日期和 session 正确
     quiz["date"] = today
     quiz["session_number"] = session
 
-    # 更新 index.html
-    update_index_html(quiz)
+    # 更新 quiz_data.json
+    update_quiz_data(quiz)
 
     # git 提交交给外层 workflow 统一处理（避免 identity 未配置等问题）
     # 本地手动运行时，如需自动推送可取消下面两行注释
