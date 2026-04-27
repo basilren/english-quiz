@@ -217,6 +217,13 @@
       "total": 20,
       "correct": 17,
       "rate": 85
+    },
+    {
+      "date": "2026-04-27",
+      "session": 1,
+      "total": 20,
+      "correct": 19,
+      "rate": 95
     }
   ],
   "errors": [
@@ -1002,6 +1009,24 @@
       "correct_answer": "B",
       "student_answer": "E",
       "explanation": "本题考查段落衔接和上下文逻辑。前一句提到'我对同学Tom制作的机器人'，后一句说'它能自动打扫教室地面'。选项B'它是由回收材料制成的，比如旧瓶子和盒子'正好是对机器人的进一步描述，衔接自然。A表示转折，C表示第一步，D表示结果，E表示然后，都不符合此处对机器人进行描述的功能。"
+    },
+    {
+      "date": "2026-04-27",
+      "session": 1,
+      "question_id": 15,
+      "type": "reading",
+      "knowledge_point": "word_guessing",
+      "label": "阅读-词义猜测",
+      "stem": "What does the underlined word \"absorbing\" in Paragraph 2 mean?",
+      "options": [
+        "A. Taking in",
+        "B. Giving out",
+        "C. Breaking down",
+        "D. Building up"
+      ],
+      "correct_answer": "A",
+      "student_answer": "C",
+      "explanation": "【解析】词义猜测题。根据上下文'absorbing CO2 and producing oxygen'（吸收二氧化碳并产生氧气），absorb与produce（产生）相对，应是'吸收'之意，与take in同义。【错因分析】B选项give out（释放）是反义词；C选项break down（分解）；D选项build up（建立）。【技巧】利用并列结构and的对比，植物吸收CO2释放氧气，可推断absorb为'吸收'。"
     }
   ]
 }
