@@ -15,8 +15,8 @@
         "D. read; read"
       ],
       "correct_answer": "A",
-      "explanation": "ãè§£æãç¬¬ä¸ç©ºåæalreadyï¼å·²ç»ï¼ï¼æ¯ç°å¨å®ææ¶çæ å¿è¯ï¼è¡¨ç¤ºè¿å»å¨ä½å¯¹ç°å¨çå½±åï¼ç¨have readï¼ç¬¬äºç©ºælast weekï¼ä¸å¨ï¼ï¼æ¯ä¸è¬è¿å»æ¶çæ å¿ï¼ç¨readï¼è¿å»å¼ä¸åå½¢åå½¢ï¼ããéå åæãBéé¡¹æ··æ·äºä¸¤ç§æ¶æçæ¶é´æ å¿ï¼Céé¡¹ç¬¬äºç©ºä¸åºä½¿ç¨å®ææ¶ï¼Déé¡¹ç¬¬ä¸ç©ºç¼ºå°å©å¨è¯haveããæå·§ãè®°ä½å£è¯ï¼already/ever/never/yet/since/forç¨ç°å®ï¼yesterday/last week/ago/just nowç¨è¿å»ã",
-      "label": "è¯­æ³é¢-æ¶æè¾¨æ"
+      "explanation": "【解析】第一空后有already（已经），是现在完成时的标志词，表示过去动作对现在的影响，用have read；第二空有last week（上周），是一般过去时的标志，用read（过去式与原形同形）。【错因分析】B选项混淆了两种时态的时间标志；C选项第二空不应使用完成时；D选项第一空缺少助动词have。【技巧】记住口诀：already/ever/never/yet/since/for用现完，yesterday/last week/ago/just now用过去。",
+      "label": "语法题-时态辨析"
     },
     {
       "id": 2,
@@ -31,8 +31,8 @@
         "D. whose"
       ],
       "correct_answer": "A",
-      "explanation": "ãè§£æãè¯the boyæäººï¼ä¸å¨å®è¯­ä»å¥ä¸­ä½ä¸»è¯­ï¼is standingï¼ï¼ç¨ä»£è¯whoããéå åæãBéé¡¹whichç¨äºæç©ï¼Céé¡¹whomç¨äºæäººä½ä½å®¾è¯­ï¼Déé¡¹whoseè¡¨ç¤º'â¦â¦ç'ï¼å¨ä»å¥ä¸­ä½å®è¯­ããæå·§ãå®è¯­ä»å¥éæ©è¯ï¼æäººä½ä¸»è¯­ç¨whoï¼æäººä½å®¾è¯­ç¨whomï¼æç©ç¨whichï¼è¡¨ç¤ºæå±ç¨whoseã",
-      "label": "è¯­æ³é¢-å®è¯­ä»å¥"
+      "explanation": "【解析】词the boy指人，且在定语从句中作主语（is standing），用代词who。【错因分析】B选项which用于指物；C选项whom用于指人但作宾语；D选项whose表示'……的'，在从句中作定语。【技巧】定语从句选择词：指人作主语用who，指人作宾语用whom，指物用which，表示所属用whose。",
+      "label": "语法题-定语从句"
     },
     {
       "id": 3,
@@ -47,8 +47,8 @@
         "D. plant"
       ],
       "correct_answer": "A",
-      "explanation": "ãè§£æãä¸»è¯­these treesä¸plantæ¯è¢«å¨ï¼æ è¢«ç§æ¤ï¼ï¼ä¸every yearè¡¨ç¤ºç»å¸¸æ§å¨ä½ï¼åºç¨ä¸è¬ç°å¨æ¶çè¢«å¨è¯­æam/is/are + doneããéå åæãBéé¡¹æ¯ä¸»å¨è¯­æè¿å»å¼ï¼Céé¡¹æ¯è¿å»æ¶è¢«å¨ï¼ä¸every yearä¸ç¬¦ï¼Déé¡¹æ¯ä¸»å¨è¯­æããæå·§ãè¢«å¨è¯­æç»æï¼be + è¿å»åè¯ï¼æ³¨ææ¶é´ç¶è¯­å³å®beå¨è¯çæ¶æã",
-      "label": "è¯­æ³é¢-è¢«å¨è¯­æ"
+      "explanation": "【解析】主语these trees与plant是被动（树被种植），且every year表示经常性动作，应用一般现在时的被动语态am/is/are + done。【错因分析】B选项是主动语态过去式；C选项是过去时被动，与every year不符；D选项是主动语态。【技巧】被动语态结构：be + 过去分词，注意时间状语决定be动词的时态。",
+      "label": "语法题-被动语态"
     },
     {
       "id": 4,
@@ -63,8 +63,8 @@
         "D. if; comes"
       ],
       "correct_answer": "A",
-      "explanation": "ãè§£æãwonderåæ¥å®¾è¯­ä»å¥è¡¨ç¤º'æ¯å¦'ï¼ç¨ifæwhetherï¼tomorrowæç¤ºä»å¥ç¨ä¸è¬å°æ¥æ¶ããéå åæãBéé¡¹ç¬¬äºéç¨ä¸è¬ç°å¨æ¶ï¼Céé¡¹thatè¡¨ç¤ºè¯å®äºå®ï¼ä¸wonderï¼æ³ç¥éï¼è¯­ä¹ä¸ç¬¦ï¼Déé¡¹ç¬¬äºéç¨ä¸è¬ç°å¨æ¶ããæå·§ãwonder/questionåæ¥if/whetherå¼å¯¼å®¾è¯­ä»å¥ï¼æ³¨ææ¶æå¼åºï¼tomorrowç­å°æ¥æ¶é´ç¶è¯­æç¤ºç¨å°æ¥æ¶ã",
-      "label": "è¯­æ³é¢-å®¾è¯­ä»å¥"
+      "explanation": "【解析】wonder后接宾语从句表示'是否'，用if或whether；tomorrow提示从句用一般将来时。【错因分析】B选项第二错用一般现在时；C选项that表示肯定事实，与wonder（想知道）语义不符；D选项第二错用一般现在时。【技巧】wonder/question后接if/whether引导宾语从句，注意时态呼应，tomorrow等将来时间状语提示用将来时。",
+      "label": "语法题-宾语从句"
     },
     {
       "id": 5,
@@ -79,8 +79,8 @@
         "D. future"
       ],
       "correct_answer": "B",
-      "explanation": "ãè§£æãancientæä¸º'å¤èçï¼å¤ä»£ç'ï¼ä¸oldï¼èçï¼æ§çï¼ææææ¥è¿ããéå åæãAéé¡¹modernï¼ç°ä»£çï¼æ¯åä¹è¯ï¼Céé¡¹newï¼æ°çï¼æ¯åä¹è¯ï¼Déé¡¹futureï¼æªæ¥çï¼ä¸ããæå·§ãancient = very oldï¼è¯æ ¹anci-è¡¨ç¤º'å¤è'ï¼è®°å¿èæ³ï¼anï¼ä¸ä¸ªï¼+ cientï¼åå¹´çï¼âå¤èçã",
-      "label": "è¯æ±é¢-è¯ä¹è¾¨æ"
+      "explanation": "【解析】ancient意为'古老的，古代的'，与old（老的，旧的）意思最接近。【错因分析】A选项modern（现代的）是反义词；C选项new（新的）是反义词；D选项future（未来的）不。【技巧】ancient = very old，词根anci-表示'古老'，记忆联想：an（一个）+ cient（千年的）→古老的。",
+      "label": "词汇题-词义辨析"
     },
     {
       "id": 6,
@@ -95,8 +95,8 @@
         "D. happyful"
       ],
       "correct_answer": "A",
-      "explanation": "ãè§£æãåç¼un-è¡¨ç¤º'ä¸ï¼é'ï¼å å¨happyåææunhappyï¼ä¸å¼å¿çï¼ããéå åæãBéé¡¹dis-ä¹æ¯å¦å®åç¼ï¼ä½happyçå¦å®å½¢å¼ä¹ æ¯ç¨un-ï¼Céé¡¹re-è¡¨ç¤º'åï¼éæ°'ï¼Déé¡¹-fulæ¯åç¼ï¼è¡¨ç¤º'â¦â¦ç'ï¼ï¼ä¸æ¯åç¼ããæå·§ãå¸¸è§å¦å®åç¼ï¼un-ï¼unhappy/unkindï¼ãdis-ï¼dislike/disagreeï¼ãim-ï¼impossibleï¼ãin-ï¼incorrectï¼ã",
-      "label": "è¯æ±é¢-æè¯æ³"
+      "explanation": "【解析】前缀un-表示'不，非'，加在happy前构成unhappy（不开心的）。【错因分析】B选项dis-也是否定前缀，但happy的否定形式习惯用un-；C选项re-表示'再，重新'；D选项-ful是后缀（表示'……的'），不是前缀。【技巧】常见否定前缀：un-（unhappy/unkind）、dis-（dislike/disagree）、im-（impossible）、in-（incorrect）。",
+      "label": "词汇题-构词法"
     },
     {
       "id": 7,
@@ -111,8 +111,8 @@
         "D. come back"
       ],
       "correct_answer": "A",
-      "explanation": "ãè§£æãcome up withæä¸º'æ³åºï¼ä¸»æãè®¡åãæ¹æ¡ç­ï¼'ï¼ç¬¦åå¥æ'æ³åºä¸ä¸ªå¥½è®¡å'ããéå åæãBéé¡¹come upæä¸º'èµ°è¿ï¼è¢«æåº'ï¼ä¸»è¯­éå¸¸æ¯äºç©ï¼ï¼Céé¡¹come fromæä¸º'æ¥èª'ï¼Déé¡¹come backæä¸º'åæ¥'ããæå·§ãcome up with = think ofï¼éç¹è®°å¿withä¸å¯çç¥ã",
-      "label": "è¯æ±é¢-å¨è¯ç­è¯­"
+      "explanation": "【解析】come up with意为'想出（主意、计划、方案等）'，符合句意'想出一个好计划'。【错因分析】B选项come up意为'走近，被提出'（主语通常是事物）；C选项come from意为'来自'；D选项come back意为'回来'。【技巧】come up with = think of，重点记忆with不可省略。",
+      "label": "词汇题-动词短语"
     },
     {
       "id": 8,
@@ -127,8 +127,8 @@
         "D. boring"
       ],
       "correct_answer": "B",
-      "explanation": "ãè§£æãæ ¹æ®ä¸æ'They believe it is hard to...'ï¼ä»ä»¬è®¤ä¸ºå¾é¾â¦â¦ï¼å¯ç¥ï¼å¾å¤äººè®¤ä¸ºå¨åå¸è¿ç»¿è²çæ´»æ¯'å°é¾ç'ï¼difficultä¸hardåä¹ããéå åæãAéé¡¹ä¸ææç¸åï¼CãDéé¡¹ä¸ä¸æé»è¾ä¸ç¬¦ããæå·§ãå®å½¢å¡«ç©ºæ³¨æä¸ä¸æçåä¹å¤ç°ï¼hardä¸difficultæ¯è¿ä¹è¯ã",
-      "label": "å®å½¢å¡«ç©º",
+      "explanation": "【解析】根据下文'They believe it is hard to...'（他们认为很难……）可知，很多人认为在城市过绿色生活是'困难的'，difficult与hard同义。【错因分析】A选项与文意相反；C、D选项与下文逻辑不符。【技巧】完形填空注意上下文的同义复现，hard与difficult是近义词。",
+      "label": "完形填空",
       "group": "cloze_1",
       "group_passage": "Many people think that living a green life in big cities is (8)______. They believe it is hard to protect the environment when you live in a busy city. However, our school proved that they were wrong.\n\nLast month, we started a \"Zero Waste\" project. The goal was to reduce waste in our daily lives. First, we stopped using plastic bottles. (9)______, we brought reusable bottles to school. My classmate Tom even made a bag from his old T-shirts. It looked very cool!\n\nOur teacher told us that small changes could make a big (10)______. She said that if everyone takes action, our city will become cleaner. The project has changed the way we think about rubbish. Now we know that most things can be reused or (11)______.\n\nI am proud of what we have done. I believe that protecting the environment is not just the government's duty. It is everyone's (12)______. Let's work together to make the world a better place!"
     },
@@ -145,8 +145,8 @@
         "D. Besides"
       ],
       "correct_answer": "B",
-      "explanation": "ãè§£æãåæè¯´'åæ­¢ä½¿ç¨å¡æç¶'ï¼åæè¯´'å¸¦å¯éå¤ä½¿ç¨çç¶å­'ï¼æ¯æ¿ä»£ï¼ç¨insteadï¼ç¸åï¼ä»£æ¿ï¼ããéå åæãAéé¡¹howeverè¡¨ç¤ºè½¬æï¼ä½ååæ¯æ¿ä»£èéå¯¹ç«ï¼Céé¡¹thereforeè¡¨ç¤ºå æï¼Déé¡¹besidesè¡¨ç¤ºéè¿ããæå·§ãinsteadè¡¨ç¤º'ç¨â¦â¦ä»£æ¿â¦â¦'ï¼å¸¸ä½äºå¥é¦æå¥æ«ï¼ååå¸¸æ¯ç¸åææ¿ä»£çå¨ä½ã",
-      "label": "å®å½¢å¡«ç©º",
+      "explanation": "【解析】前文说'停止使用塑料瓶'，后文说'带可重复使用的瓶子'，是替代，用instead（相反，代替）。【错因分析】A选项however表示转折，但前后是替代而非对立；C选项therefore表示因果；D选项besides表示递进。【技巧】instead表示'用……代替……'，常位于句首或句末，前后常是相反或替代的动作。",
+      "label": "完形填空",
       "group": "cloze_1",
       "group_passage": "Many people think that living a green life in big cities is (8)______. They believe it is hard to protect the environment when you live in a busy city. However, our school proved that they were wrong.\n\nLast month, we started a \"Zero Waste\" project. The goal was to reduce waste in our daily lives. First, we stopped using plastic bottles. (9)______, we brought reusable bottles to school. My classmate Tom even made a bag from his old T-shirts. It looked very cool!\n\nOur teacher told us that small changes could make a big (10)______. She said that if everyone takes action, our city will become cleaner. The project has changed the way we think about rubbish. Now we know that most things can be reused or (11)______.\n\nI am proud of what we have done. I believe that protecting the environment is not just the government's duty. It is everyone's (12)______. Let's work together to make the world a better place!"
     },
@@ -163,8 +163,8 @@
         "D. progress"
       ],
       "correct_answer": "C",
-      "explanation": "ãè§£æãåºå®make a differenceæä¸º'æå½±åï¼èµ·ä½ç¨'ï¼å¥æï¼å°æ¹åå¯ä»¥äº§çå¤§å½±åããéå åæãAéé¡¹make a mistakeæä¸º'ç¯é'ï¼Béé¡¹make a decisionæä¸º'åå³å®'ï¼Déé¡¹progresséå¸¸ä¸makeä½ä¸å aï¼make progressï¼ããæå·§ãéç¹è®°å¿make a differenceè¿ä¸ªé«é¢ç­è¯­ï¼å¸¸åºç°å¨ç¯ä¿ãå¿æ¿æ´»å¨ç­è¯­å¢ä¸­ã",
-      "label": "å®å½¢å¡«ç©º",
+      "explanation": "【解析】固定make a difference意为'有影响，起作用'，句意：小改变可以产生大影响。【错因分析】A选项make a mistake意为'犯错'；B选项make a decision意为'做决定'；D选项progress通常与make但不加a（make progress）。【技巧】重点记忆make a difference这个高频短语，常出现在环保、志愿活动等语境中。",
+      "label": "完形填空",
       "group": "cloze_1",
       "group_passage": "Many people think that living a green life in big cities is (8)______. They believe it is hard to protect the environment when you live in a busy city. However, our school proved that they were wrong.\n\nLast month, we started a \"Zero Waste\" project. The goal was to reduce waste in our daily lives. First, we stopped using plastic bottles. (9)______, we brought reusable bottles to school. My classmate Tom even made a bag from his old T-shirts. It looked very cool!\n\nOur teacher told us that small changes could make a big (10)______. She said that if everyone takes action, our city will become cleaner. The project has changed the way we think about rubbish. Now we know that most things can be reused or (11)______.\n\nI am proud of what we have done. I believe that protecting the environment is not just the government's duty. It is everyone's (12)______. Let's work together to make the world a better place!"
     },
@@ -181,8 +181,8 @@
         "D. returned"
       ],
       "correct_answer": "A",
-      "explanation": "ãè§£æãorè¿æ¥å¹¶åæåï¼ä¸reusedï¼åå©ç¨ï¼å¹¶åä¸ä¸åå¾çæ¯recycledï¼åæ¶å©ç¨ï¼ããéå åæãBéé¡¹reducedï¼åå°ï¼è½ä¸ç¯ä¿ï¼ä½ä¸reusedé»è¾å¹¶åä¸å¦recycledç´§å¯ï¼Céé¡¹refusedï¼æç»ï¼ï¼Déé¡¹returnedï¼å½è¿ï¼ããæå·§ãç¯ä¿ç±»æç« é«é¢è¯ï¼reuseï¼éå¤ä½¿ç¨ï¼ãrecycleï¼åæ¶ï¼ãreduceï¼åå°ï¼ãrepairï¼ä¿®çï¼ï¼æ³¨æåºåã",
-      "label": "å®å½¢å¡«ç©º",
+      "explanation": "【解析】or连接并列成分，与reused（再利用）并列且与垃圾的是recycled（回收利用）。【错因分析】B选项reduced（减少）虽与环保，但与reused逻辑并列不如recycled紧密；C选项refused（拒绝）；D选项returned（归还）。【技巧】环保类文章高频词：reuse（重复使用）、recycle（回收）、reduce（减少）、repair（修理），注意区分。",
+      "label": "完形填空",
       "group": "cloze_1",
       "group_passage": "Many people think that living a green life in big cities is (8)______. They believe it is hard to protect the environment when you live in a busy city. However, our school proved that they were wrong.\n\nLast month, we started a \"Zero Waste\" project. The goal was to reduce waste in our daily lives. First, we stopped using plastic bottles. (9)______, we brought reusable bottles to school. My classmate Tom even made a bag from his old T-shirts. It looked very cool!\n\nOur teacher told us that small changes could make a big (10)______. She said that if everyone takes action, our city will become cleaner. The project has changed the way we think about rubbish. Now we know that most things can be reused or (11)______.\n\nI am proud of what we have done. I believe that protecting the environment is not just the government's duty. It is everyone's (12)______. Let's work together to make the world a better place!"
     },
@@ -199,8 +199,8 @@
         "D. choice"
       ],
       "correct_answer": "C",
-      "explanation": "ãè§£æãåææå°'ä¸åªæ¯æ¿åºçè´£ä»»'ï¼å¯¹åº'å®æ¯æ¯ä¸ªäººçè´£ä»»ï¼dutyï¼'ããéå åæãAéé¡¹dreamï¼æ¢¦æ³ï¼ãBéé¡¹hobbyï¼ç±å¥½ï¼ä¸è¯­å¢ä¸ç¬¦ï¼Déé¡¹choiceï¼éæ©ï¼è¯­æ°ä¸å¤å¼ºçããæå·§ãdutyè¡¨ç¤º'è´£ä»»ï¼ä¹å¡'ï¼å¼ºè°åºå½ï¼å¸¸ç¨äºç¯ä¿ãä¹å¡ç­ä¸»é¢ã",
-      "label": "å®å½¢å¡«ç©º",
+      "explanation": "【解析】前文提到'不只是政府的责任'，对应'它是每个人的责任（duty）'。【错因分析】A选项dream（梦想）、B选项hobby（爱好）与语境不符；D选项choice（选择）语气不够强烈。【技巧】duty表示'责任，义务'，强调应当，常用于环保、义务等主题。",
+      "label": "完形填空",
       "group": "cloze_1",
       "group_passage": "Many people think that living a green life in big cities is (8)______. They believe it is hard to protect the environment when you live in a busy city. However, our school proved that they were wrong.\n\nLast month, we started a \"Zero Waste\" project. The goal was to reduce waste in our daily lives. First, we stopped using plastic bottles. (9)______, we brought reusable bottles to school. My classmate Tom even made a bag from his old T-shirts. It looked very cool!\n\nOur teacher told us that small changes could make a big (10)______. She said that if everyone takes action, our city will become cleaner. The project has changed the way we think about rubbish. Now we know that most things can be reused or (11)______.\n\nI am proud of what we have done. I believe that protecting the environment is not just the government's duty. It is everyone's (12)______. Let's work together to make the world a better place!"
     },
@@ -217,8 +217,8 @@
         "D. In 1994"
       ],
       "correct_answer": "B",
-      "explanation": "ãè§£æãç»èé¢ãæ ¹æ®ç¬¬ä¸æ®µæåä¸å¥'The first vertical forest was built in Milan, Italy in 2014.'å¯ç¥ï¼ç¬¬ä¸åº§åç´æ£®æå»ºäº2014å¹´ããéå åæãæ³¨æåºå2014ä¸2004ã1994ç­å¹²æ°é¡¹ï¼å®ä½åæå¹´ä»½ããæå·§ãç»èé¢è¦åç¡®å®ä½ï¼æ³¨ææ°å­ãæ¶é´ãå°ç¹ç­ä¿¡æ¯ã",
-      "label": "-ç»èçè§£",
+      "explanation": "【解析】细节题。根据第一段最后一句'The first vertical forest was built in Milan, Italy in 2014.'可知，第一座垂直森林建于2014年。【错因分析】注意区分2014与2004、1994等干扰项，定位原文年份。【技巧】细节题要准确定位，注意数字、时间、地点等信息。",
+      "label": "-细节理解",
       "group": "reading_1",
       "group_passage": "In many big cities around the world, architects are building something amazing called \"vertical forests\". These are tall buildings covered with trees and plants. The first vertical forest was built in Milan, Italy in 2014.\n\nThese special buildings look beautiful, but they do much more than that. They help clean the air by absorbing CO2 and producing oxygen. One vertical forest can absorb as much CO2 as 30,000 cars produce in a year. They also provide homes for birds and insects in the city.\n\nHowever, building vertical forests is not easy. The \"flying gardeners\" have to climb up the buildings to take care of the plants. They check if the plants are healthy and water them regularly. This job requires special skills and courage.\n\nSome people worry that these buildings are too expensive. But supporters say the benefits to the environment are worth the cost. They believe vertical forests are the future of city living."
     },
@@ -235,8 +235,8 @@
         "D. They use helicopters to fly"
       ],
       "correct_answer": "B",
-      "explanation": "ãè§£æãæ¨çé¢ãæ ¹æ®ç¬¬ä¸æ®µ'This job requires special skills and courage.'ï¼è¿ä»½å·¥ä½éè¦ç¹æ®æè½ååæ°ï¼å¯æ¨æ­ï¼é£è¡å­ä¸éè¦ç¹æ®æè½ããéå åæãAéé¡¹ä¸'courage'çç¾ï¼Céé¡¹æä¸­æªæåæ¶é´ï¼Déé¡¹'fly'æ¯æ¯å»è¯´æ³ï¼å¹¶éçç¨ç´åæºããæå·§ãæ¨çé¢è¦åºäºææ¬è¯æ®ï¼ä¸è½ä¸»è§èæ­ï¼æ³¨æ'requires special skills'çç´æ¥å¯¹åºã",
-      "label": "-æ¨çå¤æ­",
+      "explanation": "【解析】推理题。根据第三段'This job requires special skills and courage.'（这份工作需要特殊技能和勇气）可推断，飞行园丁需要特殊技能。【错因分析】A选项与'courage'矛盾；C选项文中未提及时间；D选项'fly'是比喻说法，并非真用直升机。【技巧】推理题要基于文本证据，不能主观臆断，注意'requires special skills'的直接对应。",
+      "label": "-推理判断",
       "group": "reading_1",
       "group_passage": "In many big cities around the world, architects are building something amazing called \"vertical forests\". These are tall buildings covered with trees and plants. The first vertical forest was built in Milan, Italy in 2014.\n\nThese special buildings look beautiful, but they do much more than that. They help clean the air by absorbing CO2 and producing oxygen. One vertical forest can absorb as much CO2 as 30,000 cars produce in a year. They also provide homes for birds and insects in the city.\n\nHowever, building vertical forests is not easy. The \"flying gardeners\" have to climb up the buildings to take care of the plants. They check if the plants are healthy and water them regularly. This job requires special skills and courage.\n\nSome people worry that these buildings are too expensive. But supporters say the benefits to the environment are worth the cost. They believe vertical forests are the future of city living."
     },
@@ -253,8 +253,8 @@
         "D. Building up"
       ],
       "correct_answer": "A",
-      "explanation": "ãè§£æãè¯ä¹çæµé¢ãæ ¹æ®ä¸ä¸æ'absorbing CO2 and producing oxygen'ï¼å¸æ¶äºæ°§åç¢³å¹¶äº§çæ°§æ°ï¼ï¼absorbä¸produceï¼äº§çï¼ç¸å¯¹ï¼åºæ¯'å¸æ¶'ä¹æï¼ä¸take inåä¹ããéå åæãBéé¡¹give outï¼éæ¾ï¼æ¯åä¹è¯ï¼Céé¡¹break downï¼åè§£ï¼ï¼Déé¡¹build upï¼å»ºç«ï¼ããæå·§ãå©ç¨å¹¶åç»æandçå¯¹æ¯ï¼æ¤ç©å¸æ¶CO2éæ¾æ°§æ°ï¼å¯æ¨æ­absorbä¸º'å¸æ¶'ã",
-      "label": "-è¯ä¹çæµ",
+      "explanation": "【解析】词义猜测题。根据上下文'absorbing CO2 and producing oxygen'（吸收二氧化碳并产生氧气），absorb与produce（产生）相对，应是'吸收'之意，与take in同义。【错因分析】B选项give out（释放）是反义词；C选项break down（分解）；D选项build up（建立）。【技巧】利用并列结构and的对比，植物吸收CO2释放氧气，可推断absorb为'吸收'。",
+      "label": "-词义猜测",
       "group": "reading_1",
       "group_passage": "In many big cities around the world, architects are building something amazing called \"vertical forests\". These are tall buildings covered with trees and plants. The first vertical forest was built in Milan, Italy in 2014.\n\nThese special buildings look beautiful, but they do much more than that. They help clean the air by absorbing CO2 and producing oxygen. One vertical forest can absorb as much CO2 as 30,000 cars produce in a year. They also provide homes for birds and insects in the city.\n\nHowever, building vertical forests is not easy. The \"flying gardeners\" have to climb up the buildings to take care of the plants. They check if the plants are healthy and water them regularly. This job requires special skills and courage.\n\nSome people worry that these buildings are too expensive. But supporters say the benefits to the environment are worth the cost. They believe vertical forests are the future of city living."
     },
@@ -271,8 +271,8 @@
         "D. Uncaring"
       ],
       "correct_answer": "C",
-      "explanation": "ãè§£æãä¸»æ¨æåº¦é¢ãæ ¹æ®æç« ç¨è¯'amazing'ã'help clean the air'ã'provide homes'ã'benefits to the environment are worth the cost'ã'future of city living'ç­ï¼å¯å¤æ­æç§¯ææåº¦ããéå åæãAï¼æ¶æï¼ãBï¼æçï¼ãDï¼æ¼ ï¼åä¸æç« åºè°ä¸ç¬¦ããæå·§ãæåº¦é¢å½¢å®¹è¯åè½¬æè¯ï¼butåsupportersçè§ç¹å³ä¸ºæ¯æçæ¹åã",
-      "label": "-è§ç¹æåº¦",
+      "explanation": "【解析】主旨态度题。根据文章用词'amazing'、'help clean the air'、'provide homes'、'benefits to the environment are worth the cost'、'future of city living'等，可判断持积极态度。【错因分析】A（消极）、B（怀疑）、D（漠）均与文章基调不符。【技巧】态度题形容词和转折词，but后supporters的观点即为支持的方向。",
+      "label": "-观点态度",
       "group": "reading_1",
       "group_passage": "In many big cities around the world, architects are building something amazing called \"vertical forests\". These are tall buildings covered with trees and plants. The first vertical forest was built in Milan, Italy in 2014.\n\nThese special buildings look beautiful, but they do much more than that. They help clean the air by absorbing CO2 and producing oxygen. One vertical forest can absorb as much CO2 as 30,000 cars produce in a year. They also provide homes for birds and insects in the city.\n\nHowever, building vertical forests is not easy. The \"flying gardeners\" have to climb up the buildings to take care of the plants. They check if the plants are healthy and water them regularly. This job requires special skills and courage.\n\nSome people worry that these buildings are too expensive. But supporters say the benefits to the environment are worth the cost. They believe vertical forests are the future of city living."
     },
@@ -290,8 +290,8 @@
         "E. Without enough rest, your brain cannot work well."
       ],
       "correct_answer": "D",
-      "explanation": "ãè§£æãéå¥å¡«ç©ºãåææå°'åä¸ææéè¦å®æçä»»å¡'ï¼åæè¯´'è¿ç»ä½ æå°±æ'ï¼Déé¡¹'ç¶åï¼å½ä½ å®ææ¯é¡¹ä»»å¡æ¶åæå®'æ¿ä¸å¯ä¸ï¼cross outä¸check offåä¹ããéå åæãAé¡¹è½¬æè¯­æ°ä¸ç¬¦ï¼Bé¡¹è°æ¶é´éæ©ï¼ä¸æ­¤å¤ä»»å¡ï¼Cé¡¹æ¯æåä¸ç¹ï¼Eé¡¹è°ä¼æ¯ï¼è¯é¢ä¸ç¬¦ããæå·§ãæ³¨æä»£è¯thisæä»£åæï¼Dé¡¹ç'åæä»»å¡'å¸¦æ¥'æå°±æ'ã",
-      "label": "ç­æå¡«ç©º",
+      "explanation": "【解析】选句填空。前文提到'写下所有需要完成的任务'，后文说'这给你成就感'，D选项'然后，当你完成每项任务时划掉它'承上启下，cross out与check off同义。【错因分析】A项转折语气不符；B项谈时间选择，与此处任务；C项是最后一点；E项谈休息，话题不符。【技巧】注意代词this指代前文，D项的'划掉任务'带来'成就感'。",
+      "label": "短文填空",
       "group": "fill_1",
       "group_passage": "Being a student is not easy. You have to deal with homework, exams, and extracurricular activities. How can you manage your time well?\n\nFirst, make a to-do list every morning. Write down all the tasks you need to complete. (17)______ This gives you a sense of achievement and helps you track your progress.\n\nSecond, find your most productive time. Some people work best in the morning, while others focus better at night. (18)______ Use this time to tackle your most difficult subjects.\n\nThird, take regular breaks. Many students think they should study for long hours without stopping. (19)______ In fact, taking a five-minute break every hour can improve your concentration.\n\n(20)______ If you spend all your time on one subject, you may neglect others. Try to allocate your time wisely among different subjects.\n\nGood time management can help you achieve better results with less stress."
     },
@@ -309,8 +309,8 @@
         "E. Without enough rest, your brain cannot work well."
       ],
       "correct_answer": "B",
-      "explanation": "ãè§£æãåææå°'æäºäººæ©ä¸æçé«ï¼æäºäººæä¸ä¸æ³¨'ï¼Béé¡¹'å æ­¤ï¼ä½ åºè¯¥ç¡®å®èªå·±ä»ä¹æ¶åæ'æ¿æ¥ä¸æï¼thereforeè¡¨ç¤ºå æï¼identifyä¸findåä¹ããéå åæãAé¡¹è½¬æä¸ç¬¦ï¼Cé¡¹æ¯æåä¸ç¹ï¼Dé¡¹å·²ç¨äº17é¢ï¼Eé¡¹è°ä¼æ¯ï¼ä¸æ­¤å¤æ¶é´éæ©ããæå·§ãæ³¨æthereforeè¡¨ç¤ºç»æï¼åææåºé®é¢ï¼æ­¤å¤ç»åºè§£å³æ¹æ¡ã",
-      "label": "ç­æå¡«ç©º",
+      "explanation": "【解析】前文提到'有些人早上效率高，有些人晚上专注'，B选项'因此，你应该确定自己什么时候最'承接上文，therefore表示因果，identify与find同义。【错因分析】A项转折不符；C项是最后一点；D项已用于17题；E项谈休息，与此处时间选择。【技巧】注意therefore表示结果，前文提出问题，此处给出解决方案。",
+      "label": "短文填空",
       "group": "fill_1",
       "group_passage": "Being a student is not easy. You have to deal with homework, exams, and extracurricular activities. How can you manage your time well?\n\nFirst, make a to-do list every morning. Write down all the tasks you need to complete. (17)______ This gives you a sense of achievement and helps you track your progress.\n\nSecond, find your most productive time. Some people work best in the morning, while others focus better at night. (18)______ Use this time to tackle your most difficult subjects.\n\nThird, take regular breaks. Many students think they should study for long hours without stopping. (19)______ In fact, taking a five-minute break every hour can improve your concentration.\n\n(20)______ If you spend all your time on one subject, you may neglect others. Try to allocate your time wisely among different subjects.\n\nGood time management can help you achieve better results with less stress."
     },
@@ -328,8 +328,8 @@
         "E. Without enough rest, your brain cannot work well."
       ],
       "correct_answer": "A",
-      "explanation": "ãè§£æãåæè¯´'è®¸å¤å­¦çè®¤ä¸ºåºè¯¥é¿æ¶é´å­¦ä¹ ä¸ä¼æ¯'ï¼åæè¯´'äºå®ä¸ï¼æ¯å°æ¶ä¼æ¯äºåéè½æé«ä¸æ³¨å'ï¼ååæ¯è½¬æï¼Aéé¡¹'ç¶èï¼è¿å¹¶ä¸é«æ'ç¬¦åé»è¾ããéå åæãBé¡¹å æä¸ç¬¦ï¼Cé¡¹æ¯æåä¸ç¹ï¼Dé¡¹å·²ç¨ï¼Eé¡¹è½è°ä¼æ¯ä½è¯­æ°ä¸å¦Aé¡¹è½¬æå¼ºçããæå·§ãhoweverè¡¨ç¤ºè½¬æï¼å¦å®åæéè¯¯è§ç¹ï¼å¼åºæ­£ç¡®åæ³ã",
-      "label": "ç­æå¡«ç©º",
+      "explanation": "【解析】前文说'许多学生认为应该长时间学习不休息'，后文说'事实上，每小时休息五分钟能提高专注力'，前后是转折，A选项'然而，这并不高效'符合逻辑。【错因分析】B项因果不符；C项是最后一点；D项已用；E项虽谈休息但语气不如A项转折强烈。【技巧】however表示转折，否定前文错误观点，引出正确做法。",
+      "label": "短文填空",
       "group": "fill_1",
       "group_passage": "Being a student is not easy. You have to deal with homework, exams, and extracurricular activities. How can you manage your time well?\n\nFirst, make a to-do list every morning. Write down all the tasks you need to complete. (17)______ This gives you a sense of sense of achievement and helps you track your progress.\n\nSecond, find your most productive time. Some people work best in the morning, while others focus better at night. (18)______ Use this time to tackle your most difficult subjects.\n\nThird, take regular breaks. Many students think they should study for long hours without stopping. (19)______ In fact, taking a five-minute break every hour can improve your concentration.\n\n(20)______ If you spend all your time on one subject, you may neglect others. Try to allocate your time wisely among different subjects.\n\nGood time management can help you achieve better results with less stress."
     },
@@ -347,8 +347,8 @@
         "E. Without enough rest, your brain cannot work well."
       ],
       "correct_answer": "C",
-      "explanation": "ãè§£æãæ­¤å¤æ¯æåä¸ç¹å»ºè®®ï¼Céé¡¹'Finally, remember to balance different subjects.'ï¼æåï¼è®°å¾å¹³è¡¡ä¸åç§ç®ï¼ç¬¦åé¡ºåºï¼ä¸åæè°'ä¸è½ææææ¶é´è±å¨ä¸ä¸ªç§ç®ä¸'ä¸ä¹å¼åºããéå åæãAãBãDå·²ç¨ï¼Eé¡¹è°ä¼æ¯ï¼å±äºç¬¬ä¸ç¹ããæå·§ãæ³¨æè¿æ¥è¯first/second/third/finallyçé¡ºåºï¼finallyæç¤ºè¿æ¯æåä¸ç¹å»ºè®®ã",
-      "label": "ç­æå¡«ç©º",
+      "explanation": "【解析】此处是最后一点建议，C选项'Finally, remember to balance different subjects.'（最后，记得平衡不同科目）符合顺序，且后文谈'不能把所有时间花在一个科目上'与之呼应。【错因分析】A、B、D已用；E项谈休息，属于第三点。【技巧】注意连接词first/second/third/finally的顺序，finally提示这是最后一点建议。",
+      "label": "短文填空",
       "group": "fill_1",
       "group_passage": "Being a student is not easy. You have to deal with homework, exams, and extracurricular activities. How can you manage your time well?\n\nFirst, make a to-do list every morning. Write down all the tasks you need to complete. (17)______ This gives you a sense of achievement and helps you track your progress.\n\nSecond, find your most productive time. Some people work best in the morning, while others focus better at night. (18)______ Use this time to tackle your most difficult subjects.\n\nThird, take regular breaks. Many students think they should study for long hours without stopping. (19)______ In fact, taking a five-minute break every hour can improve your concentration.\n\n(20)______ If you spend all your time on one subject, you may neglect others. Try to allocate your time wisely among different subjects.\n\nGood time management can help you achieve better results with less stress."
     }
