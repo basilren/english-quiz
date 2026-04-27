@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-26",
+  "date": "2026-04-27",
   "session_number": 1,
   "questions": [
     {
@@ -7,54 +7,54 @@
       "type": "grammar",
       "knowledge_point": "present_perfect_vs_past_simple",
       "difficulty": 2,
-      "stem": "—______ you ______ your homework yet?\n—Yes. I ______ it an hour ago.",
+      "stem": "I ______ the book already. I ______ it last week.",
       "options": [
-        "A. Did; finish; finished",
-        "B. Have; finished; finished",
-        "C. Have; finished; have finished",
-        "D. Did; finish; have finished"
+        "A. have read; read",
+        "B. read; have read",
+        "C. have read; have read",
+        "D. read; read"
       ],
-      "correct_answer": "B",
-      "explanation": "本题考查现在完成时与一般过去时的区别。问句中的yet（已经）是现在完成时的标志词，主语是you，所以用Have...finished；答句中的an hour ago（一小时前）是一般过去时的标志，所以用finished。解题技巧：看到yet, already, since, for用现在完成时；看到yesterday, ago, last week用一般过去时。",
-      "label": "语法题"
+      "correct_answer": "A",
+      "explanation": "ãè§£æãç¬¬ä¸ç©ºåæalreadyï¼å·²ç»ï¼ï¼æ¯ç°å¨å®ææ¶çæ å¿è¯ï¼è¡¨ç¤ºè¿å»å¨ä½å¯¹ç°å¨çå½±åï¼ç¨have readï¼ç¬¬äºç©ºælast weekï¼ä¸å¨ï¼ï¼æ¯ä¸è¬è¿å»æ¶çæ å¿ï¼ç¨readï¼è¿å»å¼ä¸åå½¢åå½¢ï¼ããéå åæãBéé¡¹æ··æ·äºä¸¤ç§æ¶æçæ¶é´æ å¿ï¼Céé¡¹ç¬¬äºç©ºä¸åºä½¿ç¨å®ææ¶ï¼Déé¡¹ç¬¬ä¸ç©ºç¼ºå°å©å¨è¯haveããæå·§ãè®°ä½å£è¯ï¼already/ever/never/yet/since/forç¨ç°å®ï¼yesterday/last week/ago/just nowç¨è¿å»ã",
+      "label": "è¯­æ³é¢-æ¶æè¾¨æ"
     },
     {
       "id": 2,
       "type": "grammar",
       "knowledge_point": "relative_clause_who_which",
       "difficulty": 2,
-      "stem": "The boy ______ is wearing a blue jacket is my cousin, and the book ______ is on the desk is his.",
+      "stem": "The boy ______ is standing under the tree is my brother.",
       "options": [
-        "A. who; which",
-        "B. which; who",
-        "C. who; who",
-        "D. which; which"
+        "A. who",
+        "B. which",
+        "C. whom",
+        "D. whose"
       ],
       "correct_answer": "A",
-      "explanation": "本题考查定语从句代词who和which的用法。词boy指人，代词用who或that；词book指物，代词用which或that。口诀：词是人用who，词是物用which，that皆可替。",
-      "label": "语法题"
+      "explanation": "ãè§£æãè¯the boyæäººï¼ä¸å¨å®è¯­ä»å¥ä¸­ä½ä¸»è¯­ï¼is standingï¼ï¼ç¨ä»£è¯whoããéå åæãBéé¡¹whichç¨äºæç©ï¼Céé¡¹whomç¨äºæäººä½ä½å®¾è¯­ï¼Déé¡¹whoseè¡¨ç¤º'â¦â¦ç'ï¼å¨ä»å¥ä¸­ä½å®è¯­ããæå·§ãå®è¯­ä»å¥éæ©è¯ï¼æäººä½ä¸»è¯­ç¨whoï¼æäººä½å®¾è¯­ç¨whomï¼æç©ç¨whichï¼è¡¨ç¤ºæå±ç¨whoseã",
+      "label": "è¯­æ³é¢-å®è¯­ä»å¥"
     },
     {
       "id": 3,
       "type": "grammar",
       "knowledge_point": "passive_voice",
       "difficulty": 2,
-      "stem": "The new school library ______ next month. It will be the largest in our city.",
+      "stem": "These trees ______ by the students every year.",
       "options": [
-        "A. will open",
-        "B. will be opened",
-        "C. is opening",
-        "D. opens"
+        "A. are planted",
+        "B. planted",
+        "C. were planted",
+        "D. plant"
       ],
-      "correct_answer": "B",
-      "explanation": "本题考查一般将来时的被动语态。主语library（图书馆）是动作open（开放）的承受，所以用被动语态；时间状语next month表示将来，所以用will be opened。结构：will be + 过去分词。A和C是主动语态，D是一般现在时，都不符合。",
-      "label": "语法题"
+      "correct_answer": "A",
+      "explanation": "ãè§£æãä¸»è¯­these treesä¸plantæ¯è¢«å¨ï¼æ è¢«ç§æ¤ï¼ï¼ä¸every yearè¡¨ç¤ºç»å¸¸æ§å¨ä½ï¼åºç¨ä¸è¬ç°å¨æ¶çè¢«å¨è¯­æam/is/are + doneããéå åæãBéé¡¹æ¯ä¸»å¨è¯­æè¿å»å¼ï¼Céé¡¹æ¯è¿å»æ¶è¢«å¨ï¼ä¸every yearä¸ç¬¦ï¼Déé¡¹æ¯ä¸»å¨è¯­æããæå·§ãè¢«å¨è¯­æç»æï¼be + è¿å»åè¯ï¼æ³¨ææ¶é´ç¶è¯­å³å®beå¨è¯çæ¶æã",
+      "label": "è¯­æ³é¢-è¢«å¨è¯­æ"
     },
     {
       "id": 4,
       "type": "grammar",
       "knowledge_point": "object_clause",
-      "difficulty": 3,
+      "difficulty": 2,
       "stem": "I wonder ______ Tom ______ to the party tomorrow. If he comes, I will be very happy.",
       "options": [
         "A. if; will come",
@@ -63,56 +63,56 @@
         "D. if; comes"
       ],
       "correct_answer": "A",
-      "explanation": "本题考查宾语从句的引导词和时态。wonder（想知道）后面接if/whether引导的宾语从句，表示\"是否\"，排除C；tomorrow表明从句用一般将来时will come，而if引导的条件状语从句才用\"主将从现\"，这里是宾语从句，不受此限制。注意区分if引导宾语从句（是否）和条件状语从句（如果）的不同用法。",
-      "label": "语法题"
+      "explanation": "ãè§£æãwonderåæ¥å®¾è¯­ä»å¥è¡¨ç¤º'æ¯å¦'ï¼ç¨ifæwhetherï¼tomorrowæç¤ºä»å¥ç¨ä¸è¬å°æ¥æ¶ããéå åæãBéé¡¹ç¬¬äºéç¨ä¸è¬ç°å¨æ¶ï¼Céé¡¹thatè¡¨ç¤ºè¯å®äºå®ï¼ä¸wonderï¼æ³ç¥éï¼è¯­ä¹ä¸ç¬¦ï¼Déé¡¹ç¬¬äºéç¨ä¸è¬ç°å¨æ¶ããæå·§ãwonder/questionåæ¥if/whetherå¼å¯¼å®¾è¯­ä»å¥ï¼æ³¨ææ¶æå¼åºï¼tomorrowç­å°æ¥æ¶é´ç¶è¯­æç¤ºç¨å°æ¥æ¶ã",
+      "label": "è¯­æ³é¢-å®¾è¯­ä»å¥"
     },
     {
       "id": 5,
       "type": "vocabulary",
-      "knowledge_point": "word_guessing_context",
+      "knowledge_point": "word_meaning",
       "difficulty": 2,
-      "stem": "The old building is so fragile that we must be careful not to shake it. The underlined word 'fragile' probably means ______.",
+      "stem": "Which word is closest in meaning to 'ancient'?",
       "options": [
-        "A. strong and solid",
-        "B. beautiful and colorful",
-        "C. easily broken or damaged",
-        "D. very tall and big"
+        "A. modern",
+        "B. old",
+        "C. new",
+        "D. future"
       ],
-      "correct_answer": "C",
-      "explanation": "本题考查根据上下文猜测词义。根据后半句'we must be careful not to shake it'（小心不要摇晃它）可以推断，这座建筑应该是'脆弱的、易碎的'。A意为'坚固'，B意为'美丽'，D意为'高大'，都不符合语境。解题技巧：通过、同义词、反义词或解释说明来猜词。",
-      "label": "词汇题"
+      "correct_answer": "B",
+      "explanation": "ãè§£æãancientæä¸º'å¤èçï¼å¤ä»£ç'ï¼ä¸oldï¼èçï¼æ§çï¼ææææ¥è¿ããéå åæãAéé¡¹modernï¼ç°ä»£çï¼æ¯åä¹è¯ï¼Céé¡¹newï¼æ°çï¼æ¯åä¹è¯ï¼Déé¡¹futureï¼æªæ¥çï¼ä¸ããæå·§ãancient = very oldï¼è¯æ ¹anci-è¡¨ç¤º'å¤è'ï¼è®°å¿èæ³ï¼anï¼ä¸ä¸ªï¼+ cientï¼åå¹´çï¼âå¤èçã",
+      "label": "è¯æ±é¢-è¯ä¹è¾¨æ"
     },
     {
       "id": 6,
       "type": "vocabulary",
       "knowledge_point": "prefix_suffix",
-      "difficulty": 2,
-      "stem": "If you ______ the 'un' to the word 'happy', you get a new word with the opposite meaning.",
+      "difficulty": 1,
+      "stem": "If you add the prefix 'un-' to the word 'happy', you get a new word with the opposite meaning. What is the word?",
       "options": [
-        "A. add",
-        "B. subtract",
-        "C. divide",
-        "D. multiply"
+        "A. unhappy",
+        "B. dishappy",
+        "C. rehappy",
+        "D. happyful"
       ],
       "correct_answer": "A",
-      "explanation": "本题考查构词法前缀。句意：如果你给happy这个词'加上'前缀un，你会得到一个意思相反的新词。add...to...意为'把...加到...'；subtract是'减去'，divide是'除'，multiply是'乘'。un-是常见否定前缀，如unhappy, unhealthy, unfair。",
-      "label": "词汇题"
+      "explanation": "ãè§£æãåç¼un-è¡¨ç¤º'ä¸ï¼é'ï¼å å¨happyåææunhappyï¼ä¸å¼å¿çï¼ããéå åæãBéé¡¹dis-ä¹æ¯å¦å®åç¼ï¼ä½happyçå¦å®å½¢å¼ä¹ æ¯ç¨un-ï¼Céé¡¹re-è¡¨ç¤º'åï¼éæ°'ï¼Déé¡¹-fulæ¯åç¼ï¼è¡¨ç¤º'â¦â¦ç'ï¼ï¼ä¸æ¯åç¼ããæå·§ãå¸¸è§å¦å®åç¼ï¼un-ï¼unhappy/unkindï¼ãdis-ï¼dislike/disagreeï¼ãim-ï¼impossibleï¼ãin-ï¼incorrectï¼ã",
+      "label": "è¯æ±é¢-æè¯æ³"
     },
     {
       "id": 7,
       "type": "vocabulary",
       "knowledge_point": "phrasal_verbs",
       "difficulty": 2,
-      "stem": "My grandmother is ill, so I need to ______ her at home this weekend.",
+      "stem": "We need to ______ a good plan to protect the environment.",
       "options": [
-        "A. look after",
-        "B. turn down",
-        "C. give up",
-        "D. take off"
+        "A. come up with",
+        "B. come up",
+        "C. come from",
+        "D. come back"
       ],
       "correct_answer": "A",
-      "explanation": "本题考查动词短语辨析。look after意为''；turn down意为'调低（音量）'或'拒绝'；give up意为'放弃'；take off意为'起飞'或'脱下'。根据前半句'奶奶'，可知需要''她。解题技巧：积累常见动词短语，结合语境理解。",
-      "label": "词汇题"
+      "explanation": "ãè§£æãcome up withæä¸º'æ³åºï¼ä¸»æãè®¡åãæ¹æ¡ç­ï¼'ï¼ç¬¦åå¥æ'æ³åºä¸ä¸ªå¥½è®¡å'ããéå åæãBéé¡¹come upæä¸º'èµ°è¿ï¼è¢«æåº'ï¼ä¸»è¯­éå¸¸æ¯äºç©ï¼ï¼Céé¡¹come fromæä¸º'æ¥èª'ï¼Déé¡¹come backæä¸º'åæ¥'ããæå·§ãcome up with = think ofï¼éç¹è®°å¿withä¸å¯çç¥ã",
+      "label": "è¯æ±é¢-å¨è¯ç­è¯­"
     },
     {
       "id": 8,
@@ -121,160 +121,160 @@
       "difficulty": 2,
       "stem": "(8)______",
       "options": [
-        "A. builds",
-        "B. was built",
-        "C. built",
-        "D. is building"
+        "A. easy",
+        "B. difficult",
+        "C. interesting",
+        "D. boring"
       ],
       "correct_answer": "B",
-      "explanation": "本题考查被动语态和时态。主语'a new vertical garden'（垂直花园）是动作build的承受，应用被动语态；时间状语Last year表明用一般过去时，所以选was built。结构：was/were + 过去分词。A是主动语态一般现在时，C是主动语态过去式（缺少was），D是现在进行时。",
-      "label": "完形填空",
+      "explanation": "ãè§£æãæ ¹æ®ä¸æ'They believe it is hard to...'ï¼ä»ä»¬è®¤ä¸ºå¾é¾â¦â¦ï¼å¯ç¥ï¼å¾å¤äººè®¤ä¸ºå¨åå¸è¿ç»¿è²çæ´»æ¯'å°é¾ç'ï¼difficultä¸hardåä¹ããéå åæãAéé¡¹ä¸ææç¸åï¼CãDéé¡¹ä¸ä¸æé»è¾ä¸ç¬¦ããæå·§ãå®å½¢å¡«ç©ºæ³¨æä¸ä¸æçåä¹å¤ç°ï¼hardä¸difficultæ¯è¿ä¹è¯ã",
+      "label": "å®å½¢å¡«ç©º",
       "group": "cloze_1",
-      "group_passage": "Many cities around the world are now building vertical gardens on the walls of tall buildings. These green walls not only make the city more beautiful but also help improve the air quality.\n\nLast year, a new vertical garden (8)______ on the east side of our city. It covers an area of 2,000 square meters and (9)______ over 5,000 different plants. The garden was designed by a famous Italian architect who wanted to bring nature back to urban areas.\n\nThe maintenance of the garden is quite special. Unlike traditional gardens, this one uses an automatic watering system. Water (10)______ to the plants through small pipes hidden behind the wall. This system saves about 30% of water compared to normal gardening methods.\n\nLocal residents love this new landmark. \"When I look at the green wall from my window, I feel relaxed,\" said Mrs. Wang, who lives nearby. The garden has also attracted many birds and insects, and it (11)______ the local biodiversity significantly.\n\nCity planners say more vertical gardens (12)______ in the future to make our city greener and more sustainable."
+      "group_passage": "Many people think that living a green life in big cities is (8)______. They believe it is hard to protect the environment when you live in a busy city. However, our school proved that they were wrong.\n\nLast month, we started a \"Zero Waste\" project. The goal was to reduce waste in our daily lives. First, we stopped using plastic bottles. (9)______, we brought reusable bottles to school. My classmate Tom even made a bag from his old T-shirts. It looked very cool!\n\nOur teacher told us that small changes could make a big (10)______. She said that if everyone takes action, our city will become cleaner. The project has changed the way we think about rubbish. Now we know that most things can be reused or (11)______.\n\nI am proud of what we have done. I believe that protecting the environment is not just the government's duty. It is everyone's (12)______. Let's work together to make the world a better place!"
     },
     {
       "id": 9,
       "type": "cloze",
-      "knowledge_point": "cloze_vocabulary",
+      "knowledge_point": "cloze_logic",
       "difficulty": 2,
       "stem": "(9)______",
       "options": [
-        "A. includes",
-        "B. invents",
-        "C. produces",
-        "D. discovers"
+        "A. However",
+        "B. Instead",
+        "C. Therefore",
+        "D. Besides"
       ],
-      "correct_answer": "A",
-      "explanation": "本题考查动词词义辨析。include意为'、'；invent意为'发明'；produce意为'生产'；discover意为'发现'。句意：它占地2000平方米，5000多种不同的植物。花园''植物，所以选A。",
-      "label": "完形填空",
+      "correct_answer": "B",
+      "explanation": "ãè§£æãåæè¯´'åæ­¢ä½¿ç¨å¡æç¶'ï¼åæè¯´'å¸¦å¯éå¤ä½¿ç¨çç¶å­'ï¼æ¯æ¿ä»£ï¼ç¨insteadï¼ç¸åï¼ä»£æ¿ï¼ããéå åæãAéé¡¹howeverè¡¨ç¤ºè½¬æï¼ä½ååæ¯æ¿ä»£èéå¯¹ç«ï¼Céé¡¹thereforeè¡¨ç¤ºå æï¼Déé¡¹besidesè¡¨ç¤ºéè¿ããæå·§ãinsteadè¡¨ç¤º'ç¨â¦â¦ä»£æ¿â¦â¦'ï¼å¸¸ä½äºå¥é¦æå¥æ«ï¼ååå¸¸æ¯ç¸åææ¿ä»£çå¨ä½ã",
+      "label": "å®å½¢å¡«ç©º",
       "group": "cloze_1",
-      "group_passage": "Many cities around the world are now building vertical gardens on the walls of tall buildings. These green walls not only make the city more beautiful but also help improve the air quality.\n\nLast year, a new vertical garden (8)______ on the east side of our city. It covers an area of 2,000 square meters and (9)______ over 5,000 different plants. The garden was designed by a famous Italian architect who wanted to bring nature back to urban areas.\n\nThe maintenance of the garden is quite special. Unlike traditional gardens, this one uses an automatic watering system. Water (10)______ to the plants through small pipes hidden behind the wall. This system saves about 30% of water compared to normal gardening methods.\n\nLocal residents love this new landmark. \"When I look at the green wall from my window, I feel relaxed,\" said Mrs. Wang, who lives nearby. The garden has also attracted many birds and insects, and it (11)______ the local biodiversity significantly.\n\nCity planners say more vertical gardens (12)______ in the future to make our city greener and more sustainable."
+      "group_passage": "Many people think that living a green life in big cities is (8)______. They believe it is hard to protect the environment when you live in a busy city. However, our school proved that they were wrong.\n\nLast month, we started a \"Zero Waste\" project. The goal was to reduce waste in our daily lives. First, we stopped using plastic bottles. (9)______, we brought reusable bottles to school. My classmate Tom even made a bag from his old T-shirts. It looked very cool!\n\nOur teacher told us that small changes could make a big (10)______. She said that if everyone takes action, our city will become cleaner. The project has changed the way we think about rubbish. Now we know that most things can be reused or (11)______.\n\nI am proud of what we have done. I believe that protecting the environment is not just the government's duty. It is everyone's (12)______. Let's work together to make the world a better place!"
     },
     {
       "id": 10,
       "type": "cloze",
-      "knowledge_point": "passive_voice",
+      "knowledge_point": "cloze_collocation",
       "difficulty": 2,
       "stem": "(10)______",
       "options": [
-        "A. sends",
-        "B. is sent",
-        "C. sent",
-        "D. was sending"
+        "A. mistake",
+        "B. decision",
+        "C. difference",
+        "D. progress"
       ],
-      "correct_answer": "B",
-      "explanation": "本题考查一般现在时的被动语态。主语Water是动作send（输送）的承受，应用被动语态；这里描述的是客观事实和系统的常规运作，用一般现在时，所以选is sent。结构：am/is/are + 过去分词。A是主动语态，C缺少be动词，D是过去进行时主动语态。",
-      "label": "完形填空",
+      "correct_answer": "C",
+      "explanation": "ãè§£æãåºå®make a differenceæä¸º'æå½±åï¼èµ·ä½ç¨'ï¼å¥æï¼å°æ¹åå¯ä»¥äº§çå¤§å½±åããéå åæãAéé¡¹make a mistakeæä¸º'ç¯é'ï¼Béé¡¹make a decisionæä¸º'åå³å®'ï¼Déé¡¹progresséå¸¸ä¸makeä½ä¸å aï¼make progressï¼ããæå·§ãéç¹è®°å¿make a differenceè¿ä¸ªé«é¢ç­è¯­ï¼å¸¸åºç°å¨ç¯ä¿ãå¿æ¿æ´»å¨ç­è¯­å¢ä¸­ã",
+      "label": "å®å½¢å¡«ç©º",
       "group": "cloze_1",
-      "group_passage": "Many cities around the world are now building vertical gardens on the walls of tall buildings. These green walls not only make the city more beautiful but also help improve the air quality.\n\nLast year, a new vertical garden (8)______ on the east side of our city. It covers an area of 2,000 square meters and (9)______ over 5,000 different plants. The garden was designed by a famous Italian architect who wanted to bring nature back to urban areas.\n\nThe maintenance of the garden is quite special. Unlike traditional gardens, this one uses an automatic watering system. Water (10)______ to the plants through small pipes hidden behind the wall. This system saves about 30% of water compared to normal gardening methods.\n\nLocal residents love this new landmark. \"When I look at the green wall from my window, I feel relaxed,\" said Mrs. Wang, who lives nearby. The garden has also attracted many birds and insects, and it (11)______ the local biodiversity significantly.\n\nCity planners say more vertical gardens (12)______ in the future to make our city greener and more sustainable."
+      "group_passage": "Many people think that living a green life in big cities is (8)______. They believe it is hard to protect the environment when you live in a busy city. However, our school proved that they were wrong.\n\nLast month, we started a \"Zero Waste\" project. The goal was to reduce waste in our daily lives. First, we stopped using plastic bottles. (9)______, we brought reusable bottles to school. My classmate Tom even made a bag from his old T-shirts. It looked very cool!\n\nOur teacher told us that small changes could make a big (10)______. She said that if everyone takes action, our city will become cleaner. The project has changed the way we think about rubbish. Now we know that most things can be reused or (11)______.\n\nI am proud of what we have done. I believe that protecting the environment is not just the government's duty. It is everyone's (12)______. Let's work together to make the world a better place!"
     },
     {
       "id": 11,
       "type": "cloze",
-      "knowledge_point": "cloze_vocabulary",
-      "difficulty": 3,
+      "knowledge_point": "cloze_context",
+      "difficulty": 2,
       "stem": "(11)______",
       "options": [
-        "A. makes",
-        "B. changes",
-        "C. improves",
-        "D. protects"
+        "A. recycled",
+        "B. reduced",
+        "C. refused",
+        "D. returned"
       ],
-      "correct_answer": "C",
-      "explanation": "本题考查动词词义辨析及语境理解。make意为'使、制作'；change意为'改变'；improve意为'改善、提高'；protect意为'保护'。句意：花园也吸引了许多鸟类和昆虫，显著改善了当地的生物多样性。improve biodiversity（改善生物多样性）是最佳，表示让生物多样性变得更好。",
-      "label": "完形填空",
+      "correct_answer": "A",
+      "explanation": "ãè§£æãorè¿æ¥å¹¶åæåï¼ä¸reusedï¼åå©ç¨ï¼å¹¶åä¸ä¸åå¾çæ¯recycledï¼åæ¶å©ç¨ï¼ããéå åæãBéé¡¹reducedï¼åå°ï¼è½ä¸ç¯ä¿ï¼ä½ä¸reusedé»è¾å¹¶åä¸å¦recycledç´§å¯ï¼Céé¡¹refusedï¼æç»ï¼ï¼Déé¡¹returnedï¼å½è¿ï¼ããæå·§ãç¯ä¿ç±»æç« é«é¢è¯ï¼reuseï¼éå¤ä½¿ç¨ï¼ãrecycleï¼åæ¶ï¼ãreduceï¼åå°ï¼ãrepairï¼ä¿®çï¼ï¼æ³¨æåºåã",
+      "label": "å®å½¢å¡«ç©º",
       "group": "cloze_1",
-      "group_passage": "Many cities around the world are now building vertical gardens on the walls of tall buildings. These green walls not only make the city more beautiful but also help improve the air quality.\n\nLast year, a new vertical garden (8)______ on the east side of our city. It covers an area of 2,000 square meters and (9)______ over 5,000 different plants. The garden was designed by a famous Italian architect who wanted to bring nature back to urban areas.\n\nThe maintenance of the garden is quite special. Unlike traditional gardens, this one uses an automatic watering system. Water (10)______ to the plants through small pipes hidden behind the wall. This system saves about 30% of water compared to normal gardening methods.\n\nLocal residents love this new landmark. \"When I look at the green wall from my window, I feel relaxed,\" said Mrs. Wang, who lives nearby. The garden has also attracted many birds and insects, and it (11)______ the local biodiversity significantly.\n\nCity planners say more vertical gardens (12)______ in the future to make our city greener and more sustainable."
+      "group_passage": "Many people think that living a green life in big cities is (8)______. They believe it is hard to protect the environment when you live in a busy city. However, our school proved that they were wrong.\n\nLast month, we started a \"Zero Waste\" project. The goal was to reduce waste in our daily lives. First, we stopped using plastic bottles. (9)______, we brought reusable bottles to school. My classmate Tom even made a bag from his old T-shirts. It looked very cool!\n\nOur teacher told us that small changes could make a big (10)______. She said that if everyone takes action, our city will become cleaner. The project has changed the way we think about rubbish. Now we know that most things can be reused or (11)______.\n\nI am proud of what we have done. I believe that protecting the environment is not just the government's duty. It is everyone's (12)______. Let's work together to make the world a better place!"
     },
     {
       "id": 12,
       "type": "cloze",
-      "knowledge_point": "passive_voice",
-      "difficulty": 3,
+      "knowledge_point": "cloze_general",
+      "difficulty": 2,
       "stem": "(12)______",
       "options": [
-        "A. will build",
-        "B. are built",
-        "C. will be built",
-        "D. were built"
+        "A. dream",
+        "B. hobby",
+        "C. duty",
+        "D. choice"
       ],
       "correct_answer": "C",
-      "explanation": "本题考查一般将来时的被动语态。主语more vertical gardens是动作build的承受，应用被动语态；时间状语in the future表明用一般将来时，所以选will be built。结构：will be + 过去分词。A是主动语态，B是一般现在时被动，D是一般过去时被动，都不符合in the future的时间要求。",
-      "label": "完形填空",
+      "explanation": "ãè§£æãåææå°'ä¸åªæ¯æ¿åºçè´£ä»»'ï¼å¯¹åº'å®æ¯æ¯ä¸ªäººçè´£ä»»ï¼dutyï¼'ããéå åæãAéé¡¹dreamï¼æ¢¦æ³ï¼ãBéé¡¹hobbyï¼ç±å¥½ï¼ä¸è¯­å¢ä¸ç¬¦ï¼Déé¡¹choiceï¼éæ©ï¼è¯­æ°ä¸å¤å¼ºçããæå·§ãdutyè¡¨ç¤º'è´£ä»»ï¼ä¹å¡'ï¼å¼ºè°åºå½ï¼å¸¸ç¨äºç¯ä¿ãä¹å¡ç­ä¸»é¢ã",
+      "label": "å®å½¢å¡«ç©º",
       "group": "cloze_1",
-      "group_passage": "Many cities around the world are now building vertical gardens on the walls of tall buildings. These green walls not only make the city more beautiful but also help improve the air quality.\n\nLast year, a new vertical garden (8)______ on the east side of our city. It covers an area of 2,000 square meters and (9)______ over 5,000 different plants. The garden was designed by a famous Italian architect who wanted to bring nature back to urban areas.\n\nThe maintenance of the garden is quite special. Unlike traditional gardens, this one uses an automatic watering system. Water (10)______ to the plants through small pipes hidden behind the wall. This system saves about 30% of water compared to normal gardening methods.\n\nLocal residents love this new landmark. \"When I look at the green wall from my window, I feel relaxed,\" said Mrs. Wang, who lives nearby. The garden has also attracted many birds and insects, and it (11)______ the local biodiversity significantly.\n\nCity planners say more vertical gardens (12)______ in the future to make our city greener and more sustainable."
+      "group_passage": "Many people think that living a green life in big cities is (8)______. They believe it is hard to protect the environment when you live in a busy city. However, our school proved that they were wrong.\n\nLast month, we started a \"Zero Waste\" project. The goal was to reduce waste in our daily lives. First, we stopped using plastic bottles. (9)______, we brought reusable bottles to school. My classmate Tom even made a bag from his old T-shirts. It looked very cool!\n\nOur teacher told us that small changes could make a big (10)______. She said that if everyone takes action, our city will become cleaner. The project has changed the way we think about rubbish. Now we know that most things can be reused or (11)______.\n\nI am proud of what we have done. I believe that protecting the environment is not just the government's duty. It is everyone's (12)______. Let's work together to make the world a better place!"
     },
     {
       "id": 13,
       "type": "reading",
       "knowledge_point": "detail",
       "difficulty": 2,
-      "stem": "What was the main problem the students wanted to solve with their invention?",
+      "stem": "When was the first vertical forest built?",
       "options": [
-        "A. The trash bin was too small for the dining hall.",
-        "B. Students didn't want to touch the bin lid with their hands.",
-        "C. The old bins were not environmentally friendly.",
-        "D. The dining hall needed more trash bins."
+        "A. In 2004",
+        "B. In 2014",
+        "C. In 2024",
+        "D. In 1994"
       ],
       "correct_answer": "B",
-      "explanation": "本题是细节理解题。根据文章第二段第二句'We noticed that many students didn't want to touch the bin lid with their hands after eating'可知，学生们注意到很多同学不想在吃完饭后用手触摸垃圾桶盖子，这就是他们想要解决的问题。A、C、D选项在文中均未提及或与原文不符。解题技巧：带着问题找，定位原文句子。",
-      "label": "-细节理解",
+      "explanation": "ãè§£æãç»èé¢ãæ ¹æ®ç¬¬ä¸æ®µæåä¸å¥'The first vertical forest was built in Milan, Italy in 2014.'å¯ç¥ï¼ç¬¬ä¸åº§åç´æ£®æå»ºäº2014å¹´ããéå åæãæ³¨æåºå2014ä¸2004ã1994ç­å¹²æ°é¡¹ï¼å®ä½åæå¹´ä»½ããæå·§ãç»èé¢è¦åç¡®å®ä½ï¼æ³¨ææ°å­ãæ¶é´ãå°ç¹ç­ä¿¡æ¯ã",
+      "label": "-ç»èçè§£",
       "group": "reading_1",
-      "group_passage": "Young Inventors Change School Life\n\nHave you ever dreamed of inventing something useful? At Green Middle School, students are encouraged to turn their creative ideas into real projects during the annual Science Week.\n\nLast month, three eighth-grade students surprised everyone with their invention—a smart trash bin. \"We noticed that many students didn't want to touch the bin lid with their hands after eating,\" explained Li Wei, the team leader. Their design uses a simple sensor. When someone puts their hand near the bin, the lid opens automatically. It is powered by a small solar panel on top, making it environmentally friendly.\n\nThe invention took them three weeks to complete. They faced many challenges, especially with the sensor sensitivity. \"At first, the lid opened even when people just walked past,\" laughed Zhang Ming, another team member. After many tests and adjustments, they finally made it work perfectly.\n\nTeachers were impressed not just by the technology, but by the students' problem-solving skills. \"They learned more from this hands-on experience than from textbooks,\" said their science teacher, Mr. Liu. The smart bin has now been placed in the school dining hall, and the team hopes to improve it further by adding a compression system to save space.\n\nThe school plans to display the best inventions at the city youth center next semester, giving these young creators a chance to share their ideas with a wider audience."
+      "group_passage": "In many big cities around the world, architects are building something amazing called \"vertical forests\". These are tall buildings covered with trees and plants. The first vertical forest was built in Milan, Italy in 2014.\n\nThese special buildings look beautiful, but they do much more than that. They help clean the air by absorbing CO2 and producing oxygen. One vertical forest can absorb as much CO2 as 30,000 cars produce in a year. They also provide homes for birds and insects in the city.\n\nHowever, building vertical forests is not easy. The \"flying gardeners\" have to climb up the buildings to take care of the plants. They check if the plants are healthy and water them regularly. This job requires special skills and courage.\n\nSome people worry that these buildings are too expensive. But supporters say the benefits to the environment are worth the cost. They believe vertical forests are the future of city living."
     },
     {
       "id": 14,
       "type": "reading",
       "knowledge_point": "inference",
       "difficulty": 3,
-      "stem": "What can we infer from the passage about the students?",
+      "stem": "What can we infer about the \"flying gardeners\" mentioned in Paragraph 3?",
       "options": [
-        "A. They succeeded in making the invention without any difficulties.",
-        "B. They are only interested in winning prizes and becoming famous.",
-        "C. They improved their problem-solving skills through the project.",
-        "D. They spent only one week completing the invention."
+        "A. They are afraid of heights",
+        "B. They need special skills to do their job",
+        "C. They only work at night",
+        "D. They use helicopters to fly"
       ],
-      "correct_answer": "C",
-      "explanation": "本题是推理判断题。根据第四段第一句'Teachers were impressed not just by the technology, but by the students' problem-solving skills'以及'They learned more from this hands-on experience than from textbooks'可以推断，学生通过这个项目提高了解决问题的能力。A与第三段提到的faced many challenges矛盾；B文中未提及且与文意不符；D与第三段第一句took them three weeks矛盾。解题技巧：推理题要基于原文信息合理推断，不能主观臆断，也不能选与原文矛盾的选项。",
-      "label": "-推理判断",
+      "correct_answer": "B",
+      "explanation": "ãè§£æãæ¨çé¢ãæ ¹æ®ç¬¬ä¸æ®µ'This job requires special skills and courage.'ï¼è¿ä»½å·¥ä½éè¦ç¹æ®æè½ååæ°ï¼å¯æ¨æ­ï¼é£è¡å­ä¸éè¦ç¹æ®æè½ããéå åæãAéé¡¹ä¸'courage'çç¾ï¼Céé¡¹æä¸­æªæåæ¶é´ï¼Déé¡¹'fly'æ¯æ¯å»è¯´æ³ï¼å¹¶éçç¨ç´åæºããæå·§ãæ¨çé¢è¦åºäºææ¬è¯æ®ï¼ä¸è½ä¸»è§èæ­ï¼æ³¨æ'requires special skills'çç´æ¥å¯¹åºã",
+      "label": "-æ¨çå¤æ­",
       "group": "reading_1",
-      "group_passage": "Young Inventors Change School Life\n\nHave you ever dreamed of inventing something useful? At Green Middle School, students are encouraged to turn their creative ideas into real projects during the annual Science Week.\n\nLast month, three eighth-grade students surprised everyone with their invention—a smart trash bin. \"We noticed that many students didn't want to touch the bin lid with their hands after eating,\" explained Li Wei, the team leader. Their design uses a simple sensor. When someone puts their hand near the bin, the lid opens automatically. It is powered by a small solar panel on top, making it environmentally friendly.\n\nThe invention took them three weeks to complete. They faced many challenges, especially with the sensor sensitivity. \"At first, the lid opened even when people just walked past,\" laughed Zhang Ming, another team member. After many tests and adjustments, they finally made it work perfectly.\n\nTeachers were impressed not just by the technology, but by the students' problem-solving skills. \"They learned more from this hands-on experience than from textbooks,\" said their science teacher, Mr. Liu. The smart bin has now been placed in the school dining hall, and the team hopes to improve it further by adding a compression system to save space.\n\nThe school plans to display the best inventions at the city youth center next semester, giving these young creators a chance to share their ideas with a wider audience."
+      "group_passage": "In many big cities around the world, architects are building something amazing called \"vertical forests\". These are tall buildings covered with trees and plants. The first vertical forest was built in Milan, Italy in 2014.\n\nThese special buildings look beautiful, but they do much more than that. They help clean the air by absorbing CO2 and producing oxygen. One vertical forest can absorb as much CO2 as 30,000 cars produce in a year. They also provide homes for birds and insects in the city.\n\nHowever, building vertical forests is not easy. The \"flying gardeners\" have to climb up the buildings to take care of the plants. They check if the plants are healthy and water them regularly. This job requires special skills and courage.\n\nSome people worry that these buildings are too expensive. But supporters say the benefits to the environment are worth the cost. They believe vertical forests are the future of city living."
     },
     {
       "id": 15,
       "type": "reading",
       "knowledge_point": "word_guessing",
       "difficulty": 2,
-      "stem": "What does the underlined word 'compression' in Paragraph 4 probably mean?",
+      "stem": "What does the underlined word \"absorbing\" in Paragraph 2 mean?",
       "options": [
-        "A. Making something smaller in size.",
-        "B. Collecting things together.",
-        "C. Cleaning something thoroughly.",
-        "D. Moving something quickly."
+        "A. Taking in",
+        "B. Giving out",
+        "C. Breaking down",
+        "D. Building up"
       ],
       "correct_answer": "A",
-      "explanation": "本题是词义猜测题。根据第四段最后一句'adding a compression system to save space'（增加一个compression系统来节省空间）可知，能够节省空间的应该是'压缩'系统，即使物体体积变小。B意为'收集'，C意为''，D意为'快速移动'，都不能直接带来节省空间的效果。解题技巧：通过上下文中的目的状语to save space来推断词义。",
-      "label": "-词义猜测",
+      "explanation": "ãè§£æãè¯ä¹çæµé¢ãæ ¹æ®ä¸ä¸æ'absorbing CO2 and producing oxygen'ï¼å¸æ¶äºæ°§åç¢³å¹¶äº§çæ°§æ°ï¼ï¼absorbä¸produceï¼äº§çï¼ç¸å¯¹ï¼åºæ¯'å¸æ¶'ä¹æï¼ä¸take inåä¹ããéå åæãBéé¡¹give outï¼éæ¾ï¼æ¯åä¹è¯ï¼Céé¡¹break downï¼åè§£ï¼ï¼Déé¡¹build upï¼å»ºç«ï¼ããæå·§ãå©ç¨å¹¶åç»æandçå¯¹æ¯ï¼æ¤ç©å¸æ¶CO2éæ¾æ°§æ°ï¼å¯æ¨æ­absorbä¸º'å¸æ¶'ã",
+      "label": "-è¯ä¹çæµ",
       "group": "reading_1",
-      "group_passage": "Young Inventors Change School Life\n\nHave you ever dreamed of inventing something useful? At Green Middle School, students are encouraged to turn their creative ideas into real projects during the annual Science Week.\n\nLast month, three eighth-grade students surprised everyone with their invention—a smart trash bin. \"We noticed that many students didn't want to touch the bin lid with their hands after eating,\" explained Li Wei, the team leader. Their design uses a simple sensor. When someone puts their hand near the bin, the lid opens automatically. It is powered by a small solar panel on top, making it environmentally friendly.\n\nThe invention took them three weeks to complete. They faced many challenges, especially with the sensor sensitivity. \"At first, the lid opened even when people just walked past,\" laughed Zhang Ming, another team member. After many tests and adjustments, they finally made it work perfectly.\n\nTeachers were impressed not just by the technology, but by the students' problem-solving skills. \"They learned more from this hands-on experience than from textbooks,\" said their science teacher, Mr. Liu. The smart bin has now been placed in the school dining hall, and the team hopes to improve it further by adding a compression system to save space.\n\nThe school plans to display the best inventions at the city youth center next semester, giving these young creators a chance to share their ideas with a wider audience."
+      "group_passage": "In many big cities around the world, architects are building something amazing called \"vertical forests\". These are tall buildings covered with trees and plants. The first vertical forest was built in Milan, Italy in 2014.\n\nThese special buildings look beautiful, but they do much more than that. They help clean the air by absorbing CO2 and producing oxygen. One vertical forest can absorb as much CO2 as 30,000 cars produce in a year. They also provide homes for birds and insects in the city.\n\nHowever, building vertical forests is not easy. The \"flying gardeners\" have to climb up the buildings to take care of the plants. They check if the plants are healthy and water them regularly. This job requires special skills and courage.\n\nSome people worry that these buildings are too expensive. But supporters say the benefits to the environment are worth the cost. They believe vertical forests are the future of city living."
     },
     {
       "id": 16,
       "type": "reading",
       "knowledge_point": "main_idea",
       "difficulty": 3,
-      "stem": "What is the best title for the passage?",
+      "stem": "What is the writer's attitude towards vertical forests?",
       "options": [
-        "A. How to Make a Smart Trash Bin",
-        "B. The Importance of Science Weeks",
-        "C. Young Inventors Change School Life",
-        "D. Solar Power in School Buildings"
+        "A. Negative",
+        "B. Doubtful",
+        "C. Positive",
+        "D. Uncaring"
       ],
       "correct_answer": "C",
-      "explanation": "本题是主旨大意题（最佳标题）。文章主要讲述了三个学生发明智能垃圾桶，展示了年轻发明家如何通过创新改变校园生活。A选项只涉及发明过程，过于片面；B选项强调科学周的重要性，但文章重点是学生的发明；D选项只提到太阳能，是细节而非主旨。C选项'年轻发明家改变校园生活'最能概括主旨。解题技巧：最佳标题要能概括，不能以偏概，通常与文章开头或结尾的主题句。",
-      "label": "-主旨大意",
+      "explanation": "ãè§£æãä¸»æ¨æåº¦é¢ãæ ¹æ®æç« ç¨è¯'amazing'ã'help clean the air'ã'provide homes'ã'benefits to the environment are worth the cost'ã'future of city living'ç­ï¼å¯å¤æ­æç§¯ææåº¦ããéå åæãAï¼æ¶æï¼ãBï¼æçï¼ãDï¼æ¼ ï¼åä¸æç« åºè°ä¸ç¬¦ããæå·§ãæåº¦é¢å½¢å®¹è¯åè½¬æè¯ï¼butåsupportersçè§ç¹å³ä¸ºæ¯æçæ¹åã",
+      "label": "-è§ç¹æåº¦",
       "group": "reading_1",
-      "group_passage": "Young Inventors Change School Life\n\nHave you ever dreamed of inventing something useful? At Green Middle School, students are encouraged to turn their creative ideas into real projects during the annual Science Week.\n\nLast month, three eighth-grade students surprised everyone with their invention—a smart trash bin. \"We noticed that many students didn't want to touch the bin lid with their hands after eating,\" explained Li Wei, the team leader. Their design uses a simple sensor. When someone puts their hand near the bin, the lid opens automatically. It is powered by a small solar panel on top, making it environmentally friendly.\n\nThe invention took them three weeks to complete. They faced many challenges, especially with the sensor sensitivity. \"At first, the lid opened even when people just walked past,\" laughed Zhang Ming, another team member. After many tests and adjustments, they finally made it work perfectly.\n\nTeachers were impressed not just by the technology, but by the students' problem-solving skills. \"They learned more from this hands-on experience than from textbooks,\" said their science teacher, Mr. Liu. The smart bin has now been placed in the school dining hall, and the team hopes to improve it further by adding a compression system to save space.\n\nThe school plans to display the best inventions at the city youth center next semester, giving these young creators a chance to share their ideas with a wider audience."
+      "group_passage": "In many big cities around the world, architects are building something amazing called \"vertical forests\". These are tall buildings covered with trees and plants. The first vertical forest was built in Milan, Italy in 2014.\n\nThese special buildings look beautiful, but they do much more than that. They help clean the air by absorbing CO2 and producing oxygen. One vertical forest can absorb as much CO2 as 30,000 cars produce in a year. They also provide homes for birds and insects in the city.\n\nHowever, building vertical forests is not easy. The \"flying gardeners\" have to climb up the buildings to take care of the plants. They check if the plants are healthy and water them regularly. This job requires special skills and courage.\n\nSome people worry that these buildings are too expensive. But supporters say the benefits to the environment are worth the cost. They believe vertical forests are the future of city living."
     },
     {
       "id": 17,
@@ -283,17 +283,17 @@
       "difficulty": 2,
       "stem": "(17)______",
       "options": [
-        "A. However, the programming part was really challenging.",
-        "B. It was made of recycled materials like old bottles and boxes.",
-        "C. First, he learned some basic robotics online.",
-        "D. As a result, he became the star of the Science Day.",
-        "E. Then, he started to build the robot body with his father."
+        "A. However, this is actually not efficient.",
+        "B. Therefore, you should identify when you feel most alert.",
+        "C. Finally, remember to balance different subjects.",
+        "D. Then, cross out each item when you complete it.",
+        "E. Without enough rest, your brain cannot work well."
       ],
-      "correct_answer": "B",
-      "explanation": "本题考查段落衔接和上下文逻辑。前一句提到'我对同学Tom制作的机器人'，后一句说'它能自动打扫教室地面'。选项B'它是由回收材料制成的，比如旧瓶子和盒子'正好是对机器人的进一步描述，衔接自然。A表示转折，C表示第一步，D表示结果，E表示然后，都不符合此处对机器人进行描述的功能。",
-      "label": "短文填空",
+      "correct_answer": "D",
+      "explanation": "ãè§£æãéå¥å¡«ç©ºãåææå°'åä¸ææéè¦å®æçä»»å¡'ï¼åæè¯´'è¿ç»ä½ æå°±æ'ï¼Déé¡¹'ç¶åï¼å½ä½ å®ææ¯é¡¹ä»»å¡æ¶åæå®'æ¿ä¸å¯ä¸ï¼cross outä¸check offåä¹ããéå åæãAé¡¹è½¬æè¯­æ°ä¸ç¬¦ï¼Bé¡¹è°æ¶é´éæ©ï¼ä¸æ­¤å¤ä»»å¡ï¼Cé¡¹æ¯æåä¸ç¹ï¼Eé¡¹è°ä¼æ¯ï¼è¯é¢ä¸ç¬¦ããæå·§ãæ³¨æä»£è¯thisæä»£åæï¼Dé¡¹ç'åæä»»å¡'å¸¦æ¥'æå°±æ'ã",
+      "label": "ç­æå¡«ç©º",
       "group": "fill_1",
-      "group_passage": "Last month, our school held a Science Day. Many students brought their creative inventions to show. I was interested in a robot made by my classmate Tom. (17)______ It could clean the classroom floor automatically.\n\nI asked Tom how he made it. (18)______ He told me he spent two months on it. At first, he faced many technical problems. (19)______ He almost gave up, but his father encouraged him to keep trying. Finally, he solved all the problems successfully.\n\n(20)______ His success inspired me to start my own science project."
+      "group_passage": "Being a student is not easy. You have to deal with homework, exams, and extracurricular activities. How can you manage your time well?\n\nFirst, make a to-do list every morning. Write down all the tasks you need to complete. (17)______ This gives you a sense of achievement and helps you track your progress.\n\nSecond, find your most productive time. Some people work best in the morning, while others focus better at night. (18)______ Use this time to tackle your most difficult subjects.\n\nThird, take regular breaks. Many students think they should study for long hours without stopping. (19)______ In fact, taking a five-minute break every hour can improve your concentration.\n\n(20)______ If you spend all your time on one subject, you may neglect others. Try to allocate your time wisely among different subjects.\n\nGood time management can help you achieve better results with less stress."
     },
     {
       "id": 18,
@@ -302,36 +302,36 @@
       "difficulty": 2,
       "stem": "(18)______",
       "options": [
-        "A. However, the programming part was really challenging.",
-        "B. It was made of recycled materials like old bottles and boxes.",
-        "C. First, he learned some basic robotics online.",
-        "D. As a result, he became the star of the Science Day.",
-        "E. Then, he started to build the robot body with his father."
+        "A. However, this is actually not efficient.",
+        "B. Therefore, you should identify when you feel most alert.",
+        "C. Finally, remember to balance different subjects.",
+        "D. Then, cross out each item when you complete it.",
+        "E. Without enough rest, your brain cannot work well."
       ],
-      "correct_answer": "C",
-      "explanation": "本题考查逻辑顺序和连接词。前一句问'我问他如何制作的'，后一句应该回答制作的第一步。选项C'，他在网上学习了一些基础机器人技术'中的First（）很好地开启了制作过程的描述，符合时间顺序。E中的Then（然后）应该用于描述第二步，不适合作为开始。",
-      "label": "短文填空",
+      "correct_answer": "B",
+      "explanation": "ãè§£æãåææå°'æäºäººæ©ä¸æçé«ï¼æäºäººæä¸ä¸æ³¨'ï¼Béé¡¹'å æ­¤ï¼ä½ åºè¯¥ç¡®å®èªå·±ä»ä¹æ¶åæ'æ¿æ¥ä¸æï¼thereforeè¡¨ç¤ºå æï¼identifyä¸findåä¹ããéå åæãAé¡¹è½¬æä¸ç¬¦ï¼Cé¡¹æ¯æåä¸ç¹ï¼Dé¡¹å·²ç¨äº17é¢ï¼Eé¡¹è°ä¼æ¯ï¼ä¸æ­¤å¤æ¶é´éæ©ããæå·§ãæ³¨æthereforeè¡¨ç¤ºç»æï¼åææåºé®é¢ï¼æ­¤å¤ç»åºè§£å³æ¹æ¡ã",
+      "label": "ç­æå¡«ç©º",
       "group": "fill_1",
-      "group_passage": "Last month, our school held a Science Day. Many students brought their creative inventions to show. I was interested in a robot made by my classmate Tom. (17)______ It could clean the classroom floor automatically.\n\nI asked Tom how he made it. (18)______ He told me he spent two months on it. At first, he faced many technical problems. (19)______ He almost gave up, but his father encouraged him to keep trying. Finally, he solved all the problems successfully.\n\n(20)______ His success inspired me to start my own science project."
+      "group_passage": "Being a student is not easy. You have to deal with homework, exams, and extracurricular activities. How can you manage your time well?\n\nFirst, make a to-do list every morning. Write down all the tasks you need to complete. (17)______ This gives you a sense of achievement and helps you track your progress.\n\nSecond, find your most productive time. Some people work best in the morning, while others focus better at night. (18)______ Use this time to tackle your most difficult subjects.\n\nThird, take regular breaks. Many students think they should study for long hours without stopping. (19)______ In fact, taking a five-minute break every hour can improve your concentration.\n\n(20)______ If you spend all your time on one subject, you may neglect others. Try to allocate your time wisely among different subjects.\n\nGood time management can help you achieve better results with less stress."
     },
     {
       "id": 19,
       "type": "fill",
       "knowledge_point": "sentence_fill",
-      "difficulty": 3,
+      "difficulty": 2,
       "stem": "(19)______",
       "options": [
-        "A. However, the programming part was really challenging.",
-        "B. It was made of recycled materials like old bottles and boxes.",
-        "C. First, he learned some basic robotics online.",
-        "D. As a result, he became the star of the Science Day.",
-        "E. Then, he started to build the robot body with his father."
+        "A. However, this is actually not efficient.",
+        "B. Therefore, you should identify when you feel most alert.",
+        "C. Finally, remember to balance different subjects.",
+        "D. Then, cross out each item when you complete it.",
+        "E. Without enough rest, your brain cannot work well."
       ],
       "correct_answer": "A",
-      "explanation": "本题考查转折。前一句说'起初，他面临许多技术问题'，后一句说'他几乎要放弃了'。选项A'然而，编程部分真的很有挑战性'中的However（然而）表示转折，进一步说明遇到的困难，与后文的'几乎放弃'形成因果逻辑。E选项虽然也是过程描述，但此处需要强调困难而非继续步骤。",
-      "label": "短文填空",
+      "explanation": "ãè§£æãåæè¯´'è®¸å¤å­¦çè®¤ä¸ºåºè¯¥é¿æ¶é´å­¦ä¹ ä¸ä¼æ¯'ï¼åæè¯´'äºå®ä¸ï¼æ¯å°æ¶ä¼æ¯äºåéè½æé«ä¸æ³¨å'ï¼ååæ¯è½¬æï¼Aéé¡¹'ç¶èï¼è¿å¹¶ä¸é«æ'ç¬¦åé»è¾ããéå åæãBé¡¹å æä¸ç¬¦ï¼Cé¡¹æ¯æåä¸ç¹ï¼Dé¡¹å·²ç¨ï¼Eé¡¹è½è°ä¼æ¯ä½è¯­æ°ä¸å¦Aé¡¹è½¬æå¼ºçããæå·§ãhoweverè¡¨ç¤ºè½¬æï¼å¦å®åæéè¯¯è§ç¹ï¼å¼åºæ­£ç¡®åæ³ã",
+      "label": "ç­æå¡«ç©º",
       "group": "fill_1",
-      "group_passage": "Last month, our school held a Science Day. Many students brought their creative inventions to show. I was interested in a robot made by my classmate Tom. (17)______ It could clean the classroom floor automatically.\n\nI asked Tom how he made it. (18)______ He told me he spent two months on it. At first, he faced many technical problems. (19)______ He almost gave up, but his father encouraged him to keep trying. Finally, he solved all the problems successfully.\n\n(20)______ His success inspired me to start my own science project."
+      "group_passage": "Being a student is not easy. You have to deal with homework, exams, and extracurricular activities. How can you manage your time well?\n\nFirst, make a to-do list every morning. Write down all the tasks you need to complete. (17)______ This gives you a sense of sense of achievement and helps you track your progress.\n\nSecond, find your most productive time. Some people work best in the morning, while others focus better at night. (18)______ Use this time to tackle your most difficult subjects.\n\nThird, take regular breaks. Many students think they should study for long hours without stopping. (19)______ In fact, taking a five-minute break every hour can improve your concentration.\n\n(20)______ If you spend all your time on one subject, you may neglect others. Try to allocate your time wisely among different subjects.\n\nGood time management can help you achieve better results with less stress."
     },
     {
       "id": 20,
@@ -340,17 +340,17 @@
       "difficulty": 2,
       "stem": "(20)______",
       "options": [
-        "A. However, the programming part was really challenging.",
-        "B. It was made of recycled materials like old bottles and boxes.",
-        "C. First, he learned some basic robotics online.",
-        "D. As a result, he became the star of the Science Day.",
-        "E. Then, he started to build the robot body with his father."
+        "A. However, this is actually not efficient.",
+        "B. Therefore, you should identify when you feel most alert.",
+        "C. Finally, remember to balance different subjects.",
+        "D. Then, cross out each item when you complete it.",
+        "E. Without enough rest, your brain cannot work well."
       ],
-      "correct_answer": "D",
-      "explanation": "本题考查和总结。前一句说'最后，他成功地解决了所有问题'，后一句说'他的成功激励了我开始自己的科学项目'。选项D'因此，他成为了科学日的明星'中的As a result（因此、结果）表示，承接上文的成功，并引出下文的影响，起到承上启下的作用。",
-      "label": "短文填空",
+      "correct_answer": "C",
+      "explanation": "ãè§£æãæ­¤å¤æ¯æåä¸ç¹å»ºè®®ï¼Céé¡¹'Finally, remember to balance different subjects.'ï¼æåï¼è®°å¾å¹³è¡¡ä¸åç§ç®ï¼ç¬¦åé¡ºåºï¼ä¸åæè°'ä¸è½ææææ¶é´è±å¨ä¸ä¸ªç§ç®ä¸'ä¸ä¹å¼åºããéå åæãAãBãDå·²ç¨ï¼Eé¡¹è°ä¼æ¯ï¼å±äºç¬¬ä¸ç¹ããæå·§ãæ³¨æè¿æ¥è¯first/second/third/finallyçé¡ºåºï¼finallyæç¤ºè¿æ¯æåä¸ç¹å»ºè®®ã",
+      "label": "ç­æå¡«ç©º",
       "group": "fill_1",
-      "group_passage": "Last month, our school held a Science Day. Many students brought their creative inventions to show. I was interested in a robot made by my classmate Tom. (17)______ It could clean the classroom floor automatically.\n\nI asked Tom how he made it. (18)______ He told me he spent two months on it. At first, he faced many technical problems. (19)______ He almost gave up, but his father encouraged him to keep trying. Finally, he solved all the problems successfully.\n\n(20)______ His success inspired me to start my own science project."
+      "group_passage": "Being a student is not easy. You have to deal with homework, exams, and extracurricular activities. How can you manage your time well?\n\nFirst, make a to-do list every morning. Write down all the tasks you need to complete. (17)______ This gives you a sense of achievement and helps you track your progress.\n\nSecond, find your most productive time. Some people work best in the morning, while others focus better at night. (18)______ Use this time to tackle your most difficult subjects.\n\nThird, take regular breaks. Many students think they should study for long hours without stopping. (19)______ In fact, taking a five-minute break every hour can improve your concentration.\n\n(20)______ If you spend all your time on one subject, you may neglect others. Try to allocate your time wisely among different subjects.\n\nGood time management can help you achieve better results with less stress."
     }
   ]
 }
