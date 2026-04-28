@@ -1,356 +1,221 @@
 {
-  "date": "2026-04-27",
+  "date": "2026-04-28",
   "session_number": 1,
   "questions": [
     {
       "id": 1,
       "type": "grammar",
-      "knowledge_point": "present_perfect_vs_past_simple",
+      "knowledge_point": "simple_future",
       "difficulty": 2,
-      "stem": "I ______ the book already. I ______ it last week.",
-      "options": [
-        "A. have read; read",
-        "B. read; have read",
-        "C. have read; have read",
-        "D. read; read"
-      ],
-      "correct_answer": "A",
-      "explanation": "【解析】第一空后有already（已经），是现在完成时的标志词，表示过去动作对现在的影响，用have read；第二空有last week（上周），是一般过去时的标志，用read（过去式与原形同形）。【错因分析】B选项混淆了两种时态的时间标志；C选项第二空不应使用完成时；D选项第一空缺少助动词have。【技巧】记住口诀：already/ever/never/yet/since/for用现完，yesterday/last week/ago/just now用过去。",
-      "label": "语法题-时态辨析"
+      "stem": "Look at the dark clouds. I think it ______ soon.",
+      "options": ["A. rains", "B. is raining", "C. will rain", "D. rained"],
+      "correct_answer": "C",
+      "explanation": "【解析】根据 'Look at the dark clouds' 和 'soon'（很快）判断，这里是对将来情况的预测，应用一般将来时 will rain。A 是一般现在时，表示经常性动作；B 是现在进行时，表示此刻正在发生；D 是一般过去时。【技巧】will + 动词原形表示将来预测，常伴有 I think/I believe 等表达观点的句式。"
     },
     {
       "id": 2,
       "type": "grammar",
-      "knowledge_point": "relative_clause_who_which",
+      "knowledge_point": "conditional",
       "difficulty": 2,
-      "stem": "The boy ______ is standing under the tree is my brother.",
-      "options": [
-        "A. who",
-        "B. which",
-        "C. whom",
-        "D. whose"
-      ],
+      "stem": "______ you study harder, you ______ better grades next term.",
+      "options": ["A. If; will get", "B. Unless; get", "C. If; get", "D. Unless; will get"],
       "correct_answer": "A",
-      "explanation": "【解析】词the boy指人，且在定语从句中作主语（is standing），用代词who。【错因分析】B选项which用于指物；C选项whom用于指人但作宾语；D选项whose表示'……的'，在从句中作定语。【技巧】定语从句选择词：指人作主语用who，指人作宾语用whom，指物用which，表示所属用whose。",
-      "label": "语法题-定语从句"
+      "explanation": "【解析】if 引导真实条件句，遵循 '主将从现' 原则：if 从句用一般现在时，主句用一般将来时。句意：如果你更努力学习，下学期你会取得更好的成绩。unless = if not（除非），代入后语义不通：'除非更努力，你会取得好成绩' 逻辑矛盾。B/C 主句缺少 will；D unless 语义不对。【技巧】if + 现，主 + will。看到 if 条件句先锁定 '主将从现'。"
     },
     {
       "id": 3,
       "type": "grammar",
-      "knowledge_point": "passive_voice",
+      "knowledge_point": "comparative",
       "difficulty": 2,
-      "stem": "These trees ______ by the students every year.",
-      "options": [
-        "A. are planted",
-        "B. planted",
-        "C. were planted",
-        "D. plant"
-      ],
-      "correct_answer": "A",
-      "explanation": "【解析】主语these trees与plant是被动（树被种植），且every year表示经常性动作，应用一般现在时的被动语态am/is/are + done。【错因分析】B选项是主动语态过去式；C选项是过去时被动，与every year不符；D选项是主动语态。【技巧】被动语态结构：be + 过去分词，注意时间状语决定be动词的时态。",
-      "label": "语法题-被动语态"
+      "stem": "The weather in Shenzhen is ______ than that in Beijing in winter.",
+      "options": ["A. warm", "B. warmer", "C. warmest", "D. the warmest"],
+      "correct_answer": "B",
+      "explanation": "【解析】句中有 than，必须用比较级。warm 是单音节词，比较级直接加 -er，即 warmer。A 是原级；C/D 是最高级，不能和 than 搭配。【技巧】看到 than 就锁定比较级。单音节词加 -er，多音节词加 more，以辅音+y 结尾变 y 为 i 加 -er（happy -> happier）。"
     },
     {
       "id": 4,
       "type": "grammar",
-      "knowledge_point": "object_clause",
+      "knowledge_point": "there_be",
       "difficulty": 2,
-      "stem": "I wonder ______ Tom ______ to the party tomorrow. If he comes, I will be very happy.",
-      "options": [
-        "A. if; will come",
-        "B. whether; comes",
-        "C. that; will come",
-        "D. if; comes"
-      ],
-      "correct_answer": "A",
-      "explanation": "【解析】wonder后接宾语从句表示'是否'，用if或whether；tomorrow提示从句用一般将来时。【错因分析】B选项第二错用一般现在时；C选项that表示肯定事实，与wonder（想知道）语义不符；D选项第二错用一般现在时。【技巧】wonder/question后接if/whether引导宾语从句，注意时态呼应，tomorrow等将来时间状语提示用将来时。",
-      "label": "语法题-宾语从句"
+      "stem": "______ a basketball match between Class 1 and Class 2 tomorrow afternoon.",
+      "options": ["A. There will have", "B. There will be", "C. There is going to have", "D. There has"],
+      "correct_answer": "B",
+      "explanation": "【解析】there be 句型表示 '存在有'，将来时用 There will be 或 There is/are going to be。have 表示 '拥有'，主语通常是人，不能与 there be 混用。A 和 C 错在 there be 和 have 杂糅；D 是 there has，结构错误。【技巧】there be 的将来时：There will be / There is going to be。记住 there be 和 have 不能同时出现。"
     },
     {
       "id": 5,
-      "type": "vocabulary",
-      "knowledge_point": "word_meaning",
-      "difficulty": 2,
-      "stem": "Which word is closest in meaning to 'ancient'?",
-      "options": [
-        "A. modern",
-        "B. old",
-        "C. new",
-        "D. future"
-      ],
+      "type": "grammar",
+      "knowledge_point": "present_continuous",
+      "difficulty": 1,
+      "stem": "Hurry up! The bus ______. We need to run!",
+      "options": ["A. comes", "B. is coming", "C. came", "D. will come"],
       "correct_answer": "B",
-      "explanation": "【解析】ancient意为'古老的，古代的'，与old（老的，旧的）意思最接近。【错因分析】A选项modern（现代的）是反义词；C选项new（新的）是反义词；D选项future（未来的）不。【技巧】ancient = very old，词根anci-表示'古老'，记忆联想：an（一个）+ cient（千年的）→古老的。",
-      "label": "词汇题-词义辨析"
+      "explanation": "【解析】'Hurry up!' 和 'We need to run!' 表明公交车 '正在来/马上到'。某些表示位移的动词（come, go, leave, arrive）可用现在进行时表示即将发生的将来动作。A 是一般现在时，缺少紧迫感；C 是过去时；D 虽然语法对，但 is coming 更生动地表达 '车来了' 的即时感。【技巧】come/go/leave/arrive 的现在进行时可表将来计划或即将发生的动作。"
     },
     {
       "id": 6,
       "type": "vocabulary",
-      "knowledge_point": "prefix_suffix",
-      "difficulty": 1,
-      "stem": "If you add the prefix 'un-' to the word 'happy', you get a new word with the opposite meaning. What is the word?",
-      "options": [
-        "A. unhappy",
-        "B. dishappy",
-        "C. rehappy",
-        "D. happyful"
-      ],
-      "correct_answer": "A",
-      "explanation": "【解析】前缀un-表示'不，非'，加在happy前构成unhappy（不开心的）。【错因分析】B选项dis-也是否定前缀，但happy的否定形式习惯用un-；C选项re-表示'再，重新'；D选项-ful是后缀（表示'……的'），不是前缀。【技巧】常见否定前缀：un-（unhappy/unkind）、dis-（dislike/disagree）、im-（impossible）、in-（incorrect）。",
-      "label": "词汇题-构词法"
+      "knowledge_point": "synonym_antonym",
+      "difficulty": 2,
+      "stem": "The underlined word 'rapid' is closest in meaning to ______.",
+      "options": ["A. slow", "B. quick", "C. careful", "D. difficult"],
+      "correct_answer": "B",
+      "explanation": "【解析】rapid = 快速的，与 quick 意思最接近。A(slow) 是反义词；C(careful) 和 D(difficult) 语义不相关。【技巧】rapid 常见于 'rapid growth/change/development'，记忆联想：rap（说唱）+ id = 说唱速度很快。"
     },
     {
       "id": 7,
       "type": "vocabulary",
-      "knowledge_point": "phrasal_verbs",
+      "knowledge_point": "word_form",
       "difficulty": 2,
-      "stem": "We need to ______ a good plan to protect the environment.",
-      "options": [
-        "A. come up with",
-        "B. come up",
-        "C. come from",
-        "D. come back"
-      ],
-      "correct_answer": "A",
-      "explanation": "【解析】come up with意为'想出（主意、计划、方案等）'，符合句意'想出一个好计划'。【错因分析】B选项come up意为'走近，被提出'（主语通常是事物）；C选项come from意为'来自'；D选项come back意为'回来'。【技巧】come up with = think of，重点记忆with不可省略。",
-      "label": "词汇题-动词短语"
+      "stem": "The ______ of this new medicine is a young scientist from Wuhan.",
+      "options": ["A. invent", "B. invention", "C. inventor", "D. inventive"],
+      "correct_answer": "C",
+      "explanation": "【解析】句意：这种新药的______是一位来自武汉的年轻科学家。空格处需要表示 '人' 的名词。invent(动词，发明)；invention(名词，发明物)；inventor(名词，发明家)；inventive(形容词，有创造力的)。科学家是人，用 inventor。【技巧】-or / -er 结尾常表示 '做某事的人'：inventor, actor, driver, teacher。"
     },
     {
       "id": 8,
-      "type": "cloze",
-      "knowledge_point": "cloze_general",
+      "type": "vocabulary",
+      "knowledge_point": "context_word",
       "difficulty": 2,
-      "stem": "(8)______",
-      "options": [
-        "A. easy",
-        "B. difficult",
-        "C. interesting",
-        "D. boring"
-      ],
-      "correct_answer": "B",
-      "explanation": "【解析】根据下文'They believe it is hard to...'（他们认为很难……）可知，很多人认为在城市过绿色生活是'困难的'，difficult与hard同义。【错因分析】A选项与文意相反；C、D选项与下文逻辑不符。【技巧】完形填空注意上下文的同义复现，hard与difficult是近义词。",
-      "label": "完形填空",
-      "group": "cloze_1",
-      "group_passage": "Many people think that living a green life in big cities is (8)______. They believe it is hard to protect the environment when you live in a busy city. However, our school proved that they were wrong.\n\nLast month, we started a \"Zero Waste\" project. The goal was to reduce waste in our daily lives. First, we stopped using plastic bottles. (9)______, we brought reusable bottles to school. My classmate Tom even made a bag from his old T-shirts. It looked very cool!\n\nOur teacher told us that small changes could make a big (10)______. She said that if everyone takes action, our city will become cleaner. The project has changed the way we think about rubbish. Now we know that most things can be reused or (11)______.\n\nI am proud of what we have done. I believe that protecting the environment is not just the government's duty. It is everyone's (12)______. Let's work together to make the world a better place!"
+      "stem": "After hours of walking, we were all ______ and drank a lot of water.",
+      "options": ["A. thirsty", "B. hungry", "C. sleepy", "D. angry"],
+      "correct_answer": "A",
+      "explanation": "【解析】语境选词。后文 'drank a lot of water'（喝了很多水）暗示前文是 '口渴的'。thirsty = 口渴的。B(hungry) 应该吃东西而非喝水；C(sleepy) 应该睡觉；D(angry) 与喝水无关。【技巧】利用后文动作反推前文状态：drank water -> thirsty，ate food -> hungry。"
     },
     {
       "id": 9,
       "type": "cloze",
-      "knowledge_point": "cloze_logic",
-      "difficulty": 2,
-      "stem": "(9)______",
-      "options": [
-        "A. However",
-        "B. Instead",
-        "C. Therefore",
-        "D. Besides"
-      ],
-      "correct_answer": "B",
-      "explanation": "【解析】前文说'停止使用塑料瓶'，后文说'带可重复使用的瓶子'，是替代，用instead（相反，代替）。【错因分析】A选项however表示转折，但前后是替代而非对立；C选项therefore表示因果；D选项besides表示递进。【技巧】instead表示'用……代替……'，常位于句首或句末，前后常是相反或替代的动作。",
-      "label": "完形填空",
+      "knowledge_point": "cloze_general",
+      "difficulty": 3,
       "group": "cloze_1",
-      "group_passage": "Many people think that living a green life in big cities is (8)______. They believe it is hard to protect the environment when you live in a busy city. However, our school proved that they were wrong.\n\nLast month, we started a \"Zero Waste\" project. The goal was to reduce waste in our daily lives. First, we stopped using plastic bottles. (9)______, we brought reusable bottles to school. My classmate Tom even made a bag from his old T-shirts. It looked very cool!\n\nOur teacher told us that small changes could make a big (10)______. She said that if everyone takes action, our city will become cleaner. The project has changed the way we think about rubbish. Now we know that most things can be reused or (11)______.\n\nI am proud of what we have done. I believe that protecting the environment is not just the government's duty. It is everyone's (12)______. Let's work together to make the world a better place!"
+      "group_passage": "Last month, our school started a cooking club. I decided to join because I wanted to learn how to make real meals instead of just eating instant noodles at home.\n\nOn the first day, the teacher, Chef Wang, told us that cooking is not only about following recipes. 'You also need to use your (9)______ and be creative,' he said. Then he gave each of us some tomatoes and eggs.\n\nI thought it would be easy, but I was wrong. When I put the eggs into the hot oil, they started to stick to the pan. I got nervous and nearly (10)______. Chef Wang came over calmly and showed me the right way to control the heat. 'Cooking is like learning to ride a bike,' he smiled. 'You will fall a few times before you get it right.'\n\nBy the end of the class, my tomato and egg dish did not look perfect, but it tasted surprisingly good. My classmates agreed that it was full of character. I felt very (11)______.\n\nNow I go to the cooking club every Wednesday. It has taught me that failure is just the first step to success. As Chef Wang always says, the best meals are made with patience, not just (12)______.",
+      "stem": "(9)______",
+      "options": ["A. senses", "B. imagination", "C. strength", "D. memory"],
+      "correct_answer": "B",
+      "explanation": "【解析】语境推理。后文提到 'be creative'（有创造力），与 creativity 直接呼应的是 imagination（想象力）。senses（感官）、strength（力量）、memory（记忆）均与 'creative' 语义关联较弱。【技巧】完形填空注意同义/近义复现，creative 和 imagination 属于同一语义场。"
     },
     {
       "id": 10,
       "type": "cloze",
-      "knowledge_point": "cloze_collocation",
-      "difficulty": 2,
-      "stem": "(10)______",
-      "options": [
-        "A. mistake",
-        "B. decision",
-        "C. difference",
-        "D. progress"
-      ],
-      "correct_answer": "C",
-      "explanation": "【解析】固定make a difference意为'有影响，起作用'，句意：小改变可以产生大影响。【错因分析】A选项make a mistake意为'犯错'；B选项make a decision意为'做决定'；D选项progress通常与make但不加a（make progress）。【技巧】重点记忆make a difference这个高频短语，常出现在环保、志愿活动等语境中。",
-      "label": "完形填空",
+      "knowledge_point": "cloze_general",
+      "difficulty": 3,
       "group": "cloze_1",
-      "group_passage": "Many people think that living a green life in big cities is (8)______. They believe it is hard to protect the environment when you live in a busy city. However, our school proved that they were wrong.\n\nLast month, we started a \"Zero Waste\" project. The goal was to reduce waste in our daily lives. First, we stopped using plastic bottles. (9)______, we brought reusable bottles to school. My classmate Tom even made a bag from his old T-shirts. It looked very cool!\n\nOur teacher told us that small changes could make a big (10)______. She said that if everyone takes action, our city will become cleaner. The project has changed the way we think about rubbish. Now we know that most things can be reused or (11)______.\n\nI am proud of what we have done. I believe that protecting the environment is not just the government's duty. It is everyone's (12)______. Let's work together to make the world a better place!"
+      "stem": "(10)______",
+      "options": ["A. gave up", "B. looked up", "C. set off", "D. came back"],
+      "correct_answer": "A",
+      "explanation": "【解析】语境推理。前文说 '鸡蛋粘锅了，我很紧张'，后文说 'Chef Wang 走过来 calmly 教我控制火候'-暗示 '我' 差点就放弃了。give up = 放弃。look up（查阅/抬头看）、set off（出发）、come back（回来）均不符合 '紧张+差点' 的情感逻辑。【技巧】利用情感线索：紧张(nervous) -> 负面结果 -> give up，再由他人鼓励继续。"
     },
     {
       "id": 11,
       "type": "cloze",
-      "knowledge_point": "cloze_context",
-      "difficulty": 2,
-      "stem": "(11)______",
-      "options": [
-        "A. recycled",
-        "B. reduced",
-        "C. refused",
-        "D. returned"
-      ],
-      "correct_answer": "A",
-      "explanation": "【解析】or连接并列成分，与reused（再利用）并列且与垃圾的是recycled（回收利用）。【错因分析】B选项reduced（减少）虽与环保，但与reused逻辑并列不如recycled紧密；C选项refused（拒绝）；D选项returned（归还）。【技巧】环保类文章高频词：reuse（重复使用）、recycle（回收）、reduce（减少）、repair（修理），注意区分。",
-      "label": "完形填空",
+      "knowledge_point": "cloze_general",
+      "difficulty": 3,
       "group": "cloze_1",
-      "group_passage": "Many people think that living a green life in big cities is (8)______. They believe it is hard to protect the environment when you live in a busy city. However, our school proved that they were wrong.\n\nLast month, we started a \"Zero Waste\" project. The goal was to reduce waste in our daily lives. First, we stopped using plastic bottles. (9)______, we brought reusable bottles to school. My classmate Tom even made a bag from his old T-shirts. It looked very cool!\n\nOur teacher told us that small changes could make a big (10)______. She said that if everyone takes action, our city will become cleaner. The project has changed the way we think about rubbish. Now we know that most things can be reused or (11)______.\n\nI am proud of what we have done. I believe that protecting the environment is not just the government's duty. It is everyone's (12)______. Let's work together to make the world a better place!"
+      "stem": "(11)______",
+      "options": ["A. proud", "B. bored", "C. worried", "D. lonely"],
+      "correct_answer": "A",
+      "explanation": "【解析】情感推断。虽然菜 'did not look perfect'（看起来不完美），但 'tasted surprisingly good'（味道出奇地好），而且同学评价 'full of character'（很有特色）。这种正面反馈应该让作者感到 proud（自豪的）。bored（无聊）、worried（担心）、lonely（孤独）均为负面情感，与上下文矛盾。【技巧】注意 but 转折后的情感走向，从 '不完美' 到 '好吃' 再到 '自豪'。"
     },
     {
       "id": 12,
       "type": "cloze",
       "knowledge_point": "cloze_general",
-      "difficulty": 2,
-      "stem": "(12)______",
-      "options": [
-        "A. dream",
-        "B. hobby",
-        "C. duty",
-        "D. choice"
-      ],
-      "correct_answer": "C",
-      "explanation": "【解析】前文提到'不只是政府的责任'，对应'它是每个人的责任（duty）'。【错因分析】A选项dream（梦想）、B选项hobby（爱好）与语境不符；D选项choice（选择）语气不够强烈。【技巧】duty表示'责任，义务'，强调应当，常用于环保、义务等主题。",
-      "label": "完形填空",
+      "difficulty": 3,
       "group": "cloze_1",
-      "group_passage": "Many people think that living a green life in big cities is (8)______. They believe it is hard to protect the environment when you live in a busy city. However, our school proved that they were wrong.\n\nLast month, we started a \"Zero Waste\" project. The goal was to reduce waste in our daily lives. First, we stopped using plastic bottles. (9)______, we brought reusable bottles to school. My classmate Tom even made a bag from his old T-shirts. It looked very cool!\n\nOur teacher told us that small changes could make a big (10)______. She said that if everyone takes action, our city will become cleaner. The project has changed the way we think about rubbish. Now we know that most things can be reused or (11)______.\n\nI am proud of what we have done. I believe that protecting the environment is not just the government's duty. It is everyone's (12)______. Let's work together to make the world a better place!"
+      "stem": "(12)______",
+      "options": ["A. salt", "B. skill", "C. speed", "D. sugar"],
+      "correct_answer": "B",
+      "explanation": "【解析】主旨升华句。前文 'patience'（耐心）是抽象品质，空格处也应是抽象概念，且与烹饪成功相关。skill（技巧）与 patience 并列，共同构成做好一顿饭的关键。salt/sugar 是具体调料，speed（速度）与 Chef Wang 强调的 '耐心' 形成对比而非并列。【技巧】夹叙夹议的完形最后一段常出现主旨升华，注意抽象名词的对仗。"
     },
     {
       "id": 13,
       "type": "reading",
       "knowledge_point": "detail",
-      "difficulty": 2,
-      "stem": "When was the first vertical forest built?",
-      "options": [
-        "A. In 2004",
-        "B. In 2014",
-        "C. In 2024",
-        "D. In 1994"
-      ],
-      "correct_answer": "B",
-      "explanation": "【解析】细节题。根据第一段最后一句'The first vertical forest was built in Milan, Italy in 2014.'可知，第一座垂直森林建于2014年。【错因分析】注意区分2014与2004、1994等干扰项，定位原文年份。【技巧】细节题要准确定位，注意数字、时间、地点等信息。",
-      "label": "-细节理解",
+      "difficulty": 3,
       "group": "reading_1",
-      "group_passage": "In many big cities around the world, architects are building something amazing called \"vertical forests\". These are tall buildings covered with trees and plants. The first vertical forest was built in Milan, Italy in 2014.\n\nThese special buildings look beautiful, but they do much more than that. They help clean the air by absorbing CO2 and producing oxygen. One vertical forest can absorb as much CO2 as 30,000 cars produce in a year. They also provide homes for birds and insects in the city.\n\nHowever, building vertical forests is not easy. The \"flying gardeners\" have to climb up the buildings to take care of the plants. They check if the plants are healthy and water them regularly. This job requires special skills and courage.\n\nSome people worry that these buildings are too expensive. But supporters say the benefits to the environment are worth the cost. They believe vertical forests are the future of city living."
+      "group_passage": "Have you ever wondered why the bicycle is one of the most popular inventions in the world? It is simple, cheap, and good for both our health and the environment.\n\nThe first bicycle appeared in Germany in 1817. It was made of wood and had no pedals. The rider had to push it along with his feet. People called it the 'running machine'. About fifty years later, pedals were added to the front wheel, making cycling much easier.\n\nIn the late 1800s, the safety bicycle was invented. It had two wheels of the same size, a chain to drive the rear wheel, and rubber tyres. This design is almost the same as the bicycles we ride today.\n\nToday, bicycles are used all over the world. In cities like Amsterdam and Copenhagen, more people travel by bike than by car. Some modern bicycles even have electric motors to help riders climb hills. However, the basic idea has not changed for over a century: two wheels, a frame, and human power.",
+      "stem": "When did the first bicycle appear?",
+      "options": ["A. In 1807.", "B. In 1817.", "C. In 1867.", "D. In 1877."],
+      "correct_answer": "B",
+      "explanation": "【解析】细节题。原文第二段第一句明确说 'The first bicycle appeared in Germany in 1817.'。A、C、D 均为干扰项，通过改动年份制造混淆。【技巧】细节题直接定位数字信息，注意 1817 与 1807/1867/1877 的区别。"
     },
     {
       "id": 14,
       "type": "reading",
       "knowledge_point": "inference",
       "difficulty": 3,
-      "stem": "What can we infer about the \"flying gardeners\" mentioned in Paragraph 3?",
-      "options": [
-        "A. They are afraid of heights",
-        "B. They need special skills to do their job",
-        "C. They only work at night",
-        "D. They use helicopters to fly"
-      ],
-      "correct_answer": "B",
-      "explanation": "【解析】推理题。根据第三段'This job requires special skills and courage.'（这份工作需要特殊技能和勇气）可推断，飞行园丁需要特殊技能。【错因分析】A选项与'courage'矛盾；C选项文中未提及时间；D选项'fly'是比喻说法，并非真用直升机。【技巧】推理题要基于文本证据，不能主观臆断，注意'requires special skills'的直接对应。",
-      "label": "-推理判断",
       "group": "reading_1",
-      "group_passage": "In many big cities around the world, architects are building something amazing called \"vertical forests\". These are tall buildings covered with trees and plants. The first vertical forest was built in Milan, Italy in 2014.\n\nThese special buildings look beautiful, but they do much more than that. They help clean the air by absorbing CO2 and producing oxygen. One vertical forest can absorb as much CO2 as 30,000 cars produce in a year. They also provide homes for birds and insects in the city.\n\nHowever, building vertical forests is not easy. The \"flying gardeners\" have to climb up the buildings to take care of the plants. They check if the plants are healthy and water them regularly. This job requires special skills and courage.\n\nSome people worry that these buildings are too expensive. But supporters say the benefits to the environment are worth the cost. They believe vertical forests are the future of city living."
+      "stem": "What can we infer from the passage about early bicycles?",
+      "options": ["A. They were made of metal.", "B. They were easy to ride.", "C. Riders had to use their feet to move them.", "D. They had rubber tyres from the beginning."],
+      "correct_answer": "C",
+      "explanation": "【解析】推理判断。原文第二段说 'It was made of wood and had no pedals. The rider had to push it along with his feet.' 由此可推断早期自行车需要骑行者用脚蹬地前进。A 错（是木头不是金属）；B 错（没有踏板，不容易骑）；D 错（橡胶轮胎是 late 1800s 才出现的）。【技巧】推理题要从原文信息推进一步，不能照抄但要有依据。"
     },
     {
       "id": 15,
       "type": "reading",
       "knowledge_point": "word_guessing",
-      "difficulty": 2,
-      "stem": "What does the underlined word \"absorbing\" in Paragraph 2 mean?",
-      "options": [
-        "A. Taking in",
-        "B. Giving out",
-        "C. Breaking down",
-        "D. Building up"
-      ],
-      "correct_answer": "A",
-      "explanation": "【解析】词义猜测题。根据上下文'absorbing CO2 and producing oxygen'（吸收二氧化碳并产生氧气），absorb与produce（产生）相对，应是'吸收'之意，与take in同义。【错因分析】B选项give out（释放）是反义词；C选项break down（分解）；D选项build up（建立）。【技巧】利用并列结构and的对比，植物吸收CO2释放氧气，可推断absorb为'吸收'。",
-      "label": "-词义猜测",
+      "difficulty": 3,
       "group": "reading_1",
-      "group_passage": "In many big cities around the world, architects are building something amazing called \"vertical forests\". These are tall buildings covered with trees and plants. The first vertical forest was built in Milan, Italy in 2014.\n\nThese special buildings look beautiful, but they do much more than that. They help clean the air by absorbing CO2 and producing oxygen. One vertical forest can absorb as much CO2 as 30,000 cars produce in a year. They also provide homes for birds and insects in the city.\n\nHowever, building vertical forests is not easy. The \"flying gardeners\" have to climb up the buildings to take care of the plants. They check if the plants are healthy and water them regularly. This job requires special skills and courage.\n\nSome people worry that these buildings are too expensive. But supporters say the benefits to the environment are worth the cost. They believe vertical forests are the future of city living."
+      "stem": "The underlined word 'pedals' in Paragraph 2 most probably means the parts used to ______.",
+      "options": ["A. make the bicycle move by foot", "B. hold the bicycle up", "C. keep the rider safe", "D. connect the two wheels"],
+      "correct_answer": "A",
+      "explanation": "【解析】词义猜测。原文说早期的车 'had no pedals'，骑行者 'had to push it along with his feet'。大约五十年后 'pedals were added... making cycling much easier'。对比可知：没有 pedals -> 用脚推地；有了 pedals -> 骑车更容易。由此推断 pedals 是用脚驱动自行车前进的部件。【技巧】利用对比逻辑：no pedals + feet pushing vs pedals added -> easier，推断 pedals 替代了 'feet pushing' 的功能。"
     },
     {
       "id": 16,
       "type": "reading",
       "knowledge_point": "main_idea",
       "difficulty": 3,
-      "stem": "What is the writer's attitude towards vertical forests?",
-      "options": [
-        "A. Negative",
-        "B. Doubtful",
-        "C. Positive",
-        "D. Uncaring"
-      ],
-      "correct_answer": "C",
-      "explanation": "【解析】主旨态度题。根据文章用词'amazing'、'help clean the air'、'provide homes'、'benefits to the environment are worth the cost'、'future of city living'等，可判断持积极态度。【错因分析】A（消极）、B（怀疑）、D（漠）均与文章基调不符。【技巧】态度题形容词和转折词，but后supporters的观点即为支持的方向。",
-      "label": "-观点态度",
       "group": "reading_1",
-      "group_passage": "In many big cities around the world, architects are building something amazing called \"vertical forests\". These are tall buildings covered with trees and plants. The first vertical forest was built in Milan, Italy in 2014.\n\nThese special buildings look beautiful, but they do much more than that. They help clean the air by absorbing CO2 and producing oxygen. One vertical forest can absorb as much CO2 as 30,000 cars produce in a year. They also provide homes for birds and insects in the city.\n\nHowever, building vertical forests is not easy. The \"flying gardeners\" have to climb up the buildings to take care of the plants. They check if the plants are healthy and water them regularly. This job requires special skills and courage.\n\nSome people worry that these buildings are too expensive. But supporters say the benefits to the environment are worth the cost. They believe vertical forests are the future of city living."
+      "stem": "What is the best title for the passage?",
+      "options": ["A. How to Ride a Bicycle Safely", "B. The History of the Bicycle", "C. Bicycles in Modern Cities", "D. Why Cycling is Good Exercise"],
+      "correct_answer": "B",
+      "explanation": "【解析】主旨大意。文章按时间顺序介绍了自行车的发展：1817年木制无踏板 -> 五十年后加踏板 -> 19世纪末安全自行车 -> 现代自行车。核心是 '历史演变'。A 只涉及安全骑行；C 只涉及现代城市；D 只涉及锻炼好处，均过于片面。【技巧】主旨题看全文结构-时间线叙事通常是 'history of...'。"
     },
     {
       "id": 17,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "stem": "(17)______",
-      "options": [
-        "A. However, this is actually not efficient.",
-        "B. Therefore, you should identify when you feel most alert.",
-        "C. Finally, remember to balance different subjects.",
-        "D. Then, cross out each item when you complete it.",
-        "E. Without enough rest, your brain cannot work well."
-      ],
-      "correct_answer": "D",
-      "explanation": "【解析】选句填空。前文提到'写下所有需要完成的任务'，后文说'这给你成就感'，D选项'然后，当你完成每项任务时划掉它'承上启下，cross out与check off同义。【错因分析】A项转折语气不符；B项谈时间选择，与此处任务；C项是最后一点；E项谈休息，话题不符。【技巧】注意代词this指代前文，D项的'划掉任务'带来'成就感'。",
-      "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Being a student is not easy. You have to deal with homework, exams, and extracurricular activities. How can you manage your time well?\n\nFirst, make a to-do list every morning. Write down all the tasks you need to complete. (17)______ This gives you a sense of achievement and helps you track your progress.\n\nSecond, find your most productive time. Some people work best in the morning, while others focus better at night. (18)______ Use this time to tackle your most difficult subjects.\n\nThird, take regular breaks. Many students think they should study for long hours without stopping. (19)______ In fact, taking a five-minute break every hour can improve your concentration.\n\n(20)______ If you spend all your time on one subject, you may neglect others. Try to allocate your time wisely among different subjects.\n\nGood time management can help you achieve better results with less stress."
+      "group_passage": "Staying healthy as a student is not as hard as it sounds. Here are some simple habits that can make a big difference.\n\nFirst, never skip breakfast. (17)______ Studies show that students who eat breakfast usually perform better in class and feel less tired in the morning.\n\nSecond, drink enough water. Many students prefer sugary drinks like cola, but water is the best choice for your body. (18)______ Try to drink at least six to eight glasses every day.\n\nThird, get moving. You do not have to run a marathon. (19)______ Walking to school, riding a bike, or even dancing in your room for fifteen minutes can help keep you fit.\n\n(20)______ When you sleep well, your brain can process what you learned during the day. Aim for eight to nine hours of sleep each night.",
+      "stem": "(17)______",
+      "options": ["A. A simple walk after dinner can improve your sleep quality.", "B. It gives your brain and body the energy they need to start the day.", "C. Even thirty minutes of exercise a day is enough to stay healthy.", "D. It helps carry nutrients to your cells and keeps your skin clear.", "E. Finally, do not underestimate the power of a good night's sleep."],
+      "correct_answer": "B",
+      "explanation": "【解析】空格前说 'First, never skip breakfast.'（首先，不要不吃早餐），空格后说 'Studies show that students who eat breakfast usually perform better...'。空格处应解释为什么要吃早餐。B（它给你的大脑和身体提供开始一天所需的能量）完美衔接-先说不要跳过，再解释原因，再引用研究。A 谈散步和睡眠；C 谈运动；D 虽然谈水但放在早餐段不对；E 是最后一点。"
     },
     {
       "id": 18,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "stem": "(18)______",
-      "options": [
-        "A. However, this is actually not efficient.",
-        "B. Therefore, you should identify when you feel most alert.",
-        "C. Finally, remember to balance different subjects.",
-        "D. Then, cross out each item when you complete it.",
-        "E. Without enough rest, your brain cannot work well."
-      ],
-      "correct_answer": "B",
-      "explanation": "【解析】前文提到'有些人早上效率高，有些人晚上专注'，B选项'因此，你应该确定自己什么时候最'承接上文，therefore表示因果，identify与find同义。【错因分析】A项转折不符；C项是最后一点；D项已用于17题；E项谈休息，与此处时间选择。【技巧】注意therefore表示结果，前文提出问题，此处给出解决方案。",
-      "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Being a student is not easy. You have to deal with homework, exams, and extracurricular activities. How can you manage your time well?\n\nFirst, make a to-do list every morning. Write down all the tasks you need to complete. (17)______ This gives you a sense of achievement and helps you track your progress.\n\nSecond, find your most productive time. Some people work best in the morning, while others focus better at night. (18)______ Use this time to tackle your most difficult subjects.\n\nThird, take regular breaks. Many students think they should study for long hours without stopping. (19)______ In fact, taking a five-minute break every hour can improve your concentration.\n\n(20)______ If you spend all your time on one subject, you may neglect others. Try to allocate your time wisely among different subjects.\n\nGood time management can help you achieve better results with less stress."
+      "stem": "(18)______",
+      "options": ["A. A simple walk after dinner can improve your sleep quality.", "B. It gives your brain and body the energy they need to start the day.", "C. Even thirty minutes of exercise a day is enough to stay healthy.", "D. It helps carry nutrients to your cells and keeps your skin clear.", "E. Finally, do not underestimate the power of a good night's sleep."],
+      "correct_answer": "D",
+      "explanation": "【解析】空格前说 'water is the best choice for your body'（水是对身体最好的选择），空格后说 'Try to drink at least six to eight glasses every day'。空格处应解释喝水的好处。D（它帮助把营养输送到细胞，并让你的皮肤保持清爽）是喝水对身体的具体益处。A 谈散步；B 谈早餐；C 谈运动；E 谈睡眠。"
     },
     {
       "id": 19,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "stem": "(19)______",
-      "options": [
-        "A. However, this is actually not efficient.",
-        "B. Therefore, you should identify when you feel most alert.",
-        "C. Finally, remember to balance different subjects.",
-        "D. Then, cross out each item when you complete it.",
-        "E. Without enough rest, your brain cannot work well."
-      ],
-      "correct_answer": "A",
-      "explanation": "【解析】前文说'许多学生认为应该长时间学习不休息'，后文说'事实上，每小时休息五分钟能提高专注力'，前后是转折，A选项'然而，这并不高效'符合逻辑。【错因分析】B项因果不符；C项是最后一点；D项已用；E项虽谈休息但语气不如A项转折强烈。【技巧】however表示转折，否定前文错误观点，引出正确做法。",
-      "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Being a student is not easy. You have to deal with homework, exams, and extracurricular activities. How can you manage your time well?\n\nFirst, make a to-do list every morning. Write down all the tasks you need to complete. (17)______ This gives you a sense of sense of achievement and helps you track your progress.\n\nSecond, find your most productive time. Some people work best in the morning, while others focus better at night. (18)______ Use this time to tackle your most difficult subjects.\n\nThird, take regular breaks. Many students think they should study for long hours without stopping. (19)______ In fact, taking a five-minute break every hour can improve your concentration.\n\n(20)______ If you spend all your time on one subject, you may neglect others. Try to allocate your time wisely among different subjects.\n\nGood time management can help you achieve better results with less stress."
+      "stem": "(19)______",
+      "options": ["A. A simple walk after dinner can improve your sleep quality.", "B. It gives your brain and body the energy they need to start the day.", "C. Even thirty minutes of exercise a day is enough to stay healthy.", "D. It helps carry nutrients to your cells and keeps your skin clear.", "E. Finally, do not underestimate the power of a good night's sleep."],
+      "correct_answer": "C",
+      "explanation": "【解析】空格前说 'You do not have to run a marathon.'（你不必跑马拉松），暗示运动量不需要很大。空格后列举了散步、骑车、跳舞等轻度运动。C（即使每天运动三十分钟也足以保持健康）承接 '不必跑马拉松'，说明少量运动即可。A 谈散步和睡眠，放在运动段末尾不如 C 贴切；B/D/E 已用于其他空或主题不符。"
     },
     {
       "id": 20,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "stem": "(20)______",
-      "options": [
-        "A. However, this is actually not efficient.",
-        "B. Therefore, you should identify when you feel most alert.",
-        "C. Finally, remember to balance different subjects.",
-        "D. Then, cross out each item when you complete it.",
-        "E. Without enough rest, your brain cannot work well."
-      ],
-      "correct_answer": "C",
-      "explanation": "【解析】此处是最后一点建议，C选项'Finally, remember to balance different subjects.'（最后，记得平衡不同科目）符合顺序，且后文谈'不能把所有时间花在一个科目上'与之呼应。【错因分析】A、B、D已用；E项谈休息，属于第三点。【技巧】注意连接词first/second/third/finally的顺序，finally提示这是最后一点建议。",
-      "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Being a student is not easy. You have to deal with homework, exams, and extracurricular activities. How can you manage your time well?\n\nFirst, make a to-do list every morning. Write down all the tasks you need to complete. (17)______ This gives you a sense of achievement and helps you track your progress.\n\nSecond, find your most productive time. Some people work best in the morning, while others focus better at night. (18)______ Use this time to tackle your most difficult subjects.\n\nThird, take regular breaks. Many students think they should study for long hours without stopping. (19)______ In fact, taking a five-minute break every hour can improve your concentration.\n\n(20)______ If you spend all your time on one subject, you may neglect others. Try to allocate your time wisely among different subjects.\n\nGood time management can help you achieve better results with less stress."
+      "stem": "(20)______",
+      "options": ["A. A simple walk after dinner can improve your sleep quality.", "B. It gives your brain and body the energy they need to start the day.", "C. Even thirty minutes of exercise a day is enough to stay healthy.", "D. It helps carry nutrients to your cells and keeps your skin clear.", "E. Finally, do not underestimate the power of a good night's sleep."],
+      "correct_answer": "E",
+      "explanation": "【解析】空格位于最后一段开头，后文整段都在讲睡眠的重要性：'When you sleep well, your brain can process...' 'Aim for eight to nine hours...'。E（最后，不要低估一夜好眠的力量）是段落主题句，引出睡眠话题。Finally 也与前文的 First/Second/Third 形成顺序呼应。A 虽谈睡眠但放在段首不如 E 有力；B/C/D 已用于其他空。"
     }
   ]
 }
