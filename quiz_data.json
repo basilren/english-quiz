@@ -1,221 +1,356 @@
 {
-  "date": "2026-04-29",
+  "date": "2026-04-30",
   "session_number": 1,
   "questions": [
     {
       "id": 1,
       "type": "grammar",
-      "knowledge_point": "simple_past",
+      "knowledge_point": "present_perfect_vs_past_simple",
       "difficulty": 2,
-      "stem": "-- Did you ______ the film last night?\n-- Yes, but I missed the beginning.",
-      "options": ["A. watch", "B. watched", "C. watching", "D. watches"],
+      "stem": "I ______ my old classmates last week, but I ______ them for three years before that.",
+      "options": [
+        "A. met; haven't seen",
+        "B. have met; didn't see",
+        "C. met; didn't see",
+        "D. have met; haven't seen"
+      ],
       "correct_answer": "A",
-      "explanation": "【解析】一般过去时的一般疑问句以 Did 开头时，句中的谓语动词必须用原形。did 已经表示了过去的时态，后面不能再加 -ed。B 是过去式；C 是现在分词；D 是三单形式。【技巧】看到 Did/Didn't 开头，后面动词必用原形。这是中考常考陷阱题。"
+      "explanation": "éAãç¬¬ä¸ç©ºåææç¡®è¿å»æ¶é´ç¶è¯­'last week'ï¼ä¸å¨ï¼ï¼è¡¨ç¤ºè¿å»æä¸ªç¹å®æ¶é´åççå¨ä½ï¼ç¨ä¸è¬è¿å»æ¶'met'ï¼ç¬¬äºç©ºåæ'for three years'ï¼æç»­ä¸å¹´ï¼ï¼è¡¨ç¤ºä»è¿å»ææ¶æç»­å°ç°å¨çæ¶é´æ®µï¼ç¨ç°å¨å®ææ¶'haven't seen'ãBéé¡¹ç¬¬ä¸ç©ºéè¯¯ï¼ç°å¨å®ææ¶ä¸ä¸è¿å»æ¶é´è¿ç¨ï¼Céé¡¹ç¬¬äºç©ºéè¯¯ï¼'for+æ¶é´æ®µ'è¦æ±ç¨å®ææ¶ï¼Déé¡¹ç¬¬ä¸ç©ºéè¯¯ã",
+      "label": "è¯­æ³é¢"
     },
     {
       "id": 2,
       "type": "grammar",
-      "knowledge_point": "present_perfect",
+      "knowledge_point": "relative_clause_who_which",
       "difficulty": 2,
-      "stem": "-- ______ you ever ______ to Beijing?\n-- Yes, I went there last summer.",
-      "options": ["A. Did; go", "B. Have; been", "C. Do; go", "D. Are; going"],
-      "correct_answer": "B",
-      "explanation": "【解析】ever（曾经）是现在完成时的标志性时间状语，表示 '从过去到现在为止的经历'，结构为 Have/Has + 过去分词。have been to = 去过（已经回来）。A 是一般过去时，不能和 ever 搭配；C 是一般现在时；D 是现在进行时。【技巧】ever/never/before/already/yet 都是现在完成时的信号词。have been to（去过已回）vs have gone to（去了未回）。"
+      "stem": "The boy ______ is wearing a red jacket is my elder brother who works as a scientist.",
+      "options": [
+        "A. who",
+        "B. which",
+        "C. whom",
+        "D. whose"
+      ],
+      "correct_answer": "A",
+      "explanation": "éAãå®è¯­ä»å¥è¯æ¯'the boy'ï¼äººï¼ï¼ä¸ä»£è¯å¨ä»å¥ä¸­ä½ä¸»è¯­ï¼is wearingï¼ï¼ç¨'who'ãBéé¡¹'which'ç¨äºè¯æ¯ç©ï¼Céé¡¹'whom'æ¯å®¾æ ¼ï¼å¨ä»å¥ä¸­ä½å®¾è¯­æ¶ä½¿ç¨ï¼Déé¡¹'whose'è¡¨ç¤ºæå±ï¼åéæ¥åè¯ã",
+      "label": "è¯­æ³é¢"
     },
     {
       "id": 3,
       "type": "grammar",
-      "knowledge_point": "object_clause",
+      "knowledge_point": "passive_voice",
       "difficulty": 2,
-      "stem": "Do you know ______?",
-      "options": ["A. where does he work", "B. where he works", "C. where did he work", "D. where he does work"],
+      "stem": "These books ______ to the school library yesterday afternoon by the monitor.",
+      "options": [
+        "A. returned",
+        "B. were returned",
+        "C. have returned",
+        "D. have been returned"
+      ],
       "correct_answer": "B",
-      "explanation": "【解析】宾语从句必须用陈述语序（引导词 + 主语 + 谓语）。A 和 C 是疑问语序（does/did 在主语前），错误；D 多了助动词 does，结构冗余。B 是 'where + he（主语）+ works（谓语）'，正确的陈述语序。【技巧】宾语从句三要素：陈述语序、正确引导词、时态呼应。看到宾语从句先排除疑问语序的选项。"
+      "explanation": "éBãä¸»è¯­'These books'ï¼ä¹¦ï¼ä¸å¨è¯'return'ï¼å½è¿ï¼æ¯è¢«å¨ï¼ä¹¦æ¯è¢«å½è¿çï¼éç¨è¢«å¨è¯­æbe+è¿å»åè¯ï¼æ¶é´ç¶è¯­'yesterday afternoon'ï¼æ¨å¤©ä¸åï¼è¡¨ææ¯ä¸è¬è¿å»æ¶ï¼ç¨'were returned'ãAéé¡¹æ¯ä¸»å¨è¯­æï¼CãDéé¡¹æ¯ç°å¨å®ææ¶ï¼ä¸yesterdayçç¾ã",
+      "label": "è¯­æ³é¢"
     },
     {
       "id": 4,
       "type": "grammar",
-      "knowledge_point": "passive_voice",
+      "knowledge_point": "object_clause",
       "difficulty": 2,
-      "stem": "The letter ______ in English yesterday.",
-      "options": ["A. writes", "B. wrote", "C. was written", "D. is written"],
-      "correct_answer": "C",
-      "explanation": "【解析】信是 '被写' 的，所以用被动语态；yesterday 表示过去时间，用一般过去时的被动语态 was/were + 过去分词。write 的过去分词是 written。A 是主动语态三单；B 是主动语态过去式；D 是一般现在时被动，与 yesterday 时间不符。【技巧】被动语态判断三步：1. 主语是动作承受者吗？2. 是什么时态？3. be + done 结构是否正确。"
+      "stem": "Could you tell me ______? I need to post a letter urgently.",
+      "options": [
+        "A. where is the nearest post office",
+        "B. where the nearest post office is",
+        "C. where does the nearest post office",
+        "D. where the nearest post office does"
+      ],
+      "correct_answer": "B",
+      "explanation": "éBãå®¾è¯­ä»å¥éè¿°è¯­åºï¼ä¸»è¯­+è°è¯­ï¼ï¼å³'where the nearest post office is'ãAéé¡¹æ¯çé®è¯­åºï¼Céé¡¹'does'å¤ä½ä¸ç¼ºå°è°è¯­ï¼Déé¡¹'does'å¤ä½ï¼ä»å¥ä¸­å·²æç³»å¨è¯'is'ãè®°ä½å£è¯ï¼å®¾è¯­ä»å¥ç¨éè¿°ï¼çé®è¯åå ä¸»è¯­ã",
+      "label": "è¯­æ³é¢"
     },
     {
       "id": 5,
-      "type": "grammar",
-      "knowledge_point": "time_clause",
+      "type": "vocabulary",
+      "knowledge_point": "word_meaning",
       "difficulty": 2,
-      "stem": "I will call you as soon as I ______ home.",
-      "options": ["A. get", "B. got", "C. will get", "D. getting"],
-      "correct_answer": "A",
-      "explanation": "【解析】as soon as 引导时间状语从句，遵循 '主将从现' 原则：主句用一般将来时（will call），从句用一般现在时（get）。B 是一般过去时；C 是一般将来时，违反主将从现；D 是现在分词，不能单独作谓语。【技巧】主将从现适用连词：if/unless/as soon as/when/before/after/until。记住：时间/条件从句中，用现在时代替将来时。"
+      "stem": "The ______ temple was built over 1,000 years ago, but it still looks magnificent now.",
+      "options": [
+        "A. modern",
+        "B. ancient",
+        "C. new",
+        "D. future"
+      ],
+      "correct_answer": "B",
+      "explanation": "éBã'ancient'æä¸º'å¤èçãå¤ä»£ç'ï¼ä¸åæ'1,000 years ago'ï¼ä¸åå¹´åï¼ç¸å¼åºãAéé¡¹'modern'ï¼ç°ä»£çï¼åCéé¡¹'new'ï¼æ°çï¼ä¸å¥æç¸åï¼Déé¡¹'future'ï¼æªæ¥çï¼ä¸è½ä¿®é¥°templeã",
+      "label": "è¯æ±é¢"
     },
     {
       "id": 6,
       "type": "vocabulary",
-      "knowledge_point": "phrase_collocation",
+      "knowledge_point": "prefix",
       "difficulty": 2,
-      "stem": "If you don't know this word, you can ______ it ______ in the dictionary.",
-      "options": ["A. look; for", "B. look; up", "C. look; after", "D. look; out"],
-      "correct_answer": "B",
-      "explanation": "【解析】look up 意为 '查阅（单词、信息等）'，符合 '在字典中查词' 的语境。look for 寻找；look after 照顾；look out 小心/向外看。【技巧】look 短语是中考高频考点，记住核心搭配：up = 向上查阅；for = 寻找目标；after = 在身后照顾；out = 向外小心。"
+      "stem": "If you add the prefix 'un-' to the word 'healthy', you get '______', which means 'not healthy'.",
+      "options": [
+        "A. unhealthy",
+        "B. rehealthy",
+        "C. dishealthy",
+        "D. imhealthy"
+      ],
+      "correct_answer": "A",
+      "explanation": "éAãåç¼'un-'å å¨å½¢å®¹è¯åè¡¨ç¤ºå¦å®ï¼'healthy'ï¼å¥åº·çï¼å 'un-'åä¸º'unhealthy'ï¼ä¸å¥åº·çï¼ãBéé¡¹'re-'è¡¨ç¤º'åæ¬¡'ï¼Céé¡¹'dis-'è½ä¹è¡¨å¦å®ï¼ä½'healthy'çä¹ æ¯å¦å®åç¼æ¯'un-'ï¼Déé¡¹'im-'éå¸¸å å¨ä»¥'b/m/p'å¼å¤´çå½¢å®¹è¯åï¼å¦'impossible'ã",
+      "label": "è¯æ±é¢"
     },
     {
       "id": 7,
       "type": "vocabulary",
-      "knowledge_point": "prefix_suffix",
-      "difficulty": 2,
-      "stem": "The word 'impossible' can be divided into 'im-' and 'possible'. The prefix 'im-' means ______.",
-      "options": ["A. very", "B. not", "C. again", "D. before"],
-      "correct_answer": "B",
-      "explanation": "【解析】im- 是常见的否定前缀，表示 '不、非'。impossible = not possible（不可能的）。类似构词：impolite（不礼貌的），impatient（不耐烦的），imperfect（不完美的）。A(very) 是加强含义；C(again) 是 re- 的含义；D(before) 是 pre- 的含义。【技巧】否定前缀家族：un-(unable), im-(impossible), in-(incorrect), dis-(dislike), ir-(irregular)。"
+      "knowledge_point": "phrasal_verbs",
+      "difficulty": 3,
+      "stem": "After a long discussion, we finally ______ a good solution to the difficult math problem.",
+      "options": [
+        "A. came up with",
+        "B. came up",
+        "C. caught up with",
+        "D. got on with"
+      ],
+      "correct_answer": "A",
+      "explanation": "éAã'come up with'æ¯åºå®ç­è¯­ï¼æä¸º'æ³åºãæåºï¼ä¸»æãè®¡åãè§£å³æ¹æ¡ç­ï¼'ãBéé¡¹'come up'æä¸º'èµ°è¿ãè¢«æåº'ï¼ä¸»è¯­éå¸¸æ¯ä¸»æï¼èéäººï¼ï¼Céé¡¹'catch up with'æä¸º'è¿½ä¸ãèµ¶ä¸ï¼æäººï¼'ï¼Déé¡¹'get on with'æä¸º'ä¸â¦â¦ç¸å¤ãç»§ç»­å'ã",
+      "label": "è¯æ±é¢"
     },
     {
       "id": 8,
-      "type": "vocabulary",
-      "knowledge_point": "word_meaning",
+      "type": "cloze",
+      "knowledge_point": "cloze_general",
       "difficulty": 2,
-      "stem": "The doctor told him to take the medicine twice a day. The underlined word 'medicine' is closest in meaning to ______.",
-      "options": ["A. food for patients", "B. pills or liquid to treat illness", "C. drink for breakfast", "D. fruit for health"],
+      "stem": "(8)______",
+      "options": [
+        "A. throw",
+        "B. are thrown",
+        "C. threw",
+        "D. have thrown"
+      ],
       "correct_answer": "B",
-      "explanation": "【解析】medicine = 药物，即用来治疗疾病的药片或液体。pills or liquid to treat illness 准确描述了 medicine 的含义。A(病人的食物) 不准确；C(早餐饮料) 和 D(健康水果) 均与 '医生嘱咐服用' 的语境无关。【技巧】遇到下划线词汇题，先看上下文语境：doctor + take...twice a day 强烈暗示 '药物'。"
+      "explanation": "éBãä¸»è¯­'millions of tons of plastic waste'ï¼æ°ç¾ä¸å¨å¡æåå¾ï¼ä¸å¨è¯'throw'æ¯è¢«å¨ï¼ä¸'every year'è¡¨ææ¯ä¸è¬ç°å¨æ¶ï¼å¤æ°ä¸»è¯­ç¨'are thrown'ãAãCæ¯ä¸»å¨è¯­æï¼Dæ¯ç°å¨å®ææ¶ä¸»å¨è¯­æã",
+      "label": "å®å½¢å¡«ç©º",
+      "group": "cloze_1",
+      "group_passage": "Recycling: A Way to Save Our Planet\n\nEvery year, millions of tons of plastic waste (8)______ into the ocean, causing serious pollution. This has become a big problem for our environment. However, a group of scientists (9)______ a new way to deal with it recently.\n\nThey found that some kinds of worms can eat plastic! These small creatures can (10)______ down plastic bags in just a few weeks. \"This discovery is (11)______,\" said Dr. Li, the lead researcher. \"It gives us hope (12)______ we can solve the plastic problem naturally.\""
     },
     {
       "id": 9,
       "type": "cloze",
       "knowledge_point": "cloze_general",
-      "difficulty": 3,
-      "group": "cloze_1",
-      "group_passage": "Last month, our class went on a school trip to a small village. I had never spent a whole day on a farm before, so I was both excited and nervous.\n\nWhen we arrived, a friendly farmer named Uncle Li showed us around. He taught us how to feed the chickens and pick fresh vegetables. At first, I was afraid of the cows in the field because they were so large. But Uncle Li smiled and said, 'Animals can sense how you feel. If you stay (9)______, they will be friendly to you.' I took a deep breath and walked closer. To my surprise, the cow let me touch its head gently.\n\nIn the afternoon, we helped plant trees along the river. The work was harder than I had expected. My hands got dirty and my back ached. However, when I looked at the row of young trees we had planted, I felt a strong sense of (10)______. One classmate even joked, 'In ten years, we can come back and see a forest.'\n\nBefore we left, Uncle Li gave each of us a basket of eggs and tomatoes. 'These are gifts from the farm,' he said. 'Remember, the best food is the food you (11)______ yourself.' We all laughed and thanked him.\n\nOn the bus home, I thought about everything we had done that day. It was tiring, but it was also the most meaningful school trip I had ever taken. I learned that nature is not something we just read about in (12)______. It is something we should experience with our own hands.",
+      "difficulty": 2,
       "stem": "(9)______",
-      "options": ["A. calm", "B. brave", "C. quick", "D. silent"],
+      "options": [
+        "A. have discovered",
+        "B. discovered",
+        "C. will discover",
+        "D. discover"
+      ],
       "correct_answer": "A",
-      "explanation": "【解析】跨句推理+情感线索。前文说 'I was afraid of the cows'（我害怕牛），Uncle Li 解释 'Animals can sense how you feel'（动物能感受到你的情绪）。由此推断，如果人保持 'calm'（冷静），动物就会友好。brave（勇敢）虽然是好品质，但这里强调的是情绪状态稳定，不是胆量；quick（快）与动物相处无关；silent（安静）不如 calm 准确，因为人可以安静但仍内心紧张。【技巧】完形填空注意情感线索链：afraid -> sense fear -> stay calm -> friendly。"
+      "explanation": "éAãæ¶é´ç¶è¯­'recently'ï¼æè¿ï¼æ¯ç°å¨å®ææ¶çæ å¿è¯ï¼è¡¨ç¤ºè¿å»åççå¨ä½å¯¹ç°å¨é æå½±åï¼ä¸å¯è½ç»§ç»­ä¸å»ãä¸»è¯­'scientists'æ¯å¤æ°ï¼ç¨'have discovered'ãBéé¡¹æ¯ä¸è¬è¿å»æ¶ï¼ä¸ä¸recentlyè¿ç¨ï¼Cæ¯å°æ¥æ¶ï¼Dæ¯ä¸è¬ç°å¨æ¶ã",
+      "label": "å®å½¢å¡«ç©º",
+      "group": "cloze_1",
+      "group_passage": "Recycling: A Way to Save Our Planet\n\nEvery year, millions of tons of plastic waste (8)______ into the ocean, causing serious pollution. This has become a big problem for our environment. However, a group of scientists (9)______ a new way to deal with it recently.\n\nThey found that some kinds of worms can eat plastic! These small creatures can (10)______ down plastic bags in just a few weeks. \"This discovery is (11)______,\" said Dr. Li, the lead researcher. \"It gives us hope (12)______ we can solve the plastic problem naturally.\""
     },
     {
       "id": 10,
       "type": "cloze",
       "knowledge_point": "cloze_general",
-      "difficulty": 3,
-      "group": "cloze_1",
+      "difficulty": 2,
       "stem": "(10)______",
-      "options": ["A. pride", "B. shame", "C. fear", "D. doubt"],
+      "options": [
+        "A. break",
+        "B. cut",
+        "C. turn",
+        "D. put"
+      ],
       "correct_answer": "A",
-      "explanation": "【解析】情感推断。前文说种树很辛苦（hands got dirty, back ached），但 However 转折后看到成果——一排小树。这种从辛苦到看到成果的对比，应该产生正面情感 pride（自豪）。shame（羞耻）、fear（恐惧）、doubt（怀疑）均为负面情感，与 '看到成果' 的语境矛盾。【技巧】注意 However 转折后的情感走向。付出辛苦 + 看到成果 = 自豪。"
+      "explanation": "éAã'break down'æ¯åºå®ç­è¯­ï¼æä¸º'åè§£'ï¼ç¬¦åè¯­å¢ï¼è«å­åè§£å¡æè¢ï¼ãBéé¡¹'cut down'æä¸º'ç åãåå'ï¼Céé¡¹'turn down'æä¸º'è°å°ãæç»'ï¼Déé¡¹'put down'æä¸º'æ¾ä¸ãè®°ä¸'ã",
+      "label": "å®å½¢å¡«ç©º",
+      "group": "cloze_1",
+      "group_passage": "Recycling: A Way to Save Our Planet\n\nEvery year, millions of tons of plastic waste (8)______ into the ocean, causing serious pollution. This has become a big problem for our environment. However, a group of scientists (9)______ a new way to deal with it recently.\n\nThey found that some kinds of worms can eat plastic! These small creatures can (10)______ down plastic bags in just a few weeks. \"This discovery is (11)______,\" said Dr. Li, the lead researcher. \"It gives us hope (12)______ we can solve the plastic problem naturally.\""
     },
     {
       "id": 11,
       "type": "cloze",
       "knowledge_point": "cloze_general",
-      "difficulty": 3,
-      "group": "cloze_1",
+      "difficulty": 2,
       "stem": "(11)______",
-      "options": ["A. grow", "B. buy", "C. cook", "D. choose"],
-      "correct_answer": "A",
-      "explanation": "【解析】语境推理。前文提到 'gave each of us a basket of eggs and tomatoes'（给我们鸡蛋和西红柿），并说 'gifts from the farm'（来自农场的礼物）。农场产出的食物是自己 '种植/养殖' 出来的，所以 grow yourself（自己种植）最贴合农场语境。buy（买）与农场直接赠送矛盾；cook（烹饪）后面没有提到做饭；choose（选择）语义太泛。【技巧】利用场景线索：farm + eggs/tomatoes = 种植/养殖，对应 grow。"
+      "options": [
+        "A. terrible",
+        "B. hopeless",
+        "C. amazing",
+        "D. boring"
+      ],
+      "correct_answer": "C",
+      "explanation": "éCãæ ¹æ®ä¸ä¸æï¼ç§å­¦å®¶åç°äºè½åè§£å¡æçè«å­ï¼è¿åºè¯¥æ¯'ä»¤äººæå¥ç'åç°ã'amazing'æä¸º'ä»¤äººæå¹ç'ãAéé¡¹'terrible'ï¼ç³ç³çï¼ãBéé¡¹'hopeless'ï¼æ æçï¼ãDéé¡¹'boring'ï¼æ èçï¼åä¸ºè´é¢è¯æ±ï¼ä¸åæ'gives us hope'ï¼ç»æä»¬å¸æï¼çç¾ã",
+      "label": "å®å½¢å¡«ç©º",
+      "group": "cloze_1",
+      "group_passage": "Recycling: A Way to Save Our Planet\n\nEvery year, millions of tons of plastic waste (8)______ into the ocean, causing serious pollution. This has become a big problem for our environment. However, a group of scientists (9)______ a new way to deal with it recently.\n\nThey found that some kinds of worms can eat plastic! These small creatures can (10)______ down plastic bags in just a few weeks. \"This discovery is (11)______,\" said Dr. Li, the lead researcher. \"It gives us hope (12)______ we can solve the plastic problem naturally.\""
     },
     {
       "id": 12,
       "type": "cloze",
       "knowledge_point": "cloze_general",
       "difficulty": 3,
-      "group": "cloze_1",
       "stem": "(12)______",
-      "options": ["A. classrooms", "B. textbooks", "C. newspapers", "D. libraries"],
-      "correct_answer": "B",
-      "explanation": "【解析】主旨呼应+固定搭配。最后一段是全文升华：'自然不是我们在______里读到的东西，而是应该用双手去体验的东西。' read about in textbooks（在课本中读到）是固定搭配，且与 'experience with our own hands' 形成完美对比——理论 vs 实践。classrooms（教室）里不主要是 '读'；newspapers（报纸）和 libraries（图书馆）虽然也有阅读，但学生了解自然知识的主要渠道是课本。【技巧】夹叙夹议结尾常出现 '理论-实践' 对比，textbooks 是学生最熟悉的 '理论来源'。"
+      "options": [
+        "A. that",
+        "B. which",
+        "C. what",
+        "D. how"
+      ],
+      "correct_answer": "A",
+      "explanation": "éAã'hope'åçä»å¥æ¯åä½è¯­ä»å¥ï¼ç¨'that'å¼å¯¼ï¼è¯´æ'hope'ï¼'that'å¨ä»å¥ä¸­ä¸æåï¼åªèµ·è¿æ¥ä½ç¨ãBéé¡¹'which'å¼å¯¼å®è¯­ä»å¥ï¼éè¦æè¯ä¸å¨ä»å¥ä¸­ä½æåï¼Céé¡¹'what'å¨ä»å¥ä¸­ä½ä¸»è¯­æå®¾è¯­ï¼Déé¡¹'how'è¡¨ç¤ºæ¹å¼ï¼ä½æ­¤å¤ä»å¥ä¸ç¼ºæ¹å¼ç¶è¯­ï¼èæ¯éè¦è¿æ¥è¯å¼å¯¼å®æ´çéè¿°ã",
+      "label": "å®å½¢å¡«ç©º",
+      "group": "cloze_1",
+      "group_passage": "Recycling: A Way to Save Our Planet\n\nEvery year, millions of tons of plastic waste (8)______ into the ocean, causing serious pollution. This has become a big problem for our environment. However, a group of scientists (9)______ a new way to deal with it recently.\n\nThey found that some kinds of worms can eat plastic! These small creatures can (10)______ down plastic bags in just a few weeks. \"This discovery is (11)______,\" said Dr. Li, the lead researcher. \"It gives us hope (12)______ we can solve the plastic problem naturally.\""
     },
     {
       "id": 13,
       "type": "reading",
       "knowledge_point": "detail",
-      "difficulty": 3,
-      "group": "reading_1",
-      "group_passage": "Since ancient times, humans have looked up at the stars and wondered what lies beyond our planet. Today, space exploration has become one of the most exciting fields of science.\n\nIn 1961, Yuri Gagarin became the first human to travel into space. Just eight years later, in 1969, American astronaut Neil Armstrong became the first person to walk on the moon. His famous words, 'That's one small step for man, one giant leap for mankind,' are still remembered by people around the world.\n\nIn recent years, space agencies from different countries have achieved even more. China's Chang'e missions have successfully landed on the moon and collected samples to bring back to Earth. The Tianwen-1 mission reached Mars in 2021, making China the second country to successfully land a rover on the red planet.\n\nHowever, space exploration is not just about national pride. It also brings practical benefits to our daily lives. Many technologies we use today, such as satellite navigation and weather forecasting, were first developed for space missions. Scientists also study space to better understand Earth's climate and find solutions to environmental problems.\n\nSome people argue that space exploration costs too much money and that we should focus on problems here on Earth. But supporters believe that investing in space helps us solve those very problems. As one scientist put it, 'We explore space not because it is easy, but because it helps us learn who we are and where we come from.'",
-      "stem": "When did Neil Armstrong walk on the moon?",
-      "options": ["A. In 1961.", "B. In 1969.", "C. In 2021.", "D. In 1957."],
+      "difficulty": 2,
+      "stem": "How does Zhang Ming's device help blind people according to the passage?",
+      "options": [
+        "A. It writes books for them.",
+        "B. It turns printed words into sounds.",
+        "C. It teaches them how to read.",
+        "D. It translates books into Braille."
+      ],
       "correct_answer": "B",
-      "explanation": "【解析】细节题。原文第二段明确说 'in 1969, American astronaut Neil Armstrong became the first person to walk on the moon.'。A(1961) 是加加林进入太空的时间；C(2021) 是天问一号到达火星的时间；D(1957) 是干扰数字。【技巧】细节题直接定位人名找数字，注意不同事件对应不同年份。"
+      "explanation": "éBãæ ¹æ®æç« ç¬¬ä¸æ®µç¬¬äºå¥'The device uses AI technology to turn printed words into sounds.'ï¼è¯¥ä½¿ç¨äººå·¥æºè½ææ¯å°å°å·æå­è½¬åä¸ºå£°é³ï¼ï¼æç¡®è¯´æäºå¸®å©æ¹å¼ãAéé¡¹'åä¹¦'æä¸­æªæï¼Céé¡¹'æ'ä¸æ¯è¯¥çåè½ï¼Déé¡¹'ç¿»è¯æç²æ'éè¯¯ï¼æ¯è½¬åä¸ºå£°é³èéç²æã",
+      "label": "-ç»èçè§£",
+      "group": "reading_1",
+      "group_passage": "A Student's Invention Helps Blind People Read\n\nZhang Ming, a 15-year-old student from Beijing, has invented a special device that can help blind people read books. The device uses AI technology to turn printed words into sounds.\n\nZhang got the idea when he visited a blind school last year. He saw how difficult it was for blind students to read normal books. \"I wanted to help them enjoy reading like we do,\" Zhang said.\n\nThe device looks like a small box with a camera. Users put the book under the camera, and the device reads the words aloud in just two seconds. It can also translate words into different languages.\n\nZhang's invention has won several awards. Many blind people have tried it and said it works very well. Zhang hopes to improve the device and make it cheaper so that more blind people can use it in the future."
     },
     {
       "id": 14,
       "type": "reading",
       "knowledge_point": "inference",
-      "difficulty": 3,
+      "difficulty": 2,
+      "stem": "What can we learn about Zhang Ming from the passage?",
+      "options": [
+        "A. He studies in a blind school.",
+        "B. He wants to make a lot of money from his invention.",
+        "C. He is kind and creative.",
+        "D. He doesn't like reading books."
+      ],
+      "correct_answer": "C",
+      "explanation": "éCãä»å¼ æçè¡ä¸ºå¯ä»¥æ¨æ­ï¼ä»'åæ'äºè¯´ææåé åï¼creativeï¼ï¼ä»æ³å¸®å©ç²äººè¯´æå¿å°åè¯ï¼kindï¼ãAéé¡¹éè¯¯ï¼ä»æ¯å»ç²æ ¡åè§ï¼ä¸æ¯å¨é£éå­¦ä¹ ï¼Béé¡¹éè¯¯ï¼æä¸­è¯´ä»å¸æè®©æ´ä¾¿å®ï¼cheaperï¼ï¼è®©æ´å¤ç²äººç¨å¾èµ·ï¼ä¸æ¯ä¸ºäºèµé±ï¼Déé¡¹éè¯¯ï¼æä¸­æå°ä»å¸æç²äºº'åæä»¬ä¸èµ·äº«å'ï¼æç¤ºä»åæ¬¢ã",
+      "label": "-æ¨çå¤æ­",
       "group": "reading_1",
-      "stem": "What can we learn from the passage about China's space missions?",
-      "options": ["A. They have only explored the moon.", "B. They have reached both Mars and the moon.", "C. They began earlier than American missions.", "D. They have sent humans into space."],
-      "correct_answer": "B",
-      "explanation": "【解析】推理判断。原文第三段提到中国的嫦娥任务 'landed on the moon'（登月），以及天问一号 'reached Mars'（到达火星）。由此可推断中国已经抵达了月球和火星。A 错在 'only'；C 错，文中没有比较开始时间；D 错，文中没提到中国载人航天。【技巧】推理题注意选项中的绝对词（only/always/never），通常有绝对词的选项是错的。"
+      "group_passage": "A Student's Invention Helps Blind People Read\n\nZhang Ming, a 15-year-old student from Beijing, has invented a special device that can help blind people read books. The device uses AI technology to turn printed words into sounds.\n\nZhang got the idea when he visited a blind school last year. He saw how difficult it was for blind students to read normal books. \"I wanted to help them enjoy reading like we do,\" Zhang said.\n\nThe device looks like a small box with a camera. Users put the book under the camera, and the device reads the words aloud in just two seconds. It can also translate words into different languages.\n\nZhang's invention has won several awards. Many blind people have tried it and said it works very well. Zhang hopes to improve the device and make it cheaper so that more blind people can use it in the future."
     },
     {
       "id": 15,
       "type": "reading",
       "knowledge_point": "word_guessing",
       "difficulty": 3,
-      "group": "reading_1",
-      "stem": "The underlined word 'rover' in Paragraph 3 most probably means ______.",
-      "options": ["A. a small vehicle used for exploring planets", "B. a robot that walks like a human", "C. a camera that takes pictures from orbit", "D. a spaceship that carries astronauts"],
+      "stem": "The underlined word 'device' in Paragraph 1 probably means ______.",
+      "options": [
+        "A. a kind of machine",
+        "B. a special book",
+        "C. a reading method",
+        "D. a language course"
+      ],
       "correct_answer": "A",
-      "explanation": "【解析】词义猜测。原文说 'land a rover on the red planet'（在红色星球上着陆一个 rover）。结合常识和上下文，在火星表面着陆并进行探测的是 '火星车'——一种在行星表面行驶的小型探测车。B(像人一样行走的机器人) 不准确，火星车是轮式的；C(轨道上拍照的相机) 不是着陆器；D(载宇航员的飞船) 是 spacecraft，不是 rover。【技巧】遇到科技类词汇，结合上下文动作（land on + planet）和常识推断。"
+      "explanation": "éAãæ ¹æ®ä¸ä¸æçº¿ç´¢ï¼'uses AI technology'ï¼ä½¿ç¨äººå·¥æºè½ææ¯ï¼ã'looks like a small box with a camera'ï¼çèµ·æ¥åå¸¦ç¸æºçå°çå­ï¼ã'reads the words aloud'ï¼å¤§å£°è¯»è¯ï¼ï¼å¯æ¨æ­'device'æ¯ä¸ç§æºå¨/ãBéé¡¹'ä¹¦'ãCéé¡¹'æ¹æ³'ãDéé¡¹'è¯¾ç¨'åä¸ç¬¦åæè¿°ãçè¯æå·§ï¼å¯¹æªç¥è¯è¿è¡è§£éè¯´æçå®è¯­ä»å¥æåä½è¯­ã",
+      "label": "-è¯ä¹çæµ",
+      "group": "reading_1",
+      "group_passage": "A Student's Invention Helps Blind People Read\n\nZhang Ming, a 15-year-old student from Beijing, has invented a special device that can help blind people read books. The device uses AI technology to turn printed words into sounds.\n\nZhang got the idea when he visited a blind school last year. He saw how difficult it was for blind students to read normal books. \"I wanted to help them enjoy reading like we do,\" Zhang said.\n\nThe device looks like a small box with a camera. Users put the book under the camera, and the device reads the words aloud in just two seconds. It can also translate words into different languages.\n\nZhang's invention has won several awards. Many blind people have tried it and said it works very well. Zhang hopes to improve the device and make it cheaper so that more blind people can use it in the future."
     },
     {
       "id": 16,
       "type": "reading",
       "knowledge_point": "main_idea",
       "difficulty": 3,
+      "stem": "What is the best title for this passage?",
+      "options": [
+        "A. How to Use AI Technology",
+        "B. A Student's Invention to Help Blind People",
+        "C. The Importance of Reading",
+        "D. Life in a Blind School"
+      ],
+      "correct_answer": "B",
+      "explanation": "éBãä¸»æ¨å¤§æé¢éæ¦æ¬æ ¸å¿ãæ¬æå´ç»å¼ æåæå¸®å©ç²äººå±å¼ï¼ä»ç»äºåæåå ãå·¥ä½åçåæªæ¥å±æãAéé¡¹è¿äºå®½æ³ï¼åªæå°ææ¯ï¼æªæå¸®å©ç²äººï¼Céé¡¹åç¦»éç¹ï¼ä¸æ¯è®²éè¦æ§ï¼Déé¡¹åªæ¯èæ¯ä¿¡æ¯ãéæ é¢æå·§ï¼å¯»æ¾'è°+åä»ä¹'çéé¡¹ï¼éå¸¸æè½æ¦æ¬ã",
+      "label": "-ä¸»æ¨å¤§æ",
       "group": "reading_1",
-      "stem": "What is the writer's main purpose in writing this passage?",
-      "options": ["A. To explain why space exploration is valuable.", "B. To compare different countries' space programs.", "C. To encourage readers to become astronauts.", "D. To argue that space exploration wastes money."],
-      "correct_answer": "A",
-      "explanation": "【解析】主旨大意。文章按历史（1961/1969）- 近期成就（中国探月/火星）- 实际好处（导航/天气预报）- 回应质疑 的结构展开，总体是在说明太空探索的价值。B(比较各国项目) 太窄，文中只是举例；C(鼓励当宇航员) 未提及；D(说浪费钱) 与作者立场相反，作者是在反驳这种观点。【技巧】主旨题看全文结构：历史->成就->好处->回应质疑 = 说明价值。"
+      "group_passage": "A Student's Invention Helps Blind People Read\n\nZhang Ming, a 15-year-old student from Beijing, has invented a special device that can help blind people read books. The device uses AI technology to turn printed words into sounds.\n\nZhang got the idea when he visited a blind school last year. He saw how difficult it was for blind students to read normal books. \"I wanted to help them enjoy reading like we do,\" Zhang said.\n\nThe device looks like a small box with a camera. Users put the book under the camera, and the device reads the words aloud in just two seconds. It can also translate words into different languages.\n\nZhang's invention has won several awards. Many blind people have tried it and said it works very well. Zhang hopes to improve the device and make it cheaper so that more blind people can use it in the future."
     },
     {
       "id": 17,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "group": "fill_1",
-      "group_passage": "Last week, our school held its annual science fair. Students from all grades displayed their creative projects in the gymnasium. (17)______ I had been looking forward to this event for weeks.\n\nMy project was a small robot made from recycled materials. It could walk around the table and avoid bumping into cups or books. (18)______ I spent three weekends building it, and I was nervous about how the judges would react.\n\nWhen the fair started, many visitors stopped at my table. A young boy asked me how the robot could move without wheels. (19)______ The boy's eyes lit up with curiosity.\n\nThe most surprising moment came when a judge asked me about the environmental impact of my project. I explained that it used a simple sensor to detect objects in front of it. (20)______ She then told me that using recycled materials showed real creativity and responsibility.",
       "stem": "(17)______",
-      "options": ["A. I told her that my robot was built entirely from old boxes and bottles, which reduced waste.", "B. The science fair was more challenging than I had expected, but it was worth every minute of effort.", "C. It was a great chance to see what my classmates had created and to share my own ideas.", "D. I explained that the robot had special legs instead of wheels, which allowed it to step over small objects.", "E. I chose this design because I wanted to show that technology can be both fun and environmentally friendly."],
-      "correct_answer": "C",
-      "explanation": "【解析】空格前说 '学生们展示了创意项目'，空格后说 '我期待这个活动好几周了'。空格处应承上启下，说明科技展的意义。C（这是一个很好的机会，可以看到同学的作品并分享自己的想法）自然衔接——先说活动展示项目，再说明活动的意义，再说个人期待。【技巧】短文填空注意段落主题句的作用，首段常用来介绍活动和背景。"
+      "options": [
+        "A. But they don't know where to start.",
+        "B. Teenagers need about 8-10 hours of sleep every night.",
+        "C. Also, don't forget to eat healthy snacks when you feel hungry.",
+        "D. In addition, try to do some exercise every day.",
+        "E. However, it takes time to develop good habits."
+      ],
+      "correct_answer": "A",
+      "explanation": "éAãåæè¯´'Many students want to live a healthy life'ï¼è®¸å¤å­¦çæ³å¥åº·çæ´»ï¼ï¼åæè¯´'The following tips may help you'ï¼ä»¥ä¸å»ºè®®å¯è½å¸®å°ä½ ï¼ï¼ä¸­é´éè¦è½¬æè¿æ¸¡ï¼è¯´æ'æ³ä½ä¸ç¥ä»ä½å¼å§'ï¼Aéé¡¹'But they don't know where to start'æ¿ä¸å¯ä¸ãBãCãDé½æ¯å»ºè®®ï¼ä¸éåæ¾å¨æ»èµ·æ®µï¼Eè½å¯è¿æ¸¡ï¼ä½ä¸å¦Aç´æ¥å¼åºå»ºè®®ã",
+      "label": "ç­æå¡«ç©º",
+      "group": "fill_1",
+      "group_passage": "How to Live a Healthy Life\n\nMany students want to live a healthy life. (17)______ The following tips may help you.\n\n(18)______ First, get enough sleep. If you don't sleep well, you will feel tired in class and cannot focus on your studies.\n\nSecond, eat healthily. Have breakfast every day and eat more fruits and vegetables. (19)______\n\n(20)______ You can play basketball, swim, or simply walk for 30 minutes every day. Exercise helps you stay strong and happy.\n\nRemember, every small step counts. Start today!"
     },
     {
       "id": 18,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "group": "fill_1",
       "stem": "(18)______",
-      "options": ["A. I told her that my robot was built entirely from old boxes and bottles, which reduced waste.", "B. The science fair was more challenging than I had expected, but it was worth every minute of effort.", "C. It was a great chance to see what my classmates had created and to share my own ideas.", "D. I explained that the robot had special legs instead of wheels, which allowed it to step over small objects.", "E. I chose this design because I wanted to show that technology can be both fun and environmentally friendly."],
-      "correct_answer": "E",
-      "explanation": "【解析】空格前说 '我的项目是一个用回收材料做的小机器人，它能在桌上走动并避免撞东西'，空格后说 '我花了三个周末制作它'。空格处应解释为什么选择这个设计。E（我选择这个设计是因为我想展示科技可以既有趣又环保）完美衔接——先介绍项目功能，再解释设计动机，再说制作过程。【技巧】注意代词指代和设计动机的一致性：recycled materials 对应 environmentally friendly，robot 对应 technology。"
+      "options": [
+        "A. But they don't know where to start.",
+        "B. Teenagers need about 8-10 hours of sleep every night.",
+        "C. Also, don't forget to eat healthy snacks when you feel hungry.",
+        "D. In addition, try to do some exercise every day.",
+        "E. However, it takes time to develop good habits."
+      ],
+      "correct_answer": "B",
+      "explanation": "éBãæ¬æ®µä¸»é¢æ¯'get enough sleep'ï¼ç¡ç ï¼ï¼ç©ºç½åæ¥çè¯´'If you don't sleep well...'ï¼å¦æç¡ä¸å¥½...ï¼ï¼å¯è§ç©ºç½å¤åºè¯´æç¡ç éæ±ï¼Béé¡¹'TTeenagers need about 8-10 hours of sleep every night'ï¼éå°å¹´æ¯æéè¦8-10å°æ¶ç¡ç ï¼ç¬¦åæ®µè½ä¸»é¢ãAæ¯æ»èµ·å¥ï¼Cè®²é¥®é£ï¼Dè®²è¿å¨ï¼Eæ¯æ»ç»æ§è½¬æï¼åä¸ç¬¦åæ¬æ®µç¡ç ä¸»é¢ã",
+      "label": "ç­æå¡«ç©º",
+      "group": "fill_1",
+      "group_passage": "How to Live a Healthy Life\n\nMany students want to live a healthy life. (17)______ The following tips may help you.\n\n(18)______ First, get enough sleep. If you don't sleep well, you will feel tired in class and cannot focus on your studies.\n\nSecond, eat healthily. Have breakfast every day and eat more fruits and vegetables. (19)______\n\n(20)______ You can play basketball, swim, or simply walk for 30 minutes every day. Exercise helps you stay strong and happy.\n\nRemember, every small step counts. Start today!"
     },
     {
       "id": 19,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "group": "fill_1",
       "stem": "(19)______",
-      "options": ["A. I told her that my robot was built entirely from old boxes and bottles, which reduced waste.", "B. The science fair was more challenging than I had expected, but it was worth every minute of effort.", "C. It was a great chance to see what my classmates had created and to share my own ideas.", "D. I explained that the robot had special legs instead of wheels, which allowed it to step over small objects.", "E. I chose this design because I wanted to show that technology can be both fun and environmentally friendly."],
-      "correct_answer": "D",
-      "explanation": "【解析】空格前说 '小男孩问我机器人怎么不用轮子就能移动'，空格后说 '男孩的眼睛因好奇而亮了起来'。空格处应该是对小男孩问题的回答。D（我解释说机器人有特殊的腿而不是轮子，这让它能跨过小物体）直接回应了 'without wheels' 的问题。A 中的 her 指代女性（评委），不适合小男孩；B 是总结句；C 和 E 已用于其他空。【技巧】注意问答对应关系：问 '怎么不用轮子' -> 答 '有特殊的腿代替轮子'。"
+      "options": [
+        "A. But they don't know where to start.",
+        "B. Teenagers need about 8-10 hours of sleep every night.",
+        "C. Also, don't forget to eat healthy snacks when you feel hungry.",
+        "D. In addition, try to do some exercise every day.",
+        "E. However, it takes time to develop good habits."
+      ],
+      "correct_answer": "C",
+      "explanation": "éCãæ¬æ®µä¸»é¢æ¯'eat healthily'ï¼å¥åº·é¥®é£ï¼ï¼åæè¯´'eat more fruits and vegetables'ï¼å¤åè¬æï¼ï¼Céé¡¹'Also, don't forget to eat healthy snacks...'ï¼æ­¤å¤ï¼å«å¿äºåå¥åº·é¶é£...ï¼ç¨'Also'éè¿ï¼é¥®é£å»ºè®®ï¼ç¬¦åé»è¾ãAãBå·²ç¨ï¼Dè®²è¿å¨ï¼åºå±äºä¸ä¸æ®µï¼Eæ¯å¹²æ°é¡¹ã",
+      "label": "ç­æå¡«ç©º",
+      "group": "fill_1",
+      "group_passage": "How to Live a Healthy Life\n\nMany students want to live a healthy life. (17)______ The following tips may help you.\n\n(18)______ First, get enough sleep. If you don't sleep well, you will feel tired in class and cannot focus on your studies.\n\nSecond, eat healthily. Have breakfast every day and eat more fruits and vegetables. (19)______\n\n(20)______ You can play basketball, swim, or simply walk for 30 minutes every day. Exercise helps you stay strong and happy.\n\nRemember, every small step counts. Start today!"
     },
     {
       "id": 20,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "group": "fill_1",
       "stem": "(20)______",
-      "options": ["A. I told her that my robot was built entirely from old boxes and bottles, which reduced waste.", "B. The science fair was more challenging than I had expected, but it was worth every minute of effort.", "C. It was a great chance to see what my classmates had created and to share my own ideas.", "D. I explained that the robot had special legs instead of wheels, which allowed it to step over small objects.", "E. I chose this design because I wanted to show that technology can be both fun and environmentally friendly."],
-      "correct_answer": "A",
-      "explanation": "【解析】空格前说 '评委问我项目的环保影响'，空格后说 '她接着告诉我使用回收材料展现了真正的创意和责任感'。空格处应该是回答评委关于环保的问题。A（我告诉她我的机器人完全是用旧盒子和瓶子做的，这减少了浪费）中的 her 对应 judge（女性），且 'old boxes and bottles' 对应 'recycled materials'，'reduced waste' 对应 'environmental impact'。B 是总结性句子，放在全文最后一段更合适，但此处已有具体问答语境；C/D/E 已用于其他空。【技巧】注意代词性别和话题呼应：judge(女性) -> her；environmental impact -> recycled materials / reduced waste。"
+      "options": [
+        "A. But they don't know where to start.",
+        "B. Teenagers need about 8-10 hours of sleep every night.",
+        "C. Also, don't forget to eat healthy snacks when you feel hungry.",
+        "D. In addition, try to do some exercise every day.",
+        "E. However, it takes time to develop good habits."
+      ],
+      "correct_answer": "D",
+      "explanation": "éDãç©ºç½å'play basketball, swim... walk... Exercise helps...'ï¼æç¯®çãæ¸¸æ³³...æ£æ­¥...è¿å¨å¸®å©...ï¼æç¡®è¡¨ææ¬æ®µä¸»é¢æ¯è¿å¨é»ç¼ï¼Déé¡¹'In addition, try to do some exercise every day'ï¼æ­¤å¤ï¼è¯çæ¯å¤©åäºè¿å¨ï¼ä½ä¸ºæ®µè½ä¸»é¢å¥æåéã'In addition'è¡¨ç¤ºå¨ç¡ç ãé¥®é£å»ºè®®ä¹å¤çãAãBãCå·²ç¨ï¼Eä¸åæè¿å¨ä¸ç¬¦ã",
+      "label": "ç­æå¡«ç©º",
+      "group": "fill_1",
+      "group_passage": "How to Live a Healthy Life\n\nMany students want to live a healthy life. (17)______ The following tips may help you.\n\n(18)______ First, get enough sleep. If you don't sleep well, you will feel tired in class and cannot focus on your studies.\n\nSecond, eat healthily. Have breakfast every day and eat more fruits and vegetables. (19)______\n\n(20)______ You can play basketball, swim, or simply walk for 30 minutes every day. Exercise helps you stay strong and happy.\n\nRemember, every small step counts. Start today!"
     }
   ]
 }
