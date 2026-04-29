@@ -1,86 +1,86 @@
 {
-  "date": "2026-04-28",
+  "date": "2026-04-29",
   "session_number": 1,
   "questions": [
     {
       "id": 1,
       "type": "grammar",
-      "knowledge_point": "simple_future",
+      "knowledge_point": "simple_past",
       "difficulty": 2,
-      "stem": "Look at the dark clouds. I think it ______ soon.",
-      "options": ["A. rains", "B. is raining", "C. will rain", "D. rained"],
-      "correct_answer": "C",
-      "explanation": "【解析】根据 'Look at the dark clouds' 和 'soon'（很快）判断，这里是对将来情况的预测，应用一般将来时 will rain。A 是一般现在时，表示经常性动作；B 是现在进行时，表示此刻正在发生；D 是一般过去时。【技巧】will + 动词原形表示将来预测，常伴有 I think/I believe 等表达观点的句式。"
+      "stem": "-- Did you ______ the film last night?\n-- Yes, but I missed the beginning.",
+      "options": ["A. watch", "B. watched", "C. watching", "D. watches"],
+      "correct_answer": "A",
+      "explanation": "【解析】一般过去时的一般疑问句以 Did 开头时，句中的谓语动词必须用原形。did 已经表示了过去的时态，后面不能再加 -ed。B 是过去式；C 是现在分词；D 是三单形式。【技巧】看到 Did/Didn't 开头，后面动词必用原形。这是中考常考陷阱题。"
     },
     {
       "id": 2,
       "type": "grammar",
-      "knowledge_point": "conditional",
+      "knowledge_point": "present_perfect",
       "difficulty": 2,
-      "stem": "______ you study harder, you ______ better grades next term.",
-      "options": ["A. If; will get", "B. Unless; get", "C. If; get", "D. Unless; will get"],
-      "correct_answer": "A",
-      "explanation": "【解析】if 引导真实条件句，遵循 '主将从现' 原则：if 从句用一般现在时，主句用一般将来时。句意：如果你更努力学习，下学期你会取得更好的成绩。unless = if not（除非），代入后语义不通：'除非更努力，你会取得好成绩' 逻辑矛盾。B/C 主句缺少 will；D unless 语义不对。【技巧】if + 现，主 + will。看到 if 条件句先锁定 '主将从现'。"
+      "stem": "-- ______ you ever ______ to Beijing?\n-- Yes, I went there last summer.",
+      "options": ["A. Did; go", "B. Have; been", "C. Do; go", "D. Are; going"],
+      "correct_answer": "B",
+      "explanation": "【解析】ever（曾经）是现在完成时的标志性时间状语，表示 '从过去到现在为止的经历'，结构为 Have/Has + 过去分词。have been to = 去过（已经回来）。A 是一般过去时，不能和 ever 搭配；C 是一般现在时；D 是现在进行时。【技巧】ever/never/before/already/yet 都是现在完成时的信号词。have been to（去过已回）vs have gone to（去了未回）。"
     },
     {
       "id": 3,
       "type": "grammar",
-      "knowledge_point": "comparative",
+      "knowledge_point": "object_clause",
       "difficulty": 2,
-      "stem": "The weather in Shenzhen is ______ than that in Beijing in winter.",
-      "options": ["A. warm", "B. warmer", "C. warmest", "D. the warmest"],
+      "stem": "Do you know ______?",
+      "options": ["A. where does he work", "B. where he works", "C. where did he work", "D. where he does work"],
       "correct_answer": "B",
-      "explanation": "【解析】句中有 than，必须用比较级。warm 是单音节词，比较级直接加 -er，即 warmer。A 是原级；C/D 是最高级，不能和 than 搭配。【技巧】看到 than 就锁定比较级。单音节词加 -er，多音节词加 more，以辅音+y 结尾变 y 为 i 加 -er（happy -> happier）。"
+      "explanation": "【解析】宾语从句必须用陈述语序（引导词 + 主语 + 谓语）。A 和 C 是疑问语序（does/did 在主语前），错误；D 多了助动词 does，结构冗余。B 是 'where + he（主语）+ works（谓语）'，正确的陈述语序。【技巧】宾语从句三要素：陈述语序、正确引导词、时态呼应。看到宾语从句先排除疑问语序的选项。"
     },
     {
       "id": 4,
       "type": "grammar",
-      "knowledge_point": "there_be",
+      "knowledge_point": "passive_voice",
       "difficulty": 2,
-      "stem": "______ a basketball match between Class 1 and Class 2 tomorrow afternoon.",
-      "options": ["A. There will have", "B. There will be", "C. There is going to have", "D. There has"],
-      "correct_answer": "B",
-      "explanation": "【解析】there be 句型表示 '存在有'，将来时用 There will be 或 There is/are going to be。have 表示 '拥有'，主语通常是人，不能与 there be 混用。A 和 C 错在 there be 和 have 杂糅；D 是 there has，结构错误。【技巧】there be 的将来时：There will be / There is going to be。记住 there be 和 have 不能同时出现。"
+      "stem": "The letter ______ in English yesterday.",
+      "options": ["A. writes", "B. wrote", "C. was written", "D. is written"],
+      "correct_answer": "C",
+      "explanation": "【解析】信是 '被写' 的，所以用被动语态；yesterday 表示过去时间，用一般过去时的被动语态 was/were + 过去分词。write 的过去分词是 written。A 是主动语态三单；B 是主动语态过去式；D 是一般现在时被动，与 yesterday 时间不符。【技巧】被动语态判断三步：1. 主语是动作承受者吗？2. 是什么时态？3. be + done 结构是否正确。"
     },
     {
       "id": 5,
       "type": "grammar",
-      "knowledge_point": "present_continuous",
-      "difficulty": 1,
-      "stem": "Hurry up! The bus ______. We need to run!",
-      "options": ["A. comes", "B. is coming", "C. came", "D. will come"],
-      "correct_answer": "B",
-      "explanation": "【解析】'Hurry up!' 和 'We need to run!' 表明公交车 '正在来/马上到'。某些表示位移的动词（come, go, leave, arrive）可用现在进行时表示即将发生的将来动作。A 是一般现在时，缺少紧迫感；C 是过去时；D 虽然语法对，但 is coming 更生动地表达 '车来了' 的即时感。【技巧】come/go/leave/arrive 的现在进行时可表将来计划或即将发生的动作。"
+      "knowledge_point": "time_clause",
+      "difficulty": 2,
+      "stem": "I will call you as soon as I ______ home.",
+      "options": ["A. get", "B. got", "C. will get", "D. getting"],
+      "correct_answer": "A",
+      "explanation": "【解析】as soon as 引导时间状语从句，遵循 '主将从现' 原则：主句用一般将来时（will call），从句用一般现在时（get）。B 是一般过去时；C 是一般将来时，违反主将从现；D 是现在分词，不能单独作谓语。【技巧】主将从现适用连词：if/unless/as soon as/when/before/after/until。记住：时间/条件从句中，用现在时代替将来时。"
     },
     {
       "id": 6,
       "type": "vocabulary",
-      "knowledge_point": "synonym_antonym",
+      "knowledge_point": "phrase_collocation",
       "difficulty": 2,
-      "stem": "The underlined word 'rapid' is closest in meaning to ______.",
-      "options": ["A. slow", "B. quick", "C. careful", "D. difficult"],
+      "stem": "If you don't know this word, you can ______ it ______ in the dictionary.",
+      "options": ["A. look; for", "B. look; up", "C. look; after", "D. look; out"],
       "correct_answer": "B",
-      "explanation": "【解析】rapid = 快速的，与 quick 意思最接近。A(slow) 是反义词；C(careful) 和 D(difficult) 语义不相关。【技巧】rapid 常见于 'rapid growth/change/development'，记忆联想：rap（说唱）+ id = 说唱速度很快。"
+      "explanation": "【解析】look up 意为 '查阅（单词、信息等）'，符合 '在字典中查词' 的语境。look for 寻找；look after 照顾；look out 小心/向外看。【技巧】look 短语是中考高频考点，记住核心搭配：up = 向上查阅；for = 寻找目标；after = 在身后照顾；out = 向外小心。"
     },
     {
       "id": 7,
       "type": "vocabulary",
-      "knowledge_point": "word_form",
+      "knowledge_point": "prefix_suffix",
       "difficulty": 2,
-      "stem": "The ______ of this new medicine is a young scientist from Wuhan.",
-      "options": ["A. invent", "B. invention", "C. inventor", "D. inventive"],
-      "correct_answer": "C",
-      "explanation": "【解析】句意：这种新药的______是一位来自武汉的年轻科学家。空格处需要表示 '人' 的名词。invent(动词，发明)；invention(名词，发明物)；inventor(名词，发明家)；inventive(形容词，有创造力的)。科学家是人，用 inventor。【技巧】-or / -er 结尾常表示 '做某事的人'：inventor, actor, driver, teacher。"
+      "stem": "The word 'impossible' can be divided into 'im-' and 'possible'. The prefix 'im-' means ______.",
+      "options": ["A. very", "B. not", "C. again", "D. before"],
+      "correct_answer": "B",
+      "explanation": "【解析】im- 是常见的否定前缀，表示 '不、非'。impossible = not possible（不可能的）。类似构词：impolite（不礼貌的），impatient（不耐烦的），imperfect（不完美的）。A(very) 是加强含义；C(again) 是 re- 的含义；D(before) 是 pre- 的含义。【技巧】否定前缀家族：un-(unable), im-(impossible), in-(incorrect), dis-(dislike), ir-(irregular)。"
     },
     {
       "id": 8,
       "type": "vocabulary",
-      "knowledge_point": "context_word",
+      "knowledge_point": "word_meaning",
       "difficulty": 2,
-      "stem": "After hours of walking, we were all ______ and drank a lot of water.",
-      "options": ["A. thirsty", "B. hungry", "C. sleepy", "D. angry"],
-      "correct_answer": "A",
-      "explanation": "【解析】语境选词。后文 'drank a lot of water'（喝了很多水）暗示前文是 '口渴的'。thirsty = 口渴的。B(hungry) 应该吃东西而非喝水；C(sleepy) 应该睡觉；D(angry) 与喝水无关。【技巧】利用后文动作反推前文状态：drank water -> thirsty，ate food -> hungry。"
+      "stem": "The doctor told him to take the medicine twice a day. The underlined word 'medicine' is closest in meaning to ______.",
+      "options": ["A. food for patients", "B. pills or liquid to treat illness", "C. drink for breakfast", "D. fruit for health"],
+      "correct_answer": "B",
+      "explanation": "【解析】medicine = 药物，即用来治疗疾病的药片或液体。pills or liquid to treat illness 准确描述了 medicine 的含义。A(病人的食物) 不准确；C(早餐饮料) 和 D(健康水果) 均与 '医生嘱咐服用' 的语境无关。【技巧】遇到下划线词汇题，先看上下文语境：doctor + take...twice a day 强烈暗示 '药物'。"
     },
     {
       "id": 9,
@@ -88,11 +88,11 @@
       "knowledge_point": "cloze_general",
       "difficulty": 3,
       "group": "cloze_1",
-      "group_passage": "Last month, our school started a cooking club. I decided to join because I wanted to learn how to make real meals instead of just eating instant noodles at home.\n\nOn the first day, the teacher, Chef Wang, told us that cooking is not only about following recipes. 'You also need to use your (9)______ and be creative,' he said. Then he gave each of us some tomatoes and eggs.\n\nI thought it would be easy, but I was wrong. When I put the eggs into the hot oil, they started to stick to the pan. I got nervous and nearly (10)______. Chef Wang came over calmly and showed me the right way to control the heat. 'Cooking is like learning to ride a bike,' he smiled. 'You will fall a few times before you get it right.'\n\nBy the end of the class, my tomato and egg dish did not look perfect, but it tasted surprisingly good. My classmates agreed that it was full of character. I felt very (11)______.\n\nNow I go to the cooking club every Wednesday. It has taught me that failure is just the first step to success. As Chef Wang always says, the best meals are made with patience, not just (12)______.",
+      "group_passage": "Last month, our class went on a school trip to a small village. I had never spent a whole day on a farm before, so I was both excited and nervous.\n\nWhen we arrived, a friendly farmer named Uncle Li showed us around. He taught us how to feed the chickens and pick fresh vegetables. At first, I was afraid of the cows in the field because they were so large. But Uncle Li smiled and said, 'Animals can sense how you feel. If you stay (9)______, they will be friendly to you.' I took a deep breath and walked closer. To my surprise, the cow let me touch its head gently.\n\nIn the afternoon, we helped plant trees along the river. The work was harder than I had expected. My hands got dirty and my back ached. However, when I looked at the row of young trees we had planted, I felt a strong sense of (10)______. One classmate even joked, 'In ten years, we can come back and see a forest.'\n\nBefore we left, Uncle Li gave each of us a basket of eggs and tomatoes. 'These are gifts from the farm,' he said. 'Remember, the best food is the food you (11)______ yourself.' We all laughed and thanked him.\n\nOn the bus home, I thought about everything we had done that day. It was tiring, but it was also the most meaningful school trip I had ever taken. I learned that nature is not something we just read about in (12)______. It is something we should experience with our own hands.",
       "stem": "(9)______",
-      "options": ["A. senses", "B. imagination", "C. strength", "D. memory"],
-      "correct_answer": "B",
-      "explanation": "【解析】语境推理。后文提到 'be creative'（有创造力），与 creativity 直接呼应的是 imagination（想象力）。senses（感官）、strength（力量）、memory（记忆）均与 'creative' 语义关联较弱。【技巧】完形填空注意同义/近义复现，creative 和 imagination 属于同一语义场。"
+      "options": ["A. calm", "B. brave", "C. quick", "D. silent"],
+      "correct_answer": "A",
+      "explanation": "【解析】跨句推理+情感线索。前文说 'I was afraid of the cows'（我害怕牛），Uncle Li 解释 'Animals can sense how you feel'（动物能感受到你的情绪）。由此推断，如果人保持 'calm'（冷静），动物就会友好。brave（勇敢）虽然是好品质，但这里强调的是情绪状态稳定，不是胆量；quick（快）与动物相处无关；silent（安静）不如 calm 准确，因为人可以安静但仍内心紧张。【技巧】完形填空注意情感线索链：afraid -> sense fear -> stay calm -> friendly。"
     },
     {
       "id": 10,
@@ -101,9 +101,9 @@
       "difficulty": 3,
       "group": "cloze_1",
       "stem": "(10)______",
-      "options": ["A. gave up", "B. looked up", "C. set off", "D. came back"],
+      "options": ["A. pride", "B. shame", "C. fear", "D. doubt"],
       "correct_answer": "A",
-      "explanation": "【解析】语境推理。前文说 '鸡蛋粘锅了，我很紧张'，后文说 'Chef Wang 走过来 calmly 教我控制火候' - 暗示 '我' 差点就放弃了。give up = 放弃。look up（查阅/抬头看）、set off（出发）、come back（回来）均不符合 '紧张+差点' 的情感逻辑。【技巧】利用情感线索：紧张(nervous) -> 负面结果 -> give up，再由他人鼓励继续。"
+      "explanation": "【解析】情感推断。前文说种树很辛苦（hands got dirty, back ached），但 However 转折后看到成果——一排小树。这种从辛苦到看到成果的对比，应该产生正面情感 pride（自豪）。shame（羞耻）、fear（恐惧）、doubt（怀疑）均为负面情感，与 '看到成果' 的语境矛盾。【技巧】注意 However 转折后的情感走向。付出辛苦 + 看到成果 = 自豪。"
     },
     {
       "id": 11,
@@ -112,9 +112,9 @@
       "difficulty": 3,
       "group": "cloze_1",
       "stem": "(11)______",
-      "options": ["A. proud", "B. bored", "C. worried", "D. lonely"],
+      "options": ["A. grow", "B. buy", "C. cook", "D. choose"],
       "correct_answer": "A",
-      "explanation": "【解析】情感推断。虽然菜 'did not look perfect'（看起来不完美），但 'tasted surprisingly good'（味道出奇地好），而且同学评价 'full of character'（很有特色）。这种正面反馈应该让作者感到 proud（自豪的）。bored（无聊）、worried（担心）、lonely（孤独）均为负面情感，与上下文矛盾。【技巧】注意 but 转折后的情感走向，从 '不完美' 到 '好吃' 再到 '自豪'。"
+      "explanation": "【解析】语境推理。前文提到 'gave each of us a basket of eggs and tomatoes'（给我们鸡蛋和西红柿），并说 'gifts from the farm'（来自农场的礼物）。农场产出的食物是自己 '种植/养殖' 出来的，所以 grow yourself（自己种植）最贴合农场语境。buy（买）与农场直接赠送矛盾；cook（烹饪）后面没有提到做饭；choose（选择）语义太泛。【技巧】利用场景线索：farm + eggs/tomatoes = 种植/养殖，对应 grow。"
     },
     {
       "id": 12,
@@ -123,9 +123,9 @@
       "difficulty": 3,
       "group": "cloze_1",
       "stem": "(12)______",
-      "options": ["A. salt", "B. skill", "C. speed", "D. sugar"],
+      "options": ["A. classrooms", "B. textbooks", "C. newspapers", "D. libraries"],
       "correct_answer": "B",
-      "explanation": "【解析】主旨升华句。前文 'patience'（耐心）是抽象品质，空格处也应是抽象概念，且与烹饪成功相关。skill（技巧）与 patience 并列，共同构成做好一顿饭的关键。salt/sugar 是具体调料，speed（速度）与 Chef Wang 强调的 '耐心' 形成对比而非并列。【技巧】夹叙夹议的完形最后一段常出现主旨升华，注意抽象名词的对仗。"
+      "explanation": "【解析】主旨呼应+固定搭配。最后一段是全文升华：'自然不是我们在______里读到的东西，而是应该用双手去体验的东西。' read about in textbooks（在课本中读到）是固定搭配，且与 'experience with our own hands' 形成完美对比——理论 vs 实践。classrooms（教室）里不主要是 '读'；newspapers（报纸）和 libraries（图书馆）虽然也有阅读，但学生了解自然知识的主要渠道是课本。【技巧】夹叙夹议结尾常出现 '理论-实践' 对比，textbooks 是学生最熟悉的 '理论来源'。"
     },
     {
       "id": 13,
@@ -133,11 +133,11 @@
       "knowledge_point": "detail",
       "difficulty": 3,
       "group": "reading_1",
-      "group_passage": "Have you ever wondered why the bicycle is one of the most popular inventions in the world? It is simple, cheap, and good for both our health and the environment.\n\nThe first bicycle appeared in Germany in 1817. It was made of wood and had no pedals. The rider had to push it along with his feet. People called it the 'running machine'. About fifty years later, pedals were added to the front wheel, making cycling much easier.\n\nIn the late 1800s, the safety bicycle was invented. It had two wheels of the same size, a chain to drive the rear wheel, and rubber tyres. This design is almost the same as the bicycles we ride today.\n\nToday, bicycles are used all over the world. In cities like Amsterdam and Copenhagen, more people travel by bike than by car. Some modern bicycles even have electric motors to help riders climb hills. However, the basic idea has not changed for over a century: two wheels, a frame, and human power.",
-      "stem": "When did the first bicycle appear?",
-      "options": ["A. In 1807.", "B. In 1817.", "C. In 1867.", "D. In 1877."],
+      "group_passage": "Since ancient times, humans have looked up at the stars and wondered what lies beyond our planet. Today, space exploration has become one of the most exciting fields of science.\n\nIn 1961, Yuri Gagarin became the first human to travel into space. Just eight years later, in 1969, American astronaut Neil Armstrong became the first person to walk on the moon. His famous words, 'That's one small step for man, one giant leap for mankind,' are still remembered by people around the world.\n\nIn recent years, space agencies from different countries have achieved even more. China's Chang'e missions have successfully landed on the moon and collected samples to bring back to Earth. The Tianwen-1 mission reached Mars in 2021, making China the second country to successfully land a rover on the red planet.\n\nHowever, space exploration is not just about national pride. It also brings practical benefits to our daily lives. Many technologies we use today, such as satellite navigation and weather forecasting, were first developed for space missions. Scientists also study space to better understand Earth's climate and find solutions to environmental problems.\n\nSome people argue that space exploration costs too much money and that we should focus on problems here on Earth. But supporters believe that investing in space helps us solve those very problems. As one scientist put it, 'We explore space not because it is easy, but because it helps us learn who we are and where we come from.'",
+      "stem": "When did Neil Armstrong walk on the moon?",
+      "options": ["A. In 1961.", "B. In 1969.", "C. In 2021.", "D. In 1957."],
       "correct_answer": "B",
-      "explanation": "【解析】细节题。原文第二段第一句明确说 'The first bicycle appeared in Germany in 1817.'。A、C、D 均为干扰项，通过改动年份制造混淆。【技巧】细节题直接定位数字信息，注意 1817 与 1807/1867/1877 的区别。"
+      "explanation": "【解析】细节题。原文第二段明确说 'in 1969, American astronaut Neil Armstrong became the first person to walk on the moon.'。A(1961) 是加加林进入太空的时间；C(2021) 是天问一号到达火星的时间；D(1957) 是干扰数字。【技巧】细节题直接定位人名找数字，注意不同事件对应不同年份。"
     },
     {
       "id": 14,
@@ -145,10 +145,10 @@
       "knowledge_point": "inference",
       "difficulty": 3,
       "group": "reading_1",
-      "stem": "What can we infer from the passage about early bicycles?",
-      "options": ["A. They were made of metal.", "B. They were easy to ride.", "C. Riders had to use their feet to move them.", "D. They had rubber tyres from the beginning."],
-      "correct_answer": "C",
-      "explanation": "【解析】推理判断。原文第二段说 'It was made of wood and had no pedals. The rider had to push it along with his feet.' 由此可推断早期自行车需要骑行者用脚蹬地前进。A 错（是木头不是金属）；B 错（没有踏板，不容易骑）；D 错（橡胶轮胎是 late 1800s 才出现的）。【技巧】推理题要从原文信息推进一步，不能照抄但要有依据。"
+      "stem": "What can we learn from the passage about China's space missions?",
+      "options": ["A. They have only explored the moon.", "B. They have reached both Mars and the moon.", "C. They began earlier than American missions.", "D. They have sent humans into space."],
+      "correct_answer": "B",
+      "explanation": "【解析】推理判断。原文第三段提到中国的嫦娥任务 'landed on the moon'（登月），以及天问一号 'reached Mars'（到达火星）。由此可推断中国已经抵达了月球和火星。A 错在 'only'；C 错，文中没有比较开始时间；D 错，文中没提到中国载人航天。【技巧】推理题注意选项中的绝对词（only/always/never），通常有绝对词的选项是错的。"
     },
     {
       "id": 15,
@@ -156,10 +156,10 @@
       "knowledge_point": "word_guessing",
       "difficulty": 3,
       "group": "reading_1",
-      "stem": "The underlined word 'pedals' in Paragraph 2 most probably means the parts used to ______.",
-      "options": ["A. make the bicycle move by foot", "B. hold the bicycle up", "C. keep the rider safe", "D. connect the two wheels"],
+      "stem": "The underlined word 'rover' in Paragraph 3 most probably means ______.",
+      "options": ["A. a small vehicle used for exploring planets", "B. a robot that walks like a human", "C. a camera that takes pictures from orbit", "D. a spaceship that carries astronauts"],
       "correct_answer": "A",
-      "explanation": "【解析】词义猜测。原文说早期的车 'had no pedals'，骑行者 'had to push it along with his feet'。大约五十年后 'pedals were added... making cycling much easier'。对比可知：没有 pedals -> 用脚推地；有了 pedals -> 骑车更容易。由此推断 pedals 是用脚驱动自行车前进的部件。【技巧】利用对比逻辑：no pedals + feet pushing vs pedals added -> easier，推断 pedals 替代了 'feet pushing' 的功能。"
+      "explanation": "【解析】词义猜测。原文说 'land a rover on the red planet'（在红色星球上着陆一个 rover）。结合常识和上下文，在火星表面着陆并进行探测的是 '火星车'——一种在行星表面行驶的小型探测车。B(像人一样行走的机器人) 不准确，火星车是轮式的；C(轨道上拍照的相机) 不是着陆器；D(载宇航员的飞船) 是 spacecraft，不是 rover。【技巧】遇到科技类词汇，结合上下文动作（land on + planet）和常识推断。"
     },
     {
       "id": 16,
@@ -167,10 +167,10 @@
       "knowledge_point": "main_idea",
       "difficulty": 3,
       "group": "reading_1",
-      "stem": "What is the best title for the passage?",
-      "options": ["A. How to Ride a Bicycle Safely", "B. The History of the Bicycle", "C. Bicycles in Modern Cities", "D. Why Cycling is Good Exercise"],
-      "correct_answer": "B",
-      "explanation": "【解析】主旨大意。文章按时间顺序介绍了自行车的发展：1817年木制无踏板 -> 五十年后加踏板 -> 19世纪末安全自行车 -> 现代自行车。核心是 '历史演变'。A 只涉及安全骑行；C 只涉及现代城市；D 只涉及锻炼好处，均过于片面。【技巧】主旨题看全文结构 - 时间线叙事通常是 'history of...'。"
+      "stem": "What is the writer's main purpose in writing this passage?",
+      "options": ["A. To explain why space exploration is valuable.", "B. To compare different countries' space programs.", "C. To encourage readers to become astronauts.", "D. To argue that space exploration wastes money."],
+      "correct_answer": "A",
+      "explanation": "【解析】主旨大意。文章按历史（1961/1969）- 近期成就（中国探月/火星）- 实际好处（导航/天气预报）- 回应质疑 的结构展开，总体是在说明太空探索的价值。B(比较各国项目) 太窄，文中只是举例；C(鼓励当宇航员) 未提及；D(说浪费钱) 与作者立场相反，作者是在反驳这种观点。【技巧】主旨题看全文结构：历史->成就->好处->回应质疑 = 说明价值。"
     },
     {
       "id": 17,
@@ -178,11 +178,11 @@
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
       "group": "fill_1",
-      "group_passage": "Staying healthy as a student is not as hard as it sounds. Here are some simple habits that can make a big difference.\n\nFirst, never skip breakfast. (17)______ Studies show that students who eat breakfast usually perform better in class and feel less tired in the morning.\n\nSecond, drink enough water. Many students prefer sugary drinks like cola, but water is the best choice for your body. (18)______ Try to drink at least six to eight glasses every day.\n\nThird, get moving. You do not have to run a marathon. (19)______ Walking to school, riding a bike, or even dancing in your room for fifteen minutes can help keep you fit.\n\n(20)______ When you sleep well, your brain can process what you learned during the day. Aim for eight to nine hours of sleep each night.",
+      "group_passage": "Last week, our school held its annual science fair. Students from all grades displayed their creative projects in the gymnasium. (17)______ I had been looking forward to this event for weeks.\n\nMy project was a small robot made from recycled materials. It could walk around the table and avoid bumping into cups or books. (18)______ I spent three weekends building it, and I was nervous about how the judges would react.\n\nWhen the fair started, many visitors stopped at my table. A young boy asked me how the robot could move without wheels. (19)______ The boy's eyes lit up with curiosity.\n\nThe most surprising moment came when a judge asked me about the environmental impact of my project. I explained that it used a simple sensor to detect objects in front of it. (20)______ She then told me that using recycled materials showed real creativity and responsibility.",
       "stem": "(17)______",
-      "options": ["A. A simple walk after dinner can improve your sleep quality.", "B. It gives your brain and body the energy they need to start the day.", "C. Even thirty minutes of exercise a day is enough to stay healthy.", "D. It helps carry nutrients to your cells and keeps your skin clear.", "E. Finally, do not underestimate the power of a good night's sleep."],
-      "correct_answer": "B",
-      "explanation": "【解析】空格前说 'First, never skip breakfast.'（首先，不要不吃早餐），空格后说 'Studies show that students who eat breakfast usually perform better...'。空格处应解释为什么要吃早餐。B（它给你的大脑和身体提供开始一天所需的能量）完美衔接 - 先说不要跳过，再解释原因，再引用研究。A 谈散步和睡眠；C 谈运动；D 虽然谈水但放在早餐段不对；E 是最后一点。"
+      "options": ["A. I told her that my robot was built entirely from old boxes and bottles, which reduced waste.", "B. The science fair was more challenging than I had expected, but it was worth every minute of effort.", "C. It was a great chance to see what my classmates had created and to share my own ideas.", "D. I explained that the robot had special legs instead of wheels, which allowed it to step over small objects.", "E. I chose this design because I wanted to show that technology can be both fun and environmentally friendly."],
+      "correct_answer": "C",
+      "explanation": "【解析】空格前说 '学生们展示了创意项目'，空格后说 '我期待这个活动好几周了'。空格处应承上启下，说明科技展的意义。C（这是一个很好的机会，可以看到同学的作品并分享自己的想法）自然衔接——先说活动展示项目，再说明活动的意义，再说个人期待。【技巧】短文填空注意段落主题句的作用，首段常用来介绍活动和背景。"
     },
     {
       "id": 18,
@@ -191,9 +191,9 @@
       "difficulty": 2,
       "group": "fill_1",
       "stem": "(18)______",
-      "options": ["A. A simple walk after dinner can improve your sleep quality.", "B. It gives your brain and body the energy they need to start the day.", "C. Even thirty minutes of exercise a day is enough to stay healthy.", "D. It helps carry nutrients to your cells and keeps your skin clear.", "E. Finally, do not underestimate the power of a good night's sleep."],
-      "correct_answer": "D",
-      "explanation": "【解析】空格前说 'water is the best choice for your body'（水是对身体最好的选择），空格后说 'Try to drink at least six to eight glasses every day'。空格处应解释喝水的好处。D（它帮助把营养输送到细胞，并让你的皮肤保持清爽）是喝水对身体的具体益处。A 谈散步；B 谈早餐；C 谈运动；E 谈睡眠。"
+      "options": ["A. I told her that my robot was built entirely from old boxes and bottles, which reduced waste.", "B. The science fair was more challenging than I had expected, but it was worth every minute of effort.", "C. It was a great chance to see what my classmates had created and to share my own ideas.", "D. I explained that the robot had special legs instead of wheels, which allowed it to step over small objects.", "E. I chose this design because I wanted to show that technology can be both fun and environmentally friendly."],
+      "correct_answer": "E",
+      "explanation": "【解析】空格前说 '我的项目是一个用回收材料做的小机器人，它能在桌上走动并避免撞东西'，空格后说 '我花了三个周末制作它'。空格处应解释为什么选择这个设计。E（我选择这个设计是因为我想展示科技可以既有趣又环保）完美衔接——先介绍项目功能，再解释设计动机，再说制作过程。【技巧】注意代词指代和设计动机的一致性：recycled materials 对应 environmentally friendly，robot 对应 technology。"
     },
     {
       "id": 19,
@@ -202,9 +202,9 @@
       "difficulty": 2,
       "group": "fill_1",
       "stem": "(19)______",
-      "options": ["A. A simple walk after dinner can improve your sleep quality.", "B. It gives your brain and body the energy they need to start the day.", "C. Even thirty minutes of exercise a day is enough to stay healthy.", "D. It helps carry nutrients to your cells and keeps your skin clear.", "E. Finally, do not underestimate the power of a good night's sleep."],
-      "correct_answer": "C",
-      "explanation": "【解析】空格前说 'You do not have to run a marathon.'（你不必跑马拉松），暗示运动量不需要很大。空格后列举了散步、骑车、跳舞等轻度运动。C（即使每天运动三十分钟也足以保持健康）承接 '不必跑马拉松'，说明少量运动即可。A 谈散步和睡眠，放在运动段末尾不如 C 贴切；B/D/E 已用于其他空或主题不符。"
+      "options": ["A. I told her that my robot was built entirely from old boxes and bottles, which reduced waste.", "B. The science fair was more challenging than I had expected, but it was worth every minute of effort.", "C. It was a great chance to see what my classmates had created and to share my own ideas.", "D. I explained that the robot had special legs instead of wheels, which allowed it to step over small objects.", "E. I chose this design because I wanted to show that technology can be both fun and environmentally friendly."],
+      "correct_answer": "D",
+      "explanation": "【解析】空格前说 '小男孩问我机器人怎么不用轮子就能移动'，空格后说 '男孩的眼睛因好奇而亮了起来'。空格处应该是对小男孩问题的回答。D（我解释说机器人有特殊的腿而不是轮子，这让它能跨过小物体）直接回应了 'without wheels' 的问题。A 中的 her 指代女性（评委），不适合小男孩；B 是总结句；C 和 E 已用于其他空。【技巧】注意问答对应关系：问 '怎么不用轮子' -> 答 '有特殊的腿代替轮子'。"
     },
     {
       "id": 20,
@@ -213,9 +213,9 @@
       "difficulty": 2,
       "group": "fill_1",
       "stem": "(20)______",
-      "options": ["A. A simple walk after dinner can improve your sleep quality.", "B. It gives your brain and body the energy they need to start the day.", "C. Even thirty minutes of exercise a day is enough to stay healthy.", "D. It helps carry nutrients to your cells and keeps your skin clear.", "E. Finally, do not underestimate the power of a good night's sleep."],
-      "correct_answer": "E",
-      "explanation": "【解析】空格位于最后一段开头，后文整段都在讲睡眠的重要性：'When you sleep well, your brain can process...' 'Aim for eight to nine hours...'。E（最后，不要低估一夜好眠的力量）是段落主题句，引出睡眠话题。Finally 也与前文的 First/Second/Third 形成顺序呼应。A 虽谈睡眠但放在段首不如 E 有力；B/C/D 已用于其他空。"
+      "options": ["A. I told her that my robot was built entirely from old boxes and bottles, which reduced waste.", "B. The science fair was more challenging than I had expected, but it was worth every minute of effort.", "C. It was a great chance to see what my classmates had created and to share my own ideas.", "D. I explained that the robot had special legs instead of wheels, which allowed it to step over small objects.", "E. I chose this design because I wanted to show that technology can be both fun and environmentally friendly."],
+      "correct_answer": "A",
+      "explanation": "【解析】空格前说 '评委问我项目的环保影响'，空格后说 '她接着告诉我使用回收材料展现了真正的创意和责任感'。空格处应该是回答评委关于环保的问题。A（我告诉她我的机器人完全是用旧盒子和瓶子做的，这减少了浪费）中的 her 对应 judge（女性），且 'old boxes and bottles' 对应 'recycled materials'，'reduced waste' 对应 'environmental impact'。B 是总结性句子，放在全文最后一段更合适，但此处已有具体问答语境；C/D/E 已用于其他空。【技巧】注意代词性别和话题呼应：judge(女性) -> her；environmental impact -> recycled materials / reduced waste。"
     }
   ]
 }
