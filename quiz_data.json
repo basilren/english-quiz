@@ -1,5 +1,5 @@
 ﻿{
-  "date": "2026-04-30",
+  "date": "2026-05-01",
   "session_number": 1,
   "questions": [
     {
@@ -7,31 +7,31 @@
       "type": "grammar",
       "knowledge_point": "present_perfect_vs_past_simple",
       "difficulty": 2,
-      "stem": "I ______ my old classmates last week, but I ______ them for three years before that.",
+      "stem": "—Have you ever visited the science museum?\n—Yes. I ______ there with my classmates last month.",
       "options": [
-        "A. met; haven't seen",
-        "B. have met; didn't see",
-        "C. met; didn't see",
-        "D. have met; haven't seen"
+        "A. have gone",
+        "B. went",
+        "C. go",
+        "D. am going"
       ],
-      "correct_answer": "A",
-      "explanation": "选A。第一空后有明确过去时间状语'last week'（上周），表示过去某个特定时间发生的动作，用一般过去时'met'；第二空后有'for three years'（持续三年），表示从过去某时持续到现在的时间段，用现在完成时'haven't seen'。B选项第一空错误，现在完成时不与过去时间连用；C选项第二空错误，'for+时间段'要求用完成时；D选项第一空错误。",
+      "correct_answer": "B",
+      "explanation": "虽然问句用了现在完成时，但答句中有明确的时间状语'last month'（上个月），这是一般过去时的标志词，因此要用went。现在完成时不能与具体的过去时间状语（如yesterday, last week, in 2020等）连用。",
       "label": "语法题"
     },
     {
       "id": 2,
       "type": "grammar",
-      "knowledge_point": "relative_clause_who_which",
-      "difficulty": 2,
-      "stem": "The boy ______ is wearing a red jacket is my elder brother who works as a scientist.",
+      "knowledge_point": "relative_clause",
+      "difficulty": 3,
+      "stem": "The book ______ cover is green is about environmental protection.",
       "options": [
         "A. who",
         "B. which",
-        "C. whom",
-        "D. whose"
+        "C. whose",
+        "D. that"
       ],
-      "correct_answer": "A",
-      "explanation": "选A。定语从句词是'the boy'（人），且代词在从句中作主语（is wearing），用'who'。B选项'which'用于词是物；C选项'whom'是宾格，在从句中作宾语时使用；D选项'whose'表示所属，后需接名词。",
+      "correct_answer": "C",
+      "explanation": "先行词是the book，定语从句中的cover（封面）与book是所属关系（书的封面），因此要用whose引导，表示'……的'。who指人；which和that在从句中作主语或宾语，但不能表示所属关系。",
       "label": "语法题"
     },
     {
@@ -39,224 +39,224 @@
       "type": "grammar",
       "knowledge_point": "passive_voice",
       "difficulty": 2,
-      "stem": "These books ______ to the school library yesterday afternoon by the monitor.",
+      "stem": "These old books ______ to the library by Bosco yesterday afternoon.",
       "options": [
         "A. returned",
         "B. were returned",
-        "C. have returned",
-        "D. have been returned"
+        "C. are returned",
+        "D. return"
       ],
       "correct_answer": "B",
-      "explanation": "选B。主语'These books'（书）与动词'return'（归还）是被动，书是被归还的，需用被动语态be+过去分词；时间状语'yesterday afternoon'（昨天下午）表明是一般过去时，用'were returned'。A选项是主动语态；C、D选项是现在完成时，与yesterday矛盾。",
+      "explanation": "主语these old books与动词return之间是被动关系（书被归还），且时间状语yesterday afternoon（昨天下午）表明要用一般过去时，因此用一般过去时的被动语态were returned。被动语态的基本结构是：be动词+过去分词。",
       "label": "语法题"
     },
     {
       "id": 4,
       "type": "grammar",
       "knowledge_point": "object_clause",
-      "difficulty": 2,
-      "stem": "Could you tell me ______? I need to post a letter urgently.",
+      "difficulty": 3,
+      "stem": "I wonder ______ Tom ______ to the party tomorrow. If he comes, I will be very happy.",
       "options": [
-        "A. where is the nearest post office",
-        "B. where the nearest post office is",
-        "C. where does the nearest post office",
-        "D. where the nearest post office does"
+        "A. if; will come",
+        "B. that; comes",
+        "C. whether; came",
+        "D. if; came"
       ],
-      "correct_answer": "B",
-      "explanation": "选B。宾语从句陈述语序（主语+谓语），即'where the nearest post office is'。A选项是疑问语序；C选项'does'多余且缺少谓语；D选项'does'多余，从句中已有系动词'is'。记住口诀：宾语从句用陈述，疑问词后加主语。",
+      "correct_answer": "A",
+      "explanation": "wonder后接宾语从句表示'想知道'，要用if或whether引导，排除B。根据tomorrow（明天）可知从句要用一般将来时will come。注意：if引导宾语从句时意为'是否'，引导条件状语从句时意为'如果'（此时遵循'主将从现'原则）。",
       "label": "语法题"
     },
     {
       "id": 5,
       "type": "vocabulary",
-      "knowledge_point": "word_meaning",
+      "knowledge_point": "fixed_phrases",
       "difficulty": 2,
-      "stem": "The ______ temple was built over 1,000 years ago, but it still looks magnificent now.",
+      "stem": "We should ______ our best to protect the environment for our future.",
       "options": [
-        "A. modern",
-        "B. ancient",
-        "C. new",
-        "D. future"
+        "A. try",
+        "B. make",
+        "C. do",
+        "D. take"
       ],
-      "correct_answer": "B",
-      "explanation": "选B。'ancient'意为'古老的、古代的'，与后文'1,000 years ago'（一千年前）相呼应。A选项'modern'（现代的）和C选项'new'（新的）与句意相反；D选项'future'（未来的）不能修饰temple。",
+      "correct_answer": "A",
+      "explanation": "try one's best to do sth.是固定搭配，意为'尽某人最大努力做某事'。虽然do one's best也有'尽力'的意思，但try one's best更常用，且与语境中的'努力保护环境'搭配更自然。",
       "label": "词汇题"
     },
     {
       "id": 6,
       "type": "vocabulary",
-      "knowledge_point": "prefix",
-      "difficulty": 2,
-      "stem": "If you add the prefix 'un-' to the word 'healthy', you get '______', which means 'not healthy'.",
+      "knowledge_point": "prefix_suffix",
+      "difficulty": 1,
+      "stem": "If you add the prefix 'un-' to the word 'healthy', you get a new word with the ______ meaning.",
       "options": [
-        "A. unhealthy",
-        "B. rehealthy",
-        "C. dishealthy",
-        "D. imhealthy"
+        "A. same",
+        "B. similar",
+        "C. opposite",
+        "D. different"
       ],
-      "correct_answer": "A",
-      "explanation": "选A。前缀'un-'加在形容词前表示否定，'healthy'（健康的）加'un-'变为'unhealthy'（不健康的）。B选项're-'表示'再次'；C选项'dis-'虽也表否定，但'healthy'的习惯否定前缀是'un-'；D选项'im-'通常加在以'b/m/p'开头的形容词前，如'impossible'。",
+      "correct_answer": "C",
+      "explanation": "前缀un-表示'不、无、相反'，如unhappy（不开心）、unhealthy（不健康）。因此添加un-后得到的是原词的反义词（opposite meaning）。",
       "label": "词汇题"
     },
     {
       "id": 7,
       "type": "vocabulary",
       "knowledge_point": "phrasal_verbs",
-      "difficulty": 3,
-      "stem": "After a long discussion, we finally ______ a good solution to the difficult math problem.",
+      "difficulty": 2,
+      "stem": "Please ______ the lights when you leave the classroom to save electricity.",
       "options": [
-        "A. came up with",
-        "B. came up",
-        "C. caught up with",
-        "D. got on with"
+        "A. turn on",
+        "B. turn off",
+        "C. turn up",
+        "D. turn down"
       ],
-      "correct_answer": "A",
-      "explanation": "选A。'come up with'是固定短语，意为'想出、提出（主意、计划、解决方案等）'。B选项'come up'意为'走近、被提出'（主语通常是主意，而非人）；C选项'catch up with'意为'追上、赶上（某人）'；D选项'get on with'意为'与……相处、继续做'。",
+      "correct_answer": "B",
+      "explanation": "turn off意为'关闭'，符合句意'离开教室时关灯省电'。turn on（打开）、turn up（调大/出现）、turn down（调小/拒绝）均不符合语境。",
       "label": "词汇题"
     },
     {
       "id": 8,
       "type": "cloze",
-      "knowledge_point": "cloze_general",
+      "knowledge_point": "cloze_context",
       "difficulty": 2,
       "stem": "(8)______",
       "options": [
-        "A. throw",
-        "B. are thrown",
-        "C. threw",
-        "D. have thrown"
+        "A. reduce",
+        "B. produce",
+        "C. collect",
+        "D. increase"
       ],
-      "correct_answer": "B",
-      "explanation": "选B。主语'millions of tons of plastic waste'（数百万吨塑料垃圾）与动词'throw'是被动，且'every year'表明是一般现在时，复数主语用'are thrown'。A、C是主动语态；D是现在完成时主动语态。",
+      "correct_answer": "A",
+      "explanation": "根据上下文，学校启动'绿色校园'项目的目标是'减少'浪费和节约能源。reduce意为'减少'，与save energy（节约能源）并列。produce（生产）、collect（收集）、increase（增加）均不符合环保主题。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Recycling: A Way to Save Our Planet\n\nEvery year, millions of tons of plastic waste (8)______ into the ocean, causing serious pollution. This has become a big problem for our environment. However, a group of scientists (9)______ a new way to deal with it recently.\n\nThey found that some kinds of worms can eat plastic! These small creatures can (10)______ down plastic bags in just a few weeks. \"This discovery is (11)______,\" said Dr. Li, the lead researcher. \"It gives us hope (12)______ we can solve the plastic problem naturally.\""
+      "group_passage": "Last month, our school started a \"Green Campus\" project. The goal was to (8)______ waste and save energy. First, we placed recycling bins in every classroom. Students were asked to (9)______ paper, plastic, and other waste. At first, many students found it (10)______ to remember which bin to use. (11)______, after two weeks, it became a habit. The school also installed LED lights to (12)______ electricity. Now, our school uses 30% less energy than before."
     },
     {
       "id": 9,
       "type": "cloze",
-      "knowledge_point": "cloze_general",
+      "knowledge_point": "cloze_context",
       "difficulty": 2,
       "stem": "(9)______",
       "options": [
-        "A. have discovered",
-        "B. discovered",
-        "C. will discover",
-        "D. discover"
+        "A. mix",
+        "B. separate",
+        "C. make",
+        "D. burn"
       ],
-      "correct_answer": "A",
-      "explanation": "选A。时间状语'recently'（最近）是现在完成时的标志词，表示过去发生的动作对现在造成影响，且可能继续下去。主语'scientists'是复数，用'have discovered'。B选项是一般过去时，不与recently连用；C是将来时；D是一般现在时。",
+      "correct_answer": "B",
+      "explanation": "根据前文的recycling bins（回收箱）和常识，垃圾分类需要把不同的垃圾'分开'。separate意为'分离、分开'，符合语境。mix（混合）与文意相反；burn（燃烧）和make（制作）不符合回收的主题。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Recycling: A Way to Save Our Planet\n\nEvery year, millions of tons of plastic waste (8)______ into the ocean, causing serious pollution. This has become a big problem for our environment. However, a group of scientists (9)______ a new way to deal with it recently.\n\nThey found that some kinds of worms can eat plastic! These small creatures can (10)______ down plastic bags in just a few weeks. \"This discovery is (11)______,\" said Dr. Li, the lead researcher. \"It gives us hope (12)______ we can solve the plastic problem naturally.\""
+      "group_passage": "Last month, our school started a \"Green Campus\" project. The goal was to (8)______ waste and save energy. First, we placed recycling bins in every classroom. Students were asked to (9)______ paper, plastic, and other waste. At first, many students found it (10)______ to remember which bin to use. (11)______, after two weeks, it became a habit. The school also installed LED lights to (12)______ electricity. Now, our school uses 30% less energy than before."
     },
     {
       "id": 10,
       "type": "cloze",
-      "knowledge_point": "cloze_general",
+      "knowledge_point": "cloze_logic",
       "difficulty": 2,
       "stem": "(10)______",
       "options": [
-        "A. break",
-        "B. cut",
-        "C. turn",
-        "D. put"
+        "A. easy",
+        "B. difficult",
+        "C. interesting",
+        "D. important"
       ],
-      "correct_answer": "A",
-      "explanation": "选A。'break down'是固定短语，意为'分解'，符合语境（虫子分解塑料袋）。B选项'cut down'意为'砍倒、削减'；C选项'turn down'意为'调小、拒绝'；D选项'put down'意为'放下、记下'。",
+      "correct_answer": "B",
+      "explanation": "根据下文的However（然而）和became a habit（变成了习惯）可知，起初学生们觉得'很难'记住使用哪个垃圾桶。difficult（困难的）与后文形成转折关系。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Recycling: A Way to Save Our Planet\n\nEvery year, millions of tons of plastic waste (8)______ into the ocean, causing serious pollution. This has become a big problem for our environment. However, a group of scientists (9)______ a new way to deal with it recently.\n\nThey found that some kinds of worms can eat plastic! These small creatures can (10)______ down plastic bags in just a few weeks. \"This discovery is (11)______,\" said Dr. Li, the lead researcher. \"It gives us hope (12)______ we can solve the plastic problem naturally.\""
+      "group_passage": "Last month, our school started a \"Green Campus\" project. The goal was to (8)______ waste and save energy. First, we placed recycling bins in every classroom. Students were asked to (9)______ paper, plastic, and other waste. At first, many students found it (10)______ to remember which bin to use. (11)______, after two weeks, it became a habit. The school also installed LED lights to (12)______ electricity. Now, our school uses 30% less energy than before."
     },
     {
       "id": 11,
       "type": "cloze",
-      "knowledge_point": "cloze_general",
+      "knowledge_point": "cloze_logic",
       "difficulty": 2,
       "stem": "(11)______",
       "options": [
-        "A. terrible",
-        "B. hopeless",
-        "C. amazing",
-        "D. boring"
+        "A. However",
+        "B. Therefore",
+        "C. Besides",
+        "D. Instead"
       ],
-      "correct_answer": "C",
-      "explanation": "选C。根据上下文，科学家发现了能分解塑料的虫子，这应该是'令人惊奇的'发现。'amazing'意为'令人惊叹的'。A选项'terrible'（糟糕的）、B选项'hopeless'（无望的）、D选项'boring'（无聊的）均为负面词汇，与后文'gives us hope'（给我们希望）矛盾。",
+      "correct_answer": "A",
+      "explanation": "前文说起初觉得难，后文说两周后变成了习惯，前后是转折关系。However（然而）表示转折，符合逻辑。Therefore（因此）表因果；Besides（此外）表递进；Instead（反而/代替）表替代。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Recycling: A Way to Save Our Planet\n\nEvery year, millions of tons of plastic waste (8)______ into the ocean, causing serious pollution. This has become a big problem for our environment. However, a group of scientists (9)______ a new way to deal with it recently.\n\nThey found that some kinds of worms can eat plastic! These small creatures can (10)______ down plastic bags in just a few weeks. \"This discovery is (11)______,\" said Dr. Li, the lead researcher. \"It gives us hope (12)______ we can solve the plastic problem naturally.\""
+      "group_passage": "Last month, our school started a \"Green Campus\" project. The goal was to (8)______ waste and save energy. First, we placed recycling bins in every classroom. Students were asked to (9)______ paper, plastic, and other waste. At first, many students found it (10)______ to remember which bin to use. (11)______, after two weeks, it became a habit. The school also installed LED lights to (12)______ electricity. Now, our school uses 30% less energy than before."
     },
     {
       "id": 12,
       "type": "cloze",
-      "knowledge_point": "cloze_general",
-      "difficulty": 3,
+      "knowledge_point": "cloze_context",
+      "difficulty": 1,
       "stem": "(12)______",
       "options": [
-        "A. that",
-        "B. which",
-        "C. what",
-        "D. how"
+        "A. waste",
+        "B. use",
+        "C. make",
+        "D. save"
       ],
-      "correct_answer": "A",
-      "explanation": "选A。'hope'后的从句是同位语从句，用'that'引导，说明'hope'，'that'在从句中不成分，只起连接作用。B选项'which'引导定语从句，需要有词且在从句中作成分；C选项'what'在从句中作主语或宾语；D选项'how'表示方式，但此处从句不缺方式状语，而是需要连接词引导完整的陈述。",
+      "correct_answer": "D",
+      "explanation": "根据下文uses 30% less energy（使用少30%的能源）可知，安装LED灯是为了'节约'用电。save（节约）符合文意。waste（浪费）与文意相反。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Recycling: A Way to Save Our Planet\n\nEvery year, millions of tons of plastic waste (8)______ into the ocean, causing serious pollution. This has become a big problem for our environment. However, a group of scientists (9)______ a new way to deal with it recently.\n\nThey found that some kinds of worms can eat plastic! These small creatures can (10)______ down plastic bags in just a few weeks. \"This discovery is (11)______,\" said Dr. Li, the lead researcher. \"It gives us hope (12)______ we can solve the plastic problem naturally.\""
+      "group_passage": "Last month, our school started a \"Green Campus\" project. The goal was to (8)______ waste and save energy. First, we placed recycling bins in every classroom. Students were asked to (9)______ paper, plastic, and other waste. At first, many students found it (10)______ to remember which bin to use. (11)______, after two weeks, it became a habit. The school also installed LED lights to (12)______ electricity. Now, our school uses 30% less energy than before."
     },
     {
       "id": 13,
       "type": "reading",
       "knowledge_point": "detail",
       "difficulty": 2,
-      "stem": "How does Zhang Ming's device help blind people according to the passage?",
+      "stem": "When was the first vertical forest built?",
       "options": [
-        "A. It writes books for them.",
-        "B. It turns printed words into sounds.",
-        "C. It teaches them how to read.",
-        "D. It translates books into Braille."
+        "A. In 2010",
+        "B. In 2014",
+        "C. In 2018",
+        "D. In 2020"
       ],
       "correct_answer": "B",
-      "explanation": "选B。根据文章第一段第二句'The device uses AI technology to turn printed words into sounds.'（该使用人工智能技术将印刷文字转化为声音），明确说明了帮助方式。A选项'写书'文中未提；C选项'教'不是该的功能；D选项'翻译成盲文'错误，是转化为声音而非盲文。",
-      "label": "-细节理解",
+      "explanation": "细节理解题。根据第一段第二句'Italian architect Stefano Boeri designed the first vertical forest in Milan, Italy in 2014.'可知，第一座垂直森林建于2014年。",
+      "label": "阅读-细节理解",
       "group": "reading_1",
-      "group_passage": "A Student's Invention Helps Blind People Read\n\nZhang Ming, a 15-year-old student from Beijing, has invented a special device that can help blind people read books. The device uses AI technology to turn printed words into sounds.\n\nZhang got the idea when he visited a blind school last year. He saw how difficult it was for blind students to read normal books. \"I wanted to help them enjoy reading like we do,\" Zhang said.\n\nThe device looks like a small box with a camera. Users put the book under the camera, and the device reads the words aloud in just two seconds. It can also translate words into different languages.\n\nZhang's invention has won several awards. Many blind people have tried it and said it works very well. Zhang hopes to improve the device and make it cheaper so that more blind people can use it in the future."
+      "group_passage": "Vertical Forests\n\nHave you ever seen a building covered with trees and plants? This is called a \"vertical forest.\" Italian architect Stefano Boeri designed the first vertical forest in Milan, Italy in 2014. These special buildings are covered with thousands of trees, shrubs, and flowers.\n\nVertical forests are good for the environment in many ways. First, they help absorb CO2 and produce oxygen, just like regular forests. One vertical forest can produce enough oxygen for hundreds of people. Second, they provide homes for birds and insects in the city. Third, they help reduce air pollution and noise.\n\nHowever, building vertical forests is not easy. Engineers must design special systems to hold the plants and provide water. The buildings also need strong structures to support the weight of the soil and trees. Despite these challenges, more cities around the world are building vertical forests to create greener urban spaces."
     },
     {
       "id": 14,
       "type": "reading",
       "knowledge_point": "inference",
-      "difficulty": 2,
-      "stem": "What can we learn about Zhang Ming from the passage?",
+      "difficulty": 3,
+      "stem": "What can we learn from the passage?",
       "options": [
-        "A. He studies in a blind school.",
-        "B. He wants to make a lot of money from his invention.",
-        "C. He is kind and creative.",
-        "D. He doesn't like reading books."
+        "A. Vertical forests are cheap to build.",
+        "B. Vertical forests help improve city environment.",
+        "C. All buildings in Milan are vertical forests.",
+        "D. Vertical forests don't need water systems."
       ],
-      "correct_answer": "C",
-      "explanation": "选C。从张明的行为可以推断：他'发明'了说明有创造力（creative），他想帮助盲人说明心地善良（kind）。A选项错误，他是去盲校参观，不是在那里学习；B选项错误，文中说他希望让更便宜（cheaper），让更多盲人用得起，不是为了赚钱；D选项错误，文中提到他希望盲人'像我们一起享受'，暗示他喜欢。",
-      "label": "-推理判断",
+      "correct_answer": "B",
+      "explanation": "推理判断题。根据第二段，垂直森林能吸收二氧化碳、产生氧气、为城市鸟类和昆虫提供家园、减少空气污染和噪音，因此可以推断出垂直森林有助于改善城市环境。A项与第三段'building vertical forests is not easy'和'challenges'矛盾；C项与第一段'designed the first vertical forest'矛盾（只是第一座，并非全部）；D项与第三段'provide water'矛盾。",
+      "label": "阅读-推理判断",
       "group": "reading_1",
-      "group_passage": "A Student's Invention Helps Blind People Read\n\nZhang Ming, a 15-year-old student from Beijing, has invented a special device that can help blind people read books. The device uses AI technology to turn printed words into sounds.\n\nZhang got the idea when he visited a blind school last year. He saw how difficult it was for blind students to read normal books. \"I wanted to help them enjoy reading like we do,\" Zhang said.\n\nThe device looks like a small box with a camera. Users put the book under the camera, and the device reads the words aloud in just two seconds. It can also translate words into different languages.\n\nZhang's invention has won several awards. Many blind people have tried it and said it works very well. Zhang hopes to improve the device and make it cheaper so that more blind people can use it in the future."
+      "group_passage": "Vertical Forests\n\nHave you ever seen a building covered with trees and plants? This is called a \"vertical forest.\" Italian architect Stefano Boeri designed the first vertical forest in Milan, Italy in 2014. These special buildings are covered with thousands of trees, shrubs, and flowers.\n\nVertical forests are good for the environment in many ways. First, they help absorb CO2 and produce oxygen, just like regular forests. One vertical forest can produce enough oxygen for hundreds of people. Second, they provide homes for birds and insects in the city. Third, they help reduce air pollution and noise.\n\nHowever, building vertical forests is not easy. Engineers must design special systems to hold the plants and provide water. The buildings also need strong structures to support the weight of the soil and trees. Despite these challenges, more cities around the world are building vertical forests to create greener urban spaces."
     },
     {
       "id": 15,
       "type": "reading",
       "knowledge_point": "word_guessing",
-      "difficulty": 3,
-      "stem": "The underlined word 'device' in Paragraph 1 probably means ______.",
+      "difficulty": 2,
+      "stem": "What does the underlined word \"absorb\" in Paragraph 2 mean?",
       "options": [
-        "A. a kind of machine",
-        "B. a special book",
-        "C. a reading method",
-        "D. a language course"
+        "A. take in",
+        "B. give out",
+        "C. turn into",
+        "D. put away"
       ],
       "correct_answer": "A",
-      "explanation": "选A。根据上下文线索：'uses AI technology'（使用人工智能技术）、'looks like a small box with a camera'（看起来像带相机的小盒子）、'reads the words aloud'（大声读词），可推断'device'是一种机器/。B选项'书'、C选项'方法'、D选项'课程'均不符合描述。猜词技巧：对未知词进行解释说明的定语从句或同位语。",
-      "label": "-词义猜测",
+      "explanation": "词义猜测题。根据上下文'absorb CO2 and produce oxygen'（吸收二氧化碳并产生氧气），与produce（产生）相对，且宾语是CO2，可以推断absorb意为'吸收'。take in意为'吸入、吸收'，符合语境。",
+      "label": "阅读-词义猜测",
       "group": "reading_1",
-      "group_passage": "A Student's Invention Helps Blind People Read\n\nZhang Ming, a 15-year-old student from Beijing, has invented a special device that can help blind people read books. The device uses AI technology to turn printed words into sounds.\n\nZhang got the idea when he visited a blind school last year. He saw how difficult it was for blind students to read normal books. \"I wanted to help them enjoy reading like we do,\" Zhang said.\n\nThe device looks like a small box with a camera. Users put the book under the camera, and the device reads the words aloud in just two seconds. It can also translate words into different languages.\n\nZhang's invention has won several awards. Many blind people have tried it and said it works very well. Zhang hopes to improve the device and make it cheaper so that more blind people can use it in the future."
+      "group_passage": "Vertical Forests\n\nHave you ever seen a building covered with trees and plants? This is called a \"vertical forest.\" Italian architect Stefano Boeri designed the first vertical forest in Milan, Italy in 2014. These special buildings are covered with thousands of trees, shrubs, and flowers.\n\nVertical forests are good for the environment in many ways. First, they help absorb CO2 and produce oxygen, just like regular forests. One vertical forest can produce enough oxygen for hundreds of people. Second, they provide homes for birds and insects in the city. Third, they help reduce air pollution and noise.\n\nHowever, building vertical forests is not easy. Engineers must design special systems to hold the plants and provide water. The buildings also need strong structures to support the weight of the soil and trees. Despite these challenges, more cities around the world are building vertical forests to create greener urban spaces."
     },
     {
       "id": 16,
@@ -265,16 +265,16 @@
       "difficulty": 3,
       "stem": "What is the best title for this passage?",
       "options": [
-        "A. How to Use AI Technology",
-        "B. A Student's Invention to Help Blind People",
-        "C. The Importance of Reading",
-        "D. Life in a Blind School"
+        "A. Italian Architecture",
+        "B. How to Build a House",
+        "C. Vertical Forests: Green Buildings of the Future",
+        "D. Air Pollution in Cities"
       ],
-      "correct_answer": "B",
-      "explanation": "选B。主旨大意题需概括核心。本文围绕张明发明帮助盲人展开，介绍了发明原因、工作原理及未来展望。A选项过于宽泛，只提到技术，未提帮助盲人；C选项偏离重点，不是讲重要性；D选项只是背景信息。选标题技巧：寻找'谁+做什么'的选项，通常最能概括。",
-      "label": "-主旨大意",
+      "correct_answer": "C",
+      "explanation": "主旨大意题。文章第一段介绍什么是垂直森林，第二段讲其对环境的好处，第三段讲建造的挑战和前景。因此全文主旨是介绍垂直森林这一环保建筑。C项'垂直森林：未来的绿色建筑'最能概括全文。A项范围过大；B项偏离主题；D项只是文中提到的细节之一。",
+      "label": "阅读-主旨大意",
       "group": "reading_1",
-      "group_passage": "A Student's Invention Helps Blind People Read\n\nZhang Ming, a 15-year-old student from Beijing, has invented a special device that can help blind people read books. The device uses AI technology to turn printed words into sounds.\n\nZhang got the idea when he visited a blind school last year. He saw how difficult it was for blind students to read normal books. \"I wanted to help them enjoy reading like we do,\" Zhang said.\n\nThe device looks like a small box with a camera. Users put the book under the camera, and the device reads the words aloud in just two seconds. It can also translate words into different languages.\n\nZhang's invention has won several awards. Many blind people have tried it and said it works very well. Zhang hopes to improve the device and make it cheaper so that more blind people can use it in the future."
+      "group_passage": "Vertical Forests\n\nHave you ever seen a building covered with trees and plants? This is called a \"vertical forest.\" Italian architect Stefano Boeri designed the first vertical forest in Milan, Italy in 2014. These special buildings are covered with thousands of trees, shrubs, and flowers.\n\nVertical forests are good for the environment in many ways. First, they help absorb CO2 and produce oxygen, just like regular forests. One vertical forest can produce enough oxygen for hundreds of people. Second, they provide homes for birds and insects in the city. Third, they help reduce air pollution and noise.\n\nHowever, building vertical forests is not easy. Engineers must design special systems to hold the plants and provide water. The buildings also need strong structures to support the weight of the soil and trees. Despite these challenges, more cities around the world are building vertical forests to create greener urban spaces."
     },
     {
       "id": 17,
@@ -283,17 +283,17 @@
       "difficulty": 2,
       "stem": "(17)______",
       "options": [
-        "A. But they don't know where to start.",
-        "B. Teenagers need about 8-10 hours of sleep every night.",
-        "C. Also, don't forget to eat healthy snacks when you feel hungry.",
-        "D. In addition, try to do some exercise every day.",
-        "E. However, it takes time to develop good habits."
+        "A. However, with good time management, you can do well in both.",
+        "B. This saves time for other activities later.",
+        "C. Then you can see clearly how to arrange your time.",
+        "D. As a result, you may feel stressed and tired.",
+        "E. For example, playing basketball for an hour can make you more focused when you return to your books."
       ],
       "correct_answer": "A",
-      "explanation": "选A。前文说'Many students want to live a healthy life'（许多学生想健康生活），后文说'The following tips may help you'（以下建议可能帮到你），中间需要转折过渡，说明'想但不知从何开始'，A选项'But they don't know where to start'承上启下。B、C、D都是建议，不适合放在总起段；E虽可过渡，但不如A直接引出建议。",
+      "explanation": "前文提到'许多学生发现很难平衡学习和爱好'，后文给出建议，因此此处需要承上启下的过渡句。A项'然而，有了好的时间管理，你可以两者都做好'既承接了前文的困难，又引出下文的建议，符合逻辑。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "How to Live a Healthy Life\n\nMany students want to live a healthy life. (17)______ The following tips may help you.\n\n(18)______ First, get enough sleep. If you don't sleep well, you will feel tired in class and cannot focus on your studies.\n\nSecond, eat healthily. Have breakfast every day and eat more fruits and vegetables. (19)______\n\n(20)______ You can play basketball, swim, or simply walk for 30 minutes every day. Exercise helps you stay strong and happy.\n\nRemember, every small step counts. Start today!"
+      "group_passage": "Many students find it hard to balance study and hobbies. (17)______ Here are some tips to help you.\n\nFirst, make a schedule. Write down all your school tasks and hobby time in a planner. (18)______ This way, you won't forget important deadlines or hobby classes.\n\nSecond, use your free time wisely. For example, if you take the bus to school, you can review your notes. (19)______ \n\nFinally, remember that hobbies can actually help your study. They help you relax and refresh your mind. (20)______ So, don't give up your hobbies because of too much homework."
     },
     {
       "id": 18,
@@ -302,17 +302,17 @@
       "difficulty": 2,
       "stem": "(18)______",
       "options": [
-        "A. But they don't know where to start.",
-        "B. Teenagers need about 8-10 hours of sleep every night.",
-        "C. Also, don't forget to eat healthy snacks when you feel hungry.",
-        "D. In addition, try to do some exercise every day.",
-        "E. However, it takes time to develop good habits."
+        "A. However, with good time management, you can do well in both.",
+        "B. This saves time for other activities later.",
+        "C. Then you can see clearly how to arrange your time.",
+        "D. As a result, you may feel stressed and tired.",
+        "E. For example, playing basketball for an hour can make you more focused when you return to your books."
       ],
-      "correct_answer": "B",
-      "explanation": "选B。本段主题是'get enough sleep'（睡眠），空白后接着说'If you don't sleep well...'（如果睡不好...），可见空白处应说明睡眠需求，B选项'TTeenagers need about 8-10 hours of sleep every night'（青少年每晚需要8-10小时睡眠）符合段落主题。A是总起句；C讲饮食；D讲运动；E是总结性转折，均不符合本段睡眠主题。",
+      "correct_answer": "C",
+      "explanation": "前文建议'制定时间表，把所有的学习任务和爱好时间都写在计划表里'，C项'然后你就能清楚地看到如何安排你的时间'解释了这样做的好处，与后文'这样你就不会忘记重要的截止日期或爱好课程'衔接自然。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "How to Live a Healthy Life\n\nMany students want to live a healthy life. (17)______ The following tips may help you.\n\n(18)______ First, get enough sleep. If you don't sleep well, you will feel tired in class and cannot focus on your studies.\n\nSecond, eat healthily. Have breakfast every day and eat more fruits and vegetables. (19)______\n\n(20)______ You can play basketball, swim, or simply walk for 30 minutes every day. Exercise helps you stay strong and happy.\n\nRemember, every small step counts. Start today!"
+      "group_passage": "Many students find it hard to balance study and hobbies. (17)______ Here are some tips to help you.\n\nFirst, make a schedule. Write down all your school tasks and hobby time in a planner. (18)______ This way, you won't forget important deadlines or hobby classes.\n\nSecond, use your free time wisely. For example, if you take the bus to school, you can review your notes. (19)______ \n\nFinally, remember that hobbies can actually help your study. They help you relax and refresh your mind. (20)______ So, don't give up your hobbies because of too much homework."
     },
     {
       "id": 19,
@@ -321,36 +321,36 @@
       "difficulty": 2,
       "stem": "(19)______",
       "options": [
-        "A. But they don't know where to start.",
-        "B. Teenagers need about 8-10 hours of sleep every night.",
-        "C. Also, don't forget to eat healthy snacks when you feel hungry.",
-        "D. In addition, try to do some exercise every day.",
-        "E. However, it takes time to develop good habits."
+        "A. However, with good time management, you can do well in both.",
+        "B. This saves time for other activities later.",
+        "C. Then you can see clearly how to arrange your time.",
+        "D. As a result, you may feel stressed and tired.",
+        "E. For example, playing basketball for an hour can make you more focused when you return to your books."
       ],
-      "correct_answer": "C",
-      "explanation": "选C。本段主题是'eat healthily'（健康饮食），前文说'eat more fruits and vegetables'（多吃蔬果），C选项'Also, don't forget to eat healthy snacks...'（此外，别忘了吃健康零食...）用'Also'递进，饮食建议，符合逻辑。A、B已用；D讲运动，应属于下一段；E是干扰项。",
+      "correct_answer": "B",
+      "explanation": "前文举例'如果你坐公交车上学，你可以复习笔记'，这是利用碎片时间的例子。B项'这为以后的其他活动节省了时间'说明了这样做的好处，符合'明智利用空闲时间'这一主题。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "How to Live a Healthy Life\n\nMany students want to live a healthy life. (17)______ The following tips may help you.\n\n(18)______ First, get enough sleep. If you don't sleep well, you will feel tired in class and cannot focus on your studies.\n\nSecond, eat healthily. Have breakfast every day and eat more fruits and vegetables. (19)______\n\n(20)______ You can play basketball, swim, or simply walk for 30 minutes every day. Exercise helps you stay strong and happy.\n\nRemember, every small step counts. Start today!"
+      "group_passage": "Many students find it hard to balance study and hobbies. (17)______ Here are some tips to help you.\n\nFirst, make a schedule. Write down all your school tasks and hobby time in a planner. (18)______ This way, you won't forget important deadlines or hobby classes.\n\nSecond, use your free time wisely. For example, if you take the bus to school, you can review your notes. (19)______ \n\nFinally, remember that hobbies can actually help your study. They help you relax and refresh your mind. (20)______ So, don't give up your hobbies because of too much homework."
     },
     {
       "id": 20,
       "type": "fill",
       "knowledge_point": "sentence_fill",
-      "difficulty": 2,
+      "difficulty": 3,
       "stem": "(20)______",
       "options": [
-        "A. But they don't know where to start.",
-        "B. Teenagers need about 8-10 hours of sleep every night.",
-        "C. Also, don't forget to eat healthy snacks when you feel hungry.",
-        "D. In addition, try to do some exercise every day.",
-        "E. However, it takes time to develop good habits."
+        "A. However, with good time management, you can do well in both.",
+        "B. This saves time for other activities later.",
+        "C. Then you can see clearly how to arrange your time.",
+        "D. As a result, you may feel stressed and tired.",
+        "E. For example, playing basketball for an hour can make you more focused when you return to your books."
       ],
-      "correct_answer": "D",
-      "explanation": "选D。空白后'play basketball, swim... walk... Exercise helps...'（打篮球、游泳...散步...运动帮助...）明确表明本段主题是运动锻炼，D选项'In addition, try to do some exercise every day'（此外，试着每天做些运动）作为段落主题句最合适。'In addition'表示在睡眠、饮食建议之外的。A、B、C已用；E与后文运动不符。",
+      "correct_answer": "E",
+      "explanation": "前文说'爱好能帮助你放松和恢复精神'，E项'例如，打一小时篮球可以让你在回到书本时更加专注'通过具体例子说明了爱好如何帮助学习，与后文'所以不要因为作业太多而放弃爱好'形成因果关系。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "How to Live a Healthy Life\n\nMany students want to live a healthy life. (17)______ The following tips may help you.\n\n(18)______ First, get enough sleep. If you don't sleep well, you will feel tired in class and cannot focus on your studies.\n\nSecond, eat healthily. Have breakfast every day and eat more fruits and vegetables. (19)______\n\n(20)______ You can play basketball, swim, or simply walk for 30 minutes every day. Exercise helps you stay strong and happy.\n\nRemember, every small step counts. Start today!"
+      "group_passage": "Many students find it hard to balance study and hobbies. (17)______ Here are some tips to help you.\n\nFirst, make a schedule. Write down all your school tasks and hobby time in a planner. (18)______ This way, you won't forget important deadlines or hobby classes.\n\nSecond, use your free time wisely. For example, if you take the bus to school, you can review your notes. (19)______ \n\nFinally, remember that hobbies can actually help your study. They help you relax and refresh your mind. (20)______ So, don't give up your hobbies because of too much homework."
     }
   ]
 }
