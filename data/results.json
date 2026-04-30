@@ -231,6 +231,13 @@
       "total": 20,
       "correct": 16,
       "rate": 80
+    },
+    {
+      "date": "2026-04-30",
+      "session": 1,
+      "total": 20,
+      "correct": 19,
+      "rate": 95
     }
   ],
   "errors": [
@@ -827,6 +834,24 @@
       "correct_answer": "A",
       "student_answer": "B",
       "explanation": "【解析】主旨大意。文章按历史（1961/1969）- 近期成就（中国探月/火星）- 实际好处（导航/天气预报）- 回应质疑 的结构展开，总体是在说明太空探索的价值。B(比较各国项目) 太窄，文中只是举例；C(鼓励当宇航员) 未提及；D(说浪费钱) 与作者立场相反，作者是在反驳这种观点。【技巧】主旨题看全文结构：历史->成就->好处->回应质疑 = 说明价值。"
+    },
+    {
+      "date": "2026-04-30",
+      "session": 1,
+      "question_id": 14,
+      "type": "reading",
+      "knowledge_point": "inference",
+      "label": "阅读-推理判断",
+      "stem": "What can we learn about Zhang Ming from the passage?",
+      "options": [
+        "A. He studies in a blind school.",
+        "B. He wants to make a lot of money from his invention.",
+        "C. He is kind and creative.",
+        "D. He doesn't like reading books."
+      ],
+      "correct_answer": "C",
+      "student_answer": "B",
+      "explanation": "选C。从张明的行为可以推断：他'发明'了说明有创造力（creative），他想帮助盲人说明心地善良（kind）。A选项错误，他是去盲校参观，不是在那里学习；B选项错误，文中说他希望让更便宜（cheaper），让更多盲人用得起，不是为了赚钱；D选项错误，文中提到他希望盲人'像我们一起享受'，暗示他喜欢。"
     }
   ]
 }
