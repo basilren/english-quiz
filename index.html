@@ -207,17 +207,12 @@ var quizData;
 (function(){
   var xhr = new XMLHttpRequest();
   xhr.open("GET", "quiz_data.json?t=" + new Date().getTime(), false);
-  xhr.responseType = "arraybuffer";
+  // overrideMimeType forces UTF-8 decoding in all browsers (sync XHR does not support responseType)
+  xhr.overrideMimeType("application/json; charset=utf-8");
   xhr.send();
   if (xhr.status === 200) {
     try {
-      var bytes = new Uint8Array(xhr.response);
-      // Strip UTF-8 BOM if present (generate_quiz.py now writes utf-8-sig)
-      var start = 0;
-      if (bytes.length >= 3 && bytes[0] === 0xEF && bytes[1] === 0xBB && bytes[2] === 0xBF) start = 3;
-      var decoder = (typeof TextDecoder !== "undefined") ? new TextDecoder("utf-8") : null;
-      var text = decoder ? decoder.decode(bytes.subarray(start)) : xhr.responseText;
-      quizData = JSON.parse(text);
+      quizData = JSON.parse(xhr.responseText);
     } catch(e) {
       document.body.innerHTML = "<div style=\"padding:30px;text-align:center;font-family:sans-serif\"><h2 style=\"color:#c0392b\">题目加载失败</h2><p style=\"color:#666\">JSON解析错误: " + (e.message||"") + "</p><p style=\"color:#999;font-size:12px;margin-top:20px\">请尝试刷新页面</p></div>";
       throw e;

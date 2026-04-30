@@ -1,4 +1,4 @@
-{
+﻿{
   "date": "2026-04-30",
   "session_number": 1,
   "questions": [
@@ -15,8 +15,8 @@
         "D. have met; haven't seen"
       ],
       "correct_answer": "A",
-      "explanation": "éAãç¬¬ä¸ç©ºåææç¡®è¿å»æ¶é´ç¶è¯­'last week'ï¼ä¸å¨ï¼ï¼è¡¨ç¤ºè¿å»æä¸ªç¹å®æ¶é´åççå¨ä½ï¼ç¨ä¸è¬è¿å»æ¶'met'ï¼ç¬¬äºç©ºåæ'for three years'ï¼æç»­ä¸å¹´ï¼ï¼è¡¨ç¤ºä»è¿å»ææ¶æç»­å°ç°å¨çæ¶é´æ®µï¼ç¨ç°å¨å®ææ¶'haven't seen'ãBéé¡¹ç¬¬ä¸ç©ºéè¯¯ï¼ç°å¨å®ææ¶ä¸ä¸è¿å»æ¶é´è¿ç¨ï¼Céé¡¹ç¬¬äºç©ºéè¯¯ï¼'for+æ¶é´æ®µ'è¦æ±ç¨å®ææ¶ï¼Déé¡¹ç¬¬ä¸ç©ºéè¯¯ã",
-      "label": "è¯­æ³é¢"
+      "explanation": "选A。第一空后有明确过去时间状语'last week'（上周），表示过去某个特定时间发生的动作，用一般过去时'met'；第二空后有'for three years'（持续三年），表示从过去某时持续到现在的时间段，用现在完成时'haven't seen'。B选项第一空错误，现在完成时不与过去时间连用；C选项第二空错误，'for+时间段'要求用完成时；D选项第一空错误。",
+      "label": "语法题"
     },
     {
       "id": 2,
@@ -31,8 +31,8 @@
         "D. whose"
       ],
       "correct_answer": "A",
-      "explanation": "éAãå®è¯­ä»å¥è¯æ¯'the boy'ï¼äººï¼ï¼ä¸ä»£è¯å¨ä»å¥ä¸­ä½ä¸»è¯­ï¼is wearingï¼ï¼ç¨'who'ãBéé¡¹'which'ç¨äºè¯æ¯ç©ï¼Céé¡¹'whom'æ¯å®¾æ ¼ï¼å¨ä»å¥ä¸­ä½å®¾è¯­æ¶ä½¿ç¨ï¼Déé¡¹'whose'è¡¨ç¤ºæå±ï¼åéæ¥åè¯ã",
-      "label": "è¯­æ³é¢"
+      "explanation": "选A。定语从句词是'the boy'（人），且代词在从句中作主语（is wearing），用'who'。B选项'which'用于词是物；C选项'whom'是宾格，在从句中作宾语时使用；D选项'whose'表示所属，后需接名词。",
+      "label": "语法题"
     },
     {
       "id": 3,
@@ -47,8 +47,8 @@
         "D. have been returned"
       ],
       "correct_answer": "B",
-      "explanation": "éBãä¸»è¯­'These books'ï¼ä¹¦ï¼ä¸å¨è¯'return'ï¼å½è¿ï¼æ¯è¢«å¨ï¼ä¹¦æ¯è¢«å½è¿çï¼éç¨è¢«å¨è¯­æbe+è¿å»åè¯ï¼æ¶é´ç¶è¯­'yesterday afternoon'ï¼æ¨å¤©ä¸åï¼è¡¨ææ¯ä¸è¬è¿å»æ¶ï¼ç¨'were returned'ãAéé¡¹æ¯ä¸»å¨è¯­æï¼CãDéé¡¹æ¯ç°å¨å®ææ¶ï¼ä¸yesterdayçç¾ã",
-      "label": "è¯­æ³é¢"
+      "explanation": "选B。主语'These books'（书）与动词'return'（归还）是被动，书是被归还的，需用被动语态be+过去分词；时间状语'yesterday afternoon'（昨天下午）表明是一般过去时，用'were returned'。A选项是主动语态；C、D选项是现在完成时，与yesterday矛盾。",
+      "label": "语法题"
     },
     {
       "id": 4,
@@ -63,8 +63,8 @@
         "D. where the nearest post office does"
       ],
       "correct_answer": "B",
-      "explanation": "éBãå®¾è¯­ä»å¥éè¿°è¯­åºï¼ä¸»è¯­+è°è¯­ï¼ï¼å³'where the nearest post office is'ãAéé¡¹æ¯çé®è¯­åºï¼Céé¡¹'does'å¤ä½ä¸ç¼ºå°è°è¯­ï¼Déé¡¹'does'å¤ä½ï¼ä»å¥ä¸­å·²æç³»å¨è¯'is'ãè®°ä½å£è¯ï¼å®¾è¯­ä»å¥ç¨éè¿°ï¼çé®è¯åå ä¸»è¯­ã",
-      "label": "è¯­æ³é¢"
+      "explanation": "选B。宾语从句陈述语序（主语+谓语），即'where the nearest post office is'。A选项是疑问语序；C选项'does'多余且缺少谓语；D选项'does'多余，从句中已有系动词'is'。记住口诀：宾语从句用陈述，疑问词后加主语。",
+      "label": "语法题"
     },
     {
       "id": 5,
@@ -79,8 +79,8 @@
         "D. future"
       ],
       "correct_answer": "B",
-      "explanation": "éBã'ancient'æä¸º'å¤èçãå¤ä»£ç'ï¼ä¸åæ'1,000 years ago'ï¼ä¸åå¹´åï¼ç¸å¼åºãAéé¡¹'modern'ï¼ç°ä»£çï¼åCéé¡¹'new'ï¼æ°çï¼ä¸å¥æç¸åï¼Déé¡¹'future'ï¼æªæ¥çï¼ä¸è½ä¿®é¥°templeã",
-      "label": "è¯æ±é¢"
+      "explanation": "选B。'ancient'意为'古老的、古代的'，与后文'1,000 years ago'（一千年前）相呼应。A选项'modern'（现代的）和C选项'new'（新的）与句意相反；D选项'future'（未来的）不能修饰temple。",
+      "label": "词汇题"
     },
     {
       "id": 6,
@@ -95,8 +95,8 @@
         "D. imhealthy"
       ],
       "correct_answer": "A",
-      "explanation": "éAãåç¼'un-'å å¨å½¢å®¹è¯åè¡¨ç¤ºå¦å®ï¼'healthy'ï¼å¥åº·çï¼å 'un-'åä¸º'unhealthy'ï¼ä¸å¥åº·çï¼ãBéé¡¹'re-'è¡¨ç¤º'åæ¬¡'ï¼Céé¡¹'dis-'è½ä¹è¡¨å¦å®ï¼ä½'healthy'çä¹ æ¯å¦å®åç¼æ¯'un-'ï¼Déé¡¹'im-'éå¸¸å å¨ä»¥'b/m/p'å¼å¤´çå½¢å®¹è¯åï¼å¦'impossible'ã",
-      "label": "è¯æ±é¢"
+      "explanation": "选A。前缀'un-'加在形容词前表示否定，'healthy'（健康的）加'un-'变为'unhealthy'（不健康的）。B选项're-'表示'再次'；C选项'dis-'虽也表否定，但'healthy'的习惯否定前缀是'un-'；D选项'im-'通常加在以'b/m/p'开头的形容词前，如'impossible'。",
+      "label": "词汇题"
     },
     {
       "id": 7,
@@ -111,8 +111,8 @@
         "D. got on with"
       ],
       "correct_answer": "A",
-      "explanation": "éAã'come up with'æ¯åºå®ç­è¯­ï¼æä¸º'æ³åºãæåºï¼ä¸»æãè®¡åãè§£å³æ¹æ¡ç­ï¼'ãBéé¡¹'come up'æä¸º'èµ°è¿ãè¢«æåº'ï¼ä¸»è¯­éå¸¸æ¯ä¸»æï¼èéäººï¼ï¼Céé¡¹'catch up with'æä¸º'è¿½ä¸ãèµ¶ä¸ï¼æäººï¼'ï¼Déé¡¹'get on with'æä¸º'ä¸â¦â¦ç¸å¤ãç»§ç»­å'ã",
-      "label": "è¯æ±é¢"
+      "explanation": "选A。'come up with'是固定短语，意为'想出、提出（主意、计划、解决方案等）'。B选项'come up'意为'走近、被提出'（主语通常是主意，而非人）；C选项'catch up with'意为'追上、赶上（某人）'；D选项'get on with'意为'与……相处、继续做'。",
+      "label": "词汇题"
     },
     {
       "id": 8,
@@ -127,8 +127,8 @@
         "D. have thrown"
       ],
       "correct_answer": "B",
-      "explanation": "éBãä¸»è¯­'millions of tons of plastic waste'ï¼æ°ç¾ä¸å¨å¡æåå¾ï¼ä¸å¨è¯'throw'æ¯è¢«å¨ï¼ä¸'every year'è¡¨ææ¯ä¸è¬ç°å¨æ¶ï¼å¤æ°ä¸»è¯­ç¨'are thrown'ãAãCæ¯ä¸»å¨è¯­æï¼Dæ¯ç°å¨å®ææ¶ä¸»å¨è¯­æã",
-      "label": "å®å½¢å¡«ç©º",
+      "explanation": "选B。主语'millions of tons of plastic waste'（数百万吨塑料垃圾）与动词'throw'是被动，且'every year'表明是一般现在时，复数主语用'are thrown'。A、C是主动语态；D是现在完成时主动语态。",
+      "label": "完形填空",
       "group": "cloze_1",
       "group_passage": "Recycling: A Way to Save Our Planet\n\nEvery year, millions of tons of plastic waste (8)______ into the ocean, causing serious pollution. This has become a big problem for our environment. However, a group of scientists (9)______ a new way to deal with it recently.\n\nThey found that some kinds of worms can eat plastic! These small creatures can (10)______ down plastic bags in just a few weeks. \"This discovery is (11)______,\" said Dr. Li, the lead researcher. \"It gives us hope (12)______ we can solve the plastic problem naturally.\""
     },
@@ -145,8 +145,8 @@
         "D. discover"
       ],
       "correct_answer": "A",
-      "explanation": "éAãæ¶é´ç¶è¯­'recently'ï¼æè¿ï¼æ¯ç°å¨å®ææ¶çæ å¿è¯ï¼è¡¨ç¤ºè¿å»åççå¨ä½å¯¹ç°å¨é æå½±åï¼ä¸å¯è½ç»§ç»­ä¸å»ãä¸»è¯­'scientists'æ¯å¤æ°ï¼ç¨'have discovered'ãBéé¡¹æ¯ä¸è¬è¿å»æ¶ï¼ä¸ä¸recentlyè¿ç¨ï¼Cæ¯å°æ¥æ¶ï¼Dæ¯ä¸è¬ç°å¨æ¶ã",
-      "label": "å®å½¢å¡«ç©º",
+      "explanation": "选A。时间状语'recently'（最近）是现在完成时的标志词，表示过去发生的动作对现在造成影响，且可能继续下去。主语'scientists'是复数，用'have discovered'。B选项是一般过去时，不与recently连用；C是将来时；D是一般现在时。",
+      "label": "完形填空",
       "group": "cloze_1",
       "group_passage": "Recycling: A Way to Save Our Planet\n\nEvery year, millions of tons of plastic waste (8)______ into the ocean, causing serious pollution. This has become a big problem for our environment. However, a group of scientists (9)______ a new way to deal with it recently.\n\nThey found that some kinds of worms can eat plastic! These small creatures can (10)______ down plastic bags in just a few weeks. \"This discovery is (11)______,\" said Dr. Li, the lead researcher. \"It gives us hope (12)______ we can solve the plastic problem naturally.\""
     },
@@ -163,8 +163,8 @@
         "D. put"
       ],
       "correct_answer": "A",
-      "explanation": "éAã'break down'æ¯åºå®ç­è¯­ï¼æä¸º'åè§£'ï¼ç¬¦åè¯­å¢ï¼è«å­åè§£å¡æè¢ï¼ãBéé¡¹'cut down'æä¸º'ç åãåå'ï¼Céé¡¹'turn down'æä¸º'è°å°ãæç»'ï¼Déé¡¹'put down'æä¸º'æ¾ä¸ãè®°ä¸'ã",
-      "label": "å®å½¢å¡«ç©º",
+      "explanation": "选A。'break down'是固定短语，意为'分解'，符合语境（虫子分解塑料袋）。B选项'cut down'意为'砍倒、削减'；C选项'turn down'意为'调小、拒绝'；D选项'put down'意为'放下、记下'。",
+      "label": "完形填空",
       "group": "cloze_1",
       "group_passage": "Recycling: A Way to Save Our Planet\n\nEvery year, millions of tons of plastic waste (8)______ into the ocean, causing serious pollution. This has become a big problem for our environment. However, a group of scientists (9)______ a new way to deal with it recently.\n\nThey found that some kinds of worms can eat plastic! These small creatures can (10)______ down plastic bags in just a few weeks. \"This discovery is (11)______,\" said Dr. Li, the lead researcher. \"It gives us hope (12)______ we can solve the plastic problem naturally.\""
     },
@@ -181,8 +181,8 @@
         "D. boring"
       ],
       "correct_answer": "C",
-      "explanation": "éCãæ ¹æ®ä¸ä¸æï¼ç§å­¦å®¶åç°äºè½åè§£å¡æçè«å­ï¼è¿åºè¯¥æ¯'ä»¤äººæå¥ç'åç°ã'amazing'æä¸º'ä»¤äººæå¹ç'ãAéé¡¹'terrible'ï¼ç³ç³çï¼ãBéé¡¹'hopeless'ï¼æ æçï¼ãDéé¡¹'boring'ï¼æ èçï¼åä¸ºè´é¢è¯æ±ï¼ä¸åæ'gives us hope'ï¼ç»æä»¬å¸æï¼çç¾ã",
-      "label": "å®å½¢å¡«ç©º",
+      "explanation": "选C。根据上下文，科学家发现了能分解塑料的虫子，这应该是'令人惊奇的'发现。'amazing'意为'令人惊叹的'。A选项'terrible'（糟糕的）、B选项'hopeless'（无望的）、D选项'boring'（无聊的）均为负面词汇，与后文'gives us hope'（给我们希望）矛盾。",
+      "label": "完形填空",
       "group": "cloze_1",
       "group_passage": "Recycling: A Way to Save Our Planet\n\nEvery year, millions of tons of plastic waste (8)______ into the ocean, causing serious pollution. This has become a big problem for our environment. However, a group of scientists (9)______ a new way to deal with it recently.\n\nThey found that some kinds of worms can eat plastic! These small creatures can (10)______ down plastic bags in just a few weeks. \"This discovery is (11)______,\" said Dr. Li, the lead researcher. \"It gives us hope (12)______ we can solve the plastic problem naturally.\""
     },
@@ -199,8 +199,8 @@
         "D. how"
       ],
       "correct_answer": "A",
-      "explanation": "éAã'hope'åçä»å¥æ¯åä½è¯­ä»å¥ï¼ç¨'that'å¼å¯¼ï¼è¯´æ'hope'ï¼'that'å¨ä»å¥ä¸­ä¸æåï¼åªèµ·è¿æ¥ä½ç¨ãBéé¡¹'which'å¼å¯¼å®è¯­ä»å¥ï¼éè¦æè¯ä¸å¨ä»å¥ä¸­ä½æåï¼Céé¡¹'what'å¨ä»å¥ä¸­ä½ä¸»è¯­æå®¾è¯­ï¼Déé¡¹'how'è¡¨ç¤ºæ¹å¼ï¼ä½æ­¤å¤ä»å¥ä¸ç¼ºæ¹å¼ç¶è¯­ï¼èæ¯éè¦è¿æ¥è¯å¼å¯¼å®æ´çéè¿°ã",
-      "label": "å®å½¢å¡«ç©º",
+      "explanation": "选A。'hope'后的从句是同位语从句，用'that'引导，说明'hope'，'that'在从句中不成分，只起连接作用。B选项'which'引导定语从句，需要有词且在从句中作成分；C选项'what'在从句中作主语或宾语；D选项'how'表示方式，但此处从句不缺方式状语，而是需要连接词引导完整的陈述。",
+      "label": "完形填空",
       "group": "cloze_1",
       "group_passage": "Recycling: A Way to Save Our Planet\n\nEvery year, millions of tons of plastic waste (8)______ into the ocean, causing serious pollution. This has become a big problem for our environment. However, a group of scientists (9)______ a new way to deal with it recently.\n\nThey found that some kinds of worms can eat plastic! These small creatures can (10)______ down plastic bags in just a few weeks. \"This discovery is (11)______,\" said Dr. Li, the lead researcher. \"It gives us hope (12)______ we can solve the plastic problem naturally.\""
     },
@@ -217,8 +217,8 @@
         "D. It translates books into Braille."
       ],
       "correct_answer": "B",
-      "explanation": "éBãæ ¹æ®æç« ç¬¬ä¸æ®µç¬¬äºå¥'The device uses AI technology to turn printed words into sounds.'ï¼è¯¥ä½¿ç¨äººå·¥æºè½ææ¯å°å°å·æå­è½¬åä¸ºå£°é³ï¼ï¼æç¡®è¯´æäºå¸®å©æ¹å¼ãAéé¡¹'åä¹¦'æä¸­æªæï¼Céé¡¹'æ'ä¸æ¯è¯¥çåè½ï¼Déé¡¹'ç¿»è¯æç²æ'éè¯¯ï¼æ¯è½¬åä¸ºå£°é³èéç²æã",
-      "label": "-ç»èçè§£",
+      "explanation": "选B。根据文章第一段第二句'The device uses AI technology to turn printed words into sounds.'（该使用人工智能技术将印刷文字转化为声音），明确说明了帮助方式。A选项'写书'文中未提；C选项'教'不是该的功能；D选项'翻译成盲文'错误，是转化为声音而非盲文。",
+      "label": "-细节理解",
       "group": "reading_1",
       "group_passage": "A Student's Invention Helps Blind People Read\n\nZhang Ming, a 15-year-old student from Beijing, has invented a special device that can help blind people read books. The device uses AI technology to turn printed words into sounds.\n\nZhang got the idea when he visited a blind school last year. He saw how difficult it was for blind students to read normal books. \"I wanted to help them enjoy reading like we do,\" Zhang said.\n\nThe device looks like a small box with a camera. Users put the book under the camera, and the device reads the words aloud in just two seconds. It can also translate words into different languages.\n\nZhang's invention has won several awards. Many blind people have tried it and said it works very well. Zhang hopes to improve the device and make it cheaper so that more blind people can use it in the future."
     },
@@ -235,8 +235,8 @@
         "D. He doesn't like reading books."
       ],
       "correct_answer": "C",
-      "explanation": "éCãä»å¼ æçè¡ä¸ºå¯ä»¥æ¨æ­ï¼ä»'åæ'äºè¯´ææåé åï¼creativeï¼ï¼ä»æ³å¸®å©ç²äººè¯´æå¿å°åè¯ï¼kindï¼ãAéé¡¹éè¯¯ï¼ä»æ¯å»ç²æ ¡åè§ï¼ä¸æ¯å¨é£éå­¦ä¹ ï¼Béé¡¹éè¯¯ï¼æä¸­è¯´ä»å¸æè®©æ´ä¾¿å®ï¼cheaperï¼ï¼è®©æ´å¤ç²äººç¨å¾èµ·ï¼ä¸æ¯ä¸ºäºèµé±ï¼Déé¡¹éè¯¯ï¼æä¸­æå°ä»å¸æç²äºº'åæä»¬ä¸èµ·äº«å'ï¼æç¤ºä»åæ¬¢ã",
-      "label": "-æ¨çå¤æ­",
+      "explanation": "选C。从张明的行为可以推断：他'发明'了说明有创造力（creative），他想帮助盲人说明心地善良（kind）。A选项错误，他是去盲校参观，不是在那里学习；B选项错误，文中说他希望让更便宜（cheaper），让更多盲人用得起，不是为了赚钱；D选项错误，文中提到他希望盲人'像我们一起享受'，暗示他喜欢。",
+      "label": "-推理判断",
       "group": "reading_1",
       "group_passage": "A Student's Invention Helps Blind People Read\n\nZhang Ming, a 15-year-old student from Beijing, has invented a special device that can help blind people read books. The device uses AI technology to turn printed words into sounds.\n\nZhang got the idea when he visited a blind school last year. He saw how difficult it was for blind students to read normal books. \"I wanted to help them enjoy reading like we do,\" Zhang said.\n\nThe device looks like a small box with a camera. Users put the book under the camera, and the device reads the words aloud in just two seconds. It can also translate words into different languages.\n\nZhang's invention has won several awards. Many blind people have tried it and said it works very well. Zhang hopes to improve the device and make it cheaper so that more blind people can use it in the future."
     },
@@ -253,8 +253,8 @@
         "D. a language course"
       ],
       "correct_answer": "A",
-      "explanation": "éAãæ ¹æ®ä¸ä¸æçº¿ç´¢ï¼'uses AI technology'ï¼ä½¿ç¨äººå·¥æºè½ææ¯ï¼ã'looks like a small box with a camera'ï¼çèµ·æ¥åå¸¦ç¸æºçå°çå­ï¼ã'reads the words aloud'ï¼å¤§å£°è¯»è¯ï¼ï¼å¯æ¨æ­'device'æ¯ä¸ç§æºå¨/ãBéé¡¹'ä¹¦'ãCéé¡¹'æ¹æ³'ãDéé¡¹'è¯¾ç¨'åä¸ç¬¦åæè¿°ãçè¯æå·§ï¼å¯¹æªç¥è¯è¿è¡è§£éè¯´æçå®è¯­ä»å¥æåä½è¯­ã",
-      "label": "-è¯ä¹çæµ",
+      "explanation": "选A。根据上下文线索：'uses AI technology'（使用人工智能技术）、'looks like a small box with a camera'（看起来像带相机的小盒子）、'reads the words aloud'（大声读词），可推断'device'是一种机器/。B选项'书'、C选项'方法'、D选项'课程'均不符合描述。猜词技巧：对未知词进行解释说明的定语从句或同位语。",
+      "label": "-词义猜测",
       "group": "reading_1",
       "group_passage": "A Student's Invention Helps Blind People Read\n\nZhang Ming, a 15-year-old student from Beijing, has invented a special device that can help blind people read books. The device uses AI technology to turn printed words into sounds.\n\nZhang got the idea when he visited a blind school last year. He saw how difficult it was for blind students to read normal books. \"I wanted to help them enjoy reading like we do,\" Zhang said.\n\nThe device looks like a small box with a camera. Users put the book under the camera, and the device reads the words aloud in just two seconds. It can also translate words into different languages.\n\nZhang's invention has won several awards. Many blind people have tried it and said it works very well. Zhang hopes to improve the device and make it cheaper so that more blind people can use it in the future."
     },
@@ -271,8 +271,8 @@
         "D. Life in a Blind School"
       ],
       "correct_answer": "B",
-      "explanation": "éBãä¸»æ¨å¤§æé¢éæ¦æ¬æ ¸å¿ãæ¬æå´ç»å¼ æåæå¸®å©ç²äººå±å¼ï¼ä»ç»äºåæåå ãå·¥ä½åçåæªæ¥å±æãAéé¡¹è¿äºå®½æ³ï¼åªæå°ææ¯ï¼æªæå¸®å©ç²äººï¼Céé¡¹åç¦»éç¹ï¼ä¸æ¯è®²éè¦æ§ï¼Déé¡¹åªæ¯èæ¯ä¿¡æ¯ãéæ é¢æå·§ï¼å¯»æ¾'è°+åä»ä¹'çéé¡¹ï¼éå¸¸æè½æ¦æ¬ã",
-      "label": "-ä¸»æ¨å¤§æ",
+      "explanation": "选B。主旨大意题需概括核心。本文围绕张明发明帮助盲人展开，介绍了发明原因、工作原理及未来展望。A选项过于宽泛，只提到技术，未提帮助盲人；C选项偏离重点，不是讲重要性；D选项只是背景信息。选标题技巧：寻找'谁+做什么'的选项，通常最能概括。",
+      "label": "-主旨大意",
       "group": "reading_1",
       "group_passage": "A Student's Invention Helps Blind People Read\n\nZhang Ming, a 15-year-old student from Beijing, has invented a special device that can help blind people read books. The device uses AI technology to turn printed words into sounds.\n\nZhang got the idea when he visited a blind school last year. He saw how difficult it was for blind students to read normal books. \"I wanted to help them enjoy reading like we do,\" Zhang said.\n\nThe device looks like a small box with a camera. Users put the book under the camera, and the device reads the words aloud in just two seconds. It can also translate words into different languages.\n\nZhang's invention has won several awards. Many blind people have tried it and said it works very well. Zhang hopes to improve the device and make it cheaper so that more blind people can use it in the future."
     },
@@ -290,8 +290,8 @@
         "E. However, it takes time to develop good habits."
       ],
       "correct_answer": "A",
-      "explanation": "éAãåæè¯´'Many students want to live a healthy life'ï¼è®¸å¤å­¦çæ³å¥åº·çæ´»ï¼ï¼åæè¯´'The following tips may help you'ï¼ä»¥ä¸å»ºè®®å¯è½å¸®å°ä½ ï¼ï¼ä¸­é´éè¦è½¬æè¿æ¸¡ï¼è¯´æ'æ³ä½ä¸ç¥ä»ä½å¼å§'ï¼Aéé¡¹'But they don't know where to start'æ¿ä¸å¯ä¸ãBãCãDé½æ¯å»ºè®®ï¼ä¸éåæ¾å¨æ»èµ·æ®µï¼Eè½å¯è¿æ¸¡ï¼ä½ä¸å¦Aç´æ¥å¼åºå»ºè®®ã",
-      "label": "ç­æå¡«ç©º",
+      "explanation": "选A。前文说'Many students want to live a healthy life'（许多学生想健康生活），后文说'The following tips may help you'（以下建议可能帮到你），中间需要转折过渡，说明'想但不知从何开始'，A选项'But they don't know where to start'承上启下。B、C、D都是建议，不适合放在总起段；E虽可过渡，但不如A直接引出建议。",
+      "label": "短文填空",
       "group": "fill_1",
       "group_passage": "How to Live a Healthy Life\n\nMany students want to live a healthy life. (17)______ The following tips may help you.\n\n(18)______ First, get enough sleep. If you don't sleep well, you will feel tired in class and cannot focus on your studies.\n\nSecond, eat healthily. Have breakfast every day and eat more fruits and vegetables. (19)______\n\n(20)______ You can play basketball, swim, or simply walk for 30 minutes every day. Exercise helps you stay strong and happy.\n\nRemember, every small step counts. Start today!"
     },
@@ -309,8 +309,8 @@
         "E. However, it takes time to develop good habits."
       ],
       "correct_answer": "B",
-      "explanation": "éBãæ¬æ®µä¸»é¢æ¯'get enough sleep'ï¼ç¡ç ï¼ï¼ç©ºç½åæ¥çè¯´'If you don't sleep well...'ï¼å¦æç¡ä¸å¥½...ï¼ï¼å¯è§ç©ºç½å¤åºè¯´æç¡ç éæ±ï¼Béé¡¹'TTeenagers need about 8-10 hours of sleep every night'ï¼éå°å¹´æ¯æéè¦8-10å°æ¶ç¡ç ï¼ç¬¦åæ®µè½ä¸»é¢ãAæ¯æ»èµ·å¥ï¼Cè®²é¥®é£ï¼Dè®²è¿å¨ï¼Eæ¯æ»ç»æ§è½¬æï¼åä¸ç¬¦åæ¬æ®µç¡ç ä¸»é¢ã",
-      "label": "ç­æå¡«ç©º",
+      "explanation": "选B。本段主题是'get enough sleep'（睡眠），空白后接着说'If you don't sleep well...'（如果睡不好...），可见空白处应说明睡眠需求，B选项'TTeenagers need about 8-10 hours of sleep every night'（青少年每晚需要8-10小时睡眠）符合段落主题。A是总起句；C讲饮食；D讲运动；E是总结性转折，均不符合本段睡眠主题。",
+      "label": "短文填空",
       "group": "fill_1",
       "group_passage": "How to Live a Healthy Life\n\nMany students want to live a healthy life. (17)______ The following tips may help you.\n\n(18)______ First, get enough sleep. If you don't sleep well, you will feel tired in class and cannot focus on your studies.\n\nSecond, eat healthily. Have breakfast every day and eat more fruits and vegetables. (19)______\n\n(20)______ You can play basketball, swim, or simply walk for 30 minutes every day. Exercise helps you stay strong and happy.\n\nRemember, every small step counts. Start today!"
     },
@@ -328,8 +328,8 @@
         "E. However, it takes time to develop good habits."
       ],
       "correct_answer": "C",
-      "explanation": "éCãæ¬æ®µä¸»é¢æ¯'eat healthily'ï¼å¥åº·é¥®é£ï¼ï¼åæè¯´'eat more fruits and vegetables'ï¼å¤åè¬æï¼ï¼Céé¡¹'Also, don't forget to eat healthy snacks...'ï¼æ­¤å¤ï¼å«å¿äºåå¥åº·é¶é£...ï¼ç¨'Also'éè¿ï¼é¥®é£å»ºè®®ï¼ç¬¦åé»è¾ãAãBå·²ç¨ï¼Dè®²è¿å¨ï¼åºå±äºä¸ä¸æ®µï¼Eæ¯å¹²æ°é¡¹ã",
-      "label": "ç­æå¡«ç©º",
+      "explanation": "选C。本段主题是'eat healthily'（健康饮食），前文说'eat more fruits and vegetables'（多吃蔬果），C选项'Also, don't forget to eat healthy snacks...'（此外，别忘了吃健康零食...）用'Also'递进，饮食建议，符合逻辑。A、B已用；D讲运动，应属于下一段；E是干扰项。",
+      "label": "短文填空",
       "group": "fill_1",
       "group_passage": "How to Live a Healthy Life\n\nMany students want to live a healthy life. (17)______ The following tips may help you.\n\n(18)______ First, get enough sleep. If you don't sleep well, you will feel tired in class and cannot focus on your studies.\n\nSecond, eat healthily. Have breakfast every day and eat more fruits and vegetables. (19)______\n\n(20)______ You can play basketball, swim, or simply walk for 30 minutes every day. Exercise helps you stay strong and happy.\n\nRemember, every small step counts. Start today!"
     },
@@ -347,8 +347,8 @@
         "E. However, it takes time to develop good habits."
       ],
       "correct_answer": "D",
-      "explanation": "éDãç©ºç½å'play basketball, swim... walk... Exercise helps...'ï¼æç¯®çãæ¸¸æ³³...æ£æ­¥...è¿å¨å¸®å©...ï¼æç¡®è¡¨ææ¬æ®µä¸»é¢æ¯è¿å¨é»ç¼ï¼Déé¡¹'In addition, try to do some exercise every day'ï¼æ­¤å¤ï¼è¯çæ¯å¤©åäºè¿å¨ï¼ä½ä¸ºæ®µè½ä¸»é¢å¥æåéã'In addition'è¡¨ç¤ºå¨ç¡ç ãé¥®é£å»ºè®®ä¹å¤çãAãBãCå·²ç¨ï¼Eä¸åæè¿å¨ä¸ç¬¦ã",
-      "label": "ç­æå¡«ç©º",
+      "explanation": "选D。空白后'play basketball, swim... walk... Exercise helps...'（打篮球、游泳...散步...运动帮助...）明确表明本段主题是运动锻炼，D选项'In addition, try to do some exercise every day'（此外，试着每天做些运动）作为段落主题句最合适。'In addition'表示在睡眠、饮食建议之外的。A、B、C已用；E与后文运动不符。",
+      "label": "短文填空",
       "group": "fill_1",
       "group_passage": "How to Live a Healthy Life\n\nMany students want to live a healthy life. (17)______ The following tips may help you.\n\n(18)______ First, get enough sleep. If you don't sleep well, you will feel tired in class and cannot focus on your studies.\n\nSecond, eat healthily. Have breakfast every day and eat more fruits and vegetables. (19)______\n\n(20)______ You can play basketball, swim, or simply walk for 30 minutes every day. Exercise helps you stay strong and happy.\n\nRemember, every small step counts. Start today!"
     }
