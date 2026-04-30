@@ -226,6 +226,10 @@ def call_kimi(prompt: str, api_key: str, model: str) -> dict:
                 log(f"API 返回 {resp.status_code}: {resp.text[:500]}")
             resp.raise_for_status()
 
+            # 强制使用 UTF-8 解码，防止 requests 因响应头缺失 charset 而错误使用 latin-1，
+            # 导致中文被双重编码（UTF-8 字节被当作 latin-1 解码后再存为 UTF-8）。
+            resp.encoding = "utf-8"
+
             # 流式累积 content
             content_parts = []
             chunk_count = 0
@@ -375,11 +379,11 @@ def update_quiz_data(quiz: dict) -> None:
 
     safe_quiz = _sanitize(quiz)
 
-    # 写入外部 JSON 文件（格式化，便于调试）
-    with open(QUIZ_DATA_JSON, "w", encoding="utf-8") as f:
+    # 写入外部 JSON 文件，使用 utf-8-sig（带 BOM），给浏览器/编辑器明确的 UTF-8 信号
+    with open(QUIZ_DATA_JSON, "w", encoding="utf-8-sig") as f:
         json.dump(safe_quiz, f, ensure_ascii=False, indent=2)
 
-    log(f"已更新 {QUIZ_DATA_JSON} ({len(json.dumps(safe_quiz, ensure_ascii=False))} chars)")
+    log(f"已更新 {QUIZ_DATA_JSON} ({len(json.dumps(safe_quiz, ensure_ascii=False))} chars, UTF-8-BOM)")
 
 
 def git_commit(today: str, session: int) -> None:

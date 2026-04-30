@@ -1,58 +1,21 @@
-// push_quiz.js — 将 today_quiz.json 更新到 index.html 并推送 GitHub Pages
-// 用法：node push_quiz.js
-var fs = require('fs');
-var path = require('path');
-var { execSync } = require('child_process');
+// push_quiz.js — 已废弃（DEPRECATED）
+//
+// 原用途：将 english-tutor skill 生成的 today_quiz.json 内联到 index.html 并推送 GitHub Pages。
+//
+// 替代方案：
+//   现在统一使用 scripts/generate_quiz.py 生成题目，它会：
+//   1. 调用 Kimi API 生成 20 道题目
+//   2. 写入 quiz_data.json（UTF-8-BOM）
+//   3. 由 workflow 自动 git commit / push
+//
+// 如果仍需手动推送，请直接运行：
+//   cd C:/Users/basilren/WorkBuddy/english-quiz
+//   git add quiz_data.json index.html
+//   git commit -m "update quiz"
+//   git push
+//
+// 注意：index.html 现在通过 ArrayBuffer + TextDecoder('utf-8') 加载 quiz_data.json，
+// 不再将 JSON 内联到 HTML 中，因此此脚本的替换逻辑已失效。
 
-var QUIZ_PATH = 'C:/Users/basilren/.workbuddy/skills/english-tutor/references/today_quiz.json';
-var REPO_PATH = 'C:/Users/basilren/WorkBuddy/english-quiz';
-
-try {
-  // 1. Read quiz
-  var quiz = JSON.parse(fs.readFileSync(QUIZ_PATH, 'utf8'));
-  console.log('Quiz date:', quiz.date, 'session:', quiz.session_number, 'questions:', quiz.questions.length);
-
-  // 2. Pull latest
-  execSync('git pull', { cwd: REPO_PATH, stdio: 'inherit' });
-
-  // 3. Update index.html - only replace the quizData line, preserve everything after
-  var htmlPath = path.join(REPO_PATH, 'index.html');
-  var html = fs.readFileSync(htmlPath, 'utf8');
-  // Match from "var quizData = {" to the end of the JSON object + ";"
-  // Use a more precise pattern: match the line starting with "var quizData"
-  var lines = html.split('\n');
-  var found = false;
-  for (var i = 0; i < lines.length; i++) {
-    if (lines[i].trimStart().startsWith('var quizData = {')) {
-      lines[i] = 'var quizData = ' + JSON.stringify(quiz) + ';';
-      found = true;
-      break;
-    }
-  }
-  if (!found) {
-    console.error('ERROR: Could not find quizData line in index.html');
-    process.exit(1);
-  }
-  html = lines.join('\n');
-  
-  // Update day counter
-  var dayMatch = html.match(/\u7B2C (\d+) \u5929/);
-  var dayNum = dayMatch ? parseInt(dayMatch[1]) + 1 : 1;
-  var dateStr = quiz.date.replace(/(\d{4})-(\d{2})-(\d{2})/, '$1\u5E74$2\u6708$3\u65E5');
-  html = html.replace(
-    /\u7B2C \d+ \u5929 \u00B7 \u7B2C \d+ \u7EC4 \u00B7 \d{4}\u5E74\d{1,2}\u6708\d{1,2}\u65E5/,
-    '\u7B2C ' + dayNum + ' \u5929 \u00B7 \u7B2C ' + quiz.session_number + ' \u7EC4 \u00B7 ' + dateStr
-  );
-  
-  fs.writeFileSync(htmlPath, html, 'utf8');
-  console.log('Updated index.html, day', dayNum);
-
-  // 4. Git push
-  execSync('git add .', { cwd: REPO_PATH, stdio: 'inherit' });
-  execSync('git commit -m "Day ' + dayNum + ' (' + quiz.date.slice(5) + '): auto-push quiz"', { cwd: REPO_PATH, stdio: 'inherit' });
-  execSync('git push', { cwd: REPO_PATH, stdio: 'inherit' });
-  console.log('Pushed to GitHub Pages!');
-} catch (e) {
-  console.error('Error:', e.message);
-  process.exit(1);
-}
+console.log('⚠️  push_quiz.js 已废弃。请使用 scripts/generate_quiz.py 生成并推送题目。');
+process.exit(0);

@@ -201,16 +201,23 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;b
   }
 })();
 
-// Load quiz data from external JSON (better WeChat X5 compatibility & cache busting)
+// Load quiz data from external JSON — force UTF-8 decoding to prevent garbled Chinese
+// caused by browsers auto-detecting wrong encoding (e.g. GBK on some mobile browsers).
 var quizData;
 (function(){
   var xhr = new XMLHttpRequest();
-  // Force bypass cache with timestamp
   xhr.open("GET", "quiz_data.json?t=" + new Date().getTime(), false);
+  xhr.responseType = "arraybuffer";
   xhr.send();
   if (xhr.status === 200) {
     try {
-      quizData = JSON.parse(xhr.responseText);
+      var bytes = new Uint8Array(xhr.response);
+      // Strip UTF-8 BOM if present (generate_quiz.py now writes utf-8-sig)
+      var start = 0;
+      if (bytes.length >= 3 && bytes[0] === 0xEF && bytes[1] === 0xBB && bytes[2] === 0xBF) start = 3;
+      var decoder = (typeof TextDecoder !== "undefined") ? new TextDecoder("utf-8") : null;
+      var text = decoder ? decoder.decode(bytes.subarray(start)) : xhr.responseText;
+      quizData = JSON.parse(text);
     } catch(e) {
       document.body.innerHTML = "<div style=\"padding:30px;text-align:center;font-family:sans-serif\"><h2 style=\"color:#c0392b\">题目加载失败</h2><p style=\"color:#666\">JSON解析错误: " + (e.message||"") + "</p><p style=\"color:#999;font-size:12px;margin-top:20px\">请尝试刷新页面</p></div>";
       throw e;
@@ -654,8 +661,20 @@ var pressTimer=null, pressTarget=null;
 function fetchLocalJSON(url,cb){
   var xhr=new XMLHttpRequest();
   xhr.open('GET',url,true);
+  xhr.responseType="arraybuffer";
   xhr.onreadystatechange=function(){
-    if(xhr.readyState===4){if(xhr.status===200){try{cb(JSON.parse(xhr.responseText));}catch(e){cb(null);}}else{cb(null);}}
+    if(xhr.readyState===4){
+      if(xhr.status===200){
+        try{
+          var bytes=new Uint8Array(xhr.response);
+          var start=0;
+          if(bytes.length>=3&&bytes[0]===0xEF&&bytes[1]===0xBB&&bytes[2]===0xBF)start=3;
+          var decoder=(typeof TextDecoder!=="undefined")?new TextDecoder("utf-8"):null;
+          var text=decoder?decoder.decode(bytes.subarray(start)):xhr.responseText;
+          cb(JSON.parse(text));
+        }catch(e){cb(null);}
+      }else{cb(null);}
+    }
   };
   xhr.send();
 }
