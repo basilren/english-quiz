@@ -242,44 +242,6 @@
   ],
   "errors": [
     {
-      "date": "2026-04-21",
-      "session": 1,
-      "question_id": 17,
-      "type": "fill",
-      "knowledge_point": "sentence_fill",
-      "label": "短文填空",
-      "stem": "(17)___",
-      "options": [
-        "A. My classmate Wang Mei was the most generous buyer.",
-        "B. Then a kind-looking woman walked over to my table.",
-        "C. The playground was full of colourful tables and excited students.",
-        "D. The headmaster said he was very proud of all of us.",
-        "E. Each class decorated their own table with balloons and posters."
-      ],
-      "correct_answer": "C",
-      "student_answer": "A",
-      "explanation": "空格在'义卖9点开始'之后，空格后说'一些学生站在桌子后面叫卖吸引买家'。空格处应描述义卖现场的整体场景，承接'开始'到'叫卖'之间的画面。C（操场上摆满了五颜六色的桌子和兴奋的学生）描绘了活动开始时的热闹场景，自然过渡到后面的叫卖行为。A/B/D 是后面段落的内容（某个买家/我的桌子/校长总结），不适合放在场景开篇。E 也描写桌子，但'装饰'的时间应该在活动开始前，而非刚开始时。"
-    },
-    {
-      "date": "2026-04-21",
-      "session": 1,
-      "question_id": 19,
-      "type": "fill",
-      "knowledge_point": "sentence_fill",
-      "label": "短文填空",
-      "stem": "(19)___",
-      "options": [
-        "A. My classmate Wang Mei was the most generous buyer.",
-        "B. Then a kind-looking woman walked over to my table.",
-        "C. The playground was full of colourful tables and excited students.",
-        "D. The headmaster said he was very proud of all of us.",
-        "E. Each class decorated their own table with balloons and posters."
-      ],
-      "correct_answer": "A",
-      "student_answer": "E",
-      "explanation": "空格后说'她买了6个蛋糕，全部送给了低年级学生'（She bought six cakes and gave them all to the younger students），紧接着'大家都喜欢她因为她总是先想着别人'。空格处需要引入这位慷慨的同学。A（我的同学王梅是最慷慨的买家）引出了'慷慨'的主题，后面的 She 指代王梅，买蛋糕送人的行为正是'慷慨'的具体表现。做题：She = Wang Mei，代词指代是关键线索。"
-    },
-    {
       "date": "2026-04-22",
       "session": 1,
       "question_id": 9,

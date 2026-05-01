@@ -1,5 +1,5 @@
 ﻿{
-  "date": "2026-05-01",
+  "date": "2026-05-02",
   "session_number": 1,
   "questions": [
     {
@@ -7,31 +7,31 @@
       "type": "grammar",
       "knowledge_point": "present_perfect_vs_past_simple",
       "difficulty": 2,
-      "stem": "—Have you ever visited the science museum?\n—Yes. I ______ there with my classmates last month.",
+      "stem": "—Have you ever ______ to the Great Wall?\n—Yes. I ______ there last summer with my family.",
       "options": [
-        "A. have gone",
-        "B. went",
-        "C. go",
-        "D. am going"
+        "A. been; went",
+        "B. gone; went",
+        "C. been; have gone",
+        "D. gone; have been"
       ],
-      "correct_answer": "B",
-      "explanation": "虽然问句用了现在完成时，但答句中有明确的时间状语'last month'（上个月），这是一般过去时的标志词，因此要用went。现在完成时不能与具体的过去时间状语（如yesterday, last week, in 2020等）连用。",
+      "correct_answer": "A",
+      "explanation": "本题考查现在完成时与一般过去时的区别。第一空：'have been to'表示'去过某地（已回来）'，'have gone to'表示'去了某地（未回来）'。根据语境，对话双方都在场，说明已返回，用'been'。第二空：'last summer'是明确的过去时间状语，只能用一般过去时'went'，不能用现在完成时。解题口诀：'过去时间用过去，经历去过用完成'。",
       "label": "语法题"
     },
     {
       "id": 2,
       "type": "grammar",
-      "knowledge_point": "relative_clause",
-      "difficulty": 3,
-      "stem": "The book ______ cover is green is about environmental protection.",
+      "knowledge_point": "relative_clause_who_which",
+      "difficulty": 2,
+      "stem": "The boy ______ is wearing a blue coat and riding a bike is my cousin from Hangzhou.",
       "options": [
         "A. who",
         "B. which",
-        "C. whose",
-        "D. that"
+        "C. whom",
+        "D. whose"
       ],
-      "correct_answer": "C",
-      "explanation": "先行词是the book，定语从句中的cover（封面）与book是所属关系（书的封面），因此要用whose引导，表示'……的'。who指人；which和that在从句中作主语或宾语，但不能表示所属关系。",
+      "correct_answer": "A",
+      "explanation": "本题考查定语从句关系代词的选择。先行词'the boy'指人，且在从句中作主语（is wearing...），因此用'who'。'which'用于指物；'whom'用于指人但作宾语；'whose'表示所属关系（...的）。判断技巧：先看先行词是人还是物，再看关系词在从句中充当什么成分（主语、宾语或定语）。",
       "label": "语法题"
     },
     {
@@ -39,15 +39,15 @@
       "type": "grammar",
       "knowledge_point": "passive_voice",
       "difficulty": 2,
-      "stem": "These old books ______ to the library by Bosco yesterday afternoon.",
+      "stem": "The new school library near our classroom ______ next month. It will be very modern.",
       "options": [
-        "A. returned",
-        "B. were returned",
-        "C. are returned",
-        "D. return"
+        "A. will build",
+        "B. will be built",
+        "C. is building",
+        "D. builds"
       ],
       "correct_answer": "B",
-      "explanation": "主语these old books与动词return之间是被动关系（书被归还），且时间状语yesterday afternoon（昨天下午）表明要用一般过去时，因此用一般过去时的被动语态were returned。被动语态的基本结构是：be动词+过去分词。",
+      "explanation": "本题考查一般将来时的被动语态。主语'the new school library'与动词'build'是被动关系（图书馆被建），因此必须用被动语态'be + 过去分词'。'next month'表示将来时间，所以用'will be built'。A和D是主动语态，C是现在进行时的主动语态，均不符合。解题技巧：先判断主语与动词是主动还是被动，再看时间确定时态。",
       "label": "语法题"
     },
     {
@@ -58,28 +58,28 @@
       "stem": "I wonder ______ Tom ______ to the party tomorrow. If he comes, I will be very happy.",
       "options": [
         "A. if; will come",
-        "B. that; comes",
-        "C. whether; came",
-        "D. if; came"
+        "B. whether; comes",
+        "C. that; will come",
+        "D. if; comes"
       ],
       "correct_answer": "A",
-      "explanation": "wonder后接宾语从句表示'想知道'，要用if或whether引导，排除B。根据tomorrow（明天）可知从句要用一般将来时will come。注意：if引导宾语从句时意为'是否'，引导条件状语从句时意为'如果'（此时遵循'主将从现'原则）。",
+      "explanation": "本题考查宾语从句的引导词和时态。第一空：'wonder'表示'想知道'，后接宾语从句表示'是否'时用'if'或'whether'，不能用'that'（that无实义，仅起连接作用）。第二空：宾语从句中'tomorrow'是将来时间状语，需用一般将来时'will come'。注意区分：if引导宾语从句时意为'是否'，引导条件状语从句时意为'如果'（主将从现）。此处是宾语从句，作wonder的宾语。",
       "label": "语法题"
     },
     {
       "id": 5,
       "type": "vocabulary",
-      "knowledge_point": "fixed_phrases",
+      "knowledge_point": "word_meaning",
       "difficulty": 2,
-      "stem": "We should ______ our best to protect the environment for our future.",
+      "stem": "It's important for us to ______ the balance between study and rest during the busy exam season.",
       "options": [
-        "A. try",
-        "B. make",
-        "C. do",
-        "D. take"
+        "A. keep",
+        "B. hold",
+        "C. make",
+        "D. let"
       ],
       "correct_answer": "A",
-      "explanation": "try one's best to do sth.是固定搭配，意为'尽某人最大努力做某事'。虽然do one's best也有'尽力'的意思，但try one's best更常用，且与语境中的'努力保护环境'搭配更自然。",
+      "explanation": "本题考查动词词义辨析及固定搭配。'keep the balance'是固定搭配，意为'保持平衡'。'hold'强调'抓住、握住'，不与balance搭配；'make the balance'不是常用表达；'let'表示'让'，语义不符。类似搭配还有'keep healthy'（保持健康）、'keep quiet'（保持安静）。",
       "label": "词汇题"
     },
     {
@@ -89,13 +89,13 @@
       "difficulty": 1,
       "stem": "If you add the prefix 'un-' to the word 'healthy', you get a new word with the ______ meaning.",
       "options": [
-        "A. same",
-        "B. similar",
-        "C. opposite",
-        "D. different"
+        "A. opposite",
+        "B. same",
+        "C. similar",
+        "D. true"
       ],
-      "correct_answer": "C",
-      "explanation": "前缀un-表示'不、无、相反'，如unhappy（不开心）、unhealthy（不健康）。因此添加un-后得到的是原词的反义词（opposite meaning）。",
+      "correct_answer": "A",
+      "explanation": "本题考查前缀的构词法。前缀'un-'加在形容词前通常表示否定意义，构成反义词，如'healthy'（健康的）→'unhealthy'（不健康的），两者意思相反。其他常见否定前缀还有'dis-'（如dislike）、'im-'（如impossible）。因此'un-'改变词根的意义为相反含义。",
       "label": "词汇题"
     },
     {
@@ -103,254 +103,254 @@
       "type": "vocabulary",
       "knowledge_point": "phrasal_verbs",
       "difficulty": 2,
-      "stem": "Please ______ the lights when you leave the classroom to save electricity.",
+      "stem": "As good classmates, we should ______ each other and help those who are in trouble.",
       "options": [
-        "A. turn on",
-        "B. turn off",
-        "C. turn up",
-        "D. turn down"
+        "A. look forward to",
+        "B. look up to",
+        "C. care about",
+        "D. cheer up"
       ],
-      "correct_answer": "B",
-      "explanation": "turn off意为'关闭'，符合句意'离开教室时关灯省电'。turn on（打开）、turn up（调大/出现）、turn down（调小/拒绝）均不符合语境。",
+      "correct_answer": "C",
+      "explanation": "本题考查动词短语辨析。'care about'意为'关心、在意'，符合语境'关心彼此'。'look forward to'意为'期待'（后接名词或动名词）；'look up to'意为'尊敬、敬仰'；'cheer up'意为'使振作起来'。根据句意'帮助有困难的人'，前句应该是'互相关心'，因此选C。",
       "label": "词汇题"
     },
     {
       "id": 8,
       "type": "cloze",
-      "knowledge_point": "cloze_context",
+      "knowledge_point": "cloze_general",
       "difficulty": 2,
       "stem": "(8)______",
       "options": [
-        "A. reduce",
-        "B. produce",
-        "C. collect",
-        "D. increase"
+        "A. in",
+        "B. on",
+        "C. at",
+        "D. for"
       ],
-      "correct_answer": "A",
-      "explanation": "根据上下文，学校启动'绿色校园'项目的目标是'减少'浪费和节约能源。reduce意为'减少'，与save energy（节约能源）并列。produce（生产）、collect（收集）、increase（增加）均不符合环保主题。",
+      "correct_answer": "B",
+      "explanation": "本题考查时间介词的用法。在具体的某一天（如a sunny Friday morning）前要用介词'on'。'in'用于年、月、季节或泛指的上午/下午/晚上；'at'用于具体时刻；'for'表示持续时间。解题口诀：'on天on日on星期，具体某天也用on'。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school started a \"Green Campus\" project. The goal was to (8)______ waste and save energy. First, we placed recycling bins in every classroom. Students were asked to (9)______ paper, plastic, and other waste. At first, many students found it (10)______ to remember which bin to use. (11)______, after two weeks, it became a habit. The school also installed LED lights to (12)______ electricity. Now, our school uses 30% less energy than before."
+      "group_passage": "Waste sorting (垃圾分类) is becoming more and more important in our daily life. Last week, our school organized an activity to teach us how to sort waste properly.\n\nThe activity was held (8)______ a sunny Friday morning. A speaker from the environmental protection station came to our school. He told us that different kinds of waste should be put into different bins. For example, leftover food belongs to kitchen waste, while old newspapers and plastic bottles are recyclable waste.\n\nThen, we (9)______ into small groups to play a game. Each group got some cards with waste names written on them. We needed to put these cards into the right 'bins' on the floor. At first, we made some mistakes. My classmate Tom put a broken glass bottle into the 'harmful waste' bin, (10)______ actually it should go into the 'recyclable' bin. Our teacher explained that glass can be recycled and (11)______ to make new bottles.\n\nThrough this activity, we realized that waste sorting is (12)______ than we thought. It is a simple action, but it can make a big difference to our environment."
     },
     {
       "id": 9,
       "type": "cloze",
-      "knowledge_point": "cloze_context",
+      "knowledge_point": "passive_voice",
       "difficulty": 2,
       "stem": "(9)______",
       "options": [
-        "A. mix",
-        "B. separate",
-        "C. make",
-        "D. burn"
+        "A. divided",
+        "B. were divided",
+        "C. divide",
+        "D. dividing"
       ],
       "correct_answer": "B",
-      "explanation": "根据前文的recycling bins（回收箱）和常识，垃圾分类需要把不同的垃圾'分开'。separate意为'分离、分开'，符合语境。mix（混合）与文意相反；burn（燃烧）和make（制作）不符合回收的主题。",
+      "explanation": "本题考查一般过去时的被动语态。主语'we'与动词'divide'（分组）是被动关系，我们'被分成'小组，因此用被动语态'be divided'。文章整体叙述上周的活动，用过去时，所以是'were divided'。A是主动语态，C是动词原形，D是现在分词，均不能独立作谓语。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school started a \"Green Campus\" project. The goal was to (8)______ waste and save energy. First, we placed recycling bins in every classroom. Students were asked to (9)______ paper, plastic, and other waste. At first, many students found it (10)______ to remember which bin to use. (11)______, after two weeks, it became a habit. The school also installed LED lights to (12)______ electricity. Now, our school uses 30% less energy than before."
+      "group_passage": "Waste sorting (垃圾分类) is becoming more and more important in our daily life. Last week, our school organized an activity to teach us how to sort waste properly.\n\nThe activity was held (8)______ a sunny Friday morning. A speaker from the environmental protection station came to our school. He told us that different kinds of waste should be put into different bins. For example, leftover food belongs to kitchen waste, while old newspapers and plastic bottles are recyclable waste.\n\nThen, we (9)______ into small groups to play a game. Each group got some cards with waste names written on them. We needed to put these cards into the right 'bins' on the floor. At first, we made some mistakes. My classmate Tom put a broken glass bottle into the 'harmful waste' bin, (10)______ actually it should go into the 'recyclable' bin. Our teacher explained that glass can be recycled and (11)______ to make new bottles.\n\nThrough this activity, we realized that waste sorting is (12)______ than we thought. It is a simple action, but it can make a big difference to our environment."
     },
     {
       "id": 10,
       "type": "cloze",
-      "knowledge_point": "cloze_logic",
-      "difficulty": 2,
+      "knowledge_point": "conjunction",
+      "difficulty": 3,
       "stem": "(10)______",
       "options": [
-        "A. easy",
-        "B. difficult",
-        "C. interesting",
-        "D. important"
+        "A. and",
+        "B. but",
+        "C. or",
+        "D. so"
       ],
       "correct_answer": "B",
-      "explanation": "根据下文的However（然而）和became a habit（变成了习惯）可知，起初学生们觉得'很难'记住使用哪个垃圾桶。difficult（困难的）与后文形成转折关系。",
+      "explanation": "本题考查连词的逻辑关系。前句说'Tom把破玻璃瓶放入有害垃圾箱'，后句说'实际上它应该放入可回收箱'，前后是转折关系，用'but'（但是）。'and'表并列，'or'表选择/否则，'so'表结果，均不符合语境。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school started a \"Green Campus\" project. The goal was to (8)______ waste and save energy. First, we placed recycling bins in every classroom. Students were asked to (9)______ paper, plastic, and other waste. At first, many students found it (10)______ to remember which bin to use. (11)______, after two weeks, it became a habit. The school also installed LED lights to (12)______ electricity. Now, our school uses 30% less energy than before."
+      "group_passage": "Waste sorting (垃圾分类) is becoming more and more important in our daily life. Last week, our school organized an activity to teach us how to sort waste properly.\n\nThe activity was held (8)______ a sunny Friday morning. A speaker from the environmental protection station came to our school. He told us that different kinds of waste should be put into different bins. For example, leftover food belongs to kitchen waste, while old newspapers and plastic bottles are recyclable waste.\n\nThen, we (9)______ into small groups to play a game. Each group got some cards with waste names written on them. We needed to put these cards into the right 'bins' on the floor. At first, we made some mistakes. My classmate Tom put a broken glass bottle into the 'harmful waste' bin, (10)______ actually it should go into the 'recyclable' bin. Our teacher explained that glass can be recycled and (11)______ to make new bottles.\n\nThrough this activity, we realized that waste sorting is (12)______ than we thought. It is a simple action, but it can make a big difference to our environment."
     },
     {
       "id": 11,
       "type": "cloze",
-      "knowledge_point": "cloze_logic",
+      "knowledge_point": "passive_voice",
       "difficulty": 2,
       "stem": "(11)______",
       "options": [
-        "A. However",
-        "B. Therefore",
-        "C. Besides",
-        "D. Instead"
+        "A. used",
+        "B. use",
+        "C. using",
+        "D. uses"
       ],
       "correct_answer": "A",
-      "explanation": "前文说起初觉得难，后文说两周后变成了习惯，前后是转折关系。However（然而）表示转折，符合逻辑。Therefore（因此）表因果；Besides（此外）表递进；Instead（反而/代替）表替代。",
+      "explanation": "本题考查被动语态。主语'glass'与'use'是被动关系，且前面有'be recycled and'，and连接并列结构，因此后面也用过去分词'used'，构成'can be recycled and used'（能够被回收和用来...）。B是原形，C是现在分词，D是三单形式，均不符合被动语态结构。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school started a \"Green Campus\" project. The goal was to (8)______ waste and save energy. First, we placed recycling bins in every classroom. Students were asked to (9)______ paper, plastic, and other waste. At first, many students found it (10)______ to remember which bin to use. (11)______, after two weeks, it became a habit. The school also installed LED lights to (12)______ electricity. Now, our school uses 30% less energy than before."
+      "group_passage": "Waste sorting (垃圾分类) is becoming more and more important in our daily life. Last week, our school organized an activity to teach us how to sort waste properly.\n\nThe activity was held (8)______ a sunny Friday morning. A speaker from the environmental protection station came to our school. He told us that different kinds of waste should be put into different bins. For example, leftover food belongs to kitchen waste, while old newspapers and plastic bottles are recyclable waste.\n\nThen, we (9)______ into small groups to play a game. Each group got some cards with waste names written on them. We needed to put these cards into the right 'bins' on the floor. At first, we made some mistakes. My classmate Tom put a broken glass bottle into the 'harmful waste' bin, (10)______ actually it should go into the 'recyclable' bin. Our teacher explained that glass can be recycled and (11)______ to make new bottles.\n\nThrough this activity, we realized that waste sorting is (12)______ than we thought. It is a simple action, but it can make a big difference to our environment."
     },
     {
       "id": 12,
       "type": "cloze",
-      "knowledge_point": "cloze_context",
-      "difficulty": 1,
+      "knowledge_point": "comparative",
+      "difficulty": 2,
       "stem": "(12)______",
       "options": [
-        "A. waste",
-        "B. use",
-        "C. make",
-        "D. save"
+        "A. easy",
+        "B. easier",
+        "C. easiest",
+        "D. the easiest"
       ],
-      "correct_answer": "D",
-      "explanation": "根据下文uses 30% less energy（使用少30%的能源）可知，安装LED灯是为了'节约'用电。save（节约）符合文意。waste（浪费）与文意相反。",
+      "correct_answer": "B",
+      "explanation": "本题考查形容词比较级。句中有'than'（比），这是比较级的标志词，因此要用比较级'easier'。A是原级，C和D是最高级，均不能与'than'连用。多音节形容词前加more构成比较级，但easy是双音节词，变y为i加-er。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school started a \"Green Campus\" project. The goal was to (8)______ waste and save energy. First, we placed recycling bins in every classroom. Students were asked to (9)______ paper, plastic, and other waste. At first, many students found it (10)______ to remember which bin to use. (11)______, after two weeks, it became a habit. The school also installed LED lights to (12)______ electricity. Now, our school uses 30% less energy than before."
+      "group_passage": "Waste sorting (垃圾分类) is becoming more and more important in our daily life. Last week, our school organized an activity to teach us how to sort waste properly.\n\nThe activity was held (8)______ a sunny Friday morning. A speaker from the environmental protection station came to our school. He told us that different kinds of waste should be put into different bins. For example, leftover food belongs to kitchen waste, while old newspapers and plastic bottles are recyclable waste.\n\nThen, we (9)______ into small groups to play a game. Each group got some cards with waste names written on them. We needed to put these cards into the right 'bins' on the floor. At first, we made some mistakes. My classmate Tom put a broken glass bottle into the 'harmful waste' bin, (10)______ actually it should go into the 'recyclable' bin. Our teacher explained that glass can be recycled and (11)______ to make new bottles.\n\nThrough this activity, we realized that waste sorting is (12)______ than we thought. It is a simple action, but it can make a big difference to our environment."
     },
     {
       "id": 13,
       "type": "reading",
       "knowledge_point": "detail",
       "difficulty": 2,
-      "stem": "When was the first vertical forest built?",
+      "stem": "When was the first Vertical Forest built according to the passage?",
       "options": [
         "A. In 2010",
-        "B. In 2014",
-        "C. In 2018",
-        "D. In 2020"
+        "B. In 2012",
+        "C. In 2014",
+        "D. In 2016"
       ],
-      "correct_answer": "B",
-      "explanation": "细节理解题。根据第一段第二句'Italian architect Stefano Boeri designed the first vertical forest in Milan, Italy in 2014.'可知，第一座垂直森林建于2014年。",
+      "correct_answer": "C",
+      "explanation": "本题是细节理解题。根据文章第二段第二句'The first Vertical Forest was built in Milan, Italy in 2014.'可知，第一座垂直森林建于2014年。细节题解题技巧：先读题干找关键词（如first Vertical Forest, built），然后回原文定位相关句子，比对选项即可。",
       "label": "阅读-细节理解",
       "group": "reading_1",
-      "group_passage": "Vertical Forests\n\nHave you ever seen a building covered with trees and plants? This is called a \"vertical forest.\" Italian architect Stefano Boeri designed the first vertical forest in Milan, Italy in 2014. These special buildings are covered with thousands of trees, shrubs, and flowers.\n\nVertical forests are good for the environment in many ways. First, they help absorb CO2 and produce oxygen, just like regular forests. One vertical forest can produce enough oxygen for hundreds of people. Second, they provide homes for birds and insects in the city. Third, they help reduce air pollution and noise.\n\nHowever, building vertical forests is not easy. Engineers must design special systems to hold the plants and provide water. The buildings also need strong structures to support the weight of the soil and trees. Despite these challenges, more cities around the world are building vertical forests to create greener urban spaces."
+      "group_passage": "In big cities, there are more and more tall buildings but fewer and fewer green plants. To solve this problem, Italian architect Stefano Boeri designed a special kind of building called 'Vertical Forest' (垂直森林).\n\nThese buildings look like giant trees. They are covered with thousands of plants, including trees, shrubs and flowers. The first Vertical Forest was built in Milan, Italy in 2014. It has two towers, 80 and 112 meters tall. In total, there are about 900 trees and 20,000 plants on them.\n\nMany people wonder how these plants can survive on tall buildings. Actually, each plant has its own special soil and watering system. The building's design also considers wind and sunlight. Strong winds at high places might blow down the trees, so the architects choose special tree species with deep roots.\n\nVertical Forests bring many benefits to cities. First, they absorb CO2 and produce oxygen, improving air quality. Second, they provide homes for birds and insects, increasing biodiversity. Third, they help reduce noise pollution and keep the building cool in summer.\n\nHowever, some people worry about the high cost of building and maintaining such buildings. Others are afraid that falling leaves and branches might be dangerous. Despite these concerns, more Vertical Forests are being built around the world, including in China."
     },
     {
       "id": 14,
       "type": "reading",
-      "knowledge_point": "inference",
-      "difficulty": 3,
-      "stem": "What can we learn from the passage?",
+      "knowledge_point": "word_guessing",
+      "difficulty": 2,
+      "stem": "What does the underlined word 'absorbing' in Paragraph 4 most probably mean?",
       "options": [
-        "A. Vertical forests are cheap to build.",
-        "B. Vertical forests help improve city environment.",
-        "C. All buildings in Milan are vertical forests.",
-        "D. Vertical forests don't need water systems."
+        "A. Taking in",
+        "B. Giving out",
+        "C. Turning into",
+        "D. Breaking down"
       ],
-      "correct_answer": "B",
-      "explanation": "推理判断题。根据第二段，垂直森林能吸收二氧化碳、产生氧气、为城市鸟类和昆虫提供家园、减少空气污染和噪音，因此可以推断出垂直森林有助于改善城市环境。A项与第三段'building vertical forests is not easy'和'challenges'矛盾；C项与第一段'designed the first vertical forest'矛盾（只是第一座，并非全部）；D项与第三段'provide water'矛盾。",
-      "label": "阅读-推理判断",
+      "correct_answer": "A",
+      "explanation": "本题是词义猜测题。根据上下文语境，第四段讲垂直森林的好处，提到'absorbing CO2 and produce oxygen'（吸收二氧化碳并产生氧气）。'absorb'与'produce'（产生）相对，应该是'吸收'的意思。'take in'表示'吸收、摄入'，与'give out'（释放）相反。解题技巧：通过并列结构'absorbing... and produce...'以及常识（植物吸收CO2释放O2）来推断词义。",
+      "label": "阅读-词义猜测",
       "group": "reading_1",
-      "group_passage": "Vertical Forests\n\nHave you ever seen a building covered with trees and plants? This is called a \"vertical forest.\" Italian architect Stefano Boeri designed the first vertical forest in Milan, Italy in 2014. These special buildings are covered with thousands of trees, shrubs, and flowers.\n\nVertical forests are good for the environment in many ways. First, they help absorb CO2 and produce oxygen, just like regular forests. One vertical forest can produce enough oxygen for hundreds of people. Second, they provide homes for birds and insects in the city. Third, they help reduce air pollution and noise.\n\nHowever, building vertical forests is not easy. Engineers must design special systems to hold the plants and provide water. The buildings also need strong structures to support the weight of the soil and trees. Despite these challenges, more cities around the world are building vertical forests to create greener urban spaces."
+      "group_passage": "In big cities, there are more and more tall buildings but fewer and fewer green plants. To solve this problem, Italian architect Stefano Boeri designed a special kind of building called 'Vertical Forest' (垂直森林).\n\nThese buildings look like giant trees. They are covered with thousands of plants, including trees, shrubs and flowers. The first Vertical Forest was built in Milan, Italy in 2014. It has two towers, 80 and 112 meters tall. In total, there are about 900 trees and 20,000 plants on them.\n\nMany people wonder how these plants can survive on tall buildings. Actually, each plant has its own special soil and watering system. The building's design also considers wind and sunlight. Strong winds at high places might blow down the trees, so the architects choose special tree species with deep roots.\n\nVertical Forests bring many benefits to cities. First, they absorb CO2 and produce oxygen, improving air quality. Second, they provide homes for birds and insects, increasing biodiversity. Third, they help reduce noise pollution and keep the building cool in summer.\n\nHowever, some people worry about the high cost of building and maintaining such buildings. Others are afraid that falling leaves and branches might be dangerous. Despite these concerns, more Vertical Forests are being built around the world, including in China."
     },
     {
       "id": 15,
       "type": "reading",
-      "knowledge_point": "word_guessing",
-      "difficulty": 2,
-      "stem": "What does the underlined word \"absorb\" in Paragraph 2 mean?",
+      "knowledge_point": "inference",
+      "difficulty": 3,
+      "stem": "What can we learn from the passage about Vertical Forests?",
       "options": [
-        "A. take in",
-        "B. give out",
-        "C. turn into",
-        "D. put away"
+        "A. They are cheap to build and maintain",
+        "B. They have both advantages and disadvantages",
+        "C. Any kind of tree can grow well on these buildings",
+        "D. They do not need special watering systems"
       ],
-      "correct_answer": "A",
-      "explanation": "词义猜测题。根据上下文'absorb CO2 and produce oxygen'（吸收二氧化碳并产生氧气），与produce（产生）相对，且宾语是CO2，可以推断absorb意为'吸收'。take in意为'吸入、吸收'，符合语境。",
-      "label": "阅读-词义猜测",
+      "correct_answer": "B",
+      "explanation": "本题是推理判断题。文章第四段讲垂直森林的好处（吸收CO2、提供生物栖息地、减少噪音等），第五段讲人们的担忧（成本高、维护难、落叶危险等），说明垂直森林既有优点也有缺点。A与原文'high cost'矛盾；C与原文'choose special tree species'矛盾；D与原文'watering system'矛盾。推理题要注意整合全文信息，不能只看某一段。",
+      "label": "阅读-推理判断",
       "group": "reading_1",
-      "group_passage": "Vertical Forests\n\nHave you ever seen a building covered with trees and plants? This is called a \"vertical forest.\" Italian architect Stefano Boeri designed the first vertical forest in Milan, Italy in 2014. These special buildings are covered with thousands of trees, shrubs, and flowers.\n\nVertical forests are good for the environment in many ways. First, they help absorb CO2 and produce oxygen, just like regular forests. One vertical forest can produce enough oxygen for hundreds of people. Second, they provide homes for birds and insects in the city. Third, they help reduce air pollution and noise.\n\nHowever, building vertical forests is not easy. Engineers must design special systems to hold the plants and provide water. The buildings also need strong structures to support the weight of the soil and trees. Despite these challenges, more cities around the world are building vertical forests to create greener urban spaces."
+      "group_passage": "In big cities, there are more and more tall buildings but fewer and fewer green plants. To solve this problem, Italian architect Stefano Boeri designed a special kind of building called 'Vertical Forest' (垂直森林).\n\nThese buildings look like giant trees. They are covered with thousands of plants, including trees, shrubs and flowers. The first Vertical Forest was built in Milan, Italy in 2014. It has two towers, 80 and 112 meters tall. In total, there are about 900 trees and 20,000 plants on them.\n\nMany people wonder how these plants can survive on tall buildings. Actually, each plant has its own special soil and watering system. The building's design also considers wind and sunlight. Strong winds at high places might blow down the trees, so the architects choose special tree species with deep roots.\n\nVertical Forests bring many benefits to cities. First, they absorb CO2 and produce oxygen, improving air quality. Second, they provide homes for birds and insects, increasing biodiversity. Third, they help reduce noise pollution and keep the building cool in summer.\n\nHowever, some people worry about the high cost of building and maintaining such buildings. Others are afraid that falling leaves and branches might be dangerous. Despite these concerns, more Vertical Forests are being built around the world, including in China."
     },
     {
       "id": 16,
       "type": "reading",
       "knowledge_point": "main_idea",
-      "difficulty": 3,
-      "stem": "What is the best title for this passage?",
+      "difficulty": 2,
+      "stem": "What is the writer's attitude towards Vertical Forests?",
       "options": [
-        "A. Italian Architecture",
-        "B. How to Build a House",
-        "C. Vertical Forests: Green Buildings of the Future",
-        "D. Air Pollution in Cities"
+        "A. Worried and doubtful",
+        "B. Uninterested and uncaring",
+        "C. Supportive and positive",
+        "D. Unsure and unclear"
       ],
       "correct_answer": "C",
-      "explanation": "主旨大意题。文章第一段介绍什么是垂直森林，第二段讲其对环境的好处，第三段讲建造的挑战和前景。因此全文主旨是介绍垂直森林这一环保建筑。C项'垂直森林：未来的绿色建筑'最能概括全文。A项范围过大；B项偏离主题；D项只是文中提到的细节之一。",
-      "label": "阅读-主旨大意",
+      "explanation": "本题考查作者态度。虽然文章提到了垂直森林的一些缺点（第五段），但最后一句'Despite these concerns, more Vertical Forests are being built around the world'（尽管有担忧，但越来越多垂直森林在建造）表明作者对这种建筑持支持态度。此外，文章用大量篇幅介绍其环保益处，整体基调是积极的。解题技巧：关注文章首尾段和转折词后的内容，'despite'（尽管）强调后半句的内容更重要。",
+      "label": "阅读-作者态度",
       "group": "reading_1",
-      "group_passage": "Vertical Forests\n\nHave you ever seen a building covered with trees and plants? This is called a \"vertical forest.\" Italian architect Stefano Boeri designed the first vertical forest in Milan, Italy in 2014. These special buildings are covered with thousands of trees, shrubs, and flowers.\n\nVertical forests are good for the environment in many ways. First, they help absorb CO2 and produce oxygen, just like regular forests. One vertical forest can produce enough oxygen for hundreds of people. Second, they provide homes for birds and insects in the city. Third, they help reduce air pollution and noise.\n\nHowever, building vertical forests is not easy. Engineers must design special systems to hold the plants and provide water. The buildings also need strong structures to support the weight of the soil and trees. Despite these challenges, more cities around the world are building vertical forests to create greener urban spaces."
+      "group_passage": "In big cities, there are more and more tall buildings but fewer and fewer green plants. To solve this problem, Italian architect Stefano Boeri designed a special kind of building called 'Vertical Forest' (垂直森林).\n\nThese buildings look like giant trees. They are covered with thousands of plants, including trees, shrubs and flowers. The first Vertical Forest was built in Milan, Italy in 2014. It has two towers, 80 and 112 meters tall. In total, there are about 900 trees and 20,000 plants on them.\n\nMany people wonder how these plants can survive on tall buildings. Actually, each plant has its own special soil and watering system. The building's design also considers wind and sunlight. Strong winds at high places might blow down the trees, so the architects choose special tree species with deep roots.\n\nVertical Forests bring many benefits to cities. First, they absorb CO2 and produce oxygen, improving air quality. Second, they provide homes for birds and insects, increasing biodiversity. Third, they help reduce noise pollution and keep the building cool in summer.\n\nHowever, some people worry about the high cost of building and maintaining such buildings. Others are afraid that falling leaves and branches might be dangerous. Despite these concerns, more Vertical Forests are being built around the world, including in China."
     },
     {
       "id": 17,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "stem": "(17)______",
+      "stem": "(16)______",
       "options": [
-        "A. However, with good time management, you can do well in both.",
-        "B. This saves time for other activities later.",
-        "C. Then you can see clearly how to arrange your time.",
-        "D. As a result, you may feel stressed and tired.",
-        "E. For example, playing basketball for an hour can make you more focused when you return to your books."
+        "A. First, choose a topic that you are interested in.",
+        "B. Second, organize your ideas clearly.",
+        "C. However, don't write every word on the paper.",
+        "D. Finally, practice makes perfect.",
+        "E. In addition, try to speak slowly and clearly."
       ],
       "correct_answer": "A",
-      "explanation": "前文提到'许多学生发现很难平衡学习和爱好'，后文给出建议，因此此处需要承上启下的过渡句。A项'然而，有了好的时间管理，你可以两者都做好'既承接了前文的困难，又引出下文的建议，符合逻辑。",
+      "explanation": "本题考查段落衔接与逻辑顺序。空后提到'First, choose...'，说明此处应该是演讲准备的第一步。选项A'First, choose a topic...'与后文的'First'呼应，且'choose a topic'（选话题）是准备演讲的第一步，符合逻辑顺序。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Many students find it hard to balance study and hobbies. (17)______ Here are some tips to help you.\n\nFirst, make a schedule. Write down all your school tasks and hobby time in a planner. (18)______ This way, you won't forget important deadlines or hobby classes.\n\nSecond, use your free time wisely. For example, if you take the bus to school, you can review your notes. (19)______ \n\nFinally, remember that hobbies can actually help your study. They help you relax and refresh your mind. (20)______ So, don't give up your hobbies because of too much homework."
+      "group_passage": "How to Prepare for an English Speech\n\nGiving an English speech can be challenging, but with good preparation, you can do it well. Here are some useful tips.\n\n(16)______ First, choose a topic that you are interested in. If you love the topic, you will be more confident when talking about it.\n\n(17)______ Second, organize your ideas clearly. Write down the main points and supporting details. Make sure your speech has a beginning, a middle, and an end.\n\n(18)______ However, don't write every word on the paper. Just use key words to remind yourself. If you read the whole speech, the audience will get bored.\n\n(19)______ Finally, practice makes perfect. Rehearse your speech several times before the big day. You can practice in front of a mirror or record yourself.\n\n(20)______ Remember, everyone feels nervous before speaking. Just take a deep breath and believe in yourself. Good luck!"
     },
     {
       "id": 18,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "stem": "(18)______",
+      "stem": "(17)______",
       "options": [
-        "A. However, with good time management, you can do well in both.",
-        "B. This saves time for other activities later.",
-        "C. Then you can see clearly how to arrange your time.",
-        "D. As a result, you may feel stressed and tired.",
-        "E. For example, playing basketball for an hour can make you more focused when you return to your books."
+        "A. First, choose a topic that you are interested in.",
+        "B. Second, organize your ideas clearly.",
+        "C. However, don't write every word on the paper.",
+        "D. Finally, practice makes perfect.",
+        "E. In addition, try to speak slowly and clearly."
       ],
-      "correct_answer": "C",
-      "explanation": "前文建议'制定时间表，把所有的学习任务和爱好时间都写在计划表里'，C项'然后你就能清楚地看到如何安排你的时间'解释了这样做的好处，与后文'这样你就不会忘记重要的截止日期或爱好课程'衔接自然。",
+      "correct_answer": "B",
+      "explanation": "本题考查段落衔接。空后出现'Second, organize...'，说明此处应该是第二步的总起句。选项B'Second, organize your ideas clearly'与后文的'Second'完全对应，且'organize ideas'（组织思路）是选好话题后的第二步，逻辑连贯。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Many students find it hard to balance study and hobbies. (17)______ Here are some tips to help you.\n\nFirst, make a schedule. Write down all your school tasks and hobby time in a planner. (18)______ This way, you won't forget important deadlines or hobby classes.\n\nSecond, use your free time wisely. For example, if you take the bus to school, you can review your notes. (19)______ \n\nFinally, remember that hobbies can actually help your study. They help you relax and refresh your mind. (20)______ So, don't give up your hobbies because of too much homework."
+      "group_passage": "How to Prepare for an English Speech\n\nGiving an English speech can be challenging, but with good preparation, you can do it well. Here are some useful tips.\n\n(16)______ First, choose a topic that you are interested in. If you love the topic, you will be more confident when talking about it.\n\n(17)______ Second, organize your ideas clearly. Write down the main points and supporting details. Make sure your speech has a beginning, a middle, and an end.\n\n(18)______ However, don't write every word on the paper. Just use key words to remind yourself. If you read the whole speech, the audience will get bored.\n\n(19)______ Finally, practice makes perfect. Rehearse your speech several times before the big day. You can practice in front of a mirror or record yourself.\n\n(20)______ Remember, everyone feels nervous before speaking. Just take a deep breath and believe in yourself. Good luck!"
     },
     {
       "id": 19,
       "type": "fill",
       "knowledge_point": "sentence_fill",
-      "difficulty": 2,
-      "stem": "(19)______",
+      "difficulty": 3,
+      "stem": "(18)______",
       "options": [
-        "A. However, with good time management, you can do well in both.",
-        "B. This saves time for other activities later.",
-        "C. Then you can see clearly how to arrange your time.",
-        "D. As a result, you may feel stressed and tired.",
-        "E. For example, playing basketball for an hour can make you more focused when you return to your books."
+        "A. First, choose a topic that you are interested in.",
+        "B. Second, organize your ideas clearly.",
+        "C. However, don't write every word on the paper.",
+        "D. Finally, practice makes perfect.",
+        "E. In addition, try to speak slowly and clearly."
       ],
-      "correct_answer": "B",
-      "explanation": "前文举例'如果你坐公交车上学，你可以复习笔记'，这是利用碎片时间的例子。B项'这为以后的其他活动节省了时间'说明了这样做的好处，符合'明智利用空闲时间'这一主题。",
+      "correct_answer": "C",
+      "explanation": "本题考查转折关系。空前讲'写下要点和细节'，空后讲'However, don't write every word...'（不要把每个字都写下来），说明此处与后文内容一致，共同构成转折关系。选项C'However, don't write every word on the paper'正好与后文完全对应，其中'However'表示转折，提醒不要写全文。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Many students find it hard to balance study and hobbies. (17)______ Here are some tips to help you.\n\nFirst, make a schedule. Write down all your school tasks and hobby time in a planner. (18)______ This way, you won't forget important deadlines or hobby classes.\n\nSecond, use your free time wisely. For example, if you take the bus to school, you can review your notes. (19)______ \n\nFinally, remember that hobbies can actually help your study. They help you relax and refresh your mind. (20)______ So, don't give up your hobbies because of too much homework."
+      "group_passage": "How to Prepare for an English Speech\n\nGiving an English speech can be challenging, but with good preparation, you can do it well. Here are some useful tips.\n\n(16)______ First, choose a topic that you are interested in. If you love the topic, you will be more confident when talking about it.\n\n(17)______ Second, organize your ideas clearly. Write down the main points and supporting details. Make sure your speech has a beginning, a middle, and an end.\n\n(18)______ However, don't write every word on the paper. Just use key words to remind yourself. If you read the whole speech, the audience will get bored.\n\n(19)______ Finally, practice makes perfect. Rehearse your speech several times before the big day. You can practice in front of a mirror or record yourself.\n\n(20)______ Remember, everyone feels nervous before speaking. Just take a deep breath and believe in yourself. Good luck!"
     },
     {
       "id": 20,
       "type": "fill",
       "knowledge_point": "sentence_fill",
-      "difficulty": 3,
-      "stem": "(20)______",
+      "difficulty": 2,
+      "stem": "(19)______",
       "options": [
-        "A. However, with good time management, you can do well in both.",
-        "B. This saves time for other activities later.",
-        "C. Then you can see clearly how to arrange your time.",
-        "D. As a result, you may feel stressed and tired.",
-        "E. For example, playing basketball for an hour can make you more focused when you return to your books."
+        "A. First, choose a topic that you are interested in.",
+        "B. Second, organize your ideas clearly.",
+        "C. However, don't write every word on the paper.",
+        "D. Finally, practice makes perfect.",
+        "E. In addition, try to speak slowly and clearly."
       ],
-      "correct_answer": "E",
-      "explanation": "前文说'爱好能帮助你放松和恢复精神'，E项'例如，打一小时篮球可以让你在回到书本时更加专注'通过具体例子说明了爱好如何帮助学习，与后文'所以不要因为作业太多而放弃爱好'形成因果关系。",
+      "correct_answer": "D",
+      "explanation": "本题考查段落衔接与顺序。空后出现'Finally, practice...'，说明此处应该是最后一步的总起句。选项D'Finally, practice makes perfect'与后文的'Finally'对应，且'practice'（练习）是准备演讲的最后一步，符合逻辑顺序。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Many students find it hard to balance study and hobbies. (17)______ Here are some tips to help you.\n\nFirst, make a schedule. Write down all your school tasks and hobby time in a planner. (18)______ This way, you won't forget important deadlines or hobby classes.\n\nSecond, use your free time wisely. For example, if you take the bus to school, you can review your notes. (19)______ \n\nFinally, remember that hobbies can actually help your study. They help you relax and refresh your mind. (20)______ So, don't give up your hobbies because of too much homework."
+      "group_passage": "How to Prepare for an English Speech\n\nGiving an English speech can be challenging, but with good preparation, you can do it well. Here are some useful tips.\n\n(16)______ First, choose a topic that you are interested in. If you love the topic, you will be more confident when talking about it.\n\n(17)______ Second, organize your ideas clearly. Write down the main points and supporting details. Make sure your speech has a beginning, a middle, and an end.\n\n(18)______ However, don't write every word on the paper. Just use key words to remind yourself. If you read the whole speech, the audience will get bored.\n\n(19)______ Finally, practice makes perfect. Rehearse your speech several times before the big day. You can practice in front of a mirror or record yourself.\n\n(20)______ Remember, everyone feels nervous before speaking. Just take a deep breath and believe in yourself. Good luck!"
     }
   ]
 }
