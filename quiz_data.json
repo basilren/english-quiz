@@ -1,5 +1,5 @@
 ﻿{
-  "date": "2026-05-02",
+  "date": "2026-05-03",
   "session_number": 1,
   "questions": [
     {
@@ -7,15 +7,15 @@
       "type": "grammar",
       "knowledge_point": "present_perfect_vs_past_simple",
       "difficulty": 2,
-      "stem": "—Have you ever ______ to the Great Wall?\n—Yes. I ______ there last summer with my family.",
+      "stem": "—I ______ the book yesterday. \n—I know. You ______ it for three days. How do you like it?",
       "options": [
-        "A. been; went",
-        "B. gone; went",
-        "C. been; have gone",
-        "D. gone; have been"
+        "A. bought; have had",
+        "B. bought; bought",
+        "C. have bought; have had",
+        "D. have bought; had"
       ],
       "correct_answer": "A",
-      "explanation": "本题考查现在完成时与一般过去时的区别。第一空：'have been to'表示'去过某地（已回来）'，'have gone to'表示'去了某地（未回来）'。根据语境，对话双方都在场，说明已返回，用'been'。第二空：'last summer'是明确的过去时间状语，只能用一般过去时'went'，不能用现在完成时。解题口诀：'过去时间用过去，经历去过用完成'。",
+      "explanation": "【考点】现在完成时 vs 一般过去时\n【解析】第一空后有明确的过去时间状语yesterday，必须用一般过去时bought；第二空后有for three days这一表示时间段的状语，强调动作从过去持续到现在，需用现在完成时have had。\n【技巧】口诀：\"yesterday用过去，for/since用完成\"。",
       "label": "语法题"
     },
     {
@@ -23,15 +23,15 @@
       "type": "grammar",
       "knowledge_point": "relative_clause_who_which",
       "difficulty": 2,
-      "stem": "The boy ______ is wearing a blue coat and riding a bike is my cousin from Hangzhou.",
+      "stem": "The boy ______ is wearing a red coat is my brother. He is studying in a school ______ was built last year.",
       "options": [
-        "A. who",
-        "B. which",
-        "C. whom",
-        "D. whose"
+        "A. who; which",
+        "B. which; who",
+        "C. whom; who",
+        "D. who; who"
       ],
       "correct_answer": "A",
-      "explanation": "本题考查定语从句关系代词的选择。先行词'the boy'指人，且在从句中作主语（is wearing...），因此用'who'。'which'用于指物；'whom'用于指人但作宾语；'whose'表示所属关系（...的）。判断技巧：先看先行词是人还是物，再看关系词在从句中充当什么成分（主语、宾语或定语）。",
+      "explanation": "【考点】定语从句（who/which/that）\n【解析】第一空先行词the boy指人，且在从句中作主语，用who；第二空先行词a school指物，且在从句中作主语，用which。that也可用于两者，但选项中A最符合。\n【技巧】\"人用who/whom，物用which，that全能用；作主语用who/which/that，作宾语可用whom/which/that/省略\"。",
       "label": "语法题"
     },
     {
@@ -39,22 +39,22 @@
       "type": "grammar",
       "knowledge_point": "passive_voice",
       "difficulty": 2,
-      "stem": "The new school library near our classroom ______ next month. It will be very modern.",
+      "stem": "These books ______ to the library by Tom tomorrow morning.",
       "options": [
-        "A. will build",
-        "B. will be built",
-        "C. is building",
-        "D. builds"
+        "A. will return",
+        "B. will be returned",
+        "C. are returning",
+        "D. returned"
       ],
       "correct_answer": "B",
-      "explanation": "本题考查一般将来时的被动语态。主语'the new school library'与动词'build'是被动关系（图书馆被建），因此必须用被动语态'be + 过去分词'。'next month'表示将来时间，所以用'will be built'。A和D是主动语态，C是现在进行时的主动语态，均不符合。解题技巧：先判断主语与动词是主动还是被动，再看时间确定时态。",
+      "explanation": "【考点】被动语态\n【解析】主语these books与return是被动关系（书被还），且时间状语tomorrow morning表示将来，故用一般将来时的被动语态will be returned。\n【技巧】被动语态结构：be + 过去分词；将来时用will be done。",
       "label": "语法题"
     },
     {
       "id": 4,
       "type": "grammar",
       "knowledge_point": "object_clause",
-      "difficulty": 3,
+      "difficulty": 2,
       "stem": "I wonder ______ Tom ______ to the party tomorrow. If he comes, I will be very happy.",
       "options": [
         "A. if; will come",
@@ -63,294 +63,284 @@
         "D. if; comes"
       ],
       "correct_answer": "A",
-      "explanation": "本题考查宾语从句的引导词和时态。第一空：'wonder'表示'想知道'，后接宾语从句表示'是否'时用'if'或'whether'，不能用'that'（that无实义，仅起连接作用）。第二空：宾语从句中'tomorrow'是将来时间状语，需用一般将来时'will come'。注意区分：if引导宾语从句时意为'是否'，引导条件状语从句时意为'如果'（主将从现）。此处是宾语从句，作wonder的宾语。",
+      "explanation": "【考点】宾语从句（that/if/whether）\n【解析】wonder表示\"想知道\"，后接疑问概念，用if或whether引导；宾语从句中tomorrow提示用将来时will come。注意if引导宾语从句表\"是否\"，引导条件状语从句才用\"主将从现\"。\n【技巧】wonder/doubt/ask后常用if/whether；宾语从句用陈述语序。",
       "label": "语法题"
     },
     {
       "id": 5,
       "type": "vocabulary",
-      "knowledge_point": "word_meaning",
-      "difficulty": 2,
-      "stem": "It's important for us to ______ the balance between study and rest during the busy exam season.",
+      "knowledge_point": "prefix_suffix",
+      "difficulty": 1,
+      "stem": "If you add the prefix \"un-\" to the word \"healthy\", you get a new word with the ______ meaning.",
       "options": [
-        "A. keep",
-        "B. hold",
-        "C. make",
-        "D. let"
+        "A. same",
+        "B. opposite",
+        "C. similar",
+        "D. wrong"
       ],
-      "correct_answer": "A",
-      "explanation": "本题考查动词词义辨析及固定搭配。'keep the balance'是固定搭配，意为'保持平衡'。'hold'强调'抓住、握住'，不与balance搭配；'make the balance'不是常用表达；'let'表示'让'，语义不符。类似搭配还有'keep healthy'（保持健康）、'keep quiet'（保持安静）。",
+      "correct_answer": "B",
+      "explanation": "【考点】前缀后缀（un-/dis-/re-）\n【解析】前缀un-表示\"不、相反\"，healthy（健康的）加un-变成unhealthy（不健康的），意思相反。\n【拓展】dis-也表示相反（如dislike, disappear），re-表示\"再次\"（如reuse, rewrite）。",
       "label": "词汇题"
     },
     {
       "id": 6,
       "type": "vocabulary",
-      "knowledge_point": "prefix_suffix",
-      "difficulty": 1,
-      "stem": "If you add the prefix 'un-' to the word 'healthy', you get a new word with the ______ meaning.",
+      "knowledge_point": "word_meaning",
+      "difficulty": 2,
+      "stem": "We need to ______ the importance of protecting the environment and take action right now.",
       "options": [
-        "A. opposite",
-        "B. same",
-        "C. similar",
-        "D. true"
+        "A. realize",
+        "B. recognize",
+        "C. understand",
+        "D. all of the above"
       ],
-      "correct_answer": "A",
-      "explanation": "本题考查前缀的构词法。前缀'un-'加在形容词前通常表示否定意义，构成反义词，如'healthy'（健康的）→'unhealthy'（不健康的），两者意思相反。其他常见否定前缀还有'dis-'（如dislike）、'im-'（如impossible）。因此'un-'改变词根的意义为相反含义。",
+      "correct_answer": "D",
+      "explanation": "【考点】词义辨析（近义词）\n【解析】realize（意识到）、recognize（认识到）、understand（理解）在此语境下都可以表达\"认识到环保重要性\"的含义，因此D选项正确。\n【技巧】完形填空中若三个选项意思相近且都符合语境，可能是\"以上都对\"。",
       "label": "词汇题"
     },
     {
       "id": 7,
       "type": "vocabulary",
       "knowledge_point": "phrasal_verbs",
-      "difficulty": 2,
-      "stem": "As good classmates, we should ______ each other and help those who are in trouble.",
+      "difficulty": 1,
+      "stem": "Please ______ the lights when you leave the classroom to save electricity.",
       "options": [
-        "A. look forward to",
-        "B. look up to",
-        "C. care about",
-        "D. cheer up"
+        "A. turn on",
+        "B. turn off",
+        "C. turn up",
+        "D. turn down"
       ],
-      "correct_answer": "C",
-      "explanation": "本题考查动词短语辨析。'care about'意为'关心、在意'，符合语境'关心彼此'。'look forward to'意为'期待'（后接名词或动名词）；'look up to'意为'尊敬、敬仰'；'cheer up'意为'使振作起来'。根据句意'帮助有困难的人'，前句应该是'互相关心'，因此选C。",
+      "correct_answer": "B",
+      "explanation": "【考点】固定搭配（phrasal verbs）\n【解析】turn on打开，turn off关闭，turn up调大（音量），turn down调小/拒绝。根据\"save electricity\"（省电）和\"leave the classroom\"（离开教室），应该关灯。\n【技巧】turn off常用于电器、水源等；turn down可表拒绝或调低音量。",
       "label": "词汇题"
     },
     {
       "id": 8,
       "type": "cloze",
-      "knowledge_point": "cloze_general",
+      "knowledge_point": "cloze_context",
       "difficulty": 2,
       "stem": "(8)______",
       "options": [
-        "A. in",
-        "B. on",
-        "C. at",
-        "D. for"
+        "A. take",
+        "B. bring",
+        "C. absorb",
+        "D. give"
       ],
-      "correct_answer": "B",
-      "explanation": "本题考查时间介词的用法。在具体的某一天（如a sunny Friday morning）前要用介词'on'。'in'用于年、月、季节或泛指的上午/下午/晚上；'at'用于具体时刻；'for'表示持续时间。解题口诀：'on天on日on星期，具体某天也用on'。",
+      "correct_answer": "C",
+      "explanation": "【考点】完形填空-语境推理\n【解析】根据上下文，垂直森林的作用是\"吸收\"二氧化碳并产生氧气。absorb意为\"吸收\"，符合环保语境。take拿走，bring带来，give给予，均不符合植物与二氧化碳的关系。\n【技巧】根据常识：植物吸收(absorb)二氧化碳，释放(release)氧气。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Waste sorting (垃圾分类) is becoming more and more important in our daily life. Last week, our school organized an activity to teach us how to sort waste properly.\n\nThe activity was held (8)______ a sunny Friday morning. A speaker from the environmental protection station came to our school. He told us that different kinds of waste should be put into different bins. For example, leftover food belongs to kitchen waste, while old newspapers and plastic bottles are recyclable waste.\n\nThen, we (9)______ into small groups to play a game. Each group got some cards with waste names written on them. We needed to put these cards into the right 'bins' on the floor. At first, we made some mistakes. My classmate Tom put a broken glass bottle into the 'harmful waste' bin, (10)______ actually it should go into the 'recyclable' bin. Our teacher explained that glass can be recycled and (11)______ to make new bottles.\n\nThrough this activity, we realized that waste sorting is (12)______ than we thought. It is a simple action, but it can make a big difference to our environment."
+      "group_passage": "Many cities around the world are trying to become greener. Last year, our city started a new project called \"Vertical Forest\". This means building towers covered with trees and plants. (8)______ carbon dioxide and produce oxygen. The project (9)______ by a famous Italian architect. (10)______ the buildings look beautiful, they also help reduce air pollution. People (11)______ live in these buildings say they feel closer to nature. I hope more cities will (12)______ this idea in the future."
     },
     {
       "id": 9,
       "type": "cloze",
-      "knowledge_point": "passive_voice",
-      "difficulty": 2,
+      "knowledge_point": "cloze_passive_voice",
+      "difficulty": 3,
       "stem": "(9)______",
       "options": [
-        "A. divided",
-        "B. were divided",
-        "C. divide",
-        "D. dividing"
+        "A. designed",
+        "B. was designed",
+        "C. designs",
+        "D. is designing"
       ],
       "correct_answer": "B",
-      "explanation": "本题考查一般过去时的被动语态。主语'we'与动词'divide'（分组）是被动关系，我们'被分成'小组，因此用被动语态'be divided'。文章整体叙述上周的活动，用过去时，所以是'were divided'。A是主动语态，C是动词原形，D是现在分词，均不能独立作谓语。",
+      "explanation": "【考点】完形填空-被动语态\n【解析】主语the project与design是被动关系（项目被设计），且last year提示用一般过去时，故用一般过去时的被动语态was designed。\n【技巧】判断被动：看主语是动作的执行者还是承受者。项目不能自己设计自己，故用被动。",
       "label": "完形填空",
-      "group": "cloze_1",
-      "group_passage": "Waste sorting (垃圾分类) is becoming more and more important in our daily life. Last week, our school organized an activity to teach us how to sort waste properly.\n\nThe activity was held (8)______ a sunny Friday morning. A speaker from the environmental protection station came to our school. He told us that different kinds of waste should be put into different bins. For example, leftover food belongs to kitchen waste, while old newspapers and plastic bottles are recyclable waste.\n\nThen, we (9)______ into small groups to play a game. Each group got some cards with waste names written on them. We needed to put these cards into the right 'bins' on the floor. At first, we made some mistakes. My classmate Tom put a broken glass bottle into the 'harmful waste' bin, (10)______ actually it should go into the 'recyclable' bin. Our teacher explained that glass can be recycled and (11)______ to make new bottles.\n\nThrough this activity, we realized that waste sorting is (12)______ than we thought. It is a simple action, but it can make a big difference to our environment."
+      "group": "cloze_1"
     },
     {
       "id": 10,
       "type": "cloze",
-      "knowledge_point": "conjunction",
+      "knowledge_point": "cloze_logic",
       "difficulty": 3,
       "stem": "(10)______",
       "options": [
-        "A. and",
-        "B. but",
-        "C. or",
-        "D. so"
+        "A. Because",
+        "B. Although",
+        "C. Not only do",
+        "D. However"
       ],
-      "correct_answer": "B",
-      "explanation": "本题考查连词的逻辑关系。前句说'Tom把破玻璃瓶放入有害垃圾箱'，后句说'实际上它应该放入可回收箱'，前后是转折关系，用'but'（但是）。'and'表并列，'or'表选择/否则，'so'表结果，均不符合语境。",
+      "correct_answer": "C",
+      "explanation": "【考点】完形填空-逻辑关系（倒装结构）\n【解析】后文有they also help...提示这是not only...but also...结构。当not only置于句首时，句子需部分倒装（助动词提前），故选Not only do。句意：这些建筑不仅看起来漂亮，还有助于减少空气污染。\n【技巧】看到also马上想到not only...but also...；注意倒装结构的使用。",
       "label": "完形填空",
-      "group": "cloze_1",
-      "group_passage": "Waste sorting (垃圾分类) is becoming more and more important in our daily life. Last week, our school organized an activity to teach us how to sort waste properly.\n\nThe activity was held (8)______ a sunny Friday morning. A speaker from the environmental protection station came to our school. He told us that different kinds of waste should be put into different bins. For example, leftover food belongs to kitchen waste, while old newspapers and plastic bottles are recyclable waste.\n\nThen, we (9)______ into small groups to play a game. Each group got some cards with waste names written on them. We needed to put these cards into the right 'bins' on the floor. At first, we made some mistakes. My classmate Tom put a broken glass bottle into the 'harmful waste' bin, (10)______ actually it should go into the 'recyclable' bin. Our teacher explained that glass can be recycled and (11)______ to make new bottles.\n\nThrough this activity, we realized that waste sorting is (12)______ than we thought. It is a simple action, but it can make a big difference to our environment."
+      "group": "cloze_1"
     },
     {
       "id": 11,
       "type": "cloze",
-      "knowledge_point": "passive_voice",
+      "knowledge_point": "cloze_relative_clause",
       "difficulty": 2,
       "stem": "(11)______",
       "options": [
-        "A. used",
-        "B. use",
-        "C. using",
-        "D. uses"
+        "A. who",
+        "B. which",
+        "C. whom",
+        "D. whose"
       ],
       "correct_answer": "A",
-      "explanation": "本题考查被动语态。主语'glass'与'use'是被动关系，且前面有'be recycled and'，and连接并列结构，因此后面也用过去分词'used'，构成'can be recycled and used'（能够被回收和用来...）。B是原形，C是现在分词，D是三单形式，均不符合被动语态结构。",
+      "explanation": "【考点】完形填空-定语从句\n【解析】先行词people指人，且在定语从句中作主语（live是谓语），故用who。whom作宾语时用，which指物，whose表所属关系。\n【技巧】定语从句缺主语且指人用who/that；缺宾语可用who/whom/that/省略。",
       "label": "完形填空",
-      "group": "cloze_1",
-      "group_passage": "Waste sorting (垃圾分类) is becoming more and more important in our daily life. Last week, our school organized an activity to teach us how to sort waste properly.\n\nThe activity was held (8)______ a sunny Friday morning. A speaker from the environmental protection station came to our school. He told us that different kinds of waste should be put into different bins. For example, leftover food belongs to kitchen waste, while old newspapers and plastic bottles are recyclable waste.\n\nThen, we (9)______ into small groups to play a game. Each group got some cards with waste names written on them. We needed to put these cards into the right 'bins' on the floor. At first, we made some mistakes. My classmate Tom put a broken glass bottle into the 'harmful waste' bin, (10)______ actually it should go into the 'recyclable' bin. Our teacher explained that glass can be recycled and (11)______ to make new bottles.\n\nThrough this activity, we realized that waste sorting is (12)______ than we thought. It is a simple action, but it can make a big difference to our environment."
+      "group": "cloze_1"
     },
     {
       "id": 12,
       "type": "cloze",
-      "knowledge_point": "comparative",
+      "knowledge_point": "cloze_context",
       "difficulty": 2,
       "stem": "(12)______",
       "options": [
-        "A. easy",
-        "B. easier",
-        "C. easiest",
-        "D. the easiest"
+        "A. refuse",
+        "B. accept",
+        "C. hate",
+        "D. leave"
       ],
       "correct_answer": "B",
-      "explanation": "本题考查形容词比较级。句中有'than'（比），这是比较级的标志词，因此要用比较级'easier'。A是原级，C和D是最高级，均不能与'than'连用。多音节形容词前加more构成比较级，但easy是双音节词，变y为i加-er。",
+      "explanation": "【考点】完形填空-语境推理\n【解析】根据前文描述垂直森林的好处，作者应是希望更多城市\"接受\"这个想法。accept接受，refuse拒绝，hate讨厌，leave离开/留下。\n【技巧】通过作者态度（positive/negative）判断词义。本文讲环保好处，故用积极词汇accept。",
       "label": "完形填空",
-      "group": "cloze_1",
-      "group_passage": "Waste sorting (垃圾分类) is becoming more and more important in our daily life. Last week, our school organized an activity to teach us how to sort waste properly.\n\nThe activity was held (8)______ a sunny Friday morning. A speaker from the environmental protection station came to our school. He told us that different kinds of waste should be put into different bins. For example, leftover food belongs to kitchen waste, while old newspapers and plastic bottles are recyclable waste.\n\nThen, we (9)______ into small groups to play a game. Each group got some cards with waste names written on them. We needed to put these cards into the right 'bins' on the floor. At first, we made some mistakes. My classmate Tom put a broken glass bottle into the 'harmful waste' bin, (10)______ actually it should go into the 'recyclable' bin. Our teacher explained that glass can be recycled and (11)______ to make new bottles.\n\nThrough this activity, we realized that waste sorting is (12)______ than we thought. It is a simple action, but it can make a big difference to our environment."
+      "group": "cloze_1"
     },
     {
       "id": 13,
       "type": "reading",
       "knowledge_point": "detail",
-      "difficulty": 2,
-      "stem": "When was the first Vertical Forest built according to the passage?",
+      "difficulty": 1,
+      "stem": "How long did the astronauts stay in space according to the passage?",
       "options": [
-        "A. In 2010",
-        "B. In 2012",
-        "C. In 2014",
-        "D. In 2016"
+        "A. Two years",
+        "B. Six months",
+        "C. One year",
+        "D. Three months"
       ],
-      "correct_answer": "C",
-      "explanation": "本题是细节理解题。根据文章第二段第二句'The first Vertical Forest was built in Milan, Italy in 2014.'可知，第一座垂直森林建于2014年。细节题解题技巧：先读题干找关键词（如first Vertical Forest, built），然后回原文定位相关句子，比对选项即可。",
+      "correct_answer": "B",
+      "explanation": "【考点】阅读-细节理解\n【解析】根据文章第一段\"Recently, three Chinese astronauts completed a six-month mission\"可知，宇航员在太空待了六个月。\n【技巧】细节题要准确定位关键词（astronauts, stay, how long），找到原文对应句。",
       "label": "阅读-细节理解",
       "group": "reading_1",
-      "group_passage": "In big cities, there are more and more tall buildings but fewer and fewer green plants. To solve this problem, Italian architect Stefano Boeri designed a special kind of building called 'Vertical Forest' (垂直森林).\n\nThese buildings look like giant trees. They are covered with thousands of plants, including trees, shrubs and flowers. The first Vertical Forest was built in Milan, Italy in 2014. It has two towers, 80 and 112 meters tall. In total, there are about 900 trees and 20,000 plants on them.\n\nMany people wonder how these plants can survive on tall buildings. Actually, each plant has its own special soil and watering system. The building's design also considers wind and sunlight. Strong winds at high places might blow down the trees, so the architects choose special tree species with deep roots.\n\nVertical Forests bring many benefits to cities. First, they absorb CO2 and produce oxygen, improving air quality. Second, they provide homes for birds and insects, increasing biodiversity. Third, they help reduce noise pollution and keep the building cool in summer.\n\nHowever, some people worry about the high cost of building and maintaining such buildings. Others are afraid that falling leaves and branches might be dangerous. Despite these concerns, more Vertical Forests are being built around the world, including in China."
+      "group_passage": "China's space station, Tiangong, has been successfully operating in space for over two years. Recently, three Chinese astronauts completed a six-month mission. They conducted many scientific experiments, including growing plants in space. The astronauts also did spacewalks to repair equipment. Many students watched the live classes given by the astronauts from space. These activities have inspired young people to learn more about science and explore the unknown."
     },
     {
       "id": 14,
       "type": "reading",
-      "knowledge_point": "word_guessing",
+      "knowledge_point": "inference",
       "difficulty": 2,
-      "stem": "What does the underlined word 'absorbing' in Paragraph 4 most probably mean?",
+      "stem": "What can we learn from the passage?",
       "options": [
-        "A. Taking in",
-        "B. Giving out",
-        "C. Turning into",
-        "D. Breaking down"
+        "A. China has the only space station in the world.",
+        "B. The space mission has inspired students' interest in science.",
+        "C. The astronauts only repaired equipment during the mission.",
+        "D. No plants can grow in the space station."
       ],
-      "correct_answer": "A",
-      "explanation": "本题是词义猜测题。根据上下文语境，第四段讲垂直森林的好处，提到'absorbing CO2 and produce oxygen'（吸收二氧化碳并产生氧气）。'absorb'与'produce'（产生）相对，应该是'吸收'的意思。'take in'表示'吸收、摄入'，与'give out'（释放）相反。解题技巧：通过并列结构'absorbing... and produce...'以及常识（植物吸收CO2释放O2）来推断词义。",
-      "label": "阅读-词义猜测",
-      "group": "reading_1",
-      "group_passage": "In big cities, there are more and more tall buildings but fewer and fewer green plants. To solve this problem, Italian architect Stefano Boeri designed a special kind of building called 'Vertical Forest' (垂直森林).\n\nThese buildings look like giant trees. They are covered with thousands of plants, including trees, shrubs and flowers. The first Vertical Forest was built in Milan, Italy in 2014. It has two towers, 80 and 112 meters tall. In total, there are about 900 trees and 20,000 plants on them.\n\nMany people wonder how these plants can survive on tall buildings. Actually, each plant has its own special soil and watering system. The building's design also considers wind and sunlight. Strong winds at high places might blow down the trees, so the architects choose special tree species with deep roots.\n\nVertical Forests bring many benefits to cities. First, they absorb CO2 and produce oxygen, improving air quality. Second, they provide homes for birds and insects, increasing biodiversity. Third, they help reduce noise pollution and keep the building cool in summer.\n\nHowever, some people worry about the high cost of building and maintaining such buildings. Others are afraid that falling leaves and branches might be dangerous. Despite these concerns, more Vertical Forests are being built around the world, including in China."
+      "correct_answer": "B",
+      "explanation": "【考点】阅读-推理判断\n【解析】根据最后一句\"These activities have inspired young people to learn more about science\"可知B正确。A错误（不是唯一的），C错误（他们还做实验、授课），D错误（文中说including growing plants）。\n【技巧】推理题要基于原文，不能过度推断，注意only/all/never等绝对化词汇通常错误。",
+      "label": "阅读-推理判断",
+      "group": "reading_1"
     },
     {
       "id": 15,
       "type": "reading",
-      "knowledge_point": "inference",
+      "knowledge_point": "word_guessing",
       "difficulty": 3,
-      "stem": "What can we learn from the passage about Vertical Forests?",
+      "stem": "What does the underlined word \"conducted\" in Paragraph 1 probably mean?",
       "options": [
-        "A. They are cheap to build and maintain",
-        "B. They have both advantages and disadvantages",
-        "C. Any kind of tree can grow well on these buildings",
-        "D. They do not need special watering systems"
+        "A. Did / carried out",
+        "B. Watched",
+        "C. Cancelled",
+        "D. Avoided"
       ],
-      "correct_answer": "B",
-      "explanation": "本题是推理判断题。文章第四段讲垂直森林的好处（吸收CO2、提供生物栖息地、减少噪音等），第五段讲人们的担忧（成本高、维护难、落叶危险等），说明垂直森林既有优点也有缺点。A与原文'high cost'矛盾；C与原文'choose special tree species'矛盾；D与原文'watering system'矛盾。推理题要注意整合全文信息，不能只看某一段。",
-      "label": "阅读-推理判断",
-      "group": "reading_1",
-      "group_passage": "In big cities, there are more and more tall buildings but fewer and fewer green plants. To solve this problem, Italian architect Stefano Boeri designed a special kind of building called 'Vertical Forest' (垂直森林).\n\nThese buildings look like giant trees. They are covered with thousands of plants, including trees, shrubs and flowers. The first Vertical Forest was built in Milan, Italy in 2014. It has two towers, 80 and 112 meters tall. In total, there are about 900 trees and 20,000 plants on them.\n\nMany people wonder how these plants can survive on tall buildings. Actually, each plant has its own special soil and watering system. The building's design also considers wind and sunlight. Strong winds at high places might blow down the trees, so the architects choose special tree species with deep roots.\n\nVertical Forests bring many benefits to cities. First, they absorb CO2 and produce oxygen, improving air quality. Second, they provide homes for birds and insects, increasing biodiversity. Third, they help reduce noise pollution and keep the building cool in summer.\n\nHowever, some people worry about the high cost of building and maintaining such buildings. Others are afraid that falling leaves and branches might be dangerous. Despite these concerns, more Vertical Forests are being built around the world, including in China."
+      "correct_answer": "A",
+      "explanation": "【考点】阅读-词义猜测\n【解析】根据上下文\"They conducted many scientific experiments\"，与experiments（实验）搭配的应该是\"做/进行\"实验。conduct experiments = do/carry out experiments（进行实验）。\n【技巧】词义猜测看搭配：动词看宾语，名词看定语。通过实验（experiments）可推测conduct意为\"进行\"。",
+      "label": "阅读-词义猜测",
+      "group": "reading_1"
     },
     {
       "id": 16,
       "type": "reading",
       "knowledge_point": "main_idea",
-      "difficulty": 2,
-      "stem": "What is the writer's attitude towards Vertical Forests?",
+      "difficulty": 3,
+      "stem": "What is the writer's main purpose in writing this passage?",
       "options": [
-        "A. Worried and doubtful",
-        "B. Uninterested and uncaring",
-        "C. Supportive and positive",
-        "D. Unsure and unclear"
+        "A. To teach us how to build a space station.",
+        "B. To explain the importance of spacewalks.",
+        "C. To introduce China's recent space mission and its positive influence.",
+        "D. To show how to grow plants in space."
       ],
       "correct_answer": "C",
-      "explanation": "本题考查作者态度。虽然文章提到了垂直森林的一些缺点（第五段），但最后一句'Despite these concerns, more Vertical Forests are being built around the world'（尽管有担忧，但越来越多垂直森林在建造）表明作者对这种建筑持支持态度。此外，文章用大量篇幅介绍其环保益处，整体基调是积极的。解题技巧：关注文章首尾段和转折词后的内容，'despite'（尽管）强调后半句的内容更重要。",
-      "label": "阅读-作者态度",
-      "group": "reading_1",
-      "group_passage": "In big cities, there are more and more tall buildings but fewer and fewer green plants. To solve this problem, Italian architect Stefano Boeri designed a special kind of building called 'Vertical Forest' (垂直森林).\n\nThese buildings look like giant trees. They are covered with thousands of plants, including trees, shrubs and flowers. The first Vertical Forest was built in Milan, Italy in 2014. It has two towers, 80 and 112 meters tall. In total, there are about 900 trees and 20,000 plants on them.\n\nMany people wonder how these plants can survive on tall buildings. Actually, each plant has its own special soil and watering system. The building's design also considers wind and sunlight. Strong winds at high places might blow down the trees, so the architects choose special tree species with deep roots.\n\nVertical Forests bring many benefits to cities. First, they absorb CO2 and produce oxygen, improving air quality. Second, they provide homes for birds and insects, increasing biodiversity. Third, they help reduce noise pollution and keep the building cool in summer.\n\nHowever, some people worry about the high cost of building and maintaining such buildings. Others are afraid that falling leaves and branches might be dangerous. Despite these concerns, more Vertical Forests are being built around the world, including in China."
+      "explanation": "【考点】阅读-主旨大意\n【解析】文章主要介绍了中国空间站近期的一次任务（六个月的驻留、实验、太空授课），以及这些活动对年轻人的积极影响（inspired young people）。C选项最全面。A、B、D都只是细节。\n【技巧】主旨题要涵盖全文，不能只讲细节；注意首段和尾段，通常包含主题。",
+      "label": "阅读-主旨大意",
+      "group": "reading_1"
     },
     {
       "id": 17,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "stem": "(16)______",
+      "stem": "(17)______",
       "options": [
-        "A. First, choose a topic that you are interested in.",
-        "B. Second, organize your ideas clearly.",
-        "C. However, don't write every word on the paper.",
-        "D. Finally, practice makes perfect.",
-        "E. In addition, try to speak slowly and clearly."
+        "A. However, few students were interested in it.",
+        "B. The activities were varied and exciting.",
+        "C. It lasted for only one hour.",
+        "D. As a result, students became bored with it.",
+        "E. Then, the principal gave a long speech."
       ],
-      "correct_answer": "A",
-      "explanation": "本题考查段落衔接与逻辑顺序。空后提到'First, choose...'，说明此处应该是演讲准备的第一步。选项A'First, choose a topic...'与后文的'First'呼应，且'choose a topic'（选话题）是准备演讲的第一步，符合逻辑顺序。",
+      "correct_answer": "B",
+      "explanation": "【考点】短文填空-段落衔接\n【解析】前文说\"非常成功\"，后文列举\"机器人表演、科学实验、有趣讲座\"，中间需要过渡句说明活动丰富有趣。B项\"活动多样且令人兴奋\"承上启下。A、D表负面，与\"成功\"矛盾；C与后文列举不符；E与后文列举的活动不协调。\n【技巧】注意情感线索：great success → varied and exciting → 具体例子。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "How to Prepare for an English Speech\n\nGiving an English speech can be challenging, but with good preparation, you can do it well. Here are some useful tips.\n\n(16)______ First, choose a topic that you are interested in. If you love the topic, you will be more confident when talking about it.\n\n(17)______ Second, organize your ideas clearly. Write down the main points and supporting details. Make sure your speech has a beginning, a middle, and an end.\n\n(18)______ However, don't write every word on the paper. Just use key words to remind yourself. If you read the whole speech, the audience will get bored.\n\n(19)______ Finally, practice makes perfect. Rehearse your speech several times before the big day. You can practice in front of a mirror or record yourself.\n\n(20)______ Remember, everyone feels nervous before speaking. Just take a deep breath and believe in yourself. Good luck!"
+      "group_passage": "Last month, our school held a Science Week. It was a great success. (17)______. There were robot shows, science experiments, and interesting lectures. Students could try different experiments by themselves. (18)______. For example, they made volcanoes erupt using baking soda and vinegar. (19)______. Many students said they wanted to become scientists in the future. The teachers were also happy to see such enthusiasm. (20)______. I hope our school will organize more activities like this next year."
     },
     {
       "id": 18,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "stem": "(17)______",
+      "stem": "(18)______",
       "options": [
-        "A. First, choose a topic that you are interested in.",
-        "B. Second, organize your ideas clearly.",
-        "C. However, don't write every word on the paper.",
-        "D. Finally, practice makes perfect.",
-        "E. In addition, try to speak slowly and clearly."
+        "A. On the other hand, teachers didn't participate at all.",
+        "B. In addition, they watched boring videos in the classroom.",
+        "C. These hands-on activities were both fun and educational.",
+        "D. However, no one enjoyed the experiments.",
+        "E. Then, everyone went home immediately."
       ],
-      "correct_answer": "B",
-      "explanation": "本题考查段落衔接。空后出现'Second, organize...'，说明此处应该是第二步的总起句。选项B'Second, organize your ideas clearly'与后文的'Second'完全对应，且'organize ideas'（组织思路）是选好话题后的第二步，逻辑连贯。",
+      "correct_answer": "C",
+      "explanation": "【考点】短文填空-逻辑关系（递进）\n【解析】前文说学生可以亲自做实验，后文举例说明（火山实验），中间需要评价这些活动。C项\"这些实践活动既有趣又有教育意义\"承上启下。A、B、D、E都带有负面或中性色彩，与上下文积极氛围不符。\n【技巧】注意代词指代：these hands-on activities指代前文的try different experiments themselves。",
       "label": "短文填空",
-      "group": "fill_1",
-      "group_passage": "How to Prepare for an English Speech\n\nGiving an English speech can be challenging, but with good preparation, you can do it well. Here are some useful tips.\n\n(16)______ First, choose a topic that you are interested in. If you love the topic, you will be more confident when talking about it.\n\n(17)______ Second, organize your ideas clearly. Write down the main points and supporting details. Make sure your speech has a beginning, a middle, and an end.\n\n(18)______ However, don't write every word on the paper. Just use key words to remind yourself. If you read the whole speech, the audience will get bored.\n\n(19)______ Finally, practice makes perfect. Rehearse your speech several times before the big day. You can practice in front of a mirror or record yourself.\n\n(20)______ Remember, everyone feels nervous before speaking. Just take a deep breath and believe in yourself. Good luck!"
+      "group": "fill_1"
     },
     {
       "id": 19,
       "type": "fill",
       "knowledge_point": "sentence_fill",
-      "difficulty": 3,
-      "stem": "(18)______",
+      "difficulty": 2,
+      "stem": "(19)______",
       "options": [
-        "A. First, choose a topic that you are interested in.",
-        "B. Second, organize your ideas clearly.",
-        "C. However, don't write every word on the paper.",
-        "D. Finally, practice makes perfect.",
-        "E. In addition, try to speak slowly and clearly."
+        "A. Unfortunately, the week ended with a terrible accident.",
+        "B. As a result, many students lost interest in science.",
+        "C. The event greatly inspired students' interest in science.",
+        "D. On the contrary, students decided to give up science.",
+        "E. Besides, nothing special happened during the week."
       ],
       "correct_answer": "C",
-      "explanation": "本题考查转折关系。空前讲'写下要点和细节'，空后讲'However, don't write every word...'（不要把每个字都写下来），说明此处与后文内容一致，共同构成转折关系。选项C'However, don't write every word on the paper'正好与后文完全对应，其中'However'表示转折，提醒不要写全文。",
+      "explanation": "【考点】短文填空-因果关系\n【解析】后文说\"许多学生说将来想成为科学家\"，这是前文活动带来的结果。C项\"这次活动极大地激发了学生对科学的兴趣\"引出后文。A、B、D、E均为负面或中性，与后文矛盾。\n【技巧】注意连接词：as a result表结果；however/on the contrary表转折；in addition表递进。",
       "label": "短文填空",
-      "group": "fill_1",
-      "group_passage": "How to Prepare for an English Speech\n\nGiving an English speech can be challenging, but with good preparation, you can do it well. Here are some useful tips.\n\n(16)______ First, choose a topic that you are interested in. If you love the topic, you will be more confident when talking about it.\n\n(17)______ Second, organize your ideas clearly. Write down the main points and supporting details. Make sure your speech has a beginning, a middle, and an end.\n\n(18)______ However, don't write every word on the paper. Just use key words to remind yourself. If you read the whole speech, the audience will get bored.\n\n(19)______ Finally, practice makes perfect. Rehearse your speech several times before the big day. You can practice in front of a mirror or record yourself.\n\n(20)______ Remember, everyone feels nervous before speaking. Just take a deep breath and believe in yourself. Good luck!"
+      "group": "fill_1"
     },
     {
       "id": 20,
       "type": "fill",
       "knowledge_point": "sentence_fill",
-      "difficulty": 2,
-      "stem": "(19)______",
+      "difficulty": 3,
+      "stem": "(20)______",
       "options": [
-        "A. First, choose a topic that you are interested in.",
-        "B. Second, organize your ideas clearly.",
-        "C. However, don't write every word on the paper.",
-        "D. Finally, practice makes perfect.",
-        "E. In addition, try to speak slowly and clearly."
+        "A. However, it was a complete waste of time.",
+        "B. In conclusion, Science Week was a meaningful experience for everyone.",
+        "C. On the other hand, we should stop organizing such activities.",
+        "D. Then, the school closed for a week.",
+        "E. As a result, everyone felt disappointed."
       ],
-      "correct_answer": "D",
-      "explanation": "本题考查段落衔接与顺序。空后出现'Finally, practice...'，说明此处应该是最后一步的总起句。选项D'Finally, practice makes perfect'与后文的'Finally'对应，且'practice'（练习）是准备演讲的最后一步，符合逻辑顺序。",
+      "correct_answer": "B",
+      "explanation": "【考点】短文填空-总结句\n【解析】此处位于文末，后文说\"希望学校明年组织更多此类活动\"，说明作者对活动持肯定态度。B项\"总之，科学周对每个人来说都是一次有意义的经历\"总结全文并呼应后文。其他选项均为负面或无关。\n【技巧】文章结尾通常用in conclusion, in short, all in all等总结；情感色彩要与全文一致（本文为positive）。",
       "label": "短文填空",
-      "group": "fill_1",
-      "group_passage": "How to Prepare for an English Speech\n\nGiving an English speech can be challenging, but with good preparation, you can do it well. Here are some useful tips.\n\n(16)______ First, choose a topic that you are interested in. If you love the topic, you will be more confident when talking about it.\n\n(17)______ Second, organize your ideas clearly. Write down the main points and supporting details. Make sure your speech has a beginning, a middle, and an end.\n\n(18)______ However, don't write every word on the paper. Just use key words to remind yourself. If you read the whole speech, the audience will get bored.\n\n(19)______ Finally, practice makes perfect. Rehearse your speech several times before the big day. You can practice in front of a mirror or record yourself.\n\n(20)______ Remember, everyone feels nervous before speaking. Just take a deep breath and believe in yourself. Good luck!"
+      "group": "fill_1"
     }
   ]
 }
