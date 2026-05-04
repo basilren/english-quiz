@@ -1,198 +1,356 @@
 ﻿{
-  "date": "2026-05-04",
+  "date": "2026-05-05",
   "session_number": 1,
-  "day": 29,
-  "difficulty": {"grammar": 2, "vocabulary": 2, "cloze": 3, "reading": 2, "fill": 2},
   "questions": [
     {
       "id": 1,
       "type": "grammar",
-      "group": "grammar_single_1",
-      "knowledge_point": "present_perfect",
-      "stem": "-- How long have you _____ the book?\n-- For two weeks.",
-      "options": ["A. borrowed", "B. kept", "C. bought", "D. taken"],
-      "correct_answer": "B",
-      "explanation": "how long 提问持续的时间段，需要延续性动词。borrow 是非延续性动词，不能与 for 连用，其对应的延续性动词是 keep。buy->have, borrow->keep, join->be in, begin->be on。"
+      "knowledge_point": "present_perfect_vs_past_simple",
+      "difficulty": 2,
+      "stem": "My father ______ to Beijing twice. He ______ there last month for a business trip.",
+      "options": [
+        "A. has been; went",
+        "B. has gone; went",
+        "C. went; has been",
+        "D. has been; has gone"
+      ],
+      "correct_answer": "A",
+      "explanation": "第一空选has been是因为'have been to'表示'去过某地（已经回来）'，而'have gone to'表示'去了某地（还没回来）'，根据twice（两次）可知是去过已回的经历；第二空选went是因为last month（上个月）是明确的过去时间状语，必须用一般过去时。口诀：have been表经历（人回来），have gone表去了（人没回）；过去时间是过去时的标志。",
+      "label": "语法题"
     },
     {
       "id": 2,
       "type": "grammar",
-      "group": "grammar_single_2",
-      "knowledge_point": "present_perfect",
-      "stem": "My uncle _____ to Shanghai. He will come back next month.",
-      "options": ["A. has been", "B. has gone", "C. went", "D. will go"],
-      "correct_answer": "B",
-      "explanation": "has gone to 表示'去了某地还没回来'，后文说'下个月才回来'，说明人还在上海。has been to 表示'去过某地已经回来了'。根据 will come back next month 可知人还没回来，选 has gone to。"
+      "knowledge_point": "relative_clause_who_which",
+      "difficulty": 2,
+      "stem": "The boy ______ is reading a book over there is my classmate. He is very interested in science.",
+      "options": [
+        "A. who",
+        "B. which",
+        "C. whom",
+        "D. whose"
+      ],
+      "correct_answer": "A",
+      "explanation": "考查定语从句关系代词的选择。先行词是the boy（指人），且关系代词在从句中作主语（is reading的主语），因此用who。which用于指物；whom用于指人但作宾语；whose表示'谁的'，在从句中作定语。判断技巧：先看先行词是人还是物，再看空格在从句中充当什么成分（主语、宾语还是定语）。",
+      "label": "语法题"
     },
     {
       "id": 3,
       "type": "grammar",
-      "group": "grammar_single_3",
-      "knowledge_point": "object_clause",
-      "stem": "I wonder _____ the sports meeting will be held next week.",
-      "options": ["A. that", "B. if", "C. what", "D. which"],
-      "correct_answer": "B",
-      "explanation": "宾语从句表示'是否'用 if 或 whether 引导。句意是'我想知道运动会下周是否会举行'，表示不确定，用 if。that 引导确定的陈述；what/which 需作从句成分，此处从句完整不缺成分。"
+      "knowledge_point": "passive_voice",
+      "difficulty": 1,
+      "stem": "These old books ______ to the school library yesterday afternoon.",
+      "options": [
+        "A. returned",
+        "B. are returned",
+        "C. were returned",
+        "D. return"
+      ],
+      "correct_answer": "C",
+      "explanation": "考查一般过去时的被动语态。主语books（书）是被归还的对象，因此要用被动语态（be + done）；yesterday afternoon（昨天下午）是过去时间状语，所以be动词用were。结构为：were + returned。A和D是主动语态，B是一般现在时的被动，时态不符。解题步骤：先判断主动/被动（书被还→被动），再判断时态（yesterday→过去时）。",
+      "label": "语法题"
     },
     {
       "id": 4,
       "type": "grammar",
-      "group": "grammar_single_4",
       "knowledge_point": "object_clause",
-      "stem": "Could you tell me _____?\nI want to post a letter.",
-      "options": ["A. where is the post office", "B. where the post office is", "C. where was the post office", "D. where the post office was"],
+      "difficulty": 3,
+      "stem": "Could you tell me ______? I need to send a package urgently.",
+      "options": [
+        "A. where is the nearest post office",
+        "B. where the nearest post office is",
+        "C. where does the nearest post office lie",
+        "D. where the nearest post office does lie"
+      ],
       "correct_answer": "B",
-      "explanation": "宾语从句必须用陈述语序（主语+谓语），排除 A（疑问语序）。句意是现在要去邮寄，问的是邮局现在的位置，用一般现在时，排除 C/D（过去时）。答案 B 陈述语序+一般现在时。"
+      "explanation": "考查宾语从句的语序。宾语从句必须使用陈述句语序（主语+谓语），不能用疑问句语序（助动词/系动词+主语）。A和C都是疑问句语序（is在主语前/does在主语前），D多了多余的助动词does。正确结构是：连接词where + 主语the nearest post office + 谓语is。口诀：宾语从句用陈述，主语谓语不分离。",
+      "label": "语法题"
     },
     {
       "id": 5,
-      "type": "grammar",
-      "group": "grammar_single_5",
-      "knowledge_point": "relative_clause",
-      "stem": "The girl _____ is wearing a red dress is my sister.",
-      "options": ["A. which", "B. who", "C. whom", "D. what"],
-      "correct_answer": "B",
-      "explanation": "定语从句中先行词是 the girl（人），且在从句中作主语（_____ is wearing），关系代词用 who。which 修饰物；whom 作宾语；what 不引导定语从句。"
+      "type": "vocabulary",
+      "knowledge_point": "prefix_un_dis",
+      "difficulty": 1,
+      "stem": "If you add the prefix 'un-' to the word 'fair', you get a new word with the opposite meaning. Similarly, 'uncomfortable' means ______.",
+      "options": [
+        "A. not comfortable",
+        "B. very comfortable",
+        "C. more comfortable",
+        "D. less comfortable"
+      ],
+      "correct_answer": "A",
+      "explanation": "考查前缀un-的含义。un-是常见的否定前缀，表示'不、无、相反'的意思。fair（公平的）→unfair（不公平的），comfortable（舒适的）→uncomfortable（不舒适的）。其他选项：very表示'非常'，more表示'更'，less表示'较少'，都不符合un-的构词规则。常见un-前缀词：unhappy, unhealthy, unable, unusual等。",
+      "label": "词汇题"
     },
     {
       "id": 6,
       "type": "vocabulary",
-      "group": "vocab_single_1",
-      "knowledge_point": "word_form",
-      "stem": "The children were very _____ (excite) about the school trip.",
-      "options": ["A. excite", "B. excited", "C. exciting", "D. excitement"],
+      "knowledge_point": "word_meaning_context",
+      "difficulty": 2,
+      "stem": "We should ______ every drop of water in our daily life because water resources are limited and precious.",
+      "options": [
+        "A. treasure",
+        "B. save",
+        "C. waste",
+        "D. value"
+      ],
       "correct_answer": "B",
-      "explanation": "-ed 形容词修饰人的感受（感到激动的），-ing 形容词修饰物的特征（令人激动的）。这里主语是 children（人），用 excited。类似的：interested/interesting, surprised/surprising, bored/boring。"
+      "explanation": "考查动词词义辨析。save表示'节约、节省'，常与water/money/time搭配，表示节约资源；treasure和value都表示'珍惜、珍视'，虽然意思相关，但不如save直接表示'节约用水'这一动作；waste（浪费）与句意相反。根据上下文'水资源有限'可知，这里强调的是'节约'每一滴水。固定搭配：save water/resources。",
+      "label": "词汇题"
     },
     {
       "id": 7,
       "type": "vocabulary",
-      "group": "vocab_single_2",
-      "knowledge_point": "phrase_collocation",
-      "stem": "We should _____ the problem as soon as possible.",
-      "options": ["A. deal with", "B. deal for", "C. deal on", "D. deal at"],
+      "knowledge_point": "phrasal_verbs",
+      "difficulty": 2,
+      "stem": "It's raining heavily outside. Please ______ your raincoat before you go out, or you will get wet.",
+      "options": [
+        "A. put on",
+        "B. put off",
+        "C. put away",
+        "D. put up"
+      ],
       "correct_answer": "A",
-      "explanation": "deal with 是固定搭配，意为'处理，应对'。句意：我们应该尽快处理这个问题。类似的常见搭配：look after（照顾）, take care of（照料）, depend on（依赖）。"
+      "explanation": "考查put短语动词辨析。put on表示'穿上（衣物）'；put off表示'推迟、拖延'；put away表示'把...收起来、放好'；put up表示'张贴、搭建、举起'。根据语境'外面下大雨'和'雨衣'，应该是'穿上'雨衣。短语动词要结合介词/副词的含义记忆：on表示'上身'，off表示'离开/取消'，away表示'远离'，up表示'向上'。",
+      "label": "词汇题"
     },
     {
       "id": 8,
       "type": "cloze",
-      "group": "cloze_day29",
-      "group_passage": "Last summer, our school organized a weekend camping trip to the mountains. At first, most of us were (8)_____ about sleeping outdoors because we had never done it before.\n\nOn the first night, our teacher Mr. Wang taught us how to set up tents. Some students (9)_____ quickly, but my group had a lot of trouble. Our tent kept falling down. I wanted to give up, but my friend Jack said, 'Don't worry. Let me (10)_____ the instructions again.' After reading them carefully, we finally put it up correctly.\n\nLater that night, we sat around the campfire and shared stories. I was surprised to find that even the (11)_____ students in our class became talkative and friendly. The camping trip taught me that working together and being (12)_____ with each other can make difficult things easy.",
-      "stem": "(8)",
-      "options": ["A. nervous", "B. proud", "C. bored", "D. angry"],
+      "knowledge_point": "cloze_general",
+      "difficulty": 2,
+      "group": "cloze_1",
+      "group_passage": "Last month, our class started an environmental project called \"Green Campus\". We wanted to find ways to make our school more eco-friendly and reduce waste.\n\nFirst, we (8)______ a survey among 200 students. We asked them about their daily habits, such as how they dealt with waste and whether they saved water. The results were surprising. Most students (9)______ about environmental problems, but few took real action in their daily lives.\n\nThen we decided to make changes. We put up colorful posters to remind everyone to turn off lights when leaving classrooms. We also set up recycling bins in each classroom for paper and plastic. To our joy, more and more students (10)______ in this activity and started sorting their garbage.\n\nThe most successful part was the \"No Plastic Week\". During that week, students tried not to use plastic bags or bottles. It was difficult at first, but everyone felt proud when they (11)______ it. We collected over 500 plastic bottles for recycling.\n\nNow, our school has become much cleaner. This project taught us that small actions can make a big (12)______. We plan to continue our work next term and expand it to the whole neighborhood.",
+      "stem": "(8)______",
+      "options": [
+        "A. did",
+        "B. made",
+        "C. took",
+        "D. had"
+      ],
       "correct_answer": "A",
-      "explanation": "后文说'因为我们从未在户外睡过觉'，第一次做没做过的事情会感到'紧张的'(nervous)。proud 骄傲的、bored 无聊的、angry 生气的，都不符合'从未尝试过'的心理反应。"
+      "explanation": "考查固定搭配'do a survey'（做调查）。这是英语中的习惯搭配，虽然中文可以说'做一个调查'，但英文固定用do而不是make。make通常与decision, plan, mistake等搭配；take通常与photo, exam, risk等搭配；have表示'拥有'。完形填空要注意动词与名词的搭配习惯。",
+      "label": "完形填空"
     },
     {
       "id": 9,
       "type": "cloze",
-      "group": "cloze_day29",
-      "stem": "(9)",
-      "options": ["A. changed", "B. returned", "C. succeeded", "D. refused"],
+      "knowledge_point": "cloze_general",
+      "difficulty": 2,
+      "group": "cloze_1",
+      "group_passage": "Last month, our class started an environmental project called \"Green Campus\". We wanted to find ways to make our school more eco-friendly and reduce waste.\n\nFirst, we (8)______ a survey among 200 students. We asked them about their daily habits, such as how they dealt with waste and whether they saved water. The results were surprising. Most students (9)______ about environmental problems, but few took real action in their daily lives.\n\nThen we decided to make changes. We put up colorful posters to remind everyone to turn off lights when leaving classrooms. We also set up recycling bins in each classroom for paper and plastic. To our joy, more and more students (10)______ in this activity and started sorting their garbage.\n\nThe most successful part was the \"No Plastic Week\". During that week, students tried not to use plastic bags or bottles. It was difficult at first, but everyone felt proud when they (11)______ it. We collected over 500 plastic bottles for recycling.\n\nNow, our school has become much cleaner. This project taught us that small actions can make a big (12)______. We plan to continue our work next term and expand it to the whole neighborhood.",
+      "stem": "(9)______",
+      "options": [
+        "A. worried",
+        "B. cared",
+        "C. knew",
+        "D. thought"
+      ],
       "correct_answer": "C",
-      "explanation": "句意：有些学生很快就成功了（搭好帐篷），但我们组遇到了很多麻烦。succeed 成功，与后面 my group had a lot of trouble 形成对比。changed 改变、returned 返回、refused 拒绝都不符合搭帐篷的语境。"
+      "explanation": "考查动词词义及语境理解。根据but转折后的'few took real action'（很少采取行动）可知，前面应该是'大多数学生了解环境问题'。know about表示'了解、知道'；worry about表示'担心'；care about表示'关心'；think about表示'考虑'。从调查结果'令人惊讶'来看，学生们是'知道'问题但不行动，而非'关心'却不行动，后者逻辑上不太合理。",
+      "label": "完形填空"
     },
     {
       "id": 10,
       "type": "cloze",
-      "group": "cloze_day29",
-      "stem": "(10)",
-      "options": ["A. forget", "B. check", "C. copy", "D. throw"],
+      "knowledge_point": "cloze_general",
+      "difficulty": 1,
+      "group": "cloze_1",
+      "group_passage": "Last month, our class started an environmental project called \"Green Campus\". We wanted to find ways to make our school more eco-friendly and reduce waste.\n\nFirst, we (8)______ a survey among 200 students. We asked them about their daily habits, such as how they dealt with waste and whether they saved water. The results were surprising. Most students (9)______ about environmental problems, but few took real action in their daily lives.\n\nThen we decided to make changes. We put up colorful posters to remind everyone to turn off lights when leaving classrooms. We also set up recycling bins in each classroom for paper and plastic. To our joy, more and more students (10)______ in this activity and started sorting their garbage.\n\nThe most successful part was the \"No Plastic Week\". During that week, students tried not to use plastic bags or bottles. It was difficult at first, but everyone felt proud when they (11)______ it. We collected over 500 plastic bottles for recycling.\n\nNow, our school has become much cleaner. This project taught us that small actions can make a big (12)______. We plan to continue our work next term and expand it to the whole neighborhood.",
+      "stem": "(10)______",
+      "options": [
+        "A. joined",
+        "B. took part",
+        "C. attended",
+        "D. entered"
+      ],
       "correct_answer": "B",
-      "explanation": "Jack 说'让我再检查一下说明书'。帐篷搭不好时，重新 check（检查/核对）说明书是合理的做法。forget 忘记、copy 抄写、throw 扔掉，都不合逻辑。"
+      "explanation": "考查表示'参加'的动词辨析。take part in是固定搭配，表示'参加（活动）'；join通常指加入组织、团队或人群（如join the army/club）；attend指出席、参加会议、课程等；enter指进入某个空间或参加比赛。空格后有in，只有take part能与in搭配。解题技巧：看空格后是否有in，有in则选take part。",
+      "label": "完形填空"
     },
     {
       "id": 11,
       "type": "cloze",
-      "group": "cloze_day29",
-      "stem": "(11)",
-      "options": ["A. smartest", "B. tallest", "C. quietest", "D. youngest"],
-      "correct_answer": "C",
-      "explanation": "后文说'变得健谈和友好'(became talkative and friendly)，形成反差的应该是'最安静的'(quietest)学生。最聪明/最高/最小的学生变得健谈没有明显的逻辑反差。"
+      "knowledge_point": "cloze_general",
+      "difficulty": 1,
+      "group": "cloze_1",
+      "group_passage": "Last month, our class started an environmental project called \"Green Campus\". We wanted to find ways to make our school more eco-friendly and reduce waste.\n\nFirst, we (8)______ a survey among 200 students. We asked them about their daily habits, such as how they dealt with waste and whether they saved water. The results were surprising. Most students (9)______ about environmental problems, but few took real action in their daily lives.\n\nThen we decided to make changes. We put up colorful posters to remind everyone to turn off lights when leaving classrooms. We also set up recycling bins in each classroom for paper and plastic. To our joy, more and more students (10)______ in this activity and started sorting their garbage.\n\nThe most successful part was the \"No Plastic Week\". During that week, students tried not to use plastic bags or bottles. It was difficult at first, but everyone felt proud when they (11)______ it. We collected over 500 plastic bottles for recycling.\n\nNow, our school has become much cleaner. This project taught us that small actions can make a big (12)______. We plan to continue our work next term and expand it to the whole neighborhood.",
+      "stem": "(11)______",
+      "options": [
+        "A. finished",
+        "B. completed",
+        "C. did",
+        "D. achieved"
+      ],
+      "correct_answer": "A",
+      "explanation": "考查动词与代词it的搭配。finish it表示'完成了这件事/活动'，是常用口语表达；complete虽然也表示'完成'，但通常接task, project, work等具体名词；do it表示'做这件事'，但前文说'一开始很难'，所以这里应该是'完成'而非'做'；achieve通常接goal, success, dream等，不接it指代活动。根据上下文'感到自豪'，应该是坚持完成了这一周。",
+      "label": "完形填空"
     },
     {
       "id": 12,
       "type": "cloze",
-      "group": "cloze_day29",
-      "stem": "(12)",
-      "options": ["A. strict", "B. angry", "C. patient", "D. busy"],
+      "knowledge_point": "cloze_general",
+      "difficulty": 2,
+      "group": "cloze_1",
+      "group_passage": "Last month, our class started an environmental project called \"Green Campus\". We wanted to find ways to make our school more eco-friendly and reduce waste.\n\nFirst, we (8)______ a survey among 200 students. We asked them about their daily habits, such as how they dealt with waste and whether they saved water. The results were surprising. Most students (9)______ about environmental problems, but few took real action in their daily lives.\n\nThen we decided to make changes. We put up colorful posters to remind everyone to turn off lights when leaving classrooms. We also set up recycling bins in each classroom for paper and plastic. To our joy, more and more students (10)______ in this activity and started sorting their garbage.\n\nThe most successful part was the \"No Plastic Week\". During that week, students tried not to use plastic bags or bottles. It was difficult at first, but everyone felt proud when they (11)______ it. We collected over 500 plastic bottles for recycling.\n\nNow, our school has become much cleaner. This project taught us that small actions can make a big (12)______. We plan to continue our work next term and expand it to the whole neighborhood.",
+      "stem": "(12)______",
+      "options": [
+        "A. decision",
+        "B. progress",
+        "C. difference",
+        "D. change"
+      ],
       "correct_answer": "C",
-      "explanation": "句意：合作和彼此有耐心(patient)可以让困难的事情变简单。前文搭帐篷时Jack耐心地重新看说明书帮助了大家，呼应 patient。strict 严格、angry 生气、busy 忙碌都不符合'让困难变容易'的主旨。"
+      "explanation": "考查固定搭配make a difference（产生影响、起作用）。这是英语中的固定短语，表示小的行动能产生大的影响。make progress表示'取得进步'，但通常说make great progress，不与big搭配；make a decision表示'做决定'；make a change表示'做出改变'，虽然意思通顺，但make a difference是更地道的表达，强调'有影响、有意义'，符合文章主题'小行动大意义'。",
+      "label": "完形填空"
     },
     {
       "id": 13,
       "type": "reading",
-      "group": "reading_day29",
-      "group_passage": "Have you ever heard of 'plogging'? It is a fitness trend that started in Sweden around 2016. The word 'plogging' comes from the Swedish phrase 'plocka upp' (pick up) and 'jogging'. When people go plogging, they jog and pick up litter at the same time.\n\nPlogging has become popular worldwide because it combines exercise with helping the environment. According to research, plogging burns about 288 calories per half hour, which is more than regular jogging (235 calories). This is because ploggers bend down, squat, and stretch to pick up rubbish while running.\n\nMany cities have organized plogging events. In 2018, over 20,000 people in 100 countries took part in a global plogging day. Participants often share photos of the rubbish bags they collect on social media, inspiring others to join.\n\nHowever, some experts point out that plogging alone cannot solve the plastic pollution problem. They believe governments should pass stricter laws to reduce waste at its source. Still, supporters argue that plogging raises environmental awareness and encourages people to think more carefully about how they treat the planet.",
-      "stem": "According to the passage, plogging burns more calories than regular jogging because _____.",
-      "options": ["A. ploggers run faster than regular joggers", "B. ploggers carry heavy rubbish bags while running", "C. ploggers do extra body movements like bending and squatting", "D. ploggers run longer distances each time"],
-      "correct_answer": "C",
-      "explanation": "原文第二段明确说：This is because ploggers bend down, squat, and stretch to pick up rubbish while running。消耗更多卡路里的原因是弯腰、深蹲、伸展等额外动作，对应选项 C。A/B/D 原文没有提到。"
+      "knowledge_point": "detail",
+      "difficulty": 2,
+      "group": "reading_1",
+      "group_passage": "When David Chen, a 14-year-old student from Shenzhen, noticed that his grandmother had difficulty watering plants on their balcony, he came up with a clever idea. He designed a simple but useful device that could water plants automatically.\n\nDavid's invention, called \"Smart Watering Helper\", uses sensors to check the soil moisture (湿度). When the soil becomes too dry, the device automatically waters the plants. It stops when the soil is wet enough. \"I wanted to help elderly people who love gardening but find it hard to bend down frequently,\" David explained.\n\nThe device is made from recycled materials, including old plastic bottles and electronic parts from broken toys. David spent three months building and testing it. He failed many times, but he never gave up. \"Each failure taught me something new,\" he said.\n\nDavid's invention won first prize in a city-wide science competition last month. The judges praised his creativity and care for the elderly. Now, a local company is interested in producing his device on a larger scale. David hopes it will help more senior citizens enjoy gardening without physical strain (负担).\n\n\"I believe science should serve people and solve real problems,\" David said. \"You don't need expensive materials to create something useful. What matters is observation and empathy (同理心).\"",
+      "stem": "Why did David invent the \"Smart Watering Helper\"?",
+      "options": [
+        "A. To win the science competition.",
+        "B. To help his grandmother and other elderly people.",
+        "C. To use up old plastic bottles at home.",
+        "D. To show his talent in electronics."
+      ],
+      "correct_answer": "B",
+      "explanation": "细节理解题。根据第一段'noticed that his grandmother had difficulty watering plants'和第二段'I wanted to help elderly people who love gardening but find it hard to bend down frequently'可知，David发明这个装置是为了帮助奶奶和其他喜欢园艺但弯腰困难的老年人。A选项赢得比赛是后来的结果，不是最初目的；C选项使用旧塑料瓶是制作材料，不是目的；D选项展示电子天赋文中未提及。解题技巧：细节题要找准关键词（人名、地名、数字），回原文定位找对应句子。",
+      "label": "阅读-细节理解"
     },
     {
       "id": 14,
       "type": "reading",
-      "group": "reading_day29",
-      "stem": "The underlined word 'participants' in Paragraph 3 probably means _____.",
-      "options": ["A. people who watch plogging videos", "B. people who take part in plogging", "C. people who study plogging", "D. people who dislike plogging"],
-      "correct_answer": "B",
-      "explanation": "上文说 over 20,000 people took part in a global plogging day，接着说 Participants often share photos...。前后句主语一致，participants 就是指那些 took part in（参加）活动的人。participant = person who takes part in。"
+      "knowledge_point": "inference",
+      "difficulty": 3,
+      "group": "reading_1",
+      "group_passage": "When David Chen, a 14-year-old student from Shenzhen, noticed that his grandmother had difficulty watering plants on their balcony, he came up with a clever idea. He designed a simple but useful device that could water plants automatically.\n\nDavid's invention, called \"Smart Watering Helper\", uses sensors to check the soil moisture (湿度). When the soil becomes too dry, the device automatically waters the plants. It stops when the soil is wet enough. \"I wanted to help elderly people who love gardening but find it hard to bend down frequently,\" David explained.\n\nThe device is made from recycled materials, including old plastic bottles and electronic parts from broken toys. David spent three months building and testing it. He failed many times, but he never gave up. \"Each failure taught me something new,\" he said.\n\nDavid's invention won first prize in a city-wide science competition last month. The judges praised his creativity and care for the elderly. Now, a local company is interested in producing his device on a larger scale. David hopes it will help more senior citizens enjoy gardening without physical strain (负担).\n\n\"I believe science should serve people and solve real problems,\" David said. \"You don't need expensive materials to create something useful. What matters is observation and empathy (同理心).\"",
+      "stem": "What can we learn about David from the passage?",
+      "options": [
+        "A. He is a professional engineer working for a big company.",
+        "B. He succeeded on his first try without any failures.",
+        "C. He is caring, creative and good at learning from mistakes.",
+        "D. He spent a lot of money buying expensive materials."
+      ],
+      "correct_answer": "C",
+      "explanation": "推理判断题。根据文章第三段'He failed many times, but he never gave up. Each failure taught me something new'可知他善于从错误中学习；根据他想帮助老人可知他有爱心（caring）；根据他设计自动浇水装置可知他有创造力（creative）。A选项错误，他是14岁学生；B选项错误，文中说他失败了很多次；D选项错误，他使用的是recycled materials（回收材料），不是昂贵的材料。推理题要注意：答案不是原文原话，而是根据原文信息合理推断。",
+      "label": "阅读-推理判断"
     },
     {
       "id": 15,
       "type": "reading",
-      "group": "reading_day29",
-      "stem": "What can we infer from the last paragraph?",
-      "options": ["A. Experts think plogging is useless.", "B. Governments have already passed strict laws about waste.", "C. Plogging alone is not enough to solve pollution problems.", "D. Most people think plogging is just for exercise."],
-      "correct_answer": "C",
-      "explanation": "最后一段先说 some experts point out that plogging alone cannot solve the plastic pollution problem，又说 supporters argue that plogging raises environmental awareness。综合来看：plogging有价值但单靠它不够（C）。A 说'无用'太绝对；B 说'已经通过法律'原文是'应该通过'；D 无依据。"
+      "knowledge_point": "word_guessing_context",
+      "difficulty": 2,
+      "group": "reading_1",
+      "group_passage": "When David Chen, a 14-year-old student from Shenzhen, noticed that his grandmother had difficulty watering plants on their balcony, he came up with a clever idea. He designed a simple but useful device that could water plants automatically.\n\nDavid's invention, called \"Smart Watering Helper\", uses sensors to check the soil moisture (湿度). When the soil becomes too dry, the device automatically waters the plants. It stops when the soil is wet enough. \"I wanted to help elderly people who love gardening but find it hard to bend down frequently,\" David explained.\n\nThe device is made from recycled materials, including old plastic bottles and electronic parts from broken toys. David spent three months building and testing it. He failed many times, but he never gave up. \"Each failure taught me something new,\" he said.\n\nDavid's invention won first prize in a city-wide science competition last month. The judges praised his creativity and care for the elderly. Now, a local company is interested in producing his device on a larger scale. David hopes it will help more senior citizens enjoy gardening without physical strain (负担).\n\n\"I believe science should serve people and solve real problems,\" David said. \"You don't need expensive materials to create something useful. What matters is observation and empathy (同理心).\"",
+      "stem": "What does the underlined word 'strain' in Paragraph 4 probably mean?",
+      "options": [
+        "A. 负担/压力",
+        "B. 喜悦",
+        "C. 工具",
+        "D. 经验"
+      ],
+      "correct_answer": "A",
+      "explanation": "词义猜测题。根据上下文线索，前文提到老人'find it hard to bend down frequently'（经常弯腰困难），所以这个装置是为了帮助老人享受园艺而无需身体上的'负担'或'压力'。strain所在句'without physical strain'对应前文的'hard to bend down'，因此strain应表示身体负担或压力。B选项喜悦、C选项工具、D选项经验都不符合语境。词义猜测技巧：根据上下文逻辑关系（因果、转折、解释）和同义词/反义词线索推断。",
+      "label": "阅读-词义猜测"
     },
     {
       "id": 16,
       "type": "reading",
-      "group": "reading_day29",
+      "knowledge_point": "main_idea_title",
+      "difficulty": 3,
+      "group": "reading_1",
+      "group_passage": "When David Chen, a 14-year-old student from Shenzhen, noticed that his grandmother had difficulty watering plants on their balcony, he came up with a clever idea. He designed a simple but useful device that could water plants automatically.\n\nDavid's invention, called \"Smart Watering Helper\", uses sensors to check the soil moisture (湿度). When the soil becomes too dry, the device automatically waters the plants. It stops when the soil is wet enough. \"I wanted to help elderly people who love gardening but find it hard to bend down frequently,\" David explained.\n\nThe device is made from recycled materials, including old plastic bottles and electronic parts from broken toys. David spent three months building and testing it. He failed many times, but he never gave up. \"Each failure taught me something new,\" he said.\n\nDavid's invention won first prize in a city-wide science competition last month. The judges praised his creativity and care for the elderly. Now, a local company is interested in producing his device on a larger scale. David hopes it will help more senior citizens enjoy gardening without physical strain (负担).\n\n\"I believe science should serve people and solve real problems,\" David said. \"You don't need expensive materials to create something useful. What matters is observation and empathy (同理心).\"",
       "stem": "What is the best title for this passage?",
-      "options": ["A. How to Start Jogging", "B. Sweden: A Clean Country", "C. Plogging: Running for a Cleaner World", "D. Why Jogging Is Good for Health"],
-      "correct_answer": "C",
-      "explanation": "文章从什么是 plogging 讲起，介绍了它的起源、好处、全球推广和争议。核心主题是 plogging 这种边跑步边捡垃圾的运动，C 最全面概括。A/D 只提到跑步没提环保；B 以偏概全只提了起源地。做主旨题：找涵盖全文主要内容的选项。"
+      "options": [
+        "A. A Teenager's Invention for the Elderly",
+        "B. How to Water Plants Automatically",
+        "C. A Science Competition in Shenzhen",
+        "D. Gardening Tips for Senior Citizens"
+      ],
+      "correct_answer": "A",
+      "explanation": "主旨大意题/最佳标题题。文章主要讲述了14岁少年David Chen为帮助老人而发明自动浇水装置的故事。B选项只涉及发明的功能，太片面；C选项只涉及比赛，是文章细节而非主旨；D选项是园艺建议，但文章重点是发明而非园艺技巧。A选项涵盖了主人公（teenager）、核心事件（invention）和服务对象（elderly），最能概括全文。主旨题技巧：标题要涵盖主要人物和事件，不能太大（宽泛）也不能太小（片面），避免只涉及细节的选项。",
+      "label": "阅读-主旨大意"
     },
     {
       "id": 17,
       "type": "fill",
-      "group": "fill_day29",
-      "group_passage": "Last Saturday, our class held a DIY science fair in the school hall. Each group needed to show a small invention or experiment.\n\nMy group decided to make a simple water filter. (17)_____ We used sand, stones, and cotton to build it. At first, the dirty water we poured in still looked brown. (18)_____ After we added more cotton, the water finally became much clearer.\n\n(19)_____ Their solar-powered toy car could actually move forward in the sunlight! Everyone clapped for them.\n\nAt the end of the fair, our teacher said she was proud of all of us. (20)_____ I think science is not just in textbooks — it is all around us.",
-      "stem": "Choose the best sentence for blank (17).",
-      "options": ["A. The most amazing group was Tom's team.", "B. We were worried that our experiment had failed.", "C. She said we had shown great teamwork and creativity.", "D. We watched a video online to learn how it works.", "E. Every student had to write a long report about science."],
-      "correct_answer": "D",
-      "explanation": "第(17)空前说'我们组决定做一个简易净水器'，后面说'我们用沙子、石头和棉花来制作'。中间需要一个过渡，解释怎么学会做的。D'我们在网上看了视频学习它的工作原理'完美衔接'决定做'和'开始用材料做'之间的准备步骤。"
+      "knowledge_point": "sentence_fill",
+      "difficulty": 2,
+      "group": "fill_1",
+      "group_passage": "Many students complain that they feel tired and sleepy even after studying for hours. (17)______ Here are some useful tips to help you study better without feeling exhausted.\n\nFirst, take regular breaks. Research shows that the human brain can only focus effectively for about 25-30 minutes at a time. (18)______ Stand up, stretch your legs, or look out of the window. This helps your brain relax and prepares it for the next study session.\n\nSecond, stay hydrated (保持水分). Your brain needs water to work properly. (19)______ Keep a bottle of water on your desk and take sips regularly. Avoid too much coffee or sugary drinks, as they can make you feel more tired later.\n\n(20)______ Exercise increases blood flow to the brain and improves your memory and concentration. You don't need to do intense workouts. Even a 10-minute walk or some stretching can make a big difference to your study efficiency.",
+      "stem": "(17)______",
+      "options": [
+        "A. When you feel sleepy, drink some coffee immediately.",
+        "B. However, this doesn't have to be the case.",
+        "C. Third, do some light exercise every day.",
+        "D. So, every half an hour, take a five-minute break.",
+        "E. If you don't drink enough water, you may find it hard to concentrate."
+      ],
+      "correct_answer": "B",
+      "explanation": "考查段落衔接和逻辑关系。前文说'很多学生抱怨学习几小时后感到疲劳'，后文说'这里有一些有用的建议帮助你学习更好而不感到疲惫'，前后是转折关系：虽然学生觉得学习累，但情况不一定如此（有办法不累）。However表示转折，this doesn't have to be the case表示'不一定非得这样'，起到承上启下的过渡作用。A选项与后文建议矛盾（后文建议喝水而非咖啡）；C、D、E都是具体建议，不适合放在总起段；B选项作为过渡句最合适。",
+      "label": "短文填空"
     },
     {
       "id": 18,
       "type": "fill",
-      "group": "fill_day29",
-      "stem": "Choose the best sentence for blank (18).",
-      "options": ["A. The most amazing group was Tom's team.", "B. We were worried that our experiment had failed.", "C. She said we had shown great teamwork and creativity.", "D. We watched a video online to learn how it works.", "E. Every student had to write a long report about science."],
-      "correct_answer": "B",
-      "explanation": "第(18)空前说'倒进去的脏水看起来还是棕色的'，后面说'加了更多棉花后水终于变清了'。中间应该是看到水没变清时的担心反应：B'我们担心实验失败了'完美承接失败→补救→成功的叙事转折。"
+      "knowledge_point": "sentence_fill",
+      "difficulty": 2,
+      "group": "fill_1",
+      "group_passage": "Many students complain that they feel tired and sleepy even after studying for hours. (17)______ Here are some useful tips to help you study better without feeling exhausted.\n\nFirst, take regular breaks. Research shows that the human brain can only focus effectively for about 25-30 minutes at a time. (18)______ Stand up, stretch your legs, or look out of the window. This helps your brain relax and prepares it for the next study session.\n\nSecond, stay hydrated (保持水分). Your brain needs water to work properly. (19)______ Keep a bottle of water on your desk and take sips regularly. Avoid too much coffee or sugary drinks, as they can make you feel more tired later.\n\n(20)______ Exercise increases blood flow to the brain and improves your memory and concentration. You don't need to do intense workouts. Even a 10-minute walk or some stretching can make a big difference to your study efficiency.",
+      "stem": "(18)______",
+      "options": [
+        "A. When you feel sleepy, drink some coffee immediately.",
+        "B. However, this doesn't have to be the case.",
+        "C. Third, do some light exercise every day.",
+        "D. So, every half an hour, take a five-minute break.",
+        "E. If you don't drink enough water, you may find it hard to concentrate."
+      ],
+      "correct_answer": "D",
+      "explanation": "考查逻辑关系（因果）和指代衔接。前文提到'大脑一次只能有效专注25-30分钟'，所以（so）应该每半小时休息5分钟。So表示因果关系，every half an hour对应前文的25-30 minutes。后文的'站起来、伸展腿部'是休息时的具体动作。A选项建议喝咖啡与后文'避免咖啡'矛盾；B选项是过渡句，此处已不需要；C选项是第三条建议，但此处是first；E选项讲水，与休息无关。",
+      "label": "短文填空"
     },
     {
       "id": 19,
       "type": "fill",
-      "group": "fill_day29",
-      "stem": "Choose the best sentence for blank (19).",
-      "options": ["A. The most amazing group was Tom's team.", "B. We were worried that our experiment had failed.", "C. She said we had shown great teamwork and creativity.", "D. We watched a video online to learn how it works.", "E. Every student had to write a long report about science."],
-      "correct_answer": "A",
-      "explanation": "第(19)空后面说'他们的太阳能玩具车竟然能在阳光下前进！大家都为他们鼓掌'。前面需要引出另一个小组，A'最令人惊叹的组是Tom的队伍'引出了对 Tom 队的描述，衔接自然。"
+      "knowledge_point": "sentence_fill",
+      "difficulty": 2,
+      "group": "fill_1",
+      "group_passage": "Many students complain that they feel tired and sleepy even after studying for hours. (17)______ Here are some useful tips to help you study better without feeling exhausted.\n\nFirst, take regular breaks. Research shows that the human brain can only focus effectively for about 25-30 minutes at a time. (18)______ Stand up, stretch your legs, or look out of the window. This helps your brain relax and prepares it for the next study session.\n\nSecond, stay hydrated (保持水分). Your brain needs water to work properly. (19)______ Keep a bottle of water on your desk and take sips regularly. Avoid too much coffee or sugary drinks, as they can make you feel more tired later.\n\n(20)______ Exercise increases blood flow to the brain and improves your memory and concentration. You don't need to do intense workouts. Even a 10-minute walk or some stretching can make a big difference to your study efficiency.",
+      "stem": "(19)______",
+      "options": [
+        "A. When you feel sleepy, drink some coffee immediately.",
+        "B. However, this doesn't have to be the case.",
+        "C. Third, do some light exercise every day.",
+        "D. So, every half an hour, take a five-minute break.",
+        "E. If you don't drink enough water, you may find it hard to concentrate."
+      ],
+      "correct_answer": "E",
+      "explanation": "考查段落内部逻辑（解释说明）。本段主题是'保持水分'，前句说'大脑需要水来正常工作'，因此接下来应该解释缺水的影响或喝水的重要性。E选项'如果你不喝足够的水，你会发现很难集中注意力'正好解释了为什么要喝水，与后文'在桌上放水瓶'形成逻辑连贯。A选项提到咖啡，虽然后文也提到咖啡，但E选项更适合解释前句；B、C、D与本段主题无关。",
+      "label": "短文填空"
     },
     {
       "id": 20,
       "type": "fill",
-      "group": "fill_day29",
-      "stem": "Choose the best sentence for blank (20).",
-      "options": ["A. The most amazing group was Tom's team.", "B. We were worried that our experiment had failed.", "C. She said we had shown great teamwork and creativity.", "D. We watched a video online to learn how it works.", "E. Every student had to write a long report about science."],
+      "knowledge_point": "sentence_fill",
+      "difficulty": 1,
+      "group": "fill_1",
+      "group_passage": "Many students complain that they feel tired and sleepy even after studying for hours. (17)______ Here are some useful tips to help you study better without feeling exhausted.\n\nFirst, take regular breaks. Research shows that the human brain can only focus effectively for about 25-30 minutes at a time. (18)______ Stand up, stretch your legs, or look out of the window. This helps your brain relax and prepares it for the next study session.\n\nSecond, stay hydrated (保持水分). Your Brain needs water to work properly. (19)______ Keep a bottle of water on your desk and take sips regularly. Avoid too much coffee or sugary drinks, as they can make you feel more tired later.\n\n(20)______ Exercise increases blood flow to the brain and improves your memory and concentration. You don't need to do intense workouts. Even a 10-minute walk or some stretching can make a big difference to your study efficiency.",
+      "stem": "(20)______",
+      "options": [
+        "A. When you feel sleepy, drink some coffee immediately.",
+        "B. However, this doesn't have to be the case.",
+        "C. Third, do some light exercise every day.",
+        "D. So, every half an hour, take a five-minute break.",
+        "E. If you don't drink enough water, you may find it hard to concentrate."
+      ],
       "correct_answer": "C",
-      "explanation": "第(20)空前说'老师说她为我们感到骄傲'，后面是'我觉得科学不只在课本里'。C'她说我们展现了很棒的团队合作和创造力'是老师话的具体内容，完美衔接'老师说她骄傲'→具体夸了什么→作者的感悟。干扰项 E 与全文主题不符。"
+      "explanation": "考查段落结构和顺序词。前文有First（第一）、Second（第二），因此这里应该是Third（第三）。C选项'Third, do some light exercise every day'符合序列逻辑，且后文'exercise'与该选项中的'exercise'形成词汇复现，进一步确认答案。A选项与本段主题（锻炼）无关；B、D、E都已经使用过或不符合此处逻辑。解题技巧：注意段落中的序列词（first, second, third/finally），这是选句子填空的重要线索。",
+      "label": "短文填空"
     }
   ]
 }
