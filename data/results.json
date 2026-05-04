@@ -238,6 +238,13 @@
       "total": 20,
       "correct": 19,
       "rate": 95
+    },
+    {
+      "date": "2026-05-04",
+      "session": 1,
+      "total": 20,
+      "correct": 20,
+      "rate": 100
     }
   ],
   "errors": [
