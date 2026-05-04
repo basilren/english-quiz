@@ -2,7 +2,8 @@
   "name": "Bosco",
   "grade": 8,
   "level": "CEFR A2-B1",
-  "target_exam": "中考",
+  "target_exam": "深圳中考",
+  "target_difficulty": "中等（对标深圳中考B卷水平）",
   "weak_points": [
     "present_perfect_vs_past_simple",
     "relative_clause_who_which",
@@ -17,5 +18,5 @@
     "science",
     "environment"
   ],
-  "difficulty_preference": "challenge_with_support"
+  "difficulty_preference": "balanced_medium"
 }

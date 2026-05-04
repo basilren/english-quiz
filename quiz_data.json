@@ -1,356 +1,198 @@
 ﻿{
   "date": "2026-05-04",
   "session_number": 1,
+  "day": 29,
+  "difficulty": {"grammar": 2, "vocabulary": 2, "cloze": 3, "reading": 2, "fill": 2},
   "questions": [
     {
       "id": 1,
       "type": "grammar",
-      "knowledge_point": "present_perfect_vs_past_simple",
-      "difficulty": 2,
-      "stem": "I ______ the book for two weeks. I ______ it from the library last Friday.",
-      "options": [
-        "A. have borrowed; borrowed",
-        "B. borrowed; have borrowed",
-        "C. have kept; borrowed",
-        "D. have kept; have borrowed"
-      ],
-      "correct_answer": "C",
-      "explanation": "第一空后有'for two weeks'表示一段时间，需用延续性动词keep（保留）的现在完成时have kept，不能用瞬间动词borrow；第二空有'yesterday'明确过去时间，用一般过去时borrowed。技巧：看到for/since等时间段，检查动词是否为延续性动词。",
-      "label": "语法题"
+      "group": "grammar_single_1",
+      "knowledge_point": "present_perfect",
+      "stem": "-- How long have you _____ the book?\n-- For two weeks.",
+      "options": ["A. borrowed", "B. kept", "C. bought", "D. taken"],
+      "correct_answer": "B",
+      "explanation": "how long 提问持续的时间段，需要延续性动词。borrow 是非延续性动词，不能与 for 连用，其对应的延续性动词是 keep。buy->have, borrow->keep, join->be in, begin->be on。"
     },
     {
       "id": 2,
       "type": "grammar",
-      "knowledge_point": "relative_clause_who_which",
-      "difficulty": 2,
-      "stem": "The story ______ you told me yesterday is very interesting.",
-      "options": [
-        "A. who",
-        "B. which",
-        "C. whom",
-        "D. whose"
-      ],
+      "group": "grammar_single_2",
+      "knowledge_point": "present_perfect",
+      "stem": "My uncle _____ to Shanghai. He will come back next month.",
+      "options": ["A. has been", "B. has gone", "C. went", "D. will go"],
       "correct_answer": "B",
-      "explanation": "先行词the story指物，在定语从句中作宾语，关系代词用which或that。who/whom指人，whose表示'……的'。技巧：空格前是物名用which/that，是人名用who/that。",
-      "label": "语法题"
+      "explanation": "has gone to 表示'去了某地还没回来'，后文说'下个月才回来'，说明人还在上海。has been to 表示'去过某地已经回来了'。根据 will come back next month 可知人还没回来，选 has gone to。"
     },
     {
       "id": 3,
       "type": "grammar",
-      "knowledge_point": "passive_voice",
-      "difficulty": 2,
-      "stem": "The old bridge near my school ______ many years ago.",
-      "options": [
-        "A. built",
-        "B. was built",
-        "C. is built",
-        "D. builds"
-      ],
+      "group": "grammar_single_3",
+      "knowledge_point": "object_clause",
+      "stem": "I wonder _____ the sports meeting will be held next week.",
+      "options": ["A. that", "B. if", "C. what", "D. which"],
       "correct_answer": "B",
-      "explanation": "主语bridge与build是被动关系（桥被建），且'many years ago'是过去时间标志，故用一般过去时的被动语态was built。技巧：被动语态基本结构be+过去分词，注意时态由be体现。",
-      "label": "语法题"
+      "explanation": "宾语从句表示'是否'用 if 或 whether 引导。句意是'我想知道运动会下周是否会举行'，表示不确定，用 if。that 引导确定的陈述；what/which 需作从句成分，此处从句完整不缺成分。"
     },
     {
       "id": 4,
       "type": "grammar",
+      "group": "grammar_single_4",
       "knowledge_point": "object_clause",
-      "difficulty": 2,
-      "stem": "I wonder ______ Mary will join our English party next week.",
-      "options": [
-        "A. if",
-        "B. that",
-        "C. what",
-        "D. which"
-      ],
-      "correct_answer": "A",
-      "explanation": "wonder表示'想知道'，后接宾语从句表'是否'时用if或whether引导。that无实际意义，what/which需在从句中充当成分。本句不缺少主谓宾，只缺'是否'含义。技巧：看到wonder/don't know常选if/whether表疑问。",
-      "label": "语法题"
+      "stem": "Could you tell me _____?\nI want to post a letter.",
+      "options": ["A. where is the post office", "B. where the post office is", "C. where was the post office", "D. where the post office was"],
+      "correct_answer": "B",
+      "explanation": "宾语从句必须用陈述语序（主语+谓语），排除 A（疑问语序）。句意是现在要去邮寄，问的是邮局现在的位置，用一般现在时，排除 C/D（过去时）。答案 B 陈述语序+一般现在时。"
     },
     {
       "id": 5,
-      "type": "vocabulary",
-      "knowledge_point": "prefix",
-      "difficulty": 1,
-      "stem": "If you add the prefix 'un-' to the word 'healthy', you get 'unhealthy', which means ______.",
-      "options": [
-        "A. not healthy",
-        "B. very healthy",
-        "C. more healthy",
-        "D. less healthy"
-      ],
-      "correct_answer": "A",
-      "explanation": "前缀un-表示否定含义，意为'不、非'，unhealthy即'不健康的'。技巧：常见否定前缀un-/dis-/im-/in-都表'不'，后缀-less也表否定（如careless）。",
-      "label": "词汇题"
+      "type": "grammar",
+      "group": "grammar_single_5",
+      "knowledge_point": "relative_clause",
+      "stem": "The girl _____ is wearing a red dress is my sister.",
+      "options": ["A. which", "B. who", "C. whom", "D. what"],
+      "correct_answer": "B",
+      "explanation": "定语从句中先行词是 the girl（人），且在从句中作主语（_____ is wearing），关系代词用 who。which 修饰物；whom 作宾语；what 不引导定语从句。"
     },
     {
       "id": 6,
       "type": "vocabulary",
-      "knowledge_point": "word_meaning",
-      "difficulty": 2,
-      "stem": "The ______ news about the school trip made all of us feel ______.",
-      "options": [
-        "A. excited; exciting",
-        "B. exciting; excited",
-        "C. excited; excited",
-        "D. exciting; exciting"
-      ],
+      "group": "vocab_single_1",
+      "knowledge_point": "word_form",
+      "stem": "The children were very _____ (excite) about the school trip.",
+      "options": ["A. excite", "B. excited", "C. exciting", "D. excitement"],
       "correct_answer": "B",
-      "explanation": "exciting（令人兴奋的）修饰事物news，excited（感到兴奋的）修饰人us。技巧：-ing形容词表示'令人……的'，修饰物；-ed形容词表示'感到……的'，修饰人。",
-      "label": "词汇题"
+      "explanation": "-ed 形容词修饰人的感受（感到激动的），-ing 形容词修饰物的特征（令人激动的）。这里主语是 children（人），用 excited。类似的：interested/interesting, surprised/surprising, bored/boring。"
     },
     {
       "id": 7,
       "type": "vocabulary",
-      "knowledge_point": "phrasal_verbs",
-      "difficulty": 2,
-      "stem": "We should ______ our seats to the elderly when we take the bus.",
-      "options": [
-        "A. give up",
-        "B. give away",
-        "C. give out",
-        "D. give in"
-      ],
+      "group": "vocab_single_2",
+      "knowledge_point": "phrase_collocation",
+      "stem": "We should _____ the problem as soon as possible.",
+      "options": ["A. deal with", "B. deal for", "C. deal on", "D. deal at"],
       "correct_answer": "A",
-      "explanation": "give up表示'放弃、让出'，give up seats即'让座'；give away赠送/泄露；give out分发；give in屈服。技巧：give up搭配seat表示让座，是固定用法。",
-      "label": "词汇题"
+      "explanation": "deal with 是固定搭配，意为'处理，应对'。句意：我们应该尽快处理这个问题。类似的常见搭配：look after（照顾）, take care of（照料）, depend on（依赖）。"
     },
     {
       "id": 8,
       "type": "cloze",
-      "knowledge_point": "cloze_general",
-      "difficulty": 2,
-      "group": "cloze_1",
-      "group_passage": "Last month, our school started a \"Green School\" project. We wanted to make our campus more environmentally friendly. First, we set up recycling bins in every classroom. Students were asked to separate waste into different categories. At first, many students found it (8)______ to remember which bin to use. But with the help of posters and teachers' guidance, everyone soon got used to it. The most exciting part was creating a small garden on the rooftop. We planted vegetables and flowers there. It was amazing to see how a boring concrete space could be (9)______ into a green area. Every Friday afternoon, volunteers collect the recyclable materials and (10)______ them to a recycling center. The money earned is used to buy more plants. So far, we (11)______ over 500 yuan from this activity. This project has changed the way we think about waste. We now understand that even small actions can make a big (12)______ to protecting our environment.",
-      "stem": "(8)______",
-      "options": [
-        "A. easy",
-        "B. difficult",
-        "C. interesting",
-        "D. relaxing"
-      ],
-      "correct_answer": "B",
-      "explanation": "根据下文'But with the help...everyone soon got used to it'（但在帮助下才习惯）可推断，起初觉得'困难'。A、C、D均为积极词汇，与转折逻辑不符。技巧：关注连词but/however前后的语义转折。",
-      "label": "完形填空"
+      "group": "cloze_day29",
+      "group_passage": "Last summer, our school organized a weekend camping trip to the mountains. At first, most of us were (8)_____ about sleeping outdoors because we had never done it before.\n\nOn the first night, our teacher Mr. Wang taught us how to set up tents. Some students (9)_____ quickly, but my group had a lot of trouble. Our tent kept falling down. I wanted to give up, but my friend Jack said, 'Don't worry. Let me (10)_____ the instructions again.' After reading them carefully, we finally put it up correctly.\n\nLater that night, we sat around the campfire and shared stories. I was surprised to find that even the (11)_____ students in our class became talkative and friendly. The camping trip taught me that working together and being (12)_____ with each other can make difficult things easy.",
+      "stem": "(8)",
+      "options": ["A. nervous", "B. proud", "C. bored", "D. angry"],
+      "correct_answer": "A",
+      "explanation": "后文说'因为我们从未在户外睡过觉'，第一次做没做过的事情会感到'紧张的'(nervous)。proud 骄傲的、bored 无聊的、angry 生气的，都不符合'从未尝试过'的心理反应。"
     },
     {
       "id": 9,
       "type": "cloze",
-      "knowledge_point": "passive_voice",
-      "difficulty": 2,
-      "group": "cloze_1",
-      "group_passage": "Last month, our school started a \"Green School\" project. We wanted to make our campus more environmentally friendly. First, we set up recycling bins in every classroom. Students were asked to separate waste into different categories. At first, many students found it (8)______ to remember which bin to use. But with the help of posters and teachers' guidance, everyone soon got used to it. The most exciting part was creating a small garden on the rooftop. We planted vegetables and flowers there. It was amazing to see how a boring concrete space could be (9)______ into a green area. Every Friday afternoon, volunteers collect the recyclable materials and (10)______ them to a recycling center. The money earned is used to buy more plants. So far, we (11)______ over 500 yuan from this activity. This project has changed the way we think about waste. We now understand that even small actions can make a big (12)______ to protecting our environment.",
-      "stem": "(9)______",
-      "options": [
-        "A. divided",
-        "B. changed",
-        "C. turned",
-        "D. made"
-      ],
+      "group": "cloze_day29",
+      "stem": "(9)",
+      "options": ["A. changed", "B. returned", "C. succeeded", "D. refused"],
       "correct_answer": "C",
-      "explanation": "turn into为固定搭配，意为'变成'，被动语态为be turned into。change into也通，但turn更强调性质完全转变，且与into搭配最紧密。divide into分成；make into制成。技巧：turn A into B（把A变成B）是完形高频搭配。",
-      "label": "完形填空"
+      "explanation": "句意：有些学生很快就成功了（搭好帐篷），但我们组遇到了很多麻烦。succeed 成功，与后面 my group had a lot of trouble 形成对比。changed 改变、returned 返回、refused 拒绝都不符合搭帐篷的语境。"
     },
     {
       "id": 10,
       "type": "cloze",
-      "knowledge_point": "cloze_general",
-      "difficulty": 2,
-      "group": "cloze_1",
-      "group_passage": "Last month, our school started a \"Green School\" project. We wanted to make our campus more environmentally friendly. First, we set up recycling bins in every classroom. Students were asked to separate waste into different categories. At first, many students found it (8)______ to remember which bin to use. But with the help of posters and teachers' guidance, everyone soon got used to it. The most exciting part was creating a small garden on the rooftop. We planted vegetables and flowers there. It was amazing to see how a boring concrete space could be (9)______ into a green area. Every Friday afternoon, volunteers collect the recyclable materials and (10)______ them to a recycling center. The money earned is used to buy more plants. So far, we (11)______ over 500 yuan from this activity. This project has changed the way we think about waste. We now understand that even small actions can make a big (12)______ to protecting our environment.",
-      "stem": "(10)______",
-      "options": [
-        "A. take",
-        "B. bring",
-        "C. send",
-        "D. carry"
-      ],
-      "correct_answer": "C",
-      "explanation": "send...to...表示'把……寄送到/运送到'，符合语境（把可回收物送到回收中心）。take带走（远离说话者），bring带来（靠近说话者），carry强调负重搬运。技巧：send to表示送往某处，常用于邮寄、运送场景。",
-      "label": "完形填空"
+      "group": "cloze_day29",
+      "stem": "(10)",
+      "options": ["A. forget", "B. check", "C. copy", "D. throw"],
+      "correct_answer": "B",
+      "explanation": "Jack 说'让我再检查一下说明书'。帐篷搭不好时，重新 check（检查/核对）说明书是合理的做法。forget 忘记、copy 抄写、throw 扔掉，都不合逻辑。"
     },
     {
       "id": 11,
       "type": "cloze",
-      "knowledge_point": "present_perfect",
-      "difficulty": 2,
-      "group": "cloze_1",
-      "group_passage": "Last month, our school started a \"Green School\" project. We wanted to make our campus more environmentally friendly. First, we set up recycling bins in every classroom. Students were asked to separate waste into different categories. At first, many students found it (8)______ to remember which bin to use. But with the help of posters and teachers' guidance, everyone soon got used to it. The most exciting part was creating a small garden on the rooftop. We planted vegetables and flowers there. It was amazing to see how a boring concrete space could be (9)______ into a green area. Every Friday afternoon, volunteers collect the recyclable materials and (10)______ them to a recycling center. The money earned is used to buy more plants. So far, we (11)______ over 500 yuan from this activity. This project has changed the way we think about waste. We now understand that even small actions can make a big (12)______ to protecting our environment.",
-      "stem": "(11)______",
-      "options": [
-        "A. raised",
-        "B. collected",
-        "C. saved",
-        "D. made"
-      ],
-      "correct_answer": "A",
-      "explanation": "raise money为固定搭配，意为'筹集资金'。so far（到目前为止）是现在完成时标志，故用have raised。collect收集；save节省；make制造。技巧：raise funds/money是'筹款'的固定表达。",
-      "label": "完形填空"
+      "group": "cloze_day29",
+      "stem": "(11)",
+      "options": ["A. smartest", "B. tallest", "C. quietest", "D. youngest"],
+      "correct_answer": "C",
+      "explanation": "后文说'变得健谈和友好'(became talkative and friendly)，形成反差的应该是'最安静的'(quietest)学生。最聪明/最高/最小的学生变得健谈没有明显的逻辑反差。"
     },
     {
       "id": 12,
       "type": "cloze",
-      "knowledge_point": "cloze_general",
-      "difficulty": 2,
-      "group": "cloze_1",
-      "group_passage": "Last month, our school started a \"Green School\" project. We wanted to make our campus more environmentally friendly. First, we set up recycling bins in every classroom. Students were asked to separate waste into different categories. At first, many students found it (8)______ to remember which bin to use. But with the help of posters and teachers' guidance, everyone soon got used to it. The most exciting part was creating a small garden on the rooftop. We planted vegetables and flowers there. It was amazing to see how a boring concrete space could be (9)______ into a green area. Every Friday afternoon, volunteers collect the recyclable materials and (10)______ them to a recycling center. The money earned is used to buy more plants. So far, we (11)______ over 500 yuan from this activity. This project has changed the way we think about waste. We now understand that even small actions can make a big (12)______ to protecting our environment.",
-      "stem": "(12)______",
-      "options": [
-        "A. decision",
-        "B. mistake",
-        "C. difference",
-        "D. progress"
-      ],
+      "group": "cloze_day29",
+      "stem": "(12)",
+      "options": ["A. strict", "B. angry", "C. patient", "D. busy"],
       "correct_answer": "C",
-      "explanation": "make a difference为固定短语，意为'有影响、起作用'。句意：即使小行动也能对环保产生大影响。decision决定；mistake错误；progress进步（与make搭配时通常说make progress）。技巧：make a difference是中考完形高频短语。",
-      "label": "完形填空"
+      "explanation": "句意：合作和彼此有耐心(patient)可以让困难的事情变简单。前文搭帐篷时Jack耐心地重新看说明书帮助了大家，呼应 patient。strict 严格、angry 生气、busy 忙碌都不符合'让困难变容易'的主旨。"
     },
     {
       "id": 13,
       "type": "reading",
-      "knowledge_point": "detail",
-      "difficulty": 2,
-      "group": "reading_1",
-      "group_passage": "Have you ever imagined a forest growing on the side of a building? This is not science fiction. In cities like Milan and Nanjing, \"vertical forests\" are becoming real. A vertical forest is a building covered with trees, shrubs and plants on its balconies and facades. These green buildings are designed to bring nature back to crowded cities. The plants absorb carbon dioxide and produce oxygen, making the air cleaner. They also help reduce noise pollution and lower the temperature inside the buildings. However, building and maintaining vertical forests is expensive. The soil and irrigation systems add extra weight to the building structure. Despite these challenges, many architects believe vertical forests represent the future of urban living.",
-      "stem": "Where can we find vertical forests mentioned in the passage?",
-      "options": [
-        "A. Only in Milan.",
-        "B. In Milan and Nanjing.",
-        "C. In all European cities.",
-        "D. In small towns."
-      ],
-      "correct_answer": "B",
-      "explanation": "细节题。根据第一段'In cities like Milan and Nanjing, \"vertical forests\" are becoming real'可知，文中明确提到米兰和南京有垂直森林。A项'只有米兰'遗漏南京；C项'所有欧洲城市'过于绝对；D项'小镇'与文中'cities'矛盾。技巧：细节题要精准定位原文，警惕绝对化词汇如only/all。",
-      "label": "阅读-细节理解"
+      "group": "reading_day29",
+      "group_passage": "Have you ever heard of 'plogging'? It is a fitness trend that started in Sweden around 2016. The word 'plogging' comes from the Swedish phrase 'plocka upp' (pick up) and 'jogging'. When people go plogging, they jog and pick up litter at the same time.\n\nPlogging has become popular worldwide because it combines exercise with helping the environment. According to research, plogging burns about 288 calories per half hour, which is more than regular jogging (235 calories). This is because ploggers bend down, squat, and stretch to pick up rubbish while running.\n\nMany cities have organized plogging events. In 2018, over 20,000 people in 100 countries took part in a global plogging day. Participants often share photos of the rubbish bags they collect on social media, inspiring others to join.\n\nHowever, some experts point out that plogging alone cannot solve the plastic pollution problem. They believe governments should pass stricter laws to reduce waste at its source. Still, supporters argue that plogging raises environmental awareness and encourages people to think more carefully about how they treat the planet.",
+      "stem": "According to the passage, plogging burns more calories than regular jogging because _____.",
+      "options": ["A. ploggers run faster than regular joggers", "B. ploggers carry heavy rubbish bags while running", "C. ploggers do extra body movements like bending and squatting", "D. ploggers run longer distances each time"],
+      "correct_answer": "C",
+      "explanation": "原文第二段明确说：This is because ploggers bend down, squat, and stretch to pick up rubbish while running。消耗更多卡路里的原因是弯腰、深蹲、伸展等额外动作，对应选项 C。A/B/D 原文没有提到。"
     },
     {
       "id": 14,
       "type": "reading",
-      "knowledge_point": "word_guessing_context",
-      "difficulty": 2,
-      "group": "reading_1",
-      "group_passage": "Have you ever imagined a forest growing on the side of a building? This is not science fiction. In cities like Milan and Nanjing, \"vertical forests\" are becoming real. A vertical forest is a building covered with trees, shrubs and plants on its balconies and facades. These green buildings are designed to bring nature back to crowded cities. The plants absorb carbon dioxide and produce oxygen, making the air cleaner. They also help reduce noise pollution and lower the temperature inside the buildings. However, building and maintaining vertical forests is expensive. The soil and irrigation systems add extra weight to the building structure. Despite these challenges, many architects believe vertical forests represent the future of urban living.",
-      "stem": "What does the underlined word \"absorb\" in Paragraph 2 probably mean?",
-      "options": [
-        "A. Take in",
-        "B. Give out",
-        "C. Turn down",
-        "D. Put away"
-      ],
-      "correct_answer": "A",
-      "explanation": "词义猜测题。根据上下文，植物吸收二氧化碳并释放氧气，absorb与give out（释放）形成对比，故absorb意为'吸收'，即take in。turn down调低/拒绝；put away收好。技巧：利用并列结构'absorb...and produce...'的对比关系猜测词义。",
-      "label": "阅读-词义猜测"
+      "group": "reading_day29",
+      "stem": "The underlined word 'participants' in Paragraph 3 probably means _____.",
+      "options": ["A. people who watch plogging videos", "B. people who take part in plogging", "C. people who study plogging", "D. people who dislike plogging"],
+      "correct_answer": "B",
+      "explanation": "上文说 over 20,000 people took part in a global plogging day，接着说 Participants often share photos...。前后句主语一致，participants 就是指那些 took part in（参加）活动的人。participant = person who takes part in。"
     },
     {
       "id": 15,
       "type": "reading",
-      "knowledge_point": "inference",
-      "difficulty": 3,
-      "group": "reading_1",
-      "group_passage": "Have you ever imagined a forest growing on the side of a building? This is not science fiction. In cities like Milan and Nanjing, \"vertical forests\" are becoming real. A vertical forest is a building covered with trees, shrubs and plants on its balconies and facades. These green buildings are designed to bring nature back to crowded cities. The plants absorb carbon dioxide and produce oxygen, making the air cleaner. They also help reduce noise pollution and lower the temperature inside the buildings. However, building and maintaining vertical forests is expensive. The soil and irrigation systems add extra weight to the building structure. Despite these challenges, many architects believe vertical forests represent the future of urban living.",
-      "stem": "What can we infer from the passage about vertical forests?",
-      "options": [
-        "A. They are cheap to build.",
-        "B. They are becoming popular in cities.",
-        "C. They need no special care.",
-        "D. They can only grow small plants."
-      ],
-      "correct_answer": "B",
-      "explanation": "推理题。A项'便宜'与原文'expensive'矛盾；C项'无需特殊护理'与'maintaining...special care'矛盾；D项'只能种小植物'与'trees, shrubs'矛盾。根据'becoming real'和'future of urban living'可推断这种建筑正在城市流行。技巧：推理题要基于原文但避免直接陈述，排除与原文矛盾的选项。",
-      "label": "阅读-推理判断"
+      "group": "reading_day29",
+      "stem": "What can we infer from the last paragraph?",
+      "options": ["A. Experts think plogging is useless.", "B. Governments have already passed strict laws about waste.", "C. Plogging alone is not enough to solve pollution problems.", "D. Most people think plogging is just for exercise."],
+      "correct_answer": "C",
+      "explanation": "最后一段先说 some experts point out that plogging alone cannot solve the plastic pollution problem，又说 supporters argue that plogging raises environmental awareness。综合来看：plogging有价值但单靠它不够（C）。A 说'无用'太绝对；B 说'已经通过法律'原文是'应该通过'；D 无依据。"
     },
     {
       "id": 16,
       "type": "reading",
-      "knowledge_point": "main_idea_title",
-      "difficulty": 2,
-      "group": "reading_1",
-      "group_passage": "Have you ever imagined a forest growing on the side of a building? This is not science fiction. In cities like Milan and Nanjing, \"vertical forests\" are becoming real. A vertical forest is a building covered with trees, shrubs and plants on its balconies and facades. These green buildings are designed to bring nature back to crowded cities. The plants absorb carbon dioxide and produce oxygen, making the air cleaner. They also help reduce noise pollution and lower the temperature inside the buildings. However, building and maintaining vertical forests is expensive. The soil and irrigation systems add extra weight to the building structure. Despite these challenges, many architects believe vertical forests represent the future of urban living.",
+      "group": "reading_day29",
       "stem": "What is the best title for this passage?",
-      "options": [
-        "A. The History of Milan",
-        "B. Vertical Forests: Buildings of the Future",
-        "C. How to Build a House",
-        "D. Air Pollution in Big Cities"
-      ],
-      "correct_answer": "B",
-      "explanation": "主旨大意题。全文围绕vertical forests展开，介绍其概念、优点、挑战及前景。A项只提米兰，太窄；C项未提及森林；D项只涉及污染，是细节而非主旨。B项准确概括主题。技巧：最佳标题需覆盖全文核心词汇，避免以偏概全。",
-      "label": "阅读-主旨大意"
+      "options": ["A. How to Start Jogging", "B. Sweden: A Clean Country", "C. Plogging: Running for a Cleaner World", "D. Why Jogging Is Good for Health"],
+      "correct_answer": "C",
+      "explanation": "文章从什么是 plogging 讲起，介绍了它的起源、好处、全球推广和争议。核心主题是 plogging 这种边跑步边捡垃圾的运动，C 最全面概括。A/D 只提到跑步没提环保；B 以偏概全只提了起源地。做主旨题：找涵盖全文主要内容的选项。"
     },
     {
       "id": 17,
       "type": "fill",
-      "knowledge_point": "sentence_fill",
-      "difficulty": 2,
-      "group": "fill_1",
-      "group_passage": "Many middle school students complain that they don't have enough time for hobbies because of heavy schoolwork. (17)______ They often feel stressed and don't know how to deal with this situation. (18)______ The key is to manage your time wisely. Here are some practical suggestions. (19)______ Write down all your tasks and estimate how long each takes. You'll probably find you have more free time than you thought. (20)______ When you finish your homework, reward yourself with hobby time. This balance will help you stay happy and motivated.",
-      "stem": "(17)______",
-      "options": [
-        "A. However, it is possible to enjoy both study and hobbies with good planning.",
-        "B. First, make a list of your daily activities and study tasks.",
-        "C. In addition, don't forget to schedule regular breaks for your hobbies.",
-        "D. As a result, many students give up their hobbies to focus only on study.",
-        "E. On the other hand, some students spend too much time on games and neglect their study."
-      ],
+      "group": "fill_day29",
+      "group_passage": "Last Saturday, our class held a DIY science fair in the school hall. Each group needed to show a small invention or experiment.\n\nMy group decided to make a simple water filter. (17)_____ We used sand, stones, and cotton to build it. At first, the dirty water we poured in still looked brown. (18)_____ After we added more cotton, the water finally became much clearer.\n\n(19)_____ Their solar-powered toy car could actually move forward in the sunlight! Everyone clapped for them.\n\nAt the end of the fair, our teacher said she was proud of all of us. (20)_____ I think science is not just in textbooks — it is all around us.",
+      "stem": "Choose the best sentence for blank (17).",
+      "options": ["A. The most amazing group was Tom's team.", "B. We were worried that our experiment had failed.", "C. She said we had shown great teamwork and creativity.", "D. We watched a video online to learn how it works.", "E. Every student had to write a long report about science."],
       "correct_answer": "D",
-      "explanation": "前文提到'抱怨没时间发展爱好'，D项'As a result'（结果）承接上文，表示'许多学生放弃爱好只专注学习'，与后文'感到压力'形成因果链。A项转折突兀；B、C是建议，不适合此处；E讲另一面情况，与上下文不符。技巧：关注上下文逻辑关系，前因后果用as a result。",
-      "label": "短文填空"
+      "explanation": "第(17)空前说'我们组决定做一个简易净水器'，后面说'我们用沙子、石头和棉花来制作'。中间需要一个过渡，解释怎么学会做的。D'我们在网上看了视频学习它的工作原理'完美衔接'决定做'和'开始用材料做'之间的准备步骤。"
     },
     {
       "id": 18,
       "type": "fill",
-      "knowledge_point": "sentence_fill",
-      "difficulty": 2,
-      "group": "fill_1",
-      "group_passage": "Many middle school students complain that they don't have enough time for hobbies because of heavy schoolwork. (17)______ They often feel stressed and don't know how to deal with this situation. (18)______ The key is to manage your time wisely. Here are some practical suggestions. (19)______ Write down all your tasks and estimate how long each takes. You'll probably find you have more free time than you thought. (20)______ When you finish your homework, reward yourself with hobby time. This balance will help you stay happy and motivated.",
-      "stem": "(18)______",
-      "options": [
-        "A. However, it is possible to enjoy both study and hobbies with good planning.",
-        "B. First, make a list of your daily activities and study tasks.",
-        "C. In addition, don't forget to schedule regular breaks for your hobbies.",
-        "D. As a result, many students give up their hobbies to focus only on study.",
-        "E. On the other hand, some students spend too much time on games and neglect their study."
-      ],
-      "correct_answer": "A",
-      "explanation": "前文说'感到压力不知如何处理'，A项'However'（然而）转折，引出'有好计划就能兼顾学习与爱好'，与后文'关键是时间管理'衔接自然。B、C是具体建议，应在引出建议之后；D已用过；E偏离主题。技巧：However用于转折引出新观点，常出现在问题-解决方案的过渡处。",
-      "label": "短文填空"
+      "group": "fill_day29",
+      "stem": "Choose the best sentence for blank (18).",
+      "options": ["A. The most amazing group was Tom's team.", "B. We were worried that our experiment had failed.", "C. She said we had shown great teamwork and creativity.", "D. We watched a video online to learn how it works.", "E. Every student had to write a long report about science."],
+      "correct_answer": "B",
+      "explanation": "第(18)空前说'倒进去的脏水看起来还是棕色的'，后面说'加了更多棉花后水终于变清了'。中间应该是看到水没变清时的担心反应：B'我们担心实验失败了'完美承接失败→补救→成功的叙事转折。"
     },
     {
       "id": 19,
       "type": "fill",
-      "knowledge_point": "sentence_fill",
-      "difficulty": 2,
-      "group": "fill_1",
-      "group_passage": "Many middle school students complain that they don't have enough time for hobbies because of heavy schoolwork. (17)______ They often feel stressed and don't know how to deal with this situation. (18)______ The key is to manage your time wisely. Here are some practical suggestions. (19)______ Write down all your tasks and estimate how long each takes. You'll probably find you have more free time than you thought. (20)______ When you finish your homework, reward yourself with hobby time. This balance will help you stay happy and motivated.",
-      "stem": "(19)______",
-      "options": [
-        "A. However, it is possible to enjoy both study and hobbies with good planning.",
-        "B. First, make a list of your daily activities and study tasks.",
-        "C. In addition, don't forget to schedule regular breaks for your hobbies.",
-        "D. As a result, many students give up their hobbies to focus only on study.",
-        "E. On the other hand, some students spend too much time on games and neglect their study."
-      ],
-      "correct_answer": "B",
-      "explanation": "后文'Write down all your tasks'（写下所有任务）是B项'First, make a list...'（首先列清单）的具体操作。First表示列举第一条建议，与后文动作完全对应。C项In addition表示补充，应在前一条建议之后；其他选项不符。技巧：First/Second/Finally是列举建议的标志词，后文通常有具体动作对应。",
-      "label": "短文填空"
+      "group": "fill_day29",
+      "stem": "Choose the best sentence for blank (19).",
+      "options": ["A. The most amazing group was Tom's team.", "B. We were worried that our experiment had failed.", "C. She said we had shown great teamwork and creativity.", "D. We watched a video online to learn how it works.", "E. Every student had to write a long report about science."],
+      "correct_answer": "A",
+      "explanation": "第(19)空后面说'他们的太阳能玩具车竟然能在阳光下前进！大家都为他们鼓掌'。前面需要引出另一个小组，A'最令人惊叹的组是Tom的队伍'引出了对 Tom 队的描述，衔接自然。"
     },
     {
       "id": 20,
       "type": "fill",
-      "knowledge_point": "sentence_fill",
-      "difficulty": 2,
-      "group": "fill_1",
-      "group_passage": "Many middle school students complain that they don't have enough time for hobbies because of heavy schoolwork. (17)______ They often feel stressed and don't know how to deal with this situation. (18)______ The key is to manage your time wisely. Here are some practical suggestions. (19)______ Write down all your tasks and estimate how long each takes. You'll probably find you have more free time than you thought. (20)______ When you finish your homework, reward yourself with hobby time. This balance will help you stay happy and motivated.",
-      "stem": "(20)______",
-      "options": [
-        "A. However, it is possible to enjoy both study and hobbies with good planning.",
-        "B. First, make a list of your daily activities and study tasks.",
-        "C. In addition, don't forget to schedule regular breaks for your hobbies.",
-        "D. As a result, many students give up their hobbies to focus only on study.",
-        "E. On the other hand, some students spend too much time on games and neglect their study."
-      ],
+      "group": "fill_day29",
+      "stem": "Choose the best sentence for blank (20).",
+      "options": ["A. The most amazing group was Tom's team.", "B. We were worried that our experiment had failed.", "C. She said we had shown great teamwork and creativity.", "D. We watched a video online to learn how it works.", "E. Every student had to write a long report about science."],
       "correct_answer": "C",
-      "explanation": "前文讲了第一条建议（列清单），C项'In addition'（此外）表示递进，引出第二条建议'安排爱好时间'，与后文'reward yourself with hobby time'（奖励自己爱好时间）完美衔接。E项讲反面情况，破坏建议的连贯性。技巧：In addition/Moreover/Besides用于列举同类建议的第二条。",
-      "label": "短文填空"
+      "explanation": "第(20)空前说'老师说她为我们感到骄傲'，后面是'我觉得科学不只在课本里'。C'她说我们展现了很棒的团队合作和创造力'是老师话的具体内容，完美衔接'老师说她骄傲'→具体夸了什么→作者的感悟。干扰项 E 与全文主题不符。"
     }
   ]
 }
