@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+<title>Max WordMaster 词库管理</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);min-height:100vh;padding:12px;color:#333}
+.container{max-width:600px;margin:0 auto}
+.header{background:rgba(255,255,255,.95);border-radius:16px;padding:20px;text-align:center;margin-bottom:12px;box-shadow:0 4px 20px rgba(0,0,0,.1)}
+.header h1{font-size:20px;color:#4a3f8a;margin-bottom:4px}
+.header h1 .icon{font-size:22px}
+
+.actions{display:flex;gap:12px;margin-bottom:16px}
+.action-btn{flex:1;display:flex;flex-direction:column;align-items:center;gap:6px;padding:16px 12px;background:rgba(255,255,255,.95);border-radius:14px;border:2px dashed #c8c0e0;cursor:pointer;text-decoration:none;color:#4a3f8a;font-size:13px;font-weight:600;transition:all .2s}
+.action-btn:active{transform:scale(.96)}
+.action-btn .action-icon{font-size:28px}
+
+.section-title{color:#fff;font-size:15px;font-weight:700;margin-bottom:10px;padding-left:4px;display:flex;align-items:center;gap:6px}
+
+.unit-card{display:flex;align-items:center;gap:14px;padding:16px;background:rgba(255,255,255,.97);border-radius:14px;margin-bottom:10px;box-shadow:0 2px 12px rgba(0,0,0,.06);cursor:pointer;transition:all .2s;text-decoration:none;color:inherit}
+.unit-card:active{transform:scale(.98)}
+.unit-card .unit-icon{width:44px;height:44px;border-radius:12px;display:flex;align-items:center;justify-content:center;font-size:22px}
+.unit-card:nth-child(odd) .unit-icon{background:#e8e4f0}
+.unit-card:nth-child(even) .unit-icon{background:#fce4ec}
+.unit-card .unit-info{flex:1}
+.unit-card .unit-name{font-size:16px;font-weight:700;color:#333;margin-bottom:3px}
+.unit-card .unit-meta{font-size:12px;color:#888}
+.unit-card .unit-arrow{color:#ccc;font-size:18px}
+
+/* Unit detail page */
+.detail-page{display:none}
+.detail-page.active{display:block}
+.list-page.hidden{display:none}
+
+.back-btn{display:inline-flex;align-items:center;gap:6px;padding:10px 16px;background:rgba(255,255,255,.9);border-radius:10px;border:none;font-size:14px;font-weight:600;color:#4a3f8a;cursor:pointer;margin-bottom:12px}
+.back-btn:active{transform:scale(.96)}
+
+.detail-header{background:rgba(255,255,255,.95);border-radius:16px;padding:16px 20px;margin-bottom:12px;text-align:center}
+.detail-header h2{font-size:18px;color:#4a3f8a;margin-bottom:4px}
+.detail-header .detail-meta{font-size:12px;color:#888}
+
+.tab-bar{display:flex;gap:4px;background:rgba(255,255,255,.85);border-radius:12px;padding:4px;margin-bottom:12px}
+.tab-bar button{flex:1;padding:10px;border:none;border-radius:10px;font-size:13px;font-weight:600;cursor:pointer;background:transparent;color:#888;transition:all .2s}
+.tab-bar button.active{background:#fff;color:#4a3f8a;box-shadow:0 1px 6px rgba(0,0,0,.08)}
+
+.word-item{display:flex;align-items:center;padding:14px 16px;background:rgba(255,255,255,.97);border-radius:12px;margin-bottom:8px;box-shadow:0 2px 8px rgba(0,0,0,.04)}
+.word-item .word-en{font-size:15px;font-weight:600;color:#333;flex:1}
+.word-item .word-zh{font-size:13px;color:#666}
+.word-item .word-check{width:24px;height:24px;border-radius:50%;border:2px solid #ddd;margin-right:10px;display:flex;align-items:center;justify-content:center;cursor:pointer;transition:all .2s;flex-shrink:0}
+.word-item .word-check.mastered{background:#43b883;border-color:#43b883;color:#fff}
+
+.sentence-item{padding:14px 16px;background:rgba(255,255,255,.97);border-radius:12px;margin-bottom:8px;box-shadow:0 2px 8px rgba(0,0,0,.04)}
+.sentence-item .sent-en{font-size:14px;font-weight:500;color:#333;margin-bottom:4px}
+.sentence-item .sent-zh{font-size:12px;color:#888}
+
+.progress-bar{height:4px;background:#e8e4f0;border-radius:2px;margin-top:8px;overflow:hidden}
+.progress-fill{height:100%;background:linear-gradient(90deg,#667eea,#764ba2);border-radius:2px;transition:width .3s}
+
+.bottom-nav{display:flex;gap:6px;margin-top:16px}
+.bottom-nav a{flex:1;padding:10px 4px;text-align:center;border-radius:10px;background:rgba(255,255,255,.9);color:#4a3f8a;font-size:12px;font-weight:600;text-decoration:none}
+.bottom-nav a:active{transform:scale(.96)}
+
+.toast{position:fixed;bottom:60px;left:50%;transform:translateX(-50%) translateY(20px);background:rgba(0,0,0,.8);color:#fff;padding:10px 20px;border-radius:20px;font-size:13px;opacity:0;transition:all .3s;pointer-events:none;z-index:9999}
+.toast.show{opacity:1;transform:translateX(-50%) translateY(0)}
+
+.empty-hint{text-align:center;padding:30px;color:#aaa;font-size:14px}
+</style>
+</head>
+<body>
+<div class="container">
+  <!-- List Page -->
+  <div class="list-page" id="listPage">
+    <div class="header">
+      <h1><span class="icon">&#128214;</span> 词库管理</h1>
+    </div>
+    <div class="actions">
+      <label class="action-btn" id="photoUploadBtn">
+        <span class="action-icon">&#128247;</span>
+        <span>拍照上传</span>
+        <input type="file" accept="image/*" capture="environment" style="display:none" onchange="handlePhotoUpload(this)">
+      </label>
+      <div class="action-btn" onclick="showToast('手动创建功能开发中')">
+        <span class="action-icon">&#9999;&#65039;</span>
+        <span>手动创建</span>
+      </div>
+    </div>
+    <div class="section-title">&#128214; 我的词库</div>
+    <div id="unitList"></div>
+    <div class="bottom-nav">
+      <a href="index.html">&#128221; 去做题</a>
+      <a href="vocab_book.html">&#128218; 积累本</a>
+      <a href="report.html">&#128202; 报告</a>
+    </div>
+  </div>
+
+  <!-- Detail Page -->
+  <div class="detail-page" id="detailPage">
+    <button class="back-btn" onclick="showListPage()">&#9664; 返回</button>
+    <div class="detail-header" id="detailHeader">
+      <h2 id="detailTitle"></h2>
+      <div class="detail-meta" id="detailMeta"></div>
+      <div class="progress-bar"><div class="progress-fill" id="detailProgress" style="width:0%"></div></div>
+    </div>
+    <div class="tab-bar">
+      <button class="active" id="tabWords" onclick="switchTab('words')">&#128221; 单词</button>
+      <button id="tabSentences" onclick="switchTab('sentences')">&#128172; 句子</button>
+    </div>
+    <div id="detailContent"></div>
+  </div>
+</div>
+<div id="toast" class="toast"></div>
+
+<script>
+var unitsData = null;
+var MASTERED_KEY = 'max_wordmaster_mastered';
+var currentUnit = null;
+var currentTab = 'words';
+
+function showToast(msg){
+  var t=document.getElementById('toast');
+  t.textContent=msg;t.classList.add('show');
+  setTimeout(function(){t.classList.remove('show');},2000);
+}
+
+function loadMastered(){
+  var raw=localStorage.getItem(MASTERED_KEY);
+  if(!raw)return{};
+  try{return JSON.parse(raw);}catch(e){return{};}
+}
+function saveMastered(data){
+  localStorage.setItem(MASTERED_KEY,JSON.stringify(data));
+}
+
+function fetchJSON(url,cb){
+  var xhr=new XMLHttpRequest();
+  xhr.open('GET',url,true);
+  xhr.overrideMimeType('application/json; charset=utf-8');
+  xhr.onreadystatechange=function(){
+    if(xhr.readyState===4){
+      if(xhr.status===200||xhr.status===0){
+        try{cb(JSON.parse(xhr.responseText));}catch(e){cb(null);}
+      } else {cb(null);}
+    }
+  };
+  xhr.send();
+}
+
+function getMasteredCount(unitId, words){
+  var m=loadMastered();
+  var key=unitId;
+  if(!m[key])return 0;
+  var count=0;
+  for(var i=0;i<words.length;i++){
+    if(m[key][words[i].en])count++;
+  }
+  return count;
+}
+
+function renderUnitList(){
+  if(!unitsData||!unitsData.units){
+    document.getElementById('unitList').innerHTML='<div class="empty-hint">加载中...</div>';
+    return;
+  }
+  var html='';
+  for(var i=0;i<unitsData.units.length;i++){
+    var u=unitsData.units[i];
+    var wordCount=u.words?u.words.length:0;
+    var sentCount=u.sentences?u.sentences.length:0;
+    var mastered=getMasteredCount(u.id, u.words||[]);
+    html+='<div class="unit-card" onclick="showDetail(\''+u.id+'\')">';
+    html+='<div class="unit-icon">&#128214;</div>';
+    html+='<div class="unit-info">';
+    html+='<div class="unit-name">'+u.id+' - '+u.name+'</div>';
+    html+='<div class="unit-meta">'+wordCount+'个单词 · '+sentCount+'个句子 · 已掌握'+mastered+'/'+wordCount+'</div>';
+    html+='</div>';
+    html+='<div class="unit-arrow">&#8250;</div>';
+    html+='</div>';
+  }
+  document.getElementById('unitList').innerHTML=html;
+}
+
+function showDetail(unitId){
+  var unit=null;
+  for(var i=0;i<unitsData.units.length;i++){
+    if(unitsData.units[i].id===unitId){unit=unitsData.units[i];break;}
+  }
+  if(!unit)return;
+  currentUnit=unit;
+  currentTab='words';
+  document.getElementById('listPage').classList.add('hidden');
+  document.getElementById('detailPage').classList.add('active');
+  document.getElementById('detailTitle').textContent=unit.id+' - '+unit.name;
+  updateDetailContent();
+}
+
+function showListPage(){
+  document.getElementById('detailPage').classList.remove('active');
+  document.getElementById('listPage').classList.remove('hidden');
+  currentUnit=null;
+  renderUnitList();
+}
+
+function switchTab(tab){
+  currentTab=tab;
+  document.getElementById('tabWords').classList.toggle('active',tab==='words');
+  document.getElementById('tabSentences').classList.toggle('active',tab==='sentences');
+  updateDetailContent();
+}
+
+function toggleMastered(word){
+  if(!currentUnit)return;
+  var m=loadMastered();
+  var key=currentUnit.id;
+  if(!m[key])m[key]={};
+  if(m[key][word])delete m[key][word];
+  else m[key][word]=1;
+  saveMastered(m);
+  updateDetailContent();
+}
+
+function updateDetailContent(){
+  if(!currentUnit)return;
+  var words=currentUnit.words||[];
+  var sents=currentUnit.sentences||[];
+  var m=loadMastered();
+  var mUnit=m[currentUnit.id]||{};
+  var mastered=0;
+  for(var i=0;i<words.length;i++){if(mUnit[words[i].en])mastered++;}
+  var pct=words.length>0?Math.round(mastered/words.length*100):0;
+  document.getElementById('detailMeta').textContent=words.length+'个单词 · '+sents.length+'个句子 · 已掌握'+mastered+'/'+words.length;
+  document.getElementById('detailProgress').style.width=pct+'%';
+
+  var html='';
+  if(currentTab==='words'){
+    for(var i=0;i<words.length;i++){
+      var w=words[i];
+      var isMastered=!!mUnit[w.en];
+      html+='<div class="word-item">';
+      html+='<div class="word-check'+(isMastered?' mastered':'')+'" onclick="toggleMastered(\''+w.en.replace(/'/g,"\\'")+'\')">'+(isMastered?'&#10003;':'')+'</div>';
+      html+='<div class="word-en">'+w.en+'</div>';
+      html+='<div class="word-zh">'+w.zh+'</div>';
+      html+='</div>';
+    }
+    if(words.length===0)html='<div class="empty-hint">暂无单词</div>';
+  } else {
+    for(var i=0;i<sents.length;i++){
+      var s=sents[i];
+      html+='<div class="sentence-item">';
+      html+='<div class="sent-en">'+(i+1)+'. '+s.en+'</div>';
+      html+='<div class="sent-zh">'+s.zh+'</div>';
+      html+='</div>';
+    }
+    if(sents.length===0)html='<div class="empty-hint">暂无句子</div>';
+  }
+  document.getElementById('detailContent').innerHTML=html;
+}
+
+function handlePhotoUpload(input){
+  if(input.files&&input.files[0]){
+    showToast('照片已选择，识别功能开发中');
+  }
+}
+
+// Init
+fetchJSON('units_data.json',function(d){
+  unitsData=d;
+  renderUnitList();
+});
+</script>
+</body>
+</html>
