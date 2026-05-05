@@ -1,356 +1,204 @@
 ﻿{
   "date": "2026-05-05",
   "session_number": 1,
+  "total_questions": 20,
+  "difficulty": {
+    "grammar": 2,
+    "vocabulary": 2,
+    "cloze": 3,
+    "reading": 2,
+    "fill": 2
+  },
   "questions": [
     {
       "id": 1,
       "type": "grammar",
-      "knowledge_point": "present_perfect_vs_past_simple",
-      "difficulty": 2,
-      "stem": "My father ______ to Beijing twice. He ______ there last month for a business trip.",
-      "options": [
-        "A. has been; went",
-        "B. has gone; went",
-        "C. went; has been",
-        "D. has been; has gone"
-      ],
-      "correct_answer": "A",
-      "explanation": "第一空选has been是因为'have been to'表示'去过某地（已经回来）'，而'have gone to'表示'去了某地（还没回来）'，根据twice（两次）可知是去过已回的经历；第二空选went是因为last month（上个月）是明确的过去时间状语，必须用一般过去时。口诀：have been表经历（人回来），have gone表去了（人没回）；过去时间是过去时的标志。",
-      "label": "语法题"
+      "group": "grammar_single_1",
+      "knowledge_point": "present_perfect",
+      "stem": "-- I haven't seen Jack for a long time.\n-- He _____ Beijing. He won't come back until next month.",
+      "options": ["A. has been to", "B. has gone to", "C. went to", "D. will go to"],
+      "correct_answer": "B",
+      "explanation": "have been to \u8868\u793a\u53bb\u8fc7\u5df2\u56de\u6765\uff1bhave gone to \u8868\u793a\u53bb\u4e86\u8fd8\u6ca1\u56de\u6765\u3002\u6839\u636e won't come back until next month \u53ef\u77e5\u4ed6\u53bb\u4e86\u8fd8\u6ca1\u56de\u6765\uff0c\u9009 has gone to\u3002"
     },
     {
       "id": 2,
       "type": "grammar",
-      "knowledge_point": "relative_clause_who_which",
-      "difficulty": 2,
-      "stem": "The boy ______ is reading a book over there is my classmate. He is very interested in science.",
-      "options": [
-        "A. who",
-        "B. which",
-        "C. whom",
-        "D. whose"
-      ],
-      "correct_answer": "A",
-      "explanation": "考查定语从句关系代词的选择。先行词是the boy（指人），且关系代词在从句中作主语（is reading的主语），因此用who。which用于指物；whom用于指人但作宾语；whose表示'谁的'，在从句中作定语。判断技巧：先看先行词是人还是物，再看空格在从句中充当什么成分（主语、宾语还是定语）。",
-      "label": "语法题"
+      "group": "grammar_single_2",
+      "knowledge_point": "object_clause",
+      "stem": "The teacher asked the students _____.",
+      "options": ["A. if they have finished the work", "B. if they had finished the work", "C. have they finished the work", "D. had they finished the work"],
+      "correct_answer": "B",
+      "explanation": "\u5bbe\u8bed\u4ece\u53e5\u4e09\u8981\u7d20\uff1a1) \u5f15\u5bfc\u8bcd if/whether\uff08\u662f\u5426\uff09\uff1b2) \u9648\u8ff0\u8bed\u5e8f\uff08\u6392\u9664C\u3001D\uff09\uff1b3) \u65f6\u6001\u547c\u5e94\u2014\u2014\u4e3b\u53e5 asked \u662f\u8fc7\u53bb\u65f6\uff0c\u4ece\u53e5\u8981\u7528\u8fc7\u53bb\u5b8c\u6210\u65f6 had finished\u3002"
     },
     {
       "id": 3,
       "type": "grammar",
-      "knowledge_point": "passive_voice",
-      "difficulty": 1,
-      "stem": "These old books ______ to the school library yesterday afternoon.",
-      "options": [
-        "A. returned",
-        "B. are returned",
-        "C. were returned",
-        "D. return"
-      ],
-      "correct_answer": "C",
-      "explanation": "考查一般过去时的被动语态。主语books（书）是被归还的对象，因此要用被动语态（be + done）；yesterday afternoon（昨天下午）是过去时间状语，所以be动词用were。结构为：were + returned。A和D是主动语态，B是一般现在时的被动，时态不符。解题步骤：先判断主动/被动（书被还→被动），再判断时态（yesterday→过去时）。",
-      "label": "语法题"
+      "group": "grammar_single_3",
+      "knowledge_point": "relative_clause",
+      "stem": "The boy _____ is playing basketball over there is my cousin.",
+      "options": ["A. which", "B. who", "C. whom", "D. what"],
+      "correct_answer": "B",
+      "explanation": "\u5148\u884c\u8bcd the boy \u662f\u4eba\uff0c\u4e14\u5728\u4ece\u53e5\u4e2d\u4f5c\u4e3b\u8bed\uff0c\u7528\u5173\u7cfb\u4ee3\u8bcd who\u3002which \u4fee\u9970\u7269\uff1bwhom \u4f5c\u5bbe\u8bed\uff1bwhat \u4e0d\u5f15\u5bfc\u5b9a\u8bed\u4ece\u53e5\u3002"
     },
     {
       "id": 4,
       "type": "grammar",
-      "knowledge_point": "object_clause",
-      "difficulty": 3,
-      "stem": "Could you tell me ______? I need to send a package urgently.",
-      "options": [
-        "A. where is the nearest post office",
-        "B. where the nearest post office is",
-        "C. where does the nearest post office lie",
-        "D. where the nearest post office does lie"
-      ],
+      "group": "grammar_single_4",
+      "knowledge_point": "doing_vs_todo",
+      "stem": "My mum always tells me _____ too much time on computer games.",
+      "options": ["A. not spend", "B. not to spend", "C. not spending", "D. to not spend"],
       "correct_answer": "B",
-      "explanation": "考查宾语从句的语序。宾语从句必须使用陈述句语序（主语+谓语），不能用疑问句语序（助动词/系动词+主语）。A和C都是疑问句语序（is在主语前/does在主语前），D多了多余的助动词does。正确结构是：连接词where + 主语the nearest post office + 谓语is。口诀：宾语从句用陈述，主语谓语不分离。",
-      "label": "语法题"
+      "explanation": "tell sb. (not) to do sth. \u56fa\u5b9a\u642d\u914d\uff0c\u5426\u5b9a\u5f62\u5f0f\u662f not to do\uff0c\u653e\u5728 to \u524d\u9762\u3002\u4e0d\u662f to not do\uff08D\u9519\uff09\u3002"
     },
     {
       "id": 5,
       "type": "vocabulary",
-      "knowledge_point": "prefix_un_dis",
-      "difficulty": 1,
-      "stem": "If you add the prefix 'un-' to the word 'fair', you get a new word with the opposite meaning. Similarly, 'uncomfortable' means ______.",
-      "options": [
-        "A. not comfortable",
-        "B. very comfortable",
-        "C. more comfortable",
-        "D. less comfortable"
-      ],
+      "group": "vocab_single_5",
+      "knowledge_point": "word_form",
+      "stem": "We felt very _____ (excite) when we heard the _____ (excite) news.",
+      "options": ["A. excited; exciting", "B. exciting; excited", "C. excited; excited", "D. exciting; exciting"],
       "correct_answer": "A",
-      "explanation": "考查前缀un-的含义。un-是常见的否定前缀，表示'不、无、相反'的意思。fair（公平的）→unfair（不公平的），comfortable（舒适的）→uncomfortable（不舒适的）。其他选项：very表示'非常'，more表示'更'，less表示'较少'，都不符合un-的构词规则。常见un-前缀词：unhappy, unhealthy, unable, unusual等。",
-      "label": "词汇题"
+      "explanation": "-ed \u5f62\u5bb9\u8bcd\u4fee\u9970\u4eba\u7684\u611f\u53d7\uff08we felt excited\uff09\uff1b-ing \u5f62\u5bb9\u8bcd\u4fee\u9970\u4e8b\u7269\u7684\u6027\u8d28\uff08exciting news\uff09\u3002"
     },
     {
       "id": 6,
       "type": "vocabulary",
-      "knowledge_point": "word_meaning_context",
-      "difficulty": 2,
-      "stem": "We should ______ every drop of water in our daily life because water resources are limited and precious.",
-      "options": [
-        "A. treasure",
-        "B. save",
-        "C. waste",
-        "D. value"
-      ],
+      "group": "vocab_single_6",
+      "knowledge_point": "phrase_collocation",
+      "stem": "Please _____ the lights when you leave the classroom.",
+      "options": ["A. turn on", "B. turn off", "C. turn up", "D. turn down"],
       "correct_answer": "B",
-      "explanation": "考查动词词义辨析。save表示'节约、节省'，常与water/money/time搭配，表示节约资源；treasure和value都表示'珍惜、珍视'，虽然意思相关，但不如save直接表示'节约用水'这一动作；waste（浪费）与句意相反。根据上下文'水资源有限'可知，这里强调的是'节约'每一滴水。固定搭配：save water/resources。",
-      "label": "词汇题"
+      "explanation": "\u79bb\u5f00\u6559\u5ba4\u5e94\u8be5\u5173\u706f\u3002turn on \u6253\u5f00\uff1bturn off \u5173\u95ed\uff1bturn up \u8c03\u5927\u97f3\u91cf\uff1bturn down \u8c03\u5c0f\u97f3\u91cf/\u62d2\u7edd\u3002"
     },
     {
       "id": 7,
       "type": "vocabulary",
-      "knowledge_point": "phrasal_verbs",
-      "difficulty": 2,
-      "stem": "It's raining heavily outside. Please ______ your raincoat before you go out, or you will get wet.",
-      "options": [
-        "A. put on",
-        "B. put off",
-        "C. put away",
-        "D. put up"
-      ],
-      "correct_answer": "A",
-      "explanation": "考查put短语动词辨析。put on表示'穿上（衣物）'；put off表示'推迟、拖延'；put away表示'把...收起来、放好'；put up表示'张贴、搭建、举起'。根据语境'外面下大雨'和'雨衣'，应该是'穿上'雨衣。短语动词要结合介词/副词的含义记忆：on表示'上身'，off表示'离开/取消'，away表示'远离'，up表示'向上'。",
-      "label": "词汇题"
+      "group": "vocab_single_7",
+      "knowledge_point": "context_word",
+      "stem": "Tom is very _____. He always shares his food and toys with others.",
+      "options": ["A. lazy", "B. generous", "C. shy", "D. strict"],
+      "correct_answer": "B",
+      "explanation": "\u6839\u636e\u8bed\u5883 shares his food and toys with others\uff08\u4e0e\u4eba\u5206\u4eab\u98df\u7269\u548c\u73a9\u5177\uff09\u53ef\u77e5 Tom \u5f88\u6170\u6168\u5927\u65b9\u3002generous = \u6170\u6168\u7684\u3002"
     },
     {
       "id": 8,
       "type": "cloze",
-      "knowledge_point": "cloze_general",
-      "difficulty": 2,
-      "group": "cloze_1",
-      "group_passage": "Last month, our class started an environmental project called \"Green Campus\". We wanted to find ways to make our school more eco-friendly and reduce waste.\n\nFirst, we (8)______ a survey among 200 students. We asked them about their daily habits, such as how they dealt with waste and whether they saved water. The results were surprising. Most students (9)______ about environmental problems, but few took real action in their daily lives.\n\nThen we decided to make changes. We put up colorful posters to remind everyone to turn off lights when leaving classrooms. We also set up recycling bins in each classroom for paper and plastic. To our joy, more and more students (10)______ in this activity and started sorting their garbage.\n\nThe most successful part was the \"No Plastic Week\". During that week, students tried not to use plastic bags or bottles. It was difficult at first, but everyone felt proud when they (11)______ it. We collected over 500 plastic bottles for recycling.\n\nNow, our school has become much cleaner. This project taught us that small actions can make a big (12)______. We plan to continue our work next term and expand it to the whole neighborhood.",
-      "stem": "(8)______",
-      "options": [
-        "A. did",
-        "B. made",
-        "C. took",
-        "D. had"
-      ],
+      "group": "cloze_school_band",
+      "group_passage": "Last month, our school held a music festival. Every class needed to (8)_____ a band and perform on stage. At first, nobody in our class wanted to be the lead singer. We all felt (9)_____ about singing in front of hundreds of people.\n\nThen Amy raised her hand. We were (10)_____ because Amy was always quiet in class. She said, 'I know I'm not the best singer, but I'd like to try.' Her (11)_____ encouraged the rest of us. Soon, Jack offered to play guitar, and Lily said she could play drums.\n\nWe practiced every afternoon for two weeks. Sometimes we made mistakes and felt like (12)_____. But Amy always smiled and said, 'Let's try one more time.' On the day of the festival, we performed our best. We didn't win first prize, but everyone cheered for us. We learned that trying is more important than being perfect.",
+      "stem": "(8)",
+      "options": ["A. form", "B. join", "C. leave", "D. close"],
       "correct_answer": "A",
-      "explanation": "考查固定搭配'do a survey'（做调查）。这是英语中的习惯搭配，虽然中文可以说'做一个调查'，但英文固定用do而不是make。make通常与decision, plan, mistake等搭配；take通常与photo, exam, risk等搭配；have表示'拥有'。完形填空要注意动词与名词的搭配习惯。",
-      "label": "完形填空"
+      "explanation": "form a band = \u7ec4\u5efa\u4e00\u4e2a\u4e50\u961f\u3002join \u662f\u52a0\u5165\u5df2\u6709\u7684\uff1bleave \u662f\u79bb\u5f00\uff1bclose \u662f\u5173\u95ed\u3002\u6839\u636e\u8bed\u5883\u6bcf\u4e2a\u73ed\u9700\u8981'\u7ec4\u5efa'\u4e50\u961f\u8868\u6f14\u3002"
     },
     {
       "id": 9,
       "type": "cloze",
-      "knowledge_point": "cloze_general",
-      "difficulty": 2,
-      "group": "cloze_1",
-      "group_passage": "Last month, our class started an environmental project called \"Green Campus\". We wanted to find ways to make our school more eco-friendly and reduce waste.\n\nFirst, we (8)______ a survey among 200 students. We asked them about their daily habits, such as how they dealt with waste and whether they saved water. The results were surprising. Most students (9)______ about environmental problems, but few took real action in their daily lives.\n\nThen we decided to make changes. We put up colorful posters to remind everyone to turn off lights when leaving classrooms. We also set up recycling bins in each classroom for paper and plastic. To our joy, more and more students (10)______ in this activity and started sorting their garbage.\n\nThe most successful part was the \"No Plastic Week\". During that week, students tried not to use plastic bags or bottles. It was difficult at first, but everyone felt proud when they (11)______ it. We collected over 500 plastic bottles for recycling.\n\nNow, our school has become much cleaner. This project taught us that small actions can make a big (12)______. We plan to continue our work next term and expand it to the whole neighborhood.",
-      "stem": "(9)______",
-      "options": [
-        "A. worried",
-        "B. cared",
-        "C. knew",
-        "D. thought"
-      ],
+      "group": "cloze_school_band",
+      "stem": "(9)",
+      "options": ["A. excited", "B. bored", "C. nervous", "D. proud"],
       "correct_answer": "C",
-      "explanation": "考查动词词义及语境理解。根据but转折后的'few took real action'（很少采取行动）可知，前面应该是'大多数学生了解环境问题'。know about表示'了解、知道'；worry about表示'担心'；care about表示'关心'；think about表示'考虑'。从调查结果'令人惊讶'来看，学生们是'知道'问题但不行动，而非'关心'却不行动，后者逻辑上不太合理。",
-      "label": "完形填空"
+      "explanation": "\u6839\u636e singing in front of hundreds of people\uff08\u5728\u51e0\u767e\u4eba\u524d\u9762\u5531\u6b4c\uff09\u4e14 nobody wanted to be the lead singer\uff0c\u8bf4\u660e\u5927\u5bb6\u611f\u5230\u7d27\u5f20\u3002nervous = \u7d27\u5f20\u7684\u3002"
     },
     {
       "id": 10,
       "type": "cloze",
-      "knowledge_point": "cloze_general",
-      "difficulty": 1,
-      "group": "cloze_1",
-      "group_passage": "Last month, our class started an environmental project called \"Green Campus\". We wanted to find ways to make our school more eco-friendly and reduce waste.\n\nFirst, we (8)______ a survey among 200 students. We asked them about their daily habits, such as how they dealt with waste and whether they saved water. The results were surprising. Most students (9)______ about environmental problems, but few took real action in their daily lives.\n\nThen we decided to make changes. We put up colorful posters to remind everyone to turn off lights when leaving classrooms. We also set up recycling bins in each classroom for paper and plastic. To our joy, more and more students (10)______ in this activity and started sorting their garbage.\n\nThe most successful part was the \"No Plastic Week\". During that week, students tried not to use plastic bags or bottles. It was difficult at first, but everyone felt proud when they (11)______ it. We collected over 500 plastic bottles for recycling.\n\nNow, our school has become much cleaner. This project taught us that small actions can make a big (12)______. We plan to continue our work next term and expand it to the whole neighborhood.",
-      "stem": "(10)______",
-      "options": [
-        "A. joined",
-        "B. took part",
-        "C. attended",
-        "D. entered"
-      ],
+      "group": "cloze_school_band",
+      "stem": "(10)",
+      "options": ["A. angry", "B. surprised", "C. bored", "D. sad"],
       "correct_answer": "B",
-      "explanation": "考查表示'参加'的动词辨析。take part in是固定搭配，表示'参加（活动）'；join通常指加入组织、团队或人群（如join the army/club）；attend指出席、参加会议、课程等；enter指进入某个空间或参加比赛。空格后有in，只有take part能与in搭配。解题技巧：看空格后是否有in，有in则选take part。",
-      "label": "完形填空"
+      "explanation": "Amy was always quiet in class\uff08Amy \u5e73\u65f6\u5f88\u5b89\u9759\uff09\uff0c\u4f46\u5979\u4e3b\u52a8\u4e3e\u624b\uff0c\u6240\u4ee5\u5927\u5bb6\u611f\u5230'\u60ca\u8bb6'\u3002surprised \u7b26\u5408'\u51fa\u4e4e\u610f\u6599'\u7684\u8bed\u5883\u3002"
     },
     {
       "id": 11,
       "type": "cloze",
-      "knowledge_point": "cloze_general",
-      "difficulty": 1,
-      "group": "cloze_1",
-      "group_passage": "Last month, our class started an environmental project called \"Green Campus\". We wanted to find ways to make our school more eco-friendly and reduce waste.\n\nFirst, we (8)______ a survey among 200 students. We asked them about their daily habits, such as how they dealt with waste and whether they saved water. The results were surprising. Most students (9)______ about environmental problems, but few took real action in their daily lives.\n\nThen we decided to make changes. We put up colorful posters to remind everyone to turn off lights when leaving classrooms. We also set up recycling bins in each classroom for paper and plastic. To our joy, more and more students (10)______ in this activity and started sorting their garbage.\n\nThe most successful part was the \"No Plastic Week\". During that week, students tried not to use plastic bags or bottles. It was difficult at first, but everyone felt proud when they (11)______ it. We collected over 500 plastic bottles for recycling.\n\nNow, our school has become much cleaner. This project taught us that small actions can make a big (12)______. We plan to continue our work next term and expand it to the whole neighborhood.",
-      "stem": "(11)______",
-      "options": [
-        "A. finished",
-        "B. completed",
-        "C. did",
-        "D. achieved"
-      ],
-      "correct_answer": "A",
-      "explanation": "考查动词与代词it的搭配。finish it表示'完成了这件事/活动'，是常用口语表达；complete虽然也表示'完成'，但通常接task, project, work等具体名词；do it表示'做这件事'，但前文说'一开始很难'，所以这里应该是'完成'而非'做'；achieve通常接goal, success, dream等，不接it指代活动。根据上下文'感到自豪'，应该是坚持完成了这一周。",
-      "label": "完形填空"
+      "group": "cloze_school_band",
+      "stem": "(11)",
+      "options": ["A. silence", "B. joke", "C. courage", "D. mistake"],
+      "correct_answer": "C",
+      "explanation": "Amy \u4e3b\u52a8\u7ad9\u51fa\u6765\u7684'\u52c7\u6c14'(courage)\u9f13\u52b1\u4e86\u5176\u4ed6\u4eba\u3002\u540e\u9762\u5199\u5230 encouraged the rest of us\uff0c\u5bf9\u5e94 courage\u3002"
     },
     {
       "id": 12,
       "type": "cloze",
-      "knowledge_point": "cloze_general",
-      "difficulty": 2,
-      "group": "cloze_1",
-      "group_passage": "Last month, our class started an environmental project called \"Green Campus\". We wanted to find ways to make our school more eco-friendly and reduce waste.\n\nFirst, we (8)______ a survey among 200 students. We asked them about their daily habits, such as how they dealt with waste and whether they saved water. The results were surprising. Most students (9)______ about environmental problems, but few took real action in their daily lives.\n\nThen we decided to make changes. We put up colorful posters to remind everyone to turn off lights when leaving classrooms. We also set up recycling bins in each classroom for paper and plastic. To our joy, more and more students (10)______ in this activity and started sorting their garbage.\n\nThe most successful part was the \"No Plastic Week\". During that week, students tried not to use plastic bags or bottles. It was difficult at first, but everyone felt proud when they (11)______ it. We collected over 500 plastic bottles for recycling.\n\nNow, our school has become much cleaner. This project taught us that small actions can make a big (12)______. We plan to continue our work next term and expand it to the whole neighborhood.",
-      "stem": "(12)______",
-      "options": [
-        "A. decision",
-        "B. progress",
-        "C. difference",
-        "D. change"
-      ],
-      "correct_answer": "C",
-      "explanation": "考查固定搭配make a difference（产生影响、起作用）。这是英语中的固定短语，表示小的行动能产生大的影响。make progress表示'取得进步'，但通常说make great progress，不与big搭配；make a decision表示'做决定'；make a change表示'做出改变'，虽然意思通顺，但make a difference是更地道的表达，强调'有影响、有意义'，符合文章主题'小行动大意义'。",
-      "label": "完形填空"
+      "group": "cloze_school_band",
+      "stem": "(12)",
+      "options": ["A. performing", "B. giving up", "C. moving on", "D. showing off"],
+      "correct_answer": "B",
+      "explanation": "felt like giving up = \u60f3\u8981\u653e\u5f03\u3002\u524d\u9762\u8bf4 made mistakes\uff08\u72af\u4e86\u9519\u8bef\uff09\uff0c\u81ea\u7136\u4f1a\u60f3\u653e\u5f03\u3002But \u8f6c\u6298\u540e Amy \u9f13\u52b1\u5927\u5bb6\u518d\u8bd5\u4e00\u6b21\uff0c\u5f62\u6210\u5bf9\u6bd4\u3002"
     },
     {
       "id": 13,
       "type": "reading",
-      "knowledge_point": "detail",
-      "difficulty": 2,
-      "group": "reading_1",
-      "group_passage": "When David Chen, a 14-year-old student from Shenzhen, noticed that his grandmother had difficulty watering plants on their balcony, he came up with a clever idea. He designed a simple but useful device that could water plants automatically.\n\nDavid's invention, called \"Smart Watering Helper\", uses sensors to check the soil moisture (湿度). When the soil becomes too dry, the device automatically waters the plants. It stops when the soil is wet enough. \"I wanted to help elderly people who love gardening but find it hard to bend down frequently,\" David explained.\n\nThe device is made from recycled materials, including old plastic bottles and electronic parts from broken toys. David spent three months building and testing it. He failed many times, but he never gave up. \"Each failure taught me something new,\" he said.\n\nDavid's invention won first prize in a city-wide science competition last month. The judges praised his creativity and care for the elderly. Now, a local company is interested in producing his device on a larger scale. David hopes it will help more senior citizens enjoy gardening without physical strain (负担).\n\n\"I believe science should serve people and solve real problems,\" David said. \"You don't need expensive materials to create something useful. What matters is observation and empathy (同理心).\"",
-      "stem": "Why did David invent the \"Smart Watering Helper\"?",
-      "options": [
-        "A. To win the science competition.",
-        "B. To help his grandmother and other elderly people.",
-        "C. To use up old plastic bottles at home.",
-        "D. To show his talent in electronics."
-      ],
-      "correct_answer": "B",
-      "explanation": "细节理解题。根据第一段'noticed that his grandmother had difficulty watering plants'和第二段'I wanted to help elderly people who love gardening but find it hard to bend down frequently'可知，David发明这个装置是为了帮助奶奶和其他喜欢园艺但弯腰困难的老年人。A选项赢得比赛是后来的结果，不是最初目的；C选项使用旧塑料瓶是制作材料，不是目的；D选项展示电子天赋文中未提及。解题技巧：细节题要找准关键词（人名、地名、数字），回原文定位找对应句子。",
-      "label": "阅读-细节理解"
+      "group": "reading_vertical_farming",
+      "group_passage": "Have you ever thought about growing food without soil? This is not science fiction -- it is called vertical farming, and it is already happening in many cities around the world.\n\nVertical farms are indoor farms built in tall buildings. Instead of soil, plants grow in water mixed with nutrients. Special LED lights provide the energy that plants need to grow. Because everything is controlled indoors, vertical farms can produce food all year round, no matter what the weather is like outside.\n\nThere are several advantages of vertical farming. First, it uses much less water than traditional farming -- about 95% less. Second, because the farms are in cities, food does not need to travel long distances to reach consumers. This means fresher food and less pollution from trucks. Third, no pesticides are needed because there are no insects indoors.\n\nHowever, vertical farming also has challenges. The biggest one is the cost of electricity for the LED lights. Running these lights 24 hours a day is expensive. Some critics say that until we find cheaper and greener energy sources, vertical farming will not be able to compete with traditional farming on price.\n\nDespite these challenges, many experts believe vertical farming will play an important role in feeding the growing world population, especially in crowded cities where farmland is scarce.",
+      "stem": "How much less water does vertical farming use compared to traditional farming?",
+      "options": ["A. About 50% less.", "B. About 75% less.", "C. About 95% less.", "D. About 100% less."],
+      "correct_answer": "C",
+      "explanation": "\u539f\u6587\u7b2c\u4e09\u6bb5\u660e\u786e\u8bf4 it uses much less water than traditional farming -- about 95% less\uff0c\u76f4\u63a5\u5bf9\u5e94\u9009\u9879C\u3002"
     },
     {
       "id": 14,
       "type": "reading",
-      "knowledge_point": "inference",
-      "difficulty": 3,
-      "group": "reading_1",
-      "group_passage": "When David Chen, a 14-year-old student from Shenzhen, noticed that his grandmother had difficulty watering plants on their balcony, he came up with a clever idea. He designed a simple but useful device that could water plants automatically.\n\nDavid's invention, called \"Smart Watering Helper\", uses sensors to check the soil moisture (湿度). When the soil becomes too dry, the device automatically waters the plants. It stops when the soil is wet enough. \"I wanted to help elderly people who love gardening but find it hard to bend down frequently,\" David explained.\n\nThe device is made from recycled materials, including old plastic bottles and electronic parts from broken toys. David spent three months building and testing it. He failed many times, but he never gave up. \"Each failure taught me something new,\" he said.\n\nDavid's invention won first prize in a city-wide science competition last month. The judges praised his creativity and care for the elderly. Now, a local company is interested in producing his device on a larger scale. David hopes it will help more senior citizens enjoy gardening without physical strain (负担).\n\n\"I believe science should serve people and solve real problems,\" David said. \"You don't need expensive materials to create something useful. What matters is observation and empathy (同理心).\"",
-      "stem": "What can we learn about David from the passage?",
-      "options": [
-        "A. He is a professional engineer working for a big company.",
-        "B. He succeeded on his first try without any failures.",
-        "C. He is caring, creative and good at learning from mistakes.",
-        "D. He spent a lot of money buying expensive materials."
-      ],
-      "correct_answer": "C",
-      "explanation": "推理判断题。根据文章第三段'He failed many times, but he never gave up. Each failure taught me something new'可知他善于从错误中学习；根据他想帮助老人可知他有爱心（caring）；根据他设计自动浇水装置可知他有创造力（creative）。A选项错误，他是14岁学生；B选项错误，文中说他失败了很多次；D选项错误，他使用的是recycled materials（回收材料），不是昂贵的材料。推理题要注意：答案不是原文原话，而是根据原文信息合理推断。",
-      "label": "阅读-推理判断"
+      "group": "reading_vertical_farming",
+      "stem": "What is the biggest challenge of vertical farming according to the passage?",
+      "options": ["A. There is not enough space in cities.", "B. The cost of electricity for LED lights.", "C. Plants cannot grow without soil.", "D. Consumers do not trust indoor food."],
+      "correct_answer": "B",
+      "explanation": "\u539f\u6587\u7b2c\u56db\u6bb5 The biggest one is the cost of electricity for the LED lights\uff0c\u76f4\u63a5\u70b9\u660e\u6700\u5927\u6311\u6218\u662fLED\u706f\u7684\u7535\u8d39\u6210\u672c\u3002"
     },
     {
       "id": 15,
       "type": "reading",
-      "knowledge_point": "word_guessing_context",
-      "difficulty": 2,
-      "group": "reading_1",
-      "group_passage": "When David Chen, a 14-year-old student from Shenzhen, noticed that his grandmother had difficulty watering plants on their balcony, he came up with a clever idea. He designed a simple but useful device that could water plants automatically.\n\nDavid's invention, called \"Smart Watering Helper\", uses sensors to check the soil moisture (湿度). When the soil becomes too dry, the device automatically waters the plants. It stops when the soil is wet enough. \"I wanted to help elderly people who love gardening but find it hard to bend down frequently,\" David explained.\n\nThe device is made from recycled materials, including old plastic bottles and electronic parts from broken toys. David spent three months building and testing it. He failed many times, but he never gave up. \"Each failure taught me something new,\" he said.\n\nDavid's invention won first prize in a city-wide science competition last month. The judges praised his creativity and care for the elderly. Now, a local company is interested in producing his device on a larger scale. David hopes it will help more senior citizens enjoy gardening without physical strain (负担).\n\n\"I believe science should serve people and solve real problems,\" David said. \"You don't need expensive materials to create something useful. What matters is observation and empathy (同理心).\"",
-      "stem": "What does the underlined word 'strain' in Paragraph 4 probably mean?",
-      "options": [
-        "A. 负担/压力",
-        "B. 喜悦",
-        "C. 工具",
-        "D. 经验"
-      ],
-      "correct_answer": "A",
-      "explanation": "词义猜测题。根据上下文线索，前文提到老人'find it hard to bend down frequently'（经常弯腰困难），所以这个装置是为了帮助老人享受园艺而无需身体上的'负担'或'压力'。strain所在句'without physical strain'对应前文的'hard to bend down'，因此strain应表示身体负担或压力。B选项喜悦、C选项工具、D选项经验都不符合语境。词义猜测技巧：根据上下文逻辑关系（因果、转折、解释）和同义词/反义词线索推断。",
-      "label": "阅读-词义猜测"
+      "group": "reading_vertical_farming",
+      "stem": "What does the underlined word 'scarce' in the last paragraph probably mean?",
+      "options": ["A. Expensive.", "B. Polluted.", "C. Difficult to find.", "D. Easy to reach."],
+      "correct_answer": "C",
+      "explanation": "scarce \u51fa\u73b0\u5728 crowded cities where farmland is scarce \u7684\u8bed\u5883\u4e2d\u3002\u62e5\u6324\u7684\u57ce\u5e02\u91cc\u519c\u7530'\u7a00\u7f3a/\u96be\u4ee5\u627e\u5230'\uff0cC. Difficult to find \u6700\u8d34\u8fd1\u3002"
     },
     {
       "id": 16,
       "type": "reading",
-      "knowledge_point": "main_idea_title",
-      "difficulty": 3,
-      "group": "reading_1",
-      "group_passage": "When David Chen, a 14-year-old student from Shenzhen, noticed that his grandmother had difficulty watering plants on their balcony, he came up with a clever idea. He designed a simple but useful device that could water plants automatically.\n\nDavid's invention, called \"Smart Watering Helper\", uses sensors to check the soil moisture (湿度). When the soil becomes too dry, the device automatically waters the plants. It stops when the soil is wet enough. \"I wanted to help elderly people who love gardening but find it hard to bend down frequently,\" David explained.\n\nThe device is made from recycled materials, including old plastic bottles and electronic parts from broken toys. David spent three months building and testing it. He failed many times, but he never gave up. \"Each failure taught me something new,\" he said.\n\nDavid's invention won first prize in a city-wide science competition last month. The judges praised his creativity and care for the elderly. Now, a local company is interested in producing his device on a larger scale. David hopes it will help more senior citizens enjoy gardening without physical strain (负担).\n\n\"I believe science should serve people and solve real problems,\" David said. \"You don't need expensive materials to create something useful. What matters is observation and empathy (同理心).\"",
-      "stem": "What is the best title for this passage?",
-      "options": [
-        "A. A Teenager's Invention for the Elderly",
-        "B. How to Water Plants Automatically",
-        "C. A Science Competition in Shenzhen",
-        "D. Gardening Tips for Senior Citizens"
-      ],
-      "correct_answer": "A",
-      "explanation": "主旨大意题/最佳标题题。文章主要讲述了14岁少年David Chen为帮助老人而发明自动浇水装置的故事。B选项只涉及发明的功能，太片面；C选项只涉及比赛，是文章细节而非主旨；D选项是园艺建议，但文章重点是发明而非园艺技巧。A选项涵盖了主人公（teenager）、核心事件（invention）和服务对象（elderly），最能概括全文。主旨题技巧：标题要涵盖主要人物和事件，不能太大（宽泛）也不能太小（片面），避免只涉及细节的选项。",
-      "label": "阅读-主旨大意"
+      "group": "reading_vertical_farming",
+      "stem": "What is the best title for the passage?",
+      "options": ["A. How to Save Water in Cities", "B. The Future of Indoor Farming", "C. Why Traditional Farming Is Better", "D. The History of Growing Food"],
+      "correct_answer": "B",
+      "explanation": "\u5168\u6587\u56f4\u7ed5\u5782\u76f4\u519c\u4e1a\uff08\u5ba4\u5185\u519c\u4e1a\uff09\u7684\u6982\u5ff5\u3001\u4f18\u52bf\u3001\u6311\u6218\u548c\u672a\u6765\u5c55\u671b\u5c55\u5f00\uff0cB. The Future of Indoor Farming \u6700\u80fd\u6982\u62ec\u4e3b\u65e8\u3002"
     },
     {
       "id": 17,
       "type": "fill",
-      "knowledge_point": "sentence_fill",
-      "difficulty": 2,
-      "group": "fill_1",
-      "group_passage": "Many students complain that they feel tired and sleepy even after studying for hours. (17)______ Here are some useful tips to help you study better without feeling exhausted.\n\nFirst, take regular breaks. Research shows that the human brain can only focus effectively for about 25-30 minutes at a time. (18)______ Stand up, stretch your legs, or look out of the window. This helps your brain relax and prepares it for the next study session.\n\nSecond, stay hydrated (保持水分). Your brain needs water to work properly. (19)______ Keep a bottle of water on your desk and take sips regularly. Avoid too much coffee or sugary drinks, as they can make you feel more tired later.\n\n(20)______ Exercise increases blood flow to the brain and improves your memory and concentration. You don't need to do intense workouts. Even a 10-minute walk or some stretching can make a big difference to your study efficiency.",
-      "stem": "(17)______",
-      "options": [
-        "A. When you feel sleepy, drink some coffee immediately.",
-        "B. However, this doesn't have to be the case.",
-        "C. Third, do some light exercise every day.",
-        "D. So, every half an hour, take a five-minute break.",
-        "E. If you don't drink enough water, you may find it hard to concentrate."
-      ],
+      "group": "fill_school_charity_run",
+      "group_passage": "Last Friday, our school organized a charity run to raise money for a children's hospital. (17)_____ The PE teacher said everyone should warm up first to avoid getting hurt.\n\nAt 9 a.m., the race began. Some fast runners quickly ran ahead, but most of us just tried to finish the whole course. (18)_____ She always encouraged us to keep going.\n\n(19)_____ Some students felt tired and wanted to stop, but when they thought about the sick children in the hospital, they found new energy to continue.\n\n(20)_____ We raised over 5,000 yuan in total. Our headmaster said he was very proud of us.",
+      "stem": "(17)",
+      "options": ["A. In the end, everyone crossed the finish line.", "B. More than 300 students took part in the event.", "C. Our class teacher ran with us the whole time.", "D. The course was three kilometres long.", "E. The weather was too hot for outdoor activities."],
       "correct_answer": "B",
-      "explanation": "考查段落衔接和逻辑关系。前文说'很多学生抱怨学习几小时后感到疲劳'，后文说'这里有一些有用的建议帮助你学习更好而不感到疲惫'，前后是转折关系：虽然学生觉得学习累，但情况不一定如此（有办法不累）。However表示转折，this doesn't have to be the case表示'不一定非得这样'，起到承上启下的过渡作用。A选项与后文建议矛盾（后文建议喝水而非咖啡）；C、D、E都是具体建议，不适合放在总起段；B选项作为过渡句最合适。",
-      "label": "短文填空"
+      "explanation": "\u7b2c\u4e00\u6bb5\u4ecb\u7ecd\u6d3b\u52a8\u80cc\u666f\uff0c(17)\u540e\u7d27\u8ddf'\u4f53\u80b2\u8001\u5e08\u8bf4\u5927\u5bb6\u5e94\u8be5\u5148\u70ed\u8eab'\uff0c\u8bf4\u660e\u524d\u6587\u5728\u63cf\u8ff0\u53c2\u4e0e\u7684\u4eba\u6570\u89c4\u6a21\uff0cB'\u8d85\u8fc7300\u540d\u5b66\u751f\u53c2\u52a0\u4e86\u6d3b\u52a8'\u6700\u5408\u9002\u3002"
     },
     {
       "id": 18,
       "type": "fill",
-      "knowledge_point": "sentence_fill",
-      "difficulty": 2,
-      "group": "fill_1",
-      "group_passage": "Many students complain that they feel tired and sleepy even after studying for hours. (17)______ Here are some useful tips to help you study better without feeling exhausted.\n\nFirst, take regular breaks. Research shows that the human brain can only focus effectively for about 25-30 minutes at a time. (18)______ Stand up, stretch your legs, or look out of the window. This helps your brain relax and prepares it for the next study session.\n\nSecond, stay hydrated (保持水分). Your brain needs water to work properly. (19)______ Keep a bottle of water on your desk and take sips regularly. Avoid too much coffee or sugary drinks, as they can make you feel more tired later.\n\n(20)______ Exercise increases blood flow to the brain and improves your memory and concentration. You don't need to do intense workouts. Even a 10-minute walk or some stretching can make a big difference to your study efficiency.",
-      "stem": "(18)______",
-      "options": [
-        "A. When you feel sleepy, drink some coffee immediately.",
-        "B. However, this doesn't have to be the case.",
-        "C. Third, do some light exercise every day.",
-        "D. So, every half an hour, take a five-minute break.",
-        "E. If you don't drink enough water, you may find it hard to concentrate."
-      ],
-      "correct_answer": "D",
-      "explanation": "考查逻辑关系（因果）和指代衔接。前文提到'大脑一次只能有效专注25-30分钟'，所以（so）应该每半小时休息5分钟。So表示因果关系，every half an hour对应前文的25-30 minutes。后文的'站起来、伸展腿部'是休息时的具体动作。A选项建议喝咖啡与后文'避免咖啡'矛盾；B选项是过渡句，此处已不需要；C选项是第三条建议，但此处是first；E选项讲水，与休息无关。",
-      "label": "短文填空"
+      "group": "fill_school_charity_run",
+      "stem": "(18)",
+      "options": ["A. In the end, everyone crossed the finish line.", "B. More than 300 students took part in the event.", "C. Our class teacher ran with us the whole time.", "D. The course was three kilometres long.", "E. The weather was too hot for outdoor activities."],
+      "correct_answer": "C",
+      "explanation": "\u540e\u9762\u8bf4 She always encouraged us to keep going\uff0c\u4ee3\u8bcd She \u6307\u4ee3\u7684\u5fc5\u7136\u662f\u5973\u6027\uff0c\u4e14'\u548c\u6211\u4eec\u4e00\u8d77\u8dd1\u5168\u7a0b'\u624d\u80fd\u9f13\u52b1\u6211\u4eec\uff0c\u9009C'\u73ed\u4e3b\u4efb\u5168\u7a0b\u548c\u6211\u4eec\u4e00\u8d77\u8dd1'\u3002"
     },
     {
       "id": 19,
       "type": "fill",
-      "knowledge_point": "sentence_fill",
-      "difficulty": 2,
-      "group": "fill_1",
-      "group_passage": "Many students complain that they feel tired and sleepy even after studying for hours. (17)______ Here are some useful tips to help you study better without feeling exhausted.\n\nFirst, take regular breaks. Research shows that the human brain can only focus effectively for about 25-30 minutes at a time. (18)______ Stand up, stretch your legs, or look out of the window. This helps your brain relax and prepares it for the next study session.\n\nSecond, stay hydrated (保持水分). Your brain needs water to work properly. (19)______ Keep a bottle of water on your desk and take sips regularly. Avoid too much coffee or sugary drinks, as they can make you feel more tired later.\n\n(20)______ Exercise increases blood flow to the brain and improves your memory and concentration. You don't need to do intense workouts. Even a 10-minute walk or some stretching can make a big difference to your study efficiency.",
-      "stem": "(19)______",
-      "options": [
-        "A. When you feel sleepy, drink some coffee immediately.",
-        "B. However, this doesn't have to be the case.",
-        "C. Third, do some light exercise every day.",
-        "D. So, every half an hour, take a five-minute break.",
-        "E. If you don't drink enough water, you may find it hard to concentrate."
-      ],
-      "correct_answer": "E",
-      "explanation": "考查段落内部逻辑（解释说明）。本段主题是'保持水分'，前句说'大脑需要水来正常工作'，因此接下来应该解释缺水的影响或喝水的重要性。E选项'如果你不喝足够的水，你会发现很难集中注意力'正好解释了为什么要喝水，与后文'在桌上放水瓶'形成逻辑连贯。A选项提到咖啡，虽然后文也提到咖啡，但E选项更适合解释前句；B、C、D与本段主题无关。",
-      "label": "短文填空"
+      "group": "fill_school_charity_run",
+      "stem": "(19)",
+      "options": ["A. In the end, everyone crossed the finish line.", "B. More than 300 students took part in the event.", "C. Our class teacher ran with us the whole time.", "D. The course was three kilometres long.", "E. The weather was too hot for outdoor activities."],
+      "correct_answer": "D",
+      "explanation": "\u540e\u9762\u8bf4'\u6709\u4e9b\u5b66\u751f\u611f\u5230\u7d2f\u60f3\u505c\u4e0b\u6765'\uff0c\u524d\u9762\u5e94\u8be5\u4ea4\u4ee3\u8d5b\u7a0b\u4fe1\u606f\u2014\u2014'\u8d5b\u9053\u6709\u4e09\u516c\u91cc\u957f'\uff0c\u8bf4\u660e\u8ddd\u79bb\u4e0d\u77ed\uff0c\u6240\u4ee5\u6709\u4eba\u7d2f\u4e86\u3002\u9009D\u3002"
     },
     {
       "id": 20,
       "type": "fill",
-      "knowledge_point": "sentence_fill",
-      "difficulty": 1,
-      "group": "fill_1",
-      "group_passage": "Many students complain that they feel tired and sleepy even after studying for hours. (17)______ Here are some useful tips to help you study better without feeling exhausted.\n\nFirst, take regular breaks. Research shows that the human brain can only focus effectively for about 25-30 minutes at a time. (18)______ Stand up, stretch your legs, or look out of the window. This helps your brain relax and prepares it for the next study session.\n\nSecond, stay hydrated (保持水分). Your Brain needs water to work properly. (19)______ Keep a bottle of water on your desk and take sips regularly. Avoid too much coffee or sugary drinks, as they can make you feel more tired later.\n\n(20)______ Exercise increases blood flow to the brain and improves your memory and concentration. You don't need to do intense workouts. Even a 10-minute walk or some stretching can make a big difference to your study efficiency.",
-      "stem": "(20)______",
-      "options": [
-        "A. When you feel sleepy, drink some coffee immediately.",
-        "B. However, this doesn't have to be the case.",
-        "C. Third, do some light exercise every day.",
-        "D. So, every half an hour, take a five-minute break.",
-        "E. If you don't drink enough water, you may find it hard to concentrate."
-      ],
-      "correct_answer": "C",
-      "explanation": "考查段落结构和顺序词。前文有First（第一）、Second（第二），因此这里应该是Third（第三）。C选项'Third, do some light exercise every day'符合序列逻辑，且后文'exercise'与该选项中的'exercise'形成词汇复现，进一步确认答案。A选项与本段主题（锻炼）无关；B、D、E都已经使用过或不符合此处逻辑。解题技巧：注意段落中的序列词（first, second, third/finally），这是选句子填空的重要线索。",
-      "label": "短文填空"
+      "group": "fill_school_charity_run",
+      "stem": "(20)",
+      "options": ["A. In the end, everyone crossed the finish line.", "B. More than 300 students took part in the event.", "C. Our class teacher ran with us the whole time.", "D. The course was three kilometres long.", "E. The weather was too hot for outdoor activities."],
+      "correct_answer": "A",
+      "explanation": "\u6700\u540e\u4e00\u6bb5\u603b\u7ed3\u7ed3\u679c\uff0c(20)\u540e\u9762\u8bf4'\u6211\u4eec\u603b\u5171\u7b79\u96c6\u4e865000\u591a\u5143'\uff0c\u524d\u9762\u5e94\u8be5\u662f'\u6700\u7ec8\u6240\u6709\u4eba\u90fd\u51b2\u8fc7\u4e86\u7ec8\u70b9\u7ebf'\uff0c\u8868\u793a\u5927\u5bb6\u90fd\u575a\u6301\u5b8c\u6210\u4e86\u3002A \u662f\u603b\u7ed3\u6027\u53e5\u5b50\uff0c\u4f4d\u4e8e\u7ed3\u5c3e\u6bb5\u5408\u9002\u3002\u5e72\u6270\u9879E\u4e0e\u6587\u7ae0\u79ef\u6781\u4e3b\u9898\u4e0d\u7b26\u3002"
     }
   ]
 }

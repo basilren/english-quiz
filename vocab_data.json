@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "words": {
     "ability": "n. 能力",
     "abroad": "adv. 在国外",
@@ -1902,6 +1902,28 @@
     "young": "adj. 年轻的",
     "youth": "n. 青年",
     "zero": "num. 零",
-    "zone": "n. 区域"
+    "zone": "n. 区域",
+    "Open Day": "n. 开放日 [5BU7]",
+    "on 30th April": "phr. 在4月30日 [5BU7]",
+    "ask...about": "phr. 问…关于 [5BU7]",
+    "at two o'clock": "phr. 在2点整 [5BU7]",
+    "in the afternoon": "phr. 在下午 [5BU7]",
+    "at the school gate": "phr. 在学校大门 [5BU7]",
+    "What will they do?": "sent. 他们会做什么？ [5BU7]",
+    "first": "adv. 首先 [5BU7]",
+    "next": "adv./adj. 接下去；下一个 [5BU7]",
+    "then": "adv. 然后 [5BU7]",
+    "after that": "phr. 然后；之后 [5BU7]",
+    "finally": "adv. 最后 [5BU7]",
+    "art room": "n. 美术室 [5BU7]",
+    "meeting room": "n. 会议室 [5BU7]",
+    "take sb. to...": "phr. 带某人去… [5BU7]",
+    "tell sb. about...": "phr. 告诉某人关于… [5BU7]",
+    "show sb. sth.": "phr. 展示给某人看 [5BU7]",
+    "sing for sb.": "phr. 为某人唱歌 [5BU7]",
+    "on the board": "phr. 在板上 [5BU7]",
+    "have tea": "phr. 喝茶 [5BU7]",
+    "have cake": "phr. 吃蛋糕 [5BU7]",
+    "Parent's Evening": "n. 家长之夜 [5BU7]"
   }
 }
