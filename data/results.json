@@ -252,6 +252,13 @@
       "total": 20,
       "correct": 17,
       "rate": 85
+    },
+    {
+      "date": "2026-05-06",
+      "session": 1,
+      "total": 21,
+      "correct": 18,
+      "rate": 86
     }
   ],
   "errors": [
@@ -545,6 +552,60 @@
       "correct_answer": "C",
       "student_answer": "D",
       "explanation": "原文第三段明确说 it uses much less water than traditional farming -- about 95% less，直接对应选项C。"
+    },
+    {
+      "date": "2026-05-06",
+      "session": 1,
+      "question_id": 7,
+      "type": "vocabulary",
+      "knowledge_point": "phrase_collocation",
+      "label": "词组搭配",
+      "stem": "We should _____ good habits of reading every day.",
+      "options": [
+        "A. develop",
+        "B. discover",
+        "C. invent",
+        "D. produce"
+      ],
+      "correct_answer": "A",
+      "student_answer": "B",
+      "explanation": "develop a habit/good habits 是固定搭配，意为'养成习惯'。discover 发现（已存在的事物）；invent 发明（不存在的东西）；produce 生产。"
+    },
+    {
+      "date": "2026-05-06",
+      "session": 1,
+      "question_id": 8,
+      "type": "vocabulary",
+      "knowledge_point": "context_word",
+      "label": "词汇题",
+      "stem": "The task is too difficult. I think it is _____ for a 10-year-old child to finish it alone.",
+      "options": [
+        "A. important",
+        "B. impossible",
+        "C. impolite",
+        "D. impatient"
+      ],
+      "correct_answer": "B",
+      "student_answer": "A",
+      "explanation": "语境理解：任务太难，一个10岁的孩子独自完成是'不可能的'(impossible)。im- 是否定前缀。important 重要的；impolite 不礼貌的；impatient 不耐烦的，都不符合语境。"
+    },
+    {
+      "date": "2026-05-06",
+      "session": 1,
+      "question_id": 10,
+      "type": "cloze",
+      "knowledge_point": "cloze_general",
+      "label": "完形填空",
+      "stem": "(10)",
+      "options": [
+        "A. silly",
+        "B. wonderful",
+        "C. dangerous",
+        "D. boring"
+      ],
+      "correct_answer": "A",
+      "student_answer": "B",
+      "explanation": "跨句推理：后面Jack说'Why would anyone want my old stuff?'表达怀疑和不看好，说明一开始很多学生觉得这是个'愚蠢的/傻的'(silly)想法。But转折后老师鼓励才改变态度。wonderful太积极与后文矛盾；dangerous/boring语境不合。"
     }
   ]
 }
