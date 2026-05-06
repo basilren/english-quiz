@@ -1,204 +1,231 @@
 ﻿{
-  "date": "2026-05-05",
+  "date": "2026-05-06",
+  "day": 40,
   "session_number": 1,
   "total_questions": 20,
-  "difficulty": {
-    "grammar": 2,
-    "vocabulary": 2,
-    "cloze": 3,
-    "reading": 2,
-    "fill": 2
-  },
   "questions": [
     {
       "id": 1,
       "type": "grammar",
-      "group": "grammar_single_1",
+      "group": "_single_0",
       "knowledge_point": "present_perfect",
-      "stem": "-- I haven't seen Jack for a long time.\n-- He _____ Beijing. He won't come back until next month.",
-      "options": ["A. has been to", "B. has gone to", "C. went to", "D. will go to"],
-      "correct_answer": "B",
-      "explanation": "have been to \u8868\u793a\u53bb\u8fc7\u5df2\u56de\u6765\uff1bhave gone to \u8868\u793a\u53bb\u4e86\u8fd8\u6ca1\u56de\u6765\u3002\u6839\u636e won't come back until next month \u53ef\u77e5\u4ed6\u53bb\u4e86\u8fd8\u6ca1\u56de\u6765\uff0c\u9009 has gone to\u3002"
+      "stem": "-- I have never _____ to Beijing before. Can you go with me this summer?\n-- Sure, I'd love to.",
+      "options": ["A. been", "B. gone", "C. went", "D. go"],
+      "correct_answer": "A",
+      "explanation": "have been to 表示'去过某地（已回来）'，have gone to 表示'去了某地（未回来）'。说话人在对话中，显然已经回来了/在现场，所以用 been。never 是现在完成时标志词。"
     },
     {
       "id": 2,
       "type": "grammar",
-      "group": "grammar_single_2",
-      "knowledge_point": "object_clause",
-      "stem": "The teacher asked the students _____.",
-      "options": ["A. if they have finished the work", "B. if they had finished the work", "C. have they finished the work", "D. had they finished the work"],
-      "correct_answer": "B",
-      "explanation": "\u5bbe\u8bed\u4ece\u53e5\u4e09\u8981\u7d20\uff1a1) \u5f15\u5bfc\u8bcd if/whether\uff08\u662f\u5426\uff09\uff1b2) \u9648\u8ff0\u8bed\u5e8f\uff08\u6392\u9664C\u3001D\uff09\uff1b3) \u65f6\u6001\u547c\u5e94\u2014\u2014\u4e3b\u53e5 asked \u662f\u8fc7\u53bb\u65f6\uff0c\u4ece\u53e5\u8981\u7528\u8fc7\u53bb\u5b8c\u6210\u65f6 had finished\u3002"
+      "group": "_single_1",
+      "knowledge_point": "present_perfect",
+      "stem": "Tom _____ his hometown since he was eighteen. He really misses it.",
+      "options": ["A. left", "B. has left", "C. has been away from", "D. was away from"],
+      "correct_answer": "C",
+      "explanation": "since 引导的时间状语要求主句用现在完成时。leave 是非延续性动词，不能和 since 连用，需改为延续性表达 be away from。A 是过去时，B 虽是完成时但 left 非延续性，D 是过去时。"
     },
     {
       "id": 3,
       "type": "grammar",
-      "group": "grammar_single_3",
-      "knowledge_point": "relative_clause",
-      "stem": "The boy _____ is playing basketball over there is my cousin.",
-      "options": ["A. which", "B. who", "C. whom", "D. what"],
+      "group": "_single_2",
+      "knowledge_point": "object_clause",
+      "stem": "The teacher asked the students _____.",
+      "options": ["A. if they have finished the work", "B. whether they had finished the work", "C. have they finished the work", "D. did they finish the work"],
       "correct_answer": "B",
-      "explanation": "\u5148\u884c\u8bcd the boy \u662f\u4eba\uff0c\u4e14\u5728\u4ece\u53e5\u4e2d\u4f5c\u4e3b\u8bed\uff0c\u7528\u5173\u7cfb\u4ee3\u8bcd who\u3002which \u4fee\u9970\u7269\uff1bwhom \u4f5c\u5bbe\u8bed\uff1bwhat \u4e0d\u5f15\u5bfc\u5b9a\u8bed\u4ece\u53e5\u3002"
+      "explanation": "宾语从句三要素：(1) 连接词 if/whether 表示'是否'；(2) 陈述语序（排除C、D）；(3) 时态呼应——主句 asked 是过去时，从句应用过去完成时 had finished。A 时态不呼应。"
     },
     {
       "id": 4,
       "type": "grammar",
-      "group": "grammar_single_4",
-      "knowledge_point": "doing_vs_todo",
-      "stem": "My mum always tells me _____ too much time on computer games.",
-      "options": ["A. not spend", "B. not to spend", "C. not spending", "D. to not spend"],
+      "group": "_single_3",
+      "knowledge_point": "object_clause",
+      "stem": "I wonder _____ she will come to the party tomorrow.",
+      "options": ["A. that", "B. if", "C. what", "D. which"],
       "correct_answer": "B",
-      "explanation": "tell sb. (not) to do sth. \u56fa\u5b9a\u642d\u914d\uff0c\u5426\u5b9a\u5f62\u5f0f\u662f not to do\uff0c\u653e\u5728 to \u524d\u9762\u3002\u4e0d\u662f to not do\uff08D\u9519\uff09\u3002"
+      "explanation": "wonder 后接宾语从句表'想知道是否……'，用 if 或 whether 引导。that 引导确定的陈述；what/which 作从句成分，但原句从句结构完整（she will come），不缺成分，只缺'是否'的含义。"
     },
     {
       "id": 5,
-      "type": "vocabulary",
-      "group": "vocab_single_5",
-      "knowledge_point": "word_form",
-      "stem": "We felt very _____ (excite) when we heard the _____ (excite) news.",
-      "options": ["A. excited; exciting", "B. exciting; excited", "C. excited; excited", "D. exciting; exciting"],
-      "correct_answer": "A",
-      "explanation": "-ed \u5f62\u5bb9\u8bcd\u4fee\u9970\u4eba\u7684\u611f\u53d7\uff08we felt excited\uff09\uff1b-ing \u5f62\u5bb9\u8bcd\u4fee\u9970\u4e8b\u7269\u7684\u6027\u8d28\uff08exciting news\uff09\u3002"
+      "type": "grammar",
+      "group": "_single_4",
+      "knowledge_point": "relative_clause",
+      "stem": "The boy _____ is standing over there is my classmate.",
+      "options": ["A. which", "B. whom", "C. who", "D. what"],
+      "correct_answer": "C",
+      "explanation": "定语从句中，先行词是人（the boy）且在从句中作主语，用关系代词 who。which 只修饰物；whom 作宾语；what 不引导定语从句。"
     },
     {
       "id": 6,
       "type": "vocabulary",
-      "group": "vocab_single_6",
-      "knowledge_point": "phrase_collocation",
-      "stem": "Please _____ the lights when you leave the classroom.",
-      "options": ["A. turn on", "B. turn off", "C. turn up", "D. turn down"],
-      "correct_answer": "B",
-      "explanation": "\u79bb\u5f00\u6559\u5ba4\u5e94\u8be5\u5173\u706f\u3002turn on \u6253\u5f00\uff1bturn off \u5173\u95ed\uff1bturn up \u8c03\u5927\u97f3\u91cf\uff1bturn down \u8c03\u5c0f\u97f3\u91cf/\u62d2\u7edd\u3002"
+      "group": "_single_5",
+      "knowledge_point": "word_form",
+      "stem": "The old man lives _____ but he never feels lonely because his neighbours often visit him.",
+      "options": ["A. alone", "B. lonely", "C. along", "D. alive"],
+      "correct_answer": "A",
+      "explanation": "alone 表示'独自一人'（客观状态），lonely 表示'孤独的'（主观感受）。句意：老人独自生活，但不感到孤独。lives 后需要副词/形容词表状态，alone 既可作形容词也可作副词。but 转折说明前后含义不同。"
     },
     {
       "id": 7,
       "type": "vocabulary",
-      "group": "vocab_single_7",
-      "knowledge_point": "context_word",
-      "stem": "Tom is very _____. He always shares his food and toys with others.",
-      "options": ["A. lazy", "B. generous", "C. shy", "D. strict"],
-      "correct_answer": "B",
-      "explanation": "\u6839\u636e\u8bed\u5883 shares his food and toys with others\uff08\u4e0e\u4eba\u5206\u4eab\u98df\u7269\u548c\u73a9\u5177\uff09\u53ef\u77e5 Tom \u5f88\u6170\u6168\u5927\u65b9\u3002generous = \u6170\u6168\u7684\u3002"
+      "group": "_single_6",
+      "knowledge_point": "phrase_collocation",
+      "stem": "We should _____ good habits of reading every day.",
+      "options": ["A. develop", "B. discover", "C. invent", "D. produce"],
+      "correct_answer": "A",
+      "explanation": "develop a habit/good habits 是固定搭配，意为'养成习惯'。discover 发现（已存在的事物）；invent 发明（不存在的东西）；produce 生产。"
     },
     {
       "id": 8,
-      "type": "cloze",
-      "group": "cloze_school_band",
-      "group_passage": "Last month, our school held a music festival. Every class needed to (8)_____ a band and perform on stage. At first, nobody in our class wanted to be the lead singer. We all felt (9)_____ about singing in front of hundreds of people.\n\nThen Amy raised her hand. We were (10)_____ because Amy was always quiet in class. She said, 'I know I'm not the best singer, but I'd like to try.' Her (11)_____ encouraged the rest of us. Soon, Jack offered to play guitar, and Lily said she could play drums.\n\nWe practiced every afternoon for two weeks. Sometimes we made mistakes and felt like (12)_____. But Amy always smiled and said, 'Let's try one more time.' On the day of the festival, we performed our best. We didn't win first prize, but everyone cheered for us. We learned that trying is more important than being perfect.",
-      "stem": "(8)",
-      "options": ["A. form", "B. join", "C. leave", "D. close"],
-      "correct_answer": "A",
-      "explanation": "form a band = \u7ec4\u5efa\u4e00\u4e2a\u4e50\u961f\u3002join \u662f\u52a0\u5165\u5df2\u6709\u7684\uff1bleave \u662f\u79bb\u5f00\uff1bclose \u662f\u5173\u95ed\u3002\u6839\u636e\u8bed\u5883\u6bcf\u4e2a\u73ed\u9700\u8981'\u7ec4\u5efa'\u4e50\u961f\u8868\u6f14\u3002"
+      "type": "vocabulary",
+      "group": "_single_7",
+      "knowledge_point": "context_word",
+      "stem": "The task is too difficult. I think it is _____ for a 10-year-old child to finish it alone.",
+      "options": ["A. important", "B. impossible", "C. impolite", "D. impatient"],
+      "correct_answer": "B",
+      "explanation": "语境理解：任务太难，一个10岁的孩子独自完成是'不可能的'(impossible)。im- 是否定前缀。important 重要的；impolite 不礼貌的；impatient 不耐烦的，都不符合语境。"
     },
     {
       "id": 9,
       "type": "cloze",
-      "group": "cloze_school_band",
+      "group": "cloze_1",
+      "group_passage": "Last month, our school held a special event called 'Swap Day'. The idea was simple: students could bring things they no longer needed and (9)_____ them for something they wanted.\n\nAt first, many students thought it was a (10)_____ idea. 'Why would anyone want my old stuff?' said Jack. But our teacher encouraged us to try. She said, 'One person's rubbish might be another person's (11)_____.'\n\nOn that day, the school hall was full of books, toys, clothes and even handmade crafts. I brought some comic books that I had already read. To my (12)_____, a girl named Amy was very excited to see them. She said she had been looking for those books for months! In return, she gave me a beautiful notebook with a leather cover.\n\nBy the end of the day, almost everything had been swapped. We all learned that sharing is not about giving up things — it is about (13)_____ value in what we already have.",
+      "knowledge_point": "cloze_general",
       "stem": "(9)",
-      "options": ["A. excited", "B. bored", "C. nervous", "D. proud"],
-      "correct_answer": "C",
-      "explanation": "\u6839\u636e singing in front of hundreds of people\uff08\u5728\u51e0\u767e\u4eba\u524d\u9762\u5531\u6b4c\uff09\u4e14 nobody wanted to be the lead singer\uff0c\u8bf4\u660e\u5927\u5bb6\u611f\u5230\u7d27\u5f20\u3002nervous = \u7d27\u5f20\u7684\u3002"
+      "options": ["A. throw", "B. exchange", "C. sell", "D. lend"],
+      "correct_answer": "B",
+      "explanation": "根据上下文，Swap Day 的核心是'交换'。bring things they no longer needed and _____ them for something they wanted，exchange...for... 是固定搭配，意为'用……交换……'。throw 扔；sell 卖；lend 借出，均不符合 swap 的含义。"
     },
     {
       "id": 10,
       "type": "cloze",
-      "group": "cloze_school_band",
+      "group": "cloze_1",
+      "group_passage": "Last month, our school held a special event called 'Swap Day'. The idea was simple: students could bring things they no longer needed and (9)_____ them for something they wanted.\n\nAt first, many students thought it was a (10)_____ idea. 'Why would anyone want my old stuff?' said Jack. But our teacher encouraged us to try. She said, 'One person's rubbish might be another person's (11)_____.'\n\nOn that day, the school hall was full of books, toys, clothes and even handmade crafts. I brought some comic books that I had already read. To my (12)_____, a girl named Amy was very excited to see them. She said she had been looking for those books for months! In return, she gave me a beautiful notebook with a leather cover.\n\nBy the end of the day, almost everything had been swapped. We all learned that sharing is not about giving up things — it is about (13)_____ value in what we already have.",
+      "knowledge_point": "cloze_general",
       "stem": "(10)",
-      "options": ["A. angry", "B. surprised", "C. bored", "D. sad"],
-      "correct_answer": "B",
-      "explanation": "Amy was always quiet in class\uff08Amy \u5e73\u65f6\u5f88\u5b89\u9759\uff09\uff0c\u4f46\u5979\u4e3b\u52a8\u4e3e\u624b\uff0c\u6240\u4ee5\u5927\u5bb6\u611f\u5230'\u60ca\u8bb6'\u3002surprised \u7b26\u5408'\u51fa\u4e4e\u610f\u6599'\u7684\u8bed\u5883\u3002"
+      "options": ["A. silly", "B. wonderful", "C. dangerous", "D. boring"],
+      "correct_answer": "A",
+      "explanation": "跨句推理：后面Jack说'Why would anyone want my old stuff?'表达怀疑和不看好，说明一开始很多学生觉得这是个'愚蠢的/傻的'(silly)想法。But转折后老师鼓励才改变态度。wonderful太积极与后文矛盾；dangerous/boring语境不合。"
     },
     {
       "id": 11,
       "type": "cloze",
-      "group": "cloze_school_band",
+      "group": "cloze_1",
+      "group_passage": "Last month, our school held a special event called 'Swap Day'. The idea was simple: students could bring things they no longer needed and (9)_____ them for something they wanted.\n\nAt first, many students thought it was a (10)_____ idea. 'Why would anyone want my old stuff?' said Jack. But our teacher encouraged us to try. She said, 'One person's rubbish might be another person's (11)_____.'\n\nOn that day, the school hall was full of books, toys, clothes and even handmade crafts. I brought some comic books that I had already read. To my (12)_____, a girl named Amy was very excited to see them. She said she had been looking for those books for months! In return, she gave me a beautiful notebook with a leather cover.\n\nBy the end of the day, almost everything had been swapped. We all learned that sharing is not about giving up things — it is about (13)_____ value in what we already have.",
+      "knowledge_point": "cloze_general",
       "stem": "(11)",
-      "options": ["A. silence", "B. joke", "C. courage", "D. mistake"],
-      "correct_answer": "C",
-      "explanation": "Amy \u4e3b\u52a8\u7ad9\u51fa\u6765\u7684'\u52c7\u6c14'(courage)\u9f13\u52b1\u4e86\u5176\u4ed6\u4eba\u3002\u540e\u9762\u5199\u5230 encouraged the rest of us\uff0c\u5bf9\u5e94 courage\u3002"
+      "options": ["A. rubbish", "B. treasure", "C. problem", "D. secret"],
+      "correct_answer": "B",
+      "explanation": "老师说'一个人的垃圾(rubbish)可能是另一个人的______'，形成对比/反义关系，treasure（宝贝/珍品）与 rubbish 形成完美对比，体现交换的意义。这是英语谚语 One man's trash is another man's treasure 的变体。"
     },
     {
       "id": 12,
       "type": "cloze",
-      "group": "cloze_school_band",
+      "group": "cloze_1",
+      "group_passage": "Last month, our school held a special event called 'Swap Day'. The idea was simple: students could bring things they no longer needed and (9)_____ them for something they wanted.\n\nAt first, many students thought it was a (10)_____ idea. 'Why would anyone want my old stuff?' said Jack. But our teacher encouraged us to try. She said, 'One person's rubbish might be another person's (11)_____.'\n\nOn that day, the school hall was full of books, toys, clothes and even handmade crafts. I brought some comic books that I had already read. To my (12)_____, a girl named Amy was very excited to see them. She said she had been looking for those books for months! In return, she gave me a beautiful notebook with a leather cover.\n\nBy the end of the day, almost everything had been swapped. We all learned that sharing is not about giving up things — it is about (13)_____ value in what we already have.",
+      "knowledge_point": "cloze_general",
       "stem": "(12)",
-      "options": ["A. performing", "B. giving up", "C. moving on", "D. showing off"],
-      "correct_answer": "B",
-      "explanation": "felt like giving up = \u60f3\u8981\u653e\u5f03\u3002\u524d\u9762\u8bf4 made mistakes\uff08\u72af\u4e86\u9519\u8bef\uff09\uff0c\u81ea\u7136\u4f1a\u60f3\u653e\u5f03\u3002But \u8f6c\u6298\u540e Amy \u9f13\u52b1\u5927\u5bb6\u518d\u8bd5\u4e00\u6b21\uff0c\u5f62\u6210\u5bf9\u6bd4\u3002"
+      "options": ["A. sadness", "B. anger", "C. surprise", "D. fear"],
+      "correct_answer": "C",
+      "explanation": "to one's surprise 是固定搭配，意为'令某人惊讶的是'。后文说Amy'非常兴奋'地看到漫画书，这对作者来说是意料之外的惊喜。sadness/anger/fear 都不符合正面的情感语境。"
     },
     {
       "id": 13,
-      "type": "reading",
-      "group": "reading_vertical_farming",
-      "group_passage": "Have you ever thought about growing food without soil? This is not science fiction -- it is called vertical farming, and it is already happening in many cities around the world.\n\nVertical farms are indoor farms built in tall buildings. Instead of soil, plants grow in water mixed with nutrients. Special LED lights provide the energy that plants need to grow. Because everything is controlled indoors, vertical farms can produce food all year round, no matter what the weather is like outside.\n\nThere are several advantages of vertical farming. First, it uses much less water than traditional farming -- about 95% less. Second, because the farms are in cities, food does not need to travel long distances to reach consumers. This means fresher food and less pollution from trucks. Third, no pesticides are needed because there are no insects indoors.\n\nHowever, vertical farming also has challenges. The biggest one is the cost of electricity for the LED lights. Running these lights 24 hours a day is expensive. Some critics say that until we find cheaper and greener energy sources, vertical farming will not be able to compete with traditional farming on price.\n\nDespite these challenges, many experts believe vertical farming will play an important role in feeding the growing world population, especially in crowded cities where farmland is scarce.",
-      "stem": "How much less water does vertical farming use compared to traditional farming?",
-      "options": ["A. About 50% less.", "B. About 75% less.", "C. About 95% less.", "D. About 100% less."],
-      "correct_answer": "C",
-      "explanation": "\u539f\u6587\u7b2c\u4e09\u6bb5\u660e\u786e\u8bf4 it uses much less water than traditional farming -- about 95% less\uff0c\u76f4\u63a5\u5bf9\u5e94\u9009\u9879C\u3002"
+      "type": "cloze",
+      "group": "cloze_1",
+      "group_passage": "Last month, our school held a special event called 'Swap Day'. The idea was simple: students could bring things they no longer needed and (9)_____ them for something they wanted.\n\nAt first, many students thought it was a (10)_____ idea. 'Why would anyone want my old stuff?' said Jack. But our teacher encouraged us to try. She said, 'One person's rubbish might be another person's (11)_____.'\n\nOn that day, the school hall was full of books, toys, clothes and even handmade crafts. I brought some comic books that I had already read. To my (12)_____, a girl named Amy was very excited to see them. She said she had been looking for those books for months! In return, she gave me a beautiful notebook with a leather cover.\n\nBy the end of the day, almost everything had been swapped. We all learned that sharing is not about giving up things — it is about (13)_____ value in what we already have.",
+      "knowledge_point": "cloze_general",
+      "stem": "(13)",
+      "options": ["A. losing", "B. finding", "C. hiding", "D. wasting"],
+      "correct_answer": "B",
+      "explanation": "文章主旨总结：分享不是放弃东西，而是'发现'(finding)我们已有之物的价值。find value in 是搭配，意为'在……中发现价值'。losing失去、hiding隐藏、wasting浪费，都与积极主题矛盾。"
     },
     {
       "id": 14,
       "type": "reading",
-      "group": "reading_vertical_farming",
-      "stem": "What is the biggest challenge of vertical farming according to the passage?",
-      "options": ["A. There is not enough space in cities.", "B. The cost of electricity for LED lights.", "C. Plants cannot grow without soil.", "D. Consumers do not trust indoor food."],
+      "group": "reading_1",
+      "group_passage": "Have you ever heard of 'forest bathing'? It is not about taking a bath in the forest. Forest bathing, or 'Shinrin-yoku' in Japanese, simply means spending time in a forest and using all your senses to experience nature.\n\nThe idea started in Japan in the 1980s. At that time, many Japanese people worked very long hours and felt stressed. Doctors noticed that people who spent time in forests felt calmer and healthier. So the government encouraged people to visit forests regularly.\n\nScientists have since found that forest bathing can lower blood pressure, reduce stress hormones, and improve the immune system. Trees release natural chemicals called phytoncides into the air. When we breathe them in, our bodies respond positively.\n\nToday, forest bathing has spread around the world. In South Korea, there are official 'healing forests' with trained guides. In the UK, doctors sometimes prescribe nature walks instead of medicine. Even in busy cities like Singapore, people create small green spaces for relaxation.\n\nYou do not need a huge forest to benefit. Even a 20-minute walk in a park with trees can help. The key is to slow down, put away your phone, and pay attention to the sounds, smells, and colours around you.",
+      "knowledge_point": "detail",
+      "stem": "According to the passage, forest bathing started in Japan because _____.",
+      "options": ["A. Japanese people loved swimming in rivers", "B. doctors found forests could help stressed workers", "C. the government wanted to protect forests", "D. scientists discovered new chemicals in trees"],
       "correct_answer": "B",
-      "explanation": "\u539f\u6587\u7b2c\u56db\u6bb5 The biggest one is the cost of electricity for the LED lights\uff0c\u76f4\u63a5\u70b9\u660e\u6700\u5927\u6311\u6218\u662fLED\u706f\u7684\u7535\u8d39\u6210\u672c\u3002"
+      "explanation": "细节理解：第二段明确说'many Japanese people worked very long hours and felt stressed. Doctors noticed that people who spent time in forests felt calmer and healthier'——医生发现森林能帮助压力大的人，所以选B。A偷换概念；C/D不是起源原因。"
     },
     {
       "id": 15,
       "type": "reading",
-      "group": "reading_vertical_farming",
-      "stem": "What does the underlined word 'scarce' in the last paragraph probably mean?",
-      "options": ["A. Expensive.", "B. Polluted.", "C. Difficult to find.", "D. Easy to reach."],
+      "group": "reading_1",
+      "group_passage": "Have you ever heard of 'forest bathing'? It is not about taking a bath in the forest. Forest bathing, or 'Shinrin-yoku' in Japanese, simply means spending time in a forest and using all your senses to experience nature.\n\nThe idea started in Japan in the 1980s. At that time, many Japanese people worked very long hours and felt stressed. Doctors noticed that people who spent time in forests felt calmer and healthier. So the government encouraged people to visit forests regularly.\n\nScientists have since found that forest bathing can lower blood pressure, reduce stress hormones, and improve the immune system. Trees release natural chemicals called phytoncides into the air. When we breathe them in, our bodies respond positively.\n\nToday, forest bathing has spread around the world. In South Korea, there are official 'healing forests' with trained guides. In the UK, doctors sometimes prescribe nature walks instead of medicine. Even in busy cities like Singapore, people create small green spaces for relaxation.\n\nYou do not need a huge forest to benefit. Even a 20-minute walk in a park with trees can help. The key is to slow down, put away your phone, and pay attention to the sounds, smells, and colours around you.",
+      "knowledge_point": "inference",
+      "stem": "From the passage, we can infer that _____.",
+      "options": ["A. forest bathing is only useful for Japanese people", "B. you must hire a guide to do forest bathing", "C. technology may prevent people from enjoying nature fully", "D. forest bathing can cure all diseases"],
       "correct_answer": "C",
-      "explanation": "scarce \u51fa\u73b0\u5728 crowded cities where farmland is scarce \u7684\u8bed\u5883\u4e2d\u3002\u62e5\u6324\u7684\u57ce\u5e02\u91cc\u519c\u7530'\u7a00\u7f3a/\u96be\u4ee5\u627e\u5230'\uff0cC. Difficult to find \u6700\u8d34\u8fd1\u3002"
+      "explanation": "推理判断：最后一段说'put away your phone'暗示手机/科技可能干扰人们充分享受自然，由此推断C。A错（已传播全球）；B错（文中说even a 20-minute walk即可）；D错（只是改善，未说治愈所有疾病，过于绝对）。"
     },
     {
       "id": 16,
       "type": "reading",
-      "group": "reading_vertical_farming",
-      "stem": "What is the best title for the passage?",
-      "options": ["A. How to Save Water in Cities", "B. The Future of Indoor Farming", "C. Why Traditional Farming Is Better", "D. The History of Growing Food"],
+      "group": "reading_1",
+      "group_passage": "Have you ever heard of 'forest bathing'? It is not about taking a bath in the forest. Forest bathing, or 'Shinrin-yoku' in Japanese, simply means spending time in a forest and using all your senses to experience nature.\n\nThe idea started in Japan in the 1980s. At that time, many Japanese people worked very long hours and felt stressed. Doctors noticed that people who spent time in forests felt calmer and healthier. So the government encouraged people to visit forests regularly.\n\nScientists have since found that forest bathing can lower blood pressure, reduce stress hormones, and improve the immune system. Trees release natural chemicals called phytoncides into the air. When we breathe them in, our bodies respond positively.\n\nToday, forest bathing has spread around the world. In South Korea, there are official 'healing forests' with trained guides. In the UK, doctors sometimes prescribe nature walks instead of medicine. Even in busy cities like Singapore, people create small green spaces for relaxation.\n\nYou do not need a huge forest to benefit. Even a 20-minute walk in a park with trees can help. The key is to slow down, put away your phone, and pay attention to the sounds, smells, and colours around you.",
+      "knowledge_point": "word_guessing",
+      "stem": "The underlined word 'prescribe' in paragraph 4 probably means _____.",
+      "options": ["A. sell at a low price", "B. officially suggest as treatment", "C. carefully study", "D. completely forbid"],
       "correct_answer": "B",
-      "explanation": "\u5168\u6587\u56f4\u7ed5\u5782\u76f4\u519c\u4e1a\uff08\u5ba4\u5185\u519c\u4e1a\uff09\u7684\u6982\u5ff5\u3001\u4f18\u52bf\u3001\u6311\u6218\u548c\u672a\u6765\u5c55\u671b\u5c55\u5f00\uff0cB. The Future of Indoor Farming \u6700\u80fd\u6982\u62ec\u4e3b\u65e8\u3002"
+      "explanation": "词义猜测：原文'doctors sometimes prescribe nature walks instead of medicine'，doctors（医生）+ instead of medicine（代替药物）语境可推出 prescribe 意为'开处方/正式建议作为治疗'。A卖低价、C仔细研究、D完全禁止，均不合语境。"
     },
     {
       "id": 17,
-      "type": "fill",
-      "group": "fill_school_charity_run",
-      "group_passage": "Last Friday, our school organized a charity run to raise money for a children's hospital. (17)_____ The PE teacher said everyone should warm up first to avoid getting hurt.\n\nAt 9 a.m., the race began. Some fast runners quickly ran ahead, but most of us just tried to finish the whole course. (18)_____ She always encouraged us to keep going.\n\n(19)_____ Some students felt tired and wanted to stop, but when they thought about the sick children in the hospital, they found new energy to continue.\n\n(20)_____ We raised over 5,000 yuan in total. Our headmaster said he was very proud of us.",
-      "stem": "(17)",
-      "options": ["A. In the end, everyone crossed the finish line.", "B. More than 300 students took part in the event.", "C. Our class teacher ran with us the whole time.", "D. The course was three kilometres long.", "E. The weather was too hot for outdoor activities."],
+      "type": "reading",
+      "group": "reading_1",
+      "group_passage": "Have you ever heard of 'forest bathing'? It is not about taking a bath in the forest. Forest bathing, or 'Shinrin-yoku' in Japanese, simply means spending time in a forest and using all your senses to experience nature.\n\nThe idea started in Japan in the 1980s. At that time, many Japanese people worked very long hours and felt stressed. Doctors noticed that people who spent time in forests felt calmer and healthier. So the government encouraged people to visit forests regularly.\n\nScientists have since found that forest bathing can lower blood pressure, reduce stress hormones, and improve the immune system. Trees release natural chemicals called phytoncides into the air. When we breathe them in, our bodies respond positively.\n\nToday, forest bathing has spread around the world. In South Korea, there are official 'healing forests' with trained guides. In the UK, doctors sometimes prescribe nature walks instead of medicine. Even in busy cities like Singapore, people create small green spaces for relaxation.\n\nYou do not need a huge forest to benefit. Even a 20-minute walk in a park with trees can help. The key is to slow down, put away your phone, and pay attention to the sounds, smells, and colours around you.",
+      "knowledge_point": "main_idea",
+      "stem": "What is the best title for this passage?",
+      "options": ["A. How to Grow Trees in Cities", "B. The Healing Power of Forests", "C. Why Japanese People Are Healthy", "D. The History of Medicine in Asia"],
       "correct_answer": "B",
-      "explanation": "\u7b2c\u4e00\u6bb5\u4ecb\u7ecd\u6d3b\u52a8\u80cc\u666f\uff0c(17)\u540e\u7d27\u8ddf'\u4f53\u80b2\u8001\u5e08\u8bf4\u5927\u5bb6\u5e94\u8be5\u5148\u70ed\u8eab'\uff0c\u8bf4\u660e\u524d\u6587\u5728\u63cf\u8ff0\u53c2\u4e0e\u7684\u4eba\u6570\u89c4\u6a21\uff0cB'\u8d85\u8fc7300\u540d\u5b66\u751f\u53c2\u52a0\u4e86\u6d3b\u52a8'\u6700\u5408\u9002\u3002"
+      "explanation": "主旨大意：文章介绍了森林浴的起源、科学原理和全球推广，核心是森林对人体健康的积极作用。B'森林的治愈力量'最贴切。A关于种树，偏离主题；C以偏概全（不只是日本人）；D关于医学史，不是文章重点。"
     },
     {
       "id": 18,
       "type": "fill",
-      "group": "fill_school_charity_run",
+      "group": "fill_1",
+      "group_passage": "Last Saturday, our class went to Green Valley Farm for a field trip. It was a sunny day and everyone was excited.\n\nWhen we arrived, the farmer Mr. Chen welcomed us warmly. (18)_____ He told us that the farm had been running for over 30 years.\n\nFirst, we visited the vegetable garden. (19)_____ We even picked some tomatoes and put them into baskets. They were much fresher than the ones in supermarkets.\n\nAfter that, we went to see the animals. There were chickens, ducks, and two baby goats. (20)_____ Some students were afraid at first, but soon they started laughing.\n\nBefore we left, Mr. Chen gave each of us a small bag of seeds. (21)_____ I planted mine in a pot at home and I water it every day now.",
+      "knowledge_point": "sentence_fill",
       "stem": "(18)",
-      "options": ["A. In the end, everyone crossed the finish line.", "B. More than 300 students took part in the event.", "C. Our class teacher ran with us the whole time.", "D. The course was three kilometres long.", "E. The weather was too hot for outdoor activities."],
-      "correct_answer": "C",
-      "explanation": "\u540e\u9762\u8bf4 She always encouraged us to keep going\uff0c\u4ee3\u8bcd She \u6307\u4ee3\u7684\u5fc5\u7136\u662f\u5973\u6027\uff0c\u4e14'\u548c\u6211\u4eec\u4e00\u8d77\u8dd1\u5168\u7a0b'\u624d\u80fd\u9f13\u52b1\u6211\u4eec\uff0c\u9009C'\u73ed\u4e3b\u4efb\u5168\u7a0b\u548c\u6211\u4eec\u4e00\u8d77\u8dd1'\u3002"
+      "options": ["A. He said we could grow our own vegetables with them.", "B. The baby goats kept following us around like little dogs.", "C. We learned the names of different plants and how they grow.", "D. He showed us around the farm and introduced his family.", "E. The trip made us understand how hard farmers work."],
+      "correct_answer": "D",
+      "explanation": "前文说Mr. Chen热情欢迎我们，后文说他告诉我们农场运营了30多年——中间应该是他带我们参观并介绍相关信息。D'他带我们参观农场并介绍了他的家人'承上启下最合适。"
     },
     {
       "id": 19,
       "type": "fill",
-      "group": "fill_school_charity_run",
+      "group": "fill_1",
+      "group_passage": "Last Saturday, our class went to Green Valley Farm for a field trip. It was a sunny day and everyone was excited.\n\nWhen we arrived, the farmer Mr. Chen welcomed us warmly. (18)_____ He told us that the farm had been running for over 30 years.\n\nFirst, we visited the vegetable garden. (19)_____ We even picked some tomatoes and put them into baskets. They were much fresher than the ones in supermarkets.\n\nAfter that, we went to see the animals. There were chickens, ducks, and two baby goats. (20)_____ Some students were afraid at first, but soon they started laughing.\n\nBefore we left, Mr. Chen gave each of us a small bag of seeds. (21)_____ I planted mine in a pot at home and I water it every day now.",
+      "knowledge_point": "sentence_fill",
       "stem": "(19)",
-      "options": ["A. In the end, everyone crossed the finish line.", "B. More than 300 students took part in the event.", "C. Our class teacher ran with us the whole time.", "D. The course was three kilometres long.", "E. The weather was too hot for outdoor activities."],
-      "correct_answer": "D",
-      "explanation": "\u540e\u9762\u8bf4'\u6709\u4e9b\u5b66\u751f\u611f\u5230\u7d2f\u60f3\u505c\u4e0b\u6765'\uff0c\u524d\u9762\u5e94\u8be5\u4ea4\u4ee3\u8d5b\u7a0b\u4fe1\u606f\u2014\u2014'\u8d5b\u9053\u6709\u4e09\u516c\u91cc\u957f'\uff0c\u8bf4\u660e\u8ddd\u79bb\u4e0d\u77ed\uff0c\u6240\u4ee5\u6709\u4eba\u7d2f\u4e86\u3002\u9009D\u3002"
+      "options": ["A. He said we could grow our own vegetables with them.", "B. The baby goats kept following us around like little dogs.", "C. We learned the names of different plants and how they grow.", "D. He showed us around the farm and introduced his family.", "E. The trip made us understand how hard farmers work."],
+      "correct_answer": "C",
+      "explanation": "前文说我们参观了菜园，后文说我们甚至摘了西红柿——中间应该是在菜园里的学习活动。C'我们学到了不同植物的名字和它们怎么生长'与菜园参观语境一致。"
     },
     {
       "id": 20,
       "type": "fill",
-      "group": "fill_school_charity_run",
+      "group": "fill_1",
+      "group_passage": "Last Saturday, our class went to Green Valley Farm for a field trip. It was a sunny day and everyone was excited.\n\nWhen we arrived, the farmer Mr. Chen welcomed us warmly. (18)_____ He told us that the farm had been running for over 30 years.\n\nFirst, we visited the vegetable garden. (19)_____ We even picked some tomatoes and put them into baskets. They were much fresher than the ones in supermarkets.\n\nAfter that, we went to see the animals. There were chickens, ducks, and two baby goats. (20)_____ Some students were afraid at first, but soon they started laughing.\n\nBefore we left, Mr. Chen gave each of us a small bag of seeds. (21)_____ I planted mine in a pot at home and I water it every day now.",
+      "knowledge_point": "sentence_fill",
       "stem": "(20)",
-      "options": ["A. In the end, everyone crossed the finish line.", "B. More than 300 students took part in the event.", "C. Our class teacher ran with us the whole time.", "D. The course was three kilometres long.", "E. The weather was too hot for outdoor activities."],
+      "options": ["A. He said we could grow our own vegetables with them.", "B. The baby goats kept following us around like little dogs.", "C. We learned the names of different plants and how they grow.", "D. He showed us around the farm and introduced his family.", "E. The trip made us understand how hard farmers work."],
+      "correct_answer": "B",
+      "explanation": "前文提到了小山羊，后文说有些同学一开始害怕但很快就笑了——B'小山羊一直跟着我们，像小狗一样'完美衔接，解释了为什么有人害怕（动物跟着）但又觉得好笑（像小狗）。"
+    },
+    {
+      "id": 21,
+      "type": "fill",
+      "group": "fill_1",
+      "group_passage": "Last Saturday, our class went to Green Valley Farm for a field trip. It was a sunny day and everyone was excited.\n\nWhen we arrived, the farmer Mr. Chen welcomed us warmly. (18)_____ He told us that the farm had been running for over 30 years.\n\nFirst, we visited the vegetable garden. (19)_____ We even picked some tomatoes and put them into baskets. They were much fresher than the ones in supermarkets.\n\nAfter that, we went to see the animals. There were chickens, ducks, and two baby goats. (20)_____ Some students were afraid at first, but soon they started laughing.\n\nBefore we left, Mr. Chen gave each of us a small bag of seeds. (21)_____ I planted mine in a pot at home and I water it every day now.",
+      "knowledge_point": "sentence_fill",
+      "stem": "(21)",
+      "options": ["A. He said we could grow our own vegetables with them.", "B. The baby goats kept following us around like little dogs.", "C. We learned the names of different plants and how they grow.", "D. He showed us around the farm and introduced his family.", "E. The trip made us understand how hard farmers work."],
       "correct_answer": "A",
-      "explanation": "\u6700\u540e\u4e00\u6bb5\u603b\u7ed3\u7ed3\u679c\uff0c(20)\u540e\u9762\u8bf4'\u6211\u4eec\u603b\u5171\u7b79\u96c6\u4e865000\u591a\u5143'\uff0c\u524d\u9762\u5e94\u8be5\u662f'\u6700\u7ec8\u6240\u6709\u4eba\u90fd\u51b2\u8fc7\u4e86\u7ec8\u70b9\u7ebf'\uff0c\u8868\u793a\u5927\u5bb6\u90fd\u575a\u6301\u5b8c\u6210\u4e86\u3002A \u662f\u603b\u7ed3\u6027\u53e5\u5b50\uff0c\u4f4d\u4e8e\u7ed3\u5c3e\u6bb5\u5408\u9002\u3002\u5e72\u6270\u9879E\u4e0e\u6587\u7ae0\u79ef\u6781\u4e3b\u9898\u4e0d\u7b26\u3002"
+      "explanation": "前文说Mr. Chen给了我们每人一小袋种子，后文说'我把种子种在了花盆里，每天浇水'——A'他说我们可以用它们自己种蔬菜'完美衔接seeds和种植行为。E是干扰项，虽然有道理但与上下文不直接关联。"
     }
   ]
 }
