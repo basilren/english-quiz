@@ -1,231 +1,356 @@
 ﻿{
-  "date": "2026-05-06",
-  "day": 40,
+  "date": "2026-05-07",
   "session_number": 1,
-  "total_questions": 20,
   "questions": [
     {
       "id": 1,
       "type": "grammar",
-      "group": "_single_0",
-      "knowledge_point": "present_perfect",
-      "stem": "-- I have never _____ to Beijing before. Can you go with me this summer?\n-- Sure, I'd love to.",
-      "options": ["A. been", "B. gone", "C. went", "D. go"],
-      "correct_answer": "A",
-      "explanation": "have been to 表示'去过某地（已回来）'，have gone to 表示'去了某地（未回来）'。说话人在对话中，显然已经回来了/在现场，所以用 been。never 是现在完成时标志词。"
+      "knowledge_point": "present_perfect_vs_past_simple",
+      "difficulty": 2,
+      "stem": "—Have you ever _____ to the Shenzhen Science Museum?\n—Yes, I _____ there with my classmates last month.",
+      "options": [
+        "A. gone; have been",
+        "B. been; went",
+        "C. been; have gone",
+        "D. gone; went"
+      ],
+      "correct_answer": "B",
+      "explanation": "第一空考查have been to（去过某地，已返回）与have gone to（去了某地，未回）的区别。根据对话语境，问句询问是否'去过'，且答句表明人已在此，故用been。第二空有明确过去时间状语last month，必须用一般过去时went。干扰项A混淆了时态；C第二空不能用现在完成时；D第一空gone表示人未回，与答句矛盾。",
+      "label": "语法题"
     },
     {
       "id": 2,
       "type": "grammar",
-      "group": "_single_1",
-      "knowledge_point": "present_perfect",
-      "stem": "Tom _____ his hometown since he was eighteen. He really misses it.",
-      "options": ["A. left", "B. has left", "C. has been away from", "D. was away from"],
-      "correct_answer": "C",
-      "explanation": "since 引导的时间状语要求主句用现在完成时。leave 是非延续性动词，不能和 since 连用，需改为延续性表达 be away from。A 是过去时，B 虽是完成时但 left 非延续性，D 是过去时。"
+      "knowledge_point": "relative_clause_who_which",
+      "difficulty": 2,
+      "stem": "The boy _____ won the first prize in the English speech contest is from Class 3.",
+      "options": [
+        "A. who",
+        "B. which",
+        "C. whom",
+        "D. whose"
+      ],
+      "correct_answer": "A",
+      "explanation": "考查定语从句关系代词。先行词the boy指人，且在从句中作主语（won的主语），故用who。which指物；whom指人但作宾语；whose表示所属关系'谁的'。解题技巧：空格后在从句中缺主语且指人，首选who/that。",
+      "label": "语法题"
     },
     {
       "id": 3,
       "type": "grammar",
-      "group": "_single_2",
-      "knowledge_point": "object_clause",
-      "stem": "The teacher asked the students _____.",
-      "options": ["A. if they have finished the work", "B. whether they had finished the work", "C. have they finished the work", "D. did they finish the work"],
-      "correct_answer": "B",
-      "explanation": "宾语从句三要素：(1) 连接词 if/whether 表示'是否'；(2) 陈述语序（排除C、D）；(3) 时态呼应——主句 asked 是过去时，从句应用过去完成时 had finished。A 时态不呼应。"
+      "knowledge_point": "passive_voice",
+      "difficulty": 1,
+      "stem": "These old books _____ to the library by Bosco yesterday afternoon.",
+      "options": [
+        "A. return",
+        "B. returned",
+        "C. were returned",
+        "D. are returned"
+      ],
+      "correct_answer": "C",
+      "explanation": "考查一般过去时的被动语态。主语books与动词return是被动关系（书被还），时间状语yesterday afternoon表明是过去时，故用were returned。A是主动原形；B是主动过去式；D是一般现在时被动，时态不符。被动语态结构：be + done，注意时态变化。",
+      "label": "语法题"
     },
     {
       "id": 4,
       "type": "grammar",
-      "group": "_single_3",
       "knowledge_point": "object_clause",
-      "stem": "I wonder _____ she will come to the party tomorrow.",
-      "options": ["A. that", "B. if", "C. what", "D. which"],
+      "difficulty": 3,
+      "stem": "Could you tell me _____ yesterday?",
+      "options": [
+        "A. what did you buy",
+        "B. what you bought",
+        "C. what will you buy",
+        "D. what you will buy"
+      ],
       "correct_answer": "B",
-      "explanation": "wonder 后接宾语从句表'想知道是否……'，用 if 或 whether 引导。that 引导确定的陈述；what/which 作从句成分，但原句从句结构完整（she will come），不缺成分，只缺'是否'的含义。"
+      "explanation": "考查宾语从句。宾语从句必须用陈述语序（主语+谓语），排除A和C的疑问语序。主句Could you tell me是委婉请求，不是过去时，但从句有时间状语yesterday，必须用一般过去时bought，故选B。D时态错误。口诀：宾从陈述语序，时态呼应主句。",
+      "label": "语法题"
     },
     {
       "id": 5,
-      "type": "grammar",
-      "group": "_single_4",
-      "knowledge_point": "relative_clause",
-      "stem": "The boy _____ is standing over there is my classmate.",
-      "options": ["A. which", "B. whom", "C. who", "D. what"],
-      "correct_answer": "C",
-      "explanation": "定语从句中，先行词是人（the boy）且在从句中作主语，用关系代词 who。which 只修饰物；whom 作宾语；what 不引导定语从句。"
+      "type": "vocabulary",
+      "knowledge_point": "phrasal_verbs",
+      "difficulty": 1,
+      "stem": "We should _____ good habits of reading every day. It helps us learn better.",
+      "options": [
+        "A. develop",
+        "B. raise",
+        "C. grow",
+        "D. build up"
+      ],
+      "correct_answer": "A",
+      "explanation": "考查固定搭配develop habits（养成习惯）。develop可指培养、养成（习惯、技能等）。raise通常指抚养孩子、筹集资金或举起；grow指种植或生长；build up虽可指建立，但develop habits是更地道的搭配。注意 develop/form habits 为常用表达。",
+      "label": "词汇题"
     },
     {
       "id": 6,
       "type": "vocabulary",
-      "group": "_single_5",
-      "knowledge_point": "word_form",
-      "stem": "The old man lives _____ but he never feels lonely because his neighbours often visit him.",
-      "options": ["A. alone", "B. lonely", "C. along", "D. alive"],
-      "correct_answer": "A",
-      "explanation": "alone 表示'独自一人'（客观状态），lonely 表示'孤独的'（主观感受）。句意：老人独自生活，但不感到孤独。lives 后需要副词/形容词表状态，alone 既可作形容词也可作副词。but 转折说明前后含义不同。"
+      "knowledge_point": "word_meaning_context",
+      "difficulty": 2,
+      "stem": "The task is too difficult. I think it is _____ for a 10-year-old child to finish it alone.",
+      "options": [
+        "A. necessary",
+        "B. impossible",
+        "C. possible",
+        "D. important"
+      ],
+      "correct_answer": "B",
+      "explanation": "考查上下文语境中的词义辨析。前句提到'任务太难'，后句应表达'不可能'完成。impossible（不可能的）符合逻辑。necessary（必要的）和important（重要的）与困难程度无关；possible（可能的）与前句too difficult矛盾。解题关键：抓住too difficult的情感线索。",
+      "label": "词汇题"
     },
     {
       "id": 7,
       "type": "vocabulary",
-      "group": "_single_6",
-      "knowledge_point": "phrase_collocation",
-      "stem": "We should _____ good habits of reading every day.",
-      "options": ["A. develop", "B. discover", "C. invent", "D. produce"],
-      "correct_answer": "A",
-      "explanation": "develop a habit/good habits 是固定搭配，意为'养成习惯'。discover 发现（已存在的事物）；invent 发明（不存在的东西）；produce 生产。"
+      "knowledge_point": "prefix_suffix",
+      "difficulty": 2,
+      "stem": "It is _____ to throw rubbish everywhere. We should keep our city clean.",
+      "options": [
+        "A. helpless",
+        "B. careless",
+        "C. homeless",
+        "D. hopeless"
+      ],
+      "correct_answer": "B",
+      "explanation": "考查形容词词义及后缀-less含义。careless（粗心的、不注意的），由care加-less（无、没有）构成，符合'乱扔垃圾'的语境。helpless（无助的）；homeless（无家可归的）；hopeless（无望的）。解题技巧：-less后缀表'无...的'，结合语境'扔垃圾'是'不小心、不注意'的行为。",
+      "label": "词汇题"
     },
     {
       "id": 8,
-      "type": "vocabulary",
-      "group": "_single_7",
-      "knowledge_point": "context_word",
-      "stem": "The task is too difficult. I think it is _____ for a 10-year-old child to finish it alone.",
-      "options": ["A. important", "B. impossible", "C. impolite", "D. impatient"],
-      "correct_answer": "B",
-      "explanation": "语境理解：任务太难，一个10岁的孩子独自完成是'不可能的'(impossible)。im- 是否定前缀。important 重要的；impolite 不礼貌的；impatient 不耐烦的，都不符合语境。"
+      "type": "cloze",
+      "knowledge_point": "cloze_general",
+      "difficulty": 2,
+      "group": "cloze_1",
+      "group_passage": "Last month, our school started an interesting project called \"Green Classroom\". The goal was to help students learn about environmental protection through hands-on activities. Our class decided to create a small garden on the balcony outside our classroom.\n\nFirst, we collected old boxes and bottles to use as plant containers. Then we bought some soil and seeds with the money we raised from a二手 (second-hand) book sale. Everyone in the class took part in the work. Some students prepared the containers, (8)_____ others watered the seeds carefully.\n\nAt first, we were worried that the plants might not grow well because we had little experience. However, under the guidance of our science teacher, the seeds began to sprout after two weeks. Seeing the green leaves, we felt very excited and proud.\n\nThis project not only taught us how to grow plants but also made us understand the importance of protecting the environment. We plan to (10)_____ this activity to more classes next semester so that the whole school can enjoy the beauty of nature together.",
+      "stem": "(8)_____",
+      "options": [
+        "A. while",
+        "B. although",
+        "C. unless",
+        "D. because"
+      ],
+      "correct_answer": "A",
+      "explanation": "考查连词及逻辑关系。前文some students...（一些学生...），后文others...（另一些...），表示两个动作同时进行，形成对比关系，while（而、与此同时）符合语境。although（尽管）表让步；unless（除非）表条件；because（因为）表原因。解题技巧：some...while others...是固定句型，表示'一些...而另一些...'。",
+      "label": "完形填空"
     },
     {
       "id": 9,
       "type": "cloze",
-      "group": "cloze_1",
-      "group_passage": "Last month, our school held a special event called 'Swap Day'. The idea was simple: students could bring things they no longer needed and (9)_____ them for something they wanted.\n\nAt first, many students thought it was a (10)_____ idea. 'Why would anyone want my old stuff?' said Jack. But our teacher encouraged us to try. She said, 'One person's rubbish might be another person's (11)_____.'\n\nOn that day, the school hall was full of books, toys, clothes and even handmade crafts. I brought some comic books that I had already read. To my (12)_____, a girl named Amy was very excited to see them. She said she had been looking for those books for months! In return, she gave me a beautiful notebook with a leather cover.\n\nBy the end of the day, almost everything had been swapped. We all learned that sharing is not about giving up things — it is about (13)_____ value in what we already have.",
       "knowledge_point": "cloze_general",
-      "stem": "(9)",
-      "options": ["A. throw", "B. exchange", "C. sell", "D. lend"],
-      "correct_answer": "B",
-      "explanation": "根据上下文，Swap Day 的核心是'交换'。bring things they no longer needed and _____ them for something they wanted，exchange...for... 是固定搭配，意为'用……交换……'。throw 扔；sell 卖；lend 借出，均不符合 swap 的含义。"
+      "difficulty": 2,
+      "group": "cloze_1",
+      "group_passage": "Last month, our school started an interesting project called \"Green Classroom\". The goal was to help students learn about environmental protection through hands-on activities. Our class decided to create a small garden on the balcony outside our classroom.\n\nFirst, we collected old boxes and bottles to use as plant containers. Then we bought some soil and seeds with the money we raised from a二手 (second-hand) book sale. Everyone in the class took part in the work. Some students prepared the containers, (8)_____ others watered the seeds carefully.\n\nAt first, we were worried that the plants might not grow well because we had little experience. However, under the guidance of our science teacher, the seeds began to sprout after two weeks. Seeing the green leaves, we felt very (9)_____ and proud.\n\nThis project not only taught us how to grow plants but also made us understand the importance of protecting the environment. We plan to (10)_____ this activity to more classes next semester so that the whole school can enjoy the beauty of nature together.",
+      "stem": "(9)_____",
+      "options": [
+        "A. nervous",
+        "B. bored",
+        "C. excited",
+        "D. surprised"
+      ],
+      "correct_answer": "C",
+      "explanation": "考查形容词辨析及情感线索。前文提到种子发芽了（began to sprout），后文有proud（自豪的），and连接并列情感，excited（兴奋的）符合看到植物生长时的积极情绪。nervous（紧张的）和bored（无聊的）为负面情绪；surprised（惊讶的）虽可，但excited与proud更能体现成功的喜悦和成就感，且与上下文情感一致。",
+      "label": "完形填空"
     },
     {
       "id": 10,
       "type": "cloze",
-      "group": "cloze_1",
-      "group_passage": "Last month, our school held a special event called 'Swap Day'. The idea was simple: students could bring things they no longer needed and (9)_____ them for something they wanted.\n\nAt first, many students thought it was a (10)_____ idea. 'Why would anyone want my old stuff?' said Jack. But our teacher encouraged us to try. She said, 'One person's rubbish might be another person's (11)_____.'\n\nOn that day, the school hall was full of books, toys, clothes and even handmade crafts. I brought some comic books that I had already read. To my (12)_____, a girl named Amy was very excited to see them. She said she had been looking for those books for months! In return, she gave me a beautiful notebook with a leather cover.\n\nBy the end of the day, almost everything had been swapped. We all learned that sharing is not about giving up things — it is about (13)_____ value in what we already have.",
       "knowledge_point": "cloze_general",
-      "stem": "(10)",
-      "options": ["A. silly", "B. wonderful", "C. dangerous", "D. boring"],
+      "difficulty": 1,
+      "group": "cloze_1",
+      "group_passage": "Last month, our school started an interesting project called \"Green Classroom\". The goal was to help students learn about environmental protection through hands-on activities. Our class decided to create a small garden on the balcony outside our classroom.\n\nFirst, we collected old boxes and bottles to use as plant containers. Then we bought some soil and seeds with the money we raised from a二手 (second-hand) book sale. Everyone in the class took part in the work. Some students prepared the containers, (8)_____ others watered the seeds carefully.\n\nAt first, we were worried that the plants might not grow well because we had little experience. However, under the guidance of our science teacher, the seeds began to sprout after two weeks. Seeing the green leaves, we felt very (9)_____ and proud.\n\nThis project not only taught us how to grow plants but also made us understand the importance of protecting the environment. We plan to (10)_____ this activity to more classes next semester so that the whole school can enjoy the beauty of nature together.",
+      "stem": "(10)_____",
+      "options": [
+        "A. spread",
+        "B. throw",
+        "C. lend",
+        "D. return"
+      ],
       "correct_answer": "A",
-      "explanation": "跨句推理：后面Jack说'Why would anyone want my old stuff?'表达怀疑和不看好，说明一开始很多学生觉得这是个'愚蠢的/傻的'(silly)想法。But转折后老师鼓励才改变态度。wonderful太积极与后文矛盾；dangerous/boring语境不合。"
+      "explanation": "考查动词辨析。后文提到'到更多班级'（to more classes），表示推广、传播这项活动，spread（传播、推广）符合语境。throw（扔）；lend（借出）；return（归还）。解题关键：根据to more classes推断动作是'推广'，spread...to...表示将...推广到...。",
+      "label": "完形填空"
     },
     {
       "id": 11,
       "type": "cloze",
-      "group": "cloze_1",
-      "group_passage": "Last month, our school held a special event called 'Swap Day'. The idea was simple: students could bring things they no longer needed and (9)_____ them for something they wanted.\n\nAt first, many students thought it was a (10)_____ idea. 'Why would anyone want my old stuff?' said Jack. But our teacher encouraged us to try. She said, 'One person's rubbish might be another person's (11)_____.'\n\nOn that day, the school hall was full of books, toys, clothes and even handmade crafts. I brought some comic books that I had already read. To my (12)_____, a girl named Amy was very excited to see them. She said she had been looking for those books for months! In return, she gave me a beautiful notebook with a leather cover.\n\nBy the end of the day, almost everything had been swapped. We all learned that sharing is not about giving up things — it is about (13)_____ value in what we already have.",
       "knowledge_point": "cloze_general",
-      "stem": "(11)",
-      "options": ["A. rubbish", "B. treasure", "C. problem", "D. secret"],
+      "difficulty": 2,
+      "group": "cloze_1",
+      "group_passage": "Last month, our school started an interesting project called \"Green Classroom\". The goal was to help students learn about environmental protection through hands-on activities. Our class decided to create a small garden on the balcony outside our classroom.\n\nFirst, we collected old boxes and bottles to use as plant containers. Then we bought some soil and seeds with the money we (11)_____ from a二手 (second-hand) book sale. Everyone in the class took part in the work. Some students prepared the containers, while others watered the seeds carefully.\n\nAt first, we were worried that the plants might not grow well because we had little experience. However, under the guidance of our science teacher, the seeds began to sprout after two weeks. Seeing the green leaves, we felt very excited and proud.\n\nThis project not only taught us how to grow plants but also made us understand the importance of protecting the environment. We plan to spread this activity to more classes next semester so that the whole school can enjoy the beauty of nature together.",
+      "stem": "(11)_____",
+      "options": [
+        "A. borrowed",
+        "B. raised",
+        "C. stole",
+        "D. wasted"
+      ],
       "correct_answer": "B",
-      "explanation": "老师说'一个人的垃圾(rubbish)可能是另一个人的______'，形成对比/反义关系，treasure（宝贝/珍品）与 rubbish 形成完美对比，体现交换的意义。这是英语谚语 One man's trash is another man's treasure 的变体。"
+      "explanation": "考查动词搭配。raise money为固定搭配，意为'筹集资金'。borrowed（借入）；stole（偷窃）；wasted（浪费）。根据语境，通过二手书售卖'筹集'资金买种子，raised符合逻辑。注意raise还可表示'抚养、举起、筹集'等含义。",
+      "label": "完形填空"
     },
     {
       "id": 12,
       "type": "cloze",
-      "group": "cloze_1",
-      "group_passage": "Last month, our school held a special event called 'Swap Day'. The idea was simple: students could bring things they no longer needed and (9)_____ them for something they wanted.\n\nAt first, many students thought it was a (10)_____ idea. 'Why would anyone want my old stuff?' said Jack. But our teacher encouraged us to try. She said, 'One person's rubbish might be another person's (11)_____.'\n\nOn that day, the school hall was full of books, toys, clothes and even handmade crafts. I brought some comic books that I had already read. To my (12)_____, a girl named Amy was very excited to see them. She said she had been looking for those books for months! In return, she gave me a beautiful notebook with a leather cover.\n\nBy the end of the day, almost everything had been swapped. We all learned that sharing is not about giving up things — it is about (13)_____ value in what we already have.",
       "knowledge_point": "cloze_general",
-      "stem": "(12)",
-      "options": ["A. sadness", "B. anger", "C. surprise", "D. fear"],
-      "correct_answer": "C",
-      "explanation": "to one's surprise 是固定搭配，意为'令某人惊讶的是'。后文说Amy'非常兴奋'地看到漫画书，这对作者来说是意料之外的惊喜。sadness/anger/fear 都不符合正面的情感语境。"
+      "difficulty": 1,
+      "group": "cloze_1",
+      "group_passage": "Last month, our school started an interesting project called \"Green Classroom\". The goal was to help students learn about environmental protection through hands-on activities. Our class decided to create a small garden on the balcony outside our classroom.\n\nFirst, we collected old boxes and bottles to use as plant containers. Then we bought some soil and seeds with the money we raised from a二手 (second-hand) book sale. (12)_____ in the class took part in the work. Some students prepared the containers, while others watered the seeds carefully.\n\nAt first, we were worried that the plants might not grow well because we had little experience. However, under the guidance of our science teacher, the seeds began to sprout after two weeks. Seeing the green leaves, we felt very excited and proud.\n\nThis project not only taught us how to grow plants but also made us understand the importance of protecting the environment. We plan to spread this activity to more classes next semester so that the whole school can enjoy the beauty of nature together.",
+      "stem": "(12)_____",
+      "options": [
+        "A. Someone",
+        "B. Anyone",
+        "C. No one",
+        "D. Everyone"
+      ],
+      "correct_answer": "D",
+      "explanation": "考查不定代词及上下文理解。后文提到Some students...others...（一些...另一些...），表示全体参与，Everyone（每个人）符合语境。Someone（某人）范围太小；Anyone（任何人）常用于疑问或否定；No one（没人）与文意相反。解题关键：从后文分组工作可推断是全班每个人都参与了。",
+      "label": "完形填空"
     },
     {
       "id": 13,
-      "type": "cloze",
-      "group": "cloze_1",
-      "group_passage": "Last month, our school held a special event called 'Swap Day'. The idea was simple: students could bring things they no longer needed and (9)_____ them for something they wanted.\n\nAt first, many students thought it was a (10)_____ idea. 'Why would anyone want my old stuff?' said Jack. But our teacher encouraged us to try. She said, 'One person's rubbish might be another person's (11)_____.'\n\nOn that day, the school hall was full of books, toys, clothes and even handmade crafts. I brought some comic books that I had already read. To my (12)_____, a girl named Amy was very excited to see them. She said she had been looking for those books for months! In return, she gave me a beautiful notebook with a leather cover.\n\nBy the end of the day, almost everything had been swapped. We all learned that sharing is not about giving up things — it is about (13)_____ value in what we already have.",
-      "knowledge_point": "cloze_general",
-      "stem": "(13)",
-      "options": ["A. losing", "B. finding", "C. hiding", "D. wasting"],
-      "correct_answer": "B",
-      "explanation": "文章主旨总结：分享不是放弃东西，而是'发现'(finding)我们已有之物的价值。find value in 是搭配，意为'在……中发现价值'。losing失去、hiding隐藏、wasting浪费，都与积极主题矛盾。"
+      "type": "reading",
+      "knowledge_point": "detail",
+      "difficulty": 2,
+      "group": "reading_1",
+      "group_passage": "Vertical farming is a new way of growing food. Unlike traditional farming on flat fields, vertical farming grows crops in stacked layers (堆叠层) indoors. This method uses special lights instead of sunlight and can be done in cities, close to where people live.\n\nOne major advantage of vertical farming is water saving. Traditional farming usually needs a lot of water for irrigation (灌溉). In contrast, vertical farms use up to 90% less water because they recycle water through the system. This is especially important in dry areas where water is scarce.\n\nHowever, vertical farming also has challenges. Setting up these farms costs a lot of money. The special lights and temperature control systems use electricity, which can be expensive. Also, not all crops can be grown this way. Large plants like apple trees are not suitable for vertical layers.\n\nDespite these problems, many experts believe vertical farming will become more common in the future. As technology improves and costs go down, we may see more fresh vegetables grown in city buildings rather than on distant farms.",
+      "stem": "How much less water does vertical farming use compared to traditional farming?",
+      "options": [
+        "A. About 10%",
+        "B. About 50%",
+        "C. About 90%",
+        "D. About 100%"
+      ],
+      "correct_answer": "C",
+      "explanation": "细节理解题。根据第二段第二句'In contrast, vertical farms use up to 90% less water because they recycle water through the system.'（相比之下，垂直农场用水量减少高达90%...），明确提到90% less water。A、B、D选项数字与原文不符。解题技巧：细节题要精准定位关键词water，在原文中找到具体数字。",
+      "label": "阅读-细节理解"
     },
     {
       "id": 14,
       "type": "reading",
+      "knowledge_point": "inference",
+      "difficulty": 3,
       "group": "reading_1",
-      "group_passage": "Have you ever heard of 'forest bathing'? It is not about taking a bath in the forest. Forest bathing, or 'Shinrin-yoku' in Japanese, simply means spending time in a forest and using all your senses to experience nature.\n\nThe idea started in Japan in the 1980s. At that time, many Japanese people worked very long hours and felt stressed. Doctors noticed that people who spent time in forests felt calmer and healthier. So the government encouraged people to visit forests regularly.\n\nScientists have since found that forest bathing can lower blood pressure, reduce stress hormones, and improve the immune system. Trees release natural chemicals called phytoncides into the air. When we breathe them in, our bodies respond positively.\n\nToday, forest bathing has spread around the world. In South Korea, there are official 'healing forests' with trained guides. In the UK, doctors sometimes prescribe nature walks instead of medicine. Even in busy cities like Singapore, people create small green spaces for relaxation.\n\nYou do not need a huge forest to benefit. Even a 20-minute walk in a park with trees can help. The key is to slow down, put away your phone, and pay attention to the sounds, smells, and colours around you.",
-      "knowledge_point": "detail",
-      "stem": "According to the passage, forest bathing started in Japan because _____.",
-      "options": ["A. Japanese people loved swimming in rivers", "B. doctors found forests could help stressed workers", "C. the government wanted to protect forests", "D. scientists discovered new chemicals in trees"],
-      "correct_answer": "B",
-      "explanation": "细节理解：第二段明确说'many Japanese people worked very long hours and felt stressed. Doctors noticed that people who spent time in forests felt calmer and healthier'——医生发现森林能帮助压力大的人，所以选B。A偷换概念；C/D不是起源原因。"
+      "group_passage": "Vertical farming is a new way of growing food. Unlike traditional farming on flat fields, vertical farming grows crops in stacked layers (堆叠层) indoors. This method uses special lights instead of sunlight and can be done in cities, close to where people live.\n\nOne major advantage of vertical farming is water saving. Traditional farming usually needs a lot of water for irrigation (灌溉). In contrast, vertical farms use up to 90% less water because they recycle water through the system. This is especially important in dry areas where water is scarce.\n\nHowever, vertical farming also has challenges. Setting up these farms costs a lot of money. The special lights and temperature control systems use electricity, which can be expensive. Also, not all crops can be grown this way. Large plants like apple trees are not suitable for vertical layers.\n\nDespite these problems, many experts believe vertical farming will become more common in the future. As technology improves and costs go down, we may see more fresh vegetables grown in city buildings rather than on distant farms.",
+      "stem": "What can we infer from the passage about the future of vertical farming?",
+      "options": [
+        "A. It will completely replace traditional farming soon.",
+        "B. It will only be used in dry areas.",
+        "C. It may become more popular as technology develops.",
+        "D. It is too expensive to be used in cities."
+      ],
+      "correct_answer": "C",
+      "explanation": "推理判断题。根据最后一段'As technology improves and costs go down, we may see more fresh vegetables grown in city buildings...'（随着技术进步和成本下降，我们可能会看到更多新鲜蔬菜在城市建筑中种植...），可推断出随着技术发展，垂直农业可能会更普及（become more popular）。A选项'完全取代'过于绝对；B选项'仅用于干旱地区'与原文不符；D选项'太贵无法在城市使用'与原文'can be done in cities'矛盾。",
+      "label": "阅读-推理判断"
     },
     {
       "id": 15,
       "type": "reading",
+      "knowledge_point": "word_guessing",
+      "difficulty": 2,
       "group": "reading_1",
-      "group_passage": "Have you ever heard of 'forest bathing'? It is not about taking a bath in the forest. Forest bathing, or 'Shinrin-yoku' in Japanese, simply means spending time in a forest and using all your senses to experience nature.\n\nThe idea started in Japan in the 1980s. At that time, many Japanese people worked very long hours and felt stressed. Doctors noticed that people who spent time in forests felt calmer and healthier. So the government encouraged people to visit forests regularly.\n\nScientists have since found that forest bathing can lower blood pressure, reduce stress hormones, and improve the immune system. Trees release natural chemicals called phytoncides into the air. When we breathe them in, our bodies respond positively.\n\nToday, forest bathing has spread around the world. In South Korea, there are official 'healing forests' with trained guides. In the UK, doctors sometimes prescribe nature walks instead of medicine. Even in busy cities like Singapore, people create small green spaces for relaxation.\n\nYou do not need a huge forest to benefit. Even a 20-minute walk in a park with trees can help. The key is to slow down, put away your phone, and pay attention to the sounds, smells, and colours around you.",
-      "knowledge_point": "inference",
-      "stem": "From the passage, we can infer that _____.",
-      "options": ["A. forest bathing is only useful for Japanese people", "B. you must hire a guide to do forest bathing", "C. technology may prevent people from enjoying nature fully", "D. forest bathing can cure all diseases"],
+      "group_passage": "Vertical farming is a new way of growing food. Unlike traditional farming on flat fields, vertical farming grows crops in stacked layers (堆叠层) indoors. This method uses special lights instead of sunlight and can be done in cities, close to where people live.\n\nOne major advantage of vertical farming is water saving. Traditional farming usually needs a lot of water for irrigation (灌溉). In contrast, vertical farms use up to 90% less water because they recycle water through the system. This is especially important in dry areas where water is scarce.\n\nHowever, vertical farming also has challenges. Setting up these farms costs a lot of money. The special lights and temperature control systems use electricity, which can be expensive. Also, not all crops can be grown this way. Large plants like apple trees are not suitable for vertical layers.\n\nDespite these problems, many experts believe vertical farming will become more common in the future. As technology improves and costs go down, we may see more fresh vegetables grown in city buildings rather than on distant farms.",
+      "stem": "The underlined word 'scarce' in Paragraph 2 probably means _____.",
+      "options": [
+        "A. expensive",
+        "B. dirty",
+        "C. not enough",
+        "D. clean"
+      ],
       "correct_answer": "C",
-      "explanation": "推理判断：最后一段说'put away your phone'暗示手机/科技可能干扰人们充分享受自然，由此推断C。A错（已传播全球）；B错（文中说even a 20-minute walk即可）；D错（只是改善，未说治愈所有疾病，过于绝对）。"
+      "explanation": "词义猜测题。根据上下文'dry areas where water is scarce'（干旱地区水资源scarce），干旱地区的水应该是'不足的、稀缺的'。scarce意为'缺乏的、不足的'。A（昂贵的）、B（脏的）、D（干净的）均不符合干旱地区水资源的特征。解题技巧：根据dry areas（干旱地区）的语境线索，推断水资源是'不足的'。",
+      "label": "阅读-词义猜测"
     },
     {
       "id": 16,
       "type": "reading",
+      "knowledge_point": "main_idea",
+      "difficulty": 3,
       "group": "reading_1",
-      "group_passage": "Have you ever heard of 'forest bathing'? It is not about taking a bath in the forest. Forest bathing, or 'Shinrin-yoku' in Japanese, simply means spending time in a forest and using all your senses to experience nature.\n\nThe idea started in Japan in the 1980s. At that time, many Japanese people worked very long hours and felt stressed. Doctors noticed that people who spent time in forests felt calmer and healthier. So the government encouraged people to visit forests regularly.\n\nScientists have since found that forest bathing can lower blood pressure, reduce stress hormones, and improve the immune system. Trees release natural chemicals called phytoncides into the air. When we breathe them in, our bodies respond positively.\n\nToday, forest bathing has spread around the world. In South Korea, there are official 'healing forests' with trained guides. In the UK, doctors sometimes prescribe nature walks instead of medicine. Even in busy cities like Singapore, people create small green spaces for relaxation.\n\nYou do not need a huge forest to benefit. Even a 20-minute walk in a park with trees can help. The key is to slow down, put away your phone, and pay attention to the sounds, smells, and colours around you.",
-      "knowledge_point": "word_guessing",
-      "stem": "The underlined word 'prescribe' in paragraph 4 probably means _____.",
-      "options": ["A. sell at a low price", "B. officially suggest as treatment", "C. carefully study", "D. completely forbid"],
-      "correct_answer": "B",
-      "explanation": "词义猜测：原文'doctors sometimes prescribe nature walks instead of medicine'，doctors（医生）+ instead of medicine（代替药物）语境可推出 prescribe 意为'开处方/正式建议作为治疗'。A卖低价、C仔细研究、D完全禁止，均不合语境。"
+      "group_passage": "Vertical farming is a new way of growing food. Unlike traditional farming on flat fields, vertical farming grows crops in stacked layers (堆叠层) indoors. This method uses special lights instead of sunlight and can be done in cities, close to where people live.\n\nOne major advantage of vertical farming is water saving. Traditional farming usually needs a lot of water for irrigation (灌溉). In contrast, vertical farms use up to 90% less water because they recycle water through the system. This is especially important in dry areas where water is scarce.\n\nHowever, vertical farming also has challenges. Setting up these farms costs a lot of money. The special lights and temperature control systems use electricity, which can be expensive. Also, not all crops can be grown this way. Large plants like apple trees are not suitable for vertical layers.\n\nDespite these problems, many experts believe vertical farming will become more common in the future. As technology improves and costs go down, we may see more fresh vegetables grown in city buildings rather than on distant farms.",
+      "stem": "What is the writer's main purpose in writing this passage?",
+      "options": [
+        "A. To introduce vertical farming and discuss its advantages and challenges.",
+        "B. To prove that vertical farming is better than traditional farming.",
+        "C. To encourage readers to start their own vertical farms.",
+        "D. To explain why traditional farming will disappear soon."
+      ],
+      "correct_answer": "A",
+      "explanation": "主旨大意题。文章第一段介绍什么是垂直农业，第二段讲优点（节水），第三段讲挑战（成本高、不适合所有作物），第四段讲未来前景。整体是客观介绍垂直农业的优缺点。B选项'证明更好'过于主观，文章也提到了缺点；C选项'鼓励读者开始'不是主要目的；D选项'解释传统农业将消失'与原文不符。解题技巧：关注首尾段及各段主题句，总结是'介绍+优缺点分析'。",
+      "label": "阅读-主旨大意"
     },
     {
       "id": 17,
-      "type": "reading",
-      "group": "reading_1",
-      "group_passage": "Have you ever heard of 'forest bathing'? It is not about taking a bath in the forest. Forest bathing, or 'Shinrin-yoku' in Japanese, simply means spending time in a forest and using all your senses to experience nature.\n\nThe idea started in Japan in the 1980s. At that time, many Japanese people worked very long hours and felt stressed. Doctors noticed that people who spent time in forests felt calmer and healthier. So the government encouraged people to visit forests regularly.\n\nScientists have since found that forest bathing can lower blood pressure, reduce stress hormones, and improve the immune system. Trees release natural chemicals called phytoncides into the air. When we breathe them in, our bodies respond positively.\n\nToday, forest bathing has spread around the world. In South Korea, there are official 'healing forests' with trained guides. In the UK, doctors sometimes prescribe nature walks instead of medicine. Even in busy cities like Singapore, people create small green spaces for relaxation.\n\nYou do not need a huge forest to benefit. Even a 20-minute walk in a park with trees can help. The key is to slow down, put away your phone, and pay attention to the sounds, smells, and colours around you.",
-      "knowledge_point": "main_idea",
-      "stem": "What is the best title for this passage?",
-      "options": ["A. How to Grow Trees in Cities", "B. The Healing Power of Forests", "C. Why Japanese People Are Healthy", "D. The History of Medicine in Asia"],
-      "correct_answer": "B",
-      "explanation": "主旨大意：文章介绍了森林浴的起源、科学原理和全球推广，核心是森林对人体健康的积极作用。B'森林的治愈力量'最贴切。A关于种树，偏离主题；C以偏概全（不只是日本人）；D关于医学史，不是文章重点。"
+      "type": "fill",
+      "knowledge_point": "sentence_fill",
+      "difficulty": 2,
+      "group": "fill_1",
+      "group_passage": "Many middle school students have hobbies like playing basketball, painting, or playing musical instruments. These activities make our lives colorful and interesting. (17)_____ They often find it hard to finish homework on time or prepare for exams.\n\nSo, how can we balance study and hobbies? (18)_____ Write down what you need to do each day and how long it takes. This helps you see where your time goes.\n\n(19)_____ For example, you can listen to English songs while walking to school, or review notes during breaks between classes. Small pieces of time add up.\n\nRemember, hobbies are not enemies of study. (20)_____ When you learn to manage your time well, you can enjoy both good grades and happy moments with your hobbies.",
+      "stem": "(17)_____",
+      "options": [
+        "A. However, many students find it difficult to manage their time.",
+        "B. First, you should make a study plan.",
+        "C. In addition, try to use your free time wisely.",
+        "D. On the other hand, they help us relax and learn better.",
+        "E. As a result, most students give up their hobbies completely."
+      ],
+      "correct_answer": "A",
+      "explanation": "考查段落衔接及转折关系。前文讲爱好的好处（colorful and interesting），后文讲'难以按时完成作业'，前后为转折关系，However（然而）符合逻辑。且后句主语They指代选项中的many students。B是建议，适合用于解决问题段落；C是递进；D是另一方面；E是结果，与后文难以管理时间而非完全放弃不符。",
+      "label": "短文填空"
     },
     {
       "id": 18,
       "type": "fill",
-      "group": "fill_1",
-      "group_passage": "Last Saturday, our class went to Green Valley Farm for a field trip. It was a sunny day and everyone was excited.\n\nWhen we arrived, the farmer Mr. Chen welcomed us warmly. (18)_____ He told us that the farm had been running for over 30 years.\n\nFirst, we visited the vegetable garden. (19)_____ We even picked some tomatoes and put them into baskets. They were much fresher than the ones in supermarkets.\n\nAfter that, we went to see the animals. There were chickens, ducks, and two baby goats. (20)_____ Some students were afraid at first, but soon they started laughing.\n\nBefore we left, Mr. Chen gave each of us a small bag of seeds. (21)_____ I planted mine in a pot at home and I water it every day now.",
       "knowledge_point": "sentence_fill",
-      "stem": "(18)",
-      "options": ["A. He said we could grow our own vegetables with them.", "B. The baby goats kept following us around like little dogs.", "C. We learned the names of different plants and how they grow.", "D. He showed us around the farm and introduced his family.", "E. The trip made us understand how hard farmers work."],
-      "correct_answer": "D",
-      "explanation": "前文说Mr. Chen热情欢迎我们，后文说他告诉我们农场运营了30多年——中间应该是他带我们参观并介绍相关信息。D'他带我们参观农场并介绍了他的家人'承上启下最合适。"
+      "difficulty": 2,
+      "group": "fill_1",
+      "group_passage": "Many middle school students have hobbies like playing basketball, painting, or playing musical instruments. These activities make our lives colorful and interesting. However, many students find it difficult to manage their time. They often find it hard to finish homework on time or prepare for exams.\n\nSo, how can we balance study and hobbies? (18)_____ Write down what you need to do each day and how long it takes. This helps you see where your time goes.\n\n(19)_____ For example, you can listen to English songs while walking to school, or review notes during breaks between classes. Small pieces of time add up.\n\nRemember, hobbies are not enemies of study. (20)_____ When you learn to manage your time well, you can enjoy both good grades and happy moments with your hobbies.",
+      "stem": "(18)_____",
+      "options": [
+        "A. However, many students find it difficult to manage their time.",
+        "B. First, you should make a study plan.",
+        "C. In addition, try to use your free time wisely.",
+        "D. On the other hand, they help us relax and learn better.",
+        "E. As a result, most students give up their hobbies completely."
+      ],
+      "correct_answer": "B",
+      "explanation": "考查顺序连接词。前文提出'如何平衡学习与爱好'的问题，后文'写下每天需要做什么'是具体建议，First（首先）用于列举第一条建议，符合逻辑。且后文This helps...指代制定计划的好处。A是转折，已用过；C是此外，用于第二条建议；D是对比；E是结果。",
+      "label": "短文填空"
     },
     {
       "id": 19,
       "type": "fill",
-      "group": "fill_1",
-      "group_passage": "Last Saturday, our class went to Green Valley Farm for a field trip. It was a sunny day and everyone was excited.\n\nWhen we arrived, the farmer Mr. Chen welcomed us warmly. (18)_____ He told us that the farm had been running for over 30 years.\n\nFirst, we visited the vegetable garden. (19)_____ We even picked some tomatoes and put them into baskets. They were much fresher than the ones in supermarkets.\n\nAfter that, we went to see the animals. There were chickens, ducks, and two baby goats. (20)_____ Some students were afraid at first, but soon they started laughing.\n\nBefore we left, Mr. Chen gave each of us a small bag of seeds. (21)_____ I planted mine in a pot at home and I water it every day now.",
       "knowledge_point": "sentence_fill",
-      "stem": "(19)",
-      "options": ["A. He said we could grow our own vegetables with them.", "B. The baby goats kept following us around like little dogs.", "C. We learned the names of different plants and how they grow.", "D. He showed us around the farm and introduced his family.", "E. The trip made us understand how hard farmers work."],
+      "difficulty": 2,
+      "group": "fill_1",
+      "group_passage": "Many middle school students have hobbies like playing basketball, painting, or playing musical instruments. These activities make our lives colorful and interesting. However, many students find it difficult to manage their time. They often find it hard to finish homework on time or prepare for exams.\n\nSo, how can we balance study and hobbies? First, you should make a study plan. Write down what you need to do each day and how long it takes. This helps you see where your time goes.\n\n(19)_____ For example, you can listen to English songs while walking to school, or review notes during breaks between classes. Small pieces of time add up.\n\nRemember, hobbies are not enemies of study. (20)_____ When you learn to manage your time well, you can enjoy both good grades and happy moments with your hobbies.",
+      "stem": "(19)_____",
+      "options": [
+        "A. However, many students find it difficult to manage their time.",
+        "B. First, you should make a study plan.",
+        "C. In addition, try to use your free time wisely.",
+        "D. On the other hand, they help us relax and learn better.",
+        "E. As a result, most students give up their hobbies completely."
+      ],
       "correct_answer": "C",
-      "explanation": "前文说我们参观了菜园，后文说我们甚至摘了西红柿——中间应该是在菜园里的学习活动。C'我们学到了不同植物的名字和它们怎么生长'与菜园参观语境一致。"
+      "explanation": "考查递进关系。前文有First（首先），此处应为第二条建议，In addition（此外、另外）用于补充建议。后文举例'走路时听英语歌、课间复习'都是关于如何利用碎片时间（free time wisely）的具体做法。A、B已用；D表对比；E表结果。",
+      "label": "短文填空"
     },
     {
       "id": 20,
       "type": "fill",
-      "group": "fill_1",
-      "group_passage": "Last Saturday, our class went to Green Valley Farm for a field trip. It was a sunny day and everyone was excited.\n\nWhen we arrived, the farmer Mr. Chen welcomed us warmly. (18)_____ He told us that the farm had been running for over 30 years.\n\nFirst, we visited the vegetable garden. (19)_____ We even picked some tomatoes and put them into baskets. They were much fresher than the ones in supermarkets.\n\nAfter that, we went to see the animals. There were chickens, ducks, and two baby goats. (20)_____ Some students were afraid at first, but soon they started laughing.\n\nBefore we left, Mr. Chen gave each of us a small bag of seeds. (21)_____ I planted mine in a pot at home and I water it every day now.",
       "knowledge_point": "sentence_fill",
-      "stem": "(20)",
-      "options": ["A. He said we could grow our own vegetables with them.", "B. The baby goats kept following us around like little dogs.", "C. We learned the names of different plants and how they grow.", "D. He showed us around the farm and introduced his family.", "E. The trip made us understand how hard farmers work."],
-      "correct_answer": "B",
-      "explanation": "前文提到了小山羊，后文说有些同学一开始害怕但很快就笑了——B'小山羊一直跟着我们，像小狗一样'完美衔接，解释了为什么有人害怕（动物跟着）但又觉得好笑（像小狗）。"
-    },
-    {
-      "id": 21,
-      "type": "fill",
+      "difficulty": 2,
       "group": "fill_1",
-      "group_passage": "Last Saturday, our class went to Green Valley Farm for a field trip. It was a sunny day and everyone was excited.\n\nWhen we arrived, the farmer Mr. Chen welcomed us warmly. (18)_____ He told us that the farm had been running for over 30 years.\n\nFirst, we visited the vegetable garden. (19)_____ We even picked some tomatoes and put them into baskets. They were much fresher than the ones in supermarkets.\n\nAfter that, we went to see the animals. There were chickens, ducks, and two baby goats. (20)_____ Some students were afraid at first, but soon they started laughing.\n\nBefore we left, Mr. Chen gave each of us a small bag of seeds. (21)_____ I planted mine in a pot at home and I water it every day now.",
-      "knowledge_point": "sentence_fill",
-      "stem": "(21)",
-      "options": ["A. He said we could grow our own vegetables with them.", "B. The baby goats kept following us around like little dogs.", "C. We learned the names of different plants and how they grow.", "D. He showed us around the farm and introduced his family.", "E. The trip made us understand how hard farmers work."],
-      "correct_answer": "A",
-      "explanation": "前文说Mr. Chen给了我们每人一小袋种子，后文说'我把种子种在了花盆里，每天浇水'——A'他说我们可以用它们自己种蔬菜'完美衔接seeds和种植行为。E是干扰项，虽然有道理但与上下文不直接关联。"
+      "group_passage": "Many middle school students have hobbies like playing basketball, painting, or playing musical instruments. These activities make our lives colorful and interesting. However, many students find it difficult to manage their time. They often find it hard to finish homework on time or prepare for exams.\n\nSo, how can we balance study and hobbies? First, you should make a study plan. Write down what you need to do each day and how long it takes. This helps you see where your time goes.\n\nIn addition, try to use your free time wisely. For example, you can listen to English songs while walking to school, or review notes during breaks between classes. Small pieces of time add up.\n\nRemember, hobbies are not enemies of study. (20)_____ When you learn to manage your time well, you can enjoy both good grades and happy moments with your hobbies.",
+      "stem": "(20)_____",
+      "options": [
+        "A. However, many students find it difficult to manage their time.",
+        "B. First, you should make a study plan.",
+        "C. In addition, try to use your free time wisely.",
+        "D. On the other hand, they help us relax and learn better.",
+        "E. As a result, most students give up their hobbies completely."
+      ],
+      "correct_answer": "D",
+      "explanation": "考查对比/补充说明。前文说'hobbies are not enemies'（爱好不是敌人），后文应解释爱好的好处，On the other hand（另一方面）用于引出事物的另一面，即爱好帮助放松和学习。However表转折；First和In addition已用于前文建议部分；As a result表结果。此处是对'hobbies are not enemies'的补充说明，D最恰当。",
+      "label": "短文填空"
     }
   ]
 }
