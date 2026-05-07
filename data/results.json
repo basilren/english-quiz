@@ -259,6 +259,13 @@
       "total": 21,
       "correct": 18,
       "rate": 86
+    },
+    {
+      "date": "2026-05-07",
+      "session": 1,
+      "total": 20,
+      "correct": 17,
+      "rate": 85
     }
   ],
   "errors": [
@@ -475,6 +482,60 @@
       "correct_answer": "A",
       "student_answer": "B",
       "explanation": "跨句推理：后面Jack说'Why would anyone want my old stuff?'表达怀疑和不看好，说明一开始很多学生觉得这是个'愚蠢的/傻的'(silly)想法。But转折后老师鼓励才改变态度。wonderful太积极与后文矛盾；dangerous/boring语境不合。"
+    },
+    {
+      "date": "2026-05-07",
+      "session": 1,
+      "question_id": 9,
+      "type": "cloze",
+      "knowledge_point": "cloze_general",
+      "label": "完形填空",
+      "stem": "(9)",
+      "options": [
+        "A. listened",
+        "B. talked",
+        "C. spoken",
+        "D. said"
+      ],
+      "correct_answer": "C",
+      "student_answer": "A",
+      "explanation": "speak to sb 意为'和某人说话'。had never spoken to 表示'从未和...说过话'。listened to 是听；talked 后面已有 to，但选项中 talked 不带 to，需要 talked with/to；said 后不接 to sb。"
+    },
+    {
+      "date": "2026-05-07",
+      "session": 1,
+      "question_id": 15,
+      "type": "reading",
+      "knowledge_point": "word_guessing",
+      "label": "阅读-词义猜测",
+      "stem": "The word 'navigate' in Paragraph 4 most probably means _____.",
+      "options": [
+        "A. find food",
+        "B. find their way",
+        "C. build nests",
+        "D. communicate"
+      ],
+      "correct_answer": "B",
+      "student_answer": "D",
+      "explanation": "上下文：动物利用月光和星光来 navigate，当人造光让它们困惑时，they can lose their way（迷路）。由 lose their way 可反推 navigate 意为'找到方向/辨路'。"
+    },
+    {
+      "date": "2026-05-07",
+      "session": 1,
+      "question_id": 16,
+      "type": "reading",
+      "knowledge_point": "main_idea",
+      "label": "阅读-主旨大意",
+      "stem": "What is the best title for this passage?",
+      "options": [
+        "A. How to Build a Dark Sky Park",
+        "B. Why We Need Dark Skies",
+        "C. The History of the IDA",
+        "D. Animals and the Moon"
+      ],
+      "correct_answer": "B",
+      "student_answer": "D",
+      "explanation": "文章围绕暗夜公园的概念、光污染对人和动物的危害以及城市采取的措施展开，核心论点是'为什么我们需要黑暗的天空'。A 只涉及建设方法（文中未详述）；C 只涉及一个组织的历史（非重点）；D 只覆盖第四段部分内容。"
     }
   ]
 }
