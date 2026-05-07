@@ -1,121 +1,44 @@
 ﻿{
   "date": "2026-05-07",
-<<<<<<< Updated upstream
-  "session_number": 1,
-=======
   "day": 41,
   "session_number": 1,
   "difficulty": "grammar2_cloze3_reading2_fill2",
->>>>>>> Stashed changes
   "questions": [
     {
       "id": 1,
       "type": "grammar",
-<<<<<<< Updated upstream
-      "knowledge_point": "present_perfect_vs_past_simple",
-      "difficulty": 2,
-      "stem": "—Have you ever _____ to the Shenzhen Science Museum?\n—Yes, I _____ there with my classmates last month.",
-      "options": [
-        "A. gone; have been",
-        "B. been; went",
-        "C. been; have gone",
-        "D. gone; went"
-      ],
-      "correct_answer": "B",
-      "explanation": "第一空考查have been to（去过某地，已返回）与have gone to（去了某地，未回）的区别。根据对话语境，问句询问是否'去过'，且答句表明人已在此，故用been。第二空有明确过去时间状语last month，必须用一般过去时went。干扰项A混淆了时态；C第二空不能用现在完成时；D第一空gone表示人未回，与答句矛盾。",
-      "label": "语法题"
-=======
       "group": "_single_0",
       "knowledge_point": "present_perfect",
       "stem": "-- Have you ever _____ to Beijing?\n-- Yes, I went there last summer.",
       "options": ["A. been", "B. gone", "C. go", "D. went"],
       "correct_answer": "A",
       "explanation": "have been to \u8868\u793a'\u53bb\u8fc7\u67d0\u5730\uff08\u5df2\u56de\u6765\uff09'\uff0chave gone to \u8868\u793a'\u53bb\u4e86\u67d0\u5730\uff08\u672a\u56de\u6765\uff09'\u3002\u5bf9\u8bdd\u4e2d\u56de\u7b54'Yes, I went there'\u8bf4\u660e\u4eba\u5df2\u56de\u6765\uff0c\u6240\u4ee5\u7528 been\u3002"
->>>>>>> Stashed changes
     },
     {
       "id": 2,
       "type": "grammar",
-<<<<<<< Updated upstream
-      "knowledge_point": "relative_clause_who_which",
-      "difficulty": 2,
-      "stem": "The boy _____ won the first prize in the English speech contest is from Class 3.",
-      "options": [
-        "A. who",
-        "B. which",
-        "C. whom",
-        "D. whose"
-      ],
-      "correct_answer": "A",
-      "explanation": "考查定语从句关系代词。先行词the boy指人，且在从句中作主语（won的主语），故用who。which指物；whom指人但作宾语；whose表示所属关系'谁的'。解题技巧：空格后在从句中缺主语且指人，首选who/that。",
-      "label": "语法题"
-=======
       "group": "_single_1",
       "knowledge_point": "present_perfect",
       "stem": "Mr. Wang has _____ the school for twenty years. He loves teaching.",
       "options": ["A. come to", "B. been in", "C. arrived at", "D. joined"],
       "correct_answer": "B",
       "explanation": "for twenty years \u8868\u793a\u4e00\u6bb5\u65f6\u95f4\uff0c\u5fc5\u987b\u7528\u5ef6\u7eed\u6027\u52a8\u8bcd\u3002come to/arrive at/join \u90fd\u662f\u975e\u5ef6\u7eed\u6027\u52a8\u8bcd\uff0c\u4e0d\u80fd\u4e0e for \u8fde\u7528\u3002come to \u2192 be in, join \u2192 be in/be a member of\u3002"
->>>>>>> Stashed changes
     },
     {
       "id": 3,
       "type": "grammar",
-<<<<<<< Updated upstream
-      "knowledge_point": "passive_voice",
-      "difficulty": 1,
-      "stem": "These old books _____ to the library by Bosco yesterday afternoon.",
-      "options": [
-        "A. return",
-        "B. returned",
-        "C. were returned",
-        "D. are returned"
-      ],
-      "correct_answer": "C",
-      "explanation": "考查一般过去时的被动语态。主语books与动词return是被动关系（书被还），时间状语yesterday afternoon表明是过去时，故用were returned。A是主动原形；B是主动过去式；D是一般现在时被动，时态不符。被动语态结构：be + done，注意时态变化。",
-      "label": "语法题"
-=======
       "group": "_single_2",
       "knowledge_point": "object_clause",
       "stem": "Do you know _____?",
       "options": ["A. when will he come back", "B. when he will come back", "C. when did he come back", "D. when does he come back"],
       "correct_answer": "B",
       "explanation": "\u5bbe\u8bed\u4ece\u53e5\u5fc5\u987b\u7528\u9648\u8ff0\u8bed\u5e8f\uff08\u4e3b\u8bed+\u8c13\u8bed\uff09\u3002A/C/D \u90fd\u662f\u7591\u95ee\u8bed\u5e8f\u3002\u6b64\u5916\u4e3b\u53e5\u662f\u4e00\u822c\u73b0\u5728\u65f6\uff0c\u4ece\u53e5\u8868\u5c06\u6765\uff0c\u7528 will\u3002"
->>>>>>> Stashed changes
     },
     {
       "id": 4,
       "type": "grammar",
+      "group": "_single_3",
       "knowledge_point": "object_clause",
-<<<<<<< Updated upstream
-      "difficulty": 3,
-      "stem": "Could you tell me _____ yesterday?",
-      "options": [
-        "A. what did you buy",
-        "B. what you bought",
-        "C. what will you buy",
-        "D. what you will buy"
-      ],
-      "correct_answer": "B",
-      "explanation": "考查宾语从句。宾语从句必须用陈述语序（主语+谓语），排除A和C的疑问语序。主句Could you tell me是委婉请求，不是过去时，但从句有时间状语yesterday，必须用一般过去时bought，故选B。D时态错误。口诀：宾从陈述语序，时态呼应主句。",
-      "label": "语法题"
-    },
-    {
-      "id": 5,
-      "type": "vocabulary",
-      "knowledge_point": "phrasal_verbs",
-      "difficulty": 1,
-      "stem": "We should _____ good habits of reading every day. It helps us learn better.",
-      "options": [
-        "A. develop",
-        "B. raise",
-        "C. grow",
-        "D. build up"
-      ],
-      "correct_answer": "A",
-      "explanation": "考查固定搭配develop habits（养成习惯）。develop可指培养、养成（习惯、技能等）。raise通常指抚养孩子、筹集资金或举起；grow指种植或生长；build up虽可指建立，但develop habits是更地道的搭配。注意 develop/form habits 为常用表达。",
-      "label": "词汇题"
-=======
       "stem": "The teacher asked me _____ I had finished my homework.",
       "options": ["A. that", "B. what", "C. whether", "D. which"],
       "correct_answer": "C",
@@ -130,77 +53,30 @@
       "options": ["A. which", "B. who", "C. whom", "D. where"],
       "correct_answer": "B",
       "explanation": "\u5b9a\u8bed\u4ece\u53e5\u4fee\u9970\u5148\u884c\u8bcd the girl\uff08\u4eba\uff09\uff0c\u4e14\u5728\u4ece\u53e5\u4e2d\u4f5c\u4e3b\u8bed\uff0c\u7528 who\u3002which \u4fee\u9970\u7269\uff1bwhom \u4f5c\u5bbe\u8bed\uff1bwhere \u8868\u5730\u70b9\u3002"
->>>>>>> Stashed changes
     },
     {
       "id": 6,
       "type": "vocabulary",
-<<<<<<< Updated upstream
-      "knowledge_point": "word_meaning_context",
-      "difficulty": 2,
-      "stem": "The task is too difficult. I think it is _____ for a 10-year-old child to finish it alone.",
-      "options": [
-        "A. necessary",
-        "B. impossible",
-        "C. possible",
-        "D. important"
-      ],
-      "correct_answer": "B",
-      "explanation": "考查上下文语境中的词义辨析。前句提到'任务太难'，后句应表达'不可能'完成。impossible（不可能的）符合逻辑。necessary（必要的）和important（重要的）与困难程度无关；possible（可能的）与前句too difficult矛盾。解题关键：抓住too difficult的情感线索。",
-      "label": "词汇题"
-=======
       "group": "_single_5",
       "knowledge_point": "word_form",
       "stem": "It is _____ (danger) to swim in this river alone.",
       "options": ["A. danger", "B. dangerous", "C. dangerously", "D. endangered"],
       "correct_answer": "B",
       "explanation": "It is + \u5f62\u5bb9\u8bcd + to do sth \u53e5\u578b\uff0c\u7a7a\u683c\u9700\u8981\u5f62\u5bb9\u8bcd\u3002danger \u662f\u540d\u8bcd\uff0cdangerous \u662f\u5f62\u5bb9\u8bcd'\u5371\u9669\u7684'\uff0cdangerously \u662f\u526f\u8bcd\uff0cendangered \u662f'\u6fd2\u5371\u7684'\u3002"
->>>>>>> Stashed changes
     },
     {
       "id": 7,
       "type": "vocabulary",
-<<<<<<< Updated upstream
-      "knowledge_point": "prefix_suffix",
-      "difficulty": 2,
-      "stem": "It is _____ to throw rubbish everywhere. We should keep our city clean.",
-      "options": [
-        "A. helpless",
-        "B. careless",
-        "C. homeless",
-        "D. hopeless"
-      ],
-      "correct_answer": "B",
-      "explanation": "考查形容词词义及后缀-less含义。careless（粗心的、不注意的），由care加-less（无、没有）构成，符合'乱扔垃圾'的语境。helpless（无助的）；homeless（无家可归的）；hopeless（无望的）。解题技巧：-less后缀表'无...的'，结合语境'扔垃圾'是'不小心、不注意'的行为。",
-      "label": "词汇题"
-=======
       "group": "_single_6",
       "knowledge_point": "phrase_collocation",
       "stem": "We should never _____ hope, no matter how difficult things are.",
       "options": ["A. give up", "B. give in", "C. give out", "D. give away"],
       "correct_answer": "A",
       "explanation": "give up \u653e\u5f03\uff1bgive in \u5c48\u670d/\u8ba9\u6b65\uff1bgive out \u5206\u53d1/\u7528\u5b8c\uff1bgive away \u8d60\u9001/\u6cc4\u9732\u3002\u53e5\u610f'\u65e0\u8bba\u591a\u96be\u90fd\u4e0d\u5e94\u653e\u5f03\u5e0c\u671b'\uff0c\u7528 give up hope\u3002"
->>>>>>> Stashed changes
     },
     {
       "id": 8,
       "type": "cloze",
-<<<<<<< Updated upstream
-      "knowledge_point": "cloze_general",
-      "difficulty": 2,
-      "group": "cloze_1",
-      "group_passage": "Last month, our school started an interesting project called \"Green Classroom\". The goal was to help students learn about environmental protection through hands-on activities. Our class decided to create a small garden on the balcony outside our classroom.\n\nFirst, we collected old boxes and bottles to use as plant containers. Then we bought some soil and seeds with the money we raised from a二手 (second-hand) book sale. Everyone in the class took part in the work. Some students prepared the containers, (8)_____ others watered the seeds carefully.\n\nAt first, we were worried that the plants might not grow well because we had little experience. However, under the guidance of our science teacher, the seeds began to sprout after two weeks. Seeing the green leaves, we felt very excited and proud.\n\nThis project not only taught us how to grow plants but also made us understand the importance of protecting the environment. We plan to (10)_____ this activity to more classes next semester so that the whole school can enjoy the beauty of nature together.",
-      "stem": "(8)_____",
-      "options": [
-        "A. while",
-        "B. although",
-        "C. unless",
-        "D. because"
-      ],
-      "correct_answer": "A",
-      "explanation": "考查连词及逻辑关系。前文some students...（一些学生...），后文others...（另一些...），表示两个动作同时进行，形成对比关系，while（而、与此同时）符合语境。although（尽管）表让步；unless（除非）表条件；because（因为）表原因。解题技巧：some...while others...是固定句型，表示'一些...而另一些...'。",
-      "label": "完形填空"
-=======
       "group": "cloze_1",
       "group_passage": "Last month, our school organised a special event called 'Walk in Their Shoes'. The idea was simple: every student would (8)_____ their daily routine with a classmate for one whole day.\n\nI was paired with Tom, a quiet boy who I had never really (9)_____ to before. At first, I felt quite (10)_____ because I had to follow his schedule, which included getting up at 5:30 a.m. for a long bus ride to school.\n\nHowever, during that early morning bus ride, Tom told me about his life. His family lived far from school, but he never (11)_____. He just read books on the bus every day. By the end of the day, I had learned something important -- everyone has their own challenges, and we should never judge others (12)_____ we truly understand their situation.",
       "knowledge_point": "cloze_general",
@@ -208,135 +84,50 @@
       "options": ["A. change", "B. share", "C. exchange", "D. compare"],
       "correct_answer": "C",
       "explanation": "exchange...with \u610f\u4e3a'\u4e0e...\u4ea4\u6362'\u3002\u6587\u610f\u662f\u6bcf\u4e2a\u5b66\u751f\u4e0e\u540c\u5b66\u4ea4\u6362\u65e5\u5e38\u4f5c\u606f\uff0cexchange their daily routine with a classmate \u6700\u5408\u9002\u3002share \u662f\u5206\u4eab\uff0c\u4e0d\u6d89\u53ca\u4e92\u6362\u3002"
->>>>>>> Stashed changes
     },
     {
       "id": 9,
       "type": "cloze",
-<<<<<<< Updated upstream
-      "knowledge_point": "cloze_general",
-      "difficulty": 2,
-      "group": "cloze_1",
-      "group_passage": "Last month, our school started an interesting project called \"Green Classroom\". The goal was to help students learn about environmental protection through hands-on activities. Our class decided to create a small garden on the balcony outside our classroom.\n\nFirst, we collected old boxes and bottles to use as plant containers. Then we bought some soil and seeds with the money we raised from a二手 (second-hand) book sale. Everyone in the class took part in the work. Some students prepared the containers, (8)_____ others watered the seeds carefully.\n\nAt first, we were worried that the plants might not grow well because we had little experience. However, under the guidance of our science teacher, the seeds began to sprout after two weeks. Seeing the green leaves, we felt very (9)_____ and proud.\n\nThis project not only taught us how to grow plants but also made us understand the importance of protecting the environment. We plan to (10)_____ this activity to more classes next semester so that the whole school can enjoy the beauty of nature together.",
-      "stem": "(9)_____",
-      "options": [
-        "A. nervous",
-        "B. bored",
-        "C. excited",
-        "D. surprised"
-      ],
-      "correct_answer": "C",
-      "explanation": "考查形容词辨析及情感线索。前文提到种子发芽了（began to sprout），后文有proud（自豪的），and连接并列情感，excited（兴奋的）符合看到植物生长时的积极情绪。nervous（紧张的）和bored（无聊的）为负面情绪；surprised（惊讶的）虽可，但excited与proud更能体现成功的喜悦和成就感，且与上下文情感一致。",
-      "label": "完形填空"
-=======
       "group": "cloze_1",
       "knowledge_point": "cloze_general",
       "stem": "(9)",
       "options": ["A. listened", "B. talked", "C. spoken", "D. said"],
       "correct_answer": "C",
       "explanation": "speak to sb \u610f\u4e3a'\u548c\u67d0\u4eba\u8bf4\u8bdd'\u3002had never spoken to \u8868\u793a'\u4ece\u672a\u548c...\u8bf4\u8fc7\u8bdd'\u3002listened to \u662f\u542c\uff1btalked \u540e\u9762\u5df2\u6709 to\uff0c\u4f46\u9009\u9879\u4e2d talked \u4e0d\u5e26 to\uff0c\u9700\u8981 talked with/to\uff1bsaid \u540e\u4e0d\u63a5 to sb\u3002"
->>>>>>> Stashed changes
     },
     {
       "id": 10,
       "type": "cloze",
-<<<<<<< Updated upstream
-      "knowledge_point": "cloze_general",
-      "difficulty": 1,
-      "group": "cloze_1",
-      "group_passage": "Last month, our school started an interesting project called \"Green Classroom\". The goal was to help students learn about environmental protection through hands-on activities. Our class decided to create a small garden on the balcony outside our classroom.\n\nFirst, we collected old boxes and bottles to use as plant containers. Then we bought some soil and seeds with the money we raised from a二手 (second-hand) book sale. Everyone in the class took part in the work. Some students prepared the containers, (8)_____ others watered the seeds carefully.\n\nAt first, we were worried that the plants might not grow well because we had little experience. However, under the guidance of our science teacher, the seeds began to sprout after two weeks. Seeing the green leaves, we felt very (9)_____ and proud.\n\nThis project not only taught us how to grow plants but also made us understand the importance of protecting the environment. We plan to (10)_____ this activity to more classes next semester so that the whole school can enjoy the beauty of nature together.",
-      "stem": "(10)_____",
-      "options": [
-        "A. spread",
-        "B. throw",
-        "C. lend",
-        "D. return"
-      ],
-      "correct_answer": "A",
-      "explanation": "考查动词辨析。后文提到'到更多班级'（to more classes），表示推广、传播这项活动，spread（传播、推广）符合语境。throw（扔）；lend（借出）；return（归还）。解题关键：根据to more classes推断动作是'推广'，spread...to...表示将...推广到...。",
-      "label": "完形填空"
-=======
       "group": "cloze_1",
       "knowledge_point": "cloze_general",
       "stem": "(10)",
       "options": ["A. nervous", "B. excited", "C. bored", "D. proud"],
       "correct_answer": "A",
       "explanation": "\u6839\u636e\u540e\u6587'\u56e0\u4e3a\u5fc5\u987b\u9075\u5faa\u4ed6\u7684\u4f5c\u606f\uff0c\u5305\u62ec5:30\u8d77\u5e8a\u5750\u957f\u9014\u5df4\u58eb'\uff0c\u9762\u5bf9\u964c\u751f\u4f53\u9a8c\u4f1a\u611f\u5230\u7d27\u5f20\u4e0d\u5b89(nervous)\u3002excited\uff08\u5174\u594b\uff09\u4e0d\u7b26\u5408'had to'\u7684\u88ab\u8feb\u611f\uff1bbored\uff08\u65e0\u804a\uff09\u4e0e getting up at 5:30\u4e0d\u5339\u914d\u3002"
->>>>>>> Stashed changes
     },
     {
       "id": 11,
       "type": "cloze",
-<<<<<<< Updated upstream
-      "knowledge_point": "cloze_general",
-      "difficulty": 2,
-      "group": "cloze_1",
-      "group_passage": "Last month, our school started an interesting project called \"Green Classroom\". The goal was to help students learn about environmental protection through hands-on activities. Our class decided to create a small garden on the balcony outside our classroom.\n\nFirst, we collected old boxes and bottles to use as plant containers. Then we bought some soil and seeds with the money we (11)_____ from a二手 (second-hand) book sale. Everyone in the class took part in the work. Some students prepared the containers, while others watered the seeds carefully.\n\nAt first, we were worried that the plants might not grow well because we had little experience. However, under the guidance of our science teacher, the seeds began to sprout after two weeks. Seeing the green leaves, we felt very excited and proud.\n\nThis project not only taught us how to grow plants but also made us understand the importance of protecting the environment. We plan to spread this activity to more classes next semester so that the whole school can enjoy the beauty of nature together.",
-      "stem": "(11)_____",
-      "options": [
-        "A. borrowed",
-        "B. raised",
-        "C. stole",
-        "D. wasted"
-      ],
-      "correct_answer": "B",
-      "explanation": "考查动词搭配。raise money为固定搭配，意为'筹集资金'。borrowed（借入）；stole（偷窃）；wasted（浪费）。根据语境，通过二手书售卖'筹集'资金买种子，raised符合逻辑。注意raise还可表示'抚养、举起、筹集'等含义。",
-      "label": "完形填空"
-=======
       "group": "cloze_1",
       "knowledge_point": "cloze_general",
       "stem": "(11)",
       "options": ["A. gave up", "B. complained", "C. escaped", "D. rested"],
       "correct_answer": "B",
       "explanation": "\u4e0a\u6587\u8bf4Tom\u5bb6\u4f4f\u5f97\u8fdc\u3001\u6bcf\u5929\u5750\u957f\u9014\u5df4\u58eb\uff0c\u4f46\u4ed6 never _____\uff0c\u540e\u6587\u8bf4\u4ed6\u5728\u8f66\u4e0a\u770b\u4e66\u3002\u8bed\u5883\u4f53\u73b0Tom\u9762\u5bf9\u56f0\u96be\u4e0d\u62b1\u6028(complained)\uff0c\u79ef\u6781\u5229\u7528\u65f6\u95f4\u3002gave up \u653e\u5f03\uff08\u540e\u9762\u7f3a\u5bbe\u8bed\uff09\uff1bescaped \u9003\u8dd1\uff1brested \u4f11\u606f\u2014\u2014\u90fd\u4e0d\u5408\u8bed\u5883\u3002"
->>>>>>> Stashed changes
     },
     {
       "id": 12,
       "type": "cloze",
-<<<<<<< Updated upstream
-      "knowledge_point": "cloze_general",
-      "difficulty": 1,
-      "group": "cloze_1",
-      "group_passage": "Last month, our school started an interesting project called \"Green Classroom\". The goal was to help students learn about environmental protection through hands-on activities. Our class decided to create a small garden on the balcony outside our classroom.\n\nFirst, we collected old boxes and bottles to use as plant containers. Then we bought some soil and seeds with the money we raised from a二手 (second-hand) book sale. (12)_____ in the class took part in the work. Some students prepared the containers, while others watered the seeds carefully.\n\nAt first, we were worried that the plants might not grow well because we had little experience. However, under the guidance of our science teacher, the seeds began to sprout after two weeks. Seeing the green leaves, we felt very excited and proud.\n\nThis project not only taught us how to grow plants but also made us understand the importance of protecting the environment. We plan to spread this activity to more classes next semester so that the whole school can enjoy the beauty of nature together.",
-      "stem": "(12)_____",
-      "options": [
-        "A. Someone",
-        "B. Anyone",
-        "C. No one",
-        "D. Everyone"
-      ],
-      "correct_answer": "D",
-      "explanation": "考查不定代词及上下文理解。后文提到Some students...others...（一些...另一些...），表示全体参与，Everyone（每个人）符合语境。Someone（某人）范围太小；Anyone（任何人）常用于疑问或否定；No one（没人）与文意相反。解题关键：从后文分组工作可推断是全班每个人都参与了。",
-      "label": "完形填空"
-=======
       "group": "cloze_1",
       "knowledge_point": "cloze_general",
       "stem": "(12)",
       "options": ["A. although", "B. because", "C. until", "D. if"],
       "correct_answer": "C",
       "explanation": "\u53e5\u610f\uff1a'\u6211\u4eec\u4e0d\u5e94\u8be5\u8bc4\u5224\u4ed6\u4eba\uff0c\u76f4\u5230(until)\u6211\u4eec\u771f\u6b63\u4e86\u89e3\u4ed6\u4eec\u7684\u5904\u5883'\u3002not...until \u610f\u4e3a'\u76f4\u5230...\u624d'\uff0c\u662f\u56fa\u5b9a\u53e5\u578b\u3002although\uff08\u867d\u7136\uff09\u3001because\uff08\u56e0\u4e3a\uff09\u3001if\uff08\u5982\u679c\uff09\u90fd\u4e0d\u5408\u903b\u8f91\u3002"
->>>>>>> Stashed changes
     },
     {
       "id": 13,
       "type": "reading",
-<<<<<<< Updated upstream
-      "knowledge_point": "detail",
-      "difficulty": 2,
-      "group": "reading_1",
-      "group_passage": "Vertical farming is a new way of growing food. Unlike traditional farming on flat fields, vertical farming grows crops in stacked layers (堆叠层) indoors. This method uses special lights instead of sunlight and can be done in cities, close to where people live.\n\nOne major advantage of vertical farming is water saving. Traditional farming usually needs a lot of water for irrigation (灌溉). In contrast, vertical farms use up to 90% less water because they recycle water through the system. This is especially important in dry areas where water is scarce.\n\nHowever, vertical farming also has challenges. Setting up these farms costs a lot of money. The special lights and temperature control systems use electricity, which can be expensive. Also, not all crops can be grown this way. Large plants like apple trees are not suitable for vertical layers.\n\nDespite these problems, many experts believe vertical farming will become more common in the future. As technology improves and costs go down, we may see more fresh vegetables grown in city buildings rather than on distant farms.",
-      "stem": "How much less water does vertical farming use compared to traditional farming?",
-      "options": [
-        "A. About 10%",
-        "B. About 50%",
-        "C. About 90%",
-        "D. About 100%"
-      ],
-      "correct_answer": "C",
-      "explanation": "细节理解题。根据第二段第二句'In contrast, vertical farms use up to 90% less water because they recycle water through the system.'（相比之下，垂直农场用水量减少高达90%...），明确提到90% less water。A、B、D选项数字与原文不符。解题技巧：细节题要精准定位关键词water，在原文中找到具体数字。",
-      "label": "阅读-细节理解"
-=======
       "group": "reading_1",
       "group_passage": "Have you ever heard of 'dark sky parks'? These are special places where people can enjoy a clear night sky without light pollution. In our modern cities, streetlights, shop signs, and building lights make it almost impossible to see the stars.\n\nThe International Dark-Sky Association (IDA) has been working to protect the night sky since 1988. They give the title of 'International Dark Sky Park' to places that have excellent conditions for stargazing and take steps to control artificial light.\n\nThere are now over 200 dark sky parks around the world. One of the most famous is the Aoraki Mackenzie Dark Sky Reserve in New Zealand, where visitors can see the Milky Way so clearly that it looks like a river of light flowing across the sky.\n\nScientists say that light pollution is not just a problem for stargazers. It also affects wildlife. Many birds, insects, and sea turtles use natural light from the moon and stars to navigate. When artificial light confuses them, they can lose their way or even die.\n\nSome cities are beginning to take action. For example, Flagstaff in Arizona, USA, became the world's first International Dark Sky City in 2001. The city uses special streetlights that point downward instead of spreading light in all directions. This simple change helps both people and animals.",
       "knowledge_point": "detail",
@@ -344,106 +135,40 @@
       "options": ["A. have no streetlights at all", "B. are located far from any city", "C. have good stargazing conditions and control artificial light", "D. allow visitors to stay overnight for free"],
       "correct_answer": "C",
       "explanation": "\u539f\u6587\u7b2c\u4e8c\u6bb5\uff1a'They give the title...to places that have excellent conditions for stargazing and take steps to control artificial light'\u3002C \u662f\u5bf9\u539f\u6587\u7684\u540c\u4e49\u6539\u5199\u3002A\uff08\u5b8c\u5168\u6ca1\u6709\u8def\u706f\uff09\u3001B\uff08\u8fdc\u79bb\u57ce\u5e02\uff09\u3001D\uff08\u514d\u8d39\u8fc7\u591c\uff09\u5747\u65e0\u539f\u6587\u4f9d\u636e\u3002"
->>>>>>> Stashed changes
     },
     {
       "id": 14,
       "type": "reading",
-      "knowledge_point": "inference",
-      "difficulty": 3,
       "group": "reading_1",
-<<<<<<< Updated upstream
-      "group_passage": "Vertical farming is a new way of growing food. Unlike traditional farming on flat fields, vertical farming grows crops in stacked layers (堆叠层) indoors. This method uses special lights instead of sunlight and can be done in cities, close to where people live.\n\nOne major advantage of vertical farming is water saving. Traditional farming usually needs a lot of water for irrigation (灌溉). In contrast, vertical farms use up to 90% less water because they recycle water through the system. This is especially important in dry areas where water is scarce.\n\nHowever, vertical farming also has challenges. Setting up these farms costs a lot of money. The special lights and temperature control systems use electricity, which can be expensive. Also, not all crops can be grown this way. Large plants like apple trees are not suitable for vertical layers.\n\nDespite these problems, many experts believe vertical farming will become more common in the future. As technology improves and costs go down, we may see more fresh vegetables grown in city buildings rather than on distant farms.",
-      "stem": "What can we infer from the passage about the future of vertical farming?",
-      "options": [
-        "A. It will completely replace traditional farming soon.",
-        "B. It will only be used in dry areas.",
-        "C. It may become more popular as technology develops.",
-        "D. It is too expensive to be used in cities."
-      ],
-      "correct_answer": "C",
-      "explanation": "推理判断题。根据最后一段'As technology improves and costs go down, we may see more fresh vegetables grown in city buildings...'（随着技术进步和成本下降，我们可能会看到更多新鲜蔬菜在城市建筑中种植...），可推断出随着技术发展，垂直农业可能会更普及（become more popular）。A选项'完全取代'过于绝对；B选项'仅用于干旱地区'与原文不符；D选项'太贵无法在城市使用'与原文'can be done in cities'矛盾。",
-      "label": "阅读-推理判断"
-=======
       "knowledge_point": "inference",
       "stem": "From the passage, we can infer that _____.",
       "options": ["A. all cities will become dark sky cities in the future", "B. light pollution has a wider impact than most people realize", "C. sea turtles are the most affected animals", "D. dark sky parks are only found in New Zealand"],
       "correct_answer": "B",
       "explanation": "\u6587\u7ae0\u6307\u51fa\u5149\u6c61\u67d3\u4e0d\u4ec5\u5f71\u54cd\u89c2\u661f\u8005(not just a problem for stargazers)\uff0c\u8fd8\u5f71\u54cd\u9e1f\u7c7b\u3001\u6606\u866b\u3001\u6d77\u9f9f\u7b49\u91ce\u751f\u52a8\u7269\uff0c\u7531\u6b64\u53ef\u63a8\u65ad\u5149\u6c61\u67d3\u7684\u5f71\u54cd\u6bd4\u5927\u591a\u6570\u4eba\u610f\u8bc6\u5230\u7684\u66f4\u5e7f\u6cdb\u3002A \u8fc7\u4e8e\u7edd\u5bf9\uff1bC \u6587\u4e2d\u672a\u6bd4\u8f83\u8c01\u6700\u53d7\u5f71\u54cd\uff1bD \u660e\u663e\u4e0e\u4e8b\u5b9e\u4e0d\u7b26\uff08\u6587\u4e2d\u8bf4\u5168\u7403200\u591a\u5904\uff09\u3002"
->>>>>>> Stashed changes
     },
     {
       "id": 15,
       "type": "reading",
-      "knowledge_point": "word_guessing",
-      "difficulty": 2,
       "group": "reading_1",
-<<<<<<< Updated upstream
-      "group_passage": "Vertical farming is a new way of growing food. Unlike traditional farming on flat fields, vertical farming grows crops in stacked layers (堆叠层) indoors. This method uses special lights instead of sunlight and can be done in cities, close to where people live.\n\nOne major advantage of vertical farming is water saving. Traditional farming usually needs a lot of water for irrigation (灌溉). In contrast, vertical farms use up to 90% less water because they recycle water through the system. This is especially important in dry areas where water is scarce.\n\nHowever, vertical farming also has challenges. Setting up these farms costs a lot of money. The special lights and temperature control systems use electricity, which can be expensive. Also, not all crops can be grown this way. Large plants like apple trees are not suitable for vertical layers.\n\nDespite these problems, many experts believe vertical farming will become more common in the future. As technology improves and costs go down, we may see more fresh vegetables grown in city buildings rather than on distant farms.",
-      "stem": "The underlined word 'scarce' in Paragraph 2 probably means _____.",
-      "options": [
-        "A. expensive",
-        "B. dirty",
-        "C. not enough",
-        "D. clean"
-      ],
-      "correct_answer": "C",
-      "explanation": "词义猜测题。根据上下文'dry areas where water is scarce'（干旱地区水资源scarce），干旱地区的水应该是'不足的、稀缺的'。scarce意为'缺乏的、不足的'。A（昂贵的）、B（脏的）、D（干净的）均不符合干旱地区水资源的特征。解题技巧：根据dry areas（干旱地区）的语境线索，推断水资源是'不足的'。",
-      "label": "阅读-词义猜测"
-=======
       "knowledge_point": "word_guessing",
       "stem": "The word 'navigate' in Paragraph 4 most probably means _____.",
       "options": ["A. find food", "B. find their way", "C. build nests", "D. communicate"],
       "correct_answer": "B",
       "explanation": "\u4e0a\u4e0b\u6587\uff1a\u52a8\u7269\u5229\u7528\u6708\u5149\u548c\u661f\u5149\u6765 navigate\uff0c\u5f53\u4eba\u9020\u5149\u8ba9\u5b83\u4eec\u56f0\u60d1\u65f6\uff0cthey can lose their way\uff08\u8ff7\u8def\uff09\u3002\u7531 lose their way \u53ef\u53cd\u63a8 navigate \u610f\u4e3a'\u627e\u5230\u65b9\u5411/\u8fa8\u8def'\u3002"
->>>>>>> Stashed changes
     },
     {
       "id": 16,
       "type": "reading",
-      "knowledge_point": "main_idea",
-      "difficulty": 3,
       "group": "reading_1",
-<<<<<<< Updated upstream
-      "group_passage": "Vertical farming is a new way of growing food. Unlike traditional farming on flat fields, vertical farming grows crops in stacked layers (堆叠层) indoors. This method uses special lights instead of sunlight and can be done in cities, close to where people live.\n\nOne major advantage of vertical farming is water saving. Traditional farming usually needs a lot of water for irrigation (灌溉). In contrast, vertical farms use up to 90% less water because they recycle water through the system. This is especially important in dry areas where water is scarce.\n\nHowever, vertical farming also has challenges. Setting up these farms costs a lot of money. The special lights and temperature control systems use electricity, which can be expensive. Also, not all crops can be grown this way. Large plants like apple trees are not suitable for vertical layers.\n\nDespite these problems, many experts believe vertical farming will become more common in the future. As technology improves and costs go down, we may see more fresh vegetables grown in city buildings rather than on distant farms.",
-      "stem": "What is the writer's main purpose in writing this passage?",
-      "options": [
-        "A. To introduce vertical farming and discuss its advantages and challenges.",
-        "B. To prove that vertical farming is better than traditional farming.",
-        "C. To encourage readers to start their own vertical farms.",
-        "D. To explain why traditional farming will disappear soon."
-      ],
-      "correct_answer": "A",
-      "explanation": "主旨大意题。文章第一段介绍什么是垂直农业，第二段讲优点（节水），第三段讲挑战（成本高、不适合所有作物），第四段讲未来前景。整体是客观介绍垂直农业的优缺点。B选项'证明更好'过于主观，文章也提到了缺点；C选项'鼓励读者开始'不是主要目的；D选项'解释传统农业将消失'与原文不符。解题技巧：关注首尾段及各段主题句，总结是'介绍+优缺点分析'。",
-      "label": "阅读-主旨大意"
-=======
       "knowledge_point": "main_idea",
       "stem": "What is the best title for this passage?",
       "options": ["A. How to Build a Dark Sky Park", "B. Why We Need Dark Skies", "C. The History of the IDA", "D. Animals and the Moon"],
       "correct_answer": "B",
       "explanation": "\u6587\u7ae0\u56f4\u7ed5\u6697\u591c\u516c\u56ed\u7684\u6982\u5ff5\u3001\u5149\u6c61\u67d3\u5bf9\u4eba\u548c\u52a8\u7269\u7684\u5371\u5bb3\u4ee5\u53ca\u57ce\u5e02\u91c7\u53d6\u7684\u63aa\u65bd\u5c55\u5f00\uff0c\u6838\u5fc3\u8bba\u70b9\u662f'\u4e3a\u4ec0\u4e48\u6211\u4eec\u9700\u8981\u9ed1\u6697\u7684\u5929\u7a7a'\u3002A \u53ea\u6d89\u53ca\u5efa\u8bbe\u65b9\u6cd5\uff08\u6587\u4e2d\u672a\u8be6\u8ff0\uff09\uff1bC \u53ea\u6d89\u53ca\u4e00\u4e2a\u7ec4\u7ec7\u7684\u5386\u53f2\uff08\u975e\u91cd\u70b9\uff09\uff1bD \u53ea\u8986\u76d6\u7b2c\u56db\u6bb5\u90e8\u5206\u5185\u5bb9\u3002"
->>>>>>> Stashed changes
     },
     {
       "id": 17,
       "type": "fill",
-<<<<<<< Updated upstream
-      "knowledge_point": "sentence_fill",
-      "difficulty": 2,
-      "group": "fill_1",
-      "group_passage": "Many middle school students have hobbies like playing basketball, painting, or playing musical instruments. These activities make our lives colorful and interesting. (17)_____ They often find it hard to finish homework on time or prepare for exams.\n\nSo, how can we balance study and hobbies? (18)_____ Write down what you need to do each day and how long it takes. This helps you see where your time goes.\n\n(19)_____ For example, you can listen to English songs while walking to school, or review notes during breaks between classes. Small pieces of time add up.\n\nRemember, hobbies are not enemies of study. (20)_____ When you learn to manage your time well, you can enjoy both good grades and happy moments with your hobbies.",
-      "stem": "(17)_____",
-      "options": [
-        "A. However, many students find it difficult to manage their time.",
-        "B. First, you should make a study plan.",
-        "C. In addition, try to use your free time wisely.",
-        "D. On the other hand, they help us relax and learn better.",
-        "E. As a result, most students give up their hobbies completely."
-      ],
-      "correct_answer": "A",
-      "explanation": "考查段落衔接及转折关系。前文讲爱好的好处（colorful and interesting），后文讲'难以按时完成作业'，前后为转折关系，However（然而）符合逻辑。且后句主语They指代选项中的many students。B是建议，适合用于解决问题段落；C是递进；D是另一方面；E是结果，与后文难以管理时间而非完全放弃不符。",
-      "label": "短文填空"
-=======
       "group": "fill_1",
       "group_passage": "Last weekend, our class went to Green Hills Farm for a special outdoor lesson.\n\nWhen we arrived, the farmer Mr. Chen welcomed us warmly. (17)_____ He showed us how seeds grow into plants and how important sunlight and water are.\n\nAfter that, we went to the vegetable garden. (18)_____ Some of us picked tomatoes, and others dug up potatoes. It was hard work, but everyone was smiling.\n\n(19)_____ We used the vegetables we had just picked to make a simple lunch together. The food tasted much better than what we usually eat at school.\n\nBefore we left, Mr. Chen gave each of us a small plant to take home. (20)_____ I put mine on the balcony and water it every day. I hope it will grow big and strong.",
       "knowledge_point": "sentence_fill",
@@ -451,91 +176,36 @@
       "options": ["A. He told us to take good care of it.", "B. First, he took us to the greenhouse.", "C. We were allowed to pick vegetables by ourselves.", "D. Then it was time for lunch.", "E. Everyone was excited to plant flowers."],
       "correct_answer": "B",
       "explanation": "\u7b2c\u4e8c\u6bb5\u8bb2\u5230\u8fbe\u540e Mr. Chen \u6b22\u8fce\u5927\u5bb6\uff0c\u63a5\u7740\u5c55\u793a\u79cd\u5b50\u5982\u4f55\u751f\u957f\u3001\u9633\u5149\u548c\u6c34\u7684\u91cd\u8981\u6027\u2014\u2014\u8fd9\u4e9b\u6d3b\u52a8\u53d1\u751f\u5728\u6e29\u5ba4(greenhouse)\u91cc\u3002B'\u9996\u5148\u5e26\u6211\u4eec\u53bb\u6e29\u5ba4'\u627f\u4e0a\u542f\u4e0b\u6700\u5408\u9002\u3002"
->>>>>>> Stashed changes
     },
     {
       "id": 18,
       "type": "fill",
-<<<<<<< Updated upstream
-      "knowledge_point": "sentence_fill",
-      "difficulty": 2,
-      "group": "fill_1",
-      "group_passage": "Many middle school students have hobbies like playing basketball, painting, or playing musical instruments. These activities make our lives colorful and interesting. However, many students find it difficult to manage their time. They often find it hard to finish homework on time or prepare for exams.\n\nSo, how can we balance study and hobbies? (18)_____ Write down what you need to do each day and how long it takes. This helps you see where your time goes.\n\n(19)_____ For example, you can listen to English songs while walking to school, or review notes during breaks between classes. Small pieces of time add up.\n\nRemember, hobbies are not enemies of study. (20)_____ When you learn to manage your time well, you can enjoy both good grades and happy moments with your hobbies.",
-      "stem": "(18)_____",
-      "options": [
-        "A. However, many students find it difficult to manage their time.",
-        "B. First, you should make a study plan.",
-        "C. In addition, try to use your free time wisely.",
-        "D. On the other hand, they help us relax and learn better.",
-        "E. As a result, most students give up their hobbies completely."
-      ],
-      "correct_answer": "B",
-      "explanation": "考查顺序连接词。前文提出'如何平衡学习与爱好'的问题，后文'写下每天需要做什么'是具体建议，First（首先）用于列举第一条建议，符合逻辑。且后文This helps...指代制定计划的好处。A是转折，已用过；C是此外，用于第二条建议；D是对比；E是结果。",
-      "label": "短文填空"
-=======
       "group": "fill_1",
       "knowledge_point": "sentence_fill",
       "stem": "(18)",
       "options": ["A. He told us to take good care of it.", "B. First, he took us to the greenhouse.", "C. We were allowed to pick vegetables by ourselves.", "D. Then it was time for lunch.", "E. Everyone was excited to plant flowers."],
       "correct_answer": "C",
       "explanation": "\u7b2c\u4e09\u6bb5\u8bf4\u53bb\u4e86\u83dc\u56ed\uff0c\u540e\u6587'Some of us picked tomatoes, others dug up potatoes'\uff0c\u8bf4\u660e\u5b66\u751f\u81ea\u5df1\u52a8\u624b\u6458\u83dc\u3002C'\u6211\u4eec\u88ab\u5141\u8bb8\u81ea\u5df1\u6458\u84ac\u83dc'\u5b8c\u7f8e\u884c\u63a5\u3002"
->>>>>>> Stashed changes
     },
     {
       "id": 19,
       "type": "fill",
-<<<<<<< Updated upstream
-      "knowledge_point": "sentence_fill",
-      "difficulty": 2,
-      "group": "fill_1",
-      "group_passage": "Many middle school students have hobbies like playing basketball, painting, or playing musical instruments. These activities make our lives colorful and interesting. However, many students find it difficult to manage their time. They often find it hard to finish homework on time or prepare for exams.\n\nSo, how can we balance study and hobbies? First, you should make a study plan. Write down what you need to do each day and how long it takes. This helps you see where your time goes.\n\n(19)_____ For example, you can listen to English songs while walking to school, or review notes during breaks between classes. Small pieces of time add up.\n\nRemember, hobbies are not enemies of study. (20)_____ When you learn to manage your time well, you can enjoy both good grades and happy moments with your hobbies.",
-      "stem": "(19)_____",
-      "options": [
-        "A. However, many students find it difficult to manage their time.",
-        "B. First, you should make a study plan.",
-        "C. In addition, try to use your free time wisely.",
-        "D. On the other hand, they help us relax and learn better.",
-        "E. As a result, most students give up their hobbies completely."
-      ],
-      "correct_answer": "C",
-      "explanation": "考查递进关系。前文有First（首先），此处应为第二条建议，In addition（此外、另外）用于补充建议。后文举例'走路时听英语歌、课间复习'都是关于如何利用碎片时间（free time wisely）的具体做法。A、B已用；D表对比；E表结果。",
-      "label": "短文填空"
-=======
       "group": "fill_1",
       "knowledge_point": "sentence_fill",
       "stem": "(19)",
       "options": ["A. He told us to take good care of it.", "B. First, he took us to the greenhouse.", "C. We were allowed to pick vegetables by ourselves.", "D. Then it was time for lunch.", "E. Everyone was excited to plant flowers."],
       "correct_answer": "D",
       "explanation": "\u7b2c\u56db\u6bb5\u8bb2\u7528\u521a\u6458\u7684\u84ac\u83dc\u4e00\u8d77\u505a\u5348\u9910\uff0cD'\u7136\u540e\u5230\u4e86\u5348\u9910\u65f6\u95f4'\u662f\u6700\u4f73\u8fc7\u6e21\u53e5\u3002"
->>>>>>> Stashed changes
     },
     {
       "id": 20,
       "type": "fill",
-<<<<<<< Updated upstream
-      "knowledge_point": "sentence_fill",
-      "difficulty": 2,
-      "group": "fill_1",
-      "group_passage": "Many middle school students have hobbies like playing basketball, painting, or playing musical instruments. These activities make our lives colorful and interesting. However, many students find it difficult to manage their time. They often find it hard to finish homework on time or prepare for exams.\n\nSo, how can we balance study and hobbies? First, you should make a study plan. Write down what you need to do each day and how long it takes. This helps you see where your time goes.\n\nIn addition, try to use your free time wisely. For example, you can listen to English songs while walking to school, or review notes during breaks between classes. Small pieces of time add up.\n\nRemember, hobbies are not enemies of study. (20)_____ When you learn to manage your time well, you can enjoy both good grades and happy moments with your hobbies.",
-      "stem": "(20)_____",
-      "options": [
-        "A. However, many students find it difficult to manage their time.",
-        "B. First, you should make a study plan.",
-        "C. In addition, try to use your free time wisely.",
-        "D. On the other hand, they help us relax and learn better.",
-        "E. As a result, most students give up their hobbies completely."
-      ],
-      "correct_answer": "D",
-      "explanation": "考查对比/补充说明。前文说'hobbies are not enemies'（爱好不是敌人），后文应解释爱好的好处，On the other hand（另一方面）用于引出事物的另一面，即爱好帮助放松和学习。However表转折；First和In addition已用于前文建议部分；As a result表结果。此处是对'hobbies are not enemies'的补充说明，D最恰当。",
-      "label": "短文填空"
-=======
       "group": "fill_1",
       "knowledge_point": "sentence_fill",
       "stem": "(20)",
       "options": ["A. He told us to take good care of it.", "B. First, he took us to the greenhouse.", "C. We were allowed to pick vegetables by ourselves.", "D. Then it was time for lunch.", "E. Everyone was excited to plant flowers."],
       "correct_answer": "A",
       "explanation": "\u6700\u540e\u4e00\u6bb5\u8bf4 Mr. Chen \u7ed9\u6bcf\u4eba\u4e00\u68f5\u5c0f\u690d\u7269\u5e26\u56de\u5bb6\uff0c\u540e\u6587'I put mine on the balcony and water it every day'\u8bf4\u660e\u5728\u7167\u987e\u5b83\u3002A'\u4ed6\u544a\u8bc9\u6211\u4eec\u597d\u597d\u7167\u987e\u5b83'\u627f\u63a5\u9001\u690d\u7269\u548c\u7167\u987e\u884c\u4e3a\u3002\u5e72\u6270\u9879E'\u5927\u5bb6\u5174\u594b\u5730\u79cd\u82b1'\u4e0e\u4e0a\u4e0b\u6587\u4e0d\u7b26\u3002"
->>>>>>> Stashed changes
     }
   ]
 }
