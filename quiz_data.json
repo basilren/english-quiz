@@ -1,211 +1,356 @@
 ﻿{
-  "date": "2026-05-07",
-  "day": 41,
+  "date": "2026-05-08",
   "session_number": 1,
-  "difficulty": "grammar2_cloze3_reading2_fill2",
   "questions": [
     {
       "id": 1,
       "type": "grammar",
-      "group": "_single_0",
-      "knowledge_point": "present_perfect",
-      "stem": "-- Have you ever _____ to Beijing?\n-- Yes, I went there last summer.",
-      "options": ["A. been", "B. gone", "C. go", "D. went"],
-      "correct_answer": "A",
-      "explanation": "have been to \u8868\u793a'\u53bb\u8fc7\u67d0\u5730\uff08\u5df2\u56de\u6765\uff09'\uff0chave gone to \u8868\u793a'\u53bb\u4e86\u67d0\u5730\uff08\u672a\u56de\u6765\uff09'\u3002\u5bf9\u8bdd\u4e2d\u56de\u7b54'Yes, I went there'\u8bf4\u660e\u4eba\u5df2\u56de\u6765\uff0c\u6240\u4ee5\u7528 been\u3002"
+      "knowledge_point": "passive_voice",
+      "difficulty": 1,
+      "stem": "The book _____ by many students in our school last month.",
+      "options": [
+        "A. is read",
+        "B. was read",
+        "C. reads",
+        "D. reading"
+      ],
+      "correct_answer": "B",
+      "explanation": "本题考查一般过去时的被动语态。由时间状语last month可知用过去时，且书是'被读'，需用被动语态（be+过去分词）。A是一般现在时被动，时态不符；C是主动语态；D是非谓语形式，不能作谓语。解题技巧：被动语态基本结构be done，先确定时态再确定语态。",
+      "label": "语法题"
     },
     {
       "id": 2,
       "type": "grammar",
-      "group": "_single_1",
-      "knowledge_point": "present_perfect",
-      "stem": "Mr. Wang has _____ the school for twenty years. He loves teaching.",
-      "options": ["A. come to", "B. been in", "C. arrived at", "D. joined"],
+      "knowledge_point": "present_perfect_vs_past_simple",
+      "difficulty": 2,
+      "stem": "—Have you ever visited the Shenzhen Museum?\n—Yes, I _____ it last weekend with my classmates.",
+      "options": [
+        "A. visit",
+        "B. visited",
+        "C. have visited",
+        "D. am visiting"
+      ],
       "correct_answer": "B",
-      "explanation": "for twenty years \u8868\u793a\u4e00\u6bb5\u65f6\u95f4\uff0c\u5fc5\u987b\u7528\u5ef6\u7eed\u6027\u52a8\u8bcd\u3002come to/arrive at/join \u90fd\u662f\u975e\u5ef6\u7eed\u6027\u52a8\u8bcd\uff0c\u4e0d\u80fd\u4e0e for \u8fde\u7528\u3002come to \u2192 be in, join \u2192 be in/be a member of\u3002"
+      "explanation": "本题考查现在完成时与一般过去时的区别。问句用现在完成时询问经历，但答句中有明确的过去时间状语last weekend，必须用一般过去时。现在完成时不能与具体过去时间状语连用。A是一般现在时；C是现在完成时，与last weekend矛盾；D是现在进行时。解题口诀：有yesterday/last/ago用过去，没具体时间用完成。",
+      "label": "语法题"
     },
     {
       "id": 3,
       "type": "grammar",
-      "group": "_single_2",
-      "knowledge_point": "object_clause",
-      "stem": "Do you know _____?",
-      "options": ["A. when will he come back", "B. when he will come back", "C. when did he come back", "D. when does he come back"],
+      "knowledge_point": "relative_clause_who_which",
+      "difficulty": 2,
+      "stem": "The girl _____ is wearing a red coat is my best friend.",
+      "options": [
+        "A. which",
+        "B. who",
+        "C. whom",
+        "D. whose"
+      ],
       "correct_answer": "B",
-      "explanation": "\u5bbe\u8bed\u4ece\u53e5\u5fc5\u987b\u7528\u9648\u8ff0\u8bed\u5e8f\uff08\u4e3b\u8bed+\u8c13\u8bed\uff09\u3002A/C/D \u90fd\u662f\u7591\u95ee\u8bed\u5e8f\u3002\u6b64\u5916\u4e3b\u53e5\u662f\u4e00\u822c\u73b0\u5728\u65f6\uff0c\u4ece\u53e5\u8868\u5c06\u6765\uff0c\u7528 will\u3002"
+      "explanation": "本题考查定语从句关系词的选择。先行词the girl指人，且在从句中作主语（is wearing），故用who。which指物；whom指人但作宾语；whose表示所属关系（谁的）。解题技巧：先行词是人且作主语用who，作宾语用who/whom，先行词是物用which/that。",
+      "label": "语法题"
     },
     {
       "id": 4,
       "type": "grammar",
-      "group": "_single_3",
       "knowledge_point": "object_clause",
-      "stem": "The teacher asked me _____ I had finished my homework.",
-      "options": ["A. that", "B. what", "C. whether", "D. which"],
-      "correct_answer": "C",
-      "explanation": "\u53e5\u610f\u4e3a'\u8001\u5e08\u95ee\u6211\u662f\u5426\u5b8c\u6210\u4e86\u4f5c\u4e1a'\uff0c\u8868\u793a'\u662f\u5426'\u7528 whether/if \u5f15\u5bfc\u5bbe\u8bed\u4ece\u53e5\u3002that \u5f15\u5bfc\u9648\u8ff0\u4e8b\u5b9e\uff0cwhat/which \u5f15\u5bfc\u6709\u5177\u4f53\u5185\u5bb9\u7684\u7279\u6b8a\u7591\u95ee\u3002"
+      "difficulty": 3,
+      "stem": "Could you tell me _____ the train leaves for Beijing?",
+      "options": [
+        "A. when",
+        "B. where",
+        "C. what",
+        "D. which"
+      ],
+      "correct_answer": "A",
+      "explanation": "本题考查宾语从句连接词。根据句意'你能告诉我火车什么时候开往北京吗'，询问时间用when。where问地点；what问内容；which问选择。解题技巧：宾语从句连接词看从句缺什么成分，缺时间状语用when，缺地点用where，缺主语/宾语用what/who。注意宾语从句用陈述语序。",
+      "label": "语法题"
     },
     {
       "id": 5,
-      "type": "grammar",
-      "group": "_single_4",
-      "knowledge_point": "relative_clause",
-      "stem": "The girl _____ is standing over there is my cousin.",
-      "options": ["A. which", "B. who", "C. whom", "D. where"],
-      "correct_answer": "B",
-      "explanation": "\u5b9a\u8bed\u4ece\u53e5\u4fee\u9970\u5148\u884c\u8bcd the girl\uff08\u4eba\uff09\uff0c\u4e14\u5728\u4ece\u53e5\u4e2d\u4f5c\u4e3b\u8bed\uff0c\u7528 who\u3002which \u4fee\u9970\u7269\uff1bwhom \u4f5c\u5bbe\u8bed\uff1bwhere \u8868\u5730\u70b9\u3002"
+      "type": "vocabulary",
+      "knowledge_point": "phrasal_verbs",
+      "difficulty": 1,
+      "stem": "We should _____ good habits of reading every day.",
+      "options": [
+        "A. develop",
+        "B. grow",
+        "C. make",
+        "D. build"
+      ],
+      "correct_answer": "A",
+      "explanation": "本题考查动词固定搭配。develop habits是固定搭配，意为'养成习惯'。grow通常指种植或成长；make制造；build建造（建筑物）。解题技巧：habit常与develop/form养成、break打破、keep保持等动词搭配。",
+      "label": "词汇题"
     },
     {
       "id": 6,
       "type": "vocabulary",
-      "group": "_single_5",
-      "knowledge_point": "word_form",
-      "stem": "It is _____ (danger) to swim in this river alone.",
-      "options": ["A. danger", "B. dangerous", "C. dangerously", "D. endangered"],
+      "knowledge_point": "prefix_suffix",
+      "difficulty": 2,
+      "stem": "The news is _____ . I don't believe it at all.",
+      "options": [
+        "A. believable",
+        "B. unbelievable",
+        "C. believe",
+        "D. belief"
+      ],
       "correct_answer": "B",
-      "explanation": "It is + \u5f62\u5bb9\u8bcd + to do sth \u53e5\u578b\uff0c\u7a7a\u683c\u9700\u8981\u5f62\u5bb9\u8bcd\u3002danger \u662f\u540d\u8bcd\uff0cdangerous \u662f\u5f62\u5bb9\u8bcd'\u5371\u9669\u7684'\uff0cdangerously \u662f\u526f\u8bcd\uff0cendangered \u662f'\u6fd2\u5371\u7684'\u3002"
+      "explanation": "本题考查词性转换及前缀。由后句'我根本不相信'可知消息'难以置信'，unbelievable（un-否定前缀+believable）符合句意。A believable可信的，与句意相反；C是动词；D是名词。解题技巧：-able后缀构成形容词，un-前缀表否定。",
+      "label": "词汇题"
     },
     {
       "id": 7,
       "type": "vocabulary",
-      "group": "_single_6",
-      "knowledge_point": "phrase_collocation",
-      "stem": "We should never _____ hope, no matter how difficult things are.",
-      "options": ["A. give up", "B. give in", "C. give out", "D. give away"],
-      "correct_answer": "A",
-      "explanation": "give up \u653e\u5f03\uff1bgive in \u5c48\u670d/\u8ba9\u6b65\uff1bgive out \u5206\u53d1/\u7528\u5b8c\uff1bgive away \u8d60\u9001/\u6cc4\u9732\u3002\u53e5\u610f'\u65e0\u8bba\u591a\u96be\u90fd\u4e0d\u5e94\u653e\u5f03\u5e0c\u671b'\uff0c\u7528 give up hope\u3002"
+      "knowledge_point": "phrasal_verbs",
+      "difficulty": 2,
+      "stem": "Please _____ the lights when you leave the classroom.",
+      "options": [
+        "A. turn on",
+        "B. turn off",
+        "C. turn up",
+        "D. turn down"
+      ],
+      "correct_answer": "B",
+      "explanation": "本题考查动词短语辨析。turn off关闭（电器），离开教室要关灯。turn on打开；turn up调大（音量）；turn down调小/拒绝。解题技巧：leave the classroom提示动作是'关闭'，turn off与turn on是反义词，结合语境判断。",
+      "label": "词汇题"
     },
     {
       "id": 8,
       "type": "cloze",
-      "group": "cloze_1",
-      "group_passage": "Last month, our school organised a special event called 'Walk in Their Shoes'. The idea was simple: every student would (8)_____ their daily routine with a classmate for one whole day.\n\nI was paired with Tom, a quiet boy who I had never really (9)_____ to before. At first, I felt quite (10)_____ because I had to follow his schedule, which included getting up at 5:30 a.m. for a long bus ride to school.\n\nHowever, during that early morning bus ride, Tom told me about his life. His family lived far from school, but he never (11)_____. He just read books on the bus every day. By the end of the day, I had learned something important -- everyone has their own challenges, and we should never judge others (12)_____ we truly understand their situation.",
       "knowledge_point": "cloze_general",
-      "stem": "(8)",
-      "options": ["A. change", "B. share", "C. exchange", "D. compare"],
-      "correct_answer": "C",
-      "explanation": "exchange...with \u610f\u4e3a'\u4e0e...\u4ea4\u6362'\u3002\u6587\u610f\u662f\u6bcf\u4e2a\u5b66\u751f\u4e0e\u540c\u5b66\u4ea4\u6362\u65e5\u5e38\u4f5c\u606f\uff0cexchange their daily routine with a classmate \u6700\u5408\u9002\u3002share \u662f\u5206\u4eab\uff0c\u4e0d\u6d89\u53ca\u4e92\u6362\u3002"
+      "difficulty": 2,
+      "group": "cloze_1",
+      "group_passage": "Last term, our school started a special project called \"Green Campus\". The goal was to make our school more environmentally (8)_____. All the students were (9)_____ to take part in it.\n\nAt first, many students didn't know what to do. Our science teacher, Mr. Li, gave us some useful suggestions. He told us that we should start with small things in our daily life. For example, we could save water by turning off the taps (10)_____ after using them.\n\nMy classmates and I decided to work on the school garden. We planted some trees and flowers around the teaching building. It was hard work, but everyone felt (11)_____ when we saw the plants growing well.\n\nThe project has made a big difference to our school. Now the campus looks more beautiful and students have become more (12)_____ of environmental protection. I believe if everyone takes action, we can make the world a better place.",
+      "stem": "(8)_____",
+      "options": [
+        "A. dirty",
+        "B. friendly",
+        "C. beautiful",
+        "D. modern"
+      ],
+      "correct_answer": "B",
+      "explanation": "本题考查语境理解和固定搭配。environmentally friendly是固定搭配，意为'环保的'，符合'绿色校园'项目的目标。dirty脏的；beautiful美丽的；modern现代的。虽然C和D可能是结果，但friendly与environmentally构成固定搭配，且准确表达环保主题。",
+      "label": "完形填空"
     },
     {
       "id": 9,
       "type": "cloze",
-      "group": "cloze_1",
       "knowledge_point": "cloze_general",
-      "stem": "(9)",
-      "options": ["A. listened", "B. talked", "C. spoken", "D. said"],
-      "correct_answer": "C",
-      "explanation": "speak to sb \u610f\u4e3a'\u548c\u67d0\u4eba\u8bf4\u8bdd'\u3002had never spoken to \u8868\u793a'\u4ece\u672a\u548c...\u8bf4\u8fc7\u8bdd'\u3002listened to \u662f\u542c\uff1btalked \u540e\u9762\u5df2\u6709 to\uff0c\u4f46\u9009\u9879\u4e2d talked \u4e0d\u5e26 to\uff0c\u9700\u8981 talked with/to\uff1bsaid \u540e\u4e0d\u63a5 to sb\u3002"
+      "difficulty": 2,
+      "group": "cloze_1",
+      "group_passage": "Last term, our school started a special project called \"Green Campus\". The goal was to make our school more environmentally (8)_____. All the students were (9)_____ to take part in it.\n\nAt first, many students didn't know what to do. Our science teacher, Mr. Li, gave us some useful suggestions. He told us that we should start with small things in our daily life. For example, we could save water by turning off the taps (10)_____ after using them.\n\nMy classmates and I decided to work on the school garden. We planted some trees and flowers around the teaching building. It was hard work, but everyone felt (11)_____ when we saw the plants growing well.\n\nThe project has made a big difference to our school. Now the campus looks more beautiful and students have become more (12)_____ of environmental protection. I believe if everyone takes action, we can make the world a better place.",
+      "stem": "(9)_____",
+      "options": [
+        "A. encouraged",
+        "B. allowed",
+        "C. forced",
+        "D. refused"
+      ],
+      "correct_answer": "A",
+      "explanation": "本题考查语境理解和动词辨析。学校项目应该是'鼓励'学生参与，be encouraged to do sth.被鼓励做某事。allowed允许（语气太弱，且通常搭配to do但语义不符）；forced强迫（与绿色校园的积极氛围不符）；refused拒绝（语义相反）。",
+      "label": "完形填空"
     },
     {
       "id": 10,
       "type": "cloze",
-      "group": "cloze_1",
       "knowledge_point": "cloze_general",
-      "stem": "(10)",
-      "options": ["A. nervous", "B. excited", "C. bored", "D. proud"],
-      "correct_answer": "A",
-      "explanation": "\u6839\u636e\u540e\u6587'\u56e0\u4e3a\u5fc5\u987b\u9075\u5faa\u4ed6\u7684\u4f5c\u606f\uff0c\u5305\u62ec5:30\u8d77\u5e8a\u5750\u957f\u9014\u5df4\u58eb'\uff0c\u9762\u5bf9\u964c\u751f\u4f53\u9a8c\u4f1a\u611f\u5230\u7d27\u5f20\u4e0d\u5b89(nervous)\u3002excited\uff08\u5174\u594b\uff09\u4e0d\u7b26\u5408'had to'\u7684\u88ab\u8feb\u611f\uff1bbored\uff08\u65e0\u804a\uff09\u4e0e getting up at 5:30\u4e0d\u5339\u914d\u3002"
+      "difficulty": 1,
+      "group": "cloze_1",
+      "group_passage": "Last term, our school started a special project called \"Green Campus\". The goal was to make our school more environmentally (8)_____. All the students were (9)_____ to take part in it.\n\nAt first, many students didn't know what to do. Our science teacher, Mr. Li, gave us some useful suggestions. He told us that we should start with small things in our daily life. For example, we could save water by turning off the taps (10)_____ after using them.\n\nMy classmates and I decided to work on the school garden. We planted some trees and flowers around the teaching building. It was hard work, but everyone felt (11)_____ when we saw the plants growing well.\n\nThe project has made a big difference to our school. Now the campus looks more beautiful and students have become more (12)_____ of environmental protection. I believe if everyone takes action, we can make the world a better place.",
+      "stem": "(10)_____",
+      "options": [
+        "A. slowly",
+        "B. quietly",
+        "C. tightly",
+        "D. quickly"
+      ],
+      "correct_answer": "C",
+      "explanation": "本题考查副词词义辨析。tightly紧紧地，turn off the taps tightly意为'关紧水龙头'，与save water（节约用水）逻辑一致。slowly慢慢地；quietly安静地；quickly快速地。只有tightily能体现节约用水的动作要求。",
+      "label": "完形填空"
     },
     {
       "id": 11,
       "type": "cloze",
-      "group": "cloze_1",
       "knowledge_point": "cloze_general",
-      "stem": "(11)",
-      "options": ["A. gave up", "B. complained", "C. escaped", "D. rested"],
-      "correct_answer": "B",
-      "explanation": "\u4e0a\u6587\u8bf4Tom\u5bb6\u4f4f\u5f97\u8fdc\u3001\u6bcf\u5929\u5750\u957f\u9014\u5df4\u58eb\uff0c\u4f46\u4ed6 never _____\uff0c\u540e\u6587\u8bf4\u4ed6\u5728\u8f66\u4e0a\u770b\u4e66\u3002\u8bed\u5883\u4f53\u73b0Tom\u9762\u5bf9\u56f0\u96be\u4e0d\u62b1\u6028(complained)\uff0c\u79ef\u6781\u5229\u7528\u65f6\u95f4\u3002gave up \u653e\u5f03\uff08\u540e\u9762\u7f3a\u5bbe\u8bed\uff09\uff1bescaped \u9003\u8dd1\uff1brested \u4f11\u606f\u2014\u2014\u90fd\u4e0d\u5408\u8bed\u5883\u3002"
+      "difficulty": 2,
+      "group": "cloze_1",
+      "group_passage": "Last term, our school started a special project called \"Green Campus\". The goal was to make our school more environmentally (8)_____. All the students were (9)_____ to take part in it.\n\nAt first, many students didn't know what to do. Our science teacher, Mr. Li, gave us some useful suggestions. He told us that we should start with small things in our daily life. For example, we could save water by turning off the taps (10)_____ after using them.\n\nMy classmates and I decided to work on the school garden. We planted some trees and flowers around the teaching building. It was hard work, but everyone felt (11)_____ when we saw the plants growing well.\n\nThe project has made a big difference to our school. Now the campus looks more beautiful and students have become more (12)_____ of environmental protection. I believe if everyone takes action, we can make the world a better place.",
+      "stem": "(11)_____",
+      "options": [
+        "A. bored",
+        "B. tired",
+        "C. excited",
+        "D. worried"
+      ],
+      "correct_answer": "C",
+      "explanation": "本题考查情感线索和逻辑关系。but表示转折，前面说hard work（辛苦的工作），后面应该是积极情绪；且'看到植物长得好'应该感到excited（兴奋的）。bored无聊的；tired累的（与hard work同向，不能构成转折）；worried担心的。",
+      "label": "完形填空"
     },
     {
       "id": 12,
       "type": "cloze",
-      "group": "cloze_1",
       "knowledge_point": "cloze_general",
-      "stem": "(12)",
-      "options": ["A. although", "B. because", "C. until", "D. if"],
-      "correct_answer": "C",
-      "explanation": "\u53e5\u610f\uff1a'\u6211\u4eec\u4e0d\u5e94\u8be5\u8bc4\u5224\u4ed6\u4eba\uff0c\u76f4\u5230(until)\u6211\u4eec\u771f\u6b63\u4e86\u89e3\u4ed6\u4eec\u7684\u5904\u5883'\u3002not...until \u610f\u4e3a'\u76f4\u5230...\u624d'\uff0c\u662f\u56fa\u5b9a\u53e5\u578b\u3002although\uff08\u867d\u7136\uff09\u3001because\uff08\u56e0\u4e3a\uff09\u3001if\uff08\u5982\u679c\uff09\u90fd\u4e0d\u5408\u903b\u8f91\u3002"
+      "difficulty": 1,
+      "group": "cloze_1",
+      "group_passage": "Last term, our school started a special project called \"Green Campus\". The goal was to make our school more environmentally (8)_____. All the students were (9)_____ to take part in it.\n\nAt first, many students didn't know what to do. Our science teacher, Mr. Li, gave us some useful suggestions. He told us that we should start with small things in our daily life. For example, we could save water by turning off the taps (10)_____ after using them.\n\nMy classmates and I decided to work on the school garden. We planted some trees and flowers around the teaching building. It was hard work, but everyone felt (11)_____ when we saw the plants growing well.\n\nThe project has made a big difference to our school. Now the campus looks more beautiful and students have become more (12)_____ of environmental protection. I believe if everyone takes action, we can make the world a better place.",
+      "stem": "(12)_____",
+      "options": [
+        "A. afraid",
+        "B. proud",
+        "C. careful",
+        "D. aware"
+      ],
+      "correct_answer": "D",
+      "explanation": "本题考查固定搭配。be/become aware of是固定短语，意为'意识到'，符合句意'学生们变得更加有环保意识'。afraid害怕（be afraid of）；proud自豪（be proud of）；careful小心的（通常与with/about搭配）。",
+      "label": "完形填空"
     },
     {
       "id": 13,
       "type": "reading",
-      "group": "reading_1",
-      "group_passage": "Have you ever heard of 'dark sky parks'? These are special places where people can enjoy a clear night sky without light pollution. In our modern cities, streetlights, shop signs, and building lights make it almost impossible to see the stars.\n\nThe International Dark-Sky Association (IDA) has been working to protect the night sky since 1988. They give the title of 'International Dark Sky Park' to places that have excellent conditions for stargazing and take steps to control artificial light.\n\nThere are now over 200 dark sky parks around the world. One of the most famous is the Aoraki Mackenzie Dark Sky Reserve in New Zealand, where visitors can see the Milky Way so clearly that it looks like a river of light flowing across the sky.\n\nScientists say that light pollution is not just a problem for stargazers. It also affects wildlife. Many birds, insects, and sea turtles use natural light from the moon and stars to navigate. When artificial light confuses them, they can lose their way or even die.\n\nSome cities are beginning to take action. For example, Flagstaff in Arizona, USA, became the world's first International Dark Sky City in 2001. The city uses special streetlights that point downward instead of spreading light in all directions. This simple change helps both people and animals.",
       "knowledge_point": "detail",
-      "stem": "According to the passage, the IDA gives the title of 'International Dark Sky Park' to places that _____.",
-      "options": ["A. have no streetlights at all", "B. are located far from any city", "C. have good stargazing conditions and control artificial light", "D. allow visitors to stay overnight for free"],
+      "difficulty": 2,
+      "group": "reading_1",
+      "group_passage": "Smart homes are becoming more and more popular in modern cities. A smart home uses technology to make life easier and more comfortable for the people living in it.\n\nIn a smart home, you can control almost everything with your smartphone or voice. For example, before you arrive home from school on a hot summer day, you can turn on the air conditioner using your phone. When you enter the house, it will already be cool and comfortable. The smart refrigerator can keep track of what food you have and remind you when milk or vegetables are going bad. It can even suggest recipes based on the ingredients (食材) inside.\n\nHowever, smart homes also have some problems. The biggest concern is safety. If hackers break into the system, they might control your home devices or steal your personal information. Another problem is that smart home devices are often expensive. Not every family can afford them.\n\nDespite these challenges, experts believe that smart home technology will continue to improve. In the future, homes might be able to learn about their owners' habits and adjust everything automatically. Imagine a house that knows when you usually wake up and has your coffee ready before you even get out of bed!",
+      "stem": "What can you do with a smart refrigerator according to the passage?",
+      "options": [
+        "A. Control it with your voice only.",
+        "B. Turn it on before arriving home.",
+        "C. Check food conditions and get recipe suggestions.",
+        "D. Prevent hackers from stealing information."
+      ],
       "correct_answer": "C",
-      "explanation": "\u539f\u6587\u7b2c\u4e8c\u6bb5\uff1a'They give the title...to places that have excellent conditions for stargazing and take steps to control artificial light'\u3002C \u662f\u5bf9\u539f\u6587\u7684\u540c\u4e49\u6539\u5199\u3002A\uff08\u5b8c\u5168\u6ca1\u6709\u8def\u706f\uff09\u3001B\uff08\u8fdc\u79bb\u57ce\u5e02\uff09\u3001D\uff08\u514d\u8d39\u8fc7\u591c\uff09\u5747\u65e0\u539f\u6587\u4f9d\u636e\u3002"
+      "explanation": "本题考查细节理解。根据第二段最后两句'The smart refrigerator can keep track of what food you have and remind you when milk or vegetables are going bad. It can even suggest recipes...'可知，智能冰箱可以追踪食物状况（是否变质）并提供食谱建议。A项only过于绝对；B项是空调的功能；D项与冰箱无关。解题技巧：细节题要精准定位关键词smart refrigerator，比对原文细节。",
+      "label": "阅读-细节理解"
     },
     {
       "id": 14,
       "type": "reading",
-      "group": "reading_1",
       "knowledge_point": "inference",
-      "stem": "From the passage, we can infer that _____.",
-      "options": ["A. all cities will become dark sky cities in the future", "B. light pollution has a wider impact than most people realize", "C. sea turtles are the most affected animals", "D. dark sky parks are only found in New Zealand"],
-      "correct_answer": "B",
-      "explanation": "\u6587\u7ae0\u6307\u51fa\u5149\u6c61\u67d3\u4e0d\u4ec5\u5f71\u54cd\u89c2\u661f\u8005(not just a problem for stargazers)\uff0c\u8fd8\u5f71\u54cd\u9e1f\u7c7b\u3001\u6606\u866b\u3001\u6d77\u9f9f\u7b49\u91ce\u751f\u52a8\u7269\uff0c\u7531\u6b64\u53ef\u63a8\u65ad\u5149\u6c61\u67d3\u7684\u5f71\u54cd\u6bd4\u5927\u591a\u6570\u4eba\u610f\u8bc6\u5230\u7684\u66f4\u5e7f\u6cdb\u3002A \u8fc7\u4e8e\u7edd\u5bf9\uff1bC \u6587\u4e2d\u672a\u6bd4\u8f83\u8c01\u6700\u53d7\u5f71\u54cd\uff1bD \u660e\u663e\u4e0e\u4e8b\u5b9e\u4e0d\u7b26\uff08\u6587\u4e2d\u8bf4\u5168\u7403200\u591a\u5904\uff09\u3002"
+      "difficulty": 3,
+      "group": "reading_1",
+      "group_passage": "Smart homes are becoming more and more popular in modern cities. A smart home uses technology to make life easier and more comfortable for the people living in it.\n\nIn a smart home, you can control almost everything with your smartphone or voice. For example, before you arrive home from school on a hot summer day, you can turn on the air conditioner using your phone. When you enter the house, it will already be cool and comfortable. The smart refrigerator can keep track of what food you have and remind you when milk or vegetables are going bad. It can even suggest recipes based on the ingredients (食材) inside.\n\nHowever, smart homes also have some problems. The biggest concern is safety. If hackers break into the system, they might control your home devices or steal your personal information. Another problem is that smart home devices are often expensive. Not every family can afford them.\n\nDespite these challenges, experts believe that smart home technology will continue to improve. In the future, homes might be able to learn about their owners' habits and adjust everything automatically. Imagine a house that knows when you usually wake up and has your coffee ready before you even get out of bed!",
+      "stem": "What can we learn about smart homes from the passage?",
+      "options": [
+        "A. They are perfect without any problems.",
+        "B. They are cheap enough for every family.",
+        "C. They may bring safety risks if not protected well.",
+        "D. They will replace traditional homes completely soon."
+      ],
+      "correct_answer": "C",
+      "explanation": "本题考查推理判断。根据第三段'If hackers break into the system, they might control your home devices or steal your personal information'可推知，如果系统保护不好（if not protected well），会有安全风险。A项与第三段'also have some problems'矛盾；B项与'often expensive. Not every family can afford them'矛盾；D项'completely soon'过于绝对，文中未提及。解题技巧：推理题要基于原文信息合理推断，避免过度推断或与原文矛盾的选项。",
+      "label": "阅读-推理判断"
     },
     {
       "id": 15,
       "type": "reading",
-      "group": "reading_1",
       "knowledge_point": "word_guessing",
-      "stem": "The word 'navigate' in Paragraph 4 most probably means _____.",
-      "options": ["A. find food", "B. find their way", "C. build nests", "D. communicate"],
+      "difficulty": 2,
+      "group": "reading_1",
+      "group_passage": "Smart homes are becoming more and more popular in modern cities. A smart home uses technology to make life easier and more comfortable for the people living in it.\n\nIn a smart home, you can control almost everything with your smartphone or voice. For example, before you arrive home from school on a hot summer day, you can turn on the air conditioner using your phone. When you enter the house, it will already be cool and comfortable. The smart refrigerator can keep track of what food you have and remind you when milk or vegetables are going bad. It can even suggest recipes based on the ingredients (食材) inside.\n\nHowever, smart homes also have some problems. The biggest concern is safety. If hackers break into the system, they might control your home devices or steal your personal information. Another problem is that smart home devices are often expensive. Not every family can afford them.\n\nDespite these challenges, experts believe that smart home technology will continue to improve. In the future, homes might be able to learn about their owners' habits and adjust everything automatically. Imagine a house that knows when you usually wake up and has your coffee ready before you even get out of bed!",
+      "stem": "The underlined word 'hackers' in Paragraph 3 probably means _____.",
+      "options": [
+        "A. people who repair computers",
+        "B. people who steal by breaking into computer systems",
+        "C. people who sell smart devices",
+        "D. people who design house buildings"
+      ],
       "correct_answer": "B",
-      "explanation": "\u4e0a\u4e0b\u6587\uff1a\u52a8\u7269\u5229\u7528\u6708\u5149\u548c\u661f\u5149\u6765 navigate\uff0c\u5f53\u4eba\u9020\u5149\u8ba9\u5b83\u4eec\u56f0\u60d1\u65f6\uff0cthey can lose their way\uff08\u8ff7\u8def\uff09\u3002\u7531 lose their way \u53ef\u53cd\u63a8 navigate \u610f\u4e3a'\u627e\u5230\u65b9\u5411/\u8fa8\u8def'\u3002"
+      "explanation": "本题考查词义猜测。根据上下文'break into the system'（侵入系统）和'steal your personal information'（窃取个人信息）可知，hackers是指非法侵入计算机系统的人。A是维修人员；C是销售人员；D是建筑设计师。解题技巧：词义猜测题重点看上下文逻辑，尤其是定语从句或并列结构对词汇的解释。",
+      "label": "阅读-词义猜测"
     },
     {
       "id": 16,
       "type": "reading",
-      "group": "reading_1",
       "knowledge_point": "main_idea",
+      "difficulty": 3,
+      "group": "reading_1",
+      "group_passage": "Smart homes are becoming more and more popular in modern cities. A smart home uses technology to make life easier and more comfortable for the people living in it.\n\nIn a smart home, you can control almost everything with your smartphone or voice. For example, before you arrive home from school on a hot summer day, you can turn on the air conditioner using your phone. When you enter the house, it will already be cool and comfortable. The smart refrigerator can keep track of what food you have and remind you when milk or vegetables are going bad. It can even suggest recipes based on the ingredients (食材) inside.\n\nHowever, smart homes also have some problems. The biggest concern is safety. If hackers break into the system, they might control your home devices or steal your personal information. Another problem is that smart home devices are often expensive. Not every family can afford them.\n\nDespite these challenges, experts believe that smart home technology will continue to improve. In the future, homes might be able to learn about their owners' habits and adjust everything automatically. Imagine a house that knows when you usually wake up and has your coffee ready before you even get out of bed!",
       "stem": "What is the best title for this passage?",
-      "options": ["A. How to Build a Dark Sky Park", "B. Why We Need Dark Skies", "C. The History of the IDA", "D. Animals and the Moon"],
-      "correct_answer": "B",
-      "explanation": "\u6587\u7ae0\u56f4\u7ed5\u6697\u591c\u516c\u56ed\u7684\u6982\u5ff5\u3001\u5149\u6c61\u67d3\u5bf9\u4eba\u548c\u52a8\u7269\u7684\u5371\u5bb3\u4ee5\u53ca\u57ce\u5e02\u91c7\u53d6\u7684\u63aa\u65bd\u5c55\u5f00\uff0c\u6838\u5fc3\u8bba\u70b9\u662f'\u4e3a\u4ec0\u4e48\u6211\u4eec\u9700\u8981\u9ed1\u6697\u7684\u5929\u7a7a'\u3002A \u53ea\u6d89\u53ca\u5efa\u8bbe\u65b9\u6cd5\uff08\u6587\u4e2d\u672a\u8be6\u8ff0\uff09\uff1bC \u53ea\u6d89\u53ca\u4e00\u4e2a\u7ec4\u7ec7\u7684\u5386\u53f2\uff08\u975e\u91cd\u70b9\uff09\uff1bD \u53ea\u8986\u76d6\u7b2c\u56db\u6bb5\u90e8\u5206\u5185\u5bb9\u3002"
+      "options": [
+        "A. The History of Smart Homes",
+        "B. How to Use Smartphones at Home",
+        "C. Smart Homes: Convenience and Challenges",
+        "D. Why Traditional Homes Are Better"
+      ],
+      "correct_answer": "C",
+      "explanation": "本题考查主旨大意。文章第一段引入智能家居，第二段讲便利（convenience），第三段讲挑战/问题（challenges/problems），第四段讲未来发展。C项'智能家居：便利与挑战'全面概括了文章内容。A项'history'文中未提及；B项只涉及第二段部分内容；D项与文章主旨相反。解题技巧：最佳标题要涵盖全文主要内容，不偏不倚，通常采用'主题词+方面'的结构。",
+      "label": "阅读-主旨大意"
     },
     {
       "id": 17,
       "type": "fill",
-      "group": "fill_1",
-      "group_passage": "Last weekend, our class went to Green Hills Farm for a special outdoor lesson.\n\nWhen we arrived, the farmer Mr. Chen welcomed us warmly. (17)_____ He showed us how seeds grow into plants and how important sunlight and water are.\n\nAfter that, we went to the vegetable garden. (18)_____ Some of us picked tomatoes, and others dug up potatoes. It was hard work, but everyone was smiling.\n\n(19)_____ We used the vegetables we had just picked to make a simple lunch together. The food tasted much better than what we usually eat at school.\n\nBefore we left, Mr. Chen gave each of us a small plant to take home. (20)_____ I put mine on the balcony and water it every day. I hope it will grow big and strong.",
       "knowledge_point": "sentence_fill",
-      "stem": "(17)",
-      "options": ["A. He told us to take good care of it.", "B. First, he took us to the greenhouse.", "C. We were allowed to pick vegetables by ourselves.", "D. Then it was time for lunch.", "E. Everyone was excited to plant flowers."],
-      "correct_answer": "B",
-      "explanation": "\u7b2c\u4e8c\u6bb5\u8bb2\u5230\u8fbe\u540e Mr. Chen \u6b22\u8fce\u5927\u5bb6\uff0c\u63a5\u7740\u5c55\u793a\u79cd\u5b50\u5982\u4f55\u751f\u957f\u3001\u9633\u5149\u548c\u6c34\u7684\u91cd\u8981\u6027\u2014\u2014\u8fd9\u4e9b\u6d3b\u52a8\u53d1\u751f\u5728\u6e29\u5ba4(greenhouse)\u91cc\u3002B'\u9996\u5148\u5e26\u6211\u4eec\u53bb\u6e29\u5ba4'\u627f\u4e0a\u542f\u4e0b\u6700\u5408\u9002\u3002"
+      "difficulty": 2,
+      "group": "fill_1",
+      "group_passage": "Many students have trouble balancing their study time and hobbies. They either spend too much time on games and sports, or study all day without any rest. (17)_____ Here are some useful tips to help you solve this problem.\n\nFirst, make a proper schedule. Write down your daily tasks and set specific times for studying and relaxing. (18)_____ For example, you can study for 45 minutes and then play basketball for 15 minutes.\n\nSecond, choose hobbies that help you learn. Reading books, playing chess, or learning an instrument can improve your skills while bringing you joy. (19)_____ These activities can actually help you become a better student.\n\nFinally, learn to say no to distractions. When it's study time, put away your phone and focus on your homework. (20)_____ Remember, balancing both study and hobbies is possible with good planning.",
+      "stem": "(17)_____",
+      "options": [
+        "A. This way, you won't waste time deciding what to do next.",
+        "B. However, playing video games for hours is not a good choice.",
+        "C. The key is to plan your time wisely.",
+        "D. Then, when it's time to relax, you can fully enjoy your hobbies without worry.",
+        "E. As a result, many students feel stressed and unhappy."
+      ],
+      "correct_answer": "C",
+      "explanation": "本题考查段落衔接。前句讲问题（学习或娱乐过度），后句讲'以下是解决建议'，此处需要过渡句引出解决方案。C项'关键是要明智地规划时间'承上启下，既总结问题根源，又引出下文的tips。E项虽讲结果，但与后文建议衔接不如C紧密；A、B、D与上下文逻辑不符。",
+      "label": "短文填空"
     },
     {
       "id": 18,
       "type": "fill",
-      "group": "fill_1",
       "knowledge_point": "sentence_fill",
-      "stem": "(18)",
-      "options": ["A. He told us to take good care of it.", "B. First, he took us to the greenhouse.", "C. We were allowed to pick vegetables by ourselves.", "D. Then it was time for lunch.", "E. Everyone was excited to plant flowers."],
-      "correct_answer": "C",
-      "explanation": "\u7b2c\u4e09\u6bb5\u8bf4\u53bb\u4e86\u83dc\u56ed\uff0c\u540e\u6587'Some of us picked tomatoes, others dug up potatoes'\uff0c\u8bf4\u660e\u5b66\u751f\u81ea\u5df1\u52a8\u624b\u6458\u83dc\u3002C'\u6211\u4eec\u88ab\u5141\u8bb8\u81ea\u5df1\u6458\u84ac\u83dc'\u5b8c\u7f8e\u884c\u63a5\u3002"
+      "difficulty": 2,
+      "group": "fill_1",
+      "group_passage": "Many students have trouble balancing their study time and hobbies. They either spend too much time on games and sports, or study all day without any rest. (17)_____ Here are some useful tips to help you solve this problem.\n\nFirst, make a proper schedule. Write down your daily tasks and set specific times for studying and relaxing. (18)_____ For example, you can study for 45 minutes and then play basketball for 15 minutes.\n\nSecond, choose hobbies that help you learn. Reading books, playing chess, or learning an instrument can improve your skills while bringing you joy. (19)_____ These activities can actually help you become a better student.\n\nFinally, learn to say no to distractions. When it's study time, put away your phone and focus on your homework. (20)_____ Remember, balancing both study and hobbies is possible with good planning.",
+      "stem": "(18)_____",
+      "options": [
+        "A. This way, you won't waste time deciding what to do next.",
+        "B. However, playing video games for hours is not a good choice.",
+        "C. The key is to plan your time wisely.",
+        "D. Then, when it's time to relax, you can fully enjoy your hobbies without worry.",
+        "E. As a result, many students feel stressed and unhappy."
+      ],
+      "correct_answer": "A",
+      "explanation": "本题考查逻辑关系。前句讲'制定计划，写下任务，设定时间'，A项'这样，你就不会浪费时间去决定下一步做什么'是前句的结果/好处，this way指代前文的make a schedule。for example后的内容也具体展示了按计划行事的情景，与A项逻辑一致。",
+      "label": "短文填空"
     },
     {
       "id": 19,
       "type": "fill",
-      "group": "fill_1",
       "knowledge_point": "sentence_fill",
-      "stem": "(19)",
-      "options": ["A. He told us to take good care of it.", "B. First, he took us to the greenhouse.", "C. We were allowed to pick vegetables by ourselves.", "D. Then it was time for lunch.", "E. Everyone was excited to plant flowers."],
-      "correct_answer": "D",
-      "explanation": "\u7b2c\u56db\u6bb5\u8bb2\u7528\u521a\u6458\u7684\u84ac\u83dc\u4e00\u8d77\u505a\u5348\u9910\uff0cD'\u7136\u540e\u5230\u4e86\u5348\u9910\u65f6\u95f4'\u662f\u6700\u4f73\u8fc7\u6e21\u53e5\u3002"
+      "difficulty": 2,
+      "group": "fill_1",
+      "group_passage": "Many students have trouble balancing their study time and hobbies. They either spend too much time on games and sports, or study all day without any rest. (17)_____ Here are some useful tips to help you solve this problem.\n\nFirst, make a proper schedule. Write down your daily tasks and set specific times for studying and relaxing. (18)_____ For example, you can study for 45 minutes and then play basketball for 15 minutes.\n\nSecond, choose hobbies that help you learn. Reading books, playing chess, or learning an instrument can improve your skills while bringing you joy. (19)_____ These activities can actually help you become a better student.\n\nFinally, learn to say no to distractions. When it's study time, put away your phone and focus on your homework. (20)_____ Remember, balancing both study and hobbies is possible with good planning.",
+      "stem": "(19)_____",
+      "options": [
+        "A. This way, you won't waste time deciding what to do next.",
+        "B. However, playing video games for hours is not a good choice.",
+        "C. The key is to plan your time wisely.",
+        "D. Then, when it's time to relax, you can fully enjoy your hobbies without worry.",
+        "E. As a result, many students feel stressed and unhappy."
+      ],
+      "correct_answer": "B",
+      "explanation": "本题考查转折关系。前句讲'选择有助于学习的爱好，如读书、下棋、学乐器'，B项'然而，玩几个小时电子游戏不是好选择'通过however转折，对比有益爱好和不良爱好，突出选择的重要性。后句'这些活动实际上能帮助你'中的these activities指代前文有益爱好，与B项形成对比。",
+      "label": "短文填空"
     },
     {
       "id": 20,
       "type": "fill",
-      "group": "fill_1",
       "knowledge_point": "sentence_fill",
-      "stem": "(20)",
-      "options": ["A. He told us to take good care of it.", "B. First, he took us to the greenhouse.", "C. We were allowed to pick vegetables by ourselves.", "D. Then it was time for lunch.", "E. Everyone was excited to plant flowers."],
-      "correct_answer": "A",
-      "explanation": "\u6700\u540e\u4e00\u6bb5\u8bf4 Mr. Chen \u7ed9\u6bcf\u4eba\u4e00\u68f5\u5c0f\u690d\u7269\u5e26\u56de\u5bb6\uff0c\u540e\u6587'I put mine on the balcony and water it every day'\u8bf4\u660e\u5728\u7167\u987e\u5b83\u3002A'\u4ed6\u544a\u8bc9\u6211\u4eec\u597d\u597d\u7167\u987e\u5b83'\u627f\u63a5\u9001\u690d\u7269\u548c\u7167\u987e\u884c\u4e3a\u3002\u5e72\u6270\u9879E'\u5927\u5bb6\u5174\u594b\u5730\u79cd\u82b1'\u4e0e\u4e0a\u4e0b\u6587\u4e0d\u7b26\u3002"
+      "difficulty": 2,
+      "group": "fill_1",
+      "group_passage": "Many students have trouble balancing their study time and hobbies. They either spend too much time on games and sports, or study all day without any rest. (17)_____ Here are some useful tips to help you solve this problem.\n\nFirst, make a proper schedule. Write down your daily tasks and set specific times for studying and relaxing. (18)_____ For example, you can study for 45 minutes and then play basketball for 15 minutes.\n\nSecond, choose hobbies that help you learn. Reading books, playing chess, or learning an instrument can improve your skills while bringing you joy. (19)_____ These activities can actually help you become a better student.\n\nFinally, learn to say no to distractions. When it's study time, put away your phone and focus on your homework. (20)_____ Remember, balancing both study and hobbies is possible with good planning.",
+      "stem": "(20)_____",
+      "options": [
+        "A. This way, you won't waste time deciding what to do next.",
+        "B. However, playing video games for hours is not a good choice.",
+        "C. The key is to plan your time wisely.",
+        "D. Then, when it's time to relax, you can fully enjoy your hobbies without worry.",
+        "E. As a result, many students feel stressed and unhappy."
+      ],
+      "correct_answer": "D",
+      "explanation": "本题考查时间顺序和逻辑衔接。前句讲'学习时放下手机专注作业'，D项'然后，当放松时间到了，你可以毫无顾虑地享受爱好'中then表示时间递进，与when it's study time形成对应（study time vs time to relax），体现平衡学习与娱乐的主题。without worry也呼应了专注学习后的心理状态。",
+      "label": "短文填空"
     }
   ]
 }
