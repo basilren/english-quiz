@@ -1,99 +1,100 @@
 ﻿{
-  "date": "2026-05-07",
-  "day": 41,
+  "date": "2026-05-08",
+  "day": 42,
   "session_number": 1,
-  "difficulty": "grammar2_cloze3_reading2_fill2",
+  "total_questions": 21,
+  "difficulty": "grammar2/vocab2/cloze3/reading2/fill2",
   "questions": [
     {
       "id": 1,
       "type": "grammar",
       "group": "_single_0",
       "knowledge_point": "present_perfect",
-      "stem": "-- Have you ever _____ to Beijing?\n-- Yes, I went there last summer.",
-      "options": ["A. been", "B. gone", "C. go", "D. went"],
+      "stem": "-- I have never _____ to Beijing before.\n-- Really? I will take you there next summer.",
+      "options": ["A. been", "B. gone", "C. went", "D. go"],
       "correct_answer": "A",
-      "explanation": "have been to \u8868\u793a'\u53bb\u8fc7\u67d0\u5730\uff08\u5df2\u56de\u6765\uff09'\uff0chave gone to \u8868\u793a'\u53bb\u4e86\u67d0\u5730\uff08\u672a\u56de\u6765\uff09'\u3002\u5bf9\u8bdd\u4e2d\u56de\u7b54'Yes, I went there'\u8bf4\u660e\u4eba\u5df2\u56de\u6765\uff0c\u6240\u4ee5\u7528 been\u3002"
+      "explanation": "have been to \u8868\u793a'\u53bb\u8fc7\u67d0\u5730\uff08\u5df2\u56de\u6765\uff09'\uff1bhave gone to \u8868\u793a'\u53bb\u4e86\u67d0\u5730\uff08\u672a\u56de\uff09'\u3002\u8fd9\u91cc\u8bf4\u8bdd\u4eba\u548c\u5bf9\u65b9\u6b63\u5728\u5bf9\u8bdd\uff0c\u8bf4\u660e\u4eba\u5728\u73b0\u573a\uff0c\u5e94\u7528 have been to\u3002went \u662f\u8fc7\u53bb\u65f6\u4e0d\u80fd\u548c have \u642d\u914d\u3002"
     },
     {
       "id": 2,
       "type": "grammar",
       "group": "_single_1",
       "knowledge_point": "present_perfect",
-      "stem": "Mr. Wang has _____ the school for twenty years. He loves teaching.",
-      "options": ["A. come to", "B. been in", "C. arrived at", "D. joined"],
+      "stem": "My sister _____ the book for two weeks. She should return it to the library.",
+      "options": ["A. has borrowed", "B. has kept", "C. borrowed", "D. has lent"],
       "correct_answer": "B",
-      "explanation": "for twenty years \u8868\u793a\u4e00\u6bb5\u65f6\u95f4\uff0c\u5fc5\u987b\u7528\u5ef6\u7eed\u6027\u52a8\u8bcd\u3002come to/arrive at/join \u90fd\u662f\u975e\u5ef6\u7eed\u6027\u52a8\u8bcd\uff0c\u4e0d\u80fd\u4e0e for \u8fde\u7528\u3002come to \u2192 be in, join \u2192 be in/be a member of\u3002"
+      "explanation": "for two weeks \u8868\u793a\u6301\u7eed\u4e00\u6bb5\u65f6\u95f4\uff0c\u9700\u8981\u5ef6\u7eed\u6027\u52a8\u8bcd\u3002borrow \u662f\u975e\u5ef6\u7eed\u6027\u52a8\u8bcd\uff0c\u4e0d\u80fd\u548c for \u8fde\u7528\uff0c\u5176\u5ef6\u7eed\u6027\u66ff\u6362\u8bcd\u662f keep\u3002lend \u4e5f\u662f\u975e\u5ef6\u7eed\u6027\u52a8\u8bcd\u3002\u6240\u4ee5\u9009 has kept\u3002\u8bb0\u4f4f\uff1aborrow\u2192keep, buy\u2192have, join\u2192be in\u3002"
     },
     {
       "id": 3,
       "type": "grammar",
       "group": "_single_2",
       "knowledge_point": "object_clause",
-      "stem": "Do you know _____?",
-      "options": ["A. when will he come back", "B. when he will come back", "C. when did he come back", "D. when does he come back"],
+      "stem": "The teacher asked the students _____.",
+      "options": ["A. what were they doing", "B. what they were doing", "C. what are they doing", "D. what they are doing"],
       "correct_answer": "B",
-      "explanation": "\u5bbe\u8bed\u4ece\u53e5\u5fc5\u987b\u7528\u9648\u8ff0\u8bed\u5e8f\uff08\u4e3b\u8bed+\u8c13\u8bed\uff09\u3002A/C/D \u90fd\u662f\u7591\u95ee\u8bed\u5e8f\u3002\u6b64\u5916\u4e3b\u53e5\u662f\u4e00\u822c\u73b0\u5728\u65f6\uff0c\u4ece\u53e5\u8868\u5c06\u6765\uff0c\u7528 will\u3002"
+      "explanation": "\u5bbe\u8bed\u4ece\u53e5\u4e09\u8981\u7d20\uff1a(1) \u5f15\u5bfc\u8bcd what\uff1b(2) \u9648\u8ff0\u8bed\u5e8f\uff08\u4e3b+\u8c13\uff09\uff0c\u6392\u9664A\u3001C\uff1b(3) \u4e3b\u53e5 asked \u662f\u8fc7\u53bb\u65f6\uff0c\u4ece\u53e5\u8981\u7528\u8fc7\u53bb\u65f6\u6001\u547c\u5e94\uff0c\u6392\u9664D\u3002\u6240\u4ee5\u9009B\uff1awhat they were doing\u3002"
     },
     {
       "id": 4,
       "type": "grammar",
       "group": "_single_3",
       "knowledge_point": "object_clause",
-      "stem": "The teacher asked me _____ I had finished my homework.",
-      "options": ["A. that", "B. what", "C. whether", "D. which"],
-      "correct_answer": "C",
-      "explanation": "\u53e5\u610f\u4e3a'\u8001\u5e08\u95ee\u6211\u662f\u5426\u5b8c\u6210\u4e86\u4f5c\u4e1a'\uff0c\u8868\u793a'\u662f\u5426'\u7528 whether/if \u5f15\u5bfc\u5bbe\u8bed\u4ece\u53e5\u3002that \u5f15\u5bfc\u9648\u8ff0\u4e8b\u5b9e\uff0cwhat/which \u5f15\u5bfc\u6709\u5177\u4f53\u5185\u5bb9\u7684\u7279\u6b8a\u7591\u95ee\u3002"
+      "stem": "I wonder _____ he will come to the party or not.",
+      "options": ["A. if", "B. whether", "C. that", "D. what"],
+      "correct_answer": "B",
+      "explanation": "\u8868\u793a'\u662f\u5426'\u65f6 if \u548c whether \u90fd\u53ef\u7528\uff0c\u4f46\u5f53\u540e\u9762\u6709 or not \u7d27\u8ddf\u65f6\uff0c\u53ea\u80fd\u7528 whether\uff0c\u4e0d\u80fd\u7528 if\u3002that \u5f15\u5bfc\u786e\u5b9a\u7684\u9648\u8ff0\u53e5\uff0cwhat \u5f15\u5bfc\u7f3a\u6210\u5206\u7684\u4ece\u53e5\uff0c\u90fd\u4e0d\u5408\u9002\u3002"
     },
     {
       "id": 5,
       "type": "grammar",
       "group": "_single_4",
       "knowledge_point": "relative_clause",
-      "stem": "The girl _____ is standing over there is my cousin.",
-      "options": ["A. which", "B. who", "C. whom", "D. where"],
-      "correct_answer": "B",
-      "explanation": "\u5b9a\u8bed\u4ece\u53e5\u4fee\u9970\u5148\u884c\u8bcd the girl\uff08\u4eba\uff09\uff0c\u4e14\u5728\u4ece\u53e5\u4e2d\u4f5c\u4e3b\u8bed\uff0c\u7528 who\u3002which \u4fee\u9970\u7269\uff1bwhom \u4f5c\u5bbe\u8bed\uff1bwhere \u8868\u5730\u70b9\u3002"
+      "stem": "The girl _____ is standing over there is my classmate Lucy.",
+      "options": ["A. which", "B. what", "C. who", "D. whom"],
+      "correct_answer": "C",
+      "explanation": "\u5b9a\u8bed\u4ece\u53e5\u4fee\u9970\u5148\u884c\u8bcd the girl\uff08\u4eba\uff09\uff0c\u5173\u7cfb\u4ee3\u8bcd\u5728\u4ece\u53e5\u4e2d\u4f5c\u4e3b\u8bed\uff08is standing\uff09\uff0c\u6240\u4ee5\u7528 who\u3002which \u4fee\u9970\u7269\uff1bwhat \u4e0d\u5f15\u5bfc\u5b9a\u8bed\u4ece\u53e5\uff1bwhom \u4f5c\u5bbe\u8bed\u3002"
     },
     {
       "id": 6,
       "type": "vocabulary",
       "group": "_single_5",
       "knowledge_point": "word_form",
-      "stem": "It is _____ (danger) to swim in this river alone.",
-      "options": ["A. danger", "B. dangerous", "C. dangerously", "D. endangered"],
+      "stem": "It was such an _____ (excite) match that all the fans stood up and cheered loudly.",
+      "options": ["A. excited", "B. exciting", "C. excitement", "D. excitedly"],
       "correct_answer": "B",
-      "explanation": "It is + \u5f62\u5bb9\u8bcd + to do sth \u53e5\u578b\uff0c\u7a7a\u683c\u9700\u8981\u5f62\u5bb9\u8bcd\u3002danger \u662f\u540d\u8bcd\uff0cdangerous \u662f\u5f62\u5bb9\u8bcd'\u5371\u9669\u7684'\uff0cdangerously \u662f\u526f\u8bcd\uff0cendangered \u662f'\u6fd2\u5371\u7684'\u3002"
+      "explanation": "-ing \u5f62\u5bb9\u8bcd\u4fee\u9970\u7269\uff08\u4ee4\u4eba\u5174\u594b\u7684\u6bd4\u8d5b\uff09\uff1b-ed \u5f62\u5bb9\u8bcd\u4fee\u9970\u4eba\uff08\u611f\u5230\u5174\u594b\u7684\uff09\u3002\u8fd9\u91cc\u4fee\u9970 match\uff08\u6bd4\u8d5b\uff09\uff0c\u6240\u4ee5\u7528 exciting\u3002excitement \u662f\u540d\u8bcd\uff1bexcitedly \u662f\u526f\u8bcd\u3002"
     },
     {
       "id": 7,
       "type": "vocabulary",
       "group": "_single_6",
       "knowledge_point": "phrase_collocation",
-      "stem": "We should never _____ hope, no matter how difficult things are.",
-      "options": ["A. give up", "B. give in", "C. give out", "D. give away"],
-      "correct_answer": "A",
-      "explanation": "give up \u653e\u5f03\uff1bgive in \u5c48\u670d/\u8ba9\u6b65\uff1bgive out \u5206\u53d1/\u7528\u5b8c\uff1bgive away \u8d60\u9001/\u6cc4\u9732\u3002\u53e5\u610f'\u65e0\u8bba\u591a\u96be\u90fd\u4e0d\u5e94\u653e\u5f03\u5e0c\u671b'\uff0c\u7528 give up hope\u3002"
+      "stem": "We should _____ measures to protect the environment before it is too late.",
+      "options": ["A. make", "B. take", "C. do", "D. give"],
+      "correct_answer": "B",
+      "explanation": "take measures \u662f\u56fa\u5b9a\u642d\u914d\uff0c\u610f\u601d\u662f'\u91c7\u53d6\u63aa\u65bd'\u3002\u7c7b\u4f3c\u642d\u914d\uff1atake action\uff08\u91c7\u53d6\u884c\u52a8\uff09\u3001take steps\uff08\u91c7\u53d6\u6b65\u9aa4\uff09\u3002make\u3001do\u3001give \u90fd\u4e0d\u4e0e measures \u642d\u914d\u3002"
     },
     {
       "id": 8,
-      "type": "cloze",
-      "group": "cloze_1",
-      "group_passage": "Last month, our school organised a special event called 'Walk in Their Shoes'. The idea was simple: every student would (8)_____ their daily routine with a classmate for one whole day.\n\nI was paired with Tom, a quiet boy who I had never really (9)_____ to before. At first, I felt quite (10)_____ because I had to follow his schedule, which included getting up at 5:30 a.m. for a long bus ride to school.\n\nHowever, during that early morning bus ride, Tom told me about his life. His family lived far from school, but he never (11)_____. He just read books on the bus every day. By the end of the day, I had learned something important -- everyone has their own challenges, and we should never judge others (12)_____ we truly understand their situation.",
-      "knowledge_point": "cloze_general",
-      "stem": "(8)",
-      "options": ["A. change", "B. share", "C. exchange", "D. compare"],
-      "correct_answer": "C",
-      "explanation": "exchange...with \u610f\u4e3a'\u4e0e...\u4ea4\u6362'\u3002\u6587\u610f\u662f\u6bcf\u4e2a\u5b66\u751f\u4e0e\u540c\u5b66\u4ea4\u6362\u65e5\u5e38\u4f5c\u606f\uff0cexchange their daily routine with a classmate \u6700\u5408\u9002\u3002share \u662f\u5206\u4eab\uff0c\u4e0d\u6d89\u53ca\u4e92\u6362\u3002"
+      "type": "vocabulary",
+      "group": "_single_7",
+      "knowledge_point": "context_word",
+      "stem": "The scientist devoted all his life to the _____ of new medicines to help sick people.",
+      "options": ["A. development", "B. agreement", "C. environment", "D. entertainment"],
+      "correct_answer": "A",
+      "explanation": "\u6839\u636e\u8bed\u5883\uff0c\u79d1\u5b66\u5bb6\u6bd5\u751f\u81f4\u529b\u4e8e\u65b0\u836f\u7269\u7684'\u7814\u53d1/\u5f00\u53d1'\uff08development\uff09\u3002agreement\uff08\u534f\u8bae\uff09\u3001environment\uff08\u73af\u5883\uff09\u3001entertainment\uff08\u5a31\u4e50\uff09\u5747\u4e0d\u7b26\u5408\u8bed\u5883\u3002devote...to \u8868\u793a'\u81f4\u529b\u4e8e'\u3002"
     },
     {
       "id": 9,
       "type": "cloze",
       "group": "cloze_1",
+      "group_passage": "Last month, our school started a special programme called 'Buddy Reading'. The idea was simple: older students would spend time reading with younger ones during lunch break.\n\nAt first, I felt it was a waste of time. I was already (9)_____ with my own schoolwork. Why should I spend my free time helping little kids? But my English teacher said it would be a meaningful (10)_____.\n\nOn the first day, I met a boy named Tim. He was very (11)_____ and did not say a word. I picked up a picture book and started reading aloud. Slowly, Tim moved closer and pointed at the colourful pictures.\n\nOver the next few weeks, something amazing happened. Tim began to read short sentences by himself. His eyes would (12)_____ every time he finished a page. I realised that I was not just teaching him -- he was teaching me too. He taught me that the greatest joy comes from (13)_____ others grow.",
       "knowledge_point": "cloze_general",
       "stem": "(9)",
-      "options": ["A. listened", "B. talked", "C. spoken", "D. said"],
-      "correct_answer": "C",
-      "explanation": "speak to sb \u610f\u4e3a'\u548c\u67d0\u4eba\u8bf4\u8bdd'\u3002had never spoken to \u8868\u793a'\u4ece\u672a\u548c...\u8bf4\u8fc7\u8bdd'\u3002listened to \u662f\u542c\uff1btalked \u540e\u9762\u5df2\u6709 to\uff0c\u4f46\u9009\u9879\u4e2d talked \u4e0d\u5e26 to\uff0c\u9700\u8981 talked with/to\uff1bsaid \u540e\u4e0d\u63a5 to sb\u3002"
+      "options": ["A. bored", "B. busy", "C. satisfied", "D. angry"],
+      "correct_answer": "B",
+      "explanation": "\u6839\u636e\u540e\u6587'Why should I spend my free time helping little kids?'\u53ef\u77e5'\u6211'\u89c9\u5f97\u81ea\u5df1\u8bfe\u4e1a\u5df2\u7ecf\u5f88\u5fd9\u4e86\uff0c\u6ca1\u6709\u7a7a\u4f59\u65f6\u95f4\uff0c\u6240\u4ee5\u9009 busy\uff08\u5fd9\u788c\u7684\uff09\u3002bored\uff08\u65e0\u804a\u7684\uff09\u3001satisfied\uff08\u6ee1\u610f\u7684\uff09\u3001angry\uff08\u751f\u6c14\u7684\uff09\u4e0d\u7b26\u5408\u8bed\u5883\u3002"
     },
     {
       "id": 10,
@@ -101,9 +102,9 @@
       "group": "cloze_1",
       "knowledge_point": "cloze_general",
       "stem": "(10)",
-      "options": ["A. nervous", "B. excited", "C. bored", "D. proud"],
-      "correct_answer": "A",
-      "explanation": "\u6839\u636e\u540e\u6587'\u56e0\u4e3a\u5fc5\u987b\u9075\u5faa\u4ed6\u7684\u4f5c\u606f\uff0c\u5305\u62ec5:30\u8d77\u5e8a\u5750\u957f\u9014\u5df4\u58eb'\uff0c\u9762\u5bf9\u964c\u751f\u4f53\u9a8c\u4f1a\u611f\u5230\u7d27\u5f20\u4e0d\u5b89(nervous)\u3002excited\uff08\u5174\u594b\uff09\u4e0d\u7b26\u5408'had to'\u7684\u88ab\u8feb\u611f\uff1bbored\uff08\u65e0\u804a\uff09\u4e0e getting up at 5:30\u4e0d\u5339\u914d\u3002"
+      "options": ["A. discovery", "B. mistake", "C. experience", "D. competition"],
+      "correct_answer": "C",
+      "explanation": "\u8001\u5e08\u8bf4\u8fd9\u4f1a\u662f\u4e00\u6bb5\u6709\u610f\u4e49\u7684'\u7ecf\u5386'\uff08experience\uff09\u3002discovery\uff08\u53d1\u73b0\uff09\u3001mistake\uff08\u9519\u8bef\uff09\u3001competition\uff08\u6bd4\u8d5b\uff09\u4e0d\u5408\u8bed\u5883\u3002a meaningful experience \u662f\u5e38\u89c1\u642d\u914d\u3002"
     },
     {
       "id": 11,
@@ -111,9 +112,9 @@
       "group": "cloze_1",
       "knowledge_point": "cloze_general",
       "stem": "(11)",
-      "options": ["A. gave up", "B. complained", "C. escaped", "D. rested"],
-      "correct_answer": "B",
-      "explanation": "\u4e0a\u6587\u8bf4Tom\u5bb6\u4f4f\u5f97\u8fdc\u3001\u6bcf\u5929\u5750\u957f\u9014\u5df4\u58eb\uff0c\u4f46\u4ed6 never _____\uff0c\u540e\u6587\u8bf4\u4ed6\u5728\u8f66\u4e0a\u770b\u4e66\u3002\u8bed\u5883\u4f53\u73b0Tom\u9762\u5bf9\u56f0\u96be\u4e0d\u62b1\u6028(complained)\uff0c\u79ef\u6781\u5229\u7528\u65f6\u95f4\u3002gave up \u653e\u5f03\uff08\u540e\u9762\u7f3a\u5bbe\u8bed\uff09\uff1bescaped \u9003\u8dd1\uff1brested \u4f11\u606f\u2014\u2014\u90fd\u4e0d\u5408\u8bed\u5883\u3002"
+      "options": ["A. shy", "B. excited", "C. naughty", "D. clever"],
+      "correct_answer": "A",
+      "explanation": "\u540e\u6587\u8bf4'did not say a word'\uff08\u4e00\u4e2a\u5b57\u90fd\u6ca1\u8bf4\uff09\uff0c\u8bf4\u660e Tim \u5f88\u5bb3\u7f9e\uff08shy\uff09\u3002excited\uff08\u5174\u594b\u7684\uff09\u3001naughty\uff08\u6dd8\u6c14\u7684\uff09\u3001clever\uff08\u806a\u660e\u7684\uff09\u4e0e'\u4e00\u4e2a\u5b57\u6ca1\u8bf4'\u7684\u63cf\u8ff0\u4e0d\u5339\u914d\u3002"
     },
     {
       "id": 12,
@@ -121,71 +122,71 @@
       "group": "cloze_1",
       "knowledge_point": "cloze_general",
       "stem": "(12)",
-      "options": ["A. although", "B. because", "C. until", "D. if"],
-      "correct_answer": "C",
-      "explanation": "\u53e5\u610f\uff1a'\u6211\u4eec\u4e0d\u5e94\u8be5\u8bc4\u5224\u4ed6\u4eba\uff0c\u76f4\u5230(until)\u6211\u4eec\u771f\u6b63\u4e86\u89e3\u4ed6\u4eec\u7684\u5904\u5883'\u3002not...until \u610f\u4e3a'\u76f4\u5230...\u624d'\uff0c\u662f\u56fa\u5b9a\u53e5\u578b\u3002although\uff08\u867d\u7136\uff09\u3001because\uff08\u56e0\u4e3a\uff09\u3001if\uff08\u5982\u679c\uff09\u90fd\u4e0d\u5408\u903b\u8f91\u3002"
+      "options": ["A. close", "B. light up", "C. turn around", "D. look down"],
+      "correct_answer": "B",
+      "explanation": "Tim \u6bcf\u6b21\u8bfb\u5b8c\u4e00\u9875\u90fd\u5f88\u9ad8\u5174\uff0c\u773c\u775b\u4f1a'\u4eae\u8d77\u6765'\uff08light up\uff09\u3002light up \u8868\u793a\u773c\u775b\u53d1\u5149\u3001\u9762\u9732\u559c\u8272\uff0c\u662f\u53d9\u4e8b\u6587\u4e2d\u63cf\u5199\u559c\u60a6\u7684\u5e38\u7528\u642d\u914d\u3002close\uff08\u5173\u4e0a\uff09\u3001turn around\uff08\u8f6c\u8eab\uff09\u3001look down\uff08\u5411\u4e0b\u770b\uff09\u4e0d\u7b26\u5408\u3002"
     },
     {
       "id": 13,
-      "type": "reading",
-      "group": "reading_1",
-      "group_passage": "Have you ever heard of 'dark sky parks'? These are special places where people can enjoy a clear night sky without light pollution. In our modern cities, streetlights, shop signs, and building lights make it almost impossible to see the stars.\n\nThe International Dark-Sky Association (IDA) has been working to protect the night sky since 1988. They give the title of 'International Dark Sky Park' to places that have excellent conditions for stargazing and take steps to control artificial light.\n\nThere are now over 200 dark sky parks around the world. One of the most famous is the Aoraki Mackenzie Dark Sky Reserve in New Zealand, where visitors can see the Milky Way so clearly that it looks like a river of light flowing across the sky.\n\nScientists say that light pollution is not just a problem for stargazers. It also affects wildlife. Many birds, insects, and sea turtles use natural light from the moon and stars to navigate. When artificial light confuses them, they can lose their way or even die.\n\nSome cities are beginning to take action. For example, Flagstaff in Arizona, USA, became the world's first International Dark Sky City in 2001. The city uses special streetlights that point downward instead of spreading light in all directions. This simple change helps both people and animals.",
-      "knowledge_point": "detail",
-      "stem": "According to the passage, the IDA gives the title of 'International Dark Sky Park' to places that _____.",
-      "options": ["A. have no streetlights at all", "B. are located far from any city", "C. have good stargazing conditions and control artificial light", "D. allow visitors to stay overnight for free"],
-      "correct_answer": "C",
-      "explanation": "\u539f\u6587\u7b2c\u4e8c\u6bb5\uff1a'They give the title...to places that have excellent conditions for stargazing and take steps to control artificial light'\u3002C \u662f\u5bf9\u539f\u6587\u7684\u540c\u4e49\u6539\u5199\u3002A\uff08\u5b8c\u5168\u6ca1\u6709\u8def\u706f\uff09\u3001B\uff08\u8fdc\u79bb\u57ce\u5e02\uff09\u3001D\uff08\u514d\u8d39\u8fc7\u591c\uff09\u5747\u65e0\u539f\u6587\u4f9d\u636e\u3002"
+      "type": "cloze",
+      "group": "cloze_1",
+      "knowledge_point": "cloze_general",
+      "stem": "(13)",
+      "options": ["A. watching", "B. forcing", "C. preventing", "D. leaving"],
+      "correct_answer": "A",
+      "explanation": "\u6700\u5927\u7684\u5feb\u4e50\u6765\u81ea\u4e8e'\u770b\u7740'\uff08watching\uff09\u522b\u4eba\u6210\u957f\u3002watch sb grow \u662f\u5408\u7406\u642d\u914d\uff0c\u8868\u793a\u89c1\u8bc1\u6210\u957f\u3002forcing\uff08\u5f3a\u8feb\uff09\u3001preventing\uff08\u963b\u6b62\uff09\u3001leaving\uff08\u79bb\u5f00\uff09\u90fd\u4e0d\u7b26\u5408\u6587\u7ae0\u4e3b\u9898\u2014\u2014\u5e2e\u52a9\u4ed6\u4eba\u6210\u957f\u7684\u559c\u60a6\u3002"
     },
     {
       "id": 14,
       "type": "reading",
       "group": "reading_1",
-      "knowledge_point": "inference",
-      "stem": "From the passage, we can infer that _____.",
-      "options": ["A. all cities will become dark sky cities in the future", "B. light pollution has a wider impact than most people realize", "C. sea turtles are the most affected animals", "D. dark sky parks are only found in New Zealand"],
+      "group_passage": "Have you ever heard of 'plogging'? It is a fitness trend that started in Sweden in 2016. The word comes from the Swedish 'plocka upp' (pick up) and 'jogging'. When people go plogging, they jog and pick up litter at the same time.\n\nPlogging is more than just running. Because ploggers bend down, squat, and stretch to pick up rubbish, they actually burn more calories than regular joggers. A study shows that ploggers can burn about 288 calories in 30 minutes, while normal joggers burn only about 235.\n\nThe trend has spread to more than 100 countries. In some cities, plogging groups meet every weekend. They bring reusable bags and gloves, then run through parks, streets, and beaches. After each run, they sort the rubbish into recycling and non-recycling.\n\nExperts say plogging is popular because it combines personal health benefits with community improvement. People feel good about exercising AND making their neighbourhood cleaner. Some schools have even started 'plogging clubs' to encourage students to stay active while caring for the environment.\n\nHowever, some critics point out that plogging alone cannot solve the waste problem. They believe governments should focus more on reducing plastic production and improving waste management systems. Still, supporters argue that plogging raises awareness and inspires people to think twice before littering.",
+      "knowledge_point": "detail",
+      "stem": "According to the passage, how many calories can ploggers burn in 30 minutes?",
+      "options": ["A. About 235.", "B. About 288.", "C. About 300.", "D. About 253."],
       "correct_answer": "B",
-      "explanation": "\u6587\u7ae0\u6307\u51fa\u5149\u6c61\u67d3\u4e0d\u4ec5\u5f71\u54cd\u89c2\u661f\u8005(not just a problem for stargazers)\uff0c\u8fd8\u5f71\u54cd\u9e1f\u7c7b\u3001\u6606\u866b\u3001\u6d77\u9f9f\u7b49\u91ce\u751f\u52a8\u7269\uff0c\u7531\u6b64\u53ef\u63a8\u65ad\u5149\u6c61\u67d3\u7684\u5f71\u54cd\u6bd4\u5927\u591a\u6570\u4eba\u610f\u8bc6\u5230\u7684\u66f4\u5e7f\u6cdb\u3002A \u8fc7\u4e8e\u7edd\u5bf9\uff1bC \u6587\u4e2d\u672a\u6bd4\u8f83\u8c01\u6700\u53d7\u5f71\u54cd\uff1bD \u660e\u663e\u4e0e\u4e8b\u5b9e\u4e0d\u7b26\uff08\u6587\u4e2d\u8bf4\u5168\u7403200\u591a\u5904\uff09\u3002"
+      "explanation": "\u539f\u6587\u7b2c\u4e8c\u6bb5\u660e\u786e\u8bf4'ploggers can burn about 288 calories in 30 minutes'\u3002235\u662f\u666e\u901a\u8dd1\u6b65\u8005\u7684\u6d88\u8017\u91cf\u3002\u505a\u7ec6\u8282\u9898\u8981\u7cbe\u51c6\u5b9a\u4f4d\u539f\u6587\u6570\u636e\uff0c\u6ce8\u610f\u533a\u5206\u4e0d\u540c\u5bf9\u8c61\u7684\u6570\u5b57\u3002"
     },
     {
       "id": 15,
       "type": "reading",
       "group": "reading_1",
-      "knowledge_point": "word_guessing",
-      "stem": "The word 'navigate' in Paragraph 4 most probably means _____.",
-      "options": ["A. find food", "B. find their way", "C. build nests", "D. communicate"],
-      "correct_answer": "B",
-      "explanation": "\u4e0a\u4e0b\u6587\uff1a\u52a8\u7269\u5229\u7528\u6708\u5149\u548c\u661f\u5149\u6765 navigate\uff0c\u5f53\u4eba\u9020\u5149\u8ba9\u5b83\u4eec\u56f0\u60d1\u65f6\uff0cthey can lose their way\uff08\u8ff7\u8def\uff09\u3002\u7531 lose their way \u53ef\u53cd\u63a8 navigate \u610f\u4e3a'\u627e\u5230\u65b9\u5411/\u8fa8\u8def'\u3002"
+      "knowledge_point": "inference",
+      "stem": "We can infer from the passage that plogging _____ .",
+      "options": ["A. was invented by a famous athlete", "B. is only suitable for young people", "C. is good for both health and the environment", "D. will completely solve the litter problem"],
+      "correct_answer": "C",
+      "explanation": "\u6587\u7ae0\u591a\u5904\u63d0\u5230 plogging \u65e2\u953b\u70bc\u8eab\u4f53\uff08burn more calories\uff09\u53c8\u6e05\u6d01\u73af\u5883\uff08pick up litter/making neighbourhood cleaner\uff09\uff0c\u53ef\u4ee5\u63a8\u65ad\u5b83\u5bf9\u5065\u5eb7\u548c\u73af\u5883\u90fd\u6709\u597d\u5904\u3002A\u6587\u4e2d\u672a\u63d0\u53ca\u8fd0\u52a8\u5458\u53d1\u660e\uff1bB\u6ca1\u8bf4\u53ea\u9002\u5408\u5e74\u8f7b\u4eba\uff1bD\u6700\u540e\u4e00\u6bb5\u6307\u51fa\u5b83\u4e0d\u80fd\u5355\u72ec\u89e3\u51b3\u5783\u573e\u95ee\u9898\u3002"
     },
     {
       "id": 16,
       "type": "reading",
       "group": "reading_1",
-      "knowledge_point": "main_idea",
-      "stem": "What is the best title for this passage?",
-      "options": ["A. How to Build a Dark Sky Park", "B. Why We Need Dark Skies", "C. The History of the IDA", "D. Animals and the Moon"],
+      "knowledge_point": "word_guessing",
+      "stem": "The underlined word 'awareness' in the last paragraph probably means _____ .",
+      "options": ["A. happiness", "B. knowledge and attention", "C. fear and worry", "D. money and time"],
       "correct_answer": "B",
-      "explanation": "\u6587\u7ae0\u56f4\u7ed5\u6697\u591c\u516c\u56ed\u7684\u6982\u5ff5\u3001\u5149\u6c61\u67d3\u5bf9\u4eba\u548c\u52a8\u7269\u7684\u5371\u5bb3\u4ee5\u53ca\u57ce\u5e02\u91c7\u53d6\u7684\u63aa\u65bd\u5c55\u5f00\uff0c\u6838\u5fc3\u8bba\u70b9\u662f'\u4e3a\u4ec0\u4e48\u6211\u4eec\u9700\u8981\u9ed1\u6697\u7684\u5929\u7a7a'\u3002A \u53ea\u6d89\u53ca\u5efa\u8bbe\u65b9\u6cd5\uff08\u6587\u4e2d\u672a\u8be6\u8ff0\uff09\uff1bC \u53ea\u6d89\u53ca\u4e00\u4e2a\u7ec4\u7ec7\u7684\u5386\u53f2\uff08\u975e\u91cd\u70b9\uff09\uff1bD \u53ea\u8986\u76d6\u7b2c\u56db\u6bb5\u90e8\u5206\u5185\u5bb9\u3002"
+      "explanation": "\u539f\u6587\u8bf4'plogging raises awareness and inspires people to think twice before littering'\uff0c\u5373 plogging \u63d0\u9ad8\u4e86\u4eba\u4eec\u7684\u610f\u8bc6\uff0c\u8ba9\u4eba\u4eec\u4e71\u6254\u5783\u573e\u524d\u4e09\u601d\u3002awareness \u5728\u8fd9\u91cc\u6307\u5bf9\u73af\u5883\u95ee\u9898\u7684'\u8ba4\u77e5\u548c\u5173\u6ce8'\uff08knowledge and attention\uff09\u3002"
     },
     {
       "id": 17,
-      "type": "fill",
-      "group": "fill_1",
-      "group_passage": "Last weekend, our class went to Green Hills Farm for a special outdoor lesson.\n\nWhen we arrived, the farmer Mr. Chen welcomed us warmly. (17)_____ He showed us how seeds grow into plants and how important sunlight and water are.\n\nAfter that, we went to the vegetable garden. (18)_____ Some of us picked tomatoes, and others dug up potatoes. It was hard work, but everyone was smiling.\n\n(19)_____ We used the vegetables we had just picked to make a simple lunch together. The food tasted much better than what we usually eat at school.\n\nBefore we left, Mr. Chen gave each of us a small plant to take home. (20)_____ I put mine on the balcony and water it every day. I hope it will grow big and strong.",
-      "knowledge_point": "sentence_fill",
-      "stem": "(17)",
-      "options": ["A. He told us to take good care of it.", "B. First, he took us to the greenhouse.", "C. We were allowed to pick vegetables by ourselves.", "D. Then it was time for lunch.", "E. Everyone was excited to plant flowers."],
+      "type": "reading",
+      "group": "reading_1",
+      "knowledge_point": "main_idea",
+      "stem": "What is the best title for this passage?",
+      "options": ["A. How to Jog Properly", "B. Plogging: Running for a Cleaner World", "C. Sweden -- the Cleanest Country", "D. Why We Should Stop Using Plastic"],
       "correct_answer": "B",
-      "explanation": "\u7b2c\u4e8c\u6bb5\u8bb2\u5230\u8fbe\u540e Mr. Chen \u6b22\u8fce\u5927\u5bb6\uff0c\u63a5\u7740\u5c55\u793a\u79cd\u5b50\u5982\u4f55\u751f\u957f\u3001\u9633\u5149\u548c\u6c34\u7684\u91cd\u8981\u6027\u2014\u2014\u8fd9\u4e9b\u6d3b\u52a8\u53d1\u751f\u5728\u6e29\u5ba4(greenhouse)\u91cc\u3002B'\u9996\u5148\u5e26\u6211\u4eec\u53bb\u6e29\u5ba4'\u627f\u4e0a\u542f\u4e0b\u6700\u5408\u9002\u3002"
+      "explanation": "\u5168\u6587\u56f4\u7ed5 plogging\uff08\u6361\u5783\u573e\u5f0f\u8dd1\u6b65\uff09\u8fd9\u4e00\u6d3b\u52a8\u5c55\u5f00\uff0c\u4ecb\u7ecd\u4e86\u5b83\u7684\u8d77\u6e90\u3001\u597d\u5904\u548c\u5f71\u54cd\u3002B\u9009\u9879'Plogging: Running for a Cleaner World'\u65e2\u70b9\u51fa\u4e86\u6838\u5fc3\u6982\u5ff5\u53c8\u6982\u62ec\u4e86\u4e3b\u65e8\u3002A\u53ea\u6d89\u53ca\u8dd1\u6b65\uff1bC\u4ee5\u504f\u6982\u5168\uff1bD\u53ea\u662f\u6587\u672b\u63d0\u5230\u7684\u4e00\u4e2a\u89c2\u70b9\u3002\u4e3b\u65e8\u9898\u6280\u5de7\uff1a\u627e\u80fd\u6db5\u76d6\u5168\u6587\u7684\u9009\u9879\u3002"
     },
     {
       "id": 18,
       "type": "fill",
       "group": "fill_1",
+      "group_passage": "Last Saturday, our class went to Green Hills to plant trees. (18)_____ We took a bus and arrived at 9 a.m.\n\nOur teacher divided us into groups of four. (19)_____ Some carried water, and others put young trees into the holes carefully.\n\nBy noon, we had planted over 50 trees. (20)_____ We took photos together and promised to come back to water the trees every month.\n\n(21)_____ It was tiring but meaningful. I hope the trees will grow tall and provide shade for people in the future.",
       "knowledge_point": "sentence_fill",
       "stem": "(18)",
-      "options": ["A. He told us to take good care of it.", "B. First, he took us to the greenhouse.", "C. We were allowed to pick vegetables by ourselves.", "D. Then it was time for lunch.", "E. Everyone was excited to plant flowers."],
+      "options": ["A. Each group had a different job.", "B. Everyone felt proud and happy.", "C. The weather was sunny and warm.", "D. On our way home, we sang songs on the bus.", "E. Some students dug holes in the ground."],
       "correct_answer": "C",
-      "explanation": "\u7b2c\u4e09\u6bb5\u8bf4\u53bb\u4e86\u83dc\u56ed\uff0c\u540e\u6587'Some of us picked tomatoes, others dug up potatoes'\uff0c\u8bf4\u660e\u5b66\u751f\u81ea\u5df1\u52a8\u624b\u6458\u83dc\u3002C'\u6211\u4eec\u88ab\u5141\u8bb8\u81ea\u5df1\u6458\u84ac\u83dc'\u5b8c\u7f8e\u884c\u63a5\u3002"
+      "explanation": "\u7b2c(18)\u7a7a\u5728\u9996\u6bb5\uff0c\u524d\u9762\u8bf4\u53bb\u79cd\u6811\uff0c\u540e\u9762\u8bf4\u5750\u8f669\u70b9\u5230\u8fbe\u3002\u8fd9\u91cc\u9700\u8981\u4e00\u53e5\u8fc7\u6e21\uff0c\u63cf\u8ff0\u5f53\u5929\u7684\u5929\u6c14\u60c5\u51b5\uff0c'The weather was sunny and warm'\u6700\u5408\u9002\uff0c\u4e3a\u6237\u5916\u6d3b\u52a8\u505a\u94fa\u57ab\u3002"
     },
     {
       "id": 19,
@@ -193,9 +194,9 @@
       "group": "fill_1",
       "knowledge_point": "sentence_fill",
       "stem": "(19)",
-      "options": ["A. He told us to take good care of it.", "B. First, he took us to the greenhouse.", "C. We were allowed to pick vegetables by ourselves.", "D. Then it was time for lunch.", "E. Everyone was excited to plant flowers."],
-      "correct_answer": "D",
-      "explanation": "\u7b2c\u56db\u6bb5\u8bb2\u7528\u521a\u6458\u7684\u84ac\u83dc\u4e00\u8d77\u505a\u5348\u9910\uff0cD'\u7136\u540e\u5230\u4e86\u5348\u9910\u65f6\u95f4'\u662f\u6700\u4f73\u8fc7\u6e21\u53e5\u3002"
+      "options": ["A. Each group had a different job.", "B. Everyone felt proud and happy.", "C. The weather was sunny and warm.", "D. On our way home, we sang songs on the bus.", "E. Some students dug holes in the ground."],
+      "correct_answer": "E",
+      "explanation": "\u7b2c(19)\u7a7a\u524d\u9762\u8bf4\u5206\u6210\u56db\u4eba\u5c0f\u7ec4\uff0c\u540e\u9762\u8bf4'Some carried water, and others put young trees into holes'\uff0c\u90fd\u662f\u5728\u63cf\u8ff0\u5404\u4eba\u7684\u5177\u4f53\u5de5\u4f5c\u3002E'Some students dug holes in the ground'\uff08\u6316\u6d1e\uff09\u4e5f\u662f\u79cd\u6811\u7684\u4e00\u4e2a\u6b65\u9aa4\uff0c\u4e0e\u540e\u6587\u7684\u642c\u6c34\u3001\u653e\u6811\u5f62\u6210\u5e76\u5217\u3002"
     },
     {
       "id": 20,
@@ -203,9 +204,19 @@
       "group": "fill_1",
       "knowledge_point": "sentence_fill",
       "stem": "(20)",
-      "options": ["A. He told us to take good care of it.", "B. First, he took us to the greenhouse.", "C. We were allowed to pick vegetables by ourselves.", "D. Then it was time for lunch.", "E. Everyone was excited to plant flowers."],
-      "correct_answer": "A",
-      "explanation": "\u6700\u540e\u4e00\u6bb5\u8bf4 Mr. Chen \u7ed9\u6bcf\u4eba\u4e00\u68f5\u5c0f\u690d\u7269\u5e26\u56de\u5bb6\uff0c\u540e\u6587'I put mine on the balcony and water it every day'\u8bf4\u660e\u5728\u7167\u987e\u5b83\u3002A'\u4ed6\u544a\u8bc9\u6211\u4eec\u597d\u597d\u7167\u987e\u5b83'\u627f\u63a5\u9001\u690d\u7269\u548c\u7167\u987e\u884c\u4e3a\u3002\u5e72\u6270\u9879E'\u5927\u5bb6\u5174\u594b\u5730\u79cd\u82b1'\u4e0e\u4e0a\u4e0b\u6587\u4e0d\u7b26\u3002"
+      "options": ["A. Each group had a different job.", "B. Everyone felt proud and happy.", "C. The weather was sunny and warm.", "D. On our way home, we sang songs on the bus.", "E. Some students dug holes in the ground."],
+      "correct_answer": "B",
+      "explanation": "\u7b2c(20)\u7a7a\u524d\u9762\u8bf4\u5230\u4e2d\u5348\u79cd\u4e8650\u591a\u68f5\u6811\uff0c\u540e\u9762\u8bf4\u5408\u5f71\u5e76\u7ea6\u5b9a\u6bcf\u6708\u56de\u6765\u6d47\u6c34\u3002\u79cd\u5b8c\u6811\u540e\u5927\u5bb6'\u611f\u5230\u81ea\u8c6a\u548c\u5f00\u5fc3'\uff08Everyone felt proud and happy\uff09\u6700\u7b26\u5408\u903b\u8f91\uff0c\u627f\u4e0a\u542f\u4e0b\u3002"
+    },
+    {
+      "id": 21,
+      "type": "fill",
+      "group": "fill_1",
+      "knowledge_point": "sentence_fill",
+      "stem": "(21)",
+      "options": ["A. Each group had a different job.", "B. Everyone felt proud and happy.", "C. The weather was sunny and warm.", "D. On our way home, we sang songs on the bus.", "E. Some students dug holes in the ground."],
+      "correct_answer": "D",
+      "explanation": "\u7b2c(21)\u7a7a\u5728\u672b\u6bb5\u5f00\u5934\uff0c\u540e\u9762\u8bf4'It was tiring but meaningful'\u662f\u603b\u7ed3\u611f\u60f3\u3002D'On our way home, we sang songs on the bus'\u63cf\u8ff0\u56de\u5bb6\u8def\u4e0a\u7684\u60c5\u666f\uff0c\u662f\u6d3b\u52a8\u7ed3\u675f\u5230\u603b\u7ed3\u4e4b\u95f4\u7684\u81ea\u7136\u8fc7\u6e21\u3002\u5e72\u6270\u9879A\uff08Each group had a different job\uff09\u653e\u8fd9\u91cc\u4e0d\u5408\u903b\u8f91\u3002"
     }
   ]
 }

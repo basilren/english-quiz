@@ -225,7 +225,7 @@ var quizData;
   var dt = quizData.date || "";
   var m = dt.match(/(\d{4})-(\d{2})-(\d{2})/);
   if (m) {
-    document.getElementById("subtitleText").textContent = "第 " + (quizData.day||41) + " 天 \u00b7 第 " + (quizData.session_number||1) + " 组 \u00b7 " + m[1] + "年" + parseInt(m[2],10) + "月" + parseInt(m[3],10) + "日";
+    document.getElementById("subtitleText").textContent = "第 " + (quizData.day||42) + " 天 \u00b7 第 " + (quizData.session_number||1) + " 组 \u00b7 " + m[1] + "年" + parseInt(m[2],10) + "月" + parseInt(m[3],10) + "日";
   }
 })();
 var typeShortLabels = {vocabulary:'词汇',grammar:'语法',cloze:'完形',reading:'阅读',fill:'填空'};

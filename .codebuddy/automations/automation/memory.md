@@ -115,6 +115,18 @@
 - 难度级别：完形3，语法/词汇/阅读2，短文填空2
 - Git push 成功：49a9096
 
+### 2026-05-06 11:00 - Day 40 Session 1
+- 生成 21 道题：语法 5 题（现在完成时×2 been/gone+非延续性动词leave→be away from、宾语从句×2 whether+时态呼应+if引导、定语从句×1 who作主语）、词汇 3 题（word_form×1 alone vs lonely、phrase_collocation×1 develop habits、context_word×1 impossible前缀im-）、完形填空 5 题（**难度3** 校园交换日Swap Day-从质疑到发现价值，含 exchange...for/silly/treasure/surprise/finding 固定搭配+跨句推理+反义对比）、阅读理解 4 题（科普-森林浴Shinrin-yoku，含细节+推理+词义猜测prescribe+主旨大意）、短文填空 4 题（农场研学Green Valley Farm，5选4含干扰项E）
+- 弱项加权：现在完成时(50%)×2、宾语从句(50%)×2 持续强化；定语从句(relative_clause)巩固
+- 新主题：完形-校园交换日、阅读-森林浴、填空-农场研学（避开已用主题）
+- 难度级别：完形3，语法/词汇/阅读2，短文填空2
+- Git push 成功：6ef8c45
+
+
+
+
+
+
 
 
 
