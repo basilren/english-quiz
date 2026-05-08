@@ -266,6 +266,13 @@
       "total": 20,
       "correct": 17,
       "rate": 85
+    },
+    {
+      "date": "2026-05-08",
+      "session": 1,
+      "total": 20,
+      "correct": 14,
+      "rate": 70
     }
   ],
   "errors": [
@@ -518,6 +525,117 @@
       "correct_answer": "B",
       "student_answer": "D",
       "explanation": "文章围绕暗夜公园的概念、光污染对人和动物的危害以及城市采取的措施展开，核心论点是'为什么我们需要黑暗的天空'。A 只涉及建设方法（文中未详述）；C 只涉及一个组织的历史（非重点）；D 只覆盖第四段部分内容。"
+    },
+    {
+      "date": "2026-05-08",
+      "session": 1,
+      "question_id": 10,
+      "type": "cloze",
+      "knowledge_point": "cloze_general",
+      "label": "完形填空",
+      "stem": "(10)_____",
+      "options": [
+        "A. slowly",
+        "B. quietly",
+        "C. tightly",
+        "D. quickly"
+      ],
+      "correct_answer": "C",
+      "student_answer": "B",
+      "explanation": "本题考查副词词义辨析。tightly紧紧地，turn off the taps tightly意为'关紧水龙头'，与save water（节约用水）逻辑一致。slowly慢慢地；quietly安静地；quickly快速地。只有tightily能体现节约用水的动作要求。"
+    },
+    {
+      "date": "2026-05-08",
+      "session": 1,
+      "question_id": 12,
+      "type": "cloze",
+      "knowledge_point": "cloze_general",
+      "label": "完形填空",
+      "stem": "(12)_____",
+      "options": [
+        "A. afraid",
+        "B. proud",
+        "C. careful",
+        "D. aware"
+      ],
+      "correct_answer": "D",
+      "student_answer": "B",
+      "explanation": "本题考查固定搭配。be/become aware of是固定短语，意为'意识到'，符合句意'学生们变得更加有环保意识'。afraid害怕（be afraid of）；proud自豪（be proud of）；careful小心的（通常与with/about搭配）。"
+    },
+    {
+      "date": "2026-05-08",
+      "session": 1,
+      "question_id": 14,
+      "type": "reading",
+      "knowledge_point": "inference",
+      "label": "阅读-推理判断",
+      "stem": "What can we learn about smart homes from the passage?",
+      "options": [
+        "A. They are perfect without any problems.",
+        "B. They are cheap enough for every family.",
+        "C. They may bring safety risks if not protected well.",
+        "D. They will replace traditional homes completely soon."
+      ],
+      "correct_answer": "C",
+      "student_answer": "D",
+      "explanation": "本题考查推理判断。根据第三段'If hackers break into the system, they might control your home devices or steal your personal information'可推知，如果系统保护不好（if not protected well），会有安全风险。A项与第三段'also have some problems'矛盾；B项与'often expensive. Not every family can afford them'矛盾；D项'completely soon'过于绝对，文中未提及。解题技巧：推理题要基于原文信息合理推断，避免过度推断或与原文矛盾的选项。"
+    },
+    {
+      "date": "2026-05-08",
+      "session": 1,
+      "question_id": 17,
+      "type": "fill",
+      "knowledge_point": "sentence_fill",
+      "label": "短文填空",
+      "stem": "(17)_____",
+      "options": [
+        "A. This way, you won't waste time deciding what to do next.",
+        "B. However, playing video games for hours is not a good choice.",
+        "C. The key is to plan your time wisely.",
+        "D. Then, when it's time to relax, you can fully enjoy your hobbies without worry.",
+        "E. As a result, many students feel stressed and unhappy."
+      ],
+      "correct_answer": "C",
+      "student_answer": "A",
+      "explanation": "本题考查段落衔接。前句讲问题（学习或娱乐过度），后句讲'以下是解决建议'，此处需要过渡句引出解决方案。C项'关键是要明智地规划时间'承上启下，既总结问题根源，又引出下文的tips。E项虽讲结果，但与后文建议衔接不如C紧密；A、B、D与上下文逻辑不符。"
+    },
+    {
+      "date": "2026-05-08",
+      "session": 1,
+      "question_id": 18,
+      "type": "fill",
+      "knowledge_point": "sentence_fill",
+      "label": "短文填空",
+      "stem": "(18)_____",
+      "options": [
+        "A. This way, you won't waste time deciding what to do next.",
+        "B. However, playing video games for hours is not a good choice.",
+        "C. The key is to plan your time wisely.",
+        "D. Then, when it's time to relax, you can fully enjoy your hobbies without worry.",
+        "E. As a result, many students feel stressed and unhappy."
+      ],
+      "correct_answer": "A",
+      "student_answer": "D",
+      "explanation": "本题考查逻辑关系。前句讲'制定计划，写下任务，设定时间'，A项'这样，你就不会浪费时间去决定下一步做什么'是前句的结果/好处，this way指代前文的make a schedule。for example后的内容也具体展示了按计划行事的情景，与A项逻辑一致。"
+    },
+    {
+      "date": "2026-05-08",
+      "session": 1,
+      "question_id": 20,
+      "type": "fill",
+      "knowledge_point": "sentence_fill",
+      "label": "短文填空",
+      "stem": "(20)_____",
+      "options": [
+        "A. This way, you won't waste time deciding what to do next.",
+        "B. However, playing video games for hours is not a good choice.",
+        "C. The key is to plan your time wisely.",
+        "D. Then, when it's time to relax, you can fully enjoy your hobbies without worry.",
+        "E. As a result, many students feel stressed and unhappy."
+      ],
+      "correct_answer": "D",
+      "student_answer": "E",
+      "explanation": "本题考查时间顺序和逻辑衔接。前句讲'学习时放下手机专注作业'，D项'然后，当放松时间到了，你可以毫无顾虑地享受爱好'中then表示时间递进，与when it's study time形成对应（study time vs time to relax），体现平衡学习与娱乐的主题。without worry也呼应了专注学习后的心理状态。"
     }
   ]
 }
