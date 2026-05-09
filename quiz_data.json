@@ -88,6 +88,8 @@
     {
       "id": 9,
       "type": "cloze",
+      "knowledge_point": "cloze_emotion",
+      "difficulty": 2,
       "group": "cloze_1",
       "group_passage": "Last month, our school held a special 'Kindness Week'. The headteacher announced that every student should do at least one kind thing for (9)_____ each day.\n\nAt first, many students thought it was (10)_____. 'Why do we need a special week to be nice?' said Jack. But our teacher, Ms. Chen, (11)_____ us that small acts of kindness can make a big difference.\n\nOn Monday, I helped a younger student who had (12)_____ his way to the library. On Tuesday, I wrote a thank-you note to the school cleaner. By Wednesday, something strange happened -- I actually felt (13)_____ doing kind things! It was no longer a task; it became a habit.\n\nAt the end of the week, the whole school had changed. Students were holding doors, sharing snacks, and saying 'thank you' more often. Jack, who had complained at first, even started a 'Kindness Board' where people could post nice messages. Ms. Chen smiled and said, 'See? Kindness is like a seed -- once you plant it, it (14)_____ on its own.'",
       "knowledge_point": "cloze_general",
@@ -99,6 +101,8 @@
     {
       "id": 10,
       "type": "cloze",
+      "knowledge_point": "cloze_fixed_phrase",
+      "difficulty": 1,
       "group": "cloze_1",
       "knowledge_point": "cloze_general",
       "stem": "(10)",
@@ -109,6 +113,8 @@
     {
       "id": 11,
       "type": "cloze",
+      "knowledge_point": "cloze_logic",
+      "difficulty": 2,
       "group": "cloze_1",
       "knowledge_point": "cloze_general",
       "stem": "(11)",
@@ -119,6 +125,8 @@
     {
       "id": 12,
       "type": "cloze",
+      "knowledge_point": "cloze_logic",
+      "difficulty": 1,
       "group": "cloze_1",
       "knowledge_point": "cloze_general",
       "stem": "(12)",
@@ -201,7 +209,6 @@
     {
       "id": 20,
       "type": "fill",
-      "group": "fill_1",
       "knowledge_point": "sentence_fill",
       "stem": "(20)",
       "options": ["A. Li Ming was very excited because he loved watching birds.", "B. Each group was asked to explore a different area of the park.", "C. Wang Mei walked in a different direction from her group.", "D. Everyone agreed that it was the best field trip they had ever had.", "E. The students decided to stay inside because of the rain."],
