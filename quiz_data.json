@@ -1,5 +1,5 @@
 ﻿{
-  "date": "2026-05-10",
+  "date": "2026-05-11",
   "session_number": 1,
   "questions": [
     {
@@ -7,15 +7,15 @@
       "type": "grammar",
       "knowledge_point": "present_perfect_vs_past_simple",
       "difficulty": 2,
-      "stem": "I ________ the Great Wall twice. It's really amazing and I want to visit it again.",
+      "stem": "—______ you ______ your homework yet?\n—Yes, I ______ it an hour ago.",
       "options": [
-        "A. have gone to",
-        "B. have been to",
-        "C. went to",
-        "D. am going to"
+        "A. Did; finish; finished",
+        "B. Have; finished; finished",
+        "C. Have; finished; have finished",
+        "D. Did; finish; have finished"
       ],
       "correct_answer": "B",
-      "explanation": "本题考查现在完成时与一般过去时的区别。句中'twice'（两次）是表示经历的动作次数，是现在完成时的标志词。'have been to'表示'去过某地（已返回）'，符合语境；'have gone to'表示'去了某地（未回）'，与后文'想再去'矛盾；一般过去时'went'不能与twice搭配表示经历；'am going to'是将来时。解题技巧：看到表示次数的词语（once, twice, never等）优先考虑现在完成时have been to。",
+      "explanation": "正确答案是B。第一空根据yet（已经/还）这个标志词，可知问句要用现在完成时（Have...finished），表示过去动作对现在的影响；第二空根据an hour ago（一小时前）这个具体的过去时间状语，可知答句要用一般过去时（finished）。A选项第一空用Did，与yet搭配不当；C选项第二空用have finished，与ago矛盾；D选项第一空用Did，第二空用have finished，都不符合时间状语的要求。解题技巧：看到yet/ever/never/already/just用现在完成时；看到yesterday/ago/last week用一般过去时。",
       "label": "语法题"
     },
     {
@@ -23,15 +23,15 @@
       "type": "grammar",
       "knowledge_point": "relative_clause_who_which",
       "difficulty": 2,
-      "stem": "The boy ________ is wearing a red jacket is my cousin. He just moved here last week.",
+      "stem": "The boy ______ is wearing a red jacket is my cousin.",
       "options": [
-        "A. which",
-        "B. who",
+        "A. who",
+        "B. which",
         "C. whom",
-        "D. what"
+        "D. whose"
       ],
-      "correct_answer": "B",
-      "explanation": "本题考查定语从句关系代词的选择。先行词'the boy'指人，排除指物的which和不能引导定语从句的what。定语从句'____ is wearing a red jacket'缺少主语，who和whom都指人，但who作主语，whom作宾语。此处需要主格，故选who。解题技巧：指人用who/whom/that，指物用which/that；从句缺主语用who/which，缺宾语可用whom/who/which。",
+      "correct_answer": "A",
+      "explanation": "正确答案是A。先行词是The boy（指人），且关系代词在定语从句中作主语（is wearing的主语），所以用who。B选项which用于指物；C选项whom虽然指人，但只能作宾语，不能作主语；D选项whose表示'...的'，在从句中作定语，后面需要接名词。解题技巧：指人用who/whom/that，指物用which/that；看空后是否缺主语，缺主语用who/which，不缺主语可用whom/whose。",
       "label": "语法题"
     },
     {
@@ -39,15 +39,15 @@
       "type": "grammar",
       "knowledge_point": "passive_voice",
       "difficulty": 1,
-      "stem": "These books ________ to the school library tomorrow morning.",
+      "stem": "The book ______ by many students in our class last month.",
       "options": [
-        "A. return",
-        "B. returned",
-        "C. will be returned",
-        "D. are returned"
+        "A. is read",
+        "B. was read",
+        "C. reads",
+        "D. read"
       ],
-      "correct_answer": "C",
-      "explanation": "本题考查被动语态。主语'These books'与动词'return'是被动关系（书被归还），需用被动语态be+过去分词。时间状语'tomorrow morning'表示将来，因此用一般将来时的被动语态'will be returned'。A是主动语态原形，B是过去式，D是一般现在时被动，均不符合时间状语。解题技巧：先判断主被动（看主语是动作执行者还是承受者），再判断时态（看时间状语）。",
+      "correct_answer": "B",
+      "explanation": "正确答案是B。根据时间状语last month（上个月）可知用一般过去时；主语The book与read之间是被动关系（书被读），所以用一般过去时的被动语态was read。A选项is read是一般现在时的被动语态，时态不符；C选项reads是主动语态；D选项read是主动语态的过去式或原形。解题技巧：被动语态结构为be+done，先根据时间确定be的时态，再看主语单复数。",
       "label": "语法题"
     },
     {
@@ -55,7 +55,7 @@
       "type": "grammar",
       "knowledge_point": "modal_verbs_speculation",
       "difficulty": 3,
-      "stem": "—Is that Mr. Wang knocking at the door?\n—It ________ be him. He has gone to Shanghai on business and won't be back until next Friday.",
+      "stem": "—Is that Mr. Wang knocking at the door?\n—It ______ be him. He has gone to Shanghai on business.",
       "options": [
         "A. must",
         "B. might",
@@ -63,218 +63,218 @@
         "D. should"
       ],
       "correct_answer": "C",
-      "explanation": "本题考查情态动词表推测。根据'He has gone to Shanghai'（他去上海了，未回）和'won't be back until next Friday'（下周五才回）可知，敲门的'不可能'是他。can't表示'不可能'，用于否定推测；must表示'一定是'（肯定推测）；might表示'可能是'（不确定）；should表示'应该是'。解题技巧：has gone to表示去了未回，看到这种情况要注意是否定推测的信号。",
+      "explanation": "正确答案是C。根据后句'He has gone to Shanghai'（他去上海出差了，现在还没回来）可知，敲门的人'不可能'是王老师。can't表示'不可能'，用于否定推测。A选项must表示'一定是'，与句意相反；B选项might表示'可能是'，语气不确定，但此处是确定不可能；D选项should表示'应该'，不表示推测。解题技巧：must表肯定推测'一定是'，can't表否定推测'不可能是'，might/may表不确定推测'可能是'。",
       "label": "语法题"
     },
     {
       "id": 5,
       "type": "vocabulary",
-      "knowledge_point": "phrasal_verbs",
+      "knowledge_point": "word_meaning_context",
       "difficulty": 2,
-      "stem": "We should ________ good habits of reading every day. It helps us learn better and opens up our minds.",
+      "stem": "The task is too difficult. I think it is ______ for a 10-year-old child to finish it alone.",
       "options": [
-        "A. take",
-        "B. make",
-        "C. develop",
-        "D. grow"
+        "A. possible",
+        "B. impossible",
+        "C. necessary",
+        "D. important"
       ],
-      "correct_answer": "C",
-      "explanation": "本题考查固定搭配。'develop habits'是固定搭配，意为'养成习惯'。take表示'拿、花费'；make表示'制作'；grow表示'生长'，虽然中文有时说'养成'，但英文中habits与develop搭配。解题技巧：记住常见搭配develop/form good habits（养成好习惯），get into bad habits（沾染坏习惯）。",
+      "correct_answer": "B",
+      "explanation": "正确答案是B。根据前句'too difficult'（太难了）可知，对10岁孩子来说'不可能'独自完成。impossible意为'不可能的'。A选项possible（可能的）与句意相反；C选项necessary（必要的）和D选项important（重要的）与difficult的语境不符。解题技巧：利用上下文逻辑关系，前句说困难，后句应选负面词汇；注意im-前缀表否定。",
       "label": "词汇题"
     },
     {
       "id": 6,
       "type": "vocabulary",
-      "knowledge_point": "word_discrimination",
-      "difficulty": 2,
-      "stem": "The task is too difficult. I think it is ________ for a 10-year-old child to finish it alone in such a short time.",
+      "knowledge_point": "prefix_suffix",
+      "difficulty": 1,
+      "stem": "If you add 'un-' to the word 'happy', you get 'unhappy', which means feeling sad. Similarly, 'healthy' becomes '______' meaning not in good health.",
       "options": [
-        "A. possible",
-        "B. impossible",
-        "C. easy",
-        "D. necessary"
+        "A. unhealthy",
+        "B. rehealthy",
+        "C. dishealthy",
+        "D. imhealthy"
       ],
-      "correct_answer": "B",
-      "explanation": "本题考查词义辨析和语境理解。前句说'too difficult'（太难），因此推断对10岁孩子来说'不可能'完成。impossible表示'不可能的'；possible表示'可能的'，与语境相反；easy表示'容易的'，也与语境相反；necessary表示'必要的'，不符合逻辑。解题技巧：注意前句的提示词too difficult，这是解题关键。",
+      "correct_answer": "A",
+      "explanation": "正确答案是A。前缀un-表示'不、非'，加在形容词前构成反义词，如happy-unhappy, healthy-unhealthy。B选项re-表示'再次'；C选项dis-虽然也表示否定，但通常不与healthy搭配；D选项im-通常加在以b/m/p开头的形容词前（如impossible）。解题技巧：常见否定前缀：un-（最常见）、dis-（如dislike）、im-（如impossible）、in-（如incorrect）、ir-（如irregular）。",
       "label": "词汇题"
     },
     {
       "id": 7,
       "type": "vocabulary",
-      "knowledge_point": "word_formation",
-      "difficulty": 1,
-      "stem": "The good news made everyone ________. They all smiled happily and cheered loudly.",
+      "knowledge_point": "phrasal_verbs",
+      "difficulty": 2,
+      "stem": "We need to _______ a good plan to protect the environment in our school.",
       "options": [
-        "A. happily",
-        "B. happy",
-        "C. unhappy",
-        "D. happiness"
+        "A. come up with",
+        "B. look forward to",
+        "C. get on with",
+        "D. look up to"
       ],
-      "correct_answer": "B",
-      "explanation": "本题考查词性转换和make的用法。'make sb. + adj.'是固定结构，表示'使某人……'，需要形容词作宾补。happily是副词，happiness是名词，均不符合语法；unhappy（不高兴的）与后文'smiled happily'矛盾；happy（高兴的）符合语境。解题技巧：make/keep/find/think+宾语+形容词（作宾补），这是初中重点结构。",
+      "correct_answer": "A",
+      "explanation": "正确答案是A。come up with意为'想出、提出（主意、计划等）'，与plan搭配恰当。B选项look forward to意为'期待'，后接名词或doing，不与plan搭配表示'制定计划'；C选项get on with意为'与...相处'或'继续做'；D选项look up to意为'尊敬、敬仰'。解题技巧：come up with = think up（想出），重点记忆与plan/idea/solution的搭配。",
       "label": "词汇题"
     },
     {
       "id": 8,
       "type": "cloze",
-      "knowledge_point": "cloze_context",
-      "difficulty": 2,
+      "knowledge_point": "cloze_general",
+      "difficulty": 1,
       "stem": "(8)______",
       "options": [
-        "A. find out",
-        "B. look for",
-        "C. search",
-        "D. make up"
+        "A. gave",
+        "B. gives",
+        "C. is giving",
+        "D. has given"
       ],
       "correct_answer": "A",
-      "explanation": "本题考查动词短语辨析。语境是'找出减少浪费的方法'。find out强调经过调查、研究发现、弄清楚；look for强调寻找的动作；search后常接for；make up表示'编造、组成'。此处指'查明、找出'方法，find out最恰当。解题技巧：find out侧重于找到抽象的答案、方法、真相；look for侧重于寻找具体物品。",
+      "explanation": "正确答案是A。根据上下文，故事发生在last month（上个月），整体时态为一般过去时，此处描述老师'给我们做演讲'，用give的过去式gave。B选项是一般现在时第三人称单数；C是现在进行时；D是现在完成时，均与全文时态不符。解题技巧：完形填空首先通读全文把握时态背景，本文讲述过去的事件，主体时态为一般过去时。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our class started a special project about environmental protection. We were asked to (8)______ ways to reduce waste in our school. At first, I thought it would be boring, but later I found it quite (9)______.\n\nMy group decided to (10)______ on paper recycling. We found that tons of paper (11)______ away every semester. To solve this problem, we set up recycling boxes in each classroom. We also made posters to tell students the (12)______ of saving paper.\n\nThe project lasted for three weeks. When we presented our results to the whole school, everyone was surprised by the changes we had made. Now our school saves about 30% paper each month. This experience taught me that small actions can make a big difference."
+      "group_passage": "Last month, our school started a new project called \"Green Campus\". The goal was to make our school more environmentally friendly. All students were encouraged to take part in this meaningful activity.\n\nOn the first day, our teacher Mr. Li (8)______ us a talk about the importance of protecting the environment. He told us that small actions could make a big difference. Then, we were divided into groups to work on different tasks.\n\nMy group was responsible for (9)______ the school garden. We found that there was too much rubbish around the trees. It took us two hours to clean it all up. Although we felt tired, we were happy to see the garden become clean and tidy (10)______.\n\nAnother group set up several recycling boxes in each classroom. They also made posters to teach students how to sort waste (11)______. By the end of the week, everyone in our school became more aware of environmental protection.\n\nThis project has not only improved our school environment but also taught us the value of teamwork. We hope to (12)______ such activities in the future to make our world a better place."
     },
     {
       "id": 9,
       "type": "cloze",
-      "knowledge_point": "cloze_emotion",
-      "difficulty": 1,
+      "knowledge_point": "cloze_general",
+      "difficulty": 2,
       "stem": "(9)______",
       "options": [
-        "A. boring",
-        "B. difficult",
-        "C. interesting",
-        "D. necessary"
+        "A. clean",
+        "B. cleaning",
+        "C. to cleaning",
+        "D. cleaned"
       ],
-      "correct_answer": "C",
-      "explanation": "本题考查情感线索和转折关系。前句说'起初我以为会很无聊'，but表示转折，因此后句应表达相反的情感，即'有趣的'。boring（无聊的）与转折矛盾；difficult（困难的）和necessary（必要的）不能形成与boring的对比转折。interesting（有趣的）符合逻辑。解题技巧：看到but/however等转折词，前后语义通常相反。",
+      "correct_answer": "B",
+      "explanation": "正确答案是B。be responsible for是固定搭配，意为'对...负责'，其中for是介词，后面接名词或动名词（doing形式）。cleaning是clean的动名词形式。A选项是动词原形；C选项介词后不能接to do；D选项是过去式或过去分词。解题技巧：介词（in/on/at/for/of等）后面接动词时，要用动名词形式（doing）。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our class started a special project about environmental protection. We were asked to (8)______ ways to reduce waste in our school. At first, I thought it would be boring, but later I found it quite (9)______.\n\nMy group decided to (10)______ on paper recycling. We found that tons of paper (11)______ away every semester. To solve this problem, we set up recycling boxes in each classroom. We also made posters to tell students the (12)______ of saving paper.\n\nThe project lasted for three weeks. When we presented our results to the whole school, everyone was surprised by the changes we had made. Now our school saves about 30% paper each month. This experience taught me that small actions can make a big difference."
+      "group_passage": "Last month, our school started a new project called \"Green Campus\". The goal was to make our school more environmentally friendly. All students were encouraged to take part in this meaningful activity.\n\nOn the first day, our teacher Mr. Li (8)______ us a talk about the importance of protecting the environment. He told us that small actions could make a big difference. Then, we were divided into groups to work on different tasks.\n\nMy group was responsible for (9)______ the school garden. We found that there was too much rubbish around the trees. It took us two hours to clean it all up. Although we felt tired, we were happy to see the garden become clean and tidy (10)______.\n\nAnother group set up several recycling boxes in each classroom. They also made posters to teach students how to sort waste (11)______. By the end of the week, everyone in our school became more aware of environmental protection.\n\nThis project has not only improved our school environment but also taught us the value of teamwork. We hope to (12)______ such activities in the future to make our world a better place."
     },
     {
       "id": 10,
       "type": "cloze",
-      "knowledge_point": "cloze_collocation",
-      "difficulty": 2,
+      "knowledge_point": "cloze_general",
+      "difficulty": 1,
       "stem": "(10)______",
       "options": [
-        "A. focus",
-        "B. look",
-        "C. carry",
-        "D. put"
+        "A. again",
+        "B. too",
+        "C. either",
+        "D. also"
       ],
       "correct_answer": "A",
-      "explanation": "本题考查固定搭配。'focus on'是固定短语，意为'专注于、集中于'，符合语境'我们小组决定专注于纸张回收'。look on表示'旁观'；carry on表示'继续'；put on表示'穿上'，均不符合语境。解题技巧：记住常见短语focus on...（专注于……），concentrate on...（集中于……）。",
+      "explanation": "正确答案是A。again意为'又、再'，表示花园'再次'变得干净整洁（之前是脏的，打扫后恢复了干净）。B选项too（也）通常用于句末，但意思不符；C选项either用于否定句句末；D选项also（也）用于句中。解题技巧：根据上下文逻辑，此处强调'恢复原状'，用again最贴切。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our class started a special project about environmental protection. We were asked to (8)______ ways to reduce waste in our school. At first, I thought it would be boring, but later I found it quite (9)______.\n\nMy group decided to (10)______ on paper recycling. We found that tons of paper (11)______ away every semester. To solve this problem, we set up recycling boxes in each classroom. We also made posters to tell students the (12)______ of saving paper.\n\nThe project lasted for three weeks. When we presented our results to the whole school, everyone was surprised by the changes we had made. Now our school saves about 30% paper each month. This experience taught me that small actions can make a big difference."
+      "group_passage": "Last month, our school started a new project called \"Green Campus\". The goal was to make our school more environmentally friendly. All students were encouraged to take part in this meaningful activity.\n\nOn the first day, our teacher Mr. Li (8)______ us a talk about the importance of protecting the environment. He told us that small actions could make a big difference. Then, we were divided into groups to work on different tasks.\n\nMy group was responsible for (9)______ the school garden. We found that there was too much rubbish around the trees. It took us two hours to clean it all up. Although we felt tired, we were happy to see the garden become clean and tidy (10)______.\n\nAnother group set up several recycling boxes in each classroom. They also made posters to teach students how to sort waste (11)______. By the end of the week, everyone in our school became more aware of environmental protection.\n\nThis project has not only improved our school environment but also taught us the value of teamwork. We hope to (12)______ such activities in the future to make our world a better place."
     },
     {
       "id": 11,
       "type": "cloze",
-      "knowledge_point": "passive_voice",
+      "knowledge_point": "cloze_general",
       "difficulty": 2,
       "stem": "(11)______",
       "options": [
-        "A. was thrown",
-        "B. were thrown",
-        "C. have thrown",
-        "D. threw"
+        "A. correct",
+        "B. correctly",
+        "C. incorrect",
+        "D. incorrectly"
       ],
       "correct_answer": "B",
-      "explanation": "本题考查被动语态和主谓一致。paper与throw away（扔掉）是被动关系，且tons of paper（数吨纸）是复数概念，因此用were thrown。was thrown用于单数；have thrown和threw都是主动语态。解题技巧：tons of+名词，谓语动词与tons保持一致，用复数；paper是不可数名词，但tons是复数。",
+      "explanation": "正确答案是B。此处需要副词修饰动词sort（分类），表示'正确地分类垃圾'。correctly是correct的副词形式。A和C是形容词，不能修饰动词；D选项incorrectly（错误地）与句意相反。解题技巧：修饰动词要用副词，一般在形容词后加-ly构成副词；根据上下文，制作海报是为了教学生'正确'分类，而非错误分类。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our class started a special project about environmental protection. We were asked to (8)______ ways to reduce waste in our school. At first, I thought it would be boring, but later I found it quite (9)______.\n\nMy group decided to (10)______ on paper recycling. We found that tons of paper (11)______ away every semester. To solve this problem, we set up recycling boxes in each classroom. We also made posters to tell students the (12)______ of saving paper.\n\nThe project lasted for three weeks. When we presented our results to the whole school, everyone was surprised by the changes we had made. Now our school saves about 30% paper each month. This experience taught me that small actions can make a big difference."
+      "group_passage": "Last month, our school started a new project called \"Green Campus\". The goal was to make our school more environmentally friendly. All students were encouraged to take part in this meaningful activity.\n\nOn the first day, our teacher Mr. Li (8)______ us a talk about the importance of protecting the environment. He told us that small actions could make a big difference. Then, we were divided into groups to work on different tasks.\n\nMy group was responsible for (9)______ the school garden. We found that there was too much rubbish around the trees. It took us two hours to clean it all up. Although we felt tired, we were happy to see the garden become clean and tidy (10)______.\n\nAnother group set up several recycling boxes in each classroom. They also made posters to teach students how to sort waste (11)______. By the end of the week, everyone in our school became more aware of environmental protection.\n\nThis project has not only improved our school environment but also taught us the value of teamwork. We hope to (12)______ such activities in the future to make our world a better place."
     },
     {
       "id": 12,
       "type": "cloze",
-      "knowledge_point": "cloze_context",
-      "difficulty": 1,
+      "knowledge_point": "cloze_general",
+      "difficulty": 2,
       "stem": "(12)______",
       "options": [
-        "A. importance",
-        "B. way",
-        "C. method",
-        "D. result"
+        "A. continue",
+        "B. stop",
+        "C. forget",
+        "D. refuse"
       ],
       "correct_answer": "A",
-      "explanation": "本题考查名词辨析和语境理解。制作海报是为了告诉学生节约用纸的'重要性'，the importance of...是常用搭配。way和method都表示'方法'，但此处是宣传节约用纸的意义而非方法；result（结果）不符合语境。解题技巧：the importance of...（……的重要性）是初中完形高频考点。",
+      "explanation": "正确答案是A。continue意为'继续'，符合句意'我们希望将来继续这样的活动'。B选项stop（停止）、C选项forget（忘记）、D选项refuse（拒绝）均与上下文表达的积极态度不符。前文提到活动不仅改善了环境还教会了团队合作价值，所以应该是希望'继续'。解题技巧：根据文章情感线索，结尾通常是升华主题，表达希望持续或推广，选积极词汇。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our class started a special project about environmental protection. We were asked to (8)______ ways to reduce waste in our school. At first, I thought it would be boring, but later I found it quite (9)______.\n\nMy group decided to (10)______ on paper recycling. We found that tons of paper (11)______ away every semester. To solve this problem, we set up recycling boxes in each classroom. We also made posters to tell students the (12)______ of saving paper.\n\nThe project lasted for three weeks. When we presented our results to the whole school, everyone was surprised by the changes we had made. Now our school saves about 30% paper each month. This experience taught me that small actions can make a big difference."
+      "group_passage": "Last month, our school started a new project called \"Green Campus\". The goal was to make our school more environmentally friendly. All students were encouraged to take part in this meaningful activity.\n\nOn the first day, our teacher Mr. Li (8)______ us a talk about the importance of protecting the environment. He told us that small actions could make a big difference. Then, we were divided into groups to work on different tasks.\n\nMy group was responsible for (9)______ the school garden. We found that there was too much rubbish around the trees. It took us two hours to clean it all up. Although we felt tired, we were happy to see the garden become clean and tidy (10)______.\n\nAnother group set up several recycling boxes in each classroom. They also made posters to teach students how to sort waste (11)______. By the end of the week, everyone in our school became more aware of environmental protection.\n\nThis project has not only improved our school environment but also taught us the value of teamwork. We hope to (12)______ such activities in the future to make our world a better place."
     },
     {
       "id": 13,
       "type": "reading",
       "knowledge_point": "detail",
-      "difficulty": 1,
-      "stem": "What can smart lights do according to the passage?",
+      "difficulty": 2,
+      "stem": "According to the passage, how many hours of sleep do teenagers need every night?",
       "options": [
-        "A. They can clean the room automatically.",
-        "B. They turn on when someone enters and adjust brightness by time.",
-        "C. They only work during the daytime.",
-        "D. They can control the room temperature."
+        "A. 6-7 hours",
+        "B. 7-8 hours",
+        "C. 8-10 hours",
+        "D. 10-12 hours"
       ],
-      "correct_answer": "B",
-      "explanation": "本题是细节理解题。根据第二段第二句'smart lights can turn on automatically when you enter a room and adjust their brightness based on the time of day'可知，智能灯可以在人进入房间时自动开启，并根据一天中的时间调整亮度。A选项'清洁房间'文中未提；C选项'只在白天工作'与原文相反；D选项'控制室温'是恒温器的功能。解题技巧：细节题要精准定位原文，找到关键词smart lights所在句子，比对选项与原文的同义替换。",
+      "correct_answer": "C",
+      "explanation": "正确答案是C。根据文章第一段第二句'Studies show that teenagers need about 8 to 10 hours of sleep every night.'可知，青少年每晚需要8-10小时睡眠。这是直接细节题，在原文中可直接找到答案。A、B选项数量不足，D选项过多。解题技巧：细节理解题采用'关键词定位法'，在题干中找出teenagers/hours等关键词，快速定位到原文第一段查找具体数字。",
       "label": "阅读-细节理解",
       "group": "reading_1",
-      "group_passage": "Imagine living in a house that knows you better than you know yourself. This is not science fiction—it's the reality of smart homes.\n\nSmart homes use advanced technology to make our lives easier and more comfortable. For example, smart lights can turn on automatically when you enter a room and adjust their brightness based on the time of day. Smart thermostats (恒温器) learn your daily routine and set the perfect temperature before you even get home.\n\nHowever, smart homes are not just about convenience. They also help save energy. When no one is in the house, the system turns off unnecessary lights and appliances (电器). Studies show that smart homes can reduce energy use by up to 30%.\n\nDespite these benefits, some people worry about privacy. Smart home devices collect data about our daily habits. If this information falls into the wrong hands, it could be dangerous. Therefore, it is important to choose trustworthy brands and regularly update passwords.\n\nAs technology continues to advance, smart homes will become more common. Perhaps in the near future, everyone will live in a house that takes care of them."
+      "group_passage": "Sleep is very important for middle school students. Studies show that teenagers need about 8 to 10 hours of sleep every night. However, many students don't get enough sleep because of heavy homework and the use of electronic devices.\n\nScientists have found that sleep helps the brain process information learned during the day. When you sleep, your brain is actually working hard to store memories and solve problems. This is why you sometimes wake up with a solution to a difficult math problem.\n\nLack of sleep can cause many problems. It not only affects your concentration in class but also harms your health. Students who don't sleep well often feel sleepy during the day and may have trouble remembering new knowledge.\n\nTo sleep better, experts suggest creating a bedtime routine. This means going to bed at the same time every night and keeping electronic devices out of the bedroom. Regular exercise during the day can also help you fall asleep more easily, but avoid doing sports right before bedtime.\n\nRemember, good sleep habits are the foundation of good learning. By improving your sleep quality, you will find yourself more energetic and efficient in your studies."
     },
     {
       "id": 14,
       "type": "reading",
       "knowledge_point": "inference",
       "difficulty": 3,
-      "stem": "What can we learn about smart homes from the passage?",
+      "stem": "What can we learn from the passage about electronic devices?",
       "options": [
-        "A. They are only popular with young people.",
-        "B. They will replace traditional homes completely next year.",
-        "C. They may have privacy risks that users should pay attention to.",
-        "D. They are too expensive for most families to afford."
+        "A. They help students finish homework faster.",
+        "B. They should be used right before sleeping.",
+        "C. They are one reason why students lack sleep.",
+        "D. They can improve memory when used at night."
       ],
       "correct_answer": "C",
-      "explanation": "本题是推理判断题。根据第四段'some people worry about privacy...If this information falls into the wrong hands, it could be dangerous'可推断，智能家居可能存在隐私风险，用户需要注意。A选项'只受年轻人欢迎'文中未提；B选项'明年完全取代传统住宅'过于绝对且时间错误；D选项'太贵'文中未提价格。解题技巧：推理题要基于原文信息合理推断，不能过度推断，也不能选择文中明确未提及的内容。",
+      "explanation": "正确答案是C。根据第一段最后一句'many students don't get enough sleep because of heavy homework and the use of electronic devices'可知，电子设备是学生睡眠不足的原因之一。A选项文中未提及；B选项与第四段'keeping electronic devices out of the bedroom'（让电子设备远离卧室）相悖；D选项文中未提及且与科学常识不符。解题技巧：推理判断题要基于原文信息合理推断，不能主观臆断，也不能选择原文明确否定的选项。",
       "label": "阅读-推理判断",
       "group": "reading_1",
-      "group_passage": "Imagine living in a house that knows you better than you know yourself. This is not science fiction—it's the reality of smart homes.\n\nSmart homes use advanced technology to make our lives easier and more comfortable. For example, smart lights can turn on automatically when you enter a room and adjust their brightness based on the time of day. Smart thermostats (恒温器) learn your daily routine and set the perfect temperature before you even get home.\n\nHowever, smart homes are not just about convenience. They also help save energy. When no one is in the house, the system turns off unnecessary lights and appliances (电器). Studies show that smart homes can reduce energy use by up to 30%.\n\nDespite these benefits, some people worry about privacy. Smart home devices collect data about our daily habits. If this information falls into the wrong hands, it could be dangerous. Therefore, it is important to choose trustworthy brands and regularly update passwords.\n\nAs technology continues to advance, smart homes will become more common. Perhaps in the near future, everyone will live in a house that takes care of them."
+      "group_passage": "Sleep is very important for middle school students. Studies show that teenagers need about 8 to 10 hours of sleep every night. However, many students don't get enough sleep because of heavy homework and the use of electronic devices.\n\nScientists have found that sleep helps the brain process information learned during the day. When you sleep, your brain is actually working hard to store memories and solve problems. This is why you sometimes wake up with a solution to a difficult math problem.\n\nLack of sleep can cause many problems. It not only affects your concentration in class but also harms your health. Students who don't sleep well often feel sleepy during the day and may have trouble remembering new knowledge.\n\nTo sleep better, experts suggest creating a bedtime routine. This means going to bed at the same time every night and keeping electronic devices out of the bedroom. Regular exercise during the day can also help you fall asleep more easily, but avoid doing sports right before bedtime.\n\nRemember, good sleep habits are the foundation of good learning. By improving your sleep quality, you will find yourself more energetic and efficient in your studies."
     },
     {
       "id": 15,
       "type": "reading",
       "knowledge_point": "word_guessing",
       "difficulty": 2,
-      "stem": "The underlined word 'adjust' in Paragraph 2 probably means ________.",
+      "stem": "The underlined word 'concentration' in Paragraph 3 probably means ______.",
       "options": [
-        "A. change",
-        "B. break",
-        "C. fix",
-        "D. buy"
+        "A. the ability to remember things",
+        "B. the ability to focus attention",
+        "C. the ability to create new ideas",
+        "D. the ability to solve problems"
       ],
-      "correct_answer": "A",
-      "explanation": "本题是词义猜测题。根据上下文'adjust their brightness based on the time of day'（根据一天中的时间____亮度），可推测adjust意为'调整、改变'。change（改变）最接近；break（打破）、fix（修理）、buy（购买）均不符合语境。解题技巧：通过上下文线索猜测词义，brightness（亮度）和time of day（时间）提示是对亮度进行调节，即改变亮度。",
+      "correct_answer": "B",
+      "explanation": "正确答案是B。根据第三段上下文'Lack of sleep can cause many problems. It not only affects your concentration in class...'（睡眠不足会影响你在课堂上的concentration），结合常识，睡眠不足会导致上课走神、无法集中注意力，所以concentration意为'注意力'。A是memory（记忆力），C是creativity（创造力），D是problem-solving ability（解决问题的能力）。解题技巧：词义猜测题利用上下文语境，看同一句或前后句的解释说明；con-前缀表示'共同'，centr-词根表示'中心'，字面意思'把思想集中在中心'即'专注'。",
       "label": "阅读-词义猜测",
       "group": "reading_1",
-      "group_passage": "Imagine living in a house that knows you better than you know yourself. This is not science fiction—it's the reality of smart homes.\n\nSmart homes use advanced technology to make our lives easier and more comfortable. For example, smart lights can turn on automatically when you enter a room and adjust their brightness based on the time of day. Smart thermostats (恒温器) learn your daily routine and set the perfect temperature before you even get home.\n\nHowever, smart homes are not just about convenience. They also help save energy. When no one is in the house, the system turns off unnecessary lights and appliances (电器). Studies show that smart homes can reduce energy use by up to 30%.\n\nDespite these benefits, some people worry about privacy. Smart home devices collect data about our daily habits. If this information falls into the wrong hands, it could be dangerous. Therefore, it is important to choose trustworthy brands and regularly update passwords.\n\nAs technology continues to advance, smart homes will become more common. Perhaps in the near future, everyone will live in a house that takes care of them."
+      "group_passage": "Sleep is very important for middle school students. Studies show that teenagers need about 8 to 10 hours of sleep every night. However, many students don't get enough sleep because of heavy homework and the use of electronic devices.\n\nScientists have found that sleep helps the brain process information learned during the day. When you sleep, your brain is actually working hard to store memories and solve problems. This is why you sometimes wake up with a solution to a difficult math problem.\n\nLack of sleep can cause many problems. It not only affects your concentration in class but also harms your health. Students who don't sleep well often feel sleepy during the day and may have trouble remembering new knowledge.\n\nTo sleep better, experts suggest creating a bedtime routine. This means going to bed at the same time every night and keeping electronic devices out of the bedroom. Regular exercise during the day can also help you fall asleep more easily, but avoid doing sports right before bedtime.\n\nRemember, good sleep habits are the foundation of good learning. By improving your sleep quality, you will find yourself more energetic and efficient in your studies."
     },
     {
       "id": 16,
       "type": "reading",
       "knowledge_point": "main_idea",
-      "difficulty": 3,
+      "difficulty": 2,
       "stem": "What is the best title for this passage?",
       "options": [
-        "A. The History of Smart Homes",
-        "B. How to Save Energy at Home",
-        "C. Smart Homes: Convenient but Challenging",
-        "D. The Dangers of Modern Technology"
+        "A. How to Do Homework Efficiently",
+        "B. The Dangers of Electronic Devices",
+        "C. Why Sleep Matters for Students",
+        "D. Ways to Exercise Before Bedtime"
       ],
       "correct_answer": "C",
-      "explanation": "本题是主旨大意题。文章既介绍了智能家居的便利（第二段）和节能（第三段），也讨论了隐私问题（第四段），因此C选项'智能家居：便利但有挑战'最全面。A选项'历史'文中未提；B选项'如何节能'只是部分内容；D选项'现代技术的危险'过于宽泛且片面。解题技巧：最佳标题要涵盖全文主要内容，既不能太宽泛也不能太片面，要体现文章的核心话题和作者的态度倾向。",
+      "explanation": "正确答案是C。文章第一段讲睡眠对青少年的重要性，第二段讲睡眠帮助大脑处理信息，第三段讲睡眠不足的危害，第四段讲如何改善睡眠，最后总结良好睡眠是良好学习的基础。全文围绕'睡眠对学生的重要性'展开。A选项只涉及作业效率，片面；B选项只涉及电子设备，是细节而非主旨；D选项只涉及运动，是细节。解题技巧：主旨大意题采用'首尾段+各段首句'法，看文章高频词（sleep出现多次），标题要概括全文而非局部细节。",
       "label": "阅读-主旨大意",
       "group": "reading_1",
-      "group_passage": "Imagine living in a house that knows you better than you know yourself. This is not science fiction—it's the reality of smart homes.\n\nSmart homes use advanced technology to make our lives easier and more comfortable. For example, smart lights can turn on automatically when you enter a room and adjust their brightness based on the time of day. Smart thermostats (恒温器) learn your daily routine and set the perfect temperature before you even get home.\n\nHowever, smart homes are not just about convenience. They also help save energy. When no one is in the house, the system turns off unnecessary lights and appliances (电器). Studies show that smart homes can reduce energy use by up to 30%.\n\nDespite these benefits, some people worry about privacy. Smart home devices collect data about our daily habits. If this information falls into the wrong hands, it could be dangerous. Therefore, it is important to choose trustworthy brands and regularly update passwords.\n\nAs technology continues to advance, smart homes will become more common. Perhaps in the near future, everyone will live in a house that takes care of them."
+      "group_passage": "Sleep is very important for middle school students. Studies show that teenagers need about 8 to 10 hours of sleep every night. However, many students don't get enough sleep because of heavy homework and the use of electronic devices.\n\nScientists have found that sleep helps the brain process information learned during the day. When you sleep, your brain is actually working hard to store memories and solve problems. This is why you sometimes wake up with a solution to a difficult math problem.\n\nLack of sleep can cause many problems. It not only affects your concentration in class but also harms your health. Students who don't sleep well often feel sleepy during the day and may have trouble remembering new knowledge.\n\nTo sleep better, experts suggest creating a bedtime routine. This means going to bed at the same time every night and keeping electronic devices out of the bedroom. Regular exercise during the day can also help you fall asleep more easily, but avoid doing sports right before bedtime.\n\nRemember, good sleep habits are the foundation of good learning. By improving your sleep quality, you will find yourself more energetic and efficient in your studies."
     },
     {
       "id": 17,
@@ -283,17 +283,17 @@
       "difficulty": 2,
       "stem": "(17)______",
       "options": [
-        "A. However, it requires a lot of money to get started.",
-        "B. First, save energy and resources in your daily life.",
-        "C. Second, choose green transportation whenever possible.",
-        "D. For example, stop using single-use plastics.",
-        "E. Finally, share your ideas with others."
+        "A. However, I kept listening and tried to follow the pronunciation.",
+        "B. In addition, I began reading English books for thirty minutes every day.",
+        "C. As a result, I failed my English exam last semester.",
+        "D. Then, I decided to give up learning English completely.",
+        "E. As a result, my English grade improved from 60 to 85 in one term."
       ],
-      "correct_answer": "B",
-      "explanation": "本题考查段落衔接和顺序词。根据文章结构，这里开始列举步骤，后文有Start with small things（从小事做起），因此这里应该是第一步。B选项'First...'（首先……）符合逻辑顺序。A选项However表转折，与上文衔接不当；C选项Second（第二）应该出现在First之后；D选项For example（例如）用于举例，不适合作为开头；E选项Finally（最后）用于结尾。解题技巧：注意文章中的顺序词first/second/third/finally，它们通常按顺序出现。",
+      "correct_answer": "C",
+      "explanation": "正确答案是C。前句提到'My English grades were poor, and I was afraid to speak in class'（我英语成绩差，不敢在课堂上发言），C选项'结果，我上学期英语考试不及格'是前文情况导致的自然结果，As a result（结果是）表示因果关系。A选项However表转折，但后文没有转折含义；B选项In addition表递进，但此处是总结结果而非添加信息；D选项决定放弃与后文'Then I decided to make some changes'（然后我决定改变）逻辑矛盾；E选项是成绩提高，与前文'成绩差'矛盾。解题技巧：选句子填空要看前后逻辑关系，此处是前因后果，用As a result连接。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Living a green life is not as hard as you think. Here are some simple steps to help protect our planet.\n\n(17)______ Start with small things like turning off lights when leaving a room or using both sides of paper. These little actions add up to big changes over time.\n\n(18)______ Instead of driving to school every day, try riding a bike or walking. This not only reduces air pollution but also keeps you fit and healthy.\n\nAnother important step is to reduce waste. (19)______ Bring your own shopping bags when going to the supermarket. Choose products with less packaging. When shopping for clothes, ask yourself if you really need them.\n\n(20)______ Talk to your friends and family about environmental protection. The more people join in, the bigger difference we can make."
+      "group_passage": "Many students find learning English difficult. I used to be one of them. My English grades were poor, and I was afraid to speak in class. (17)______ Then I decided to make some changes.\n\nFirst, I started listening to English songs every morning. At first, I couldn't understand the lyrics at all. (18)______ I looked up new words in the dictionary and wrote them down in a notebook. Slowly, I began to recognize more words.\n\n(19)______ Every weekend, I spent an hour reading simple English stories. At first, I read very slowly, but I didn't give up. After three months, I noticed that I could read much faster than before.\n\nThese methods really worked for me. (20)______ Now I am no longer afraid of English classes, and I even enjoy answering questions in English. If you are struggling with English, why not try these tips?"
     },
     {
       "id": 18,
@@ -302,17 +302,17 @@
       "difficulty": 2,
       "stem": "(18)______",
       "options": [
-        "A. However, it requires a lot of money to get started.",
-        "B. First, save energy and resources in your daily life.",
-        "C. Second, choose green transportation whenever possible.",
-        "D. For example, stop using single-use plastics.",
-        "E. Finally, share your ideas with others."
+        "A. However, I kept listening and tried to follow the pronunciation.",
+        "B. In addition, I began reading English books for thirty minutes every day.",
+        "C. As a result, I failed my English exam last semester.",
+        "D. Then, I decided to give up learning English completely.",
+        "E. As a result, my English grade improved from 60 to 85 in one term."
       ],
-      "correct_answer": "C",
-      "explanation": "本题考查段落衔接和顺序词。前文有First，后文内容关于'instead of driving...riding a bike or walking'（不开车，骑车或步行），即绿色出行方式。C选项'Second, choose green transportation...'（第二，尽可能选择绿色出行）正好承接上文并引出下文。解题技巧：关注段落间的逻辑顺序，first之后通常是second，内容要与段落中的例子相符。",
+      "correct_answer": "A",
+      "explanation": "正确答案是A。前句说'起初我根本听不懂歌词'，A选项'然而，我继续听并试着跟读'形成转折关系（However），表示虽然听不懂但坚持不放弃，与后文'查字典、记单词'的努力过程衔接自然。B选项In addition表递进，但此处需要转折；C选项As a result表结果，但听不懂不会直接导致考试失败（且C已在17题使用）；D选项放弃与后文努力相悖；E选项是最终结果，应放在最后。解题技巧：看到'At first... couldn't understand'，后面通常接转折词However/But，表示'虽然...但是...'的对比结构。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Living a green life is not as hard as you think. Here are some simple steps to help protect our planet.\n\n(17)______ Start with small things like turning off lights when leaving a room or using both sides of paper. These little actions add up to big changes over time.\n\n(18)______ Instead of driving to school every day, try riding a bike or walking. This not only reduces air pollution but also keeps you fit and healthy.\n\nAnother important step is to reduce waste. (19)______ Bring your own shopping bags when going to the supermarket. Choose products with less packaging. When shopping for clothes, ask yourself if you really need them.\n\n(20)______ Talk to your friends and family about environmental protection. The more people join in, the bigger difference we can make."
+      "group_passage": "Many students find learning English difficult. I used to be one of them. My English grades were poor, and I was afraid to speak in class. (17)______ Then I decided to make some changes.\n\nFirst, I started listening to English songs every morning. At first, I couldn't understand the lyrics at all. (18)______ I looked up new words in the dictionary and wrote them down in a notebook. Slowly, I began to recognize more words.\n\n(19)______ Every weekend, I spent an hour reading simple English stories. At first, I read very slowly, but I didn't give up. After three months, I noticed that I could read much faster than before.\n\nThese methods really worked for me. (20)______ Now I am no longer afraid of English classes, and I even enjoy answering questions in English. If you are struggling with English, why not try these tips?"
     },
     {
       "id": 19,
@@ -321,17 +321,17 @@
       "difficulty": 2,
       "stem": "(19)______",
       "options": [
-        "A. However, it requires a lot of money to get started.",
-        "B. First, save energy and resources in your daily life.",
-        "C. Second, choose green transportation whenever possible.",
-        "D. For example, stop using single-use plastics.",
-        "E. Finally, share your ideas with others."
+        "A. However, I kept listening and tried to follow the pronunciation.",
+        "B. In addition, I began reading English books for thirty minutes every day.",
+        "C. As a result, I failed my English exam last semester.",
+        "D. Then, I decided to give up learning English completely.",
+        "E. As a result, my English grade improved from 60 to 85 in one term."
       ],
-      "correct_answer": "D",
-      "explanation": "本题考查段落衔接和举例关系。前句说'Another important step is to reduce waste'（另一个重要步骤是减少浪费），后句说'Bring your own shopping bags...'（自带购物袋……）。D选项'For example, stop using single-use plastics'（例如，停止使用一次性塑料）承上启下，举例说明如何减少浪费，且与后文的购物袋、包装等内容一致。解题技巧：for example/instance通常用于提出具体例子，证明前文的观点。",
+      "correct_answer": "B",
+      "explanation": "正确答案是B。前文讲了第一个方法（听英文歌），此处开始讲第二个方法（读英文故事），B选项'此外，我开始每天读30分钟英语书'用In addition（此外、另外）表示递进关系，引出另一个学习方法。A选项However表转折，但此处是添加新方法；C选项As a result表结果，但此处是列举方法；D选项放弃与文意相反；E选项是总结结果，不应放在中间。解题技巧：看到前文有First（第一），后面通常有In addition/Besides/Also（此外）引出第二、第三个方法，形成列举关系。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Living a green life is not as hard as you think. Here are some simple steps to help protect our planet.\n\n(17)______ Start with small things like turning off lights when leaving a room or using both sides of paper. These little actions add up to big changes over time.\n\n(18)______ Instead of driving to school every day, try riding a bike or walking. This not only reduces air pollution but also keeps you fit and healthy.\n\nAnother important step is to reduce waste. (19)______ Bring your own shopping bags when going to the supermarket. Choose products with less packaging. When shopping for clothes, ask yourself if you really need them.\n\n(20)______ Talk to your friends and family about environmental protection. The more people join in, the bigger difference we can make."
+      "group_passage": "Many students find learning English difficult. I used to be one of them. My English grades were poor, and I was afraid to speak in class. (17)______ Then I decided to make some changes.\n\nFirst, I started listening to English songs every morning. At first, I couldn't understand the lyrics at all. (18)______ I looked up new words in the dictionary and wrote them down in a notebook. Slowly, I began to recognize more words.\n\n(19)______ Every weekend, I spent an hour reading simple English stories. At first, I read very slowly, but I didn't give up. After three months, I noticed that I could read much faster than before.\n\nThese methods really worked for me. (20)______ Now I am no longer afraid of English classes, and I even enjoy answering questions in English. If you are struggling with English, why not try these tips?"
     },
     {
       "id": 20,
@@ -340,17 +340,17 @@
       "difficulty": 2,
       "stem": "(20)______",
       "options": [
-        "A. However, it requires a lot of money to get started.",
-        "B. First, save energy and resources in your daily life.",
-        "C. Second, choose green transportation whenever possible.",
-        "D. For example, stop using single-use plastics.",
-        "E. Finally, share your ideas with others."
+        "A. However, I kept listening and tried to follow the pronunciation.",
+        "B. In addition, I began reading English books for thirty minutes every day.",
+        "C. As a result, I failed my English exam last semester.",
+        "D. Then, I decided to give up learning English completely.",
+        "E. As a result, my English grade improved from 60 to 85 in one term."
       ],
       "correct_answer": "E",
-      "explanation": "本题考查段落衔接和顺序词。这是文章最后一段，应该使用表示总结或最后的过渡词。E选项'Finally, share your ideas with others'（最后，与他人分享你的想法）符合逻辑顺序，且后文'Talk to your friends and family...'（与朋友和家人交谈）正是分享想法的具体表现。解题技巧：finally/last/in the end通常用于列举的最后一项，表示总结或建议的终结。",
+      "explanation": "正确答案是E。前句'These methods really worked for me'（这些方法对我很有效），E选项'结果，我的英语成绩从60分提高到了85分'用As a result引出具体成效，与前文构成因果关系，且与后文'现在不再害怕英语课'衔接自然。A、B选项是方法，不是结果；C选项是负面结果，与worked（有效）矛盾；D选项放弃与文意相反。解题技巧：前句出现worked/helped/succeeded等表示'有效'的词时，后句通常用As a result/Therefore引出积极结果或具体数据证明。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Living a green life is not as hard as you think. Here are some simple steps to help protect our planet.\n\n(17)______ Start with small things like turning off lights when leaving a room or using both sides of paper. These little actions add up to big changes over time.\n\n(18)______ Instead of driving to school every day, try riding a bike or walking. This not only reduces air pollution but also keeps you fit and healthy.\n\nAnother important step is to reduce waste. (19)______ Bring your own shopping bags when going to the supermarket. Choose products with less packaging. When shopping for clothes, ask yourself if you really need them.\n\n(20)______ Talk to your friends and family about environmental protection. The more people join in, the bigger difference we can make."
+      "group_passage": "Many students find learning English difficult. I used to be one of them. My English grades were poor, and I was afraid to speak in class. (17)______ Then I decided to make some changes.\n\nFirst, I started listening to English songs every morning. At first, I couldn't understand the lyrics at all. (18)______ I looked up new words in the dictionary and wrote them down in a notebook. Slowly, I began to recognize more words.\n\n(19)______ Every weekend, I spent an hour reading simple English stories. At first, I read very slowly, but I didn't give up. After three months, I noticed that I could read much faster than before.\n\nThese methods really worked for me. (20)______ Now I am no longer afraid of English classes, and I even enjoy answering questions in English. If you are struggling with English, why not try these tips?"
     }
   ]
 }

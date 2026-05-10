@@ -284,24 +284,6 @@
   ],
   "errors": [
     {
-      "date": "2026-04-30",
-      "session": 1,
-      "question_id": 14,
-      "type": "reading",
-      "knowledge_point": "inference",
-      "label": "阅读-推理判断",
-      "stem": "What can we learn about Zhang Ming from the passage?",
-      "options": [
-        "A. He studies in a blind school.",
-        "B. He wants to make a lot of money from his invention.",
-        "C. He is kind and creative.",
-        "D. He doesn't like reading books."
-      ],
-      "correct_answer": "C",
-      "student_answer": "B",
-      "explanation": "选C。从张明的行为可以推断：他'发明'了说明有创造力（creative），他想帮助盲人说明心地善良（kind）。A选项错误，他是去盲校参观，不是在那里学习；B选项错误，文中说他希望让更便宜（cheaper），让更多盲人用得起，不是为了赚钱；D选项错误，文中提到他希望盲人'像我们一起享受'，暗示他喜欢。"
-    },
-    {
       "date": "2026-05-05",
       "session": 1,
       "question_id": 2,
