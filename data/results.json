@@ -273,6 +273,13 @@
       "total": 20,
       "correct": 14,
       "rate": 70
+    },
+    {
+      "date": "2026-05-10",
+      "session": 1,
+      "total": 20,
+      "correct": 18,
+      "rate": 90
     }
   ],
   "errors": [
@@ -564,6 +571,42 @@
       "correct_answer": "D",
       "student_answer": "E",
       "explanation": "本题考查时间顺序和逻辑衔接。前句讲'学习时放下手机专注作业'，D项'然后，当放松时间到了，你可以毫无顾虑地享受爱好'中then表示时间递进，与when it's study time形成对应（study time vs time to relax），体现平衡学习与娱乐的主题。without worry也呼应了专注学习后的心理状态。"
+    },
+    {
+      "date": "2026-05-10",
+      "session": 1,
+      "question_id": 4,
+      "type": "grammar",
+      "knowledge_point": "modal_verbs_speculation",
+      "label": "语法题",
+      "stem": "—Is that Mr. Wang knocking at the door?\n—It ________ be him. He has gone to Shanghai on business and won't be back until next Friday.",
+      "options": [
+        "A. must",
+        "B. might",
+        "C. can't",
+        "D. should"
+      ],
+      "correct_answer": "C",
+      "student_answer": "B",
+      "explanation": "本题考查情态动词表推测。根据'He has gone to Shanghai'（他去上海了，未回）和'won't be back until next Friday'（下周五才回）可知，敲门的'不可能'是他。can't表示'不可能'，用于否定推测；must表示'一定是'（肯定推测）；might表示'可能是'（不确定）；should表示'应该是'。解题技巧：has gone to表示去了未回，看到这种情况要注意是否定推测的信号。"
+    },
+    {
+      "date": "2026-05-10",
+      "session": 1,
+      "question_id": 11,
+      "type": "cloze",
+      "knowledge_point": "passive_voice",
+      "label": "被动语态",
+      "stem": "(11)______",
+      "options": [
+        "A. was thrown",
+        "B. were thrown",
+        "C. have thrown",
+        "D. threw"
+      ],
+      "correct_answer": "B",
+      "student_answer": "A",
+      "explanation": "本题考查被动语态和主谓一致。paper与throw away（扔掉）是被动关系，且tons of paper（数吨纸）是复数概念，因此用were thrown。was thrown用于单数；have thrown和threw都是主动语态。解题技巧：tons of+名词，谓语动词与tons保持一致，用复数；paper是不可数名词，但tons是复数。"
     }
   ]
 }
