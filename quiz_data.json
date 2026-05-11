@@ -1,21 +1,21 @@
 ﻿{
-  "date": "2026-05-11",
+  "date": "2026-05-12",
   "session_number": 1,
   "questions": [
     {
       "id": 1,
       "type": "grammar",
       "knowledge_point": "present_perfect_vs_past_simple",
-      "difficulty": 2,
-      "stem": "—______ you ______ your homework yet?\n—Yes, I ______ it an hour ago.",
+      "difficulty": 1,
+      "stem": "I ______ my key yesterday, so I couldn't get in. Luckily, I ______ it just now.",
       "options": [
-        "A. Did; finish; finished",
-        "B. Have; finished; finished",
-        "C. Have; finished; have finished",
-        "D. Did; finish; have finished"
+        "A. lost; have found",
+        "B. have lost; found",
+        "C. lost; found",
+        "D. have lost; have found"
       ],
-      "correct_answer": "B",
-      "explanation": "正确答案是B。第一空根据yet（已经/还）这个标志词，可知问句要用现在完成时（Have...finished），表示过去动作对现在的影响；第二空根据an hour ago（一小时前）这个具体的过去时间状语，可知答句要用一般过去时（finished）。A选项第一空用Did，与yet搭配不当；C选项第二空用have finished，与ago矛盾；D选项第一空用Did，第二空用have finished，都不符合时间状语的要求。解题技巧：看到yet/ever/never/already/just用现在完成时；看到yesterday/ago/last week用一般过去时。",
+      "correct_answer": "C",
+      "explanation": "本题考查现在完成时与一般过去时的区别。第一个空后有明确的时间状语yesterday（昨天），表示过去某个特定时间发生的动作，只能用一般过去时lost；第二个空有just now（刚才），也是表示过去的明确时间状语，因此也用一般过去时found。现在完成时（have found）通常与already, yet, since, for等表示不确定时间或持续到现在的时间状语连用。解题技巧：看到yesterday, last week, just now, in 2020等明确过去时间状语，直接选过去时。",
       "label": "语法题"
     },
     {
@@ -23,31 +23,31 @@
       "type": "grammar",
       "knowledge_point": "relative_clause_who_which",
       "difficulty": 2,
-      "stem": "The boy ______ is wearing a red jacket is my cousin.",
+      "stem": "The book ______ is on the desk belongs to my sister.",
       "options": [
         "A. who",
-        "B. which",
-        "C. whom",
+        "B. whom",
+        "C. which",
         "D. whose"
       ],
-      "correct_answer": "A",
-      "explanation": "正确答案是A。先行词是The boy（指人），且关系代词在定语从句中作主语（is wearing的主语），所以用who。B选项which用于指物；C选项whom虽然指人，但只能作宾语，不能作主语；D选项whose表示'...的'，在从句中作定语，后面需要接名词。解题技巧：指人用who/whom/that，指物用which/that；看空后是否缺主语，缺主语用who/which，不缺主语可用whom/whose。",
+      "correct_answer": "C",
+      "explanation": "本题考查定语从句关系代词的选择。先行词是The book（书），指物，且在从句中作主语，因此用which或that。who/whom用于指人；whose表示'谁的'，在从句中作定语。本句中关系代词在从句'is on the desk'中作主语，指物，故选C。解题口诀：先行词指人用who/whom/that，指物用which/that，作主语用who/which/that，作宾语可用whom/which/that或不填，表所属用whose。",
       "label": "语法题"
     },
     {
       "id": 3,
       "type": "grammar",
       "knowledge_point": "passive_voice",
-      "difficulty": 1,
-      "stem": "The book ______ by many students in our class last month.",
+      "difficulty": 2,
+      "stem": "Many trees ______ by the students in our school every spring.",
       "options": [
-        "A. is read",
-        "B. was read",
-        "C. reads",
-        "D. read"
+        "A. plant",
+        "B. are planted",
+        "C. were planted",
+        "D. have planted"
       ],
       "correct_answer": "B",
-      "explanation": "正确答案是B。根据时间状语last month（上个月）可知用一般过去时；主语The book与read之间是被动关系（书被读），所以用一般过去时的被动语态was read。A选项is read是一般现在时的被动语态，时态不符；C选项reads是主动语态；D选项read是主动语态的过去式或原形。解题技巧：被动语态结构为be+done，先根据时间确定be的时态，再看主语单复数。",
+      "explanation": "本题考查一般现在时的被动语态。主语Many trees（许多树）与动词plant（种植）之间是被动关系，树是被种植的，因此必须用被动语态（be + 过去分词）。时间状语every spring（每年春天）表示经常性、习惯性的动作，用一般现在时。主语是复数，be动词用are，plant的过去分词是planted，故选B。A和D是主动语态，C是过去时的被动语态，均不符合时间状语。解题技巧：先看主语和动词的关系（主动/被动），再看时间状语确定时态。",
       "label": "语法题"
     },
     {
@@ -58,299 +58,289 @@
       "stem": "—Is that Mr. Wang knocking at the door?\n—It ______ be him. He has gone to Shanghai on business.",
       "options": [
         "A. must",
-        "B. might",
+        "B. can",
         "C. can't",
-        "D. should"
+        "D. might"
       ],
       "correct_answer": "C",
-      "explanation": "正确答案是C。根据后句'He has gone to Shanghai'（他去上海出差了，现在还没回来）可知，敲门的人'不可能'是王老师。can't表示'不可能'，用于否定推测。A选项must表示'一定是'，与句意相反；B选项might表示'可能是'，语气不确定，但此处是确定不可能；D选项should表示'应该'，不表示推测。解题技巧：must表肯定推测'一定是'，can't表否定推测'不可能是'，might/may表不确定推测'可能是'。",
+      "explanation": "本题考查情态动词表推测的用法。根据答句'He has gone to Shanghai'（他去上海出差了，现在还没回来）可知，敲门的人'不可能'是王老师。can't表示'不可能'，用于否定推测；must表示'一定'，用于肯定推测；might表示'可能'，语气较弱；can通常不用于肯定句表推测。因此选C。解题技巧：has gone to表示'去了某地（未回）'，has been to表示'去过（已回）'；看到has gone to就知道人不在现场，用can't表否定推测。",
       "label": "语法题"
     },
     {
       "id": 5,
       "type": "vocabulary",
-      "knowledge_point": "word_meaning_context",
-      "difficulty": 2,
+      "knowledge_point": "word_meaning",
+      "difficulty": 1,
       "stem": "The task is too difficult. I think it is ______ for a 10-year-old child to finish it alone.",
       "options": [
-        "A. possible",
-        "B. impossible",
-        "C. necessary",
-        "D. important"
+        "A. easy",
+        "B. possible",
+        "C. impossible",
+        "D. necessary"
       ],
-      "correct_answer": "B",
-      "explanation": "正确答案是B。根据前句'too difficult'（太难了）可知，对10岁孩子来说'不可能'独自完成。impossible意为'不可能的'。A选项possible（可能的）与句意相反；C选项necessary（必要的）和D选项important（重要的）与difficult的语境不符。解题技巧：利用上下文逻辑关系，前句说困难，后句应选负面词汇；注意im-前缀表否定。",
+      "correct_answer": "C",
+      "explanation": "本题考查形容词词义辨析。根据前半句'The task is too difficult'（这个任务太难了）可知，对于10岁孩子来说'不可能'独自完成。impossible意为'不可能的'；easy容易的；possible可能的；necessary必要的。因此选C。解题技巧：利用上下文逻辑关系，difficult与impossible形成同向逻辑，用连词too...to...结构也能帮助判断。",
       "label": "词汇题"
     },
     {
       "id": 6,
       "type": "vocabulary",
-      "knowledge_point": "prefix_suffix",
-      "difficulty": 1,
-      "stem": "If you add 'un-' to the word 'happy', you get 'unhappy', which means feeling sad. Similarly, 'healthy' becomes '______' meaning not in good health.",
+      "knowledge_point": "phrasal_verbs",
+      "difficulty": 2,
+      "stem": "We should ______ our best to protect the environment and save energy.",
       "options": [
-        "A. unhealthy",
-        "B. rehealthy",
-        "C. dishealthy",
-        "D. imhealthy"
+        "A. try",
+        "B. do",
+        "C. make",
+        "D. give"
       ],
       "correct_answer": "A",
-      "explanation": "正确答案是A。前缀un-表示'不、非'，加在形容词前构成反义词，如happy-unhappy, healthy-unhealthy。B选项re-表示'再次'；C选项dis-虽然也表示否定，但通常不与healthy搭配；D选项im-通常加在以b/m/p开头的形容词前（如impossible）。解题技巧：常见否定前缀：un-（最常见）、dis-（如dislike）、im-（如impossible）、in-（如incorrect）、ir-（如irregular）。",
+      "explanation": "本题考查固定搭配（短语动词）。try one's best是固定搭配，意为'尽某人最大努力'；do one's best虽然也有'尽力'的意思，但通常与try one's best互换使用，而本题选项中try更符合常用搭配；make one's best不是固定搭配；give one's best表示'付出最好的'，但不如try one's best常用。因此选A。解题技巧：记住固定搭配try one's best to do sth. = do one's best to do sth.（尽某人最大努力做某事）。",
       "label": "词汇题"
     },
     {
       "id": 7,
       "type": "vocabulary",
-      "knowledge_point": "phrasal_verbs",
+      "knowledge_point": "word_formation",
       "difficulty": 2,
-      "stem": "We need to _______ a good plan to protect the environment in our school.",
+      "stem": "The ______ news made all of us feel very ______.",
       "options": [
-        "A. come up with",
-        "B. look forward to",
-        "C. get on with",
-        "D. look up to"
+        "A. excited; exciting",
+        "B. exciting; excited",
+        "C. excited; excited",
+        "D. exciting; exciting"
       ],
-      "correct_answer": "A",
-      "explanation": "正确答案是A。come up with意为'想出、提出（主意、计划等）'，与plan搭配恰当。B选项look forward to意为'期待'，后接名词或doing，不与plan搭配表示'制定计划'；C选项get on with意为'与...相处'或'继续做'；D选项look up to意为'尊敬、敬仰'。解题技巧：come up with = think up（想出），重点记忆与plan/idea/solution的搭配。",
+      "correct_answer": "B",
+      "explanation": "本题考查-ing形容词和-ed形容词的区别。exciting意为'令人兴奋的'，用于修饰事物（news消息）；excited意为'感到兴奋的'，用于修饰人（us我们）。第一空修饰news（物），用exciting；第二空修饰us（人），用excited。因此选B。解题口诀：'-ing形容物，-ed形容人'，即-ing结尾的形容词表示'令人……的'，修饰事物；-ed结尾的形容词表示'感到……的'，修饰人。类似的还有interesting/interested, boring/bored等。",
       "label": "词汇题"
     },
     {
       "id": 8,
       "type": "cloze",
+      "group": "cloze_1",
+      "group_passage": "Last month, our school started a \"Green Campus\" project. All the students were asked to (8)______ in it. The goal was to make our school more beautiful and environmentally (9)______.\n\nAt first, some students thought it was (10)______ to change their old habits. However, with the teachers' help, we found it was not so hard. We (11)______ many activities, such as planting trees and collecting plastic bottles.\n\nThe most interesting part was designing a small garden (12)______ the teaching building. Everyone contributed their ideas. Now, whenever we pass by the garden, we feel proud of what we have done.",
       "knowledge_point": "cloze_general",
       "difficulty": 1,
       "stem": "(8)______",
       "options": [
-        "A. gave",
-        "B. gives",
-        "C. is giving",
-        "D. has given"
+        "A. join",
+        "B. attend",
+        "C. participate",
+        "D. enter"
       ],
-      "correct_answer": "A",
-      "explanation": "正确答案是A。根据上下文，故事发生在last month（上个月），整体时态为一般过去时，此处描述老师'给我们做演讲'，用give的过去式gave。B选项是一般现在时第三人称单数；C是现在进行时；D是现在完成时，均与全文时态不符。解题技巧：完形填空首先通读全文把握时态背景，本文讲述过去的事件，主体时态为一般过去时。",
-      "label": "完形填空",
-      "group": "cloze_1",
-      "group_passage": "Last month, our school started a new project called \"Green Campus\". The goal was to make our school more environmentally friendly. All students were encouraged to take part in this meaningful activity.\n\nOn the first day, our teacher Mr. Li (8)______ us a talk about the importance of protecting the environment. He told us that small actions could make a big difference. Then, we were divided into groups to work on different tasks.\n\nMy group was responsible for (9)______ the school garden. We found that there was too much rubbish around the trees. It took us two hours to clean it all up. Although we felt tired, we were happy to see the garden become clean and tidy (10)______.\n\nAnother group set up several recycling boxes in each classroom. They also made posters to teach students how to sort waste (11)______. By the end of the week, everyone in our school became more aware of environmental protection.\n\nThis project has not only improved our school environment but also taught us the value of teamwork. We hope to (12)______ such activities in the future to make our world a better place."
+      "correct_answer": "C",
+      "explanation": "本题考查动词与介词的搭配。空格后有介词in，participate in是固定搭配，意为'参加'；join通常直接加组织（join the club）或join sb. in sth.；attend通常指参加会议、课程（attend the meeting）；enter意为'进入'。因此选C。解题技巧：看到后面的介词in，优先考虑participate in或take part in（选项中没有take part），这是完形填空中常见的固定搭配考点。",
+      "label": "完形填空"
     },
     {
       "id": 9,
       "type": "cloze",
+      "group": "cloze_1",
       "knowledge_point": "cloze_general",
       "difficulty": 2,
       "stem": "(9)______",
       "options": [
-        "A. clean",
-        "B. cleaning",
-        "C. to cleaning",
-        "D. cleaned"
+        "A. friendly",
+        "B. harmful",
+        "C. helpful",
+        "D. careful"
       ],
-      "correct_answer": "B",
-      "explanation": "正确答案是B。be responsible for是固定搭配，意为'对...负责'，其中for是介词，后面接名词或动名词（doing形式）。cleaning是clean的动名词形式。A选项是动词原形；C选项介词后不能接to do；D选项是过去式或过去分词。解题技巧：介词（in/on/at/for/of等）后面接动词时，要用动名词形式（doing）。",
-      "label": "完形填空",
-      "group": "cloze_1",
-      "group_passage": "Last month, our school started a new project called \"Green Campus\". The goal was to make our school more environmentally friendly. All students were encouraged to take part in this meaningful activity.\n\nOn the first day, our teacher Mr. Li (8)______ us a talk about the importance of protecting the environment. He told us that small actions could make a big difference. Then, we were divided into groups to work on different tasks.\n\nMy group was responsible for (9)______ the school garden. We found that there was too much rubbish around the trees. It took us two hours to clean it all up. Although we felt tired, we were happy to see the garden become clean and tidy (10)______.\n\nAnother group set up several recycling boxes in each classroom. They also made posters to teach students how to sort waste (11)______. By the end of the week, everyone in our school became more aware of environmental protection.\n\nThis project has not only improved our school environment but also taught us the value of teamwork. We hope to (12)______ such activities in the future to make our world a better place."
+      "correct_answer": "A",
+      "explanation": "本题考查形容词词义辨析及语境理解。environmentally friendly是固定搭配，意为'环保的'；harmful有害的；helpful有帮助的；careful小心的。前文提到'Green Campus' project（绿色校园项目），目的是让学校更美丽且环保，因此选A。解题技巧：注意environmentally与friendly的固定搭配，这是环保类文章的高频词汇。同时注意and连接并列成分，beautiful（美好的）与friendly（友好的/环保的）感情色彩一致。",
+      "label": "完形填空"
     },
     {
       "id": 10,
       "type": "cloze",
+      "group": "cloze_1",
       "knowledge_point": "cloze_general",
-      "difficulty": 1,
+      "difficulty": 2,
       "stem": "(10)______",
       "options": [
-        "A. again",
-        "B. too",
-        "C. either",
-        "D. also"
+        "A. easy",
+        "B. possible",
+        "C. difficult",
+        "D. necessary"
       ],
-      "correct_answer": "A",
-      "explanation": "正确答案是A。again意为'又、再'，表示花园'再次'变得干净整洁（之前是脏的，打扫后恢复了干净）。B选项too（也）通常用于句末，但意思不符；C选项either用于否定句句末；D选项also（也）用于句中。解题技巧：根据上下文逻辑，此处强调'恢复原状'，用again最贴切。",
-      "label": "完形填空",
-      "group": "cloze_1",
-      "group_passage": "Last month, our school started a new project called \"Green Campus\". The goal was to make our school more environmentally friendly. All students were encouraged to take part in this meaningful activity.\n\nOn the first day, our teacher Mr. Li (8)______ us a talk about the importance of protecting the environment. He told us that small actions could make a big difference. Then, we were divided into groups to work on different tasks.\n\nMy group was responsible for (9)______ the school garden. We found that there was too much rubbish around the trees. It took us two hours to clean it all up. Although we felt tired, we were happy to see the garden become clean and tidy (10)______.\n\nAnother group set up several recycling boxes in each classroom. They also made posters to teach students how to sort waste (11)______. By the end of the week, everyone in our school became more aware of environmental protection.\n\nThis project has not only improved our school environment but also taught us the value of teamwork. We hope to (12)______ such activities in the future to make our world a better place."
+      "correct_answer": "C",
+      "explanation": "本题考查形容词辨析及上下文逻辑。后文However（然而）表示转折，'we found it was not so hard'（我们发现并不难），说明前文应该表示'难'。difficult困难的；easy容易的；possible可能的；necessary必要的。因此选C。解题技巧：However是重要信号词，表示前后句意相反。后文not so hard（不难）对应前文difficult（困难），形成转折关系。",
+      "label": "完形填空"
     },
     {
       "id": 11,
       "type": "cloze",
+      "group": "cloze_1",
       "knowledge_point": "cloze_general",
       "difficulty": 2,
       "stem": "(11)______",
       "options": [
-        "A. correct",
-        "B. correctly",
-        "C. incorrect",
-        "D. incorrectly"
+        "A. organized",
+        "B. joined",
+        "C. took",
+        "D. had"
       ],
-      "correct_answer": "B",
-      "explanation": "正确答案是B。此处需要副词修饰动词sort（分类），表示'正确地分类垃圾'。correctly是correct的副词形式。A和C是形容词，不能修饰动词；D选项incorrectly（错误地）与句意相反。解题技巧：修饰动词要用副词，一般在形容词后加-ly构成副词；根据上下文，制作海报是为了教学生'正确'分类，而非错误分类。",
-      "label": "完形填空",
-      "group": "cloze_1",
-      "group_passage": "Last month, our school started a new project called \"Green Campus\". The goal was to make our school more environmentally friendly. All students were encouraged to take part in this meaningful activity.\n\nOn the first day, our teacher Mr. Li (8)______ us a talk about the importance of protecting the environment. He told us that small actions could make a big difference. Then, we were divided into groups to work on different tasks.\n\nMy group was responsible for (9)______ the school garden. We found that there was too much rubbish around the trees. It took us two hours to clean it all up. Although we felt tired, we were happy to see the garden become clean and tidy (10)______.\n\nAnother group set up several recycling boxes in each classroom. They also made posters to teach students how to sort waste (11)______. By the end of the week, everyone in our school became more aware of environmental protection.\n\nThis project has not only improved our school environment but also taught us the value of teamwork. We hope to (12)______ such activities in the future to make our world a better place."
+      "correct_answer": "A",
+      "explanation": "本题考查动词与宾语的搭配。空格后的宾语是many activities（许多活动），organized activities意为'组织活动'；join通常指加入组织或人；take part in才是'参加'；have activities虽然可以搭配，但不如organized符合语境（学生发起项目，组织活动）。因此选A。解题技巧：注意动宾搭配，organize activities是常见搭配，且与主语we（学生）搭配合理，表示'我们组织了许多活动'。",
+      "label": "完形填空"
     },
     {
       "id": 12,
       "type": "cloze",
+      "group": "cloze_1",
       "knowledge_point": "cloze_general",
-      "difficulty": 2,
+      "difficulty": 1,
       "stem": "(12)______",
       "options": [
-        "A. continue",
-        "B. stop",
-        "C. forget",
-        "D. refuse"
+        "A. behind",
+        "B. under",
+        "C. above",
+        "D. between"
       ],
       "correct_answer": "A",
-      "explanation": "正确答案是A。continue意为'继续'，符合句意'我们希望将来继续这样的活动'。B选项stop（停止）、C选项forget（忘记）、D选项refuse（拒绝）均与上下文表达的积极态度不符。前文提到活动不仅改善了环境还教会了团队合作价值，所以应该是希望'继续'。解题技巧：根据文章情感线索，结尾通常是升华主题，表达希望持续或推广，选积极词汇。",
-      "label": "完形填空",
-      "group": "cloze_1",
-      "group_passage": "Last month, our school started a new project called \"Green Campus\". The goal was to make our school more environmentally friendly. All students were encouraged to take part in this meaningful activity.\n\nOn the first day, our teacher Mr. Li (8)______ us a talk about the importance of protecting the environment. He told us that small actions could make a big difference. Then, we were divided into groups to work on different tasks.\n\nMy group was responsible for (9)______ the school garden. We found that there was too much rubbish around the trees. It took us two hours to clean it all up. Although we felt tired, we were happy to see the garden become clean and tidy (10)______.\n\nAnother group set up several recycling boxes in each classroom. They also made posters to teach students how to sort waste (11)______. By the end of the week, everyone in our school became more aware of environmental protection.\n\nThis project has not only improved our school environment but also taught us the value of teamwork. We hope to (12)______ such activities in the future to make our world a better place."
+      "explanation": "本题考查介词词义辨析。behind在……后面；under在……正下方；above在……上方；between在……之间（两者）。根据语境，设计花园应该在教学楼后面比较合理，under（在楼下）和above（在楼上）不太符合实际，between需要两个对象。因此选A。解题技巧：结合生活常识，校园里的花园通常建在教学楼后面或旁边，behind the teaching building（教学楼后面）是最合理的选项。",
+      "label": "完形填空"
     },
     {
       "id": 13,
       "type": "reading",
+      "group": "reading_1",
+      "group_passage": "Smart homes are becoming popular in modern cities. A smart home uses technology to make life easier and more comfortable.\n\nIn a smart home, you can control almost everything with your smartphone. For example, before you arrive home, you can turn on the air conditioner so that the room is cool when you enter. The smart fridge can tell you what food you need to buy. It even suggests healthy recipes based on what is inside.\n\nHowever, some people worry about privacy. The devices collect data about your daily habits. If this information is not well protected, it could be dangerous.\n\nDespite these concerns, smart home technology is developing rapidly. Experts believe that in the future, smart homes will be more affordable and safer for everyone.",
       "knowledge_point": "detail",
       "difficulty": 2,
-      "stem": "According to the passage, how many hours of sleep do teenagers need every night?",
+      "stem": "What can people do with a smart home according to the passage?",
       "options": [
-        "A. 6-7 hours",
-        "B. 7-8 hours",
-        "C. 8-10 hours",
-        "D. 10-12 hours"
+        "A. Cook meals automatically",
+        "B. Control home devices remotely",
+        "C. Buy food online directly",
+        "D. Build houses more quickly"
       ],
-      "correct_answer": "C",
-      "explanation": "正确答案是C。根据文章第一段第二句'Studies show that teenagers need about 8 to 10 hours of sleep every night.'可知，青少年每晚需要8-10小时睡眠。这是直接细节题，在原文中可直接找到答案。A、B选项数量不足，D选项过多。解题技巧：细节理解题采用'关键词定位法'，在题干中找出teenagers/hours等关键词，快速定位到原文第一段查找具体数字。",
-      "label": "阅读-细节理解",
-      "group": "reading_1",
-      "group_passage": "Sleep is very important for middle school students. Studies show that teenagers need about 8 to 10 hours of sleep every night. However, many students don't get enough sleep because of heavy homework and the use of electronic devices.\n\nScientists have found that sleep helps the brain process information learned during the day. When you sleep, your brain is actually working hard to store memories and solve problems. This is why you sometimes wake up with a solution to a difficult math problem.\n\nLack of sleep can cause many problems. It not only affects your concentration in class but also harms your health. Students who don't sleep well often feel sleepy during the day and may have trouble remembering new knowledge.\n\nTo sleep better, experts suggest creating a bedtime routine. This means going to bed at the same time every night and keeping electronic devices out of the bedroom. Regular exercise during the day can also help you fall asleep more easily, but avoid doing sports right before bedtime.\n\nRemember, good sleep habits are the foundation of good learning. By improving your sleep quality, you will find yourself more energetic and efficient in your studies."
+      "correct_answer": "B",
+      "explanation": "本题考查细节理解。根据第二段'you can control almost everything with your smartphone'（你可以用智能手机控制几乎所有东西）以及'before you arrive home, you can turn on the air conditioner'（到家前可以打开空调）可知，人们可以远程控制家居设备。remotely意为'远程地'。A选项自动做饭文中未提及（只是提供食谱）；C选项直接在线购买食物文中未提及；D选项更快建房与文意无关。因此选B。解题技巧：细节题要找准关键词，control和smartphone是定位词，对应选项中的Control和remotely。",
+      "label": "阅读-细节理解"
     },
     {
       "id": 14,
       "type": "reading",
-      "knowledge_point": "inference",
-      "difficulty": 3,
-      "stem": "What can we learn from the passage about electronic devices?",
-      "options": [
-        "A. They help students finish homework faster.",
-        "B. They should be used right before sleeping.",
-        "C. They are one reason why students lack sleep.",
-        "D. They can improve memory when used at night."
-      ],
-      "correct_answer": "C",
-      "explanation": "正确答案是C。根据第一段最后一句'many students don't get enough sleep because of heavy homework and the use of electronic devices'可知，电子设备是学生睡眠不足的原因之一。A选项文中未提及；B选项与第四段'keeping electronic devices out of the bedroom'（让电子设备远离卧室）相悖；D选项文中未提及且与科学常识不符。解题技巧：推理判断题要基于原文信息合理推断，不能主观臆断，也不能选择原文明确否定的选项。",
-      "label": "阅读-推理判断",
       "group": "reading_1",
-      "group_passage": "Sleep is very important for middle school students. Studies show that teenagers need about 8 to 10 hours of sleep every night. However, many students don't get enough sleep because of heavy homework and the use of electronic devices.\n\nScientists have found that sleep helps the brain process information learned during the day. When you sleep, your brain is actually working hard to store memories and solve problems. This is why you sometimes wake up with a solution to a difficult math problem.\n\nLack of sleep can cause many problems. It not only affects your concentration in class but also harms your health. Students who don't sleep well often feel sleepy during the day and may have trouble remembering new knowledge.\n\nTo sleep better, experts suggest creating a bedtime routine. This means going to bed at the same time every night and keeping electronic devices out of the bedroom. Regular exercise during the day can also help you fall asleep more easily, but avoid doing sports right before bedtime.\n\nRemember, good sleep habits are the foundation of good learning. By improving your sleep quality, you will find yourself more energetic and efficient in your studies."
+      "knowledge_point": "word_guessing",
+      "difficulty": 1,
+      "stem": "What does the underlined word 'affordable' in the last paragraph most probably mean?",
+      "options": [
+        "A. Expensive",
+        "B. Cheap enough to buy",
+        "C. Beautiful",
+        "D. Comfortable"
+      ],
+      "correct_answer": "B",
+      "explanation": "本题考查词义猜测。根据上下文，尽管有隐私担忧，智能家居技术正在快速发展，专家相信未来对每个人来说会更加affordable和更安全。and连接并列成分，safer（更安全）是正面词汇，affordable也应该是正面词汇。且通常技术发展后价格会降低，让更多人能买得起。expensive昂贵的（负面）；cheap enough to buy足够便宜可以买；beautiful美丽的；comfortable舒适的。因此选B。解题技巧：利用上下文逻辑（and并列）和常识（技术发展→价格降低→普及），affordable的词根是afford（负担得起），able表示'能够'，因此affordable意为'负担得起的，价格合理的'。",
+      "label": "阅读-词义猜测"
     },
     {
       "id": 15,
       "type": "reading",
-      "knowledge_point": "word_guessing",
-      "difficulty": 2,
-      "stem": "The underlined word 'concentration' in Paragraph 3 probably means ______.",
-      "options": [
-        "A. the ability to remember things",
-        "B. the ability to focus attention",
-        "C. the ability to create new ideas",
-        "D. the ability to solve problems"
-      ],
-      "correct_answer": "B",
-      "explanation": "正确答案是B。根据第三段上下文'Lack of sleep can cause many problems. It not only affects your concentration in class...'（睡眠不足会影响你在课堂上的concentration），结合常识，睡眠不足会导致上课走神、无法集中注意力，所以concentration意为'注意力'。A是memory（记忆力），C是creativity（创造力），D是problem-solving ability（解决问题的能力）。解题技巧：词义猜测题利用上下文语境，看同一句或前后句的解释说明；con-前缀表示'共同'，centr-词根表示'中心'，字面意思'把思想集中在中心'即'专注'。",
-      "label": "阅读-词义猜测",
       "group": "reading_1",
-      "group_passage": "Sleep is very important for middle school students. Studies show that teenagers need about 8 to 10 hours of sleep every night. However, many students don't get enough sleep because of heavy homework and the use of electronic devices.\n\nScientists have found that sleep helps the brain process information learned during the day. When you sleep, your brain is actually working hard to store memories and solve problems. This is why you sometimes wake up with a solution to a difficult math problem.\n\nLack of sleep can cause many problems. It not only affects your concentration in class but also harms your health. Students who don't sleep well often feel sleepy during the day and may have trouble remembering new knowledge.\n\nTo sleep better, experts suggest creating a bedtime routine. This means going to bed at the same time every night and keeping electronic devices out of the bedroom. Regular exercise during the day can also help you fall asleep more easily, but avoid doing sports right before bedtime.\n\nRemember, good sleep habits are the foundation of good learning. By improving your sleep quality, you will find yourself more energetic and efficient in your studies."
+      "knowledge_point": "inference",
+      "difficulty": 2,
+      "stem": "What can we learn about smart homes from the passage?",
+      "options": [
+        "A. Everyone has a smart home now",
+        "B. Smart homes have no problems at all",
+        "C. Smart homes may have privacy risks",
+        "D. Smart homes are only for rich people"
+      ],
+      "correct_answer": "C",
+      "explanation": "本题考查推理判断。根据第三段'some people worry about privacy. The devices collect data about your daily habits. If this information is not well protected, it could be dangerous'可知，智能家居设备收集用户日常习惯数据，如果保护不好会有危险，即存在隐私风险。A选项每个人现在都有智能家居，文中说'正在流行'而非每个人都有；B选项完全没有问题，与文中privacy担忧矛盾；D选项只给富人用，文中说未来会更affordable（人人负担得起），暗示现在可能较贵但并非只给富人，且未来会普及。因此选C。解题技巧：推理题要基于原文信息合理推断，不能过度推断，也要注意排除与原文矛盾的选项。",
+      "label": "阅读-推理判断"
     },
     {
       "id": 16,
       "type": "reading",
+      "group": "reading_1",
       "knowledge_point": "main_idea",
-      "difficulty": 2,
+      "difficulty": 3,
       "stem": "What is the best title for this passage?",
       "options": [
-        "A. How to Do Homework Efficiently",
-        "B. The Dangers of Electronic Devices",
-        "C. Why Sleep Matters for Students",
-        "D. Ways to Exercise Before Bedtime"
+        "A. The History of Smart Homes",
+        "B. How to Build a Smart Home",
+        "C. Smart Homes: Benefits and Concerns",
+        "D. Why Smart Homes Are Expensive"
       ],
       "correct_answer": "C",
-      "explanation": "正确答案是C。文章第一段讲睡眠对青少年的重要性，第二段讲睡眠帮助大脑处理信息，第三段讲睡眠不足的危害，第四段讲如何改善睡眠，最后总结良好睡眠是良好学习的基础。全文围绕'睡眠对学生的重要性'展开。A选项只涉及作业效率，片面；B选项只涉及电子设备，是细节而非主旨；D选项只涉及运动，是细节。解题技巧：主旨大意题采用'首尾段+各段首句'法，看文章高频词（sleep出现多次），标题要概括全文而非局部细节。",
-      "label": "阅读-主旨大意",
-      "group": "reading_1",
-      "group_passage": "Sleep is very important for middle school students. Studies show that teenagers need about 8 to 10 hours of sleep every night. However, many students don't get enough sleep because of heavy homework and the use of electronic devices.\n\nScientists have found that sleep helps the brain process information learned during the day. When you sleep, your brain is actually working hard to store memories and solve problems. This is why you sometimes wake up with a solution to a difficult math problem.\n\nLack of sleep can cause many problems. It not only affects your concentration in class but also harms your health. Students who don't sleep well often feel sleepy during the day and may have trouble remembering new knowledge.\n\nTo sleep better, experts suggest creating a bedtime routine. This means going to bed at the same time every night and keeping electronic devices out of the bedroom. Regular exercise during the day can also help you fall asleep more easily, but avoid doing sports right before bedtime.\n\nRemember, good sleep habits are the foundation of good learning. By improving your sleep quality, you will find yourself more energetic and efficient in your studies."
+      "explanation": "本题考查主旨大意（最佳标题）。文章第一段介绍智能家居流行，第二段介绍优点（便利、舒适），第三段介绍担忧（隐私），第四段展望未来。因此文章既讲了好处也讲了担忧。A选项历史，文中未讲历史；B选项如何建造，文中未讲建造方法；D选项为什么贵，文中未重点讨论价格。C选项'智能家居：好处与担忧'概括全面。因此选C。解题技巧：主旨题要覆盖全文内容，不能只概括某一段。文章结构是'总-分-总'，分述部分既有优点也有缺点，因此标题要体现两面性。",
+      "label": "阅读-主旨大意"
     },
     {
       "id": 17,
       "type": "fill",
+      "group": "fill_1",
+      "group_passage": "School life is busy but colorful. Here are some tips to help you stay healthy and happy at school.\n\n(17)______ First, plan your time carefully. Make a timetable and follow it. This helps you finish homework on time and still have time for hobbies.\n\nSecond, take exercise regularly. You don't need to do sports for hours. Even a 15-minute walk after lunch can make a difference. (18)______ It can improve your memory and help you study better.\n\n(19)______ Try to eat more fruits and vegetables. Avoid too much junk food like hamburgers and cola. A healthy diet gives you energy for the whole day.\n\nFinally, stay positive. When you face difficulties, talk to your teachers or friends. (20)______ Remember, a healthy mind is as important as a healthy body.",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
       "stem": "(17)______",
       "options": [
-        "A. However, I kept listening and tried to follow the pronunciation.",
-        "B. In addition, I began reading English books for thirty minutes every day.",
-        "C. As a result, I failed my English exam last semester.",
-        "D. Then, I decided to give up learning English completely.",
-        "E. As a result, my English grade improved from 60 to 85 in one term."
+        "A. However, many students don't know how to do it.",
+        "B. Physical activity is good for both your body and brain.",
+        "C. As a result, you will feel less stressed and more confident.",
+        "D. Third, pay attention to your diet.",
+        "E. Getting enough sleep is also very important."
       ],
-      "correct_answer": "C",
-      "explanation": "正确答案是C。前句提到'My English grades were poor, and I was afraid to speak in class'（我英语成绩差，不敢在课堂上发言），C选项'结果，我上学期英语考试不及格'是前文情况导致的自然结果，As a result（结果是）表示因果关系。A选项However表转折，但后文没有转折含义；B选项In addition表递进，但此处是总结结果而非添加信息；D选项决定放弃与后文'Then I decided to make some changes'（然后我决定改变）逻辑矛盾；E选项是成绩提高，与前文'成绩差'矛盾。解题技巧：选句子填空要看前后逻辑关系，此处是前因后果，用As a result连接。",
-      "label": "短文填空",
-      "group": "fill_1",
-      "group_passage": "Many students find learning English difficult. I used to be one of them. My English grades were poor, and I was afraid to speak in class. (17)______ Then I decided to make some changes.\n\nFirst, I started listening to English songs every morning. At first, I couldn't understand the lyrics at all. (18)______ I looked up new words in the dictionary and wrote them down in a notebook. Slowly, I began to recognize more words.\n\n(19)______ Every weekend, I spent an hour reading simple English stories. At first, I read very slowly, but I didn't give up. After three months, I noticed that I could read much faster than before.\n\nThese methods really worked for me. (20)______ Now I am no longer afraid of English classes, and I even enjoy answering questions in English. If you are struggling with English, why not try these tips?"
+      "correct_answer": "A",
+      "explanation": "本题考查段落衔接与逻辑关系。前文说'这里有一些建议帮助你在学校保持健康快乐'，后文立即开始讲'First, plan your time...'（第一，计划时间）。因此中间需要一个过渡句，承上启下。A选项'然而，许多学生不知道如何做'起到过渡作用，引出下文的具体建议。B讲锻炼，与First不匹配；C是结果状语；D是Third；E讲睡眠。因此选A。解题技巧：选句填空要注意上下文逻辑，前文提出tips，后文列举First，中间用A选项过渡最自然，形成'提建议-指出问题-给方法'的逻辑链。",
+      "label": "短文填空"
     },
     {
       "id": 18,
       "type": "fill",
+      "group": "fill_1",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
       "stem": "(18)______",
       "options": [
-        "A. However, I kept listening and tried to follow the pronunciation.",
-        "B. In addition, I began reading English books for thirty minutes every day.",
-        "C. As a result, I failed my English exam last semester.",
-        "D. Then, I decided to give up learning English completely.",
-        "E. As a result, my English grade improved from 60 to 85 in one term."
+        "A. However, many students don't know how to do it.",
+        "B. Physical activity is good for both your body and brain.",
+        "C. As a result, you will feel less stressed and more confident.",
+        "D. Third, pay attention to your diet.",
+        "E. Getting enough sleep is also very important."
       ],
-      "correct_answer": "A",
-      "explanation": "正确答案是A。前句说'起初我根本听不懂歌词'，A选项'然而，我继续听并试着跟读'形成转折关系（However），表示虽然听不懂但坚持不放弃，与后文'查字典、记单词'的努力过程衔接自然。B选项In addition表递进，但此处需要转折；C选项As a result表结果，但听不懂不会直接导致考试失败（且C已在17题使用）；D选项放弃与后文努力相悖；E选项是最终结果，应放在最后。解题技巧：看到'At first... couldn't understand'，后面通常接转折词However/But，表示'虽然...但是...'的对比结构。",
-      "label": "短文填空",
-      "group": "fill_1",
-      "group_passage": "Many students find learning English difficult. I used to be one of them. My English grades were poor, and I was afraid to speak in class. (17)______ Then I decided to make some changes.\n\nFirst, I started listening to English songs every morning. At first, I couldn't understand the lyrics at all. (18)______ I looked up new words in the dictionary and wrote them down in a notebook. Slowly, I began to recognize more words.\n\n(19)______ Every weekend, I spent an hour reading simple English stories. At first, I read very slowly, but I didn't give up. After three months, I noticed that I could read much faster than before.\n\nThese methods really worked for me. (20)______ Now I am no longer afraid of English classes, and I even enjoy answering questions in English. If you are struggling with English, why not try these tips?"
+      "correct_answer": "B",
+      "explanation": "本题考查段落内部的逻辑衔接。本段主题是'take exercise regularly'（定期锻炼），前句说'午饭后散步15分钟也有作用'，后句说'它能提高记忆力帮助学习更好'。因此空格处应该解释锻炼的好处，承上启下。B选项'体育活动对身心都有益'既承接上文的exercise/walk，又引出下文improve memory（大脑）和body。因此选B。解题技巧：利用关键词复现，选项中的Physical activity对应段落的exercise，body and brain对应后文的memory（brain）和隐含的body健康。",
+      "label": "短文填空"
     },
     {
       "id": 19,
       "type": "fill",
+      "group": "fill_1",
       "knowledge_point": "sentence_fill",
-      "difficulty": 2,
+      "difficulty": 1,
       "stem": "(19)______",
       "options": [
-        "A. However, I kept listening and tried to follow the pronunciation.",
-        "B. In addition, I began reading English books for thirty minutes every day.",
-        "C. As a result, I failed my English exam last semester.",
-        "D. Then, I decided to give up learning English completely.",
-        "E. As a result, my English grade improved from 60 to 85 in one term."
+        "A. However, many students don't know how to do it.",
+        "B. Physical activity is good for both your body and brain.",
+        "C. As a result, you will feel less stressed and more confident.",
+        "D. Third, pay attention to your diet.",
+        "E. Getting enough sleep is also very important."
       ],
-      "correct_answer": "B",
-      "explanation": "正确答案是B。前文讲了第一个方法（听英文歌），此处开始讲第二个方法（读英文故事），B选项'此外，我开始每天读30分钟英语书'用In addition（此外、另外）表示递进关系，引出另一个学习方法。A选项However表转折，但此处是添加新方法；C选项As a result表结果，但此处是列举方法；D选项放弃与文意相反；E选项是总结结果，不应放在中间。解题技巧：看到前文有First（第一），后面通常有In addition/Besides/Also（此外）引出第二、第三个方法，形成列举关系。",
-      "label": "短文填空",
-      "group": "fill_1",
-      "group_passage": "Many students find learning English difficult. I used to be one of them. My English grades were poor, and I was afraid to speak in class. (17)______ Then I decided to make some changes.\n\nFirst, I started listening to English songs every morning. At first, I couldn't understand the lyrics at all. (18)______ I looked up new words in the dictionary and wrote them down in a notebook. Slowly, I began to recognize more words.\n\n(19)______ Every weekend, I spent an hour reading simple English stories. At first, I read very slowly, but I didn't give up. After three months, I noticed that I could read much faster than before.\n\nThese methods really worked for me. (20)______ Now I am no longer afraid of English classes, and I even enjoy answering questions in English. If you are struggling with English, why not try these tips?"
+      "correct_answer": "D",
+      "explanation": "本题考查段落间的顺序衔接。前文有First（第一）、Second（第二），后文有Finally（最后），因此此处应该是Third（第三）。D选项'Third, pay attention to your diet'（第三，注意你的饮食）符合顺序逻辑，且本段内容讲多吃水果蔬菜、避免垃圾食品，正是关于饮食（diet）。因此选D。解题技巧：关注结构词（First, Second, Third, Finally），这是选句填空中最明显的线索，属于'顺序逻辑'。",
+      "label": "短文填空"
     },
     {
       "id": 20,
       "type": "fill",
+      "group": "fill_1",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
       "stem": "(20)______",
       "options": [
-        "A. However, I kept listening and tried to follow the pronunciation.",
-        "B. In addition, I began reading English books for thirty minutes every day.",
-        "C. As a result, I failed my English exam last semester.",
-        "D. Then, I decided to give up learning English completely.",
-        "E. As a result, my English grade improved from 60 to 85 in one term."
+        "A. However, many students don't know how to do it.",
+        "B. Physical activity is good for both your body and brain.",
+        "C. As a result, you will feel less stressed and more confident.",
+        "D. Third, pay attention to your diet.",
+        "E. Getting enough sleep is also very important."
       ],
-      "correct_answer": "E",
-      "explanation": "正确答案是E。前句'These methods really worked for me'（这些方法对我很有效），E选项'结果，我的英语成绩从60分提高到了85分'用As a result引出具体成效，与前文构成因果关系，且与后文'现在不再害怕英语课'衔接自然。A、B选项是方法，不是结果；C选项是负面结果，与worked（有效）矛盾；D选项放弃与文意相反。解题技巧：前句出现worked/helped/succeeded等表示'有效'的词时，后句通常用As a result/Therefore引出积极结果或具体数据证明。",
-      "label": "短文填空",
-      "group": "fill_1",
-      "group_passage": "Many students find learning English difficult. I used to be one of them. My English grades were poor, and I was afraid to speak in class. (17)______ Then I decided to make some changes.\n\nFirst, I started listening to English songs every morning. At first, I couldn't understand the lyrics at all. (18)______ I looked up new words in the dictionary and wrote them down in a notebook. Slowly, I began to recognize more words.\n\n(19)______ Every weekend, I spent an hour reading simple English stories. At first, I read very slowly, but I didn't give up. After three months, I noticed that I could read much faster than before.\n\nThese methods really worked for me. (20)______ Now I am no longer afraid of English classes, and I even enjoy answering questions in English. If you are struggling with English, why not try these tips?"
+      "correct_answer": "C",
+      "explanation": "本题考查因果关系。前文说'当你遇到困难时，和老师或朋友谈谈'，后文说'记住，健康的头脑和健康的身体一样重要'。因此空格处应该是'和他人倾诉'带来的结果。C选项'因此，你会感到压力更小、更自信'是前文行为（talk to teachers or friends）的结果，as a result表示因果关系。因此选C。解题技巧：注意逻辑关系词，前文是建议/行为，后文是总结，中间用'结果'连接最合理。同时less stressed与后文的healthy mind相呼应。",
+      "label": "短文填空"
     }
   ]
 }
