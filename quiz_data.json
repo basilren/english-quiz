@@ -1,346 +1,211 @@
-﻿{
+{
   "date": "2026-05-12",
+  "day": 46,
   "session_number": 1,
+  "total_questions": 20,
+  "difficulty": "grammar/vocab 2, cloze 3, reading 2, fill 2",
   "questions": [
     {
       "id": 1,
       "type": "grammar",
-      "knowledge_point": "present_perfect_vs_past_simple",
-      "difficulty": 1,
-      "stem": "I ______ my key yesterday, so I couldn't get in. Luckily, I ______ it just now.",
-      "options": [
-        "A. lost; have found",
-        "B. have lost; found",
-        "C. lost; found",
-        "D. have lost; have found"
-      ],
-      "correct_answer": "C",
-      "explanation": "本题考查现在完成时与一般过去时的区别。第一个空后有明确的时间状语yesterday（昨天），表示过去某个特定时间发生的动作，只能用一般过去时lost；第二个空有just now（刚才），也是表示过去的明确时间状语，因此也用一般过去时found。现在完成时（have found）通常与already, yet, since, for等表示不确定时间或持续到现在的时间状语连用。解题技巧：看到yesterday, last week, just now, in 2020等明确过去时间状语，直接选过去时。",
-      "label": "语法题"
+      "knowledge_point": "present_perfect",
+      "stem": "-- Where is your father?\n-- He _____ Shanghai. He will be back next week.",
+      "options": ["A. has been to", "B. has gone to", "C. has been in", "D. went to"],
+      "correct_answer": "B",
+      "explanation": "has been to 表示'去过某地（已回来）'，has gone to 表示'去了某地（还没回来）'。爸爸不在这里，下周才回来，说明他去了上海还没回来，用 has gone to。has been in 表示'一直待在某地'，不符合语境。",
+      "group": null
     },
     {
       "id": 2,
       "type": "grammar",
-      "knowledge_point": "relative_clause_who_which",
-      "difficulty": 2,
-      "stem": "The book ______ is on the desk belongs to my sister.",
-      "options": [
-        "A. who",
-        "B. whom",
-        "C. which",
-        "D. whose"
-      ],
-      "correct_answer": "C",
-      "explanation": "本题考查定语从句关系代词的选择。先行词是The book（书），指物，且在从句中作主语，因此用which或that。who/whom用于指人；whose表示'谁的'，在从句中作定语。本句中关系代词在从句'is on the desk'中作主语，指物，故选C。解题口诀：先行词指人用who/whom/that，指物用which/that，作主语用who/which/that，作宾语可用whom/which/that或不填，表所属用whose。",
-      "label": "语法题"
+      "knowledge_point": "object_clause",
+      "stem": "Do you know _____ the school sports meeting will be held?",
+      "options": ["A. that", "B. when", "C. what", "D. who"],
+      "correct_answer": "B",
+      "explanation": "宾语从句中缺少时间状语，问的是运动会什么时候举行，所以用 when 引导。that 不做成分但从句不缺成分时用；what 做主语或宾语；who 指人。这里从句 the school sports meeting will be held 结构完整，只缺时间，选 when。",
+      "group": null
     },
     {
       "id": 3,
       "type": "grammar",
-      "knowledge_point": "passive_voice",
-      "difficulty": 2,
-      "stem": "Many trees ______ by the students in our school every spring.",
-      "options": [
-        "A. plant",
-        "B. are planted",
-        "C. were planted",
-        "D. have planted"
-      ],
-      "correct_answer": "B",
-      "explanation": "本题考查一般现在时的被动语态。主语Many trees（许多树）与动词plant（种植）之间是被动关系，树是被种植的，因此必须用被动语态（be + 过去分词）。时间状语every spring（每年春天）表示经常性、习惯性的动作，用一般现在时。主语是复数，be动词用are，plant的过去分词是planted，故选B。A和D是主动语态，C是过去时的被动语态，均不符合时间状语。解题技巧：先看主语和动词的关系（主动/被动），再看时间状语确定时态。",
-      "label": "语法题"
+      "knowledge_point": "relative_clause",
+      "stem": "The girl _____ is reading under the tree is my cousin.",
+      "options": ["A. which", "B. what", "C. who", "D. whom"],
+      "correct_answer": "C",
+      "explanation": "定语从句中先行词是 the girl（人），关系代词在从句中作主语（is reading 的主语），所以用 who。which 用于修饰物；what 不引导定语从句；whom 在从句中作宾语，这里需要作主语，不能用 whom。",
+      "group": null
     },
     {
       "id": 4,
       "type": "grammar",
-      "knowledge_point": "modal_verbs_speculation",
-      "difficulty": 3,
-      "stem": "—Is that Mr. Wang knocking at the door?\n—It ______ be him. He has gone to Shanghai on business.",
-      "options": [
-        "A. must",
-        "B. can",
-        "C. can't",
-        "D. might"
-      ],
-      "correct_answer": "C",
-      "explanation": "本题考查情态动词表推测的用法。根据答句'He has gone to Shanghai'（他去上海出差了，现在还没回来）可知，敲门的人'不可能'是王老师。can't表示'不可能'，用于否定推测；must表示'一定'，用于肯定推测；might表示'可能'，语气较弱；can通常不用于肯定句表推测。因此选C。解题技巧：has gone to表示'去了某地（未回）'，has been to表示'去过（已回）'；看到has gone to就知道人不在现场，用can't表否定推测。",
-      "label": "语法题"
+      "knowledge_point": "conditional",
+      "stem": "If it _____ tomorrow, we will go hiking in the mountains.",
+      "options": ["A. won't rain", "B. doesn't rain", "C. didn't rain", "D. isn't raining"],
+      "correct_answer": "B",
+      "explanation": "if 引导的真实条件状语从句遵循'主将从现'原则：主句用一般将来时(will go)，从句用一般现在时。tomorrow 是将来时间，但 if 从句中不能用 will，所以选 doesn't rain（一般现在时否定）。",
+      "group": null
     },
     {
       "id": 5,
-      "type": "vocabulary",
-      "knowledge_point": "word_meaning",
-      "difficulty": 1,
-      "stem": "The task is too difficult. I think it is ______ for a 10-year-old child to finish it alone.",
-      "options": [
-        "A. easy",
-        "B. possible",
-        "C. impossible",
-        "D. necessary"
-      ],
-      "correct_answer": "C",
-      "explanation": "本题考查形容词词义辨析。根据前半句'The task is too difficult'（这个任务太难了）可知，对于10岁孩子来说'不可能'独自完成。impossible意为'不可能的'；easy容易的；possible可能的；necessary必要的。因此选C。解题技巧：利用上下文逻辑关系，difficult与impossible形成同向逻辑，用连词too...to...结构也能帮助判断。",
-      "label": "词汇题"
+      "type": "grammar",
+      "knowledge_point": "exclamatory",
+      "stem": "_____ useful advice he gave us! We all learned a lot.",
+      "options": ["A. What", "B. How", "C. What a", "D. What an"],
+      "correct_answer": "A",
+      "explanation": "感叹句结构：What + (a/an) + adj. + n.! 或 How + adj./adv.! 这里 advice 是不可数名词，不能加 a/an，所以用 What useful advice（What + adj. + 不可数名词）。How 后面直接加形容词，不加名词。",
+      "group": null
     },
     {
       "id": 6,
       "type": "vocabulary",
-      "knowledge_point": "phrasal_verbs",
-      "difficulty": 2,
-      "stem": "We should ______ our best to protect the environment and save energy.",
-      "options": [
-        "A. try",
-        "B. do",
-        "C. make",
-        "D. give"
-      ],
-      "correct_answer": "A",
-      "explanation": "本题考查固定搭配（短语动词）。try one's best是固定搭配，意为'尽某人最大努力'；do one's best虽然也有'尽力'的意思，但通常与try one's best互换使用，而本题选项中try更符合常用搭配；make one's best不是固定搭配；give one's best表示'付出最好的'，但不如try one's best常用。因此选A。解题技巧：记住固定搭配try one's best to do sth. = do one's best to do sth.（尽某人最大努力做某事）。",
-      "label": "词汇题"
+      "knowledge_point": "word_form",
+      "stem": "The young man is very _____. He always comes up with new ideas. (create)",
+      "options": ["A. create", "B. creative", "C. creation", "D. creator"],
+      "correct_answer": "B",
+      "explanation": "空格前有 very，后面是句号，需要一个形容词作表语。create 是动词'创造'；creative 是形容词'有创造力的'；creation 是名词'创造物'；creator 是名词'创造者'。very 修饰形容词，选 creative。",
+      "group": null
     },
     {
       "id": 7,
       "type": "vocabulary",
-      "knowledge_point": "word_formation",
-      "difficulty": 2,
-      "stem": "The ______ news made all of us feel very ______.",
-      "options": [
-        "A. excited; exciting",
-        "B. exciting; excited",
-        "C. excited; excited",
-        "D. exciting; exciting"
-      ],
-      "correct_answer": "B",
-      "explanation": "本题考查-ing形容词和-ed形容词的区别。exciting意为'令人兴奋的'，用于修饰事物（news消息）；excited意为'感到兴奋的'，用于修饰人（us我们）。第一空修饰news（物），用exciting；第二空修饰us（人），用excited。因此选B。解题口诀：'-ing形容物，-ed形容人'，即-ing结尾的形容词表示'令人……的'，修饰事物；-ed结尾的形容词表示'感到……的'，修饰人。类似的还有interesting/interested, boring/bored等。",
-      "label": "词汇题"
+      "knowledge_point": "phrase_collocation",
+      "stem": "We should _____ action to protect endangered animals before it is too late.",
+      "options": ["A. make", "B. do", "C. take", "D. have"],
+      "correct_answer": "C",
+      "explanation": "take action 是固定搭配，意思是'采取行动'。make 搭配 decision/mistake；do 搭配 homework/housework；have 搭配 fun/a good time。注意固定动词搭配的积累。",
+      "group": null
     },
     {
       "id": 8,
       "type": "cloze",
-      "group": "cloze_1",
-      "group_passage": "Last month, our school started a \"Green Campus\" project. All the students were asked to (8)______ in it. The goal was to make our school more beautiful and environmentally (9)______.\n\nAt first, some students thought it was (10)______ to change their old habits. However, with the teachers' help, we found it was not so hard. We (11)______ many activities, such as planting trees and collecting plastic bottles.\n\nThe most interesting part was designing a small garden (12)______ the teaching building. Everyone contributed their ideas. Now, whenever we pass by the garden, we feel proud of what we have done.",
       "knowledge_point": "cloze_general",
-      "difficulty": 1,
-      "stem": "(8)______",
-      "options": [
-        "A. join",
-        "B. attend",
-        "C. participate",
-        "D. enter"
-      ],
-      "correct_answer": "C",
-      "explanation": "本题考查动词与介词的搭配。空格后有介词in，participate in是固定搭配，意为'参加'；join通常直接加组织（join the club）或join sb. in sth.；attend通常指参加会议、课程（attend the meeting）；enter意为'进入'。因此选C。解题技巧：看到后面的介词in，优先考虑participate in或take part in（选项中没有take part），这是完形填空中常见的固定搭配考点。",
-      "label": "完形填空"
+      "stem": "Last month, our school held a special art competition. Students could use anything from nature to create their works. At first, I had no (8)_____ what to make.",
+      "options": ["A. idea", "B. interest", "C. courage", "D. chance"],
+      "correct_answer": "A",
+      "explanation": "have no idea 是固定搭配，意思是'不知道，没有想法'。根据上下文，学校举办自然材料艺术比赛，'我'一开始不知道做什么。interest'兴趣'、courage'勇气'、chance'机会'都不符合'不知道做什么'的语境。",
+      "group": "cloze_art"
     },
     {
       "id": 9,
       "type": "cloze",
-      "group": "cloze_1",
       "knowledge_point": "cloze_general",
-      "difficulty": 2,
-      "stem": "(9)______",
-      "options": [
-        "A. friendly",
-        "B. harmful",
-        "C. helpful",
-        "D. careful"
-      ],
-      "correct_answer": "A",
-      "explanation": "本题考查形容词词义辨析及语境理解。environmentally friendly是固定搭配，意为'环保的'；harmful有害的；helpful有帮助的；careful小心的。前文提到'Green Campus' project（绿色校园项目），目的是让学校更美丽且环保，因此选A。解题技巧：注意environmentally与friendly的固定搭配，这是环保类文章的高频词汇。同时注意and连接并列成分，beautiful（美好的）与friendly（友好的/环保的）感情色彩一致。",
-      "label": "完形填空"
+      "stem": "My friend Lily suggested collecting fallen leaves. 'They have such beautiful colours!' she said (9)_____. Her excitement was catching.",
+      "options": ["A. sadly", "B. angrily", "C. excitedly", "D. nervously"],
+      "correct_answer": "C",
+      "explanation": "从 Lily 说的话'它们有好漂亮的颜色！'和后一句'她的兴奋具有感染力'可以推断她说话时很兴奋(excitedly)。sadly'悲伤地'、angrily'生气地'、nervously'紧张地'都与语境不符。注意利用后文 excitement 反推情绪词。",
+      "group": "cloze_art"
     },
     {
       "id": 10,
       "type": "cloze",
-      "group": "cloze_1",
       "knowledge_point": "cloze_general",
-      "difficulty": 2,
-      "stem": "(10)______",
-      "options": [
-        "A. easy",
-        "B. possible",
-        "C. difficult",
-        "D. necessary"
-      ],
-      "correct_answer": "C",
-      "explanation": "本题考查形容词辨析及上下文逻辑。后文However（然而）表示转折，'we found it was not so hard'（我们发现并不难），说明前文应该表示'难'。difficult困难的；easy容易的；possible可能的；necessary必要的。因此选C。解题技巧：However是重要信号词，表示前后句意相反。后文not so hard（不难）对应前文difficult（困难），形成转折关系。",
-      "label": "完形填空"
+      "stem": "We spent the whole afternoon in the park, picking up leaves of different shapes and sizes. I was surprised to find that even the (10)_____ leaves on the ground could become art.",
+      "options": ["A. fresh", "B. dry", "C. green", "D. large"],
+      "correct_answer": "B",
+      "explanation": "落叶掉在地上已经干枯了，dry leaves'干枯的叶子'最合语境。前文说 fallen leaves（落叶），地上的落叶是干的。fresh'新鲜的'、green'绿色的'与落叶矛盾；large'大的'没有对比意义。跨句推理：fallen → ground → dry。",
+      "group": "cloze_art"
     },
     {
       "id": 11,
       "type": "cloze",
-      "group": "cloze_1",
       "knowledge_point": "cloze_general",
-      "difficulty": 2,
-      "stem": "(11)______",
-      "options": [
-        "A. organized",
-        "B. joined",
-        "C. took",
-        "D. had"
-      ],
+      "stem": "On the day of the exhibition, many students (11)_____ around our artwork and took photos. Some teachers said it was the most creative piece they had ever seen.",
+      "options": ["A. gathered", "B. practised", "C. argued", "D. competed"],
       "correct_answer": "A",
-      "explanation": "本题考查动词与宾语的搭配。空格后的宾语是many activities（许多活动），organized activities意为'组织活动'；join通常指加入组织或人；take part in才是'参加'；have activities虽然可以搭配，但不如organized符合语境（学生发起项目，组织活动）。因此选A。解题技巧：注意动宾搭配，organize activities是常见搭配，且与主语we（学生）搭配合理，表示'我们组织了许多活动'。",
-      "label": "完形填空"
+      "explanation": "根据语境，展览日很多同学围在作品旁拍照，gathered around'聚集在周围'最合适。practised'练习'、argued'争论'、competed'竞争'都不符合展览日同学围观拍照的场景。注意 gather around 是常见搭配。",
+      "group": "cloze_art"
     },
     {
       "id": 12,
       "type": "cloze",
-      "group": "cloze_1",
       "knowledge_point": "cloze_general",
-      "difficulty": 1,
-      "stem": "(12)______",
-      "options": [
-        "A. behind",
-        "B. under",
-        "C. above",
-        "D. between"
-      ],
-      "correct_answer": "A",
-      "explanation": "本题考查介词词义辨析。behind在……后面；under在……正下方；above在……上方；between在……之间（两者）。根据语境，设计花园应该在教学楼后面比较合理，under（在楼下）和above（在楼上）不太符合实际，between需要两个对象。因此选A。解题技巧：结合生活常识，校园里的花园通常建在教学楼后面或旁边，behind the teaching building（教学楼后面）是最合理的选项。",
-      "label": "完形填空"
+      "stem": "Although we didn't win first prize, I learned an important (12)_____: beauty is everywhere if you look carefully enough.",
+      "options": ["A. skill", "B. rule", "C. lesson", "D. habit"],
+      "correct_answer": "C",
+      "explanation": "learn a lesson 是固定搭配，意思是'学到一个教训/道理'。后面'美无处不在，只要你仔细观察'是一个人生道理。skill'技能'、rule'规则'、habit'习惯'都不搭配 learn...from experience 的语境。",
+      "group": "cloze_art"
     },
     {
       "id": 13,
       "type": "reading",
-      "group": "reading_1",
-      "group_passage": "Smart homes are becoming popular in modern cities. A smart home uses technology to make life easier and more comfortable.\n\nIn a smart home, you can control almost everything with your smartphone. For example, before you arrive home, you can turn on the air conditioner so that the room is cool when you enter. The smart fridge can tell you what food you need to buy. It even suggests healthy recipes based on what is inside.\n\nHowever, some people worry about privacy. The devices collect data about your daily habits. If this information is not well protected, it could be dangerous.\n\nDespite these concerns, smart home technology is developing rapidly. Experts believe that in the future, smart homes will be more affordable and safer for everyone.",
       "knowledge_point": "detail",
-      "difficulty": 2,
-      "stem": "What can people do with a smart home according to the passage?",
-      "options": [
-        "A. Cook meals automatically",
-        "B. Control home devices remotely",
-        "C. Buy food online directly",
-        "D. Build houses more quickly"
-      ],
+      "stem": "According to the passage, what is the main problem with plastic cutlery?",
+      "options": ["A. It is too expensive to produce.", "B. It takes hundreds of years to break down.", "C. It is difficult to use for eating.", "D. It cannot be recycled at all."],
       "correct_answer": "B",
-      "explanation": "本题考查细节理解。根据第二段'you can control almost everything with your smartphone'（你可以用智能手机控制几乎所有东西）以及'before you arrive home, you can turn on the air conditioner'（到家前可以打开空调）可知，人们可以远程控制家居设备。remotely意为'远程地'。A选项自动做饭文中未提及（只是提供食谱）；C选项直接在线购买食物文中未提及；D选项更快建房与文意无关。因此选B。解题技巧：细节题要找准关键词，control和smartphone是定位词，对应选项中的Control和remotely。",
-      "label": "阅读-细节理解"
+      "explanation": "原文说 plastic forks, spoons, and knives...take hundreds of years to decompose，即塑料餐具需要数百年才能分解。A 文中未提及成本高；C 不符合常识；D 文中说的是难以分解，不是完全不能回收。做细节题要回文定位关键信息。",
+      "group": "reading_cutlery",
+      "group_passage": "Every year, billions of plastic forks, spoons, and knives are thrown away after just one use. Most of them end up in landfills or oceans, where they take hundreds of years to decompose. This has led some inventors to come up with a surprising solution: cutlery you can eat.\n\nEdible cutlery is made from natural ingredients like wheat flour, rice, and corn. After you finish your meal, you can simply eat the spoon or fork. If you choose not to eat it, no worries -- it will break down naturally in just a few days, unlike plastic, which pollutes the environment for centuries.\n\nThe idea first became popular in India, where a company called Bakeys started producing edible spoons in 2010. The founder, Narayana Peesapaty, was worried about the amount of plastic waste in his country. He spent years testing different recipes until he found one that was strong enough to hold hot soup without getting soft too quickly.\n\nToday, edible cutlery comes in many flavours, including chocolate, vanilla, and even spicy options. Some restaurants in Europe and Asia have started using them. However, the cost is still higher than plastic -- an edible spoon costs about three times more. Supporters believe that as production increases, prices will drop.\n\nCritics point out that edible cutlery alone cannot solve the plastic problem. But Peesapaty argues that every small step matters. 'If we can replace even 10% of plastic cutlery,' he says, 'that is billions of pieces of plastic saved from the ocean.'"
     },
     {
       "id": 14,
       "type": "reading",
-      "group": "reading_1",
-      "knowledge_point": "word_guessing",
-      "difficulty": 1,
-      "stem": "What does the underlined word 'affordable' in the last paragraph most probably mean?",
-      "options": [
-        "A. Expensive",
-        "B. Cheap enough to buy",
-        "C. Beautiful",
-        "D. Comfortable"
-      ],
+      "knowledge_point": "inference",
+      "stem": "Why did Narayana Peesapaty spend years testing different recipes?",
+      "options": ["A. He wanted to make the spoons taste like chocolate.", "B. He needed to find a recipe that could hold hot food.", "C. He tried to make the cheapest spoons possible.", "D. He wanted to open a restaurant in India."],
       "correct_answer": "B",
-      "explanation": "本题考查词义猜测。根据上下文，尽管有隐私担忧，智能家居技术正在快速发展，专家相信未来对每个人来说会更加affordable和更安全。and连接并列成分，safer（更安全）是正面词汇，affordable也应该是正面词汇。且通常技术发展后价格会降低，让更多人能买得起。expensive昂贵的（负面）；cheap enough to buy足够便宜可以买；beautiful美丽的；comfortable舒适的。因此选B。解题技巧：利用上下文逻辑（and并列）和常识（技术发展→价格降低→普及），affordable的词根是afford（负担得起），able表示'能够'，因此affordable意为'负担得起的，价格合理的'。",
-      "label": "阅读-词义猜测"
+      "explanation": "原文说 He spent years testing different recipes until he found one that was strong enough to hold hot soup without getting soft too quickly。推断他反复试验是为了找到能承受热食物的配方。A 文中巧克力是后来的口味选择，不是他试验的目的；C 和 D 文中未提及。推理题要根据原文细节推进一步。",
+      "group": "reading_cutlery"
     },
     {
       "id": 15,
       "type": "reading",
-      "group": "reading_1",
-      "knowledge_point": "inference",
-      "difficulty": 2,
-      "stem": "What can we learn about smart homes from the passage?",
-      "options": [
-        "A. Everyone has a smart home now",
-        "B. Smart homes have no problems at all",
-        "C. Smart homes may have privacy risks",
-        "D. Smart homes are only for rich people"
-      ],
-      "correct_answer": "C",
-      "explanation": "本题考查推理判断。根据第三段'some people worry about privacy. The devices collect data about your daily habits. If this information is not well protected, it could be dangerous'可知，智能家居设备收集用户日常习惯数据，如果保护不好会有危险，即存在隐私风险。A选项每个人现在都有智能家居，文中说'正在流行'而非每个人都有；B选项完全没有问题，与文中privacy担忧矛盾；D选项只给富人用，文中说未来会更affordable（人人负担得起），暗示现在可能较贵但并非只给富人，且未来会普及。因此选C。解题技巧：推理题要基于原文信息合理推断，不能过度推断，也要注意排除与原文矛盾的选项。",
-      "label": "阅读-推理判断"
+      "knowledge_point": "word_guessing",
+      "stem": "The word 'decompose' in Paragraph 1 is closest in meaning to _____.",
+      "options": ["A. break down", "B. blow away", "C. heat up", "D. pick up"],
+      "correct_answer": "A",
+      "explanation": "decompose 意为'分解、腐烂'。上下文说塑料餐具被丢弃后在垃圾填埋场或海洋中需要数百年才能 decompose，后文也用 break down naturally 描述可食用餐具的分解过程。break down = decompose'分解'。做词义猜测题要在上下文找同义替换线索。",
+      "group": "reading_cutlery"
     },
     {
       "id": 16,
       "type": "reading",
-      "group": "reading_1",
-      "knowledge_point": "main_idea",
-      "difficulty": 3,
-      "stem": "What is the best title for this passage?",
-      "options": [
-        "A. The History of Smart Homes",
-        "B. How to Build a Smart Home",
-        "C. Smart Homes: Benefits and Concerns",
-        "D. Why Smart Homes Are Expensive"
-      ],
-      "correct_answer": "C",
-      "explanation": "本题考查主旨大意（最佳标题）。文章第一段介绍智能家居流行，第二段介绍优点（便利、舒适），第三段介绍担忧（隐私），第四段展望未来。因此文章既讲了好处也讲了担忧。A选项历史，文中未讲历史；B选项如何建造，文中未讲建造方法；D选项为什么贵，文中未重点讨论价格。C选项'智能家居：好处与担忧'概括全面。因此选C。解题技巧：主旨题要覆盖全文内容，不能只概括某一段。文章结构是'总-分-总'，分述部分既有优点也有缺点，因此标题要体现两面性。",
-      "label": "阅读-主旨大意"
+      "knowledge_point": "attitude_purpose",
+      "stem": "What is Peesapaty's attitude towards solving the plastic problem?",
+      "options": ["A. He thinks it is completely hopeless.", "B. He believes every small change can help.", "C. He thinks only governments can solve it.", "D. He is not interested in the problem any more."],
+      "correct_answer": "B",
+      "explanation": "原文最后一段引用 Peesapaty 的话：every small step matters，If we can replace even 10%...that is billions of pieces saved。他认为每一小步都有意义，即使只替换10%也能拯救数十亿塑料。所以他的态度是积极的——每个小改变都有帮助。做观点态度题关注人物直接引语。",
+      "group": "reading_cutlery"
     },
     {
       "id": 17,
       "type": "fill",
-      "group": "fill_1",
-      "group_passage": "School life is busy but colorful. Here are some tips to help you stay healthy and happy at school.\n\n(17)______ First, plan your time carefully. Make a timetable and follow it. This helps you finish homework on time and still have time for hobbies.\n\nSecond, take exercise regularly. You don't need to do sports for hours. Even a 15-minute walk after lunch can make a difference. (18)______ It can improve your memory and help you study better.\n\n(19)______ Try to eat more fruits and vegetables. Avoid too much junk food like hamburgers and cola. A healthy diet gives you energy for the whole day.\n\nFinally, stay positive. When you face difficulties, talk to your teachers or friends. (20)______ Remember, a healthy mind is as important as a healthy body.",
       "knowledge_point": "sentence_fill",
-      "difficulty": 2,
-      "stem": "(17)______",
-      "options": [
-        "A. However, many students don't know how to do it.",
-        "B. Physical activity is good for both your body and brain.",
-        "C. As a result, you will feel less stressed and more confident.",
-        "D. Third, pay attention to your diet.",
-        "E. Getting enough sleep is also very important."
-      ],
-      "correct_answer": "A",
-      "explanation": "本题考查段落衔接与逻辑关系。前文说'这里有一些建议帮助你在学校保持健康快乐'，后文立即开始讲'First, plan your time...'（第一，计划时间）。因此中间需要一个过渡句，承上启下。A选项'然而，许多学生不知道如何做'起到过渡作用，引出下文的具体建议。B讲锻炼，与First不匹配；C是结果状语；D是Third；E讲睡眠。因此选A。解题技巧：选句填空要注意上下文逻辑，前文提出tips，后文列举First，中间用A选项过渡最自然，形成'提建议-指出问题-给方法'的逻辑链。",
-      "label": "短文填空"
+      "stem": "(17)_____",
+      "options": ["A. They can also learn to be responsible for another life.", "B. The community centre held a Pet Adoption Day last Saturday.", "C. Volunteers helped match each family with the right pet.", "D. Some children were so excited that they couldn't stop smiling.", "E. The event was organised to raise money for a new library."],
+      "correct_answer": "B",
+      "explanation": "第一段开头需要引出主题——社区宠物领养日活动。B 句'上周六社区中心举办了宠物领养日'是全文的引入句，交代了时间、地点和事件。其他选项都是后续细节，不适合放在文章开头。",
+      "group": "fill_pet",
+      "group_passage": "(17)_____ More than fifty cats and dogs were looking for new homes. The hall was decorated with colourful posters that read 'Give Me a Home.'\n\nFamilies from the neighbourhood came early in the morning. (18)_____ A little boy named Jack fell in love with a brown puppy at first sight. 'Can we take him home, Mum?' he asked.\n\n(19)_____ They explained how much food each animal needed, how often to take dogs for walks, and what to do if a pet got sick. This way, every animal could find a suitable family.\n\nThe event was a big success -- thirty-two animals found new homes that day. For children like Jack, having a pet is more than just fun. (20)_____ As Jack said on his way home, hugging his new puppy, 'I promise I will take good care of you.'"
     },
     {
       "id": 18,
       "type": "fill",
-      "group": "fill_1",
       "knowledge_point": "sentence_fill",
-      "difficulty": 2,
-      "stem": "(18)______",
-      "options": [
-        "A. However, many students don't know how to do it.",
-        "B. Physical activity is good for both your body and brain.",
-        "C. As a result, you will feel less stressed and more confident.",
-        "D. Third, pay attention to your diet.",
-        "E. Getting enough sleep is also very important."
-      ],
-      "correct_answer": "B",
-      "explanation": "本题考查段落内部的逻辑衔接。本段主题是'take exercise regularly'（定期锻炼），前句说'午饭后散步15分钟也有作用'，后句说'它能提高记忆力帮助学习更好'。因此空格处应该解释锻炼的好处，承上启下。B选项'体育活动对身心都有益'既承接上文的exercise/walk，又引出下文improve memory（大脑）和body。因此选B。解题技巧：利用关键词复现，选项中的Physical activity对应段落的exercise，body and brain对应后文的memory（brain）和隐含的body健康。",
-      "label": "短文填空"
+      "stem": "(18)_____",
+      "options": ["A. They can also learn to be responsible for another life.", "B. The community centre held a Pet Adoption Day last Saturday.", "C. Volunteers helped match each family with the right pet.", "D. Some children were so excited that they couldn't stop smiling.", "E. The event was organised to raise money for a new library."],
+      "correct_answer": "D",
+      "explanation": "第二段描述家庭早早来到现场，后文提到小男孩 Jack 一见钟情一只小狗。D 句'有些孩子兴奋得停不下来笑'衔接了家庭到来后孩子们的反应，与后文 Jack 的表现形成连贯叙述。C 是志愿者匹配的内容，放在第三段更合适。",
+      "group": "fill_pet"
     },
     {
       "id": 19,
       "type": "fill",
-      "group": "fill_1",
       "knowledge_point": "sentence_fill",
-      "difficulty": 1,
-      "stem": "(19)______",
-      "options": [
-        "A. However, many students don't know how to do it.",
-        "B. Physical activity is good for both your body and brain.",
-        "C. As a result, you will feel less stressed and more confident.",
-        "D. Third, pay attention to your diet.",
-        "E. Getting enough sleep is also very important."
-      ],
-      "correct_answer": "D",
-      "explanation": "本题考查段落间的顺序衔接。前文有First（第一）、Second（第二），后文有Finally（最后），因此此处应该是Third（第三）。D选项'Third, pay attention to your diet'（第三，注意你的饮食）符合顺序逻辑，且本段内容讲多吃水果蔬菜、避免垃圾食品，正是关于饮食（diet）。因此选D。解题技巧：关注结构词（First, Second, Third, Finally），这是选句填空中最明显的线索，属于'顺序逻辑'。",
-      "label": "短文填空"
+      "stem": "(19)_____",
+      "options": ["A. They can also learn to be responsible for another life.", "B. The community centre held a Pet Adoption Day last Saturday.", "C. Volunteers helped match each family with the right pet.", "D. Some children were so excited that they couldn't stop smiling.", "E. The event was organised to raise money for a new library."],
+      "correct_answer": "C",
+      "explanation": "第三段后文详细描述了喂食量、遛狗频率、宠物生病怎么办等匹配工作的细节。C 句'志愿者帮助每个家庭匹配合适的宠物'是这些细节的总起句，逻辑最通顺。They explained 中的 They 指代 volunteers。",
+      "group": "fill_pet"
     },
     {
       "id": 20,
       "type": "fill",
-      "group": "fill_1",
       "knowledge_point": "sentence_fill",
-      "difficulty": 2,
-      "stem": "(20)______",
-      "options": [
-        "A. However, many students don't know how to do it.",
-        "B. Physical activity is good for both your body and brain.",
-        "C. As a result, you will feel less stressed and more confident.",
-        "D. Third, pay attention to your diet.",
-        "E. Getting enough sleep is also very important."
-      ],
-      "correct_answer": "C",
-      "explanation": "本题考查因果关系。前文说'当你遇到困难时，和老师或朋友谈谈'，后文说'记住，健康的头脑和健康的身体一样重要'。因此空格处应该是'和他人倾诉'带来的结果。C选项'因此，你会感到压力更小、更自信'是前文行为（talk to teachers or friends）的结果，as a result表示因果关系。因此选C。解题技巧：注意逻辑关系词，前文是建议/行为，后文是总结，中间用'结果'连接最合理。同时less stressed与后文的healthy mind相呼应。",
-      "label": "短文填空"
+      "stem": "(20)_____",
+      "options": ["A. They can also learn to be responsible for another life.", "B. The community centre held a Pet Adoption Day last Saturday.", "C. Volunteers helped match each family with the right pet.", "D. Some children were so excited that they couldn't stop smiling.", "E. The event was organised to raise money for a new library."],
+      "correct_answer": "A",
+      "explanation": "最后一段说养宠物不仅仅是乐趣(more than just fun)，后面需要补充'还能怎样'。A 句'他们还能学会对另一个生命负责'承接 more than just fun，与后文 Jack 说的'我保证好好照顾你'形成呼应。E 是干扰项，与全文宠物领养主题无关。",
+      "group": "fill_pet"
     }
   ]
 }
