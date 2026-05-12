@@ -280,6 +280,13 @@
       "total": 20,
       "correct": 18,
       "rate": 90
+    },
+    {
+      "date": "2026-05-12",
+      "session": 1,
+      "total": 20,
+      "correct": 18,
+      "rate": 90
     }
   ],
   "errors": [
@@ -589,6 +596,42 @@
       "correct_answer": "B",
       "student_answer": "A",
       "explanation": "本题考查被动语态和主谓一致。paper与throw away（扔掉）是被动关系，且tons of paper（数吨纸）是复数概念，因此用were thrown。was thrown用于单数；have thrown和threw都是主动语态。解题技巧：tons of+名词，谓语动词与tons保持一致，用复数；paper是不可数名词，但tons是复数。"
+    },
+    {
+      "date": "2026-05-12",
+      "session": 1,
+      "question_id": 11,
+      "type": "cloze",
+      "knowledge_point": "cloze_general",
+      "label": "完形填空",
+      "stem": "On the day of the exhibition, many students (11)_____ around our artwork and took photos. Some teachers said it was the most creative piece they had ever seen.",
+      "options": [
+        "A. gathered",
+        "B. practised",
+        "C. argued",
+        "D. competed"
+      ],
+      "correct_answer": "A",
+      "student_answer": "B",
+      "explanation": "根据语境，展览日很多同学围在作品旁拍照，gathered around'聚集在周围'最合适。practised'练习'、argued'争论'、competed'竞争'都不符合展览日同学围观拍照的场景。注意 gather around 是常见搭配。"
+    },
+    {
+      "date": "2026-05-12",
+      "session": 1,
+      "question_id": 14,
+      "type": "reading",
+      "knowledge_point": "inference",
+      "label": "阅读-推理判断",
+      "stem": "Why did Narayana Peesapaty spend years testing different recipes?",
+      "options": [
+        "A. He wanted to make the spoons taste like chocolate.",
+        "B. He needed to find a recipe that could hold hot food.",
+        "C. He tried to make the cheapest spoons possible.",
+        "D. He wanted to open a restaurant in India."
+      ],
+      "correct_answer": "B",
+      "student_answer": "C",
+      "explanation": "原文说 He spent years testing different recipes until he found one that was strong enough to hold hot soup without getting soft too quickly。推断他反复试验是为了找到能承受热食物的配方。A 文中巧克力是后来的口味选择，不是他试验的目的；C 和 D 文中未提及。推理题要根据原文细节推进一步。"
     }
   ]
 }
