@@ -1,211 +1,356 @@
-{
-  "date": "2026-05-12",
-  "day": 46,
+﻿{
+  "date": "2026-05-13",
   "session_number": 1,
-  "total_questions": 20,
-  "difficulty": "grammar/vocab 2, cloze 3, reading 2, fill 2",
   "questions": [
     {
       "id": 1,
       "type": "grammar",
-      "knowledge_point": "present_perfect",
-      "stem": "-- Where is your father?\n-- He _____ Shanghai. He will be back next week.",
-      "options": ["A. has been to", "B. has gone to", "C. has been in", "D. went to"],
-      "correct_answer": "B",
-      "explanation": "has been to 表示'去过某地（已回来）'，has gone to 表示'去了某地（还没回来）'。爸爸不在这里，下周才回来，说明他去了上海还没回来，用 has gone to。has been in 表示'一直待在某地'，不符合语境。",
-      "group": null
+      "knowledge_point": "passive_voice",
+      "difficulty": 1,
+      "stem": "The book _____ by many students in our school last year.",
+      "options": [
+        "A. reads",
+        "B. is read",
+        "C. was read",
+        "D. reading"
+      ],
+      "correct_answer": "C",
+      "explanation": "本题考查一般过去时的被动语态。由时间状语last year（去年）可知要用过去时；主语The book与read之间是被动关系（书被读），所以用被动语态was/were + 过去分词。book是单数，故用was read。A是主动语态第三人称单数；B是一般现在时被动语态，时态不符；D是现在分词，不能单独作谓语。",
+      "label": "语法题"
     },
     {
       "id": 2,
       "type": "grammar",
-      "knowledge_point": "object_clause",
-      "stem": "Do you know _____ the school sports meeting will be held?",
-      "options": ["A. that", "B. when", "C. what", "D. who"],
-      "correct_answer": "B",
-      "explanation": "宾语从句中缺少时间状语，问的是运动会什么时候举行，所以用 when 引导。that 不做成分但从句不缺成分时用；what 做主语或宾语；who 指人。这里从句 the school sports meeting will be held 结构完整，只缺时间，选 when。",
-      "group": null
+      "knowledge_point": "present_perfect_vs_past_simple",
+      "difficulty": 2,
+      "stem": "—Where is Mr. Green? —He _____ to the library. He _____ there ten minutes ago.",
+      "options": [
+        "A. has gone; went",
+        "B. went; has gone",
+        "C. has been; went",
+        "D. goes; went"
+      ],
+      "correct_answer": "A",
+      "explanation": "本题考查现在完成时与一般过去时的区别。第一空：has gone to表示'去了某地（现在不在说话现场）'，符合语境（Mr. Green现在不在这里）；has been to表示'去过某地（已回来）'，不符合。第二空：ten minutes ago是具体的过去时间状语，只能用一般过去时went。口诀：有ago用过去，have/has gone表去了未回。",
+      "label": "语法题"
     },
     {
       "id": 3,
       "type": "grammar",
-      "knowledge_point": "relative_clause",
-      "stem": "The girl _____ is reading under the tree is my cousin.",
-      "options": ["A. which", "B. what", "C. who", "D. whom"],
-      "correct_answer": "C",
-      "explanation": "定语从句中先行词是 the girl（人），关系代词在从句中作主语（is reading 的主语），所以用 who。which 用于修饰物；what 不引导定语从句；whom 在从句中作宾语，这里需要作主语，不能用 whom。",
-      "group": null
+      "knowledge_point": "relative_clause_who_which",
+      "difficulty": 2,
+      "stem": "The girl _____ is wearing a red dress is my best friend.",
+      "options": [
+        "A. which",
+        "B. who",
+        "C. whom",
+        "D. whose"
+      ],
+      "correct_answer": "B",
+      "explanation": "本题考查定语从句关系代词的选择。先行词是The girl（指人），且关系代词在从句中作主语（is wearing），所以用who。which指物；whom指人但只能作宾语；whose表示'谁的'，在从句中作定语。判断技巧：先行词是人且从句缺主语，选who。",
+      "label": "语法题"
     },
     {
       "id": 4,
       "type": "grammar",
-      "knowledge_point": "conditional",
-      "stem": "If it _____ tomorrow, we will go hiking in the mountains.",
-      "options": ["A. won't rain", "B. doesn't rain", "C. didn't rain", "D. isn't raining"],
-      "correct_answer": "B",
-      "explanation": "if 引导的真实条件状语从句遵循'主将从现'原则：主句用一般将来时(will go)，从句用一般现在时。tomorrow 是将来时间，但 if 从句中不能用 will，所以选 doesn't rain（一般现在时否定）。",
-      "group": null
+      "knowledge_point": "modal_verbs_speculation",
+      "difficulty": 3,
+      "stem": "—Is that Mr. Wang knocking at the door? —It _____ be him. He has gone to Shanghai on business.",
+      "options": [
+        "A. must",
+        "B. might",
+        "C. can't",
+        "D. should"
+      ],
+      "correct_answer": "C",
+      "explanation": "本题考查情态动词表推测的用法。根据后句'He has gone to Shanghai on business（他去上海出差了）'可知，敲门的'不可能'是他。can't表示'不可能'（否定推测）；must表示'一定是'（肯定推测）；might表示'可能是'（不确定）；should表示'应该是'。解题关键：抓住has gone to（去了未回）这一关键信息，确定是否定推测。",
+      "label": "语法题"
     },
     {
       "id": 5,
-      "type": "grammar",
-      "knowledge_point": "exclamatory",
-      "stem": "_____ useful advice he gave us! We all learned a lot.",
-      "options": ["A. What", "B. How", "C. What a", "D. What an"],
+      "type": "vocabulary",
+      "knowledge_point": "phrasal_verbs",
+      "difficulty": 1,
+      "stem": "We should _____ good habits of reading every day.",
+      "options": [
+        "A. develop",
+        "B. make",
+        "C. do",
+        "D. take"
+      ],
       "correct_answer": "A",
-      "explanation": "感叹句结构：What + (a/an) + adj. + n.! 或 How + adj./adv.! 这里 advice 是不可数名词，不能加 a/an，所以用 What useful advice（What + adj. + 不可数名词）。How 后面直接加形容词，不加名词。",
-      "group": null
+      "explanation": "本题考查固定搭配develop habits（养成习惯）。develop表示'培养、养成'，develop good habits是标准搭配。make表示'制作'；do表示'做'；take表示'拿、花费'。常见搭配记忆：develop/form good habits（养成好习惯），get rid of bad habits（改掉坏习惯）。",
+      "label": "词汇题"
     },
     {
       "id": 6,
       "type": "vocabulary",
-      "knowledge_point": "word_form",
-      "stem": "The young man is very _____. He always comes up with new ideas. (create)",
-      "options": ["A. create", "B. creative", "C. creation", "D. creator"],
+      "knowledge_point": "word_meaning_context",
+      "difficulty": 2,
+      "stem": "The task is too difficult. I think it is _____ for a 10-year-old child to finish it alone.",
+      "options": [
+        "A. hard",
+        "B. impossible",
+        "C. easy",
+        "D. necessary"
+      ],
       "correct_answer": "B",
-      "explanation": "空格前有 very，后面是句号，需要一个形容词作表语。create 是动词'创造'；creative 是形容词'有创造力的'；creation 是名词'创造物'；creator 是名词'创造者'。very 修饰形容词，选 creative。",
-      "group": null
+      "explanation": "本题考查形容词辨析及上下文理解。前句说'任务太难了'，所以后句应该是'对10岁孩子来说不可能独自完成'。impossible表示'不可能的'；hard虽然也表示'困难的'，但与前句difficult重复，且逻辑上不如impossible递进；easy（容易的）与句意相反；necessary（必要的）不符合语境。",
+      "label": "词汇题"
     },
     {
       "id": 7,
       "type": "vocabulary",
-      "knowledge_point": "phrase_collocation",
-      "stem": "We should _____ action to protect endangered animals before it is too late.",
-      "options": ["A. make", "B. do", "C. take", "D. have"],
-      "correct_answer": "C",
-      "explanation": "take action 是固定搭配，意思是'采取行动'。make 搭配 decision/mistake；do 搭配 homework/housework；have 搭配 fun/a good time。注意固定动词搭配的积累。",
-      "group": null
+      "knowledge_point": "prefixes",
+      "difficulty": 2,
+      "stem": "The news is quite _____. I don't believe it at all.",
+      "options": [
+        "A. believable",
+        "B. unbelievable",
+        "C. believed",
+        "D. believing"
+      ],
+      "correct_answer": "B",
+      "explanation": "本题考查构词法（前缀un-）。根据后句'我根本不相信'可知消息是'难以置信的'。unbelievable = un-（不）+ believable（可信的），表示'难以置信的'。believable（可信的）与句意相反；believed是过去分词；believing是现在分词。前缀un-常表示否定：unhappy, unhealthy, unable等。",
+      "label": "词汇题"
     },
     {
       "id": 8,
       "type": "cloze",
-      "knowledge_point": "cloze_general",
-      "stem": "Last month, our school held a special art competition. Students could use anything from nature to create their works. At first, I had no (8)_____ what to make.",
-      "options": ["A. idea", "B. interest", "C. courage", "D. chance"],
+      "knowledge_point": "cloze_context",
+      "difficulty": 2,
+      "group": "cloze_1",
+      "group_passage": "Last month, our class started a special project — creating a school garden. Everyone was excited about it because we could learn about nature while helping the environment.\n\nFirst, we (8)______ a suitable place behind the classroom building. It was an empty corner that no one used. Then we cleaned the area and removed the rubbish. Some students brought (9)______ from home, such as tomatoes and carrots. We worked together to plant them carefully.\n\nThe most challenging part was watering the plants every day. At first, some plants didn't grow well and we felt (10)______. However, our science teacher encouraged us to keep trying. She explained that plants need time and care. Two weeks later, we saw small green leaves appearing. Everyone cheered with joy.\n\nNow our garden looks beautiful. It not only makes our school greener but also teaches us responsibility. When we see the fresh vegetables, we feel proud that we (11)______ something meaningful. This project has shown us that small actions (12)______ make a big difference to our environment.",
+      "stem": "(8)______",
+      "options": [
+        "A. chose",
+        "B. built",
+        "C. drew",
+        "D. bought"
+      ],
       "correct_answer": "A",
-      "explanation": "have no idea 是固定搭配，意思是'不知道，没有想法'。根据上下文，学校举办自然材料艺术比赛，'我'一开始不知道做什么。interest'兴趣'、courage'勇气'、chance'机会'都不符合'不知道做什么'的语境。",
-      "group": "cloze_art"
+      "explanation": "本题考查语境推理。根据上下文'一个没人使用的空角落'可知，首先是'选择'了一个合适的地方。chose（choose的过去式）表示'选择'；built表示'建造'，但后文说'然后我们才清理区域'，说明还没开始建造；drew表示'画'；bought表示'买'，地方不需要买。逻辑顺序：先选址，再清理，再种植。",
+      "label": "完形填空"
     },
     {
       "id": 9,
       "type": "cloze",
-      "knowledge_point": "cloze_general",
-      "stem": "My friend Lily suggested collecting fallen leaves. 'They have such beautiful colours!' she said (9)_____. Her excitement was catching.",
-      "options": ["A. sadly", "B. angrily", "C. excitedly", "D. nervously"],
-      "correct_answer": "C",
-      "explanation": "从 Lily 说的话'它们有好漂亮的颜色！'和后一句'她的兴奋具有感染力'可以推断她说话时很兴奋(excitedly)。sadly'悲伤地'、angrily'生气地'、nervously'紧张地'都与语境不符。注意利用后文 excitement 反推情绪词。",
-      "group": "cloze_art"
+      "knowledge_point": "cloze_context",
+      "difficulty": 1,
+      "group": "cloze_1",
+      "group_passage": "Last month, our class started a special project — creating a school garden. Everyone was excited about it because we could learn about nature while helping the environment.\n\nFirst, we (8)______ a suitable place behind the classroom building. It was an empty corner that no one used. Then we cleaned the area and removed the rubbish. Some students brought (9)______ from home, such as tomatoes and carrots. We worked together to plant them carefully.\n\nThe most challenging part was watering the plants every day. At first, some plants didn't grow well and we felt (10)______. However, our science teacher encouraged us to keep trying. She explained that plants need time and care. Two weeks later, we saw small green leaves appearing. Everyone cheered with joy.\n\nNow our garden looks beautiful. It not only makes our school greener but also teaches us responsibility. When we see the fresh vegetables, we feel proud that we (11)______ something meaningful. This project has shown us that small actions (12)______ make a big difference to our environment.",
+      "stem": "(9)______",
+      "options": [
+        "A. books",
+        "B. seeds",
+        "C. toys",
+        "D. clothes"
+      ],
+      "correct_answer": "B",
+      "explanation": "本题考查语境线索。根据后文举例'such as tomatoes and carrots（比如西红柿和胡萝卜）'以及'plant them（种植它们）'可知，学生从家里带来的是'种子'。seeds表示'种子'；books（书）、toys（玩具）、clothes（衣服）都不能种植。",
+      "label": "完形填空"
     },
     {
       "id": 10,
       "type": "cloze",
-      "knowledge_point": "cloze_general",
-      "stem": "We spent the whole afternoon in the park, picking up leaves of different shapes and sizes. I was surprised to find that even the (10)_____ leaves on the ground could become art.",
-      "options": ["A. fresh", "B. dry", "C. green", "D. large"],
+      "knowledge_point": "cloze_emotion",
+      "difficulty": 2,
+      "group": "cloze_1",
+      "group_passage": "Last month, our class started a special project — creating a school garden. Everyone was excited about it because we could learn about nature while helping the environment.\n\nFirst, we (8)______ a suitable place behind the classroom building. It was an empty corner that no one used. Then we cleaned the area and removed the rubbish. Some students brought (9)______ from home, such as tomatoes and carrots. We worked together to plant them carefully.\n\nThe most challenging part was watering the plants every day. At first, some plants didn't grow well and we felt (10)______. However, our science teacher encouraged us to keep trying. She explained that plants need time and care. Two weeks later, we saw small green leaves appearing. Everyone cheered with joy.\n\nNow our garden looks beautiful. It not only makes our school greener but also teaches us responsibility. When we see the fresh vegetables, we feel proud that we (11)______ something meaningful. This project has shown us that small actions (12)______ make a big difference to our environment.",
+      "stem": "(10)______",
+      "options": [
+        "A. happy",
+        "B. worried",
+        "C. surprised",
+        "D. bored"
+      ],
       "correct_answer": "B",
-      "explanation": "落叶掉在地上已经干枯了，dry leaves'干枯的叶子'最合语境。前文说 fallen leaves（落叶），地上的落叶是干的。fresh'新鲜的'、green'绿色的'与落叶矛盾；large'大的'没有对比意义。跨句推理：fallen → ground → dry。",
-      "group": "cloze_art"
+      "explanation": "本题考查情感线索。前文说'some plants didn't grow well（一些植物长得不好）'，所以学生们感到'担心'。worried表示'担心的'；happy（开心的）与语境相反；surprised（惊讶的）通常指意外的事；bored（无聊的）不符合对植物生长的关心。后文'However, teacher encouraged us'也印证了前文是负面情绪。",
+      "label": "完形填空"
     },
     {
       "id": 11,
       "type": "cloze",
-      "knowledge_point": "cloze_general",
-      "stem": "On the day of the exhibition, many students (11)_____ around our artwork and took photos. Some teachers said it was the most creative piece they had ever seen.",
-      "options": ["A. gathered", "B. practised", "C. argued", "D. competed"],
+      "knowledge_point": "cloze_grammar",
+      "difficulty": 2,
+      "group": "cloze_1",
+      "group_passage": "Last month, our class started a special project — creating a school garden. Everyone was excited about it because we could learn about nature while helping the environment.\n\nFirst, we (8)______ a suitable place behind the classroom building. It was an empty corner that no one used. Then we cleaned the area and removed the rubbish. Some students brought (9)______ from home, such as tomatoes and carrots. We worked together to plant them carefully.\n\nThe most challenging part was watering the plants every day. At first, some plants didn't grow well and we felt (10)______. However, our science teacher encouraged us to keep trying. She explained that plants need time and care. Two weeks later, we saw small green leaves appearing. Everyone cheered with joy.\n\nNow our garden looks beautiful. It not only makes our school greener but also teaches us responsibility. When we see the fresh vegetables, we feel proud that we (11)______ something meaningful. This project has shown us that small actions (12)______ make a big difference to our environment.",
+      "stem": "(11)______",
+      "options": [
+        "A. have done",
+        "B. did",
+        "C. do",
+        "D. are doing"
+      ],
       "correct_answer": "A",
-      "explanation": "根据语境，展览日很多同学围在作品旁拍照，gathered around'聚集在周围'最合适。practised'练习'、argued'争论'、competed'竞争'都不符合展览日同学围观拍照的场景。注意 gather around 是常见搭配。",
-      "group": "cloze_art"
+      "explanation": "本题考查时态辨析。句意：当我们看到新鲜蔬菜时，我们为'已经做了'有意义的事情感到自豪。强调过去做的事情对现在造成的影响和结果（现在看到蔬菜），用现在完成时have done。一般过去时did只强调过去动作，与现在联系不紧密；do是一般现在时；are doing是现在进行时。",
+      "label": "完形填空"
     },
     {
       "id": 12,
       "type": "cloze",
-      "knowledge_point": "cloze_general",
-      "stem": "Although we didn't win first prize, I learned an important (12)_____: beauty is everywhere if you look carefully enough.",
-      "options": ["A. skill", "B. rule", "C. lesson", "D. habit"],
-      "correct_answer": "C",
-      "explanation": "learn a lesson 是固定搭配，意思是'学到一个教训/道理'。后面'美无处不在，只要你仔细观察'是一个人生道理。skill'技能'、rule'规则'、habit'习惯'都不搭配 learn...from experience 的语境。",
-      "group": "cloze_art"
+      "knowledge_point": "cloze_logic",
+      "difficulty": 1,
+      "group": "cloze_1",
+      "group_passage": "Last month, our class started a special project — creating a school garden. Everyone was excited about it because we could learn about nature while helping the environment.\n\nFirst, we (8)______ a suitable place behind the classroom building. It was an empty corner that no one used. Then we cleaned the area and removed the rubbish. Some students brought (9)______ from home, such as tomatoes and carrots. We worked together to plant them carefully.\n\nThe most challenging part was watering the plants every day. At first, some plants didn't grow well and we felt (10)______. However, our science teacher encouraged us to keep trying. She explained that plants need time and care. Two weeks later, we saw small green leaves appearing. Everyone cheered with joy.\n\nNow our garden looks beautiful. It not only makes our school greener but also teaches us responsibility. When we see the fresh vegetables, we feel proud that we (11)______ something meaningful. This project has shown us that small actions (12)______ make a big difference to our environment.",
+      "stem": "(12)______",
+      "options": [
+        "A. can",
+        "B. must",
+        "C. need",
+        "D. should"
+      ],
+      "correct_answer": "A",
+      "explanation": "本题考查情态动词表能力/可能性。句意：这个项目向我们展示了小行动'能够'对环境产生大影响。can表示'能够、可以'，强调可能性；must（必须）语气太强；need（需要）通常作实义动词；should（应该）强调建议。此处是客观陈述可能性，用can best。",
+      "label": "完形填空"
     },
     {
       "id": 13,
       "type": "reading",
       "knowledge_point": "detail",
-      "stem": "According to the passage, what is the main problem with plastic cutlery?",
-      "options": ["A. It is too expensive to produce.", "B. It takes hundreds of years to break down.", "C. It is difficult to use for eating.", "D. It cannot be recycled at all."],
+      "difficulty": 1,
+      "group": "reading_1",
+      "group_passage": "When Boyan Slat was 16, he was diving in Greece. He was shocked to see more plastic bags than fish in the water. This experience made him decide to do something about ocean pollution.\n\nAt first, many people didn't believe a teenager could solve such a big problem. But Boyan didn't give up. He spent years studying engineering and designing a special machine. The machine uses long floating barriers (浮动屏障) to catch plastic while letting fish swim underneath safely.\n\nThe system works with the ocean's natural currents (洋流). It doesn't need any energy, which makes it cheap and eco-friendly. Boyan's team has already cleaned up thousands of tons of plastic from the Great Pacific Garbage Patch (太平洋垃圾带), the world's largest collection of ocean rubbish.\n\n\"The technology is important, but changing people's minds is even more crucial,\" Boyan said. He hopes his work will make everyone think twice before using single-use plastics.",
+      "stem": "What made Boyan decide to clean up the ocean?",
+      "options": [
+        "A. He learned about it in school.",
+        "B. He saw too much plastic while diving.",
+        "C. His parents asked him to do it.",
+        "D. He wanted to become famous."
+      ],
       "correct_answer": "B",
-      "explanation": "原文说 plastic forks, spoons, and knives...take hundreds of years to decompose，即塑料餐具需要数百年才能分解。A 文中未提及成本高；C 不符合常识；D 文中说的是难以分解，不是完全不能回收。做细节题要回文定位关键信息。",
-      "group": "reading_cutlery",
-      "group_passage": "Every year, billions of plastic forks, spoons, and knives are thrown away after just one use. Most of them end up in landfills or oceans, where they take hundreds of years to decompose. This has led some inventors to come up with a surprising solution: cutlery you can eat.\n\nEdible cutlery is made from natural ingredients like wheat flour, rice, and corn. After you finish your meal, you can simply eat the spoon or fork. If you choose not to eat it, no worries -- it will break down naturally in just a few days, unlike plastic, which pollutes the environment for centuries.\n\nThe idea first became popular in India, where a company called Bakeys started producing edible spoons in 2010. The founder, Narayana Peesapaty, was worried about the amount of plastic waste in his country. He spent years testing different recipes until he found one that was strong enough to hold hot soup without getting soft too quickly.\n\nToday, edible cutlery comes in many flavours, including chocolate, vanilla, and even spicy options. Some restaurants in Europe and Asia have started using them. However, the cost is still higher than plastic -- an edible spoon costs about three times more. Supporters believe that as production increases, prices will drop.\n\nCritics point out that edible cutlery alone cannot solve the plastic problem. But Peesapaty argues that every small step matters. 'If we can replace even 10% of plastic cutlery,' he says, 'that is billions of pieces of plastic saved from the ocean.'"
+      "explanation": "本题考查细节理解。根据第一段'When Boyan Slat was 16, he was diving in Greece. He was shocked to see more plastic bags than fish in the water. This experience made him decide to do something about ocean pollution.'可知，他是在希腊潜水时看到水里的塑料袋比鱼还多，才决定清理海洋的。A（学校学习）、C（父母要求）、D（想出名）文中均未提及。",
+      "label": "阅读-细节理解"
     },
     {
       "id": 14,
       "type": "reading",
       "knowledge_point": "inference",
-      "stem": "Why did Narayana Peesapaty spend years testing different recipes?",
-      "options": ["A. He wanted to make the spoons taste like chocolate.", "B. He needed to find a recipe that could hold hot food.", "C. He tried to make the cheapest spoons possible.", "D. He wanted to open a restaurant in India."],
+      "difficulty": 2,
+      "group": "reading_1",
+      "group_passage": "When Boyan Slat was 16, he was diving in Greece. He was shocked to see more plastic bags than fish in the water. This experience made him decide to do something about ocean pollution.\n\nAt first, many people didn't believe a teenager could solve such a big problem. But Boyan didn't give up. He spent years studying engineering and designing a special machine. The machine uses long floating barriers (浮动屏障) to catch plastic while letting fish swim underneath safely.\n\nThe system works with the ocean's natural currents (洋流). It doesn't need any energy, which makes it cheap and eco-friendly. Boyan's team has already cleaned up thousands of tons of plastic from the Great Pacific Garbage Patch (太平洋垃圾带), the world's largest collection of ocean rubbish.\n\n\"The technology is important, but changing people's minds is even more crucial,\" Boyan said. He hopes his work will make everyone think twice before using single-use plastics.",
+      "stem": "Why did Boyan spend years designing the machine?",
+      "options": [
+        "A. Because he wanted to travel around the world.",
+        "B. Because he wanted to find an effective way to clean the ocean.",
+        "C. Because he needed to finish his school project.",
+        "D. Because he enjoyed diving in the ocean."
+      ],
       "correct_answer": "B",
-      "explanation": "原文说 He spent years testing different recipes until he found one that was strong enough to hold hot soup without getting soft too quickly。推断他反复试验是为了找到能承受热食物的配方。A 文中巧克力是后来的口味选择，不是他试验的目的；C 和 D 文中未提及。推理题要根据原文细节推进一步。",
-      "group": "reading_cutlery"
+      "explanation": "本题考查推理判断。根据第二段'At first, many people didn't believe a teenager could solve such a big problem. But Boyan didn't give up. He spent years studying engineering and designing a special machine.'以及第三段介绍机器如何有效工作可知，他花多年时间是为了找到解决海洋污染的有效方法。A（环游世界）、C（学校作业）、D（喜欢潜水）均与文意不符。",
+      "label": "阅读-推理判断"
     },
     {
       "id": 15,
       "type": "reading",
-      "knowledge_point": "word_guessing",
-      "stem": "The word 'decompose' in Paragraph 1 is closest in meaning to _____.",
-      "options": ["A. break down", "B. blow away", "C. heat up", "D. pick up"],
-      "correct_answer": "A",
-      "explanation": "decompose 意为'分解、腐烂'。上下文说塑料餐具被丢弃后在垃圾填埋场或海洋中需要数百年才能 decompose，后文也用 break down naturally 描述可食用餐具的分解过程。break down = decompose'分解'。做词义猜测题要在上下文找同义替换线索。",
-      "group": "reading_cutlery"
+      "knowledge_point": "word_guessing_context",
+      "difficulty": 2,
+      "group": "reading_1",
+      "group_passage": "When Boyan Slat was 16, he was diving in Greece. He was shocked to see more plastic bags than fish in the water. This experience made him decide to do something about ocean pollution.\n\nAt first, many people didn't believe a teenager could solve such a big problem. But Boyan didn't give up. He spent years studying engineering and designing a special machine. The machine uses long floating barriers (浮动屏障) to catch plastic while letting fish swim underneath safely.\n\nThe system works with the ocean's natural currents (洋流). It doesn't need any energy, which makes it cheap and eco-friendly. Boyan's team has already cleaned up thousands of tons of plastic from the Great Pacific Garbage Patch (太平洋垃圾带), the world's largest collection of ocean rubbish.\n\n\"The technology is important, but changing people's minds is even more crucial,\" Boyan said. He hopes his work will make everyone think twice before using single-use plastics.",
+      "stem": "The word \"crucial\" in the last paragraph probably means ______.",
+      "options": [
+        "A. difficult",
+        "B. unimportant",
+        "C. very important",
+        "D. impossible"
+      ],
+      "correct_answer": "C",
+      "explanation": "本题考查词义猜测。根据上下文'The technology is important, but changing people's minds is even more crucial'（技术很重要，但改变人们的想法更crucial），由even more（更）可知crucial应该是important的同义或近义词，且程度更深。difficult（困难的）、unimportant（不重要的）、impossible（不可能的）均不符合语境。词义猜测技巧：找同义/反义线索，本句中important就是线索词。",
+      "label": "阅读-词义猜测"
     },
     {
       "id": 16,
       "type": "reading",
-      "knowledge_point": "attitude_purpose",
-      "stem": "What is Peesapaty's attitude towards solving the plastic problem?",
-      "options": ["A. He thinks it is completely hopeless.", "B. He believes every small change can help.", "C. He thinks only governments can solve it.", "D. He is not interested in the problem any more."],
-      "correct_answer": "B",
-      "explanation": "原文最后一段引用 Peesapaty 的话：every small step matters，If we can replace even 10%...that is billions of pieces saved。他认为每一小步都有意义，即使只替换10%也能拯救数十亿塑料。所以他的态度是积极的——每个小改变都有帮助。做观点态度题关注人物直接引语。",
-      "group": "reading_cutlery"
+      "knowledge_point": "main_idea_title",
+      "difficulty": 3,
+      "group": "reading_1",
+      "group_passage": "When Boyan Slat was 16, he was diving in Greece. He was shocked to see more plastic bags than fish in the water. This experience made him decide to do something about ocean pollution.\n\nAt first, many people didn't believe a teenager could solve such a big problem. But Boyan didn't give up. He spent years studying engineering and designing a special machine. The machine uses long floating barriers (浮动屏障) to catch plastic while letting fish swim underneath safely.\n\nThe system works with the ocean's natural currents (洋流). It doesn't need any energy, which makes it cheap and eco-friendly. Boyan's team has already cleaned up thousands of tons of plastic from the Great Pacific Garbage Patch (太平洋垃圾带), the world's largest collection of ocean rubbish.\n\n\"The technology is important, but changing people's minds is even more crucial,\" Boyan said. He hopes his work will make everyone think twice before using single-use plastics.",
+      "stem": "What is the best title for this passage?",
+      "options": [
+        "A. The History of Ocean Pollution",
+        "B. How to Design a Cleaning Machine",
+        "C. A Teenager's Fight Against Ocean Plastic",
+        "D. The Importance of Swimming Safety"
+      ],
+      "correct_answer": "C",
+      "explanation": "本题考查主旨大意/最佳标题。文章主要讲述16岁少年Boyan Slat看到海洋塑料污染后，设计机器清理海洋垃圾的故事。A（海洋污染历史）只是背景；B（如何设计清理机器）只是细节；D（游泳安全重要性）与主题无关。C（一个少年对抗海洋塑料的斗争）既点明了人物（teenager），又点明了主题（ocean plastic），最适合做标题。主旨题技巧：抓住who（Boyan）和what（clean ocean plastic）两个要素。",
+      "label": "阅读-主旨大意"
     },
     {
       "id": 17,
       "type": "fill",
       "knowledge_point": "sentence_fill",
+      "difficulty": 2,
+      "group": "fill_1",
+      "group_passage": "Reading is like exercising for your brain. It opens up new worlds and improves your language skills. (17)_____, many students find it hard to read regularly. Here are some tips to help you.\n\n(18)_____, choose books that interest you. If you love science, read about discoveries and inventions. Don't force yourself to read boring books just because they are \"classic.\"\n\nNext, set aside a specific time for reading every day. (19)_____, reading for just 20 minutes before bed can help you relax and sleep better. Consistency is more important than reading for long hours once in a while.\n\n(20)_____, discuss what you read with friends or family. Sharing ideas makes reading more fun and helps you understand the book better.",
       "stem": "(17)_____",
-      "options": ["A. They can also learn to be responsible for another life.", "B. The community centre held a Pet Adoption Day last Saturday.", "C. Volunteers helped match each family with the right pet.", "D. Some children were so excited that they couldn't stop smiling.", "E. The event was organised to raise money for a new library."],
+      "options": [
+        "A. First",
+        "B. However",
+        "C. In addition",
+        "D. As a result",
+        "E. For example"
+      ],
       "correct_answer": "B",
-      "explanation": "第一段开头需要引出主题——社区宠物领养日活动。B 句'上周六社区中心举办了宠物领养日'是全文的引入句，交代了时间、地点和事件。其他选项都是后续细节，不适合放在文章开头。",
-      "group": "fill_pet",
-      "group_passage": "(17)_____ More than fifty cats and dogs were looking for new homes. The hall was decorated with colourful posters that read 'Give Me a Home.'\n\nFamilies from the neighbourhood came early in the morning. (18)_____ A little boy named Jack fell in love with a brown puppy at first sight. 'Can we take him home, Mum?' he asked.\n\n(19)_____ They explained how much food each animal needed, how often to take dogs for walks, and what to do if a pet got sick. This way, every animal could find a suitable family.\n\nThe event was a big success -- thirty-two animals found new homes that day. For children like Jack, having a pet is more than just fun. (20)_____ As Jack said on his way home, hugging his new puppy, 'I promise I will take good care of you.'"
+      "explanation": "本题考查段落衔接与逻辑关系。前两句讲阅读的好处（锻炼大脑、开阔世界），后句说'很多学生发现坚持阅读很难'，前后是转折关系，所以用However（然而）。First（首先）用于列举；In addition（此外）表递进；As a result（结果）表因果；For example（例如）表举例。解题关键：识别前后句的逻辑转折关系。",
+      "label": "短文填空"
     },
     {
       "id": 18,
       "type": "fill",
       "knowledge_point": "sentence_fill",
+      "difficulty": 1,
+      "group": "fill_1",
+      "group_passage": "Reading is like exercising for your brain. It opens up new worlds and improves your language skills. (17)_____, many students find it hard to read regularly. Here are some tips to help you.\n\n(18)_____, choose books that interest you. If you love science, read about discoveries and inventions. Don't force yourself to read boring books just because they are \"classic.\"\n\nNext, set aside a specific time for reading every day. (19)_____, reading for just 20 minutes before bed can help you relax and sleep better. Consistency is more important than reading for long hours once in a while.\n\n(20)_____, discuss what you read with friends or family. Sharing ideas makes reading more fun and helps you understand the book better.",
       "stem": "(18)_____",
-      "options": ["A. They can also learn to be responsible for another life.", "B. The community centre held a Pet Adoption Day last Saturday.", "C. Volunteers helped match each family with the right pet.", "D. Some children were so excited that they couldn't stop smiling.", "E. The event was organised to raise money for a new library."],
-      "correct_answer": "D",
-      "explanation": "第二段描述家庭早早来到现场，后文提到小男孩 Jack 一见钟情一只小狗。D 句'有些孩子兴奋得停不下来笑'衔接了家庭到来后孩子们的反应，与后文 Jack 的表现形成连贯叙述。C 是志愿者匹配的内容，放在第三段更合适。",
-      "group": "fill_pet"
+      "options": [
+        "A. First",
+        "B. However",
+        "C. In addition",
+        "D. As a result",
+        "E. For example"
+      ],
+      "correct_answer": "A",
+      "explanation": "本题考查段落衔接与顺序关系。根据后文的'Next（接下来）'和'(20)空'可知，这里在列举建议，且是第一条，所以用First（首先）。这是典型的列举顺序：First... Next... Finally...（或In addition...）。",
+      "label": "短文填空"
     },
     {
       "id": 19,
       "type": "fill",
       "knowledge_point": "sentence_fill",
+      "difficulty": 2,
+      "group": "fill_1",
+      "group_passage": "Reading is like exercising for your brain. It opens up new worlds and improves your language skills. (17)_____, many students find it hard to read regularly. Here are some tips to help you.\n\n(18)_____, choose books that interest you. If you love science, read about discoveries and inventions. Don't force yourself to read boring books just because they are \"classic.\"\n\nNext, set aside a specific time for reading every day. (19)_____, reading for just 20 minutes before bed can help you relax and sleep better. Consistency is more important than reading for long hours once in a while.\n\n(20)_____, discuss what you read with friends or family. Sharing ideas makes reading more fun and helps you understand the book better.",
       "stem": "(19)_____",
-      "options": ["A. They can also learn to be responsible for another life.", "B. The community centre held a Pet Adoption Day last Saturday.", "C. Volunteers helped match each family with the right pet.", "D. Some children were so excited that they couldn't stop smiling.", "E. The event was organised to raise money for a new library."],
-      "correct_answer": "C",
-      "explanation": "第三段后文详细描述了喂食量、遛狗频率、宠物生病怎么办等匹配工作的细节。C 句'志愿者帮助每个家庭匹配合适的宠物'是这些细节的总起句，逻辑最通顺。They explained 中的 They 指代 volunteers。",
-      "group": "fill_pet"
+      "options": [
+        "A. First",
+        "B. However",
+        "C. In addition",
+        "D. As a result",
+        "E. For example"
+      ],
+      "correct_answer": "E",
+      "explanation": "本题考查段落衔接与例证关系。前句说'每天留出特定时间阅读'，后句说'睡前读20分钟可以帮助放松和睡眠'，后者是前者的具体例子，所以用For example（例如）。判断技巧：看前后句关系，后句是对前句的具体化、实例化。",
+      "label": "短文填空"
     },
     {
       "id": 20,
       "type": "fill",
       "knowledge_point": "sentence_fill",
+      "difficulty": 2,
+      "group": "fill_1",
+      "group_passage": "Reading is like exercising for your brain. It opens up new worlds and improves your language skills. (17)_____, many students find it hard to read regularly. Here are some tips to help you.\n\n(18)_____, choose books that interest you. If you love science, read about discoveries and inventions. Don't force yourself to read boring books just because they are \"classic.\"\n\nNext, set aside a specific time for reading every day. (19)_____, reading for just 20 minutes before bed can help you relax and sleep better. Consistency is more important than reading for long hours once in a while.\n\n(20)_____, discuss what you read with friends or family. Sharing ideas makes reading more fun and helps you understand the book better.",
       "stem": "(20)_____",
-      "options": ["A. They can also learn to be responsible for another life.", "B. The community centre held a Pet Adoption Day last Saturday.", "C. Volunteers helped match each family with the right pet.", "D. Some children were so excited that they couldn't stop smiling.", "E. The event was organised to raise money for a new library."],
-      "correct_answer": "A",
-      "explanation": "最后一段说养宠物不仅仅是乐趣(more than just fun)，后面需要补充'还能怎样'。A 句'他们还能学会对另一个生命负责'承接 more than just fun，与后文 Jack 说的'我保证好好照顾你'形成呼应。E 是干扰项，与全文宠物领养主题无关。",
-      "group": "fill_pet"
+      "options": [
+        "A. First",
+        "B. However",
+        "C. In addition",
+        "D. As a result",
+        "E. For example"
+      ],
+      "correct_answer": "C",
+      "explanation": "本题考查段落衔接与递进关系。前文已经讲了'选感兴趣的书'和'每天固定时间读'两条建议，这里讲'与他人讨论所读内容'，是第三条建议，表递进补充，用In addition（此外、另外）。也可以用Finally，但选项中没有，In addition表示在已有建议基础上增加一条，符合语境。",
+      "label": "短文填空"
     }
   ]
 }
