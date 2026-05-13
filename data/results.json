@@ -287,6 +287,13 @@
       "total": 20,
       "correct": 18,
       "rate": 90
+    },
+    {
+      "date": "2026-05-13",
+      "session": 1,
+      "total": 20,
+      "correct": 15,
+      "rate": 75
     }
   ],
   "errors": [
@@ -632,6 +639,100 @@
       "correct_answer": "B",
       "student_answer": "C",
       "explanation": "原文说 He spent years testing different recipes until he found one that was strong enough to hold hot soup without getting soft too quickly。推断他反复试验是为了找到能承受热食物的配方。A 文中巧克力是后来的口味选择，不是他试验的目的；C 和 D 文中未提及。推理题要根据原文细节推进一步。"
+    },
+    {
+      "date": "2026-05-13",
+      "session": 1,
+      "question_id": 4,
+      "type": "grammar",
+      "knowledge_point": "modal_verbs_speculation",
+      "label": "语法题",
+      "stem": "—Is that Mr. Wang knocking at the door? —It _____ be him. He has gone to Shanghai on business.",
+      "options": [
+        "A. must",
+        "B. might",
+        "C. can't",
+        "D. should"
+      ],
+      "correct_answer": "C",
+      "student_answer": "B",
+      "explanation": "本题考查情态动词表推测的用法。根据后句'He has gone to Shanghai on business（他去上海出差了）'可知，敲门的'不可能'是他。can't表示'不可能'（否定推测）；must表示'一定是'（肯定推测）；might表示'可能是'（不确定）；should表示'应该是'。解题关键：抓住has gone to（去了未回）这一关键信息，确定是否定推测。"
+    },
+    {
+      "date": "2026-05-13",
+      "session": 1,
+      "question_id": 17,
+      "type": "fill",
+      "knowledge_point": "sentence_fill",
+      "label": "短文填空",
+      "stem": "(17)_____",
+      "options": [
+        "A. First",
+        "B. However",
+        "C. In addition",
+        "D. As a result",
+        "E. For example"
+      ],
+      "correct_answer": "B",
+      "student_answer": "A",
+      "explanation": "本题考查段落衔接与逻辑关系。前两句讲阅读的好处（锻炼大脑、开阔世界），后句说'很多学生发现坚持阅读很难'，前后是转折关系，所以用However（然而）。First（首先）用于列举；In addition（此外）表递进；As a result（结果）表因果；For example（例如）表举例。解题关键：识别前后句的逻辑转折关系。"
+    },
+    {
+      "date": "2026-05-13",
+      "session": 1,
+      "question_id": 18,
+      "type": "fill",
+      "knowledge_point": "sentence_fill",
+      "label": "短文填空",
+      "stem": "(18)_____",
+      "options": [
+        "A. First",
+        "B. However",
+        "C. In addition",
+        "D. As a result",
+        "E. For example"
+      ],
+      "correct_answer": "A",
+      "student_answer": "C",
+      "explanation": "本题考查段落衔接与顺序关系。根据后文的'Next（接下来）'和'(20)空'可知，这里在列举建议，且是第一条，所以用First（首先）。这是典型的列举顺序：First... Next... Finally...（或In addition...）。"
+    },
+    {
+      "date": "2026-05-13",
+      "session": 1,
+      "question_id": 19,
+      "type": "fill",
+      "knowledge_point": "sentence_fill",
+      "label": "短文填空",
+      "stem": "(19)_____",
+      "options": [
+        "A. First",
+        "B. However",
+        "C. In addition",
+        "D. As a result",
+        "E. For example"
+      ],
+      "correct_answer": "E",
+      "student_answer": "B",
+      "explanation": "本题考查段落衔接与例证关系。前句说'每天留出特定时间阅读'，后句说'睡前读20分钟可以帮助放松和睡眠'，后者是前者的具体例子，所以用For example（例如）。判断技巧：看前后句关系，后句是对前句的具体化、实例化。"
+    },
+    {
+      "date": "2026-05-13",
+      "session": 1,
+      "question_id": 20,
+      "type": "fill",
+      "knowledge_point": "sentence_fill",
+      "label": "短文填空",
+      "stem": "(20)_____",
+      "options": [
+        "A. First",
+        "B. However",
+        "C. In addition",
+        "D. As a result",
+        "E. For example"
+      ],
+      "correct_answer": "C",
+      "student_answer": "E",
+      "explanation": "本题考查段落衔接与递进关系。前文已经讲了'选感兴趣的书'和'每天固定时间读'两条建议，这里讲'与他人讨论所读内容'，是第三条建议，表递进补充，用In addition（此外、另外）。也可以用Finally，但选项中没有，In addition表示在已有建议基础上增加一条，符合语境。"
     }
   ]
 }
