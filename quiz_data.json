@@ -1,29 +1,45 @@
 ﻿{
-  "date": "2026-05-14",
+  "date": "2026-05-15",
   "session_number": 1,
   "questions": [
     {
       "id": 1,
       "type": "grammar",
-      "knowledge_point": "present_perfect_vs_past_simple",
+      "knowledge_point": "passive_voice",
       "difficulty": 2,
-      "stem": "—_____ you _____ your homework yet?\n—Yes, I _____ it an hour ago.",
+      "stem": "The book _____ by many students in our school last year.",
       "options": [
-        "A. Did; do; finished",
-        "B. Have; done; finished",
-        "C. Have; done; have finished",
-        "D. Did; do; have finished"
+        "A. is read",
+        "B. was read",
+        "C. reads",
+        "D. reading"
       ],
       "correct_answer": "B",
-      "explanation": "本题考查现在完成时与一般过去时的区别。问句中的 yet（还、尚）是现在完成时的标志性时间状语，因此第一、二空应填 Have; done；答句中的 an hour ago（一小时前）是一般过去时的标志性时间状语，因此第三空应填 finished。选项 A 第一空用 Did 不符合 yet 的搭配；选项 C 第三空用 have finished 与 ago 矛盾；选项 D 第一空用 Did 且第三空用 have finished 均不正确。解题口诀：'yet 现完，ago 过'。",
+      "explanation": "本题考查一般过去时的被动语态。句中时间状语'last year'（去年）是过去时间的标志，因此要用一般过去时；主语'The book'与动词'read'之间是被动关系（书被读），所以要用被动语态'was/were + 过去分词'的结构。A选项'is read'是一般现在时被动语态，用于经常性、习惯性的动作；C选项'reads'是主动语态；D选项'reading'是现在分词，不能单独作谓语。",
       "label": "语法题"
     },
     {
       "id": 2,
       "type": "grammar",
-      "knowledge_point": "relative_clause_who_which",
+      "knowledge_point": "present_perfect_vs_past_simple",
       "difficulty": 2,
-      "stem": "The boy _____ is reading a book over there is my classmate.",
+      "stem": "— _____ you ever _____ to the Shenzhen Science Museum?\n—Yes, I _____ there last weekend.",
+      "options": [
+        "A. Did; go; went",
+        "B. Have; been; went",
+        "C. Have; gone; went",
+        "D. Have; been; have been"
+      ],
+      "correct_answer": "B",
+      "explanation": "本题考查现在完成时与一般过去时的区别。第一空根据'ever'（曾经）可知要用现在完成时'Have...been'，表示'去过某地（已回）'；'have gone to'表示'去了某地（未回）'，不符合语境。第二空根据'last weekend'（上周末）这一具体的过去时间状语，必须用一般过去时'went'。口诀：'ever/never/already/yet'用现完，'yesterday/last week/...ago'用过去。",
+      "label": "语法题"
+    },
+    {
+      "id": 3,
+      "type": "grammar",
+      "knowledge_point": "relative_clause_who_which",
+      "difficulty": 1,
+      "stem": "The girl _____ is singing on the stage is my classmate.",
       "options": [
         "A. who",
         "B. which",
@@ -31,23 +47,7 @@
         "D. whose"
       ],
       "correct_answer": "A",
-      "explanation": "本题考查定语从句关系代词的选择。先行词 The boy 指人，且在定语从句 _____ is reading a book 中充当主语成分，因此应使用关系代词 who。选项 B which 用于指物；选项 C whom 用于指人但在从句中作宾语；选项 D whose 表示'……的'，在从句中作定语。判断技巧：先行词指人且从句缺主语时，用 who；先行词指人且从句缺宾语时，用 who/whom；先行词指物时，用 which/that。",
-      "label": "语法题"
-    },
-    {
-      "id": 3,
-      "type": "grammar",
-      "knowledge_point": "passive_voice",
-      "difficulty": 1,
-      "stem": "The bridge _____ by the workers last year.",
-      "options": [
-        "A. is built",
-        "B. was built",
-        "C. built",
-        "D. was building"
-      ],
-      "correct_answer": "B",
-      "explanation": "本题考查一般过去时的被动语态。主语 The bridge 与动词 build 之间是被动关系（桥被建造），时间状语 last year 表明动作发生在过去，因此应使用一般过去时的被动语态 was built。选项 A is built 是一般现在时被动语态，与 last year 时间不符；选项 C built 是主动语态过去式，缺少 be 动词不构成被动；选项 D was building 是过去进行时主动语态，表示'正在建造'，但 bridge 不能自己建造自己。解题技巧：被动语态基本结构为 be + 过去分词，根据时间状语确定 be 动词的时态。",
+      "explanation": "本题考查定语从句关系代词的选择。先行词'The girl'指人，排除指物的B选项'which'。分析从句结构，'_____ is singing'中缺少主语，因此要用主格'who'。C选项'whom'是宾格，在从句中作宾语时使用；D选项'whose'表示'谁的'，在从句中作定语。技巧：指人用who/whom/that，指物用which/that，缺主语用who/which，缺宾语用whom/which/who。",
       "label": "语法题"
     },
     {
@@ -55,47 +55,47 @@
       "type": "grammar",
       "knowledge_point": "modal_verbs",
       "difficulty": 3,
-      "stem": "—Is that Mr. Wang knocking at the door?\n—It _____ be him. He has gone to Shanghai.",
+      "stem": "—Is that Mr. Wang knocking at the door?\n—It _____ be him. He has gone to Shanghai on business.",
       "options": [
         "A. must",
-        "B. can",
+        "B. might",
         "C. can't",
-        "D. might"
+        "D. should"
       ],
       "correct_answer": "C",
-      "explanation": "本题考查情态动词表推测的用法。根据答句'He has gone to Shanghai（他去上海了，现在还没回来）'可知，敲门的人'不可能'是王先生，表示否定推测且语气肯定时用 can't（不可能）。选项 A must 表示肯定推测'一定是'，与语境矛盾；选项 B can 表示推测时通常用于否定句和疑问句，但单独使用语气不如 can't 强烈；选项 D might 表示'可能是'，语气不确定，与语境中'确定不是'矛盾。解题技巧：肯定推测用 must，否定推测用 can't，不确定推测用 might/may。",
+      "explanation": "本题考查情态动词表推测的用法。根据答句'He has gone to Shanghai'（他去上海出差了，现在还没回来），可以非常确定敲门的人不可能是王老师。表示'有把握的否定推测'要用'can't'（不可能）。A选项'must'表示'一定是'，用于肯定推测；B选项'might'表示'可能是'，把握性较小；D选项'should'表示'应该'。口诀：肯定推测用must，否定推测用can't，不确定用may/might。",
       "label": "语法题"
     },
     {
       "id": 5,
       "type": "vocabulary",
-      "knowledge_point": "word_guessing_context",
-      "difficulty": 2,
-      "stem": "The weather was terrible yesterday. It was raining heavily and the wind was blowing strongly, so we had to _____ our picnic.",
+      "knowledge_point": "word_meaning",
+      "difficulty": 1,
+      "stem": "We should _____ the environment by saving water and reducing waste.",
       "options": [
-        "A. prepare",
-        "B. cancel",
-        "C. postpone",
-        "D. attend"
+        "A. protect",
+        "B. prevent",
+        "C. pollute",
+        "D. produce"
       ],
-      "correct_answer": "C",
-      "explanation": "本题考查通过上下文猜测词义。根据前文'天气很糟糕、下大雨、刮大风'的语境，可以推断出我们不得不'推迟'野餐。postpone 意为'推迟、延期'。选项 A prepare（准备）与恶劣天气矛盾；选项 B cancel（取消）虽然可能，但后文没有提到完全放弃，只是延后；选项 D attend（参加）与语境相反。解题技巧：通过因果关系（so）和前文描述的不利条件，推断出'推迟'最符合逻辑。",
+      "correct_answer": "A",
+      "explanation": "本题考查动词词义辨析。A选项'protect'意为'保护'；B选项'prevent'意为'阻止'，常与'from'搭配；C选项'pollute'意为'污染'；D选项'produce'意为'生产'。根据句意'通过节水和减少浪费来_____环境'，可知应该是'保护环境'。解题技巧：根据语境中的'saving water and reducing waste'（正面行为）可推断出需要填入一个积极的动词。",
       "label": "词汇题"
     },
     {
       "id": 6,
       "type": "vocabulary",
       "knowledge_point": "phrasal_verbs",
-      "difficulty": 1,
-      "stem": "We should _____ our best to protect the environment.",
+      "difficulty": 2,
+      "stem": "Please _____ your old clothes to the charity instead of throwing them away.",
       "options": [
-        "A. try",
-        "B. make",
-        "C. do",
-        "D. take"
+        "A. give away",
+        "B. give up",
+        "C. give out",
+        "D. give in"
       ],
       "correct_answer": "A",
-      "explanation": "本题考查固定搭配。try one's best to do sth. 是固定短语，意为'尽某人最大努力做某事'。选项 B make 常构成 make progress（取得进步）、make a decision（做决定）；选项 C do 常构成 do homework（做作业）、do sports（做运动）；选项 D take 常构成 take photos（拍照）、take action（采取行动）。解题技巧：积累常见动词短语，注意 best 常与 try 搭配。",
+      "explanation": "本题考查动词短语辨析。A选项'give away'意为'捐赠；赠送'；B选项'give up'意为'放弃'；C选项'give out'意为'分发；耗尽'；D选项'give in'意为'屈服；让步'。根据句中的'charity'（慈善机构）和'instead of throwing them away'（而不是扔掉），可知此处表示'捐赠旧衣服'。技巧：give away侧重'无偿给予'，give out侧重'向多人分发'。",
       "label": "词汇题"
     },
     {
@@ -103,102 +103,106 @@
       "type": "vocabulary",
       "knowledge_point": "word_formation",
       "difficulty": 2,
-      "stem": "If you are _____ with the product, you can return it to the store within 7 days.",
+      "stem": "It is _____ to drive after drinking alcohol. It's against the law.",
       "options": [
-        "A. satisfied",
-        "B. dissatisfied",
-        "C. satisfying",
-        "D. dissatisfying"
+        "A. legal",
+        "B. illegal",
+        "C. legally",
+        "D. legality"
       ],
       "correct_answer": "B",
-      "explanation": "本题考查词义辨析及构词法。根据后半句'你可以退回商店'可知，前半句应表示'如果你对产品不满意'。dissatisfied 意为'不满意的'，由否定前缀 dis- + satisfied 构成，修饰人。选项 A satisfied（满意的）与退货语境矛盾；选项 C satisfying（令人满意的）和 D dissatisfying（令人不满的）通常修饰物，而本句主语是 you（人），应用 -ed 形容词。解题技巧：-ed 形容词修饰人（感到……的），-ing 形容词修饰物（令人……的）；根据 return 推断出'不满意'。",
+      "explanation": "本题考查词性转换及词义。A选项'legal'是形容词，意为'合法的'；B选项'illegal'是形容词，意为'非法的'（il-为否定前缀）；C选项'legally'是副词；D选项'legality'是名词。根据'It's against the law'（这是违法的）可知，酒驾是'非法的'。句型'It is + adj. + to do sth.'中需要填入形容词，且根据语境需要否定含义。",
       "label": "词汇题"
     },
     {
       "id": 8,
       "type": "cloze",
-      "knowledge_point": "cloze_logic",
-      "difficulty": 1,
-      "stem": "(8)_____",
+      "knowledge_point": "cloze_general",
+      "difficulty": 2,
+      "stem": "(11) _____",
       "options": [
-        "A. and",
-        "B. but",
-        "C. or",
-        "D. so"
+        "A. importance",
+        "B. different",
+        "C. difficult",
+        "D. interesting"
       ],
-      "correct_answer": "B",
-      "explanation": "本题考查逻辑关系。前文提到'We failed many times（我们失败了很多次）'，后文说'we never gave up（我们从未放弃）'，前后是转折关系，因此用 but。选项 A and 表并列或顺承；选项 C or 表选择或'否则'；选项 D so 表结果。解题技巧：注意前后句意的对立，失败与坚持形成对比，用转折连词 but。",
+      "correct_answer": "A",
+      "explanation": "本题考查名词辨析及语境理解。根据固定搭配'the importance of...'（……的重要性）以及句意'帮助学生理解保护地球的重要性'，应选A。B选项'different'是形容词；C选项'difficult'（困难的）和D选项'interesting'（有趣的）虽然语法上可行，但不如'importance'符合'理解……的重要性'这一常用表达。",
+      "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school held a Science and Technology Exhibition in the gym. It was a great success and everyone was excited about the creative works on display.\n\nTwo weeks before the exhibition, our science teacher, Mr. Li, asked us to work in groups and create something useful for daily life. After a heated discussion, my teammates and I decided to make a smart trash bin that could sort waste automatically (自动地). We spent several days researching online and collecting reusable materials from our daily life. The process was challenging. We failed many times when testing the sensor, (8)_____ we never gave up. Finally, we made it work perfectly.\n\nOn the day of the exhibition, many students (9)_____ around our artwork and took photos of it. They were curious about (10)_____ it could tell different kinds of trash apart. We explained the principles (原理) to them patiently and demonstrated how it worked. To our surprise, our eco-friendly project won the first prize. We felt very (11)_____ and proud of our efforts.\n\nThis valuable experience taught me that teamwork and persistence (坚持) are really (12)_____ in achieving our goals.",
-      "label": "完形填空"
+      "group_passage": "Last month, our school launched an environmental project called \"Green Campus Action\". The main goal was to help students understand the (11)_____ of protecting our planet through practical activities.\n\nEach class was required to create an artwork using recyclable materials. My classmates and I decided to make a model of the Earth using old newspapers and plastic bottles. At first, we thought it would be an (12)_____ task, but we soon realized it was quite challenging. We spent three weekends working on it. During the process, we had to (13)_____ different methods several times to make the structure stable.\n\nOn the day of the exhibition, many students (14)_____ around our artwork and asked questions about how we made it. Some even wanted to learn the skills from us. When our class won the first prize, everyone cheered with excitement.\n\nThis experience not only improved our teamwork skills but also made us deeply understand that environmental protection starts with small actions in our daily life. We plan to (15)_____ such activities and encourage more students to join us."
     },
     {
       "id": 9,
       "type": "cloze",
-      "knowledge_point": "cloze_context",
+      "knowledge_point": "cloze_general",
       "difficulty": 2,
-      "stem": "(9)_____",
+      "stem": "(12) _____",
       "options": [
-        "A. stood",
-        "B. gathered",
-        "C. sat",
-        "D. lay"
+        "A. easy",
+        "B. hard",
+        "C. important",
+        "D. boring"
       ],
-      "correct_answer": "B",
-      "explanation": "本题考查语境推理。根据上下文，在展览当天，许多学生应该是'聚集'在我们的作品周围拍照。gather around 是固定搭配，意为'聚集在……周围'。选项 A stood（站立）虽然语法正确，但不如 gathered 准确表达人群围观的场景；选项 C sat（坐）和 D lay（躺）与展览现场的情境不符。解题技巧：根据'exhibition（展览）'和'around'的语境，选择表示'聚集'的动词。",
+      "correct_answer": "A",
+      "explanation": "本题考查形容词辨析及逻辑关系。根据后文的'but we soon realized it was quite challenging'（但我们很快意识到它很有挑战性）可知，此处表示转折，前面应该是'以为很容易'。因此选A'easy'。B选项'hard'与后文重复，无法形成转折；C选项'important'和D选项'boring'与'challenging'的对比关系不如'easy'明显。解题关键：抓住'but'这一转折连词。",
+      "label": "完形填空",
       "group": "cloze_1",
-      "label": "完形填空"
+      "group_passage": "Last month, our school launched an environmental project called \"Green Campus Action\". The main goal was to help students understand the (11)_____ of protecting our planet through practical activities.\n\nEach class was required to create an artwork using recyclable materials. My classmates and I decided to make a model of the Earth using old newspapers and plastic bottles. At first, we thought it would be an (12)_____ task, but we soon realized it was quite challenging. We spent three weekends working on it. During the process, we had to (13)_____ different methods several times to make the structure stable.\n\nOn the day of the exhibition, many students (14)_____ around our artwork and asked questions about how we made it. Some even wanted to learn the skills from us. When our class won the first prize, everyone cheered with excitement.\n\nThis experience not only improved our teamwork skills but also made us deeply understand that environmental protection starts with small actions in our daily life. We plan to (15)_____ such activities and encourage more students to join us."
     },
     {
       "id": 10,
       "type": "cloze",
-      "knowledge_point": "object_clause",
-      "difficulty": 2,
-      "stem": "(10)_____",
+      "knowledge_point": "cloze_general",
+      "difficulty": 1,
+      "stem": "(13) _____",
       "options": [
-        "A. what",
-        "B. how",
-        "C. why",
-        "D. when"
+        "A. try",
+        "B. make",
+        "C. buy",
+        "D. sell"
       ],
-      "correct_answer": "B",
-      "explanation": "本题考查宾语从句连接词。根据后文'We explained the principles to them（我们向他们解释原理）'可知，学生们好奇的是'如何'分辨不同垃圾，因此用 how。选项 A what 在从句中充当主语或宾语，但本句从句不缺主语或宾语；选项 C why 问原因；选项 D when 问时间。解题技巧：根据 explained the principles（解释原理）推断出是对'方式、方法'的好奇，用 how。",
+      "correct_answer": "A",
+      "explanation": "本题考查动词辨析及固定搭配。根据语境'我们不得不多次_____不同的方法'，应选A'try'（尝试）。'try different methods'是固定搭配，意为'尝试不同的方法'。B选项'make'（制作）；C选项'buy'（购买）；D选项'sell'（出售）均不符合语境。前文提到'quite challenging'（有挑战性），因此需要不断'尝试'。",
+      "label": "完形填空",
       "group": "cloze_1",
-      "label": "完形填空"
+      "group_passage": "Last month, our school launched an environmental project called \"Green Campus Action\". The main goal was to help students understand the (11)_____ of protecting our planet through practical activities.\n\nEach class was required to create an artwork using recyclable materials. My classmates and I decided to make a model of the Earth using old newspapers and plastic bottles. At first, we thought it would be an (12)_____ task, but we soon realized it was quite challenging. We spent three weekends working on it. During the process, we had to (13)_____ different methods several times to make the structure stable.\n\nOn the day of the exhibition, many students (14)_____ around our artwork and asked questions about how we made it. Some even wanted to learn the skills from us. When our class won the first prize, everyone cheered with excitement.\n\nThis experience not only improved our teamwork skills but also made us deeply understand that environmental protection starts with small actions in our daily life. We plan to (15)_____ such activities and encourage more students to join us."
     },
     {
       "id": 11,
       "type": "cloze",
-      "knowledge_point": "cloze_emotion",
-      "difficulty": 1,
-      "stem": "(11)_____",
+      "knowledge_point": "cloze_general",
+      "difficulty": 2,
+      "stem": "(14) _____",
       "options": [
-        "A. happily",
-        "B. sad",
-        "C. excited",
-        "D. angry"
+        "A. stood",
+        "B. gathered",
+        "C. slept",
+        "D. shouted"
       ],
-      "correct_answer": "C",
-      "explanation": "本题考查情感线索。根据前文'our project won the first prize（我们的项目获得一等奖）'可知，我们感到'兴奋'和自豪。excited 意为'兴奋的'，符合获奖后的喜悦心情。选项 A happily 是副词，而 felt 是系动词，后应接形容词；选项 B sad（悲伤的）和 D angry（生气的）与获奖情境矛盾。解题技巧：系动词 feel 后接形容词作表语；根据 won the first prize 确定积极情绪。",
+      "correct_answer": "B",
+      "explanation": "本题考查动词辨析及语境理解。根据语境'许多学生_____在我们的作品周围并询问如何制作的'，应选B'gathered'（聚集）。A选项'stood'（站立）虽然语法正确，但'gather around'是更地道的搭配，表示'围聚'；C选项'slept'（睡觉）和D选项'shouted'（喊叫）不符合语境。后文'asked questions'和'learn the skills'暗示学生们是'围聚'过来观看。",
+      "label": "完形填空",
       "group": "cloze_1",
-      "label": "完形填空"
+      "group_passage": "Last month, our school launched an environmental project called \"Green Campus Action\". The main goal was to help students understand the (11)_____ of protecting our planet through practical activities.\n\nEach class was required to create an artwork using recyclable materials. My classmates and I decided to make a model of the Earth using old newspapers and plastic bottles. At first, we thought it would be an (12)_____ task, but we soon realized it was quite challenging. We spent three weekends working on it. During the process, we had to (13)_____ different methods several times to make the structure stable.\n\nOn the day of the exhibition, many students (14)_____ around our artwork and asked questions about how we made it. Some even wanted to learn the skills from us. When our class won the first prize, everyone cheered with excitement.\n\nThis experience not only improved our teamwork skills but also made us deeply understand that environmental protection starts with small actions in our daily life. We plan to (15)_____ such activities and encourage more students to join us."
     },
     {
       "id": 12,
       "type": "cloze",
-      "knowledge_point": "word_formation",
-      "difficulty": 2,
-      "stem": "(12)_____",
+      "knowledge_point": "cloze_general",
+      "difficulty": 1,
+      "stem": "(15) _____",
       "options": [
-        "A. importance",
-        "B. important",
-        "C. importantly",
-        "D. more important"
+        "A. stop",
+        "B. continue",
+        "C. forget",
+        "D. refuse"
       ],
       "correct_answer": "B",
-      "explanation": "本题考查词性转换。be 动词 are 后应接形容词作表语，因此选择 important。选项 A importance 是名词；选项 C importantly 是副词；选项 D more important 是比较级，但句中没有比较对象。解题技巧：系动词 be 后通常接形容词；really 修饰形容词原级。",
+      "explanation": "本题考查动词辨析及逻辑关系。根据后文'encourage more students to join us'（鼓励更多学生加入），可知我们计划'继续'这类活动，因此选B'continue'。A选项'stop'（停止）和D选项'refuse'（拒绝）与后文逻辑相反；C选项'forget'（忘记）不符合语境。前文提到'This experience not only improved...'（这次经历不仅提高了……），暗示我们希望'继续'做下去。",
+      "label": "完形填空",
       "group": "cloze_1",
-      "label": "完形填空"
+      "group_passage": "Last month, our school launched an environmental project called \"Green Campus Action\". The main goal was to help students understand the (11)_____ of protecting our planet through practical activities.\n\nEach class was required to create an artwork using recyclable materials. My classmates and I decided to make a model of the Earth using old newspapers and plastic bottles. At first, we thought it would be an (12)_____ task, but we soon realized it was quite challenging. We spent three weekends working on it. During the process, we had to (13)_____ different methods several times to make the structure stable.\n\nOn the day of the exhibition, many students (14)_____ around our artwork and asked questions about how we made it. Some even wanted to learn the skills from us. When our class won the first prize, everyone cheered with excitement.\n\nThis experience not only improved our teamwork skills but also made us deeply understand that environmental protection starts with small actions in our daily life. We plan to (15)_____ such activities and encourage more students to join us."
     },
     {
       "id": 13,
@@ -207,140 +211,146 @@
       "difficulty": 2,
       "stem": "What did Peesapaty use to make the edible spoons?",
       "options": [
-        "A. Plastic and water.",
-        "B. Millet flour.",
-        "C. Vegetables only.",
-        "D. Groundwater."
+        "A. Plastic and rice",
+        "B. Rice flour, wheat flour and water",
+        "C. Only natural wood",
+        "D. Ginger and cinnamon only"
       ],
       "correct_answer": "B",
-      "explanation": "本题考查细节理解。根据文章第二段'After years of testing different recipes with millet, he finally developed a spoon...'以及第三段'First, the millet flour is mixed with water.'可知，Peesapaty 使用小米粉（millet flour）制作勺子。选项 A 塑料和水与文中'替代塑料'的理念矛盾；选项 C 只有蔬菜，文中提到的是小米；选项 D 地下水是他以前研究的对象，不是制作材料。解题技巧：抓住题干关键词 use 和 make，在文中寻找对应信息（millet/flour）。",
+      "explanation": "本题考查细节理解。根据文章第二段最后一句'he finally succeeded by using a special combination of rice flour, wheat flour and water'（他最终通过使用米粉、面粉和水的特殊混合物取得了成功），可知正确答案为B。A选项提到'plastic'（塑料），与文章主题'替代塑料'相悖；C选项'wood'（木头）文中未提及；D选项'Ginger and cinnamon'（姜和肉桂）是香料口味，不是制作材料。解题技巧：细节题要精准定位关键词'ingredients'或'recipes'所在的句子。",
+      "label": "阅读-细节理解",
       "group": "reading_1",
-      "group_passage": "Do you know that plastic cutlery (餐具) is harmful to our environment? Every year, millions of plastic forks and spoons are thrown away after just one use. They take hundreds of years to break down. To solve this problem, an Indian man named Narayana Peesapaty created something special—edible (可食用的) spoons.\n\nPeesapaty used to work as a researcher studying groundwater. During his work, he noticed that plastic waste was polluting the soil and water seriously. He wanted to find a better alternative (替代品) to plastic cutlery. After years of testing different recipes (配方) with millet (小米), he finally developed a spoon that people can eat after using it. The spoon is made from natural ingredients and is completely biodegradable (可生物降解的).\n\nThe production process is interesting. First, the millet flour is mixed with water. Then, it is baked in a special mold (模具) at high temperatures. The finished product is crispy (脆的) and can last for up to three years if kept dry. It comes in different flavors like sugar, ginger, and carrot.\n\nPeesapaty spent years testing different recipes because he wanted to make sure the spoons were both strong enough for eating and tasty. Now, his company sells thousands of edible spoons every day. \"Small changes can make a big difference,\" Peesapaty said. \"If we all choose eco-friendly products, we can protect our planet for future generations.\"",
-      "label": "阅读-细节理解"
+      "group_passage": "Do you know that plastic cutlery (餐具) is a major source of pollution? Every year, millions of plastic spoons, forks and knives are thrown away after just one use. To solve this problem, an Indian inventor named Narayana Peesapaty created an interesting alternative—the edible spoon.\n\nPeesapaty spent years testing different recipes to find the right mixture of ingredients. He wanted to make sure the spoons were strong enough to hold hot soup for at least 20 minutes without getting soggy (变软). After many failures, he finally succeeded by using a special combination of rice flour, wheat flour and water.\n\nThese edible spoons come in different flavors like ginger, cinnamon and black pepper. They are 100% natural and biodegradable (可生物降解的). If you don't want to eat them, they will naturally decompose within four to five days.\n\nSince 2010, Peesapaty's company has sold millions of these spoons. Many restaurants and food companies have started using them instead of plastic ones. \"The best way to reduce waste is to make products that don't create waste in the first place,\" Peesapaty said."
     },
     {
       "id": 14,
-      "type": "reading",
-      "knowledge_point": "word_guessing",
-      "difficulty": 2,
-      "stem": "The underlined word 'alternative' in Paragraph 2 most probably means _____.",
-      "options": [
-        "A. 选择/替代品",
-        "B. 问题",
-        "C. 原因",
-        "D. 结果"
-      ],
-      "correct_answer": "A",
-      "explanation": "本题考查词义猜测。根据上下文，Peesapaty 注意到塑料垃圾污染严重，因此想找到塑料餐具的'替代品'。alternative 意为'可供选择的事物、替代品'。选项 B problem（问题）、C reason（原因）、D result（结果）均不符合语境。解题技巧：通过因果关系（塑料污染严重→需要替代品）和构词法（alter- 表示'改变'，-native 名词后缀）猜测词义。",
-      "group": "reading_1",
-      "label": "阅读-词义猜测"
-    },
-    {
-      "id": 15,
       "type": "reading",
       "knowledge_point": "inference",
       "difficulty": 3,
       "stem": "Why did Peesapaty spend years testing different recipes?",
       "options": [
-        "A. Because he had no other work to do.",
-        "B. Because he wanted to make perfect edible spoons.",
-        "C. Because he didn't know how to cook.",
-        "D. Because he wanted to win a science prize."
+        "A. Because he wanted to make different flavors",
+        "B. Because he needed to find a strong and practical mixture",
+        "C. Because he had no other work to do",
+        "D. Because he enjoyed cooking very much"
       ],
       "correct_answer": "B",
-      "explanation": "本题考查推理判断。根据最后一段'Peesapaty spent years testing different recipes because he wanted to make sure the spoons were both strong enough for eating and tasty.'可知，他花费多年测试配方是为了确保勺子既结实又好吃，即为了制造出完美的可食用勺子。选项 A 因为他没别的工作可做，与文中他曾是研究人员的背景不符；选项 C 因为他不会做饭，文中未提及；选项 D 因为他想赢得科学奖，文中未提及获奖动机。解题技巧：找到原文 because 引导的原因状语从句，归纳总结其目的（make sure... 确保完美）。",
+      "explanation": "本题考查推理判断。根据第二段第二句'He wanted to make sure the spoons were strong enough to hold hot soup for at least 20 minutes without getting soggy'（他想确保勺子足够坚固，能盛放热汤至少20分钟而不变软），可推断出他花费多年测试配方是为了找到坚固且实用的混合物。A选项'制作不同口味'是后来添加的特性，不是测试多年的原因；C和D选项文中未提及且不符合逻辑。技巧：推理题要基于文中事实进行合理推断，不能过度推理或选择文中未提及的信息。",
+      "label": "阅读-推理判断",
       "group": "reading_1",
-      "label": "阅读-推理判断"
+      "group_passage": "Do you know that plastic cutlery (餐具) is a major source of pollution? Every year, millions of plastic spoons, forks and knives are thrown away after just one use. To solve this problem, an Indian inventor named Narayana Peesapaty created an interesting alternative—the edible spoon.\n\nPeesapaty spent years testing different recipes to find the right mixture of ingredients. He wanted to make sure the spoons were strong enough to hold hot soup for at least 20 minutes without getting soggy (变软). After many failures, he finally succeeded by using a special combination of rice flour, wheat flour and water.\n\nThese edible spoons come in different flavors like ginger, cinnamon and black pepper. They are 100% natural and biodegradable (可生物降解的). If you don't want to eat them, they will naturally decompose within four to five days.\n\nSince 2010, Peesapaty's company has sold millions of these spoons. Many restaurants and food companies have started using them instead of plastic ones. \"The best way to reduce waste is to make products that don't create waste in the first place,\" Peesapaty said."
+    },
+    {
+      "id": 15,
+      "type": "reading",
+      "knowledge_point": "word_guessing",
+      "difficulty": 2,
+      "stem": "The underlined word \"decompose\" in Paragraph 3 probably means \"_____\".",
+      "options": [
+        "A. disappear suddenly",
+        "B. break down naturally",
+        "C. become harder",
+        "D. produce pollution"
+      ],
+      "correct_answer": "B",
+      "explanation": "本题考查词义猜测。根据上下文'If you don't want to eat them, they will naturally decompose within four to five days'（如果你不想吃它们，它们会在四到五天内自然地_____），以及前文提到的'100% natural and biodegradable'（100%天然且可生物降解），可猜测'decompose'意为'自然分解'。A选项'突然消失'过于绝对；C选项'变硬'与语境相反；D选项'产生污染'与文章环保主题相悖。技巧：通过同义词'biodegradable'（可生物降解的）和'naturally'（自然地）可推断词义。",
+      "label": "阅读-词义猜测",
+      "group": "reading_1",
+      "group_passage": "Do you know that plastic cutlery (餐具) is a major source of pollution? Every year, millions of plastic spoons, forks and knives are thrown away after just one use. To solve this problem, an Indian inventor named Narayana Peesapaty created an interesting alternative—the edible spoon.\n\nPeesapaty spent years testing different recipes to find the right mixture of ingredients. He wanted to make sure the spoons were strong enough to hold hot soup for at least 20 minutes without getting soggy (变软). After many failures, he finally succeeded by using a special combination of rice flour, wheat flour and water.\n\nThese edible spoons come in different flavors like ginger, cinnamon and black pepper. They are 100% natural and biodegradable (可生物降解的). If you don't want to eat them, they will naturally decompose within four to five days.\n\nSince 2010, Peesapaty's company has sold millions of these spoons. Many restaurants and food companies have started using them instead of plastic ones. \"The best way to reduce waste is to make products that don't create waste in the first place,\" Peesapaty said."
     },
     {
       "id": 16,
       "type": "reading",
       "knowledge_point": "main_idea",
-      "difficulty": 2,
+      "difficulty": 3,
       "stem": "What is the best title for this passage?",
       "options": [
-        "A. How to Cook with Millet",
-        "B. The Harm of Plastic Waste",
-        "C. A Man Who Created Edible Spoons",
-        "D. Ways to Protect Groundwater"
+        "A. How to Cook Indian Food",
+        "B. The History of Plastic Pollution",
+        "C. An Edible Solution to Plastic Waste",
+        "D. The Life of an Indian Inventor"
       ],
       "correct_answer": "C",
-      "explanation": "本题考查主旨大意。文章主要介绍了 Narayana Peesapaty 发明可食用勺子的故事，包括他的动机、制作过程和理念。选项 A 如何用小米做饭，偏离主题；选项 B 塑料垃圾的危害，只是背景信息；选项 D 保护地下水的方法，是他以前的工作，非本文重点。解题技巧：主旨题应涵盖全文核心内容，本文核心是'人（Peesapaty）+ 发明（edible spoons）'，选项 C 最全面。",
+      "explanation": "本题考查主旨大意/最佳标题。文章主要介绍了一种可食用的勺子作为塑料餐具的环保替代品，因此C选项'解决塑料垃圾的可食用方案'最能概括全文主旨。A选项'如何烹饪印度食物'只涉及第三段的口味，太片面；B选项'塑料污染的历史'只在第一段提及，非重点；D选项'一位印度发明家的生平'过于宽泛，文章重点是发明物而非人物生平。技巧：最佳标题要涵盖文章核心话题（edible spoon）和目的（solve plastic pollution），避免以偏概全或过于宽泛。",
+      "label": "阅读-主旨大意",
       "group": "reading_1",
-      "label": "阅读-主旨大意"
+      "group_passage": "Do you know that plastic cutlery (餐具) is a major source of pollution? Every year, millions of plastic spoons, forks and knives are thrown away after just one use. To solve this problem, an Indian inventor named Narayana Peesapaty created an interesting alternative—the edible spoon.\n\nPeesapaty spent years testing different recipes to find the right mixture of ingredients. He wanted to make sure the spoons were strong enough to hold hot soup for at least 20 minutes without getting soggy (变软). After many failures, he finally succeeded by using a special combination of rice flour, wheat flour and water.\n\nThese edible spoons come in different flavors like ginger, cinnamon and black pepper. They are 100% natural and biodegradable (可生物降解的). If you don't want to eat them, they will naturally decompose within four to five days.\n\nSince 2010, Peesapaty's company has sold millions of these spoons. Many restaurants and food companies have started using them instead of plastic ones. \"The best way to reduce waste is to make products that don't create waste in the first place,\" Peesapaty said."
     },
     {
       "id": 17,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "stem": "(17)_____",
+      "stem": "(17) _____",
       "options": [
-        "A. This simple action can help you save both water and power.",
-        "B. In addition, walk or ride a bike to school instead of taking a car.",
-        "C. It might seem difficult at first, but it's worth trying.",
-        "D. By doing this, you can reduce plastic pollution significantly.",
-        "E. Not only does this save money, but it also protects the environment."
+        "A. However, it wasn't easy at the beginning.",
+        "B. Then I came up with a solution.",
+        "C. As a result, my grades improved and I became more confident.",
+        "D. One day, I decided to ask for help.",
+        "E. In addition, I set specific hours for basketball practice."
       ],
-      "correct_answer": "C",
-      "explanation": "本题考查段落衔接。此空位于首段末尾，前文提出'过绿色生活越来越重要，这里有一些简单的方法'，此处需要一个过渡句引出下文的具体建议。选项 C'一开始可能看起来难，但值得尝试'起到了承上启下的作用，既承认改变习惯有难度，又鼓励读者尝试。选项 A、B、D、E 都是具体做法的总结，适合放在具体建议之后，不适合作为总起段的结尾。",
+      "correct_answer": "D",
+      "explanation": "本题考查段落衔接与逻辑关系。根据空格后一句'I talked to my teacher about my problem'（我和老师谈了我的问题），可知前文应该是'决定寻求帮助'，因此选D。A选项表示转折，B选项表示提出解决方案，C选项表示结果，均与后文'向老师求助'的语义衔接不紧密。技巧：关注后文动作的触发点，'talked to teacher'对应'ask for help'。",
+      "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "How to Live a Greener Life\n\nLiving a green life is becoming more and more important today. Here are some simple ways to help protect our environment. (17)_____\n\nFirst, reduce the use of plastic bags. When you go shopping, take your own cloth bags instead of using plastic ones. (18)_____ Second, save water and electricity. Turn off the tap when brushing your teeth, and switch off lights when leaving a room. (19)_____ Third, try to recycle and reuse items. Old newspapers can be used for wrapping gifts, and empty bottles can become beautiful flower pots. (20)_____\n\nRemember, everyone can do something to help our planet. Start with small steps today, and we will create a better tomorrow.",
-      "label": "短文填空"
+      "group_passage": "As a middle school student, I used to struggle with managing my time between studying and hobbies. I loved playing basketball, but my grades started to drop because I spent too much time on the court. I felt stressed and didn't know what to do.\n\n(17)_____ I talked to my teacher about my problem. She suggested that I should make a schedule and stick to it.\n\n(18)_____ I decided to finish all my homework first before going to practice. This way, I wouldn't worry about unfinished assignments while playing.\n\n(19)_____ I found that having a clear plan actually improved my efficiency. I could focus better on both studying and sports.\n\n(20)_____ Now I not only get good grades but also enjoy my basketball games more. Balancing study and hobbies is possible if we manage our time wisely."
     },
     {
       "id": 18,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "stem": "(18)_____",
+      "stem": "(18) _____",
       "options": [
-        "A. This simple action can help you save both water and power.",
-        "B. In addition, walk or ride a bike to school instead of taking a car.",
-        "C. It might seem difficult at first, but it's worth trying.",
-        "D. By doing this, you can reduce plastic pollution significantly.",
-        "E. Not only does this save money, but it also protects the environment."
+        "A. However, it wasn't easy at the beginning.",
+        "B. Then I came up with a solution.",
+        "C. As a result, my grades improved and I became more confident.",
+        "D. One day, I decided to ask for help.",
+        "E. In addition, I set specific hours for basketball practice."
       ],
-      "correct_answer": "D",
-      "explanation": "本题考查指代关系。此空位于第一条建议'用布袋代替塑料袋'之后，需要说明这样做的好处。选项 D'通过这样做，你可以显著减少塑料污染'中的 By doing this 指代前文'使用布袋代替塑料袋'的行为，reduce plastic pollution 也与 plastic bags 对应。选项 A 提到节约水电，与第二条建议对应；选项 B 提到骑自行车，是额外建议，但此处需要总结第一条；选项 C 是总起句，已用于17题；选项 E 强调省钱和环保，更适合循环利用的第三条。",
+      "correct_answer": "B",
+      "explanation": "本题考查段落衔接。前文提到老师建议制定时间表，后文'I decided to finish all my homework first...'（我决定先完成作业……）是具体的解决方案，因此空格处应选B'然后我想出了一个解决方案'，起到承上启下的作用。A选项表转折，C选项表结果，D选项已用过，E选项是补充措施而非总体方案。",
+      "label": "短文填空",
       "group": "fill_1",
-      "label": "短文填空"
+      "group_passage": "As a middle school student, I used to struggle with managing my time between studying and hobbies. I loved playing basketball, but my grades started to drop because I spent too much time on the court. I felt stressed and didn't know what to do.\n\n(17)_____ I talked to my teacher about my problem. She suggested that I should make a schedule and stick to it.\n\n(18)_____ I decided to finish all my homework first before going to practice. This way, I wouldn't worry about unfinished assignments while playing.\n\n(19)_____ I found that having a clear plan actually improved my efficiency. I could focus better on both studying and sports.\n\n(20)_____ Now I not only get good grades but also enjoy my basketball games more. Balancing study and hobbies is possible if we manage our time wisely."
     },
     {
       "id": 19,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "stem": "(19)_____",
+      "stem": "(19) _____",
       "options": [
-        "A. This simple action can help you save both water and power.",
-        "B. In addition, walk or ride a bike to school instead of taking a car.",
-        "C. It might seem difficult at first, but it's worth trying.",
-        "D. By doing this, you can reduce plastic pollution significantly.",
-        "E. Not only does this save money, but it also protects the environment."
+        "A. However, it wasn't easy at the beginning.",
+        "B. Then I came up with a solution.",
+        "C. As a result, my grades improved and I became more confident.",
+        "D. One day, I decided to ask for help.",
+        "E. In addition, I set specific hours for basketball practice."
       ],
-      "correct_answer": "A",
-      "explanation": "本题考查指代关系。此空位于第二条建议'节约水电'之后，需要总结这样做的好处。选项 A'这个简单的动作可以帮你节约水电'中的 This simple action 指代前文'关水龙头、关灯'的行为，water and power 与前文 water and electricity 完全对应。选项 B 是额外建议，不符合此处总结逻辑；选项 D 已与第一条建议搭配；选项 E 更适合第三条关于循环利用的建议。",
+      "correct_answer": "E",
+      "explanation": "本题考查逻辑关系。前文提到'先完成作业再去练习'，后文说'我发现有清晰的计划实际上提高了效率'，空格处应填入另一个具体措施。E选项'此外，我设定了具体的篮球练习时间'符合语境，'In addition'表示递进，补充另一个时间管理的方法。A选项表转折，与后文'improved'的积极含义不符；C选项是最终结果，应放在更后面。",
+      "label": "短文填空",
       "group": "fill_1",
-      "label": "短文填空"
+      "group_passage": "As a middle school student, I used to struggle with managing my time between studying and hobbies. I loved playing basketball, but my grades started to drop because I spent too much time on the court. I felt stressed and didn't know what to do.\n\n(17)_____ I talked to my teacher about my teacher about my problem. She suggested that I should make a schedule and stick to it.\n\n(18)_____ I decided to finish all my homework first before going to practice. This way, I wouldn't worry about unfinished assignments while playing.\n\n(19)_____ I found that having a clear plan actually improved my efficiency. I could focus better on both studying and sports.\n\n(20)_____ Now I not only get good grades but also enjoy my basketball games more. Balancing study and hobbies is possible if we manage our time wisely."
     },
     {
       "id": 20,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "stem": "(20)_____",
+      "stem": "(20) _____",
       "options": [
-        "A. This simple action can help you save both water and power.",
-        "B. In addition, walk or ride a bike to school instead of taking a car.",
-        "C. It might seem difficult at first, but it's worth trying.",
-        "D. By doing this, you can reduce plastic pollution significantly.",
-        "E. Not only does this save money, but it also protects the environment."
+        "A. However, it wasn't easy at the beginning.",
+        "B. Then I came up with a solution.",
+        "C. As a result, my grades improved and I became more confident.",
+        "D. One day, I decided to ask for help.",
+        "E. In addition, I set specific hours for basketball practice."
       ],
-      "correct_answer": "E",
-      "explanation": "本题考查逻辑关系。此空位于第三条建议'循环利用物品'之后，需要说明循环利用的好处。选项 E'这不仅省钱，还能保护环境'中的 Not only...but also... 结构强调了双重好处，其中 save money 对应'用旧报纸包礼物、用空瓶做花盆'（不用买新材料），protects the environment 对应环保主题。选项 A 已用于第二条；选项 B 是并列建议而非总结；选项 C 是总起句；选项 D 已用于第一条。",
+      "correct_answer": "C",
+      "explanation": "本题考查因果关系。根据后文'Now I not only get good grades...'（现在我不仅取得好成绩……），可知空格处应填入表示结果的过渡句。C选项'As a result'（因此，结果是）引出前文措施带来的积极成果，与后文的具体描述'get good grades'形成呼应。A选项表转折，B选项表方案，D、E已用过。技巧：关注'As a result'、'Therefore'、'So'等表示因果关系的连接词。",
+      "label": "短文填空",
       "group": "fill_1",
-      "label": "短文填空"
+      "group_passage": "As a middle school student, I used to struggle with managing my time between studying and hobbies. I loved playing basketball, but my grades started to drop because I spent too much time on the court. I felt stressed and didn't know what to do.\n\n(17)_____ I talked to my teacher about my problem. She suggested that I should make a schedule and stick to it.\n\n(18)_____ I decided to finish all my homework first before going to practice. This way, I wouldn't worry about unfinished assignments while playing.\n\n(19)_____ I found that having a clear plan actually improved my efficiency. I could focus better on both studying and sports.\n\n(20)_____ Now I not only get good grades but also enjoy my basketball games more. Balancing study and hobbies is possible if we manage our time wisely."
     }
   ]
 }
