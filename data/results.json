@@ -294,6 +294,13 @@
       "total": 20,
       "correct": 15,
       "rate": 75
+    },
+    {
+      "date": "2026-05-14",
+      "session": 1,
+      "total": 20,
+      "correct": 14,
+      "rate": 70
     }
   ],
   "errors": [
@@ -733,6 +740,117 @@
       "correct_answer": "C",
       "student_answer": "E",
       "explanation": "本题考查段落衔接与递进关系。前文已经讲了'选感兴趣的书'和'每天固定时间读'两条建议，这里讲'与他人讨论所读内容'，是第三条建议，表递进补充，用In addition（此外、另外）。也可以用Finally，但选项中没有，In addition表示在已有建议基础上增加一条，符合语境。"
+    },
+    {
+      "date": "2026-05-14",
+      "session": 1,
+      "question_id": 4,
+      "type": "grammar",
+      "knowledge_point": "modal_verbs",
+      "label": "语法题",
+      "stem": "—Is that Mr. Wang knocking at the door?\n—It _____ be him. He has gone to Shanghai.",
+      "options": [
+        "A. must",
+        "B. can",
+        "C. can't",
+        "D. might"
+      ],
+      "correct_answer": "C",
+      "student_answer": "A",
+      "explanation": "本题考查情态动词表推测的用法。根据答句'He has gone to Shanghai（他去上海了，现在还没回来）'可知，敲门的人'不可能'是王先生，表示否定推测且语气肯定时用 can't（不可能）。选项 A must 表示肯定推测'一定是'，与语境矛盾；选项 B can 表示推测时通常用于否定句和疑问句，但单独使用语气不如 can't 强烈；选项 D might 表示'可能是'，语气不确定，与语境中'确定不是'矛盾。解题技巧：肯定推测用 must，否定推测用 can't，不确定推测用 might/may。"
+    },
+    {
+      "date": "2026-05-14",
+      "session": 1,
+      "question_id": 5,
+      "type": "vocabulary",
+      "knowledge_point": "word_guessing_context",
+      "label": "词汇题",
+      "stem": "The weather was terrible yesterday. It was raining heavily and the wind was blowing strongly, so we had to _____ our picnic.",
+      "options": [
+        "A. prepare",
+        "B. cancel",
+        "C. postpone",
+        "D. attend"
+      ],
+      "correct_answer": "C",
+      "student_answer": "A",
+      "explanation": "本题考查通过上下文猜测词义。根据前文'天气很糟糕、下大雨、刮大风'的语境，可以推断出我们不得不'推迟'野餐。postpone 意为'推迟、延期'。选项 A prepare（准备）与恶劣天气矛盾；选项 B cancel（取消）虽然可能，但后文没有提到完全放弃，只是延后；选项 D attend（参加）与语境相反。解题技巧：通过因果关系（so）和前文描述的不利条件，推断出'推迟'最符合逻辑。"
+    },
+    {
+      "date": "2026-05-14",
+      "session": 1,
+      "question_id": 8,
+      "type": "cloze",
+      "knowledge_point": "cloze_logic",
+      "label": "完形填空",
+      "stem": "(8)_____",
+      "options": [
+        "A. and",
+        "B. but",
+        "C. or",
+        "D. so"
+      ],
+      "correct_answer": "B",
+      "student_answer": "A",
+      "explanation": "本题考查逻辑关系。前文提到'We failed many times（我们失败了很多次）'，后文说'we never gave up（我们从未放弃）'，前后是转折关系，因此用 but。选项 A and 表并列或顺承；选项 C or 表选择或'否则'；选项 D so 表结果。解题技巧：注意前后句意的对立，失败与坚持形成对比，用转折连词 but。"
+    },
+    {
+      "date": "2026-05-14",
+      "session": 1,
+      "question_id": 17,
+      "type": "fill",
+      "knowledge_point": "sentence_fill",
+      "label": "短文填空",
+      "stem": "(17)_____",
+      "options": [
+        "A. This simple action can help you save both water and power.",
+        "B. In addition, walk or ride a bike to school instead of taking a car.",
+        "C. It might seem difficult at first, but it's worth trying.",
+        "D. By doing this, you can reduce plastic pollution significantly.",
+        "E. Not only does this save money, but it also protects the environment."
+      ],
+      "correct_answer": "C",
+      "student_answer": "D",
+      "explanation": "本题考查段落衔接。此空位于首段末尾，前文提出'过绿色生活越来越重要，这里有一些简单的方法'，此处需要一个过渡句引出下文的具体建议。选项 C'一开始可能看起来难，但值得尝试'起到了承上启下的作用，既承认改变习惯有难度，又鼓励读者尝试。选项 A、B、D、E 都是具体做法的总结，适合放在具体建议之后，不适合作为总起段的结尾。"
+    },
+    {
+      "date": "2026-05-14",
+      "session": 1,
+      "question_id": 18,
+      "type": "fill",
+      "knowledge_point": "sentence_fill",
+      "label": "短文填空",
+      "stem": "(18)_____",
+      "options": [
+        "A. This simple action can help you save both water and power.",
+        "B. In addition, walk or ride a bike to school instead of taking a car.",
+        "C. It might seem difficult at first, but it's worth trying.",
+        "D. By doing this, you can reduce plastic pollution significantly.",
+        "E. Not only does this save money, but it also protects the environment."
+      ],
+      "correct_answer": "D",
+      "student_answer": "A",
+      "explanation": "本题考查指代关系。此空位于第一条建议'用布袋代替塑料袋'之后，需要说明这样做的好处。选项 D'通过这样做，你可以显著减少塑料污染'中的 By doing this 指代前文'使用布袋代替塑料袋'的行为，reduce plastic pollution 也与 plastic bags 对应。选项 A 提到节约水电，与第二条建议对应；选项 B 提到骑自行车，是额外建议，但此处需要总结第一条；选项 C 是总起句，已用于17题；选项 E 强调省钱和环保，更适合循环利用的第三条。"
+    },
+    {
+      "date": "2026-05-14",
+      "session": 1,
+      "question_id": 19,
+      "type": "fill",
+      "knowledge_point": "sentence_fill",
+      "label": "短文填空",
+      "stem": "(19)_____",
+      "options": [
+        "A. This simple action can help you save both water and power.",
+        "B. In addition, walk or ride a bike to school instead of taking a car.",
+        "C. It might seem difficult at first, but it's worth trying.",
+        "D. By doing this, you can reduce plastic pollution significantly.",
+        "E. Not only does this save money, but it also protects the environment."
+      ],
+      "correct_answer": "A",
+      "student_answer": "C",
+      "explanation": "本题考查指代关系。此空位于第二条建议'节约水电'之后，需要总结这样做的好处。选项 A'这个简单的动作可以帮你节约水电'中的 This simple action 指代前文'关水龙头、关灯'的行为，water and power 与前文 water and electricity 完全对应。选项 B 是额外建议，不符合此处总结逻辑；选项 D 已与第一条建议搭配；选项 E 更适合第三条关于循环利用的建议。"
     }
   ]
 }
