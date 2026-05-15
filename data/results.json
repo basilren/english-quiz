@@ -305,58 +305,6 @@
   ],
   "errors": [
     {
-      "date": "2026-05-05",
-      "session": 1,
-      "question_id": 2,
-      "type": "grammar",
-      "knowledge_point": "object_clause",
-      "label": "宾语从句",
-      "stem": "The teacher asked the students _____.",
-      "options": [
-        "A. if they have finished the work",
-        "B. if they had finished the work",
-        "C. have they finished the work",
-        "D. had they finished the work"
-      ],
-      "correct_answer": "B",
-      "student_answer": "A",
-      "explanation": "宾语从句三要素：1) 引导词 if/whether（是否）；2) 陈述语序（排除C、D）；3) 时态呼应——主句 asked 是过去时，从句要用过去完成时 had finished。"
-    },
-    {
-      "date": "2026-05-05",
-      "session": 1,
-      "question_id": 9,
-      "type": "cloze",
-      "label": "完形填空",
-      "stem": "(9)",
-      "options": [
-        "A. excited",
-        "B. bored",
-        "C. nervous",
-        "D. proud"
-      ],
-      "correct_answer": "C",
-      "student_answer": "A",
-      "explanation": "根据 singing in front of hundreds of people（在几百人前面唱歌）且 nobody wanted to be the lead singer，说明大家感到紧张。nervous = 紧张的。"
-    },
-    {
-      "date": "2026-05-05",
-      "session": 1,
-      "question_id": 13,
-      "type": "reading",
-      "label": "阅读理解",
-      "stem": "How much less water does vertical farming use compared to traditional farming?",
-      "options": [
-        "A. About 50% less.",
-        "B. About 75% less.",
-        "C. About 95% less.",
-        "D. About 100% less."
-      ],
-      "correct_answer": "C",
-      "student_answer": "D",
-      "explanation": "原文第三段明确说 it uses much less water than traditional farming -- about 95% less，直接对应选项C。"
-    },
-    {
       "date": "2026-05-06",
       "session": 1,
       "question_id": 7,
