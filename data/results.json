@@ -301,6 +301,13 @@
       "total": 20,
       "correct": 14,
       "rate": 70
+    },
+    {
+      "date": "2026-05-17",
+      "session": 1,
+      "total": 20,
+      "correct": 15,
+      "rate": 75
     }
   ],
   "errors": [
@@ -745,6 +752,98 @@
       "correct_answer": "A",
       "student_answer": "C",
       "explanation": "本题考查指代关系。此空位于第二条建议'节约水电'之后，需要总结这样做的好处。选项 A'这个简单的动作可以帮你节约水电'中的 This simple action 指代前文'关水龙头、关灯'的行为，water and power 与前文 water and electricity 完全对应。选项 B 是额外建议，不符合此处总结逻辑；选项 D 已与第一条建议搭配；选项 E 更适合第三条关于循环利用的建议。"
+    },
+    {
+      "date": "2026-05-17",
+      "session": 1,
+      "question_id": 4,
+      "type": "grammar",
+      "knowledge_point": "modal_verbs",
+      "label": "语法题",
+      "stem": "—Is that Mr. Wang knocking at the door?\n—It ______ be him. He has gone to Shanghai.",
+      "options": [
+        "A. must",
+        "B. might",
+        "C. can't",
+        "D. should"
+      ],
+      "correct_answer": "C",
+      "student_answer": "B",
+      "explanation": "【解析】选C。根据答句'He has gone to Shanghai（他去上海了，还没回来）'可知，敲门的不可能是王老师，表示否定推测用can't（不可能）。must表示肯定推测'一定是'，与句意相反；might表示'可能是'，可能性较小，但仍有可能，不符合语境；should表示'应该'，不表推测。【技巧】情态动词表推测：肯定用must，否定用can't，不确定用may/might/could。"
+    },
+    {
+      "date": "2026-05-17",
+      "session": 1,
+      "question_id": 12,
+      "type": "cloze",
+      "knowledge_point": "cloze_general",
+      "label": "完形填空",
+      "stem": "(12)______",
+      "options": [
+        "A. taught",
+        "B. promised",
+        "C. warned",
+        "D. reminded"
+      ],
+      "correct_answer": "A",
+      "student_answer": "B",
+      "explanation": "【解析】选A。teach sb. sth.意为'教会某人某事'，符合语境'这次经历教会了我们微小行动也能产生巨大影响'。promise（承诺）、warn（警告）、remind（提醒）均不如teach符合'通过活动获得启示'的语境。【技巧】注意动词与宾语的搭配，teach后可接双宾语（teach us how...），remind常用remind sb. of sth.或remind sb. that..."
+    },
+    {
+      "date": "2026-05-17",
+      "session": 1,
+      "question_id": 13,
+      "type": "reading",
+      "knowledge_point": "detail",
+      "label": "阅读-细节理解",
+      "stem": "What problem did Peesapaty want to solve?",
+      "options": [
+        "A. Food shortage.",
+        "B. Plastic pollution.",
+        "C. Water shortage.",
+        "D. Air pollution."
+      ],
+      "correct_answer": "B",
+      "student_answer": "A",
+      "explanation": "【解析】选B。细节理解题。根据第一段第一句'...worried about the environmental problems caused by plastic waste'和第二句'...creating serious pollution'可知，他想解决塑料污染问题。A项食物短缺、C项水资源短缺、D项空气污染均未提及。【技巧】细节题定位关键词，根据题干人名Peesapaty和问题定位到第一段，找到plastic waste和pollution等关键词。"
+    },
+    {
+      "date": "2026-05-17",
+      "session": 1,
+      "question_id": 17,
+      "type": "fill",
+      "knowledge_point": "sentence_fill",
+      "label": "短文填空",
+      "stem": "(17)______",
+      "options": [
+        "A. Besides, doing sports regularly is necessary.",
+        "B. Finally, don't forget about mental health.",
+        "C. However, sleep is more important than exercise.",
+        "D. Second, exercise plays an important role in staying healthy.",
+        "E. Third, pay attention to your diet and eating habits."
+      ],
+      "correct_answer": "D",
+      "student_answer": "C",
+      "explanation": "【解析】选D。根据后文'First...'和段落内容（讲的是睡眠）可知，此处应是总起句引出第一个建议。但观察选项，没有'First...'的选项。再看文章结构：后面已有First，说明(17)空应该是另一个序号。仔细看选项，D是Second，E是Third，B是Finally。根据文章逻辑，(17)后面紧跟'First'，这说明(17)应该是引入First之前的句子？不对，重新看。实际上，(17)后面是'First...'，说明(17)应该与First是同一层级或 preceding？不，看格式，(17)是独立空格，后面紧跟着'First...'作为段落开头。这说明(17)应该是总起句。但选项中D是Second，E是Third，B是Finally，A是Besides。这说明First可能已经在前文中？不，看文章结构：'Here are some tips...'然后(17)，然后'First...'。这说明(17)可能是过渡句，或者我理解的题号有误。重新分析：实际上，(17)位于第一段建议的开始，后文有First，所以(17)应该对应Second？不对，顺序应该是First, Second, Third... 但后文标了First，那(17)应该是Second？不对，这样顺序乱了。哦，我明白了，(17)对应的是Second，(18)对应的是Besides/Another，(19)对应Third，(20)对应Finally。因为后文出现了First，所以(17)应该是Second。"
+    },
+    {
+      "date": "2026-05-17",
+      "session": 1,
+      "question_id": 18,
+      "type": "fill",
+      "knowledge_point": "sentence_fill",
+      "label": "短文填空",
+      "stem": "(18)______",
+      "options": [
+        "A. Besides, doing sports regularly is necessary.",
+        "B. Finally, don't forget about mental health.",
+        "C. However, sleep is more important than exercise.",
+        "D. Second, exercise plays an important role in staying healthy.",
+        "E. Third, pay attention to your diet and eating habits."
+      ],
+      "correct_answer": "A",
+      "student_answer": "D",
+      "explanation": "【解析】选A。根据本段内容'You don't need to do intense exercise...'可知，本段主题是运动锻炼。前一段讲睡眠（First），本段继续讲运动，用Besides（此外）表示递进，'Besides, doing sports regularly is necessary'（此外，定期做运动是必要的）符合逻辑。D项Second虽然也是讲运动，但与前文First顺序不连贯（因为(17)已经用了Second）。实际上，仔细看文章结构：第一段建议(17)对应睡眠（后面标了First），第二段(18)对应运动，第三段(19)对应饮食，第四段(20)对应心理健康。所以(18)选A表示递进补充。"
     }
   ]
 }
