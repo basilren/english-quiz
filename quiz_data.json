@@ -1,5 +1,5 @@
 ﻿{
-  "date": "2026-05-18",
+  "date": "2026-05-19",
   "session_number": 1,
   "questions": [
     {
@@ -7,15 +7,15 @@
       "type": "grammar",
       "knowledge_point": "present_perfect_vs_past_simple",
       "difficulty": 2,
-      "stem": "—Have you ever been to Beijing?\n—Yes, I ________ there twice. It's a beautiful city.",
+      "stem": "—______ you ______ the new movie *Ne Zha 2* yet? \n—Yes, I ______ it last night. It was amazing!",
       "options": [
-        "A. have gone",
-        "B. went",
-        "C. have been",
-        "D. was going"
+        "A. Did; see; saw",
+        "B. Have; seen; saw",
+        "C. Have; seen; have seen",
+        "D. Did; see; have seen"
       ],
-      "correct_answer": "C",
-      "explanation": "正确答案选C。现在完成时'have been to'表示'去过某地（已经回来）'，常与表示次数的词如twice, once等连用。A选项'have gone to'表示'去了某地（还没回来）'，不符合语境；B选项一般过去时虽然语法正确，但无法与twice形成最佳搭配体现经历；D选项过去进行时表示过去正在进行的动作，与题意不符。解题技巧：看到'twice'等次数标志词，优先考虑现在完成时；区分'have been to'（去过已回）和'have gone to'（去了未回）。",
+      "correct_answer": "B",
+      "explanation": "【解析】第一空根据标志词yet（常用于疑问句和否定句）可知用现在完成时，结构为Have/Has+过去分词，主语是you，用Have；第二空根据标志词last night（昨晚）可知用一般过去时，see的过去式是saw。【解题技巧】口诀：\"现完表经历，有过用yet/already/ever/never；过表过去时，yesterday/last week/ago是标志\"。A和D第一空用Did是一般过去时，无法和yet搭配；C第二空用现在完成时，无法和last night搭配。",
       "label": "语法题"
     },
     {
@@ -23,15 +23,15 @@
       "type": "grammar",
       "knowledge_point": "relative_clause_who_which",
       "difficulty": 2,
-      "stem": "The boy ________ is standing under the big tree is my cousin. He just came back from Australia.",
+      "stem": "The girl ______ is singing on the stage won first prize in our school singing competition.",
       "options": [
-        "A. which",
-        "B. who",
+        "A. who",
+        "B. which",
         "C. whom",
         "D. whose"
       ],
-      "correct_answer": "B",
-      "explanation": "正确答案选B。考查定语从句关系代词的选择。先行词'the boy'指人，且关系代词在从句中作主语（is standing），因此用who。A选项which用于指物；C选项whom虽然指人，但只能作宾语；D选项whose表示所属关系，在从句中作定语。解题技巧：指人用who/whom/that，指物用which/that；从句缺主语用who/which，缺宾语可用who/whom/which，有'的'含义用whose。",
+      "correct_answer": "A",
+      "explanation": "【解析】考查定语从句关系词。先行词是The girl（指人），且关系词在从句中作主语（is singing），因此用who。which指物；whom指人但只能作宾语；whose表示\"……的\"，作定语。【解题技巧】定语从句关系词选择口诀：\"先行词指人作主语用who，作宾语用whom/who/that；指物用which/that；表所属用whose\"。本题空格后是谓语动词is singing，说明缺主语，且指人，故选A。",
       "label": "语法题"
     },
     {
@@ -39,15 +39,15 @@
       "type": "grammar",
       "knowledge_point": "passive_voice",
       "difficulty": 1,
-      "stem": "These old books ________ to the school library by Bosco tomorrow morning.",
+      "stem": "These used books ______ to the library by the students of Class 3 tomorrow morning.",
       "options": [
         "A. return",
         "B. returned",
         "C. will be returned",
-        "D. are returning"
+        "D. have returned"
       ],
       "correct_answer": "C",
-      "explanation": "正确答案选C。考查一般将来时的被动语态。主语'books'与动词'return'是被动关系（书被归还），且时间状语'tomorrow morning'表示将来，因此用'will be returned'。A选项是主动语态原形；B选项是过去式，时态不符；D选项是现在进行时，且主动形式表示被动含义通常用于某些特定动词（如sell, wash等），return不适用此用法。解题口诀：被动语态be done，将来时will be done，进行时be being done。",
+      "explanation": "【解析】考查一般将来时的被动语态。主语These used books（这些旧书）和动词return（归还）是被动关系，需要用被动语态；时间状语tomorrow morning（明天早上）表示将来，因此用一般将来时的被动语态will be+过去分词。【解题技巧】被动语态判断：\"主语是动作承受者，be+过去分词别记错；将来时加will，过去时was/were别弄混\"。A是主动语态原形；B是过去式或过去分词，缺少be动词；D是现在完成时主动语态，均不符合。",
       "label": "语法题"
     },
     {
@@ -55,81 +55,81 @@
       "type": "grammar",
       "knowledge_point": "modal_verbs_speculation",
       "difficulty": 3,
-      "stem": "—Is that Mr. Wang knocking at the door?\n—It ________ be him. He has gone to Shanghai for an important meeting.",
+      "stem": "—Is that Mr. Wang knocking at the door?\n—It ______ be him. He has gone to Shanghai for an important meeting.",
       "options": [
         "A. must",
-        "B. might",
+        "B. may",
         "C. can't",
-        "D. should"
+        "D. might"
       ],
       "correct_answer": "C",
-      "explanation": "正确答案选C。考查情态动词表推测的用法。根据后句'He has gone to Shanghai'（他去上海了，还没回来），可知不可能是他，表否定推测用can't（不可能）。A选项must表示肯定推测'一定是'，与语境矛盾；B选项might表示'可能是'，不确定性，但此处是确定性否定；D选项should表示'应该'，不表推测。解题技巧：肯定推测用must，否定推测用can't，不确定用might/may；注意'has gone to'表示去了未回，'has been to'表示去过已回。",
+      "explanation": "【解析】考查情态动词表推测。根据后句\"He has gone to Shanghai\"（他去上海了，还没回来）可知，敲门\"不可能\"是他。can't表示\"不可能\"，用于否定推测；must表示\"一定\"，用于肯定推测；may/might表示\"可能\"，用于不确定推测。【解题技巧】情态动词表推测口诀：\"肯定推测用must，否定推测can't对；may和might表可能，把握不大用这对\"。本题有明确证据（has gone to）证明不可能，故选C。",
       "label": "语法题"
     },
     {
       "id": 5,
       "type": "vocabulary",
-      "knowledge_point": "word_meaning_context",
-      "difficulty": 1,
-      "stem": "The weather was terrible yesterday. It was raining heavily and the wind was blowing ________.",
+      "knowledge_point": "word_guessing_context",
+      "difficulty": 2,
+      "stem": "The old bridge is not strong enough to support heavy trucks. It may be dangerous to let them pass. \nThe word \"support\" in this passage probably means ______.",
       "options": [
-        "A. strongly",
-        "B. heavily",
-        "C. hardly",
-        "D. quickly"
+        "A. 建造",
+        "B. 承受/支撑",
+        "C. 修理",
+        "D. 阻挡"
       ],
-      "correct_answer": "A",
-      "explanation": "正确答案选A。考查副词与动词的搭配。形容风'大'或'强烈'用strongly；形容雨'大'用heavily或hard；C选项hardly意为'几乎不'；D选项quickly形容速度快，不用于形容风。固定搭配：rain heavily（下大雨），blow strongly（刮大风）。解题技巧：注意区分形近词hard（猛烈地）和hardly（几乎不）；不同自然现象用不同形容词修饰。",
+      "correct_answer": "B",
+      "explanation": "【解析】考查根据上下文猜测词义。根据前句\"not strong enough\"（不够坚固）和后句\"dangerous\"（危险）可推断，这座桥不够坚固，无法\"承受/支撑\"重型卡车。support原义为\"支持、支撑\"。【解题技巧】猜词题要\"瞻前顾后\"：看前后句是否有同义、反义或解释关系。本题前句说桥不够坚固，后句说危险，中间逻辑是\"无法承受重量\"，故选B。",
       "label": "词汇题"
     },
     {
       "id": 6,
       "type": "vocabulary",
-      "knowledge_point": "phrasal_verbs",
-      "difficulty": 2,
-      "stem": "As environmental volunteers, we need to ________ some good ideas to reduce plastic waste in our school.",
+      "knowledge_point": "prefix_suffix",
+      "difficulty": 1,
+      "stem": "If you are not satisfied with the product, you can ask for a ______ within seven days.",
       "options": [
-        "A. look for",
-        "B. find out",
-        "C. come up with",
-        "D. think about"
+        "A. refund",
+        "B. find",
+        "C. fund",
+        "D. found"
       ],
-      "correct_answer": "C",
-      "explanation": "正确答案选C。考查动词短语辨析。come up with意为'想出，提出（主意、计划等）'，常与idea/plan/solution搭配；A选项look for强调'寻找'的过程；B选项find out强调'查明，弄清楚'事实；D选项think about意为'考虑'，但不强调'提出新想法'的结果。固定搭配：come up with an idea（想出主意），find out the truth（查明真相）。",
+      "correct_answer": "A",
+      "explanation": "【解析】考查构词法。前缀re-表示\"回、向后\"，fund表示\"资金、基金\"，refund表示\"退款\"。句意：如果你对产品不满意，可以在七天内要求退款。【解题技巧】常见前缀：re-（回、再）、un-（不）、dis-（不、相反）、im-（不）。refund=re（回）+fund（资金），资金回来即退款。B发现（动词原形）；C基金；D建立（过去式/过去分词），均不符合句意。",
       "label": "词汇题"
     },
     {
       "id": 7,
       "type": "vocabulary",
-      "knowledge_point": "word_formation",
+      "knowledge_point": "phrasal_verbs",
       "difficulty": 2,
-      "stem": "The ________ news made all of us feel very ________ at Bosco's birthday party.",
+      "stem": "We need to ______ a solution to the pollution problem as soon as possible.",
       "options": [
-        "A. excited; excited",
-        "B. exciting; exciting",
-        "C. exciting; excited",
-        "D. excited; exciting"
+        "A. come up with",
+        "B. come out",
+        "C. come over",
+        "D. come true"
       ],
-      "correct_answer": "C",
-      "explanation": "正确答案选C。考查-ing形容词和-ed形容词的用法区别。exciting意为'令人兴奋的'，修饰事物（news）；excited意为'感到兴奋的'，修饰人（us）。口诀：'-ing形容物，令人怎么样；-ed形容人，感到怎么样'。类似用法的词还有：interesting/interested, boring/bored, surprising/surprised等。",
+      "correct_answer": "A",
+      "explanation": "【解析】考查动词短语辨析。come up with想出、提出（主意、方案）；come out出版、发行、出现；come over过来、顺便拜访；come true实现（梦想等）。句意：我们需要尽快想出解决污染问题的办法。【解题技巧】come短语辨析：up with表\"伴随向上\"即\"提出\"；out表\"出来\"即\"出版\"；over表\"越过\"即\"过来\"；true表\"真实\"即\"实现\"。根据宾语solution（解决方案）可知应选\"想出\"，故选A。",
       "label": "词汇题"
     },
     {
       "id": 8,
       "type": "cloze",
-      "knowledge_point": "cloze_general",
-      "difficulty": 1,
-      "group": "cloze_1",
-      "group_passage": "Last month, our school started a green project called \"My Little Garden\". Each class was given a small piece of land (土地) in the schoolyard to grow vegetables or flowers.\n\nAt first, many students thought it would be (8)_______. However, they soon realized that gardening requires a lot of work. We had to learn how to (9)_______ the soil, when to water the plants, and how to (10)_______ them from pests (害虫).\n\nOne of the biggest challenges was the weather. Two weeks ago, there was a heavy storm. Our tomato plants were badly (11)_______. Instead of giving up, we decided to build a simple shelter (遮蔽物) using bamboo sticks and plastic sheets. It took us three afternoons to finish it, but it worked well.\n\nNow, our garden is full of life. The tomatoes are turning red, and the lettuce is growing fast. Through this project, we have learned not only gardening skills but also the importance of patience and teamwork. When we see the fruits of our labor, we feel a strong sense of (12)_______.",
-      "stem": "(8)_______",
+      "knowledge_point": "cloze_context",
+      "difficulty": 2,
+      "stem": "(8)______",
       "options": [
-        "A. difficult",
-        "B. boring",
-        "C. easy",
-        "D. interesting"
+        "A. However",
+        "B. Therefore",
+        "C. Besides",
+        "D. Otherwise"
       ],
-      "correct_answer": "C",
-      "explanation": "正确答案选C。考查语境理解和逻辑关系。根据下一句'However, they soon realized that gardening requires a lot of work'（然而，他们很快意识到园艺需要大量工作）中的转折词However可知，前后意思相反。后面说需要大量工作（难），前面应该说'容易'，因此选easy。A选项difficult（困难的）与后文逻辑重复；B选项boring（无聊的）和D选项interesting（有趣的）无法与后文形成转折对比。",
+      "correct_answer": "A",
+      "group": "cloze_1",
+      "group_passage": "Saving Energy at Home\n\nMany people believe that saving energy is something difficult that requires big changes in life. (8)_____, small actions in our daily routine can make a significant difference. Last winter, my family decided to reduce our electricity bill and help the environment at the same time.\n\nAt first, my parents (9)_____ some simple rules for our family. We started by turning off lights when leaving a room and unplugging electronic devices when not in use. My father also changed all the traditional light bulbs to energy-saving ones. Although these changes seemed minor, we were (10)_____ to see our electricity bill drop by 20% in the first month.\n\nHowever, the biggest challenge came when my mother suggested lowering the temperature of our air conditioner in summer. \"We can use fans instead when it's not extremely hot,\" she said. At first, my brother and I were not (11)_____ with this idea because we enjoyed the cool air. But after understanding that air conditioners use much more electricity than fans, we agreed to give it a try.\n\nNow, saving energy has become a (12)_____ for our family. We have realized that protecting the environment doesn't mean sacrificing comfort completely. Instead, it's about making smart choices in our daily life.",
+      "explanation": "【解析】考查逻辑关系。前句说\"很多人认为节能很困难，需要大的改变\"，后句说\"日常生活中的小行动也能产生重大影响\"，前后是转折关系，用However（然而）。Therefore因此（因果）；Besides此外（递进）；Otherwise否则（条件）。【解题技巧】完形填空逻辑关系题要\"瞻前顾后\"，看前后句是转折、因果还是递进。本题前句说\"难\"，后句说\"小行动也行\"，明显转折，故选A。",
       "label": "完形填空"
     },
     {
@@ -137,71 +137,71 @@
       "type": "cloze",
       "knowledge_point": "cloze_collocation",
       "difficulty": 2,
-      "group": "cloze_1",
-      "group_passage": "Last month, our school started a green project called \"My Little Garden\". Each class was given a small piece of land (土地) in the schoolyard to grow vegetables or flowers.\n\nAt first, many students thought it would be (8)_______. However, they soon realized that gardening requires a lot of work. We had to learn how to (9)_______ the soil, when to water the plants, and how to (10)_______ them from pests (害虫).\n\nOne of the biggest challenges was the weather. Two weeks ago, there was a heavy storm. Our tomato plants were badly (11)_______. Instead of giving up, we decided to build a simple shelter (遮蔽物) using bamboo sticks and plastic sheets. It took us three afternoons to finish it, but it worked well.\n\nNow, our garden is full of life. The tomatoes are turning red, and the lettuce is growing fast. Through this project, we have learned not only gardening skills but also the importance of patience and teamwork. When we see the fruits of our labor, we feel a strong sense of (12)_______.",
-      "stem": "(9)_______",
+      "stem": "(9)______",
       "options": [
-        "A. make",
-        "B. prepare",
-        "C. clean",
-        "D. dig"
+        "A. broke",
+        "B. made",
+        "C. followed",
+        "D. refused"
       ],
       "correct_answer": "B",
-      "explanation": "正确答案选B。考查固定搭配和语境理解。prepare the soil意为'准备土壤/整地'，是园艺活动中的常用表达，包括松土、施肥等准备工作。A选项make the soil搭配不当；C选项clean the soil（清理土壤）不符合种植前的准备语境；D选项dig the soil（挖土）只是整地的一部分，不如prepare全面。固定搭配：prepare the soil/ground（整地）。",
+      "group": "cloze_1",
+      "group_passage": "Saving Energy at Home\n\nMany people believe that saving energy is something difficult that requires big changes in life. (8)_____, small actions in our daily routine can make a significant difference. Last winter, my family decided to reduce our electricity bill and help the environment at the same time.\n\nAt first, my parents (9)_____ some simple rules for our family. We started by turning off lights when leaving a room and unplugging electronic devices when not in use. My father also changed all the traditional light bulbs to energy-saving ones. Although these changes seemed minor, we were (10)_____ to see our electricity bill drop by 20% in the first month.\n\nHowever, the biggest challenge came when my mother suggested lowering the temperature of our air conditioner in summer. \"We can use fans instead when it's not extremely hot,\" she said. At first, my brother and I were not (11)_____ with this idea because we enjoyed the cool air. But after understanding that air conditioners use much more electricity than fans, we agreed to give it a try.\n\nNow, saving energy has become a (12)_____ for our family. We have realized that protecting the environment doesn't mean sacrificing comfort completely. Instead, it's about making smart choices in our daily life.",
+      "explanation": "【解析】考查固定搭配。make rules制定规则，是固定搭配。break rules违反规则；follow rules遵守规则；refuse拒绝。根据上下文，父母先是\"制定\"了一些简单的规则，然后我们遵守，因此选made。【解题技巧】\"制定规则\"用make，\"遵守规则\"用follow/break（违反）。本句At first（起初）和后面的We started by...表明这是最初的\"制定\"阶段，故选B。",
       "label": "完形填空"
     },
     {
       "id": 10,
       "type": "cloze",
-      "knowledge_point": "cloze_collocation",
-      "difficulty": 2,
-      "group": "cloze_1",
-      "group_passage": "Last month, our school started a green project called \"My Little Garden\". Each class was given a small piece of land (土地) in the schoolyard to grow vegetables or flowers.\n\nAt first, many students thought it would be (8)_______. However, they soon realized that gardening requires a lot of work. We had to learn how to (9)_______ the soil, when to water the plants, and how to (10)_______ them from pests (害虫).\n\nOne of the biggest challenges was the weather. Two weeks ago, there was a heavy storm. Our tomato plants were badly (11)_______. Instead of giving up, we decided to build a simple shelter (遮蔽物) using bamboo sticks and plastic sheets. It took us three afternoons to finish it, but it worked well.\n\nNow, our garden is full of life. The tomatoes are turning red, and the lettuce is growing fast. Through this project, we have learned not only gardening skills but also the importance of patience and teamwork. When we see the fruits of our labor, we feel a strong sense of (12)_______.",
-      "stem": "(10)_______",
+      "knowledge_point": "cloze_context",
+      "difficulty": 1,
+      "stem": "(10)______",
       "options": [
-        "A. stop",
-        "B. prevent",
-        "C. protect",
-        "D. keep"
+        "A. sad",
+        "B. angry",
+        "C. surprised",
+        "D. worried"
       ],
       "correct_answer": "C",
-      "explanation": "正确答案选C。考查固定搭配。protect...from...是固定搭配，意为'保护……免受……（伤害）'，此处指保护植物免受害虫侵害。A选项stop...from意为'阻止……做某事'，主语通常是人；B选项prevent...from也意为'阻止'，但语气较强，且不如protect符合'保护植物'的语境；D选项keep...from意为'阻止'或'使……远离'，但keep一般不与from搭配表示保护含义。固定搭配：protect sb/sth from danger/damage（保护某人/某物免受危险/损害）。",
+      "group": "cloze_1",
+      "group_passage": "Saving Energy at Home\n\nMany people believe that saving energy is something difficult that requires big changes in life. (8)_____, small actions in our daily routine can make a significant difference. Last winter, my family decided to reduce our electricity bill and help the environment at the same time.\n\nAt first, my parents (9)_____ some simple rules for our family. We started by turning off lights when leaving a room and unplugging electronic devices when not in use. My father also changed all the traditional light bulbs to energy-saving ones. Although these changes seemed minor, we were (10)_____ to see our electricity bill drop by 20% in the first month.\n\nHowever, the biggest challenge came when my mother suggested lowering the temperature of our air conditioner in summer. \"We can use fans instead when it's not extremely hot,\" she said. At first, my brother and I were not (11)_____ with this idea because we enjoyed the cool air. But after understanding that air conditioners use much more electricity than fans, we agreed to give it a try.\n\nNow, saving energy has become a (12)_____ for our family. We have realized that protecting the environment doesn't mean sacrificing comfort completely. Instead, it's about making smart choices in our daily life.",
+      "explanation": "【解析】考查语境理解。虽然这些改变看起来很小（minor），但看到电费账单下降了20%，我们应该感到\"惊讶\"。surprised（惊讶的）符合语境；sad悲伤的；angry生气的；worried担心的，都不符合。【解题技巧】完形填空情感线索题要根据上下文判断。前文说\"Although these changes seemed minor\"（虽然改变很小），用了Although表示让步，后面应该有出乎意料的结果，故用\"惊讶\"，选C。",
       "label": "完形填空"
     },
     {
       "id": 11,
       "type": "cloze",
-      "knowledge_point": "cloze_general",
-      "difficulty": 1,
-      "group": "cloze_1",
-      "group_passage": "Last month, our school started a green project called \"My Little Garden\". Each class was given a small piece of land (土地) in the schoolyard to grow vegetables or flowers.\n\nAt first, many students thought it would be (8)_______. However, they soon realized that gardening requires a lot of work. We had to learn how to (9)_______ the soil, when to water the plants, and how to (10)_______ them from pests (害虫).\n\nOne of the biggest challenges was the weather. Two weeks ago, there was a heavy storm. Our tomato plants were badly (11)_______. Instead of giving up, we decided to build a simple shelter (遮蔽物) using bamboo sticks and plastic sheets. It took us three afternoons to finish it, but it worked well.\n\nNow, our garden is full of life. The tomatoes are turning red, and the lettuce is growing fast. Through this project, we have learned not only gardening skills but also the importance of patience and teamwork. When we see the fruits of our labor, we feel a strong sense of (12)_______.",
-      "stem": "(11)_______",
+      "knowledge_point": "cloze_context",
+      "difficulty": 2,
+      "stem": "(11)______",
       "options": [
-        "A. hurt",
-        "B. damaged",
-        "C. broken",
-        "D. destroyed"
+        "A. happy",
+        "B. patient",
+        "C. careful",
+        "D. polite"
       ],
-      "correct_answer": "B",
-      "explanation": "正确答案选B。考查动词辨析。damage意为'损坏，损害'，常用于描述风暴、事故等对物体造成的部分损坏，符合语境（植物被暴风雨损坏，但后文提到没有放弃，说明不是完全毁坏）。A选项hurt主要用于人或动物受伤；C选项broken强调'破碎，断裂'，通常指具体物品破裂；D选项destroyed强调'彻底毁坏'，程度过重，与后文'继续种植'矛盾。辨析：damage（部分损坏）vs destroy（彻底摧毁）。",
+      "correct_answer": "A",
+      "group": "cloze_1",
+      "group_passage": "Saving Energy at Home\n\nMany people believe that saving energy is something difficult that requires big changes in life. (8)_____, small actions in our daily routine can make a significant difference. Last winter, my family decided to reduce our electricity bill and help the environment at the same time.\n\nAt first, my parents (9)_____ some simple rules for our family. We started by turning off lights when leaving a room and unplugging electronic devices when not in use. My father also changed all the traditional light bulbs to energy-saving ones. Although these changes seemed minor, we were (10)_____ to see our electricity bill drop by 20% in the first month.\n\nHowever, the biggest challenge came when my mother suggested lowering the temperature of our air conditioner in summer. \"We can use fans instead when it's not extremely hot,\" she said. At first, my brother and I were not (11)_____ with this idea because we enjoyed the cool air. But after understanding that air conditioners use much more electricity than fans, we agreed to give it a try.\n\nNow, saving energy has become a (12)_____ for our family. We have realized that protecting the environment doesn't mean sacrificing comfort completely. Instead, it's about making smart choices in our daily life.",
+      "explanation": "【解析】考查语境理解。根据后文\"because we enjoyed the cool air\"（因为我们喜欢凉爽的空气）可知，对于调高空调温度这个建议，我们一开始并不\"高兴\"。be happy with对……满意/高兴；patient耐心的；careful仔细的；polite礼貌的。【解题技巧】因果线索题，看because后面的内容。喜欢凉爽空气→不喜欢调高温度→不高兴，故选A。",
       "label": "完形填空"
     },
     {
       "id": 12,
       "type": "cloze",
       "knowledge_point": "cloze_context",
-      "difficulty": 2,
-      "group": "cloze_1",
-      "group_passage": "Last month, our school started a green project called \"My Little Garden\". Each class was given a small piece of land (土地) in the schoolyard to grow vegetables or flowers.\n\nAt first, many students thought it would be (8)_______. However, they soon realized that gardening requires a lot of work. We had to learn how to (9)_______ the soil, when to water the plants, and how to (10)_______ them from pests (害虫).\n\nOne of the biggest challenges was the weather. Two weeks ago, there was a heavy storm. Our tomato plants were badly (11)_______. Instead of giving up, we decided to build a simple shelter (遮蔽物) using bamboo sticks and plastic sheets. It took us three afternoons to finish it, but it worked well.\n\nNow, our garden is full of life. The tomatoes are turning red, and the lettuce is growing fast. Through this project, we have learned not only gardening skills but also the importance of patience and teamwork. When we see the fruits of our labor, we feel a strong sense of (12)_______.",
-      "stem": "(12)_______",
+      "difficulty": 1,
+      "stem": "(12)______",
       "options": [
-        "A. pride",
-        "B. achievement",
-        "C. success",
-        "D. happiness"
+        "A. problem",
+        "B. habit",
+        "C. game",
+        "D. joke"
       ],
       "correct_answer": "B",
-      "explanation": "正确答案选B。考查固定搭配和语境呼应。a sense of achievement意为'成就感'，与前文'the fruits of our labor'（劳动成果）形成呼应，强调通过努力获得成果后的感受。A选项pride（自豪感）虽然语义相近，但通常与in搭配（pride in sth）；C选项success（成功）一般不与a sense of搭配；D选项happiness（快乐）过于泛泛，不如achievement准确表达'通过努力获得'的含义。固定搭配：a sense of achievement（成就感），a sense of pride（自豪感）。",
+      "group": "cloze_1",
+      "group_passage": "Saving Energy at Home\n\nMany people believe that saving energy is something difficult that requires big changes in life. (8)_____, small actions in our daily routine can make a significant difference. Last winter, my family decided to reduce our electricity bill and help the environment at the same time.\n\nAt first, my parents (9)_____ some simple rules for our family. We started by turning off lights when leaving a room and unplugging electronic devices when not in use. My father also changed all the traditional light bulbs to energy-saving ones. Although these changes seemed minor, we were (10)_____ to see our electricity bill drop by 20% in the first month.\n\nHowever, the biggest challenge came when my mother suggested lowering the temperature of our air conditioner in summer. \"We can use fans instead when it's not extremely hot,\" she said. At first, my brother and I were not (11)_____ with this idea because we enjoyed the cool air. But after understanding that air conditioners use much more electricity than fans, we agreed to give it a try.\n\nNow, saving energy has become a (12)_____ for our family. We have realized that protecting the environment doesn't mean sacrificing comfort completely. Instead, it's about making smart choices in our daily life.",
+      "explanation": "【解析】考查语境理解。现在，节约能源已经成为我们家庭的\"习惯\"。habit习惯；problem问题；game游戏；joke玩笑。根据上下文，经过一段时间后，节能已经从最初的有意识行为变成了\"习惯\"。【解题技巧】完形填空要关注文章发展脉络。文章按时间顺序：起初制定规则→一个月后有效果→尝试新方法→现在成为习惯，故选B。",
       "label": "完形填空"
     },
     {
@@ -209,71 +209,69 @@
       "type": "reading",
       "knowledge_point": "detail",
       "difficulty": 2,
-      "group": "reading_1",
-      "group_passage": "In recent years, \"phubbing\" (低头症) has become a common problem among teenagers. This word comes from \"phone\" and \"snubbing\" (冷落). It describes the habit of ignoring people around you because you are using your smartphone.\n\nA recent study shows that teenagers spend an average of 7 hours a day on their phones. This has raised concerns among parents and teachers. Dr. Li, a psychologist (心理学家), explains that excessive (过度的) phone use can affect our relationships and mental health. \"When you look at your phone instead of talking to your friends, you send a message that they are not important,\" says Dr. Li.\n\nHowever, phones are not completely bad. They help us stay connected with friends, access (获取) information quickly, and even learn new things. The key is to find a balance. Dr. Li suggests setting specific \"phone-free\" times, such as during meals or before bedtime.\n\nLast month, Class 8A tried a \"Digital Detox (排毒) Week\". Students agreed to use their phones only for necessary calls and messages. At first, many felt anxious without their phones. But by the end of the week, they reported better sleep and more face-to-face conversations with classmates.\n\n\"At first, I didn't know what to do with my free time,\" said Bosco, a student from Class 8A. \"But then I started reading books and playing basketball with friends. I realized there are many interesting things offline.\"",
-      "stem": "What does the word \"phubbing\" mean according to the passage?",
+      "stem": "What are Peesapaty's edible utensils made from?",
       "options": [
-        "A. A new type of smartphone.",
-        "B. The habit of ignoring people around you because of using phones.",
-        "C. A popular game among teenagers.",
-        "D. The skill of communicating with friends online."
+        "A. Plastic and rice",
+        "B. Rice, wheat and sorghum",
+        "C. Wood and paper",
+        "D. Metal and glass"
       ],
       "correct_answer": "B",
-      "explanation": "正确答案选B。细节理解题。根据第一段最后一句'It describes the habit of ignoring people around you because you are using your smartphone.'可知，phubbing指的是因为使用手机而忽视周围人的习惯。A选项说是一种新型智能手机，C选项说是一种流行游戏，D选项说是在线交流技巧，均与原文描述不符。解题技巧：细节题要准确定位原文，注意题干中的专有名词（phubbing），快速扫描原文找到对应解释句。",
+      "group": "reading_1",
+      "group_passage": "Eating Your Spoon: A New Way to Reduce Plastic Waste\n\nHave you ever imagined eating your spoon after finishing your soup? It might sound strange, but this is exactly what Narayana Peesapaty, a scientist from India, wants people to do. He has created edible spoons and forks made from rice, wheat, and sorghum (高粱).\n\nPeesapaty was worried about the serious plastic pollution problem. Every year, millions of plastic utensils (餐具) are thrown away after just one use. These plastics take hundreds of years to break down and often end up in oceans, harming sea animals. \"We need to find alternatives to plastic,\" Peesapaty thought.\n\nAfter years of testing different recipes, Peesapaty finally developed the perfect formula. His edible utensils are not only eco-friendly but also tasty. They come in different flavors such as sugar, ginger, and cumin (孜然). The spoons remain hard for up to 20 minutes in hot liquid, giving people enough time to finish their meals.\n\nCurrently, these edible utensils cost more to produce than plastic ones. However, Peesapaty believes that as more people buy them, the price will go down. Several restaurants in India have already started using these edible spoons, and the feedback has been positive. \"Customers love the idea,\" said a restaurant owner. \"They feel good knowing they're not creating plastic waste.\"\n\nThe invention has won several awards for environmental innovation. Peesapaty hopes that one day, edible cutlery will replace plastic ones in homes and restaurants around the world, making our planet a cleaner place.",
+      "explanation": "【解析】细节理解题。根据第一段最后一句\"He has created edible spoons and forks made from rice, wheat, and sorghum\"可知，可食用餐具是由大米、小麦和高粱制成的。【解题技巧】细节题要\"题干定位法\"，抓住关键词made from，回原文第一段找对应信息，直接匹配选项B。",
       "label": "阅读-细节理解"
     },
     {
       "id": 14,
       "type": "reading",
-      "knowledge_point": "word_guessing_context",
-      "difficulty": 2,
-      "group": "reading_1",
-      "group_passage": "In recent years, \"phubbing\" (低头症) has become a common problem among teenagers. This word comes from \"phone\" and \"snubbing\" (冷落). It describes the habit of ignoring people around you because you are using your smartphone.\n\nA recent study shows that teenagers spend an average of 7 hours a day on their phones. This has raised concerns among parents and teachers. Dr. Li, a psychologist (心理学家), explains that excessive (过度的) phone use can affect our relationships and mental health. \"When you look at your phone instead of talking to your friends, you send a message that they are not important,\" says Dr. Li.\n\nHowever, phones are not completely bad. They help us stay connected with friends, access (获取) information quickly, and even learn new things. The key is to find a balance. Dr. Li suggests setting specific \"phone-free\" times, such as during meals or before bedtime.\n\nLast month, Class 8A tried a \"Digital Detox (排毒) Week\". Students agreed to use their phones only for necessary calls and messages. At first, many felt anxious without their phones. But by the end of the week, they reported better sleep and more face-to-face conversations with classmates.\n\n\"At first, I didn't know what to do with my free time,\" said Bosco, a student from Class 8A. \"But then I started reading books and playing basketball with friends. I realized there are many interesting things offline.\"",
-      "stem": "What does the underlined word \"access\" in Paragraph 3 probably mean in Chinese?",
+      "knowledge_point": "inference",
+      "difficulty": 3,
+      "stem": "Why did Peesapaty spend years testing different recipes?",
       "options": [
-        "A. 存储",
-        "B. 获取",
-        "C. 分享",
-        "D. 删除"
+        "A. To make the utensils taste better than plastic ones",
+        "B. To find the right formula that was both strong and edible",
+        "C. To reduce the cost of production immediately",
+        "D. To win awards for environmental innovation"
       ],
       "correct_answer": "B",
-      "explanation": "正确答案选B。词义猜测题。根据上下文'access information quickly'（快速地……信息），结合常识，手机帮助我们快速'获取'信息。A选项存储（save/store）、C选项分享（share）、D选项删除（delete）均不如'获取'符合语境。解题技巧：通过上下文逻辑和常识猜测词义；access常见含义为'进入'或'获取/使用（信息、设施等）'，如internet access（互联网接入）。",
-      "label": "阅读-词义猜测"
+      "group": "reading_1",
+      "group_passage": "Eating Your Spoon: A New Way to Reduce Plastic Waste\n\nHave you ever imagined eating your spoon after finishing your soup? It might sound strange, but this is exactly what Narayana Peesapaty, a scientist from India, wants people to do. He has created edible spoons and forks made from rice, wheat, and sorghum (高粱).\n\nPeesapaty was worried about the serious plastic pollution problem. Every year, millions of plastic utensils (餐具) are thrown away after just one use. These plastics take hundreds of years to break down and often end up in oceans, harming sea animals. \"We need to find alternatives to plastic,\" Peesapaty thought.\n\nAfter years of testing different recipes, Peesapaty finally developed the perfect formula. His edible utensils are not only eco-friendly but also tasty. They come in different flavors such as sugar, ginger, and cumin (孜然). The spoons remain hard for up to 20 minutes in hot liquid, giving people enough time to finish their meals.\n\nCurrently, these edible utensils cost more to produce than plastic ones. However, Peesapaty believes that as more people buy them, the price will go down. Several restaurants in India have already started using these edible spoons, and the feedback has been positive. \"Customers love the idea,\" said a restaurant owner. \"They feel good knowing they're not creating plastic waste.\"\n\nThe invention has won several awards for environmental innovation. Peesapaty hopes that one day, edible cutlery will replace plastic ones in homes and restaurants around the world, making our planet a cleaner place.",
+      "explanation": "【解析】推理判断题。根据第三段内容，经过多年测试后，他开发出了完美的配方（perfect formula），这种餐具不仅环保而且美味，能在热液体中保持坚硬20分钟。由此可推断，他多年测试是为了找到既坚固又可食用的配方。A项\"比塑料好吃\"不是主要目的；C项\"立即降低成本\"与文中\"目前成本更高\"矛盾；D项\"获奖\"是结果而非目的。【解题技巧】推理题要\"透过现象看本质\"，根据\"perfect formula\"和\"remain hard\"等关键词推断是为了找到既实用又可食用的配方，故选B。",
+      "label": "阅读-推理判断"
     },
     {
       "id": 15,
       "type": "reading",
-      "knowledge_point": "inference",
-      "difficulty": 3,
-      "group": "reading_1",
-      "group_passage": "In recent years, \"phubbing\" (低头症) has become a common problem among teenagers. This word comes from \"phone\" and \"snubbing\" (冷落). It describes the habit of ignoring people around you because you are using your smartphone.\n\nA recent study shows that teenagers spend an average of 7 hours a day on their phones. This has raised concerns among parents and teachers. Dr. Li, a psychologist (心理学家), explains that excessive (过度的) phone use can affect our relationships and mental health. \"When you look at your phone instead of talking to your friends, you send a message that they are not important,\" says Dr. Li.\n\nHowever, phones are not completely bad. They help us stay connected with friends, access (获取) information quickly, and even learn new things. The key is to find a balance. Dr. Li suggests setting specific \"phone-free\" times, such as during meals or before bedtime.\n\nLast month, Class 8A tried a \"Digital Detox (排毒) Week\". Students agreed to use their phones only for necessary calls and messages. At first, many felt anxious without their phones. But by the end of the week, they reported better sleep and more face-to-face conversations with classmates.\n\n\"At first, I didn't know what to do with my free time,\" said Bosco, a student from Class 8A. \"But then I started reading books and playing basketball with friends. I realized there are many interesting things offline.\"",
-      "stem": "What can we infer from the last paragraph?",
+      "knowledge_point": "word_guessing",
+      "difficulty": 2,
+      "stem": "The underlined word \"alternatives\" in Paragraph 2 probably means ______.",
       "options": [
-        "A. Bosco regretted joining the Digital Detox Week.",
-        "B. Bosco found offline activities more boring than using phones.",
-        "C. Bosco benefited from the activity and discovered new interests.",
-        "D. Bosco decided to stop using his phone forever."
+        "A. things that can be used instead of something else",
+        "B. things that are more expensive than usual",
+        "C. things that are made from plastic materials",
+        "D. things that can be thrown away easily"
       ],
-      "correct_answer": "C",
-      "explanation": "正确答案选C。推理判断题。根据最后一段Bosco的话：起初不知道空闲时间该做什么，但后来开始读书、打篮球，意识到线下有很多有趣的事情。可推断出他从活动中受益并发现了新的兴趣爱好。A选项'后悔参加'与原文态度相反；B选项'觉得线下活动更无聊'与原文'many interesting things'矛盾；D选项'决定永远不用手机'过于绝对，文中只说发现线下活动有趣，没说永远不用手机。解题技巧：推理题要基于原文信息合理推断，不能过度推断，也不能选择与原文相反或绝对的选项。",
-      "label": "阅读-推理判断"
+      "correct_answer": "A",
+      "group": "reading_1",
+      "group_passage": "Eating Your Spoon: A New Way to Reduce Plastic Waste\n\nHave you ever imagined eating your spoon after finishing your soup? It might sound strange, but this is exactly what Narayana Peesapaty, a scientist from India, wants people to do. He has created edible spoons and forks made from rice, wheat, and sorghum (高粱).\n\nPeesapaty was worried about the serious plastic pollution problem. Every year, millions of plastic utensils (餐具) are thrown away after just one use. These plastics take hundreds of years to break down and often end up in oceans, harming sea animals. \"We need to find alternatives to plastic,\" Peesapaty thought.\n\nAfter years of testing different recipes, Peesapaty finally developed the perfect formula. His edible utensils are not only eco-friendly but also tasty. They come in different flavors such as sugar, ginger, and cumin (孜然). The spoons remain hard for up to 20 minutes in hot liquid, giving people enough time to finish their meals.\n\nCurrently, these edible utensils cost more to produce than plastic ones. However, Peesapaty believes that as more people buy them, the price will go down. Several restaurants in India have already started using these edible spoons, and the feedback has been positive. \"Customers love the idea,\" said a restaurant owner. \"They feel good knowing they're not creating plastic waste.\"\n\nThe invention has won several awards for environmental innovation. Peesapaty hopes that one day, edible cutlery will replace plastic ones in homes and restaurants around the world, making our planet a cleaner place.",
+      "explanation": "【解析】词义猜测题。根据上下文，Peesapaty担心塑料污染问题，认为需要找到塑料的\"替代品\"，于是发明了可食用餐具。alternative意为\"替代品\"，即可以代替其他东西使用的事物。【解题技巧】猜词题要利用\"同义/反义/解释\"关系。前文说塑料有害，后文说他发明了可食用餐具，说明alternatives to plastic就是\"可用来代替塑料的东西\"，故选A。",
+      "label": "阅读-词义猜测"
     },
     {
       "id": 16,
       "type": "reading",
       "knowledge_point": "main_idea_title",
       "difficulty": 3,
-      "group": "reading_1",
-      "group_passage": "In recent years, \"phubbing\" (低头症) has become a common problem among teenagers. This word comes from \"phone\" and \"snubbing\" (冷落). It describes the habit of ignoring people around you because you are using your smartphone.\n\nA recent study shows that teenagers spend an average of 7 hours a day on their phones. This has raised concerns among parents and teachers. Dr. Li, a psychologist (心理学家), explains that excessive (过度的) phone use can affect our relationships and mental health. \"When you look at your phone instead of talking to your friends, you send a message that they are not important,\" says Dr. Li.\n\nHowever, phones are not completely bad. They help us stay connected with friends, access (获取) information quickly, and even learn new things. The key is to find a balance. Dr. Li suggests setting specific \"phone-free\" times, such as during meals or before bedtime.\n\nLast month, Class 8A tried a \"Digital Detox (排毒) Week\". Students agreed to use their phones only for necessary calls and messages. At first, many felt anxious without their phones. But by the end of the week, they reported better sleep and more face-to-face conversations with classmates.\n\n\"At first, I didn't know what to do with my free time,\" said Bosco, a student from Class 8A. \"But then I started reading books and playing basketball with friends. I realized there are many interesting things offline.\"",
       "stem": "What is the best title for this passage?",
       "options": [
-        "A. The History of Smartphones",
-        "B. Phubbing: A Modern Problem and Solutions",
-        "C. How to Use Phones at School",
-        "D. The Life of Teenagers"
+        "A. The History of Indian Cuisine",
+        "B. How to Reduce Plastic Waste in Oceans",
+        "C. Edible Utensils: A Tasty Solution to Plastic Pollution",
+        "D. The Life of a Famous Scientist"
       ],
-      "correct_answer": "B",
-      "explanation": "正确答案选B。主旨大意题/最佳标题题。文章第一段引入phubbing（低头症）这一现代问题，第二段讲其危害，第三段讲如何平衡使用，第四、五段讲具体解决尝试（数字排毒周）。因此B选项'Phubbing: A Modern Problem and Solutions'（低头症：一个现代问题及解决方案）最能概括全文。A选项'智能手机历史'只在开头提及，非重点；C选项'如何在校使用手机'过于片面；D选项'青少年生活'范围过大。解题技巧：最佳标题要涵盖全文主要内容，既要有问题描述也要有解决建议，不能过于宽泛或片面。",
+      "correct_answer": "C",
+      "explanation": "【解析】主旨大意题。文章主要介绍了印度科学家Peesapaty发明的可食用餐具，作为解决塑料污染的一种创新方法。A项\"印度烹饪历史\"偏离主题；B项\"如何减少海洋塑料垃圾\"过于宽泛，未提及可食用餐具这一核心内容；D项\"著名科学家的生平\"范围太广，文章只聚焦其一项发明。【解题技巧】标题要\"概括全文，点明主旨\"。文章关键词是edible utensils（可食用餐具）和plastic pollution（塑料污染），C项同时包含这两个要素，且A Tasty Solution（美味的解决方案）体现了可食用的特点，故选C。",
       "label": "阅读-主旨大意"
     },
     {
@@ -281,18 +279,18 @@
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "group": "fill_1",
-      "group_passage": "Waste sorting (垃圾分类) has become an important topic in our daily life. It helps protect the environment and save resources. (17)_______\n\nFirst, we should learn to separate waste into different categories (类别). Usually, there are four types: recyclables, hazardous waste (有害垃圾), kitchen waste, and other waste. (18)_______ For example, plastic bottles and paper belong to recyclables, while batteries are hazardous waste.\n\nSecond, we need to develop good habits. (19)_______ Before throwing something away, stop and think which bin it should go into. This small action can make a big difference.\n\n(20)_______ Schools and communities are organizing various activities to promote waste sorting. By working together, we can create a cleaner and greener future.",
-      "stem": "(17)_______",
+      "stem": "(17)______",
       "options": [
-        "A. However, many people find it difficult to start.",
-        "B. Here are some simple steps we can follow.",
-        "C. In addition, we should encourage our family and friends to join us.",
-        "D. It may seem troublesome at first, but it will become easier with practice.",
-        "E. Knowing the categories is the first step to proper sorting."
+        "A. However, with proper planning, it is possible to do well in both areas.",
+        "B. For example, you can use a planner or a mobile app to organize your tasks.",
+        "C. In addition, prioritize your tasks according to importance and difficulty.",
+        "D. As a result, you will have more time to focus on what really matters.",
+        "E. On the other hand, spending too much time on hobbies is also a problem."
       ],
-      "correct_answer": "B",
-      "explanation": "正确答案选B。考查段落衔接和总分结构。空前讲垃圾分类的重要性，空后分点阐述（First... Second...），因此此处需要一个总起句引出具体步骤。B选项'Here are some simple steps we can follow'（以下是一些我们可以遵循的简单步骤）起到承上启下的作用。A选项表转折，与后文逻辑不符；C选项是补充建议，应放在段末；D选项是让步状语从句，不适合作为总起句；E选项具体讲分类，应放在First之后。",
+      "correct_answer": "A",
+      "group": "fill_1",
+      "group_passage": "How to Balance Schoolwork and Hobbies\n\nMany middle school students find it difficult to balance their schoolwork with their hobbies. They often feel stressed when they cannot finish homework on time or have no time for activities they enjoy. (17)_____ Here are some useful tips that can help you manage your time better.\n\nFirst, make a weekly schedule. Write down all your homework assignments and after-school activities. (18)_____ This way, you will know exactly what needs to be done each day. Remember to include some free time for rest and relaxation.\n\n(19)_____ Not all homework needs to be done immediately. Start with the most difficult subjects when your mind is fresh. Save easier tasks for later when you might be tired.\n\nFinally, learn to say no to unnecessary activities. If you already have too much on your plate, don't take on extra tasks. (20)_____ By following these suggestions, you will find that you have enough time for both studying and enjoying your hobbies.",
+      "explanation": "【解析】考查段落衔接。空前说学生感到压力很大，空后说\"以下是一些有用的建议\"，说明空格处需要一个过渡句，承上启下，表示\"虽然困难，但有办法解决\"。A项\"然而，通过适当的规划，在两个方面都做好是有可能的\"符合逻辑，However承接上文的困难，后半句引出下文的建议。【解题技巧】七选五要关注\"逻辑关系\"和\"代词指代\"。本题空前讲问题，空后讲解决方案，需要转折过渡，故选A。",
       "label": "短文填空"
     },
     {
@@ -300,18 +298,18 @@
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "group": "fill_1",
-      "group_passage": "Waste sorting (垃圾分类) has become an important topic in our daily life. It helps protect the environment and save resources. (17)_______\n\nFirst, we should learn to separate waste into different categories (类别). Usually, there are four types: recyclables, hazardous waste (有害垃圾), kitchen waste, and other waste. (18)_______ For example, plastic bottles and paper belong to recyclables, while batteries are hazardous waste.\n\nSecond, we need to develop good habits. (19)_______ Before throwing something away, stop and think which bin it should go into. This small action can make a big difference.\n\n(20)_______ Schools and communities are organizing various activities to promote waste sorting. By working together, we can create a cleaner and greener future.",
-      "stem": "(18)_______",
+      "stem": "(18)______",
       "options": [
-        "A. However, many people find it difficult to start.",
-        "B. Here are some simple steps we can follow.",
-        "C. In addition, we should encourage our family and friends to join us.",
-        "D. It may seem troublesome at first, but it will become easier with practice.",
-        "E. Knowing the categories is the first step to proper sorting."
+        "A. However, with proper planning, it is possible to do well in both areas.",
+        "B. For example, you can use a planner or a mobile app to organize your tasks.",
+        "C. In addition, prioritize your tasks according to importance and difficulty.",
+        "D. As a result, you will have more time to focus on what really matters.",
+        "E. On the other hand, spending too much time on hobbies is also a problem."
       ],
-      "correct_answer": "E",
-      "explanation": "正确答案选E。考查逻辑衔接。空前提到'four types'（四种类型），空后举例说明哪些属于可回收物，哪些是有害垃圾，因此此处应强调了解分类的重要性。E选项'Knowing the categories is the first step to proper sorting'（了解类别是正确分类的第一步）承上启下，既呼应上文的categories，又引出下文的例子。A、B、C、D选项均与'举例说明具体分类'的语境不符。",
+      "correct_answer": "B",
+      "group": "fill_1",
+      "group_passage": "How to Balance Schoolwork and Hobbies\n\nMany middle school students find it difficult to balance their schoolwork with their hobbies. They often feel stressed when they cannot finish homework on time or have no time for activities they enjoy. (17)_____ Here are some useful tips that can help you manage your time better.\n\nFirst, make a weekly schedule. Write down all your homework assignments and after-school activities. (18)_____ This way, you will know exactly what needs to be done each day. Remember to include some free time for rest and relaxation.\n\n(19)_____ Not all homework needs to be done immediately. Start with the most difficult subjects when your mind is fresh. Save easier tasks for later when you might be tired.\n\nFinally, learn to say no to unnecessary activities. If you already have too much on your plate, don't take on extra tasks. (20)_____ By following these suggestions, you will find that you have enough time for both studying and enjoying your hobbies.",
+      "explanation": "【解析】考查例证关系。空前说\"制定每周计划，写下所有作业和课外活动\"，空后说\"这样你就能确切知道每天需要做什么\"。B项\"例如，你可以使用计划本或手机应用来组织任务\"是对前文\"制定计划\"的具体举例，For example是明显的例证标志。【解题技巧】关注\"连接词\"，For example表示举例，承接上文的make a schedule，具体说明如何制定计划，故选B。",
       "label": "短文填空"
     },
     {
@@ -319,18 +317,18 @@
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "group": "fill_1",
-      "group_passage": "Waste sorting (垃圾分类) has become an important topic in our daily life. It helps protect the environment and save resources. (17)_______\n\nFirst, we should learn to separate waste into different categories (类别). Usually, there are four types: recyclables, hazardous waste (有害垃圾), kitchen waste, and other waste. (18)_______ For example, plastic bottles and paper belong to recyclables, while batteries are hazardous waste.\n\nSecond, we need to develop good habits. (19)_______ Before throwing something away, stop and think which bin it should go into. This small action can make a big difference.\n\n(20)_______ Schools and communities are organizing various activities to promote waste sorting. By working together, we can create a cleaner and greener future.",
-      "stem": "(19)_______",
+      "stem": "(19)______",
       "options": [
-        "A. However, many people find it difficult to start.",
-        "B. Here are some simple steps we can follow.",
-        "C. In addition, we should encourage our family and friends to join us.",
-        "D. It may seem troublesome at first, but it will become easier with practice.",
-        "E. Knowing the categories is the first step to proper sorting."
+        "A. However, with proper planning, it is possible to do well in both areas.",
+        "B. For example, you can use a planner or a mobile app to organize your tasks.",
+        "C. In addition, prioritize your tasks according to importance and difficulty.",
+        "D. As a result, you will have more time to focus on what really matters.",
+        "E. On the other hand, spending too much time on hobbies is also a problem."
       ],
-      "correct_answer": "D",
-      "explanation": "正确答案选D。考查逻辑关系和语境理解。空前说'我们需要养成良好的习惯'，空后说'扔垃圾前先停下来思考该放进哪个桶'，D选项'It may seem troublesome at first, but it will become easier with practice'（起初可能看起来麻烦，但练习后会变得更容易）承上启下，解释了养成习惯的过程，且与后文的'stop and think'形成呼应（停下来思考就是troublesome的体现）。A选项表转折但过于负面；C选项是另一个要点；E选项与分类知识相关，此处讲习惯养成。",
+      "correct_answer": "C",
+      "group": "fill_1",
+      "group_passage": "How to Balance Schoolwork and Hobbies\n\nMany middle school students find it difficult to balance their schoolwork with their hobbies. They often feel stressed when they cannot finish homework on time or have no time for activities they enjoy. (17)_____ Here are some useful tips that can help you manage your time better.\n\nFirst, make a weekly schedule. Write down all your homework assignments and after-school activities. (18)_____ This way, you will know exactly what needs to be done each day. Remember to include some free time for rest and relaxation.\n\n(19)_____ Not all homework needs to be done immediately. Start with the most difficult subjects when your mind is fresh. Save easier tasks for later when you might be tired.\n\nFinally, learn to say no to unnecessary activities. If you already have too much on your plate, don't take on extra tasks. (20)_____ By following these suggestions, you will find that you have enough time for both studying and enjoying your hobbies.",
+      "explanation": "【解析】考查段落主题句。空后说\"并非所有作业都需要立即完成。先学最难的科目……简单的任务留到后来……\"，这是在讲\"优先排序\"。C项\"此外，根据重要性和难度给任务划分优先级\"是本段主题句，In addition表示递进，承接上文的First...\n\nFinally结构。【解题技巧】关注\"段落结构\"和\"词汇复现\"。空后提到most difficult...easier等词，与C项的difficulty对应，且In addition符合First...Finally的列举逻辑，故选C。",
       "label": "短文填空"
     },
     {
@@ -338,18 +336,18 @@
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "group": "fill_1",
-      "group_passage": "Waste sorting (垃圾分类) has become an important topic in our daily life. It helps protect the environment and save resources. (17)_______\n\nFirst, we should learn to separate waste into different categories (类别). Usually, there are four types: recyclables, hazardous waste (有害垃圾), kitchen waste, and other waste. (18)_______ For example, plastic bottles and paper belong to recyclables, while batteries are hazardous waste.\n\nSecond, we need to develop good habits. (19)_______ Before throwing something away, stop and think which bin it should go into. This small action can make a big difference.\n\n(20)_______ Schools and communities are organizing various activities to promote waste sorting. By working together, we can create a cleaner and greener future.",
-      "stem": "(20)_______",
+      "stem": "(20)______",
       "options": [
-        "A. However, many people find it difficult to start.",
-        "B. Here are some simple steps we can follow.",
-        "C. In addition, we should encourage our family and friends to join us.",
-        "D. It may seem troublesome at first, but it will become easier with practice.",
-        "E. Knowing the categories is the first step to proper sorting."
+        "A. However, with proper planning, it is possible to do well in both areas.",
+        "B. For example, you can use a planner or a mobile app to organize your tasks.",
+        "C. In addition, prioritize your tasks according to importance and difficulty.",
+        "D. As a result, you will have more time to focus on what really matters.",
+        "E. On the other hand, spending too much time on hobbies is also a problem."
       ],
-      "correct_answer": "C",
-      "explanation": "正确答案选C。考查段落间衔接和递进关系。最后一段讲学校和社会组织活动推广垃圾分类，强调'By working together'（通过共同努力），因此此处需要一个表示'共同参与'的过渡句。C选项'In addition, we should encourage our family and friends to join us'（此外，我们应该鼓励家人和朋友加入我们）符合逻辑，In addition表示补充递进，且'family and friends'与'working together'呼应。A选项转折；B选项总起；D选项讲习惯养成；E选项讲分类知识，均不符合最后一段的总结升华语境。",
+      "correct_answer": "D",
+      "group": "fill_1",
+      "group_passage": "How to Balance Schoolwork and Hobbies\n\nMany middle school students find it difficult to balance their schoolwork with their hobbies. They often feel stressed when they cannot finish homework on time or have no time for activities they enjoy. (17)_____ Here are some useful tips that can help you manage your time better.\n\nFirst, make a weekly schedule. Write down all your homework assignments and after-school activities. (18)_____ This way, you will know exactly what needs to be done each day. Remember to include some free time for rest and relaxation.\n\n(19)_____ Not all homework needs to be done immediately. Start with the most difficult subjects when your mind is fresh. Save easier tasks for later when you might be tired.\n\nFinally, learn to say no to unnecessary activities. If you already have too much on your plate, don't take on extra tasks. (20)_____ By following these suggestions, you will find that you have enough time for both studying and enjoying your hobbies.",
+      "explanation": "【解析】考查因果关系。空前说\"如果你已经有很多事情要做，不要再承担额外的任务\"，空处应说明这样做的结果。D项\"因此，你将有更多时间专注于真正重要的事情\"是前文\"学会拒绝\"的结果，As a result表示因果。【解题技巧】关注\"逻辑关系词\"。空前是建议（不要承担额外任务），空后是总结（遵循这些建议的好处），中间需要结果句连接，As a result符合因果逻辑，故选D。",
       "label": "短文填空"
     }
   ]
