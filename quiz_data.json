@@ -1,5 +1,5 @@
 ﻿{
-  "date": "2026-05-20",
+  "date": "2026-05-21",
   "session_number": 1,
   "questions": [
     {
@@ -7,350 +7,350 @@
       "type": "grammar",
       "knowledge_point": "present_perfect_vs_past_simple",
       "difficulty": 2,
-      "stem": "—_____ you ever _____ to the Shenzhen Science Museum?\n—Yes, I _____ there last month.",
+      "stem": "—Have you ever _____ to the Shenzhen Science Museum?\n—Yes, I _____ there with my classmates last month.",
       "options": [
-        "A. Did; go; went",
-        "B. Have; been; went",
-        "C. Have; gone; have been",
-        "D. Did; go; have gone"
+        "A. gone; went",
+        "B. been; went",
+        "C. been; have gone",
+        "D. gone; have been"
       ],
       "correct_answer": "B",
-      "explanation": "考查现在完成时与一般过去时的区别。第一空：ever（曾经）是现在完成时的标志词，结构为have/has+过去分词，排除A、D；第二空：have been to表示\"去过某地（已回）\"，have gone to表示\"去了某地（未回）\"，根据答句可知人已回来，用have been；第三空：last month（上个月）是明确的过去时间状语，必须用一般过去时went。故选B。",
+      "explanation": "第一空考查现在完成时have been to与have gone to的区别：have been to表示\"去过某地已经回来\"，have gone to表示\"去了某地还没回来\"。根据对话语境，问句询问经历，答句确认去过，应用have been to。第二空有明确过去时间状语last month（上个月），必须用一般过去时went。选项A第一空gone表示去了未回，不符合答句逻辑；C第二空have gone时态错误且语义不通；D第二空have been时态错误。",
       "label": "语法题"
     },
     {
       "id": 2,
       "type": "grammar",
       "knowledge_point": "relative_clause_who_which",
-      "difficulty": 2,
-      "stem": "The book _____ cover is red belongs to my sister.",
+      "difficulty": 3,
+      "stem": "The student _____ won the first prize in the English speech contest is from Class 8.",
       "options": [
         "A. who",
         "B. which",
         "C. whose",
-        "D. that"
+        "D. whom"
       ],
-      "correct_answer": "C",
-      "explanation": "考查定语从句关系词的选择。先行词是The book（物），但空格后接的是cover（封面），表示\"书的封面\"，即先行词与cover之间存在所属关系。在定语从句中，whose可指人或物，在从句中作定语，表示\"...的\"。which和that在从句中作主语或宾语；who指人。故选C。",
+      "correct_answer": "A",
+      "explanation": "本题考查定语从句关系词的选择。先行词是The student（指人），定语从句_____ won the first prize缺少主语，因此应选关系代词who。which用于指物；whose在从句中作定语，后面需接名词；whom用于指人但在从句中作宾语。解题技巧：指人作主语用who，指人作宾语用whom，指物用which，表所属用whose。",
       "label": "语法题"
     },
     {
       "id": 3,
       "type": "grammar",
       "knowledge_point": "passive_voice",
-      "difficulty": 1,
-      "stem": "The environment _____ by all of us.",
+      "difficulty": 2,
+      "stem": "The environment _____ by more and more people nowadays.",
       "options": [
-        "A. should protect",
-        "B. should be protected",
-        "C. should protected",
-        "D. should protecting"
+        "A. protects",
+        "B. is protected",
+        "C. protected",
+        "D. was protected"
       ],
       "correct_answer": "B",
-      "explanation": "考查含情态动词的被动语态。主语The environment（环境）与protect（保护）之间是被动关系，应用被动语态。含情态动词的被动语态结构为：情态动词+be+及物动词的过去分词。should后接动词原形，排除C、D；A是主动语态，故选B。",
+      "explanation": "本题考查被动语态。主语The environment（环境）与动词protect（保护）之间是被动关系（环境被保护），时间状语nowadays（如今）表明用一般现在时，因此选一般现在时被动语态is protected。A是主动语态；C缺少助动词，不能构成谓语；D是过去时被动语态，与nowadays时间不符。口诀：被动语态be加done，时态体现在be上面。",
       "label": "语法题"
     },
     {
       "id": 4,
       "type": "grammar",
-      "knowledge_point": "modal_verbs_speculation",
-      "difficulty": 3,
+      "knowledge_point": "modal_verbs",
+      "difficulty": 1,
       "stem": "—Is that Mr. Wang knocking at the door?\n—It _____ be him. He has gone to Shanghai on business.",
       "options": [
         "A. must",
-        "B. may",
+        "B. might",
         "C. can't",
-        "D. might"
+        "D. could"
       ],
       "correct_answer": "C",
-      "explanation": "考查情态动词表推测的用法。must be表示\"一定是\"（肯定推测），may/might be表示\"可能是\"（不确定推测），can't be表示\"不可能是\"（否定推测）。根据后句\"He has gone to Shanghai on business\"（他去上海出差了，人还没回来），可推断敲门的不可能是他，应用否定推测can't。故选C。",
+      "explanation": "本题考查情态动词表推测的用法。根据答句\"He has gone to Shanghai\"（他去上海出差了，人还没回来），可推断\"不可能是他\"。否定推测用can't（不可能）；must表示肯定推测\"一定是\"；might和could表示不确定的推测\"可能是\"。解题关键：have gone to表示人不在说话现场，因此用否定推测can't。",
       "label": "语法题"
     },
     {
       "id": 5,
       "type": "vocabulary",
       "knowledge_point": "word_meaning",
-      "difficulty": 1,
-      "stem": "The weather was terrible yesterday. It was raining heavily and the wind was blowing _____.",
+      "difficulty": 2,
+      "stem": "The old photo brought back sweet _____ of my childhood.",
       "options": [
-        "A. strongly",
-        "B. heavy",
-        "C. big",
-        "D. hardly"
+        "A. memories",
+        "B. dreams",
+        "C. thoughts",
+        "D. ideas"
       ],
       "correct_answer": "A",
-      "explanation": "考查副词辨析及语境理解。修饰动词blowing（吹）需用副词。strongly（猛烈地）可修饰风、雨等；heavy（重的）是形容词；big（大的）是形容词；hardly（几乎不）是副词，但意义不符。形容风大应用blow strongly。故选A。",
+      "explanation": "本题考查名词词义辨析及固定搭配。bring back memories是固定搭配，意为\"唤起回忆\"。dreams（梦想）、thoughts（想法）、ideas（主意）均不能与bring back构成符合语境的搭配。语境线索：old photo（老照片）与childhood（童年）提示应是\"回忆\"。",
       "label": "词汇题"
     },
     {
       "id": 6,
       "type": "vocabulary",
-      "knowledge_point": "phrasal_verbs",
-      "difficulty": 2,
-      "stem": "We should _____ our best to protect the environment.",
+      "knowledge_point": "prefix_suffix",
+      "difficulty": 1,
+      "stem": "If you add the prefix \"un-\" to the word \"happy\", you get \"_____\", which means not happy.",
       "options": [
-        "A. try",
-        "B. do",
-        "C. make",
-        "D. take"
+        "A. unhappy",
+        "B. happily",
+        "C. happiness",
+        "D. unhappyly"
       ],
       "correct_answer": "A",
-      "explanation": "考查固定搭配。try one's best是固定短语，意为\"尽某人最大努力\"，后接to do sth.。do one's best也可表示尽力，但本题选项中只有try符合搭配习惯；make one's best无此搭配；take one's best无此搭配。故选A。",
+      "explanation": "本题考查构词法。前缀un-表示否定，加在形容词happy前构成unhappy（不开心的）。B是副词后缀-ly构成；C是名词后缀-ness构成；D拼写错误，形容词加un-构成新形容词，不需要再加-ly。常见否定前缀：un-（unhappy）、dis-（dislike）、im-（impossible）。",
       "label": "词汇题"
     },
     {
       "id": 7,
       "type": "vocabulary",
-      "knowledge_point": "word_formation",
+      "knowledge_point": "collocation",
       "difficulty": 2,
-      "stem": "The _____ news made all of us very _____.",
+      "stem": "We should _____ our best to protect the environment for our future.",
       "options": [
-        "A. excited; excited",
-        "B. exciting; exciting",
-        "C. exciting; excited",
-        "D. excited; exciting"
+        "A. try",
+        "B. do",
+        "C. make",
+        "D. give"
       ],
-      "correct_answer": "C",
-      "explanation": "考查-ing形容词与-ed形容词的区别。exciting（令人兴奋的）修饰物或事，excited（感到兴奋的）修饰人。第一空修饰news（消息，物），用exciting；第二空修饰us（我们，人），用excited。故选C。",
+      "correct_answer": "A",
+      "explanation": "本题考查固定搭配try one's best（尽某人最大努力）。虽然do one's best也是正确搭配，但try one's best更为常见且是教材重点短语。make（制作）和give（给予）不与one's best搭配。语境：保护环境需要\"尽我们最大的努力\"。",
       "label": "词汇题"
     },
     {
       "id": 8,
       "type": "cloze",
-      "knowledge_point": "cloze_context",
+      "knowledge_point": "cloze_general",
       "difficulty": 1,
+      "group": "cloze_1",
+      "group_passage": "Last week, our school organized a meaningful activity called \"Green Campus, Green Life\". All the students in Grade 8 (8)_____ part in it. The activity started on Monday morning. First, our teacher gave us a speech about environmental protection. She told us that our planet was facing serious problems and everyone should take (9)_____. Then, we were divided into groups to clean up the school garden. My group was responsible for picking up litter behind the library. At first, I thought it would be boring, (10)_____ I changed my mind soon. While working, I found many interesting things. There were old bottles, broken toys, and even some textbooks. My teammate Li Hua suggested (11)_____ the textbooks to the recycling center instead of throwing them away. I thought it was a great idea. By the end of the afternoon, we had collected three bags of rubbish. Looking at the clean garden, I felt a strong sense of (12)_____. This activity taught me that small actions can make a big difference. I decided to be more careful about waste sorting in my daily life.",
       "stem": "(8)_____",
       "options": [
-        "A. join",
-        "B. take part",
-        "C. attend",
-        "D. participate"
+        "A. made",
+        "B. took",
+        "C. got",
+        "D. gave"
       ],
-      "correct_answer": "D",
-      "explanation": "考查动词/动词短语辨析。participate in是固定搭配，意为\"参加（活动）\"，符合语境。join后常接组织或人；take part后需加in才能接宾语；attend后常接会议、课程等。空格后有in，且主语是students，故选D。",
-      "label": "完形填空",
-      "group": "cloze_1",
-      "group_passage": "Last month, our school organized an environmental protection activity. All the students were asked to (8)_____ in it. The activity was held in the school garden. We were divided into several groups. My group was responsible for (9)_____ the rubbish in the corner. At first, some of us thought it was (10)_____ work and didn't want to do it. However, when we saw the garden becoming cleaner and cleaner, we felt a strong sense of (11)_____. Through this activity, we realized that protecting the environment is not just a slogan but something we should do in our (12)_____ life."
+      "correct_answer": "B",
+      "explanation": "考查固定搭配take part in（参加）。make part in不是固定搭配；get part in（获得部分）和give part in（给予部分）均不符合语境。语境线索：学校组织活动，学生\"参加\"活动。",
+      "label": "完形填空"
     },
     {
       "id": 9,
       "type": "cloze",
-      "knowledge_point": "cloze_phrasal_verbs",
-      "difficulty": 2,
+      "knowledge_point": "cloze_general",
+      "difficulty": 1,
+      "group": "cloze_1",
+      "group_passage": "Last week, our school organized a meaningful activity called \"Green Campus, Green Life\". All the students in Grade 8 (8)_____ part in it. The activity started on Monday morning. First, our teacher gave us a speech about environmental protection. She told us that our planet was facing serious problems and everyone should take (9)_____. Then, we were divided into groups to clean up the school garden. My group was responsible for picking up litter behind the library. At first, I thought it would be boring, (10)_____ I changed my mind soon. While working, I found many interesting things. There were old bottles, broken toys, and even some textbooks. My teammate Li Hua suggested (11)_____ the textbooks to the recycling center instead of throwing them away. I thought it was a great idea. By the end of the afternoon, we had collected three bags of rubbish. Looking at the clean garden, I felt a strong sense of (12)_____. This activity taught me that small actions can make a big difference. I decided to be more careful about waste sorting in my daily life.",
       "stem": "(9)_____",
       "options": [
-        "A. picking up",
-        "B. putting up",
-        "C. turning up",
-        "D. giving up"
+        "A. care",
+        "B. action",
+        "C. notes",
+        "D. photos"
       ],
-      "correct_answer": "A",
-      "explanation": "考查动词短语辨析。pick up意为\"捡起\"，put up意为\"张贴、搭建\"，turn up意为\"调大（音量）、出现\"，give up意为\"放弃\"。根据宾语the rubbish（垃圾）可知，此处表示\"捡垃圾\"，应用picking up。故选A。",
-      "label": "完形填空",
-      "group": "cloze_1",
-      "group_passage": "Last month, our school organized an environmental protection activity. All the students were asked to (8)_____ in it. The activity was held in the school garden. We were divided into several groups. My group was responsible for (9)_____ the rubbish in the corner. At first, some of us thought it was (10)_____ work and didn't want to do it. However, when we saw the garden becoming cleaner and cleaner, we felt a strong sense of (11)_____. Through this activity, we realized that protecting the environment is not just a slogan but something we should do in our (12)_____ life."
+      "correct_answer": "B",
+      "explanation": "考查固定搭配take action（采取行动）。take care（小心）、take notes（记笔记）、take photos（拍照）均不符合语境。语境线索：老师讲述环境问题，呼吁每个人\"采取行动\"保护环境。",
+      "label": "完形填空"
     },
     {
       "id": 10,
       "type": "cloze",
-      "knowledge_point": "cloze_emotion_logic",
+      "knowledge_point": "cloze_general",
       "difficulty": 2,
+      "group": "cloze_1",
+      "group_passage": "Last week, our school organized a meaningful activity called \"Green Campus, Green Life\". All the students in Grade 8 (8)_____ part in it. The activity started on Monday morning. First, our teacher gave us a speech about environmental protection. She told us that our planet was facing serious problems and everyone should take (9)_____. Then, we were divided into groups to clean up the school garden. My group was responsible for picking up litter behind the library. At first, I thought it would be boring, (10)_____ I changed my mind soon. While working, I found many interesting things. There were old bottles, broken toys, and even some textbooks. My teammate Li Hua suggested (11)_____ the textbooks to the recycling center instead of throwing them away. I thought it was a great idea. By the end of the afternoon, we had collected three bags of rubbish. Looking at the clean garden, I felt a strong sense of (12)_____. This activity taught me that small actions can make a big difference. I decided to be more careful about waste sorting in my daily life.",
       "stem": "(10)_____",
       "options": [
-        "A. interesting",
-        "B. boring",
-        "C. exciting",
-        "D. relaxing"
+        "A. and",
+        "B. so",
+        "C. but",
+        "D. or"
       ],
-      "correct_answer": "B",
-      "explanation": "考查情感线索与语境推理。根据后文\"didn't want to do it\"（不想做）可知，一开始大家认为这项工作很\"无聊\"。interesting（有趣的）、exciting（令人兴奋的）、relaxing（令人放松的）均与\"不想做\"的态度相反；boring（无聊的）符合语境。故选B。",
-      "label": "完形填空",
-      "group": "cloze_1",
-      "group_passage": "Last month, our school organized an environmental protection activity. All the students were asked to (8)_____ in it. The activity was held in the school garden. We were divided into several groups. My group was responsible for (9)_____ the rubbish in the corner. At first, some of us thought it was (10)_____ work and didn't want to do it. However, when we saw the garden becoming cleaner and cleaner, we felt a strong sense of (11)_____. Through this activity, we realized that protecting the environment is not just a slogan but something we should do in our (12)_____ life."
+      "correct_answer": "C",
+      "explanation": "考查逻辑关系。前句\"我以为会很无聊\"与后句\"我很快改变了想法\"之间是转折关系，应用but（但是）。and表并列，so表因果，or表选择。解题技巧：注意前文的At first（起初）与后文的soon（很快）形成时间对比，暗示态度转变。",
+      "label": "完形填空"
     },
     {
       "id": 11,
       "type": "cloze",
-      "knowledge_point": "cloze_logic",
+      "knowledge_point": "cloze_general",
       "difficulty": 2,
+      "group": "cloze_1",
+      "group_passage": "Last week, our school organized a meaningful activity called \"Green Campus, Green Life\". All the students in Grade 8 (8)_____ part in it. The activity started on Monday morning. First, our teacher gave us a speech about environmental protection. She told us that our planet was facing serious problems and everyone should take (9)_____. Then, we were divided into groups to clean up the school garden. My group was responsible for picking up litter behind the library. At first, I thought it would be boring, (10)_____ I changed my mind soon. While working, I found many interesting things. There were old bottles, broken toys, and even some textbooks. My teammate Li Hua suggested (11)_____ the textbooks to the recycling center instead of throwing them away. I thought it was a great idea. By the end of the afternoon, we had collected three bags of rubbish. Looking at the clean garden, I felt a strong sense of (12)_____. This activity taught me that small actions can make a big difference. I decided to be more careful about waste sorting in my daily life.",
       "stem": "(11)_____",
       "options": [
-        "A. duty",
-        "B. achievement",
-        "C. humor",
-        "D. danger"
+        "A. to send",
+        "B. sending",
+        "C. sent",
+        "D. send"
       ],
       "correct_answer": "B",
-      "explanation": "考查语境理解与名词辨析。根据前文\"saw the garden becoming cleaner and cleaner\"（看到花园变得越来越干净），可推断我们产生了\"成就感\"。a sense of achievement意为\"成就感\"；duty（责任）、humor（幽默）、danger（危险）均不符合语境。故选B。",
-      "label": "完形填空",
-      "group": "cloze_1",
-      "group_passage": "Last month, our school organized an environmental protection activity. All the students were asked to (8)_____ in it. The activity was held in the school garden. We were divided into several groups. My group was responsible for (9)_____ the rubbish in the corner. At first, some of us thought it was (10)_____ work and didn't want to do it. However, when we saw the garden becoming cleaner and cleaner, we felt a strong sense of (11)_____. Through this activity, we realized that protecting the environment is not just a slogan but something we should do in our (12)_____ life."
+      "explanation": "考查非谓语动词。suggest（建议）后接动名词作宾语，即suggest doing sth.（建议做某事），因此选sending。类似用法的动词还有finish, enjoy, practice, keep等，后接doing。",
+      "label": "完形填空"
     },
     {
       "id": 12,
       "type": "cloze",
       "knowledge_point": "cloze_general",
-      "difficulty": 1,
+      "difficulty": 2,
+      "group": "cloze_1",
+      "group_passage": "Last week, our school organized a meaningful activity called \"Green Campus, Green Life\". All the students in Grade 8 (8)_____ part in it. The activity started on Monday morning. First, our teacher gave us a speech about environmental protection. She told us that our planet was facing serious problems and everyone should take (9)_____. Then, we were divided into groups to clean up the school garden. My group was responsible for picking up litter behind the library. At first, I thought it would be boring, (10)_____ I changed my mind soon. While working, I found many interesting things. There were old bottles, broken toys, and even some textbooks. My teammate Li Hua suggested (11)_____ the textbooks to the recycling center instead of throwing them away. I thought it was a great idea. By the end of the afternoon, we had collected three bags of rubbish. Looking at the clean garden, I felt a strong sense of (12)_____. This activity taught me that small actions can make a big difference. I decided to be more careful about waste sorting in my daily life.",
       "stem": "(12)_____",
       "options": [
-        "A. daily",
-        "B. every day",
-        "C. each day",
-        "D. today"
+        "A. pride",
+        "B. fear",
+        "C. sadness",
+        "D. surprise"
       ],
       "correct_answer": "A",
-      "explanation": "考查形容词作定语。daily是形容词，意为\"日常的\"，可修饰名词life，daily life意为\"日常生活\"。every day和each day是副词短语，不能修饰名词；today（今天）意义不符。故选A。",
-      "label": "完形填空",
-      "group": "cloze_1",
-      "group_passage": "Last month, our school organized an environmental protection activity. All the students were asked to (8)_____ in it. The activity was held in the school garden. We were divided into several groups. My group was responsible for (9)_____ the rubbish in the corner. At first, some of us thought it was (10)_____ work and didn't want to do it. However, when we saw the garden becoming cleaner and cleaner, we felt a strong sense of (11)_____. Through this activity, we realized that protecting the environment is not just a slogan but something we should do in our (12)_____ life."
+      "explanation": "考查语境推理与情感线索。看到干净的花园，完成环保任务后，应该是感到\"自豪\"（pride）。fear（恐惧）、sadness（悲伤）与语境不符；surprise（惊讶）程度不够且缺乏情感正向性。a sense of pride（自豪感）符合完成有意义事情后的心理状态。",
+      "label": "完形填空"
     },
     {
       "id": 13,
       "type": "reading",
       "knowledge_point": "detail",
       "difficulty": 2,
+      "group": "reading_1",
+      "group_passage": "Have you ever thought that we could eat our bowls and spoons after using them? It may sound strange, but an Indian scientist named Narayana Peesapaty made it possible.\n\nPeesapaty was worried about the serious plastic pollution problem. Every day, millions of plastic spoons and forks are thrown away after being used just once. These plastic items take hundreds of years to break down and hurt the environment badly. Peesapaty wanted to find a better way to solve this problem.\n\nAfter years of research, he invented edible (可食用的) cutlery made from rice, wheat, and sorghum (高粱). These special spoons and bowls look like plastic ones but are completely safe to eat. They are hard enough to stir hot soup for up to 20 minutes. If not eaten, they can break down naturally in just a few days.\n\nThe invention became popular quickly. Many restaurants started to use these edible spoons instead of plastic ones. Peesapaty hopes that one day, people around the world will use edible cutlery and say goodbye to plastic pollution.\n\nHowever, some people worry about the cost. Edible spoons are still more expensive than plastic ones. Peesapaty is working hard to make them cheaper so that everyone can afford them.",
       "stem": "What problem did Peesapaty want to solve?",
       "options": [
-        "A. People didn't have enough spoons to use.",
-        "B. The plastic waste from disposable spoons.",
-        "C. The spoons were too expensive to buy.",
-        "D. The spoons were not strong enough."
+        "A. Food shortage.",
+        "B. Plastic pollution.",
+        "C. High cost of cutlery.",
+        "D. Limited natural resources."
       ],
       "correct_answer": "B",
-      "explanation": "细节理解题。根据文章第二句\"He was worried about the plastic waste from disposable spoons.\"（他担心一次性勺子产生的塑料垃圾），可知Peesapaty想要解决的是一次性勺子造成的塑料污染问题。A、C、D在文中均未提及。故选B。",
-      "label": "阅读-细节理解",
-      "group": "reading_1",
-      "group_passage": "Narayana Peesapaty is an Indian researcher. He was worried about the plastic waste from disposable (一次性的) spoons. Every year, millions of plastic spoons are thrown away and they take hundreds of years to break down. Peesapaty wanted to find a better way. He spent years testing different recipes and finally created edible (可食用的) spoons made from rice, wheat, and sorghum (高粱). These spoons can be eaten after use or will break down in nature within days if thrown away. The spoons come in different flavors like ginger and cinnamon. Now his company sells thousands of spoons every day. \"I hope this can reduce plastic pollution and make our planet greener,\" Peesapaty said."
+      "explanation": "细节理解题。根据第二段第一句\"Peesapaty was worried about the serious plastic pollution problem\"和最后一句\"Peesapaty wanted to find a better way to solve this problem\"可知，他想解决的是塑料污染问题。A项食物短缺、C项餐具成本高、D项自然资源有限均不是他想解决的核心问题，C项只是最后提到的现实障碍而非初衷。",
+      "label": "阅读-细节理解"
     },
     {
       "id": 14,
       "type": "reading",
       "knowledge_point": "inference",
       "difficulty": 3,
-      "stem": "Why did Peesapaty spend years testing different recipes?",
-      "options": [
-        "A. Because he had plenty of free time.",
-        "B. Because he wanted to make sure the spoons were practical and tasty.",
-        "C. Because he couldn't find enough rice and wheat.",
-        "D. Because he wanted to make the spoons look more beautiful."
-      ],
-      "correct_answer": "B",
-      "explanation": "推理判断题。根据文章第四句\"He spent years testing different recipes and finally created edible spoons made from rice, wheat, and sorghum.\"以及后文\"The spoons come in different flavors\"（勺子有不同口味），可推断他花费数年时间是为了确保勺子既实用（能吃）又好吃（有不同口味）。A选项与文意不符；C、D在文中无依据。故选B。",
-      "label": "阅读-推理判断",
       "group": "reading_1",
-      "group_passage": "Narayana Peesapaty is an Indian researcher. He was worried about the plastic waste from disposable (一次性的) spoons. Every year, millions of plastic spoons are thrown away and they take hundreds of years to break down. Peesapaty wanted to find a better way. He spent years testing different recipes and finally created edible (可食用的) spoons made from rice, wheat, and sorghum (高粱). These spoons can be eaten after use or will break down in nature within days if thrown away. The spoons come in different flavors like ginger and cinnamon. Now his company sells thousands of spoons every day. \"I hope this can reduce plastic pollution and make our planet greener,\" Peesapaty said."
+      "group_passage": "Have you ever thought that we could eat our bowls and spoons after using them? It may sound strange, but an Indian scientist named Narayana Peesapaty made it possible.\n\nPeesapaty was worried about the serious plastic pollution problem. Every day, millions of plastic spoons and forks are thrown away after being used just once. These plastic items take hundreds of years to break down and hurt the environment badly. Peesapaty wanted to find a better way to solve this problem.\n\nAfter years of research, he invented edible (可食用的) cutlery made from rice, wheat, and sorghum (高粱). These special spoons and bowls look like plastic ones but are completely safe to eat. They are hard enough to stir hot soup for up to 20 minutes. If not eaten, they can break down naturally in just a few days.\n\nThe invention became popular quickly. Many restaurants started to use these edible spoons instead of plastic ones. Peesapaty hopes that one day, people around the world will use edible cutlery and say goodbye to plastic pollution.\n\nHowever, some people worry about the cost. Edible spoons are still more expensive than plastic ones. Peesapaty is working hard to make them cheaper so that everyone can afford them.",
+      "stem": "What can we infer from the passage?",
+      "options": [
+        "A. Edible spoons can only be used for cold food.",
+        "B. Peesapaty invented edible cutlery immediately.",
+        "C. Edible cutlery is popular but needs improvement.",
+        "D. All restaurants in India now use edible spoons."
+      ],
+      "correct_answer": "C",
+      "explanation": "推理判断题。根据第四段\"The invention became popular quickly\"可知可食用餐具很受欢迎；根据最后一段\"However, some people worry about the cost... Peesapaty is working hard to make them cheaper\"可知还需要改进（降低成本）。A项与第三段\"stir hot soup\"矛盾；B项与\"After years of research\"矛盾；D项\"all\"过于绝对，文中只说\"Many restaurants\"。",
+      "label": "阅读-推理判断"
     },
     {
       "id": 15,
       "type": "reading",
-      "knowledge_point": "word_guessing_context",
+      "knowledge_point": "word_guessing",
       "difficulty": 2,
-      "stem": "What does the underlined phrase \"break down\" mean in the passage?",
+      "group": "reading_1",
+      "group_passage": "Have you ever thought that we could eat our bowls and spoons after using them? It may sound strange, but an Indian scientist named Narayana Peesapaty made it possible.\n\nPeesapaty was worried about the serious plastic pollution problem. Every day, millions of plastic spoons and forks are thrown away after being used just once. These plastic items take hundreds of years to break down and hurt the environment badly. Peesapaty wanted to find a better way to solve this problem.\n\nAfter years of research, he invented edible (可食用的) cutlery made from rice, wheat, and sorghum (高粱). These special spoons and bowls look like plastic ones but are completely safe to eat. They are hard enough to stir hot soup for up to 20 minutes. If not eaten, they can break down naturally in just a few days.\n\nThe invention became popular quickly. Many restaurants started to use these edible spoons instead of plastic ones. Peesapaty hopes that one day, people around the world will use edible cutlery and say goodbye to plastic pollution.\n\nHowever, some people worry about the cost. Edible spoons are still more expensive than plastic ones. Peesapaty is working hard to make them cheaper so that everyone can afford them.",
+      "stem": "The underlined word \"break down\" in Paragraph 2 probably means \"_____\".",
       "options": [
         "A. 分解",
-        "B. 损坏",
-        "C. 中断",
-        "D. 打破"
+        "B. 打破",
+        "C. 故障",
+        "D. 倒塌"
       ],
       "correct_answer": "A",
-      "explanation": "词义猜测题。根据上下文，普通塑料勺子需要数百年才能\"break down\"，而可食用勺子几天内就能在大自然中\"break down\"，且主语是spoons，结合环保主题，可推断break down在此处意为\"分解\"（生物降解）。其他选项代入语境均不通顺。故选A。",
-      "label": "阅读-词义猜测",
-      "group": "reading_1",
-      "group_passage": "Narayana Peesapaty is an Indian researcher. He was worried about the plastic waste from disposable (一次性的) spoons. Every year, millions of plastic spoons are thrown away and they take hundreds of years to break down. Peesapaty wanted to find a better way. He spent years testing different recipes and finally created edible (可食用的) spoons made from rice, wheat, and sorghum (高粱). These spoons can be eaten after use or will break down in nature within days if thrown away. The spoons come in different flavors like ginger and cinnamon. Now his company sells thousands of spoons every day. \"I hope this can reduce plastic pollution and make our planet greener,\" Peesapaty said."
+      "explanation": "词义猜测题。根据第二段\"take hundreds of years to break down\"和第三段\"break down naturally in just a few days\"对比，以及语境\"塑料物品需要数百年才能_____，对环境造成伤害\"，可推断break down指物质在自然环境中\"分解\"。后文提到可食用餐具几天就能分解，也可印证该词义。B、C、D项均不符合环保语境中物质降解的含义。",
+      "label": "阅读-词义猜测"
     },
     {
       "id": 16,
       "type": "reading",
       "knowledge_point": "main_idea_title",
       "difficulty": 3,
+      "group": "reading_1",
+      "group_passage": "Have you ever thought that we could eat our bowls and spoons after using them? It may sound strange, but an Indian scientist named Narayana Peesapaty made it possible.\n\nPeesapaty was worried about the serious plastic pollution problem. Every day, millions of plastic spoons and forks are thrown away after being used just once. These plastic items take hundreds of years to break down and hurt the environment badly. Peesapaty wanted to find a better way to solve this problem.\n\nAfter years of research, he invented edible (可食用的) cutlery made from rice, wheat, and sorghum (高粱). These special spoons and bowls look like plastic ones but are completely safe to eat. They are hard enough to stir hot soup for up to 20 minutes. If not eaten, they can break down naturally in just a few days.\n\nThe invention became popular quickly. Many restaurants started to use these edible spoons instead of plastic ones. Peesapaty hopes that one day, people around the world will use edible cutlery and say goodbye to plastic pollution.\n\nHowever, some people worry about the cost. Edible spoons are still more expensive than plastic ones. Peesapaty is working hard to make them cheaper so that everyone can afford them.",
       "stem": "What is the best title for the passage?",
       "options": [
-        "A. An Indian Researcher",
-        "B. How to Make Spoons",
-        "C. Edible Spoons: A Solution to Plastic Waste",
-        "D. The History of Spoons"
+        "A. The Life of a Great Scientist",
+        "B. How to Reduce Food Waste",
+        "C. Edible Cutlery: A Solution to Plastic Pollution",
+        "D. The History of Indian Restaurants"
       ],
       "correct_answer": "C",
-      "explanation": "主旨大意题。文章主要介绍了印度研究员Peesapaty发明可食用勺子以解决塑料污染问题的故事。A选项过于宽泛；B、D只是文章细节。C选项\"可食用勺子：塑料垃圾的解决方案\"既点明了说明对象（edible spoons），又点明了其意义（solution to plastic waste），最能概括全文主旨。故选C。",
-      "label": "阅读-主旨大意",
-      "group": "reading_1",
-      "group_passage": "Narayana Peesapaty is an Indian researcher. He was worried about the plastic waste from disposable (一次性的) spoons. Every year, millions of plastic spoons are thrown away and they take hundreds of years to break down. Peesapaty wanted to find a better way. He spent years testing different recipes and finally created edible (可食用的) spoons made from rice, wheat, and sorghum (高粱). These spoons can be eaten after use or will break down in nature within days if thrown away. The spoons come in different flavors like ginger and cinnamon. Now his company sells thousands of spoons every day. \"I hope this can reduce plastic pollution and make our planet greener,\" Peesapaty said."
+      "explanation": "主旨大意题/最佳标题题。文章核心内容是介绍可食用餐具（edible cutlery）及其解决塑料污染问题的作用。A项侧重科学家生平，但文章重点在发明而非人物生平；B项食物浪费不是文章主题；D项印度餐馆历史与主题无关。C项准确概括了说明对象（Edible Cutlery）及其意义（Solution to Plastic Pollution），是最佳标题。解题技巧：标题要涵盖核心话题和作者态度/目的。",
+      "label": "阅读-主旨大意"
     },
     {
       "id": 17,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
+      "group": "fill_1",
+      "group_passage": "Many students have trouble balancing their schoolwork and hobbies. They often feel stressed because they don't have enough time for both. (17)_____. Here are some useful tips.\n\nFirst, make a clear plan. Write down all your homework and the time needed for your hobbies. (18)_____. This way, you won't waste time deciding what to do next.\n\nSecond, learn to focus. When doing homework, put away your phone and other distractions. (19)_____. You will finish your work faster and have more time for hobbies.\n\nThird, remember that hobbies are important too. They help you relax and develop new skills. (20)_____. Finding the right balance will make your school life more colorful.",
       "stem": "(17)_____",
       "options": [
-        "A. However, it's not easy to stick to good habits.",
-        "B. Then, check your plan every evening to see if you have finished everything.",
-        "C. Here are three ways to help you.",
-        "D. In addition, it can improve your concentration in class.",
-        "E. As a result, you will become healthier and stronger."
+        "A. However, you should never give up your hobbies completely.",
+        "B. This is a common problem among middle school students.",
+        "C. As a result, you can enjoy both study and play.",
+        "D. Then arrange them according to importance and urgency.",
+        "E. This will help you concentrate better and save time."
       ],
-      "correct_answer": "C",
-      "explanation": "考查段落衔接与总分结构。空格前提出\"养成好习惯很重要\"，空格后开始列举First...Second...Third...，因此此处需要一个承上启下的总起句，引出下文的三个方法。C选项\"这里有三个方法可以帮助你\"符合总分结构。故选C。",
-      "label": "短文填空",
-      "group": "fill_1",
-      "group_passage": "Developing good habits is important for middle school students. (17)_____ First, make a plan. Write down what you need to do every day. (18)_____ Second, take exercise regularly. It helps you stay healthy and energetic. (19)_____ Third, read books in your free time. Reading opens up a whole new world to you. (20)_____ If you follow these suggestions, you will surely make progress."
+      "correct_answer": "B",
+      "explanation": "考查段落衔接。前两句描述学生难以平衡学业和爱好的问题，B项\"这是中学生普遍存在的问题\"承接上文，总结前文提到的现象，并自然引出下文\"Here are some useful tips\"（以下是一些建议）。A项转折语气突兀；C项是结果总结，应在文末；D项是具体做法，应在First...段落；E项是聚焦的好处，应在Second...段落。",
+      "label": "短文填空"
     },
     {
       "id": 18,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
+      "group": "fill_1",
+      "group_passage": "Many students have trouble balancing their schoolwork and hobbies. They often feel stressed because they don't have enough time for both. (17)_____. Here are some useful tips.\n\nFirst, make a clear plan. Write down all your homework and the time needed for your hobbies. (18)_____. This way, you won't waste time deciding what to do next.\n\nSecond, learn to focus. When doing homework, put away your phone and other distractions. (19)_____. You will finish your work faster and have more time for hobbies.\n\nThird, remember that hobbies are important too. They help you relax and develop new skills. (20)_____. Finding the right balance will make your school life more colorful.",
       "stem": "(18)_____",
       "options": [
-        "A. However, it's not easy to stick to good habits.",
-        "B. Then, check your plan every evening to see if you have finished everything.",
-        "C. Here are three ways to help you.",
-        "D. In addition, it can improve your concentration in class.",
-        "E. As a result, you will become healthier and stronger."
+        "A. However, you should never give up your hobbies completely.",
+        "B. This is a common problem among middle school students.",
+        "C. As a result, you can enjoy both study and play.",
+        "D. Then arrange them according to importance and urgency.",
+        "E. This will help you concentrate better and save time."
       ],
-      "correct_answer": "B",
-      "explanation": "考查逻辑关系与代词指代。空格前讲\"制定计划，写下每天要做的事\"，空格处应承接\"计划\"这一话题。B选项\"然后，每晚检查你的计划，看看是否完成了所有事情\"中的plan与前文呼应，Then也体现了时间顺序。故选B。",
-      "label": "短文填空",
-      "group": "fill_1",
-      "group_passage": "Developing good habits is important for middle school students. (17)_____ First, make a plan. Write down what you need to do every day. (18)_____ Second, take exercise regularly. It helps you stay healthy and energetic. (19)_____ Third, read books in your free time. Reading opens up a whole new world to you. (20)_____ If you follow these suggestions, you will surely make progress."
+      "correct_answer": "D",
+      "explanation": "考查逻辑衔接。前句说\"写下所有作业和爱好所需时间\"，D项\"然后根据重要性和紧急性安排它们\"中的Then（然后）和them（指代homework和time for hobbies）与前文形成顺承关系，体现制定计划的步骤：先写下，再安排。后句\"这样你就不会浪费时间决定下一步做什么\"也印证了这是关于计划安排的内容。",
+      "label": "短文填空"
     },
     {
       "id": 19,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
+      "group": "fill_1",
+      "group_passage": "Many students have trouble balancing their schoolwork and hobbies. They often feel stressed because they don't have enough time for both. (17)_____. Here are some useful tips.\n\nFirst, make a clear plan. Write down all your homework and the time needed for your hobbies. (18)_____. This way, you won't waste time deciding what to do next.\n\nSecond, learn to focus. When doing homework, put away your phone and other distractions. (19)_____. You will finish your work faster and have more time for hobbies.\n\nThird, remember that hobbies are important too. They help you relax and develop new skills. (20)_____. Finding the right balance will make your school life more colorful.",
       "stem": "(19)_____",
       "options": [
-        "A. However, it's not easy to stick to good habits.",
-        "B. Then, check your plan every evening to see if you have finished everything.",
-        "C. Here are three ways to help you.",
-        "D. In addition, it can improve your concentration in class.",
-        "E. As a result, you will become healthier and stronger."
+        "A. However, you should never give up your hobbies completely.",
+        "B. This is a common problem among middle school students.",
+        "C. As a result, you can enjoy both study and play.",
+        "D. Then arrange them according to importance and urgency.",
+        "E. This will help you concentrate better and save time."
       ],
       "correct_answer": "E",
-      "explanation": "考查因果关系。空格前讲\"定期锻炼，这有助于保持健康和精力充沛\"，空格处应说明锻炼带来的结果。E选项\"因此，你会变得更健康、更强壮\"是锻炼的直接结果，As a result体现了因果关系。故选E。",
-      "label": "短文填空",
-      "group": "fill_1",
-      "group_passage": "Developing good habits is important for middle school students. (17)_____ First, make a plan. Write down what you need to do every day. (18)_____ Second, take exercise regularly. It helps you stay healthy and energetic. (19)_____ Third, read books in your free time. Reading opens up a whole new world to you. (20)_____ If you follow these suggestions, you will surely make progress."
+      "explanation": "考查因果逻辑。前句建议\"做作业时把手机和其他干扰物收起来\"，E项\"这将帮助你更好地集中注意力并节省时间\"解释了为什么要这样做（This指代前文put away...distractions的行为），并与后句\"你会更快完成作业\"形成因果链条。",
+      "label": "短文填空"
     },
     {
       "id": 20,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
+      "group": "fill_1",
+      "group_passage": "Many students have trouble balancing their schoolwork and hobbies. They often feel stressed because they don't have enough time for both. (17)_____. Here are some useful tips.\n\nFirst, make a make a clear plan. Write down all your homework and the time needed for your hobbies. (18)_____. This way, you won't waste time deciding what to do next.\n\nSecond, learn to focus. When doing homework, put away your phone and other distractions. (19)_____. You will finish your work faster and have more time for hobbies.\n\nThird, remember that hobbies are important too. They help you relax and develop new skills. (20)_____. Finding the right balance will make your school life more colorful.",
       "stem": "(20)_____",
       "options": [
-        "A. However, it's not easy to stick to good habits.",
-        "B. Then, check your plan every evening to see if you have finished everything.",
-        "C. Here are three ways to help you.",
-        "D. In addition, it can improve your concentration in class.",
-        "E. As a result, you will become healthier and stronger."
+        "A. However, you should never give up your hobbies completely.",
+        "B. This is a common problem among middle school students.",
+        "C. As a result, you can enjoy both study and play.",
+        "D. Then arrange them according to importance and urgency.",
+        "E. This will help you concentrate better and save time."
       ],
-      "correct_answer": "D",
-      "explanation": "考查递进关系。空格前讲\"阅读为你打开一个全新的世界\"，空格处应补充阅读的另一个好处。D选项\"此外，它能提高你课堂上的专注力\"中的In addition（此外）表示递进，it指代reading，符合语境。故选D。",
-      "label": "短文填空",
-      "group": "fill_1",
-      "group_passage": "Developing good habits is important for middle school students. (17)_____ First, make a plan. Write down what you need to do every day. (18)_____ Second, take exercise regularly. It helps you stay healthy and energetic. (19)_____ Third, read books in your free time. Reading opens up a whole new world to you. (20)_____ If you follow these suggestions, you will surely make progress."
+      "correct_answer": "A",
+      "explanation": "考查转折逻辑。本段前两句强调爱好的重要性（帮助放松、培养技能），A项\"然而，你永远不应该完全放弃爱好\"用However转折，进一步加强语气，强调不能放弃爱好，与段首\"remember that hobbies are important too\"主题一致，并引出末句关于平衡重要性的总结。C项虽然也是积极结果，但As a result（因此）表示因果，而此处需要转折递进。",
+      "label": "短文填空"
     }
   ]
 }
