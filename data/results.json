@@ -308,6 +308,13 @@
       "total": 20,
       "correct": 15,
       "rate": 75
+    },
+    {
+      "date": "2026-05-20",
+      "session": 1,
+      "total": 20,
+      "correct": 18,
+      "rate": 90
     }
   ],
   "errors": [
@@ -679,6 +686,42 @@
       "correct_answer": "A",
       "student_answer": "D",
       "explanation": "【解析】选A。根据本段内容'You don't need to do intense exercise...'可知，本段主题是运动锻炼。前一段讲睡眠（First），本段继续讲运动，用Besides（此外）表示递进，'Besides, doing sports regularly is necessary'（此外，定期做运动是必要的）符合逻辑。D项Second虽然也是讲运动，但与前文First顺序不连贯（因为(17)已经用了Second）。实际上，仔细看文章结构：第一段建议(17)对应睡眠（后面标了First），第二段(18)对应运动，第三段(19)对应饮食，第四段(20)对应心理健康。所以(18)选A表示递进补充。"
+    },
+    {
+      "date": "2026-05-20",
+      "session": 1,
+      "question_id": 2,
+      "type": "grammar",
+      "knowledge_point": "relative_clause_who_which",
+      "label": "语法题",
+      "stem": "The book _____ cover is red belongs to my sister.",
+      "options": [
+        "A. who",
+        "B. which",
+        "C. whose",
+        "D. that"
+      ],
+      "correct_answer": "C",
+      "student_answer": "B",
+      "explanation": "考查定语从句关系词的选择。先行词是The book（物），但空格后接的是cover（封面），表示\"书的封面\"，即先行词与cover之间存在所属关系。在定语从句中，whose可指人或物，在从句中作定语，表示\"...的\"。which和that在从句中作主语或宾语；who指人。故选C。"
+    },
+    {
+      "date": "2026-05-20",
+      "session": 1,
+      "question_id": 10,
+      "type": "cloze",
+      "knowledge_point": "cloze_emotion_logic",
+      "label": "完形填空",
+      "stem": "(10)_____",
+      "options": [
+        "A. interesting",
+        "B. boring",
+        "C. exciting",
+        "D. relaxing"
+      ],
+      "correct_answer": "B",
+      "student_answer": "A",
+      "explanation": "考查情感线索与语境推理。根据后文\"didn't want to do it\"（不想做）可知，一开始大家认为这项工作很\"无聊\"。interesting（有趣的）、exciting（令人兴奋的）、relaxing（令人放松的）均与\"不想做\"的态度相反；boring（无聊的）符合语境。故选B。"
     }
   ]
 }
