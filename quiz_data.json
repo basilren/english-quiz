@@ -1,21 +1,21 @@
 ﻿{
-  "date": "2026-05-23",
+  "date": "2026-05-24",
   "session_number": 1,
   "questions": [
     {
       "id": 1,
       "type": "grammar",
       "knowledge_point": "present_perfect_vs_past_simple",
-      "difficulty": 2,
+      "difficulty": 1,
       "stem": "—______ you ______ your homework yet?\n—Yes, I ______ it an hour ago.",
       "options": [
-        "A. Did; do; finished",
-        "B. Have; done; finished",
-        "C. Have; done; have finished",
-        "D. Do; do; finish"
+        "A. Did; finish; finished",
+        "B. Have; finished; finished",
+        "C. Have; finished; have finished",
+        "D. Did; finish; have finished"
       ],
       "correct_answer": "B",
-      "explanation": "【解析】选B。第一空根据yet（尚未）可知用现在完成时Have...done；第二空根据ago（……之前）可知用一般过去时finished。A项第一空用Did，与yet不匹配；C项第二空用have finished，与ago不匹配；D项时态全错。【技巧】yet是现在完成时标志词，ago是一般过去时标志词。",
+      "explanation": "【解析】第一空根据标志词yet（常用于疑问句和否定句）可知需用现在完成时Have you finished；第二空根据标志词ago（一小时前）可知需用一般过去时finished。现在完成时强调过去动作对现在的影响（作业已完成），一般过去时强调过去某个具体时间发生的动作（一小时前完成的）。",
       "label": "语法题"
     },
     {
@@ -23,258 +23,258 @@
       "type": "grammar",
       "knowledge_point": "relative_clause_who_which",
       "difficulty": 2,
-      "stem": "The girl ______ is reading a book under the tree is my classmate.",
+      "stem": "The boy ______ is standing under the tree is my cousin. He is holding a book ______ cover is red.",
       "options": [
-        "A. who",
-        "B. which",
-        "C. whom",
-        "D. whose"
+        "A. who; which",
+        "B. who; whose",
+        "C. which; who",
+        "D. whose; which"
       ],
-      "correct_answer": "A",
-      "explanation": "【解析】选A。先行词是The girl（人），且定语从句中缺少主语，故用who。B项which指物；C项whom在从句中作宾语；D项whose表示'……的'，后需接名词。【技巧】先行词是人，从句缺主语用who，缺宾语用who/whom，表示所属用whose。",
+      "correct_answer": "B",
+      "explanation": "【解析】第一空先行词the boy指人，在定语从句中作主语，用who；第二空先行词a book与cover构成所属关系（书的封面），用whose作定语。which指物，whose表所属'……的'。口诀：先行词是人用who/that，是物用which/that，表所属用whose。",
       "label": "语法题"
     },
     {
       "id": 3,
       "type": "grammar",
       "knowledge_point": "passive_voice",
-      "difficulty": 1,
-      "stem": "These books ______ to the library tomorrow.",
+      "difficulty": 2,
+      "stem": "The new bridge ______ by the end of next month.",
       "options": [
-        "A. will return",
-        "B. will be returned",
-        "C. returned",
-        "D. are returning"
+        "A. will be completed",
+        "B. will complete",
+        "C. is completed",
+        "D. has been completed"
       ],
-      "correct_answer": "B",
-      "explanation": "【解析】选B。主语books与return之间是被动关系（书被归还），且时间状语是tomorrow，故用一般将来时的被动语态will be returned。A项是主动语态；C项是过去式，与tomorrow矛盾；D项是现在进行时的主动语态。【技巧】被动语态结构：be + 过去分词，注意时间状语决定时态。",
+      "correct_answer": "A",
+      "explanation": "【解析】by the end of next month（下月底之前）是将来时间状语，需用一般将来时；bridge与complete是被动关系（桥被建成），故用一般将来时被动语态will be completed。被动语态结构：be + 过去分词，注意不同时态中be的变化。",
       "label": "语法题"
     },
     {
       "id": 4,
       "type": "grammar",
-      "knowledge_point": "modal_verbs_speculation",
+      "knowledge_point": "modal_verbs_deduction",
       "difficulty": 3,
-      "stem": "—Is that Mr. Wang knocking at the door?\n—It ______ be him. He has gone to Shanghai.",
+      "stem": "—Is that Mr. Wang knocking at the door?\n—It ______ be him. He has gone to Shanghai for a meeting.",
       "options": [
         "A. must",
-        "B. may",
+        "B. might",
         "C. can't",
-        "D. might"
+        "D. should"
       ],
       "correct_answer": "C",
-      "explanation": "【解析】选C。根据'He has gone to Shanghai'（他去上海了，还没回来）可知，敲门的不可能是王先生，can't表示'不可能'，用于否定推测。A项must表示'一定是'，与句意矛盾；B、D项表示'可能'，不确定性，与语境不符。【技巧】情态动词表推测：must一定（肯定），can't不可能（否定），may/might可能（不确定）。",
+      "explanation": "【解析】根据后句'He has gone to Shanghai'（他去上海了，人还没回来）可知敲门'不可能'是他。can't表示否定推测'不可能'；must表示肯定推测'一定'；might表示不确定'可能'。has gone to表示去了某地未回，has been to表示去过某地已回，注意区分。",
       "label": "语法题"
     },
     {
       "id": 5,
       "type": "vocabulary",
-      "knowledge_point": "word_meaning",
+      "knowledge_point": "phrasal_verbs",
       "difficulty": 1,
-      "stem": "We need to ______ the problem before we can solve it.",
+      "stem": "If you don't know the word, you can ______ in the dictionary.",
       "options": [
-        "A. look for",
-        "B. find out",
-        "C. look after",
-        "D. find"
+        "A. look it up",
+        "B. look up it",
+        "C. look for it",
+        "D. look it over"
       ],
-      "correct_answer": "B",
-      "explanation": "【解析】选B。find out指经过调查、研究后'查明，弄清楚'（真相、原因等），符合句意'我们需要先查明问题才能解决它'。A项look for强调寻找的动作；C项look after照顾；D项find强调找到的结果，不强调过程。【技巧】find out侧重'查明真相'，find侧重'找到东西'。",
+      "correct_answer": "A",
+      "explanation": "【解析】look up表示'查阅（字典、资料）'，代词it必须放在look和up中间；look for表示'寻找'；look over表示'检查'。动词+副词构成的短语，代词作宾语时必须放在中间，名词可放中间或后面，如look the word up或look up the word。",
       "label": "词汇题"
     },
     {
       "id": 6,
       "type": "vocabulary",
-      "knowledge_point": "phrasal_verbs",
+      "knowledge_point": "participles_adjectives",
       "difficulty": 2,
-      "stem": "The old man was ______ when he heard the good news.",
+      "stem": "The news made everyone ______. They all felt very ______.",
       "options": [
-        "A. looking forward to",
-        "B. breaking down",
-        "C. cheering up",
-        "D. setting off"
+        "A. excited; excited",
+        "B. exciting; excited",
+        "C. excited; exciting",
+        "D. exciting; exciting"
       ],
-      "correct_answer": "C",
-      "explanation": "【解析】选C。cheer up意为'高兴起来，振作起来'，符合语境'听到好消息时高兴起来'。A项look forward to期待（后需接名词/动名词）；B项break down出故障，崩溃；D项set off出发，引爆。【技巧】cheer up可分开使用，如cheer sb up使某人高兴。",
+      "correct_answer": "B",
+      "explanation": "【解析】exciting（令人兴奋的）修饰事物news；excited（感到兴奋的）修饰人everyone/they。-ing形容词表示'令人……的'，主语通常是物；-ed形容词表示'感到……的'，主语通常是人。类似用法还有boring/bored, interesting/interested等。",
       "label": "词汇题"
     },
     {
       "id": 7,
       "type": "vocabulary",
-      "knowledge_point": "prefix_suffix",
+      "knowledge_point": "word_meaning_context",
       "difficulty": 2,
-      "stem": "The ______ news made everyone ______.",
+      "stem": "The ______ of the mountain is covered with snow all year round.",
       "options": [
-        "A. unhappy; happily",
-        "B. happy; unhappy",
-        "C. unhappy; unhappy",
-        "D. happily; unhappy"
+        "A. bottom",
+        "B. top",
+        "C. middle",
+        "D. foot"
       ],
-      "correct_answer": "C",
-      "explanation": "【解析】选C。un-是否定前缀，unhappy意为'令人不快的'；make sb + 形容词（使某人……），故第二空也用unhappy。A项第二空happily是副词；B项逻辑矛盾（好消息让人不开心）；D项第一空happily是副词，不能修饰news。【技巧】make + sb + adj.（形容词作宾补），un-前缀变否定。",
+      "correct_answer": "B",
+      "explanation": "【解析】根据语境'covered with snow all year round'（终年积雪）可知应为山顶。top顶部，bottom底部，middle中部，foot山脚。做词汇题时要结合上下文逻辑和常识（海拔越高温度越低，山顶积雪）。",
       "label": "词汇题"
     },
     {
       "id": 8,
       "type": "cloze",
       "knowledge_point": "cloze_general",
-      "difficulty": 2,
+      "difficulty": 1,
       "stem": "(8)______",
       "options": [
-        "A. has been",
-        "B. is being",
-        "C. was",
-        "D. will be"
+        "A. divided",
+        "B. put",
+        "C. separated",
+        "D. grouped"
       ],
       "correct_answer": "A",
-      "explanation": "【解析】选A。此处需用现在完成时的被动语态has been，强调'已经被使用'且对现在造成影响（还能再利用）。B项is being是现在进行时的被动，表示正在被使用，与only used on one side（只用过一面）的完成状态不符；C项was一般过去时，无强调作用；D项will be将来时，与语境不符。【技巧】现在完成时被动语态：have/has been done，强调动作对现在的影响。",
-      "label": "完形填空",
+      "explanation": "【解析】固定搭配be divided into表示'被分成……'。句意：我们被分成几个小组研究不同主题。put into放入，separate from与……分离，group into分组（较少用被动）。完形填空要注意固定搭配和上下文逻辑。",
       "group": "cloze_1",
-      "group_passage": "The students in Class 8B are working on an environmental project this month. Their teacher, Mr. Li, asked them to come up with ideas to make their school greener.\n\nLast Monday, the class had a heated discussion. \"We should reduce waste first,\" said Tom. \"Many students throw away paper that (8)______ only used on one side.\" Mary agreed and added, \"We can also collect plastic bottles (9)______ are thrown in the bins and send them for recycling.\"\n\nThen Lucy stood up and said, \"I've (10)______ a better idea. Why don't we start a 'No Plastic Week'? Everyone can bring their own cups and lunch boxes instead of using disposable ones.\" Her classmates thought it was (11)______ practical way to cut down plastic waste.\n\nThe next day, they (12)______ up posters around the school to tell other students about their plan. To their surprise, over 200 students promised to join them."
+      "group_passage": "Last month, our class started a special project about environmental protection. We were (8)______ into several groups to research different topics. My group decided to study plastic waste in our school.\n\nAt first, we didn't know where to start. Our teacher, Mr. Li, suggested we observe the cafeteria during lunch time. We were (9)______ by what we saw. Hundreds of plastic containers and forks were thrown away every day. It was really terrible.\n\nWe then interviewed some students to find out why they used so much plastic. Most of them said it was (10)______ and they didn't have time to wash reusable containers. We realized that raising awareness was important, but providing solutions was even more crucial.\n\nAfter two weeks of hard work, we came up with a plan. We proposed (11)______ up a washing station and giving rewards to students who brought their own lunch boxes. To our surprise, the school agreed to try it out.\n\nNow, the amount of plastic waste has been (12)______ by 40%. This experience taught us that small changes can make a big difference. We feel proud that we could help make our school greener.",
+      "label": "完形填空"
     },
     {
       "id": 9,
       "type": "cloze",
-      "knowledge_point": "relative_clause_who_which",
+      "knowledge_point": "cloze_general",
       "difficulty": 2,
       "stem": "(9)______",
       "options": [
-        "A. who",
-        "B. which",
-        "C. whom",
-        "D. what"
+        "A. shocked",
+        "B. surprised",
+        "C. interested",
+        "D. excited"
       ],
-      "correct_answer": "B",
-      "explanation": "【解析】选B。先行词是plastic bottles（物），定语从句中缺少主语，故用which引导。A项who指人；C项whom指人且作宾语；D项what不能引导定语从句。【技巧】先行词是物，从句缺主语或宾语时用which或that。",
-      "label": "完形填空",
+      "correct_answer": "A",
+      "explanation": "【解析】根据后文'Hundreds of plastic containers... were thrown away... It was really terrible'可知看到大量塑料垃圾被丢弃应该是感到震惊。shocked（震惊的）程度比surprised（惊讶的）更深，更符合terrible的语境。做 Cloze 要关注情感线索和程度副词。",
       "group": "cloze_1",
-      "group_passage": "The students in Class 8B are working on an environmental project this month. Their teacher, Mr. Li, asked them to come up with ideas to make their school greener.\n\nLast Monday, the class had a heated discussion. \"We should reduce waste first,\" said Tom. \"Many students throw away paper that (8)______ only used on one side.\" Mary agreed and added, \"We can also collect plastic bottles (9)______ are thrown in the bins and send them for recycling.\"\n\nThen Lucy stood up and said, \"I've (10)______ a better idea. Why don't we start a 'No Plastic Week'? Everyone can bring their own cups and lunch boxes instead of using disposable ones.\" Her classmates thought it was (11)______ practical way to cut down plastic waste.\n\nThe next day, they (12)______ up posters around the school to tell other students about their plan. To their surprise, over 200 students promised to join them."
+      "group_passage": "Last month, our class started a special project about environmental protection. We were (8)______ into several groups to research different topics. My group decided to study plastic waste in our school.\n\nAt first, we didn't know where to start. Our teacher, Mr. Li, suggested we observe the cafeteria during lunch time. We were (9)______ by what we saw. Hundreds of plastic containers and forks were thrown away every day. It was really terrible.\n\nWe then interviewed some students to find out why they used so much plastic. Most of them said it was (10)______ and they didn't have time to wash reusable containers. We realized that raising awareness was important, but providing solutions was even more crucial.\n\nAfter two weeks of hard work, we came up with a plan. We proposed (11)______ up a washing station and giving rewards to students who brought their own lunch boxes. To our surprise, the school agreed to try it out.\n\nNow, the amount of plastic waste has been (12)______ by 40%. This experience taught us that small changes can make a big difference. We feel proud that we could help make our school greener.",
+      "label": "完形填空"
     },
     {
       "id": 10,
       "type": "cloze",
-      "knowledge_point": "phrasal_verbs",
-      "difficulty": 1,
+      "knowledge_point": "cloze_general",
+      "difficulty": 2,
       "stem": "(10)______",
       "options": [
-        "A. looked for",
-        "B. thought of",
-        "C. looked after",
-        "D. thought about"
+        "A. expensive",
+        "B. convenient",
+        "C. difficult",
+        "D. boring"
       ],
       "correct_answer": "B",
-      "explanation": "【解析】选B。think of意为'想出，想到（主意、办法等）'，符合句意'我想出了一个更好的主意'。A项look for寻找；C项look after照顾；D项think about考虑，思考（过程），不强调结果。【技巧】think of强调'想出'结果，think about强调'思考'过程。",
-      "label": "完形填空",
+      "explanation": "【解析】根据后半句'they didn't have time to wash reusable containers'（没时间洗可重复使用的容器）可推断学生选择塑料是因为'方便'。convenient方便的，expensive昂贵的，difficult困难的，boring无聊的。完形填空要注意因果逻辑关系。",
       "group": "cloze_1",
-      "group_passage": "The students in Class 8B are working on an environmental project this month. Their teacher, Mr. Li, asked them to come up with ideas to make their school greener.\n\nLast Monday, the class had a heated discussion. \"We should reduce waste first,\" said Tom. \"Many students throw away paper that (8)______ only used on one side.\" Mary agreed and added, \"We can also collect plastic bottles (9)______ are thrown in the bins and send them for recycling.\"\n\nThen Lucy stood up and said, \"I've (10)______ a better idea. Why don't we start a 'No Plastic Week'? Everyone can bring their own cups and lunch boxes instead of using disposable ones.\" Her classmates thought it was (11)______ practical way to cut down plastic waste.\n\nThe next day, they (12)______ up posters around the school to tell other students about their plan. To their surprise, over 200 students promised to join them."
+      "group_passage": "Last month, our class started a special project about environmental protection. We were (8)______ into several groups to research different topics. My group decided to study plastic waste in our school.\n\nAt first, we didn't know where to start. Our teacher, Mr. Li, suggested we observe the cafeteria during lunch time. We were (9)______ by what we saw. Hundreds of plastic containers and forks were thrown away every day. It was really terrible.\n\nWe then interviewed some students to find out why they used so much plastic. Most of them said it was (10)______ and they didn't have time to wash reusable containers. We realized that raising awareness was important, but providing solutions was even more crucial.\n\nAfter two weeks of hard work, we came up with a plan. We proposed (11)______ up a washing station and giving rewards to students who brought their own lunch boxes. To our surprise, the school agreed to try it out.\n\nNow, the amount of plastic waste has been (12)______ by 40%. This experience taught us that small changes can make a big difference. We feel proud that we could help make our school greener.",
+      "label": "完形填空"
     },
     {
       "id": 11,
       "type": "cloze",
-      "knowledge_point": "articles",
-      "difficulty": 1,
+      "knowledge_point": "cloze_general",
+      "difficulty": 2,
       "stem": "(11)______",
       "options": [
-        "A. a",
-        "B. an",
-        "C. the",
-        "D. /"
+        "A. putting",
+        "B. setting",
+        "C. giving",
+        "D. building"
       ],
-      "correct_answer": "A",
-      "explanation": "【解析】选A。way是可数名词单数，此处表示'一种实用的方法'，是泛指；practical以辅音音素/p/开头，故用a。B项an用于元音音素开头；C项the表示特指；D项零冠词不符合语法。【技巧】不定冠词a/an表示'一……'，看发音不看字母，practical /ˈpræktɪkl/ 以辅音开头。",
-      "label": "完形填空",
+      "correct_answer": "B",
+      "explanation": "【解析】固定搭配set up建立、设立。句意：我们建议设立一个清洗站。put up张贴、搭建，give up放弃，build up建立（侧重逐步建立）。set up a station是常用搭配，注意积累动词短语。",
       "group": "cloze_1",
-      "group_passage": "The students in Class 8B are working on an environmental project this month. Their teacher, Mr. Li, asked them to come up with ideas to make their school greener.\n\nLast Monday, the class had a heated discussion. \"We should reduce waste first,\" said Tom. \"Many students throw away paper that (8)______ only used on one side.\" Mary agreed and added, \"We can also collect plastic bottles (9)______ are thrown in the bins and send them for recycling.\"\n\nThen Lucy stood up and said, \"I've (10)______ a better idea. Why don't we start a 'No Plastic Week'? Everyone can bring their own cups and lunch boxes instead of using disposable ones.\" Her classmates thought it was (11)______ practical way to cut down plastic waste.\n\nThe next day, they (12)______ up posters around the school to tell other students about their plan. To their surprise, over 200 students promised to join them."
+      "group_passage": "Last month, our class started a special project about environmental protection. We were (8)______ into several groups to research different topics. My group decided to study plastic waste in our school.\n\nAt first, we didn't know where to start. Our teacher, Mr. Li, suggested we observe the cafeteria during lunch time. We were (9)______ by what we saw. Hundreds of plastic containers and forks were thrown away every day. It was really terrible.\n\nWe then interviewed some students to find out why they used so much plastic. Most of them said it was (10)______ and they didn't have time to wash reusable containers. We realized that raising awareness was important, but providing solutions was even more crucial.\n\nAfter two weeks of hard work, we came up with a plan. We proposed (11)______ up a washing station and giving rewards to students who brought their own lunch boxes. To our surprise, the school agreed to try it out.\n\nNow, the amount of plastic waste has been (12)______ by 40%. This experience taught us that small changes can make a big difference. We feel proud that we could help make our school greener.",
+      "label": "完形填空"
     },
     {
       "id": 12,
       "type": "cloze",
-      "knowledge_point": "phrasal_verbs",
-      "difficulty": 2,
+      "knowledge_point": "cloze_general",
+      "difficulty": 1,
       "stem": "(12)______",
       "options": [
-        "A. put",
-        "B. gave",
-        "C. turned",
-        "D. took"
+        "A. reduced",
+        "B. increased",
+        "C. produced",
+        "D. saved"
       ],
       "correct_answer": "A",
-      "explanation": "【解析】选A。put up意为'张贴（海报、通知等）'，符合句意'他们在学校周围张贴海报'。B项give up放弃；C项turn up调大（音量）；D项take up占据，开始从事。【技巧】put up有'张贴'和'举起'等意思，结合posters（海报）选put up。",
-      "label": "完形填空",
+      "explanation": "【解析】根据上文环保项目成功及by 40%可知塑料垃圾被'减少'了。reduced减少，increased增加，produced生产，saved节省。注意save和reduce的区别：save强调节约保留，reduce强调减少降低。amount... has been reduced数量被减少，被动语态。",
       "group": "cloze_1",
-      "group_passage": "The students in Class 8B are working on an environmental project this month. Their teacher, Mr. Li, asked them to come up with ideas to make their school greener.\n\nLast Monday, the class had a heated discussion. \"We should reduce waste first,\" said Tom. \"Many students throw away paper that (8)______ only used on one side.\" Mary agreed and added, \"We can also collect plastic bottles (9)______ are thrown in the bins and send them for recycling.\"\n\nThen Lucy stood up and said, \"I've (10)______ a better idea. Why don't we start a 'No Plastic Week'? Everyone can bring their own cups and lunch boxes instead of using disposable ones.\" Her classmates thought it was (11)______ practical way to cut down plastic waste.\n\nThe next day, they (12)______ up posters around the school to tell other students about their plan. To their surprise, over 200 students promised to join them."
+      "group_passage": "Last month, our class started a special project about environmental protection. We were (8)______ into several groups to research different topics. My group decided to study plastic waste in our school.\n\nAt first, we didn't know where to start. Our teacher, Mr. Li, suggested we observe the cafeteria during lunch time. We were (9)______ by what we saw. Hundreds of plastic containers and forks were thrown away every day. It was really terrible.\n\nWe then interviewed some students to find out why they used so much plastic. Most of them said it was (10)______ and they didn't have time to wash reusable containers. We realized that raising awareness was important, but providing solutions was even more crucial.\n\nAfter two weeks of hard work, we came up with a plan. We proposed (11)______ up a washing station and giving rewards to students who brought their own lunch boxes. To our surprise, the school agreed to try it out.\n\nNow, the amount of plastic waste has been (12)______ by 40%. This experience taught us that small changes can make a big difference. We feel proud that we could help make our school greener.",
+      "label": "完形填空"
     },
     {
       "id": 13,
       "type": "reading",
       "knowledge_point": "detail",
       "difficulty": 2,
-      "stem": "How many hours do teenagers spend on screens daily according to the study?",
+      "stem": "How many hours do teenagers actually spend on screens daily according to the study?",
       "options": [
-        "A. Less than three hours.",
-        "B. About seven hours.",
-        "C. More than eight hours.",
-        "D. Only during school time."
+        "A. About 4 to 5 hours",
+        "B. About 6 hours",
+        "C. About 7 hours and 22 minutes",
+        "D. Over 8 hours"
       ],
-      "correct_answer": "B",
-      "explanation": "【解析】选B。根据文章第一段'A recent study shows that teenagers spend an average of seven hours a day on screens, not including school work.'可知，青少年平均每天花7小时在屏幕上（不含学业）。A项是睡前使用手机超过3小时的情况；C、D项文中未提及。【技巧】细节题要找准关键词study和hours，定位到第一段数字信息。",
-      "label": "阅读-细节理解",
+      "correct_answer": "C",
+      "explanation": "【解析】细节理解题。根据第一段第一句'A recent study has found that teenagers spend an average of 7 hours and 22 minutes on screens every day'可知答案为C。A选项4-5小时是学生们自己估计的时间（第三段），B选项6小时是研究中提到的'可能产生问题'的界限。做细节题要准确定位原文，注意区分事实和观点。",
       "group": "reading_1",
-      "group_passage": "Do you spend hours staring at your smartphone every day? If so, you are not alone. A recent study shows that teenagers spend an average of seven hours a day on screens, not including school work.\n\nDr. Sarah Chen, a scientist at Shenzhen University, has been studying the effects of screen time on young people's brains. \"When we look at screens for too long, our brains produce dopamine, a chemical that makes us feel happy,\" she explains. \"This is why social media apps are designed to keep us scrolling. They want us to stay on them as long as possible.\"\n\nHowever, too much screen time can cause problems. The study found that students who use phones for more than three hours before bed often have trouble falling asleep. This is because the blue light from screens stops the body from producing melatonin, a hormone (荷尔蒙) that helps us sleep.\n\nThe good news is that small changes can make a big difference. Dr. Chen suggests the \"20-20-20 rule\": every 20 minutes, look at something 20 feet away for 20 seconds. This gives your eyes a rest. She also recommends turning off all screens at least one hour before bedtime.\n\n\"Technology is not the enemy,\" Dr. Chen says. \"The key is to use it wisely and find a healthy balance between the online and offline worlds.\""
+      "group_passage": "A recent study has found that teenagers spend an average of 7 hours and 22 minutes on screens every day. This includes time spent on smartphones, computers, TVs, and tablets. The research was conducted by a team from a famous university and surveyed over 1,000 students aged 13 to 18.\n\nDr. Chen, the lead researcher, explained that excessive screen time can affect both physical and mental health. \"We found that students who spend more than 6 hours on screens daily are more likely to have sleep problems and feel anxious,\" he said. However, not all screen time is harmful. Educational content and video calls with family can be beneficial.\n\nInterestingly, the study also discovered that teenagers often underestimate their screen time. When asked to guess their daily usage, most students reported 4 to 5 hours, which was significantly less than the actual figure.\n\nTo help reduce screen time, experts suggest setting clear rules. For example, keeping devices out of bedrooms during sleep time and having screen-free family meals. Parents are also advised to model good behavior by limiting their own screen use.\n\nThe study concludes that balance is key. Technology is an important part of modern life, but finding time for outdoor activities and face-to-face conversations is equally important for teenagers' development.",
+      "label": "阅读-细节理解"
     },
     {
       "id": 14,
       "type": "reading",
       "knowledge_point": "inference",
       "difficulty": 3,
-      "stem": "What can we infer from Dr. Chen's words in the last paragraph?",
+      "stem": "What can we infer from Dr. Chen's words in Paragraph 2?",
       "options": [
-        "A. We should never use smartphones.",
-        "B. Technology is harmful to teenagers.",
-        "C. We need to control our screen time properly.",
-        "D. Offline activities are more important than online ones."
+        "A. All screen time is bad for teenagers",
+        "B. Teenagers should never use smartphones",
+        "C. Some screen activities can be good for students",
+        "D. Most teenagers have serious mental problems"
       ],
       "correct_answer": "C",
-      "explanation": "【解析】选C。根据最后一段'Technology is not the enemy'和'find a healthy balance'可推断，Dr. Chen认为我们应该明智地使用技术，合理控制屏幕时间。A项'从不使用'与文意相反；B项'有害'与'不是敌人'矛盾；D项'线下比线上重要'过于绝对，文中说的是balance（平衡）。【技巧】推理题要基于文本，避免过度推断，balance是关键词。",
-      "label": "阅读-推理判断",
+      "explanation": "【解析】推理判断题。根据第二段Dr. Chen的话'However, not all screen time is harmful. Educational content and video calls with family can be beneficial'可推断出有些屏幕活动是有益的。A、B选项过于绝对（all/never），D选项文中未提及'most'和'serious'。推理题要基于原文，不能过度推断，注意转折词however后的内容常是考点。",
       "group": "reading_1",
-      "group_passage": "Do you spend hours staring at your smartphone every day? If so, you are not alone. A recent study shows that teenagers spend an average of seven hours a day on screens, not including school work.\n\nDr. Sarah Chen, a scientist at Shenzhen University, has been studying the effects of screen time on young people's brains. \"When we look at screens for too long, our brains produce dopamine, a chemical that makes us feel happy,\" she explains. \"This is why social media apps are designed to keep us scrolling. They want us to stay on them as long as possible.\"\n\nHowever, too much screen time can cause problems. The study found that students who use phones for more than three hours before bed often have trouble falling asleep. This is because the blue light from screens stops the body from producing melatonin, a hormone (荷尔蒙) that helps us sleep.\n\nThe good news is that small changes can make a big difference. Dr. Chen suggests the \"20-20-20 rule\": every 20 minutes, look at something 20 feet away for 20 seconds. This gives your eyes a rest. She also recommends turning off all screens at least one hour before bedtime.\n\n\"Technology is not the enemy,\" Dr. Chen says. \"The key is to use it wisely and find a healthy balance between the online and offline worlds.\""
+      "group_passage": "A recent study has found that teenagers spend an average of 7 hours and 22 minutes on screens every day. This includes time spent on smartphones, computers, TVs, and tablets. The research was conducted by a team from a famous university and surveyed over 1,000 students aged 13 to 18.\n\nDr. Chen, the lead researcher, explained that excessive screen time can affect both physical and mental health. \"We found that students who spend more than 6 hours on screens daily are more likely to have sleep problems and feel anxious,\" he said. However, not all screen time is harmful. Educational content and video calls with family can be beneficial.\n\nInterestingly, the study also discovered that teenagers often underestimate their screen time. When asked to guess their daily usage, most students reported 4 to 5 hours, which was significantly less than the actual figure.\n\nTo help reduce screen time, experts suggest setting clear rules. For example, keeping devices out of bedrooms during sleep time and having screen-free family meals. Parents are also advised to model good behavior by limiting their own screen use.\n\nThe study concludes that balance is key. Technology is an important part of modern life, but finding time for outdoor activities and face-to-face conversations is equally important for teenagers' development.",
+      "label": "阅读-推理判断"
     },
     {
       "id": 15,
       "type": "reading",
-      "knowledge_point": "word_guessing",
+      "knowledge_point": "word_guessing_context",
       "difficulty": 2,
-      "stem": "What does the underlined word \"scrolling\" in Paragraph 2 probably mean?",
+      "stem": "The underlined word 'excessive' in Paragraph 2 probably means ______.",
       "options": [
-        "A. Stopping to rest.",
-        "B. Moving content up and down on a screen.",
-        "C. Turning off the phone.",
-        "D. Looking away from the screen."
+        "A. very little",
+        "B. too much",
+        "C. necessary",
+        "D. proper"
       ],
       "correct_answer": "B",
-      "explanation": "【解析】选B。根据上下文'stay on them as long as possible'（让我们尽可能长时间停留在应用上）可知，scrolling是指在屏幕上滚动浏览内容。A项停止休息、C项关机、D项看向别处都与'停留'相反。【技巧】词义猜测题看上下文逻辑，'keep us scrolling'与'stay on them'同向，都是让用户持续使用。",
-      "label": "阅读-词义猜测",
+      "explanation": "【解析】词义猜测题。根据上下文'affect both physical and mental health'及'more than 6 hours... sleep problems'可知'excessive'应指'过多的、过量的'。too much太多，very little很少，necessary必要的，proper适当的。猜词题可通过上下文逻辑（因果、转折）和解释说明（如后文的more than 6 hours具体解释）来判断。",
       "group": "reading_1",
-      "group_passage": "Do you spend hours staring at your smartphone every day? If so, you are not alone. A recent study shows that teenagers spend an average of seven hours a day on screens, not including school work.\n\nDr. Sarah Chen, a scientist at Shenzhen University, has been studying the effects of screen time on young people's brains. \"When we look at screens for too long, our brains produce dopamine, a chemical that makes us feel happy,\" she explains. \"This is why social media apps are designed to keep us scrolling. They want us to stay on them as long as possible.\"\n\nHowever, too much screen time can cause problems. The study found that students who use phones for more than three hours before bed often have trouble falling asleep. This is because the blue light from screens stops the body from producing melatonin, a hormone (荷尔蒙) that helps us sleep.\n\nThe good news is that small changes can make a big difference. Dr. Chen suggests the \"20-20-20 rule\": every 20 minutes, look at something 20 feet away for 20 seconds. This gives your eyes a rest. She also recommends turning off all screens at least one hour before bedtime.\n\n\"Technology is not the enemy,\" Dr. Chen says. \"The key is to use it wisely and find a healthy balance between the online and offline worlds.\""
+      "group_passage": "A recent study has found that teenagers spend an average of 7 hours and 22 minutes on screens every day. This includes time spent on smartphones, computers, TVs, and tablets. The research was conducted by a team from a famous university and surveyed over 1,000 students aged 13 to 18.\n\nDr. Chen, the lead researcher, explained that excessive screen time can affect both physical and mental health. \"We found that students who spend more than 6 hours on screens daily are more likely to have sleep problems and feel anxious,\" he said. However, not all screen time is harmful. Educational content and video calls with family can be beneficial.\n\nInterestingly, the study also discovered that teenagers often underestimate their screen time. When asked to guess their daily usage, most students reported 4 to 5 hours, which was significantly less than the actual figure.\n\nTo help reduce screen time, experts suggest setting clear rules. For example, keeping devices out of bedrooms during sleep time and having screen-free family meals. Parents are also advised to model good behavior by limiting their own screen use.\n\nThe study concludes that balance is key. Technology is an important part of modern life, but finding time for outdoor activities and face-to-face conversations is equally important for teenagers' development.",
+      "label": "阅读-词义猜测"
     },
     {
       "id": 16,
       "type": "reading",
-      "knowledge_point": "main_idea",
+      "knowledge_point": "main_idea_title",
       "difficulty": 3,
-      "stem": "What is the best title for the passage?",
+      "stem": "What is the best title for this passage?",
       "options": [
-        "A. The History of Smartphones",
-        "B. How to Design Social Media Apps",
-        "C. Screen Time and Teenagers' Health",
-        "D. The Life of a Scientist"
+        "A. How to Use Smartphones Wisely",
+        "B. A Study on Teenagers' Screen Time",
+        "C. The Danger of Modern Technology",
+        "D. Ways to Improve Sleep Quality"
       ],
-      "correct_answer": "C",
-      "explanation": "【解析】选C。文章主要讨论青少年屏幕使用时间（screen time）对健康的影响（睡眠、大脑等）及建议，C项最全面。A项智能手机历史未提及；B项设计应用只在第二句提及，非主旨；D项科学家生活偏离主题。【技巧】主旨题要覆盖全文，关键词screen time贯穿始终，health涵盖睡眠和大脑影响。",
-      "label": "阅读-主旨大意",
+      "correct_answer": "B",
+      "explanation": "【解析】主旨大意题。文章开篇点明'A recent study has found...'，全文围绕这项关于青少年屏幕使用时间的研究展开，包括研究发现、危害、建议等。A、D选项仅为文中细节，C选项过于片面且negative（文中也提到beneficial）。主旨题要抓首段和尾段，寻找反复出现的关键词（screen time/study）。",
       "group": "reading_1",
-      "group_passage": "Do you spend hours staring at your smartphone every day? If so, you are not alone. A recent study shows that teenagers spend an average of seven hours a day on screens, not including school work.\n\nDr. Sarah Chen, a scientist at Shenzhen University, has been studying the effects of screen time on young people's brains. \"When we look at screens for too long, our brains produce dopamine, a chemical that makes us feel happy,\" she explains. \"This is why social media apps are designed to keep us scrolling. They want us to stay on them as long as possible.\"\n\nHowever, too much screen time can cause problems. The study found that students who use phones for more than three hours before bed often have trouble falling asleep. This is because the blue light from screens stops the body from producing melatonin, a hormone (荷尔蒙) that helps us sleep.\n\nThe good news is that small changes can make a big difference. Dr. Chen suggests the \"20-20-20 rule\": every 20 minutes, look at something 20 feet away for 20 seconds. This gives your eyes a rest. She also recommends turning off all screens at least one hour before bedtime.\n\n\"Technology is not the enemy,\" Dr. Chen says. \"The key is to use it wisely and find a healthy balance between the online and offline worlds.\""
+      "group_passage": "A recent study has found that teenagers spend an average of 7 hours and 22 minutes on screens every day. This includes time spent on smartphones, computers, TVs, and tablets. The research was conducted by a team from a famous university and surveyed over 1,000 students aged 13 to 18.\n\nDr. Chen, the lead researcher, explained that excessive screen time can affect both physical and mental health. \"We found that students who spend more than 6 hours on screens daily are more likely to have sleep problems and feel anxious,\" he said. However, not all screen time is harmful. Educational content and video calls with family can be beneficial.\n\nInterestingly, the study also discovered that teenagers often underestimate their screen time. When asked to guess their daily usage, most students reported 4 to 5 hours, which was significantly less than the actual figure.\n\nTo help reduce screen time, experts suggest setting clear rules. For example, keeping devices out of bedrooms during sleep time and having screen-free family meals. Parents are also advised to model good behavior by limiting their own screen use.\n\nThe study concludes that balance is key. Technology is an important part of modern life, but finding time for outdoor activities and face-to-face conversations is equally important for teenagers' development.",
+      "label": "阅读-主旨大意"
     },
     {
       "id": 17,
@@ -283,17 +283,17 @@
       "difficulty": 2,
       "stem": "(17)______",
       "options": [
-        "A. However, don't let your hands wave around too much.",
-        "B. Finally, review your performance before the actual speech.",
-        "C. Here is another important tip: know your material well.",
-        "D. The first step is to pick the right topic.",
-        "E. In addition, speak loudly and clearly."
+        "A. However, this is bad for your health and grades.",
+        "B. In addition, try to keep a positive attitude towards life.",
+        "C. For example, walking to school counts as good exercise.",
+        "D. This means eating different kinds of food in proper amounts.",
+        "E. On the other hand, watching TV all day is not a good idea."
       ],
       "correct_answer": "D",
-      "explanation": "【解析】选D。根据下文'First, choose a topic...'（首先，选择话题）可知，此处应提出'第一步是选择合适的话题'，D项中的The first step与First对应，pick与choose对应。【技巧】注意段落衔接词First，前文应有总起句引出第一步。",
-      "label": "短文填空",
+      "explanation": "【解析】选句子填空。前句提到'eat a balanced diet'（均衡饮食），D选项'这意味着吃不同种类的食物，分量适中'正好解释什么是balanced diet。注意指代关系this means...用于解释说明前文概念。",
       "group": "fill_1",
-      "group_passage": "Preparing for an English speech can be scary, but with the right steps, you can do it well. Here are some tips to help you.\n\n(17)______ First, choose a topic that you are interested in. When you care about the subject, your passion will show in your voice and make the audience listen carefully.\n\n(18)______ Don't just memorize every word. Instead, understand the main ideas and practice explaining them in your own words. This way, you won't panic if you forget a sentence.\n\nNext, practice your body language. Stand up straight and make eye contact with your listeners. (19)______ Moving your hands naturally can also help emphasize important points.\n\n(20)______ Try to record yourself and watch the video. You will notice small habits like saying \"um\" too often or looking down at your shoes. Fix these problems before the big day.\n\nRemember, confidence comes from preparation. The more you practice, the better you will perform!"
+      "group_passage": "Keeping healthy is important for everyone, especially for students. Here are some useful tips for you.\n\nFirst, eat a balanced diet. (17)______ Try to eat more fruits and vegetables instead of junk food. Remember that breakfast is the most important meal of the day.\n\nSecond, exercise regularly. You don't need to do intense workouts. (18)______ Walking, cycling, or playing ball games for 30 minutes a day is enough to keep you energetic.\n\nThird, get enough sleep. Many students stay up late to finish homework or play games. (19)______ Teenagers need at least 8 hours of sleep every night to stay focused in class.\n\n(20)______ Learn to manage your stress by talking to friends, listening to music, or doing meditation. A healthy mind is just as important as a healthy body.",
+      "label": "短文填空"
     },
     {
       "id": 18,
@@ -302,17 +302,17 @@
       "difficulty": 2,
       "stem": "(18)______",
       "options": [
-        "A. However, don't let your hands wave around too much.",
-        "B. Finally, review your performance before the actual speech.",
-        "C. Here is another important tip: know your material well.",
-        "D. The first step is to pick the right topic.",
-        "E. In addition, speak loudly and clearly."
+        "A. However, this is bad for your health and grades.",
+        "B. In addition, try to keep a positive attitude towards life.",
+        "C. For example, walking to school counts as good exercise.",
+        "D. This means eating different kinds of food in proper amounts.",
+        "E. On the other hand, watching TV all day is not a good idea."
       ],
       "correct_answer": "C",
-      "explanation": "【解析】选C。根据下文'Don't just memorize...understand the main ideas'（不要死记硬背，要理解大意）可知，本段讲要熟悉演讲内容，C项'了解你的材料/内容'符合。A项讲手势、B项讲最后检查、D项讲选话题、E项讲大声说话均不符。【技巧】know your material与understand the main ideas同义复现。",
-      "label": "短文填空",
+      "explanation": "【解析】前句说'不需要做高强度锻炼'，C选项'例如，走路去上学就算好的锻炼'举例说明简单运动即可。For example用于举例论证，注意与后文walking cycling等形成呼应。",
       "group": "fill_1",
-      "group_passage": "Preparing for an English speech can be scary, but with the right steps, you can do it well. Here are some tips to help you.\n\n(17)______ First, choose a topic that you are interested in. When you care about the subject, your passion will show in your voice and make the audience listen carefully.\n\n(18)______ Don't just memorize every word. Instead, understand the main ideas and practice explaining them in your own words. This way, you won't panic if you forget a sentence.\n\nNext, practice your body language. Stand up straight and make eye contact with your listeners. (19)______ Moving your hands naturally can also help emphasize important points.\n\n(20)______ Try to record yourself and watch the video. You will notice small habits like saying \"um\" too often or looking down at your shoes. Fix these problems before the big day.\n\nRemember, confidence comes from preparation. The more you practice, the better you will perform!"
+      "group_passage": "Keeping healthy is important for everyone, especially for students. Here are some useful tips for you.\n\nFirst, eat a balanced diet. (17)______ Try to eat more fruits and vegetables instead of junk food. Remember that breakfast is the most important meal of the day.\n\nSecond, exercise regularly. You don't need to do intense workouts. (18)______ Walking, cycling, or playing ball games for 30 minutes a day is enough to keep you energetic.\n\nThird, get enough sleep. Many students stay up late to finish homework or play games. (19)______ Teenagers need at least 8 hours of sleep every night to stay focused in class.\n\n(20)______ Learn to manage your stress by talking to friends, listening to music, or doing meditation. A healthy mind is just as important as a healthy body.",
+      "label": "短文填空"
     },
     {
       "id": 19,
@@ -321,17 +321,17 @@
       "difficulty": 2,
       "stem": "(19)______",
       "options": [
-        "A. However, don't let your hands wave around too much.",
-        "B. Finally, review your performance before the actual speech.",
-        "C. Here is another important tip: know your material well.",
-        "D. The first step is to pick the right topic.",
-        "E. In addition, speak loudly and clearly."
+        "A. However, this is bad for your health and grades.",
+        "B. In addition, try to keep a positive attitude towards life.",
+        "C. For example, walking to school counts as good exercise.",
+        "D. This means eating different kinds of food in proper amounts.",
+        "E. On the other hand, watching TV all day is not a good idea."
       ],
-      "correct_answer": "E",
-      "explanation": "【解析】选E。本段讲肢体语言（body language），空前讲站姿和眼神交流，空后讲手势，E项'此外，大声清楚地说话'也是演讲技巧，与前后并列。A项However转折，与语境不符；B项Finally是最后一步，但本段开头是Next；C、D已选。【技巧】In addition表示递进补充，列举演讲技巧的不同方面。",
-      "label": "短文填空",
+      "correct_answer": "A",
+      "explanation": "【解析】前句提到'stay up late'（熬夜），A选项'然而，这对你的健康和成绩都有害'承接上文指出危害。However表转折，this指代前文的stay up late。注意段落内逻辑：现象（熬夜）→评价（有害）→解决方案（需要8小时睡眠）。",
       "group": "fill_1",
-      "group_passage": "Preparing for an English speech can be scary, but with the right steps, you can do it well. Here are some tips to help you.\n\n(17)______ First, choose a topic that you are interested in. When you care about the subject, your passion will show in your voice and make the audience listen carefully.\n\n(18)______ Don't just memorize every word. Instead, understand the main ideas and practice explaining them in your own words. This way, you won't panic if you forget a sentence.\n\nNext, practice your body language. Stand up straight and make eye contact with your listeners. (19)______ Moving your hands naturally can also help emphasize important points.\n\n(20)______ Try to record yourself and watch the video. You will notice small habits like saying \"um\" too often or looking down at your shoes. Fix these problems before the big day.\n\nRemember, confidence comes from preparation. The more you practice, the better you will perform!"
+      "group_passage": "Keeping healthy is important for everyone, especially for students. Here are some useful tips for you.\n\nFirst, eat a balanced diet. (17)______ Try to eat more fruits and vegetables instead of junk food. Remember that breakfast is the most important meal of the day.\n\nSecond, exercise regularly. You don't need to do intense workouts. (18)______ Walking, cycling, or playing ball games for 30 minutes a day is enough to keep you energetic.\n\nThird, get enough sleep. Many students stay up late to finish homework or play games. (19)______ Teenagers need at least 8 hours of sleep every night to stay focused in class.\n\n(20)______ Learn to manage your stress by talking to friends, listening to music, or doing meditation. A healthy mind is just as important as a healthy body.",
+      "label": "短文填空"
     },
     {
       "id": 20,
@@ -340,17 +340,17 @@
       "difficulty": 2,
       "stem": "(20)______",
       "options": [
-        "A. However, don't let your hands wave around too much.",
-        "B. Finally, review your performance before the actual speech.",
-        "C. Here is another important tip: know your material well.",
-        "D. The first step is to pick the right topic.",
-        "E. In addition, speak loudly and clearly."
+        "A. However, this is bad for your health and grades.",
+        "B. In addition, try to keep a positive attitude towards life.",
+        "C. For example, walking to school counts as good exercise.",
+        "D. This means eating different kinds of food in proper amounts.",
+        "E. On the other hand, watching TV all day is not a good idea."
       ],
       "correct_answer": "B",
-      "explanation": "【解析】选B。根据下文'record yourself and watch the video'（录下自己并观看）可知，这是在演讲前检查/回顾自己的表现，且这是最后一步（前面有First, Next），B项'Finally'符合顺序。【技巧】Finally表示顺序最后，review performance与record yourself对应。",
-      "label": "短文填空",
+      "explanation": "【解析】此处位于段首，是第四条建议。根据后文'manage your stress'和'healthy mind'可知讲的是心理健康。B选项'此外，尽量保持对生活的积极态度'引出心理层面建议。In addition用于补充添加并列要点，注意与First/Second/Third的并列关系，且结尾'A healthy mind'呼应'positive attitude'。",
       "group": "fill_1",
-      "group_passage": "Preparing for an English speech can be scary, but with the right steps, you can do it well. Here are some tips to help you.\n\n(17)______ First, choose a topic that you are interested in. When you care about the subject, your passion will show in your voice and make the audience listen carefully.\n\n(18)______ Don't just memorize every word. Instead, understand the main ideas and practice explaining them in your own words. This way, you won't panic if you forget a sentence.\n\nNext, practice your body language. Stand up straight and make eye contact with your listeners. (19)______ Moving your hands naturally can also help emphasize important points.\n\n(20)______ Try to record yourself and watch the video. You will notice small habits like saying \"um\" too often or looking down at your shoes. Fix these problems before the big day.\n\nRemember, confidence comes from preparation. The more you practice, the better you will perform!"
+      "group_passage": "Keeping healthy is important for everyone, especially for students. Here are some useful tips for you.\n\nFirst, eat a balanced diet. (17)______ Try to eat more fruits and vegetables instead of junk food. Remember that breakfast is the most important meal of the day.\n\nSecond, exercise regularly. You don't need to do intense workouts. (18)______ Walking, cycling, or playing ball games for 30 minutes a day is enough to keep you energetic.\n\nThird, get enough sleep. Many students stay up late to finish homework or play games. (19)______ Teenagers need at least 8 hours of sleep every night to stay focused in class.\n\n(20)______ Learn to manage your stress by talking to friends, listening to music, or doing meditation. A healthy mind is just as important as a healthy body.",
+      "label": "短文填空"
     }
   ]
 }
