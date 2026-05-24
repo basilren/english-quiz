@@ -329,6 +329,13 @@
       "total": 20,
       "correct": 18,
       "rate": 90
+    },
+    {
+      "date": "2026-05-24",
+      "session": 1,
+      "total": 20,
+      "correct": 15,
+      "rate": 75
     }
   ],
   "errors": [
@@ -661,6 +668,96 @@
       "correct_answer": "B",
       "student_answer": "C",
       "explanation": "【解析】选B。根据文章第一段'A recent study shows that teenagers spend an average of seven hours a day on screens, not including school work.'可知，青少年平均每天花7小时在屏幕上（不含学业）。A项是睡前使用手机超过3小时的情况；C、D项文中未提及。【技巧】细节题要找准关键词study和hours，定位到第一段数字信息。"
+    },
+    {
+      "date": "2026-05-24",
+      "session": 1,
+      "question_id": 5,
+      "type": "vocabulary",
+      "knowledge_point": "phrasal_verbs",
+      "label": "词汇题",
+      "stem": "If you don't know the word, you can ______ in the dictionary.",
+      "options": [
+        "A. look it up",
+        "B. look up it",
+        "C. look for it",
+        "D. look it over"
+      ],
+      "correct_answer": "A",
+      "student_answer": "C",
+      "explanation": "【解析】look up表示'查阅（字典、资料）'，代词it必须放在look和up中间；look for表示'寻找'；look over表示'检查'。动词+副词构成的短语，代词作宾语时必须放在中间，名词可放中间或后面，如look the word up或look up the word。"
+    },
+    {
+      "date": "2026-05-24",
+      "session": 1,
+      "question_id": 7,
+      "type": "vocabulary",
+      "knowledge_point": "word_meaning_context",
+      "label": "词汇题",
+      "stem": "The ______ of the mountain is covered with snow all year round.",
+      "options": [
+        "A. bottom",
+        "B. top",
+        "C. middle",
+        "D. foot"
+      ],
+      "correct_answer": "B",
+      "student_answer": "C",
+      "explanation": "【解析】根据语境'covered with snow all year round'（终年积雪）可知应为山顶。top顶部，bottom底部，middle中部，foot山脚。做词汇题时要结合上下文逻辑和常识（海拔越高温度越低，山顶积雪）。"
+    },
+    {
+      "date": "2026-05-24",
+      "session": 1,
+      "question_id": 9,
+      "type": "cloze",
+      "knowledge_point": "cloze_general",
+      "label": "完形填空",
+      "stem": "(9)______",
+      "options": [
+        "A. shocked",
+        "B. surprised",
+        "C. interested",
+        "D. excited"
+      ],
+      "correct_answer": "A",
+      "student_answer": "B",
+      "explanation": "【解析】根据后文'Hundreds of plastic containers... were thrown away... It was really terrible'可知看到大量塑料垃圾被丢弃应该是感到震惊。shocked（震惊的）程度比surprised（惊讶的）更深，更符合terrible的语境。做 Cloze 要关注情感线索和程度副词。"
+    },
+    {
+      "date": "2026-05-24",
+      "session": 1,
+      "question_id": 10,
+      "type": "cloze",
+      "knowledge_point": "cloze_general",
+      "label": "完形填空",
+      "stem": "(10)______",
+      "options": [
+        "A. expensive",
+        "B. convenient",
+        "C. difficult",
+        "D. boring"
+      ],
+      "correct_answer": "B",
+      "student_answer": "A",
+      "explanation": "【解析】根据后半句'they didn't have time to wash reusable containers'（没时间洗可重复使用的容器）可推断学生选择塑料是因为'方便'。convenient方便的，expensive昂贵的，difficult困难的，boring无聊的。完形填空要注意因果逻辑关系。"
+    },
+    {
+      "date": "2026-05-24",
+      "session": 1,
+      "question_id": 15,
+      "type": "reading",
+      "knowledge_point": "word_guessing_context",
+      "label": "阅读理解",
+      "stem": "The underlined word 'excessive' in Paragraph 2 probably means ______.",
+      "options": [
+        "A. very little",
+        "B. too much",
+        "C. necessary",
+        "D. proper"
+      ],
+      "correct_answer": "B",
+      "student_answer": "C",
+      "explanation": "【解析】词义猜测题。根据上下文'affect both physical and mental health'及'more than 6 hours... sleep problems'可知'excessive'应指'过多的、过量的'。too much太多，very little很少，necessary必要的，proper适当的。猜词题可通过上下文逻辑（因果、转折）和解释说明（如后文的more than 6 hours具体解释）来判断。"
     }
   ]
 }
