@@ -336,6 +336,13 @@
       "total": 20,
       "correct": 15,
       "rate": 75
+    },
+    {
+      "date": "2026-05-25",
+      "session": 1,
+      "total": 20,
+      "correct": 17,
+      "rate": 85
     }
   ],
   "errors": [
@@ -647,6 +654,60 @@
       "correct_answer": "B",
       "student_answer": "C",
       "explanation": "【解析】词义猜测题。根据上下文'affect both physical and mental health'及'more than 6 hours... sleep problems'可知'excessive'应指'过多的、过量的'。too much太多，very little很少，necessary必要的，proper适当的。猜词题可通过上下文逻辑（因果、转折）和解释说明（如后文的more than 6 hours具体解释）来判断。"
+    },
+    {
+      "date": "2026-05-25",
+      "session": 1,
+      "question_id": 5,
+      "type": "vocabulary",
+      "knowledge_point": "phrasal_verbs",
+      "label": "词汇题",
+      "stem": "If you don't know the word, you can ______ in the dictionary.",
+      "options": [
+        "A. look it up",
+        "B. look up it",
+        "C. look for it",
+        "D. look it over"
+      ],
+      "correct_answer": "A",
+      "student_answer": "C",
+      "explanation": "【解析】look up表示'查阅（词典、资料）'，代词it要放在中间，即look it up。look for表示'寻找'；look over表示'检查'。B选项代词位置错误；C和D语义不符。【技巧】'动词+副词'短语中，代词作宾语必须放中间（如pick it up, turn it on），名词可放中间或后面（look the word up / look up the word）。"
+    },
+    {
+      "date": "2026-05-25",
+      "session": 1,
+      "question_id": 6,
+      "type": "vocabulary",
+      "knowledge_point": "word_meaning_context",
+      "label": "词汇题",
+      "stem": "The ______ of the mountain is covered with snow all year round.",
+      "options": [
+        "A. foot",
+        "B. top",
+        "C. side",
+        "D. bottom"
+      ],
+      "correct_answer": "B",
+      "student_answer": "D",
+      "explanation": "【解析】根据'covered with snow all year round'（终年积雪）可知是山的'top'（山顶）。foot/bottom指山脚，通常不会终年积雪；side指山腰，也不符合'终年积雪'的常识。只有山顶符合语境。【技巧】词义猜测要结合常识和语境线索，注意地理常识：海拔越高气温越低，积雪常在山顶。"
+    },
+    {
+      "date": "2026-05-25",
+      "session": 1,
+      "question_id": 15,
+      "type": "reading",
+      "knowledge_point": "word_guessing_context",
+      "label": "阅读理解",
+      "stem": "The underlined word 'excessive' in Paragraph 2 probably means ______.",
+      "options": [
+        "A. proper",
+        "B. too much",
+        "C. limited",
+        "D. necessary"
+      ],
+      "correct_answer": "B",
+      "student_answer": "D",
+      "explanation": "【解析】词义猜测题。根据下文'When teenagers stare at screens for too long...causes dry eyes'可知'excessive screen time'指的是'过长的/过多的'屏幕时间。proper适当的；limited有限的；necessary必要的，均与'导致健康问题'的语境不符。【技巧】词义猜测利用因果关系和举例线索，后文'too long'和具体危害（dry eyes, headaches）提示该词意为'过多的'。"
     }
   ]
 }
