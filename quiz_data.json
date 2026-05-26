@@ -1,37 +1,37 @@
 ﻿{
-  "date": "2026-05-26",
+  "date": "2026-05-27",
   "session_number": 1,
   "questions": [
     {
       "id": 1,
       "type": "grammar",
-      "knowledge_point": "present_perfect_vs_past_simple",
+      "knowledge_point": "relative_clause_who_which",
       "difficulty": 2,
-      "stem": "—I ______ the Great Wall twice. It's amazing.\n—Wow, you must have learned a lot about Chinese history.",
+      "stem": "The boy ______ is standing under the big tree is my new classmate.",
       "options": [
-        "A. visited",
-        "B. have visited",
-        "C. am visiting",
-        "D. visit"
+        "A. which",
+        "B. who",
+        "C. whose",
+        "D. whom"
       ],
       "correct_answer": "B",
-      "explanation": "这道题考查现在完成时与一般过去时的区别。句中出现twice（两次），表示从过去到现在为止的动作次数，是现在完成时的典型标志词。A选项visited是一般过去时，仅表示过去某个时间点的动作，与现在没有联系；C选项是现在进行时，表示正在进行的动作，不符合语境；D选项是一般现在时，表示习惯性动作。解题技巧：看到表示次数的词语（once/twice/three times）或since/for引导的时间状语，优先考虑现在完成时（have/has done）。",
+      "explanation": "本题考查定语从句关系代词的选择。先行词是'the boy'，指人，且在从句中作主语，因此用who。which用于指物；whose表示'谁的'，在从句中作定语；whom也指人，但只能作宾语。句意：站在大树下的那个男孩是我的新同学。",
       "label": "语法题"
     },
     {
       "id": 2,
       "type": "grammar",
-      "knowledge_point": "relative_clause_who_which",
+      "knowledge_point": "present_perfect_vs_past_simple",
       "difficulty": 2,
-      "stem": "The boy ______ is reading under the tree is my cousin. He is preparing for the English exam.",
+      "stem": "I ______ the book already, so I can return it to the school library now.",
       "options": [
-        "A. who",
-        "B. which",
-        "C. whom",
-        "D. whose"
+        "A. read",
+        "B. have read",
+        "C. am reading",
+        "D. will read"
       ],
-      "correct_answer": "A",
-      "explanation": "这道题考查定语从句的关系代词选择。先行词是the boy，指人，且在定语从句中作主语（is reading的执行者），因此应该用who。B选项which用于指物；C选项whom虽然指人，但只能在从句中作宾语；D选项whose表示\"……的\"，在从句中作定语，后需接名词。解题技巧：指人用who/whom/that，指物用which/that；从句缺主语用who/which，缺宾语用whom/which/who（口语中who可代替whom），缺定语用whose。",
+      "correct_answer": "B",
+      "explanation": "本题考查现在完成时与一般过去时的区别。句中有already（已经）且强调过去动作对现在的影响（可以还书了），应用现在完成时have read。一般过去时只强调过去发生，与现在无关联；现在进行时和一般将来时不符合语境。",
       "label": "语法题"
     },
     {
@@ -39,31 +39,31 @@
       "type": "grammar",
       "knowledge_point": "passive_voice",
       "difficulty": 1,
-      "stem": "These library books ______ yesterday afternoon. Please be more careful next time.",
+      "stem": "The flowers in the garden ______ by my grandfather every morning.",
       "options": [
-        "A. return",
-        "B. returned",
-        "C. are returned",
-        "D. were returned"
+        "A. are watered",
+        "B. watered",
+        "C. water",
+        "D. watering"
       ],
-      "correct_answer": "D",
-      "explanation": "这道题考查一般过去时的被动语态。主语these library books（这些图书）是动作return（归还）的承受者，因此需要用被动语态（be done）。时间状语yesterday afternoon表明是过去时，所以be动词用were，return的过去分词是returned。A是主动语态原形；B是主动语态过去式；C是一般现在时被动语态，时态不符。解题技巧：被动语态基本结构be+done，先判断是否需要被动（看主语是动作执行者还是承受者），再根据时间状语确定be动词的时态和单复数。",
+      "correct_answer": "A",
+      "explanation": "本题考查一般现在时的被动语态。主语'the flowers'是动作'water'的承受者，应用被动语态；由every morning可知用一般现在时，结构为am/is/are + 过去分词。主语是复数，故用are watered。",
       "label": "语法题"
     },
     {
       "id": 4,
       "type": "grammar",
-      "knowledge_point": "object_clause",
+      "knowledge_point": "object_clause_modal_verbs",
       "difficulty": 3,
-      "stem": "—Do you know ______?\n—Yes. He told me he would come back in three days.",
+      "stem": "—Do you know ______ he will come to the party tomorrow?\n—I'm not sure. He ______ be busy with his study.",
       "options": [
-        "A. when will he come back",
-        "B. when he will come back",
-        "C. whether he would come back",
-        "D. how long he would stay there"
+        "A. if; must",
+        "B. whether; might",
+        "C. that; can't",
+        "D. when; should"
       ],
-      "correct_answer": "C",
-      "explanation": "这道题考查宾语从句的语序和时态呼应。首先，宾语从句必须使用陈述语序（主语+谓语），排除A选项。其次，根据答句中的would come back（过去将来时）以及句意\"他是否会回来\"，C选项whether（是否）最符合语境。B选项虽然语序正确，但will与主句told时态不一致，且答句并未强调具体时间点；D选项how long询问时间段，但答句回答的是\"in three days\"（三天后），不是时间段长度。解题技巧：宾语从句三要素——陈述语序、连接词选择、时态呼应（主过从过）。",
+      "correct_answer": "B",
+      "explanation": "第一空考查宾语从句连接词，由答句'I'm not sure'可知表示'是否'，if和whether都可以，但第二空考查情态动词表推测，must表示肯定推测'一定'，can't表示否定推测'不可能'，might表示不确定'可能'。由'I'm not sure'可知是不确定推测，用might。whether常与or not搭配，也可单独使用表示'是否'。",
       "label": "语法题"
     },
     {
@@ -71,209 +71,209 @@
       "type": "vocabulary",
       "knowledge_point": "phrasal_verbs",
       "difficulty": 1,
-      "stem": "If you don't understand the new word, you can ______ in the dictionary.",
+      "stem": "If you meet a new word while reading, you can ______ in the dictionary.",
       "options": [
         "A. look it up",
         "B. look up it",
-        "C. find it out",
-        "D. find out it"
+        "C. look for it",
+        "D. look it over"
       ],
       "correct_answer": "A",
-      "explanation": "这道题考查动词短语辨析及代词位置。look up表示\"查阅（词典、资料）\"，find out表示\"查明、弄清楚（事实、真相）\"。查字典应该用look up。当动词短语由\"动词+副词\"构成时，代词作宾语必须放在动词和副词中间，因此是look it up，而不是look up it。C和D词义不符且代词位置也错误。解题技巧：\"动副\"短语接代词要居中，如pick it up, put them down；\"动介\"短语接代词在后，如look at it, listen to him。",
+      "explanation": "本题考查动词短语辨析。look up表示'查阅（词典、资料）'，代词it要放在中间，即look it up；look for表示'寻找'；look over表示'检查'。句意：阅读时遇到生词，你可以在词典里查阅它。",
       "label": "词汇题"
     },
     {
       "id": 6,
       "type": "vocabulary",
-      "knowledge_point": "word_meaning_context",
+      "knowledge_point": "word_formation_suffix",
       "difficulty": 2,
-      "stem": "The ______ of the mountain is covered with snow all year round, but the foot is green in summer.",
+      "stem": "It is ______ to reuse shopping bags instead of using plastic ones.",
       "options": [
-        "A. bottom",
-        "B. top",
-        "C. side",
-        "D. middle"
+        "A. help",
+        "B. helpful",
+        "C. helpless",
+        "D. helping"
       ],
       "correct_answer": "B",
-      "explanation": "这道题考查通过上下文语境猜测词义。后半句出现but表示转折，and the foot（山脚）is green，与之对比的应该是\"山顶\"。地理常识也告诉我们，山顶(top)常年积雪，而山脚四季变化明显。A选项bottom底部与foot近义，不符合转折关系；C选项side侧面，D选项middle中部，都不如top与foot形成鲜明的上下对比。解题技巧：利用转折词but/however找反义线索，利用and找同义或递进线索。",
+      "explanation": "本题考查词性转换。系动词is后接形容词作表语；helpful表示'有帮助的，有益的'；helpless表示'无助的'。句意：重复使用购物袋而不是用塑料袋是有益的。",
       "label": "词汇题"
     },
     {
       "id": 7,
       "type": "vocabulary",
-      "knowledge_point": "fixed_collocation",
+      "knowledge_point": "word_meaning_context",
       "difficulty": 2,
-      "stem": "We should ______ our best to reduce plastic waste and protect the ocean.",
+      "stem": "We need to ______ some new ideas to solve this environmental problem.",
       "options": [
-        "A. try",
-        "B. do",
-        "C. make",
-        "D. take"
+        "A. come up with",
+        "B. come up",
+        "C. come out",
+        "D. come on"
       ],
       "correct_answer": "A",
-      "explanation": "这道题考查固定搭配。try one's best是固定短语，意为\"尽某人最大努力\"，相当于do one's best，但此处选项只有try符合搭配。B选项do虽然也有do one's best，但通常不与should搭配使用这种结构；C选项make one's best不是标准搭配；D选项take one's best也不存在。解题技巧：记住常见动词短语：try/do one's best（尽力），make a decision（做决定），take action（采取行动），pay attention（注意）。",
+      "explanation": "本题考查短语动词辨析。come up with表示'想出（主意、办法）'；come up表示'走近，被提出'；come out表示'出版，出现'；come on表示'加油，快点'。由宾语'ideas'可知应选come up with。",
       "label": "词汇题"
     },
     {
       "id": 8,
       "type": "cloze",
-      "knowledge_point": "cloze_general",
+      "knowledge_point": "cloze_context",
       "difficulty": 2,
       "group": "cloze_1",
-      "group_passage": "Last month, our school organized an activity called \"Go Green Week\". It (8)______ to encourage students to live a low-carbon life and raise environmental awareness.\n\nThe activity lasted for seven days. On the first day, we attended a lecture about environmental protection. The speaker told us that our planet was facing (9)______ problems such as pollution and climate change. He also showed us some shocking photos of plastic-filled oceans.\n\nAfter the lecture, we were asked to make a personal plan for green living. My classmates and I decided to go to school by bike (10)______ taking buses. At first, it was tiring to ride for thirty minutes every day. (11)______, we soon got used to it and found that cycling made us healthier.\n\nDuring the week, we also learned to sort waste properly. This experience has changed my lifestyle. I have realized that small actions can make a big (12)______.",
+      "group_passage": "Last month, our school started a special project called \"Green Campus Garden\". The teachers wanted to teach us about environmental protection  (8) practical skills. We were divided into small groups, and each group got a small piece of land to  (9) .\n\nAt first, I thought it would be easy, but I was wrong. We had to learn how to prepare the soil and choose the right vegetables for the  (10) season. My group decided to grow tomatoes and carrots. We worked hard every day after school, watering the plants and removing weeds.\n\nThe most exciting moment came three weeks later when we saw the first green leaves  (11) from the soil. Everyone cheered loudly. Through this project, we not only learned gardening skills but also understood the  (12) of patience and teamwork.",
       "stem": "(8)______",
       "options": [
-        "A. wanted",
-        "B. asked",
-        "C. aimed",
-        "D. tried"
+        "A. with",
+        "B. through",
+        "C. across",
+        "D. by"
       ],
-      "correct_answer": "C",
-      "explanation": "这道题考查动词词义辨析及固定搭配。aim to do sth.表示\"旨在做某事\"，符合句意\"这项活动旨在鼓励学生过低碳生活\"。A选项want to（想要），主语通常是人；B选项ask to（要求），不符合语境；D选项try to（努力），虽然语法可行，但aim to更准确表达活动的目的性。解题技巧：注意主语是activity（活动），无生命物体作主语表示\"目的、意图\"时，常用aim to或be designed to。",
+      "correct_answer": "B",
+      "explanation": "考查介词辨析。through表示'通过（某种方式）'，强调通过某种方法或过程；with表示'用（工具）'；across表示'穿过（平面）'；by表示'通过（手段）'或'被'。句意：老师们想通过实践技能教我们环境保护。through practical skills表示'通过实践技能这种方式'。",
       "label": "完形填空"
     },
     {
       "id": 9,
       "type": "cloze",
-      "knowledge_point": "cloze_context",
-      "difficulty": 2,
+      "knowledge_point": "cloze_collocation",
+      "difficulty": 1,
       "group": "cloze_1",
-      "group_passage": "Last month, our school organized an activity called \"Go Green Week\". It (8)______ to encourage students to live a low-carbon life and raise environmental awareness.\n\nThe activity lasted for seven days. On the first day, we attended a lecture about environmental protection. The speaker told us that our planet was facing (9)______ problems such as pollution and climate change. He also showed us some shocking photos of plastic-filled oceans.\n\nAfter the lecture, we were asked to make a personal plan for green living. My classmates and I decided to go to school by bike (10)______ taking buses. At first, it was tiring to ride for thirty minutes every day. (11)______, we soon got used to it and found that cycling made us healthier.\n\nDuring the week, we also learned to sort waste properly. This experience has changed my lifestyle. I have realized that small actions can make a big (12)______.",
+      "group_passage": "Last month, our school started a special project called \"Green Campus Garden\". The teachers wanted to teach us about environmental protection  (8) practical skills. We were divided into small groups, and each group got a small piece of land to  (9) .\n\nAt first, I thought it would be easy, but I was wrong. We had to learn how to prepare the soil and choose the right vegetables for the  (10) season. My group decided to grow tomatoes and carrots. We worked hard every day after school, watering the plants and removing weeds.\n\nThe most exciting moment came three weeks later when we saw the first green leaves  (11) from the soil. Everyone cheered loudly. Through this project, we not only learned gardening skills but also understood the  (12) of patience and teamwork.",
       "stem": "(9)______",
       "options": [
-        "A. serious",
-        "B. easy",
-        "C. common",
-        "D. similar"
+        "A. look after",
+        "B. look for",
+        "C. look at",
+        "D. look up"
       ],
       "correct_answer": "A",
-      "explanation": "这道题考查形容词辨析及上下文语境。根据下文such as pollution and climate change（如污染和气候变化）以及shocking photos（令人震惊的照片），可知这些问题是\"严重的\"(serious)。B选项easy（容易的）与语境相反；C选项common（常见的）虽然语法通顺，但不如serious能体现问题的紧迫性；D选项similar（相似的），后文列举的是不同类型的环境问题，不是相似问题。解题技巧：通过下文的举例和形容词shocking判断感情色彩，选择具有负面意义的词汇。",
+      "explanation": "考查动词短语辨析。look after表示'照顾，照料'；look for表示'寻找'；look at表示'看'；look up表示'查阅'。根据上下文，每组得到一块地应该是要'照料'它，种植蔬菜需要照顾，因此选look after。",
       "label": "完形填空"
     },
     {
       "id": 10,
       "type": "cloze",
       "knowledge_point": "cloze_logic",
-      "difficulty": 1,
+      "difficulty": 2,
       "group": "cloze_1",
-      "group_passage": "Last month, our school organized an activity called \"Go Green Week\". It (8)______ to encourage students to live a low-carbon life and raise environmental awareness.\n\nThe activity lasted for seven days. On the first day, we attended a lecture about environmental protection. The speaker told us that our planet was facing (9)______ problems such as pollution and climate change. He also showed us some shocking photos of plastic-filled oceans.\n\nAfter the lecture, we were asked to make a personal plan for green living. My classmates and I decided to go to school by bike (10)______ taking buses. At first, it was tiring to ride for thirty minutes every day. (11)______, we soon got used to it and found that cycling made us healthier.\n\nDuring the week, we also learned to sort waste properly. This experience has changed my lifestyle. I have realized that small actions can make a big (12)______.",
+      "group_passage": "Last month, our school started a special project called \"Green Campus Garden\". The teachers wanted to teach us about environmental protection  (8) practical skills. We were divided into small groups, and each group got a small piece of land to  (9) .\n\nAt first, I thought it would be easy, but I was wrong. We had to learn how to prepare the soil and choose the right vegetables for the  (10) season. My group decided to grow tomatoes and carrots. We worked hard every day after school, watering the plants and removing weeds.\n\nThe most exciting moment came three weeks later when we saw the first green leaves  (11) from the soil. Everyone cheered loudly. Through this project, we not only learned gardening skills but also understood the  (12) of patience and teamwork.",
       "stem": "(10)______",
       "options": [
-        "A. and",
-        "B. but",
-        "C. instead of",
-        "D. because of"
+        "A. last",
+        "B. next",
+        "C. right",
+        "D. past"
       ],
       "correct_answer": "C",
-      "explanation": "这道题考查逻辑关系及介词短语。前文说\"决定骑自行车\"，后文\"坐公交车\"，两者之间是替代关系，因此用instead of（代替，而不是）。A选项and表示并列；B选项but表示转折，但后面通常接句子；D选项because of（因为）表示因果关系。解题技巧：instead of后接名词/动名词，表示用前者替代后者，体现低碳出行的选择。",
+      "explanation": "考查形容词辨析。right表示'合适的，恰当的'；last表示'上一个的'；next表示'下一个的'；past表示'过去的'。句意：我们不得不学习如何准备土壤以及为合适的季节选择合适的蔬菜。right season表示'合适的季节'，符合种植常识。",
       "label": "完形填空"
     },
     {
       "id": 11,
       "type": "cloze",
-      "knowledge_point": "cloze_transition",
-      "difficulty": 1,
+      "knowledge_point": "cloze_context",
+      "difficulty": 2,
       "group": "cloze_1",
-      "group_passage": "Last month, our school organized an activity called \"Go Green Week\". It (8)______ to encourage students to live a low-carbon life and raise environmental awareness.\n\nThe activity lasted for seven days. On the first day, we attended a lecture about environmental protection. The speaker told us that our planet was facing (9)______ problems such as pollution and climate change. He also showed us some shocking photos of plastic-filled oceans.\n\nAfter the lecture, we were asked to make a personal plan for green living. My classmates and I decided to go to school by bike (10)______ taking buses. At first, it was tiring to ride for thirty minutes every day. (11)______, we soon got used to it and found that cycling made us healthier.\n\nDuring the week, we also learned to sort waste properly. This experience has changed my lifestyle. I have realized that small actions can make a big (12)______.",
+      "group_passage": "Last month, our school started a special project called \"Green Campus Garden\". The teachers wanted to teach us about environmental protection  (8) practical skills. We were divided into small groups, and each group got a small piece of land to  (9) .\n\nAt first, I thought it would be easy, but I was wrong. We had to learn how to prepare the soil and choose the right vegetables for the  (10) season. My group decided to grow tomatoes and carrots. We worked hard every day after school, watering the plants and removing weeds.\n\nThe most exciting moment came three weeks later when we saw the first green leaves  (11) from the soil. Everyone cheered loudly. Through this project, we not only learned gardening skills but also understood the  (12) of patience and teamwork.",
       "stem": "(11)______",
       "options": [
-        "A. However",
-        "B. Therefore",
-        "C. Besides",
-        "D. Otherwise"
+        "A. fall",
+        "B. run",
+        "C. come out",
+        "D. give up"
       ],
-      "correct_answer": "A",
-      "explanation": "这道题考查过渡词/连接词的逻辑关系。前文说\"起初很累\"(tiring)，后文说\"很快习惯了\"(got used to)，前后是转折关系，因此用However（然而）。B选项Therefore（因此）表结果；C选项Besides（此外）表递进；D选项Otherwise（否则）表条件。解题技巧：看到\"At first... soon...\"这样的时间对比，以及 tiring 和 got used to 的感情色彩变化，确定是转折关系。注意However后通常有逗号。",
+      "correct_answer": "C",
+      "explanation": "考查动词短语辨析。come out表示'出现，长出'；fall表示'落下'；run表示'跑'；give up表示'放弃'。句意：最令人兴奋的时刻是三周后，当我们看到第一片绿叶从土壤中长出来时。come out from the soil表示'从土壤中长出来'，符合植物生长的语境。",
       "label": "完形填空"
     },
     {
       "id": 12,
       "type": "cloze",
-      "knowledge_point": "cloze_fixed_phrase",
-      "difficulty": 2,
+      "knowledge_point": "cloze_general",
+      "difficulty": 1,
       "group": "cloze_1",
-      "group_passage": "Last month, our school organized an activity called \"Go Green Week\". It (8)______ to encourage students to live a low-carbon life and raise environmental awareness.\n\nThe activity lasted for seven days. On the first day, we attended a lecture about environmental protection. The speaker told us that our planet was facing (9)______ problems such as pollution and climate change. He also showed us some shocking photos of plastic-filled oceans.\n\nAfter the lecture, we were asked to make a personal plan for green living. My classmates and I decided to go to school by bike (10)______ taking buses. At first, it was tiring to ride for thirty minutes every day. (11)______, we soon got used to it and found that cycling made us healthier.\n\nDuring the week, we also learned to sort waste properly. This experience has changed my lifestyle. I have realized that small actions can make a big (12)______.",
+      "group_passage": "Last month, our school started a special project called \"Green Campus Garden\". The teachers wanted to teach us about environmental protection  (8) practical skills. We were divided into small groups, and each group got a small piece of land to  (9) .\n\nAt first, I thought it would be easy, but I was wrong. We had to learn how to prepare the soil and choose the right vegetables for the  (10) season. My group decided to grow tomatoes and carrots. We worked hard every day after school, watering the plants and removing weeds.\n\nThe most exciting moment came three weeks later when we saw the first green leaves  (11) from the soil. Everyone cheered loudly. Through this project, we not only learned gardening skills but also understood the  (12) of patience and teamwork.",
       "stem": "(12)______",
       "options": [
-        "A. decision",
-        "B. difference",
-        "C. progress",
-        "D. mistake"
+        "A. price",
+        "B. cost",
+        "C. value",
+        "D. money"
       ],
-      "correct_answer": "B",
-      "explanation": "这道题考查固定短语搭配。make a difference是固定搭配，意为\"产生影响、起作用\"，符合句意\"小行动能产生大影响\"。A选项make a decision（做决定）；C选项make progress（取得进步），但progress通常不与a连用；D选项make a mistake（犯错误）。解题技巧：记住环保类文章常用表达make a difference，表示个人行为对环境的影响。",
+      "correct_answer": "C",
+      "explanation": "考查名词辨析。value表示'价值'；price表示'价格'；cost表示'成本，花费'；money表示'金钱'。句意：通过这个项目，我们不仅学到了园艺技能，还理解了耐心和团队合作的价值。the value of...表示'……的价值'，是固定搭配。",
       "label": "完形填空"
     },
     {
       "id": 13,
       "type": "reading",
       "knowledge_point": "detail",
-      "difficulty": 2,
+      "difficulty": 1,
       "group": "reading_1",
-      "group_passage": "Do you spend hours staring at screens every day? A recent study shows that teenagers spend an average of seven hours a day on screens, not including time for schoolwork.\n\nThis excessive screen time can lead to several health problems. First, it causes eye strain (眼疲劳) and dry eyes. Many teenagers now suffer from poor eyesight at a very young age. Second, sitting for long periods affects our physical health. Lack of exercise can lead to weight gain and weak muscles. Third, too much screen time affects sleep quality. The blue light from screens makes it harder to fall asleep.\n\nHowever, technology itself is not the enemy. The key is to use it wisely. Here are some tips: Take a 20-second break every 20 minutes and look at something 20 feet away. This is called the 20-20-20 rule. Also, try to exercise for at least 30 minutes every day. Most importantly, stop using electronic devices one hour before bedtime.\n\nRemember, we should control technology, not let it control us. By developing healthy habits, we can enjoy the benefits of technology while protecting our health.",
-      "stem": "According to the passage, how many hours do teenagers spend on screens daily for non-school activities?",
+      "group_passage": "Plastic pollution has become one of the biggest environmental problems in the world. Every year, about 8 million tons of plastic waste flows into our oceans. This causes serious harm to sea animals. Many turtles, fish and birds mistake plastic bags for food and eat them by accident.\n\nTo solve this problem, scientists have developed new ways to recycle plastic. One creative method is turning plastic bottles into fabric (织物) for making clothes. Another idea is using special bacteria (细菌) that can break down plastic in months instead of hundreds of years. Some cities have also started programs to encourage people to sort their rubbish properly.\n\nHowever, recycling alone is not enough. We should also reduce the use of single-use plastics like straws and cups. Remember, every small action counts. When you choose to bring your own shopping bag or water bottle, you are helping to protect our planet.",
+      "stem": "According to the passage, how much plastic waste goes into the oceans every year?",
       "options": [
-        "A. About 5 hours.",
-        "B. About 7 hours.",
-        "C. About 8 hours.",
-        "D. About 9 hours."
+        "A. About 8 thousand tons.",
+        "B. About 8 million tons.",
+        "C. About 18 million tons.",
+        "D. About 80 million tons."
       ],
       "correct_answer": "B",
-      "explanation": "这道题考查细节理解。根据第一段第二句\"teenagers spend an average of seven hours a day on screens, not including time for schoolwork\"（青少年平均每天花7小时在屏幕上，不包括做功课的时间），可知答案为7小时。A、C、D选项数字与原文不符。解题技巧：细节题要精准定位，注意题干中的non-school activities对应原文的not including time for schoolwork，避免看到数字就随意选择。",
+      "explanation": "细节理解题。根据文章第一段第二句'Every year, about 8 million tons of plastic waste flows into our oceans.'可知，每年约有800万吨塑料垃圾流入海洋。注意million（百万）和thousand（千）的区别，以及数字8的准确读取。",
       "label": "阅读-细节理解"
     },
     {
       "id": 14,
       "type": "reading",
-      "knowledge_point": "inference",
-      "difficulty": 3,
+      "knowledge_point": "word_guessing",
+      "difficulty": 2,
       "group": "reading_1",
-      "group_passage": "Do you spend hours staring at screens every day? A recent study shows that teenagers spend an average of seven hours a day on screens, not including time for schoolwork.\n\nThis excessive screen time can lead to several health problems. First, it causes eye strain (眼疲劳) and dry eyes. Many teenagers now suffer from poor eyesight at a very young age. Second, sitting for long periods affects our physical health. Lack of exercise can lead to weight gain and weak muscles. Third, too much screen time affects sleep quality. The blue light from screens makes it harder to fall asleep.\n\nHowever, technology itself is not the enemy. The key is to use it wisely. Here are some tips: Take a 20-second break every 20 minutes and look at something 20 feet away. This is called the 20-20-20 rule. Also, try to exercise for at least 30 minutes every day. Most importantly, stop using electronic devices one hour before bedtime.\n\nRemember, we should control technology, not let it control us. By developing healthy habits, we can enjoy the benefits of technology while protecting our health.",
-      "stem": "What can we learn from the passage?",
+      "group_passage": "Plastic pollution has become one of the biggest environmental problems in the world. Every year, about 8 million tons of plastic waste flows into our oceans. This causes serious harm to sea animals. Many turtles, fish and birds mistake plastic bags for food and eat them by accident.\n\nTo solve this problem, scientists have developed new ways to recycle plastic. One creative method is turning plastic bottles into fabric (织物) for making clothes. Another idea is using special bacteria (细菌) that can break down plastic in months instead of hundreds of years. Some cities have also started programs to encourage people to sort their rubbish properly.\n\nHowever, recycling alone is not enough. We should also reduce the use of single-use plastics like straws and cups. Remember, every small action counts. When you choose to bring your own shopping bag or water bottle, you are helping to protect our planet.",
+      "stem": "The underlined word 'break down' in Paragraph 2 probably means ______.",
       "options": [
-        "A. All screen time is harmful to teenagers.",
-        "B. Teenagers should completely avoid using electronic devices.",
-        "C. Blue light from screens helps improve sleep quality.",
-        "D. Using technology properly is important for health."
+        "A. 打破",
+        "B. 分解",
+        "C. 损坏",
+        "D. 倒塌"
       ],
-      "correct_answer": "D",
-      "explanation": "这道题考查推理判断。根据第三段第一、二句\"technology itself is not the enemy. The key is to use it wisely\"（科技本身不是敌人，关键是明智地使用），以及最后一段\"we should control technology... enjoy the benefits of technology while protecting our health\"，可以推断出合理使用科技对健康很重要。A选项与原文\"technology itself is not the enemy\"矛盾；B选项completely avoid过于绝对，与原文不符；C选项与第二段最后一句\"blue light... makes it harder to fall asleep\"（蓝光使入睡更难）相反。解题技巧：推理题要基于原文信息，避免绝对化选项（all/completely/never/always），注意原文的转折词However后的观点通常是作者真正想表达的。",
-      "label": "阅读-推理判断"
+      "correct_answer": "B",
+      "explanation": "词义猜测题。根据上下文，科学家使用特殊的细菌来处理塑料，in months instead of hundreds of years（在数月内而不是数百年内），说明细菌能快速将塑料'分解'。break down在生物学语境中常表示'分解（物质）'。",
+      "label": "阅读-词义猜测"
     },
     {
       "id": 15,
       "type": "reading",
-      "knowledge_point": "word_guessing",
+      "knowledge_point": "inference",
       "difficulty": 2,
       "group": "reading_1",
-      "group_passage": "Do you spend hours staring at screens every day? A recent study shows that teenagers spend an average of seven hours a day on screens, not including time for schoolwork.\n\nThis excessive screen time can lead to several health problems. First, it causes eye strain (眼疲劳) and dry eyes. Many teenagers now suffer from poor eyesight at a very young age. Second, sitting for long periods affects our physical health. Lack of exercise can lead to weight gain and weak muscles. Third, too much screen time affects sleep quality. The blue light from screens makes it harder to fall asleep.\n\nHowever, technology itself is not the enemy. The key is to use it wisely. Here are some tips: Take a 20-second break every 20 minutes and look at something 20 feet away. This is called the 20-20-20 rule. Also, try to exercise for at least 30 minutes every day. Most importantly, stop using electronic devices one hour before bedtime.\n\nRemember, we should control technology, not let it control us. By developing healthy habits, we can enjoy the benefits of technology while protecting our health.",
-      "stem": "The underlined word \"excessive\" in Paragraph 2 probably means ______.",
+      "group_passage": "Plastic pollution has become one of the biggest environmental problems in the world. Every year, about 8 million tons of plastic waste flows into our oceans. This causes serious harm to sea animals. Many turtles, fish and birds mistake plastic bags for food and eat them by accident.\n\nTo solve this problem, scientists have developed new ways to recycle plastic. One creative method is turning plastic bottles into fabric (织物) for making clothes. Another idea is using special bacteria (细菌) that can break down plastic in months instead of hundreds of years. Some cities have also started programs to encourage people to sort their rubbish properly.\n\nHowever, recycling alone is not enough. We should also reduce the use of single-use plastics like straws and cups. Remember, every small action counts. When you choose to bring your own shopping bag or water bottle, you are helping to protect our planet.",
+      "stem": "What can we infer from the last paragraph?",
       "options": [
-        "A. proper",
-        "B. too much",
-        "C. little",
-        "D. enough"
+        "A. We should stop using all kinds of plastics immediately.",
+        "B. Bringing our own bags is the only way to help the environment.",
+        "C. Both recycling and reducing plastic use are important.",
+        "D. Single-use plastics are more expensive than reusable ones."
       ],
-      "correct_answer": "B",
-      "explanation": "这道题考查词义猜测。根据上下文，第一段提到青少年每天花7小时在屏幕上，第二段接着说这种\"excessive\"屏幕时间会导致健康问题，第三段又提到\"too much screen time\"（过多屏幕时间）影响睡眠质量。由此可推断excessive与too much同义，意为\"过多的、过量的\"。A选项proper（适当的）、C选项little（少的）、D选项enough（足够的）均不符合语境。解题技巧：利用同义复现原则，后文出现too much screen time，与excessive screen time对应，可快速锁定答案。",
-      "label": "阅读-词义猜测"
+      "correct_answer": "C",
+      "explanation": "推理判断题。最后一段第一句'However, recycling alone is not enough. We should also reduce the use of single-use plastics...'说明仅靠回收是不够的，我们还需要减少使用一次性塑料，因此推断出回收和减少使用都很重要。A项'立即停止所有塑料'过于绝对；B项'唯一方式'错误；D项'价格比较'文中未提及。",
+      "label": "阅读-推理判断"
     },
     {
       "id": 16,
       "type": "reading",
-      "knowledge_point": "main_idea_title",
+      "knowledge_point": "main_idea",
       "difficulty": 3,
       "group": "reading_1",
-      "group_passage": "Do you spend hours staring at screens every day? A recent study shows that teenagers spend an average of seven hours a day on screens, not including time for schoolwork.\n\nThis excessive screen time can lead to several health problems. First, it causes eye strain (眼疲劳) and dry eyes. Many teenagers now suffer from poor eyesight at a very young age. Second, sitting for long periods affects our physical health. Lack of exercise can lead to weight gain and weak muscles. Third, too much screen time affects sleep quality. The blue light from screens makes it harder to fall asleep.\n\nHowever, technology itself is not the enemy. The key is to use it wisely. Here are some tips: Take a 20-second break every 20 minutes and look at something 20 feet away. This is called the 20-20-20 rule. Also, try to exercise for at least 30 minutes every day. Most importantly, stop using electronic devices one hour before bedtime.\n\nRemember, we should control technology, not let it control us. By developing healthy habits, we can enjoy the benefits of technology while protecting our health.",
+      "group_passage": "Plastic pollution has become one of the biggest environmental problems in the world. Every year, about 8 million tons of plastic waste flows into our oceans. This causes serious harm to sea animals. Many turtles, fish and birds mistake plastic bags for food and eat them by accident.\n\nTo solve this problem, scientists have developed new ways to recycle plastic. One creative method is turning plastic bottles into fabric (织物) for making clothes. Another idea is using special bacteria (细菌) that can break down plastic in months instead of hundreds of years. Some cities have also started programs to encourage people to sort their rubbish properly.\n\nHowever, recycling alone is not enough. We should also reduce the use of single-use plastics like straws and cups. Remember, every small action counts. When you choose to bring your own shopping bag or water bottle, you are helping to protect our planet.",
       "stem": "What is the best title for this passage?",
       "options": [
-        "A. The History of Electronic Devices",
-        "B. How to Study Online Effectively",
-        "C. Teenagers and Screen Time",
-        "D. The Importance of Daily Exercise"
+        "A. The History of Plastic",
+        "B. How to Make Clothes from Plastic",
+        "C. Plastic Pollution and Solutions",
+        "D. Sea Animals in Danger"
       ],
       "correct_answer": "C",
-      "explanation": "这道题考查主旨大意/最佳标题。文章第一段引出青少年屏幕使用时间长的现象，第二段讲过多屏幕时间的危害，第三段给出合理使用建议，最后总结。全文围绕\"青少年\"和\"屏幕时间\"这两个核心展开。A选项（电子设备的历史）只在开头提及，不是重点；B选项（如何有效在线学习）与文章内容不符；D选项（日常锻炼的重要性）只是第三段的一个建议，过于片面。解题技巧：最佳标题应涵盖全文主要内容，既要包括讨论对象（teenagers/screen time），又要体现文章态度（合理使用），避免以偏概全或扩大范围。",
+      "explanation": "主旨大意题。文章第一段讲塑料污染问题，第二段讲回收解决方案，第三段讲减少使用。因此最佳标题应涵盖'污染'和'解决方案'两方面。A项'塑料历史'未提及；B项'用塑料做衣服'只是细节；D项'濒危海洋动物'只是第一段内容。C项全面概括了文章主旨。",
       "label": "阅读-主旨大意"
     },
     {
@@ -282,36 +282,36 @@
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
       "group": "fill_1",
-      "group_passage": "Having a good daily routine is important for middle school students. It helps us manage time better and improve study efficiency. (17)______\n\nFirst, make a to-do list every morning. Write down the tasks you need to complete and put the most important ones at the top. (18)______ This way, you won't forget anything important.\n\nSecond, find your most productive time. Some people work best in the morning, while others focus better at night. (19)______ Use this time to tackle difficult subjects.\n\n(20)______ Don't try to study for hours without breaks. Your brain needs time to rest and process information. Try the Pomodoro Technique: study for 25 minutes, then take a 5-minute break.\n\nFollow these suggestions, and you will find your school life more organized and less stressful.",
+      "group_passage": "Many students find it hard to balance their study and hobbies. They often feel stressed when they cannot finish homework on time because of hobby activities.  (17) Here are some useful tips.\n\nFirst, make a weekly schedule. Write down all your school tasks and hobby time in a planner.  (18) This way, you won't forget important deadlines.\n\nSecond, learn to say no. If you have an exam coming next week, you might need to skip one hobby class.  (19) Your hobbies will still be there after the exam.\n\n  (20) Even 15 minutes of reading or drawing can help you relax. Remember, hobbies are not a waste of time but a good way to refresh your mind.",
       "stem": "(17)______",
       "options": [
-        "A. However, it's not easy to stick to a routine at first.",
-        "B. In addition, remember to take regular breaks.",
-        "C. For example, if you are a morning person, study math before breakfast.",
-        "D. Here are some practical tips to help you build a good routine.",
-        "E. Check off each item when you finish it."
+        "A. However, never give up your hobbies completely.",
+        "B. Then, check your plan every day.",
+        "C. As a result, they give up their hobbies.",
+        "D. So, how can we solve this problem?",
+        "E. In addition, try to combine study with hobbies."
       ],
       "correct_answer": "D",
-      "explanation": "这道题考查段落衔接与主题句。空前讲有好的日常作息很重要，空后First... Second...开始列举具体建议，因此此处需要一个承上启下的过渡句，引出下文的建议。D选项\"Here are some practical tips...\"（这里有一些实用建议）完美起到总起作用。A选项However转折，与后文列举建议的逻辑不符；B选项In addition（此外）表示递进，但此处是首次列举；C选项For example是具体例子，不适合放在段首总起；E选项是具体做法，应放在First段落后。解题技巧：观察文章结构，看到First/Second等序数词，前文通常有总起句如\"Here are some tips/suggestions\"。",
+      "explanation": "考查段落衔接。前一句提出学生难以平衡学习和爱好、感到压力的问题，后一句'Here are some useful tips'引出解决方案，因此此处需要承上启下的过渡句，提出问题如何解决的问句。D项'那么，我们如何解决这个问题呢？'符合逻辑。",
       "label": "短文填空"
     },
     {
       "id": 18,
       "type": "fill",
       "knowledge_point": "sentence_fill",
-      "difficulty": 2,
+      "difficulty": 1,
       "group": "fill_1",
-      "group_passage": "Having a good daily routine is important for middle school students. It helps us manage time better and improve study efficiency. (17)______\n\nFirst, make a to-do list every morning. Write down the tasks you need to complete and put the most important ones at the top. (18)______ This way, you won't forget anything important.\n\nSecond, find your most productive time. Some people work best in the morning, while others focus better at night. (19)______ Use this time to tackle difficult subjects.\n\n(20)______ Don't try to study for hours without breaks. Your brain needs time to rest and process information. Try the Pomodoro Technique: study for 25 minutes, then take a 5-minute break.\n\nFollow these suggestions, and you will find your school life more organized and less stressful.",
+      "group_passage": "Many students find it hard to balance their study and hobbies. They often feel stressed when they cannot finish homework on time because of hobby activities.  (17) Here are some useful tips.\n\nFirst, make a weekly schedule. Write down all your school tasks and hobby time in a planner.  (18) This way, you won't forget important deadlines.\n\nSecond, learn to say no. If you have an exam coming next week, you might need to skip one hobby class.  (19) Your hobbies will still be there after the exam.\n\n  (20) Even 15 minutes of reading or drawing can help you relax. Remember, hobbies are not a waste of time but a good way to refresh your mind.",
       "stem": "(18)______",
       "options": [
-        "A. However, it's not easy to stick to a routine at first.",
-        "B. In addition, remember to take regular breaks.",
-        "C. For example, if you are a morning person, study math before breakfast.",
-        "D. Here are some practical tips to help you build a good routine.",
-        "E. Check off each item when you finish it."
+        "A. However, never give up your hobbies completely.",
+        "B. Then, check your plan every day.",
+        "C. As a result, they give up their hobbies.",
+        "D. So, how can we solve this problem?",
+        "E. In addition, try to combine study with hobbies."
       ],
-      "correct_answer": "E",
-      "explanation": "这道题考查逻辑连贯与代词指代。空前讲列出任务清单并把重要的放在顶部，空后讲这样就不会忘记重要事项。E选项\"Check off each item when you finish it\"（完成时勾选每项）承接上文的to-do list（待办清单），且each item对应前文tasks，it指代list。A选项转折不符合；B选项是另一个建议，不应插在First建议中间；C选项是例子，但此处说的是清单使用，不是时间安排；D选项已经用过。解题技巧：注意代词指代和词汇复现（item与tasks对应），以及\"This way\"（这种方式）指代前文提到的具体做法。",
+      "correct_answer": "B",
+      "explanation": "考查逻辑关系。前一句讲'在计划本中写下所有学校任务和爱好时间'，后一句讲'这样你就不会忘记重要的截止日期'，因此此处应填入与查看计划相关的句子。B项'然后，每天检查你的计划'符合上下文逻辑，then表示时间顺序。",
       "label": "短文填空"
     },
     {
@@ -320,17 +320,17 @@
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
       "group": "fill_1",
-      "group_passage": "Having a good daily routine is important for middle school students. It helps us manage time better and improve study efficiency. (17)______\n\nFirst, make a to-do list every morning. Write down the tasks you need to complete and put the most important ones at the top. (18)______ This way, you won't forget anything important.\n\nSecond, find your most productive time. Some people work best in the morning, while others focus better at night. (19)______ Use this time to tackle difficult subjects.\n\n(20)______ Don't try to study for hours without breaks. Your brain needs time to rest and process information. Try the Pomodoro Technique: study for 25 minutes, then take a 5-minute break.\n\nFollow these suggestions, and you will find your school life more organized and less stressful.",
+      "group_passage": "Many students find it hard to balance their study and hobbies. They often feel stressed when they cannot finish homework on time because of hobby activities.  (17) Here are some useful tips.\n\nFirst, make a weekly schedule. Write down all your school tasks and hobby time in a planner.  (18) This way, you won't forget important deadlines.\n\nSecond, learn to say no. If you have an exam coming next week, you might need to skip one hobby class.  (19) Your hobbies will still be there after the exam.\n\n  (20) Even 15 minutes of reading or drawing can help you relax. Remember, hobbies are not a waste of time but a good way to refresh your mind.",
       "stem": "(19)______",
       "options": [
-        "A. However, it's not easy to stick to a routine at first.",
-        "B. In addition, remember to take regular breaks.",
-        "C. For example, if you are a morning person, study math before breakfast.",
-        "D. Here are some practical tips to help you build a good routine.",
-        "E. Check off each item when you finish it."
+        "A. However, never give up your hobbies completely.",
+        "B. Then, check your plan every day.",
+        "C. As a result, they give up their hobbies.",
+        "D. So, how can we solve this problem?",
+        "E. In addition, try to combine study with hobbies."
       ],
-      "correct_answer": "C",
-      "explanation": "这道题考查举例论证。空前讲有些人早晨效率高，有些人晚上专注，空后讲利用这段时间攻克难题。C选项\"For example, if you are a morning person...\"（例如，如果你是晨型人……）是对前文的举例说明，且morning person与前文work best in the morning对应。A选项However转折，但前后文都在讲如何安排时间，无转折关系；B选项是另一个建议；D、E已用过。解题技巧：看到For example就知道是举例，要确认例子内容与前文观点一致（morning person对应morning efficiency）。",
+      "correct_answer": "A",
+      "explanation": "考查转折关系。前一句讲'如果下周有考试，你可能需要跳过一节爱好课'，后一句讲'考试后你的爱好还会在那里'，因此此处需要表示转折，说明只是暂时跳过而非完全放弃。A项'然而，永远不要完全放弃你的爱好'符合逻辑，however表示转折。",
       "label": "短文填空"
     },
     {
@@ -339,17 +339,17 @@
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
       "group": "fill_1",
-      "group_passage": "Having a good daily routine is important for middle school students. It helps us manage time better and improve study efficiency. (17)______\n\nFirst, make a to-do list every morning. Write down the tasks you need to complete and put the most important ones at the top. (18)______ This way, you won't forget anything important.\n\nSecond, find your most productive time. Some people work best in the morning, while others focus better at night. (19)______ Use this time to tackle difficult subjects.\n\n(20)______ Don't try to study for hours without breaks. Your brain needs time to rest and process information. Try the Pomodoro Technique: study for 25 minutes, then take a 5-minute break.\n\nFollow these suggestions, and you will find your school life more organized and less stressful.",
+      "group_passage": "Many students find it hard to balance their study and hobbies. They often feel stressed when they cannot finish homework on time because of hobby activities.  (17) Here are some useful tips.\n\nFirst, make a weekly schedule. Write down all your school tasks and hobby time in a planner.  (18) This way, you won't forget important deadlines.\n\nSecond, learn to say no. If you have an exam coming next week, you might need to skip one hobby class.  (19) Your hobbies will still be there after the exam.\n\n  (20) Even 15 minutes of reading or drawing can help you relax. Remember, hobbies are not a waste of time but a good way to refresh your mind.",
       "stem": "(20)______",
       "options": [
-        "A. However, it's not easy to stick to a routine at first.",
-        "B. In addition, remember to take regular breaks.",
-        "C. For example, if you are a morning person, study math before breakfast.",
-        "D. Here are some practical tips to help you build a good routine.",
-        "E. Check off each item when you finish it."
+        "A. However, never give up your hobbies completely.",
+        "B. Then, check your plan every day.",
+        "C. As a result, they give up their hobbies.",
+        "D. So, how can we solve this problem?",
+        "E. In addition, try to combine study with hobbies."
       ],
-      "correct_answer": "B",
-      "explanation": "这道题考查段落间的逻辑关系。前面讲了First... Second...两点建议，此处开始讲休息的重要性，是第三点建议，因此用In addition（此外/另外）引出。空后\"Don't try to study for hours without breaks\"（不要试图连续学习数小时不休息）与B选项\"remember to take regular breaks\"（记得定期休息）完全呼应。A选项However表转折，但此处是补充建议；C选项是例子，但此处是主题句；D、E已用过。解题技巧：注意连接词的功能，In addition/Furthermore/Moreover都表示补充、递进，用于引出新的建议。",
+      "correct_answer": "E",
+      "explanation": "考查递进关系。前面讲了First... Second...，此处应是第三条建议。后一句讲'即使15分钟的阅读或绘画也能帮助你放松'，说明可以利用碎片时间进行爱好活动，即把学习和爱好结合起来。E项'此外，尝试将学习与爱好结合起来'符合逻辑，in addition表示递进，引出第三条建议。",
       "label": "短文填空"
     }
   ]
