@@ -1,37 +1,37 @@
 ﻿{
-  "date": "2026-05-27",
+  "date": "2026-05-28",
   "session_number": 1,
   "questions": [
     {
       "id": 1,
       "type": "grammar",
-      "knowledge_point": "relative_clause_who_which",
+      "knowledge_point": "present_perfect_vs_past_simple",
       "difficulty": 2,
-      "stem": "The boy ______ is standing under the big tree is my new classmate.",
+      "stem": "—I ______ the Great Wall twice. It's amazing.\n—When ______ you ______ there last time?",
       "options": [
-        "A. which",
-        "B. who",
-        "C. whose",
-        "D. whom"
+        "A. have visited; did; go",
+        "B. visited; have; gone",
+        "C. have been to; did; went",
+        "D. went to; have; been"
       ],
-      "correct_answer": "B",
-      "explanation": "本题考查定语从句关系代词的选择。先行词是'the boy'，指人，且在从句中作主语，因此用who。which用于指物；whose表示'谁的'，在从句中作定语；whom也指人，但只能作宾语。句意：站在大树下的那个男孩是我的新同学。",
+      "correct_answer": "A",
+      "explanation": "选A。第一空表示'曾经去过两次'，强调经历，用现在完成时have visited；第二空询问过去具体时间，用一般过去时的疑问句结构did...go。B选项时态混乱；C选项have been to后面直接接地点，不需要再加to，且went应改为go（did后接原形）；D选项时态完全错误。解题技巧：看时间标志词——twice/ever/never等用现完，last time/yesterday/ago等用过去时。",
       "label": "语法题"
     },
     {
       "id": 2,
       "type": "grammar",
-      "knowledge_point": "present_perfect_vs_past_simple",
+      "knowledge_point": "relative_clause_who_which",
       "difficulty": 2,
-      "stem": "I ______ the book already, so I can return it to the school library now.",
+      "stem": "The girl ______ is singing on the stage comes from Class 3, Grade 8.",
       "options": [
-        "A. read",
-        "B. have read",
-        "C. am reading",
-        "D. will read"
+        "A. which",
+        "B. who",
+        "C. whom",
+        "D. whose"
       ],
       "correct_answer": "B",
-      "explanation": "本题考查现在完成时与一般过去时的区别。句中有already（已经）且强调过去动作对现在的影响（可以还书了），应用现在完成时have read。一般过去时只强调过去发生，与现在无关联；现在进行时和一般将来时不符合语境。",
+      "explanation": "选B。先行词the girl指人，在定语从句中作主语，用关系代词who。which用于指物；whom用于指人但作宾语；whose表示'谁的'，在从句中作定语。解题技巧：指人用who/whom/that，指物用which/that；看从句缺什么成分——缺主语用who/which，缺宾语用whom/which/who（口语中who可代替whom），缺定语用whose。",
       "label": "语法题"
     },
     {
@@ -39,31 +39,31 @@
       "type": "grammar",
       "knowledge_point": "passive_voice",
       "difficulty": 1,
-      "stem": "The flowers in the garden ______ by my grandfather every morning.",
+      "stem": "The broken bike ______ by my father tomorrow afternoon.",
       "options": [
-        "A. are watered",
-        "B. watered",
-        "C. water",
-        "D. watering"
+        "A. will repair",
+        "B. is repaired",
+        "C. will be repaired",
+        "D. was repaired"
       ],
-      "correct_answer": "A",
-      "explanation": "本题考查一般现在时的被动语态。主语'the flowers'是动作'water'的承受者，应用被动语态；由every morning可知用一般现在时，结构为am/is/are + 过去分词。主语是复数，故用are watered。",
+      "correct_answer": "C",
+      "explanation": "选C。主语the broken bike是'被修理'的对象，需用被动语态；时间标志tomorrow afternoon表示将来，故用一般将来时的被动will be repaired。A是主动语态；B是一般现在时被动；D是一般过去时被动，均不符合时间状语。解题技巧：被动语态基本结构be+done，根据时间确定be的时态——tomorrow用will be，now用is/am/are being，yesterday用was/were。",
       "label": "语法题"
     },
     {
       "id": 4,
       "type": "grammar",
-      "knowledge_point": "object_clause_modal_verbs",
+      "knowledge_point": "modal_verbs_speculation",
       "difficulty": 3,
-      "stem": "—Do you know ______ he will come to the party tomorrow?\n—I'm not sure. He ______ be busy with his study.",
+      "stem": "—Is that Mr. Wang knocking at the door?\n—It ______ be him. He has gone to Beijing on business.",
       "options": [
-        "A. if; must",
-        "B. whether; might",
-        "C. that; can't",
-        "D. when; should"
+        "A. mustn't",
+        "B. might not",
+        "C. can't",
+        "D. shouldn't"
       ],
-      "correct_answer": "B",
-      "explanation": "第一空考查宾语从句连接词，由答句'I'm not sure'可知表示'是否'，if和whether都可以，但第二空考查情态动词表推测，must表示肯定推测'一定'，can't表示否定推测'不可能'，might表示不确定'可能'。由'I'm not sure'可知是不确定推测，用might。whether常与or not搭配，也可单独使用表示'是否'。",
+      "correct_answer": "C",
+      "explanation": "选C。根据'He has gone to Beijing'（他去北京出差了，还没回来），可推断'不可能是他'。can't表示'不可能'（否定推测），mustn't表示'禁止'（不表推测），might not表示'可能不'（把握不大），shouldn't表示'不应该'。解题技巧：推测时must表肯定'一定'，can't表否定'不可能'，might/may表不确定'可能'；mustn't易混淆，记住它只表'禁止'，不表'不可能'。",
       "label": "语法题"
     },
     {
@@ -71,286 +71,286 @@
       "type": "vocabulary",
       "knowledge_point": "phrasal_verbs",
       "difficulty": 1,
-      "stem": "If you meet a new word while reading, you can ______ in the dictionary.",
+      "stem": "Please ______ the TV when you finish watching the program. We should save electricity.",
       "options": [
-        "A. look it up",
-        "B. look up it",
-        "C. look for it",
-        "D. look it over"
+        "A. turn on",
+        "B. turn off",
+        "C. turn up",
+        "D. turn down"
       ],
-      "correct_answer": "A",
-      "explanation": "本题考查动词短语辨析。look up表示'查阅（词典、资料）'，代词it要放在中间，即look it up；look for表示'寻找'；look over表示'检查'。句意：阅读时遇到生词，你可以在词典里查阅它。",
+      "correct_answer": "B",
+      "explanation": "选B。根据'节约用电'的语境，看完节目应该'关掉'电视，turn off表示关闭。turn on打开；turn up调大（音量）；turn down调小/拒绝，均不符合语境。解题技巧：记住turn短语的核心含义——on/off表开关，up/down表大小/高低。",
       "label": "词汇题"
     },
     {
       "id": 6,
       "type": "vocabulary",
-      "knowledge_point": "word_formation_suffix",
+      "knowledge_point": "prefixes_un_dis",
       "difficulty": 2,
-      "stem": "It is ______ to reuse shopping bags instead of using plastic ones.",
+      "stem": "It is ______ that such a little boy can speak three foreign languages fluently.",
       "options": [
-        "A. help",
-        "B. helpful",
-        "C. helpless",
-        "D. helping"
+        "A. believable",
+        "B. unbelievable",
+        "C. believed",
+        "D. disbelieved"
       ],
       "correct_answer": "B",
-      "explanation": "本题考查词性转换。系动词is后接形容词作表语；helpful表示'有帮助的，有益的'；helpless表示'无助的'。句意：重复使用购物袋而不是用塑料袋是有益的。",
+      "explanation": "选B。句意：这么小的男孩能流利说三门外语，真是'难以置信'。unbelievable=un（不）+believable（可信的），表示'难以置信的'。believable可信的，与句意相反；believed是动词过去分词；disbelieved表示'不相信'（动作），此处需形容词作表语。解题技巧：un-常加在形容词前表否定，如unhappy, unusual；dis-常加在动词前，如dislike, disagree。",
       "label": "词汇题"
     },
     {
       "id": 7,
       "type": "vocabulary",
-      "knowledge_point": "word_meaning_context",
+      "knowledge_point": "word_formation",
       "difficulty": 2,
-      "stem": "We need to ______ some new ideas to solve this environmental problem.",
+      "stem": "We should take action to stop the ______ of the environment around us.",
       "options": [
-        "A. come up with",
-        "B. come up",
-        "C. come out",
-        "D. come on"
+        "A. pollute",
+        "B. polluted",
+        "C. polluting",
+        "D. pollution"
       ],
-      "correct_answer": "A",
-      "explanation": "本题考查短语动词辨析。come up with表示'想出（主意、办法）'；come up表示'走近，被提出'；come out表示'出版，出现'；come on表示'加油，快点'。由宾语'ideas'可知应选come up with。",
+      "correct_answer": "D",
+      "explanation": "选D。定冠词the后需接名词，pollution（污染）是名词。pollute是动词；polluted是形容词或过去分词；polluting是现在分词。解题技巧：注意词性转换后缀——动词pollute→名词pollution（去e加ion），protect→protection，invent→invention；形容词后缀-ful（helpful），-less（careless）。",
       "label": "词汇题"
     },
     {
       "id": 8,
       "type": "cloze",
-      "knowledge_point": "cloze_context",
+      "knowledge_point": "cloze_general",
       "difficulty": 2,
-      "group": "cloze_1",
-      "group_passage": "Last month, our school started a special project called \"Green Campus Garden\". The teachers wanted to teach us about environmental protection  (8) practical skills. We were divided into small groups, and each group got a small piece of land to  (9) .\n\nAt first, I thought it would be easy, but I was wrong. We had to learn how to prepare the soil and choose the right vegetables for the  (10) season. My group decided to grow tomatoes and carrots. We worked hard every day after school, watering the plants and removing weeds.\n\nThe most exciting moment came three weeks later when we saw the first green leaves  (11) from the soil. Everyone cheered loudly. Through this project, we not only learned gardening skills but also understood the  (12) of patience and teamwork.",
       "stem": "(8)______",
       "options": [
-        "A. with",
-        "B. through",
-        "C. across",
-        "D. by"
+        "A. easy",
+        "B. difficult",
+        "C. interesting",
+        "D. boring"
       ],
       "correct_answer": "B",
-      "explanation": "考查介词辨析。through表示'通过（某种方式）'，强调通过某种方法或过程；with表示'用（工具）'；across表示'穿过（平面）'；by表示'通过（手段）'或'被'。句意：老师们想通过实践技能教我们环境保护。through practical skills表示'通过实践技能这种方式'。",
-      "label": "完形填空"
+      "label": "完形填空",
+      "group": "cloze_1",
+      "group_passage": "Last month, our school started an environmental protection project. All students were asked to take part in activities that could help make our campus greener.\n\nThe first step was to reduce waste. We set up different bins for recycling. At first, many students found it (8)______ to remember which bin to use. But after two weeks, it became a habit. The student who (9)______ up with the most creative recycling idea was given a prize. His idea was to use old bottles as flower pots.\n\nNext, we focused on saving energy. The lights in the classrooms are now turned off automatically when no one is there. This simple change has saved a lot of electricity. Teachers told us that if everyone (10)______ small actions, we could make a big difference.\n\nThe project has changed the way we think about waste. We now understand that protecting the environment is not just the government's job. It is (11)______ responsibility. Even small efforts like bringing reusable bags to school can help reduce plastic waste.\n\nLooking back, I feel proud of what we have achieved. The project has not only improved our school environment but also taught us important lessons about taking care of our planet. I hope more schools will (12)______ similar programs in the future.",
+      "explanation": "选B。根据下文'But after two weeks, it became a habit'（但两周后成了习惯）的转折关系，可推断起初觉得'困难'（difficult）。easy与句意相反；interesting有趣的和boring无聊的与上下文逻辑不符。解题技巧：完形填空注意逻辑关系词，but/however表转折，and/so表因果或顺承。"
     },
     {
       "id": 9,
       "type": "cloze",
-      "knowledge_point": "cloze_collocation",
-      "difficulty": 1,
-      "group": "cloze_1",
-      "group_passage": "Last month, our school started a special project called \"Green Campus Garden\". The teachers wanted to teach us about environmental protection  (8) practical skills. We were divided into small groups, and each group got a small piece of land to  (9) .\n\nAt first, I thought it would be easy, but I was wrong. We had to learn how to prepare the soil and choose the right vegetables for the  (10) season. My group decided to grow tomatoes and carrots. We worked hard every day after school, watering the plants and removing weeds.\n\nThe most exciting moment came three weeks later when we saw the first green leaves  (11) from the soil. Everyone cheered loudly. Through this project, we not only learned gardening skills but also understood the  (12) of patience and teamwork.",
+      "knowledge_point": "cloze_general",
+      "difficulty": 2,
       "stem": "(9)______",
       "options": [
-        "A. look after",
-        "B. look for",
-        "C. look at",
-        "D. look up"
+        "A. came",
+        "B. caught",
+        "C. kept",
+        "D. made"
       ],
       "correct_answer": "A",
-      "explanation": "考查动词短语辨析。look after表示'照顾，照料'；look for表示'寻找'；look at表示'看'；look up表示'查阅'。根据上下文，每组得到一块地应该是要'照料'它，种植蔬菜需要照顾，因此选look after。",
-      "label": "完形填空"
+      "label": "完形填空",
+      "group": "cloze_1",
+      "group_passage": "Last month, our school started an environmental protection project. All students were asked to take part in activities that could help make our campus greener.\n\nThe first step was to reduce waste. We set up different bins for recycling. At first, many students found it (8)______ to remember which bin to use. But after two weeks, it became a habit. The student who (9)______ up with the most creative recycling idea was given a prize. His idea was to use old bottles as flower pots.\n\nNext, we focused on saving energy. The lights in the classrooms are now turned off automatically when no one is there. This simple change has saved a lot of electricity. Teachers told us that if everyone (10)______ small actions, we could make a big difference.\n\nThe project has changed the way we think about waste. We now understand that protecting the environment is not just the government's job. It is (11)______ responsibility. Even small efforts like bringing reusable bags to school can help reduce plastic waste.\n\nLooking back, I feel proud of what we have achieved. The project has not only improved our school environment but also taught us important lessons about taking care of our planet. I hope more schools will (12)______ similar programs in the future.",
+      "explanation": "选A。固定搭配come up with表示'想出（主意、办法）'。catch up with赶上；keep up with跟上；make up with与...和解，均不符合'想出创意'的语境。解题技巧：积累动词短语——come up with ideas, catch up with classmates, keep up with the times。"
     },
     {
       "id": 10,
       "type": "cloze",
-      "knowledge_point": "cloze_logic",
-      "difficulty": 2,
-      "group": "cloze_1",
-      "group_passage": "Last month, our school started a special project called \"Green Campus Garden\". The teachers wanted to teach us about environmental protection  (8) practical skills. We were divided into small groups, and each group got a small piece of land to  (9) .\n\nAt first, I thought it would be easy, but I was wrong. We had to learn how to prepare the soil and choose the right vegetables for the  (10) season. My group decided to grow tomatoes and carrots. We worked hard every day after school, watering the plants and removing weeds.\n\nThe most exciting moment came three weeks later when we saw the first green leaves  (11) from the soil. Everyone cheered loudly. Through this project, we not only learned gardening skills but also understood the  (12) of patience and teamwork.",
+      "knowledge_point": "cloze_general",
+      "difficulty": 1,
       "stem": "(10)______",
       "options": [
-        "A. last",
-        "B. next",
-        "C. right",
-        "D. past"
+        "A. takes",
+        "B. took",
+        "C. is taking",
+        "D. has taken"
       ],
-      "correct_answer": "C",
-      "explanation": "考查形容词辨析。right表示'合适的，恰当的'；last表示'上一个的'；next表示'下一个的'；past表示'过去的'。句意：我们不得不学习如何准备土壤以及为合适的季节选择合适的蔬菜。right season表示'合适的季节'，符合种植常识。",
-      "label": "完形填空"
+      "correct_answer": "A",
+      "label": "完形填空",
+      "group": "cloze_1",
+      "group_passage": "Last month, our school started an environmental protection project. All students were asked to take part in activities that could help make our campus greener.\n\nThe first step was to reduce waste. We set up different bins for recycling. At first, many students found it (8)______ to remember which bin to use. But after two weeks, it became a habit. The student who (9)______ up with the most creative recycling idea was given a prize. His idea was to use old bottles as flower pots.\n\nNext, we focused on saving energy. The lights in the classrooms are now turned off automatically when no one is there. This simple change has saved a lot of electricity. Teachers told us that if everyone (10)______ small actions, we could make a big difference.\n\nThe project has changed the way we think about waste. We now understand that protecting the environment is not just the government's job. It is (11)______ responsibility. Even small efforts like bringing reusable bags to school can help reduce plastic waste.\n\nLooking back, I feel proud of what we have achieved. The project has not only improved our school environment but also taught us important lessons about taking care of our planet. I hope more schools will (12)______ similar programs in the future.",
+      "explanation": "选A。if引导的条件状语从句，主句含情态动词could，从句用一般现在时表将来（主将从现原则）。everyone作主语，谓语用第三人称单数takes。解题技巧：if条件句时态口诀——'主将从现'（主句将来时/情态动词，从句现在时），'主过从过'（主句过去时，从句过去时）。"
     },
     {
       "id": 11,
       "type": "cloze",
-      "knowledge_point": "cloze_context",
+      "knowledge_point": "cloze_general",
       "difficulty": 2,
-      "group": "cloze_1",
-      "group_passage": "Last month, our school started a special project called \"Green Campus Garden\". The teachers wanted to teach us about environmental protection  (8) practical skills. We were divided into small groups, and each group got a small piece of land to  (9) .\n\nAt first, I thought it would be easy, but I was wrong. We had to learn how to prepare the soil and choose the right vegetables for the  (10) season. My group decided to grow tomatoes and carrots. We worked hard every day after school, watering the plants and removing weeds.\n\nThe most exciting moment came three weeks later when we saw the first green leaves  (11) from the soil. Everyone cheered loudly. Through this project, we not only learned gardening skills but also understood the  (12) of patience and teamwork.",
       "stem": "(11)______",
       "options": [
-        "A. fall",
-        "B. run",
-        "C. come out",
-        "D. give up"
+        "A. his",
+        "B. her",
+        "C. our",
+        "D. their"
       ],
       "correct_answer": "C",
-      "explanation": "考查动词短语辨析。come out表示'出现，长出'；fall表示'落下'；run表示'跑'；give up表示'放弃'。句意：最令人兴奋的时刻是三周后，当我们看到第一片绿叶从土壤中长出来时。come out from the soil表示'从土壤中长出来'，符合植物生长的语境。",
-      "label": "完形填空"
+      "explanation": "选C。根据上文'We now understand'及下文'Even small efforts like bringing reusable bags...'可知，此处指'我们的'责任，与we保持人称一致。his/her指代单数；their指代复数第三人称，均不符合语境。解题技巧：完形填空注意代词指代一致性，看前后句主语是第几人称。",
+      "label": "完形填空",
+      "group": "cloze_1",
+      "group_passage": "Last month, our school started an environmental protection project. All students were asked to take part in activities that could help make our campus greener.\n\nThe first step was to reduce waste. We set up different bins for recycling. At first, many students found it (8)______ to remember which bin to use. But after two weeks, it became a habit. The student who (9)______ up with the most creative recycling idea was given a prize. His idea was to use old bottles as flower pots.\n\nNext, we focused on saving energy. The lights in the classrooms are now turned off automatically when no one is there. This simple change has saved a lot of electricity. Teachers told us that if everyone (10)______ small actions, we could make a big difference.\n\nThe project has changed the way we think about waste. We now understand that protecting the environment is not just the government's job. It is (11)______ responsibility. Even small efforts like bringing reusable bags to school can help reduce plastic waste.\n\nLooking back, I feel proud of what we have achieved. The project has not only improved our school environment but also taught us important lessons about taking care of our planet. I hope more schools will (12)______ similar programs in the future."
     },
     {
       "id": 12,
       "type": "cloze",
       "knowledge_point": "cloze_general",
       "difficulty": 1,
-      "group": "cloze_1",
-      "group_passage": "Last month, our school started a special project called \"Green Campus Garden\". The teachers wanted to teach us about environmental protection  (8) practical skills. We were divided into small groups, and each group got a small piece of land to  (9) .\n\nAt first, I thought it would be easy, but I was wrong. We had to learn how to prepare the soil and choose the right vegetables for the  (10) season. My group decided to grow tomatoes and carrots. We worked hard every day after school, watering the plants and removing weeds.\n\nThe most exciting moment came three weeks later when we saw the first green leaves  (11) from the soil. Everyone cheered loudly. Through this project, we not only learned gardening skills but also understood the  (12) of patience and teamwork.",
       "stem": "(12)______",
       "options": [
-        "A. price",
-        "B. cost",
-        "C. value",
-        "D. money"
+        "A. start",
+        "B. stop",
+        "C. refuse",
+        "D. finish"
       ],
-      "correct_answer": "C",
-      "explanation": "考查名词辨析。value表示'价值'；price表示'价格'；cost表示'成本，花费'；money表示'金钱'。句意：通过这个项目，我们不仅学到了园艺技能，还理解了耐心和团队合作的价值。the value of...表示'……的价值'，是固定搭配。",
-      "label": "完形填空"
+      "correct_answer": "A",
+      "explanation": "选A。根据语境'希望更多学校...类似项目'，应该是'开展/启动'（start）。stop停止、refuse拒绝、finish完成，均与作者积极支持环保项目的态度不符。解题技巧：通过上下文情感线索判断，作者对项目持积极态度，故选积极意义的词汇。",
+      "label": "完形填空",
+      "group": "cloze_1",
+      "group_passage": "Last month, our school started an environmental protection project. All students were asked to take part in activities that could help make our campus greener.\n\nThe first step was to reduce waste. We set up different bins for recycling. At first, many students found it (8)______ to remember which bin to use. But after two weeks, it became a habit. The student who (9)______ up with the most creative recycling idea was given a prize. His idea was to use old bottles as flower pots.\n\nNext, we focused on saving energy. The lights in the classrooms are now turned off automatically when no one is there. This simple change has saved a lot of electricity. Teachers told us that if everyone (10)______ small actions, we could make a big difference.\n\nThe project has changed the way we think about waste. We now understand that protecting the environment is not just the government's job. It is (11)______ responsibility. Even small efforts like bringing reusable bags to school can help reduce plastic waste.\n\nLooking back, I feel proud of what we have achieved. The project has not only improved our school environment but also taught us important lessons about taking care of our planet. I hope more schools will (12)______ similar programs in the future."
     },
     {
       "id": 13,
       "type": "reading",
       "knowledge_point": "detail",
-      "difficulty": 1,
-      "group": "reading_1",
-      "group_passage": "Plastic pollution has become one of the biggest environmental problems in the world. Every year, about 8 million tons of plastic waste flows into our oceans. This causes serious harm to sea animals. Many turtles, fish and birds mistake plastic bags for food and eat them by accident.\n\nTo solve this problem, scientists have developed new ways to recycle plastic. One creative method is turning plastic bottles into fabric (织物) for making clothes. Another idea is using special bacteria (细菌) that can break down plastic in months instead of hundreds of years. Some cities have also started programs to encourage people to sort their rubbish properly.\n\nHowever, recycling alone is not enough. We should also reduce the use of single-use plastics like straws and cups. Remember, every small action counts. When you choose to bring your own shopping bag or water bottle, you are helping to protect our planet.",
-      "stem": "According to the passage, how much plastic waste goes into the oceans every year?",
+      "difficulty": 2,
+      "stem": "How many hours do teenagers spend on screens daily according to the study?",
       "options": [
-        "A. About 8 thousand tons.",
-        "B. About 8 million tons.",
-        "C. About 18 million tons.",
-        "D. About 80 million tons."
+        "A. About five hours.",
+        "B. About six hours.",
+        "C. About seven hours.",
+        "D. About eight hours."
       ],
-      "correct_answer": "B",
-      "explanation": "细节理解题。根据文章第一段第二句'Every year, about 8 million tons of plastic waste flows into our oceans.'可知，每年约有800万吨塑料垃圾流入海洋。注意million（百万）和thousand（千）的区别，以及数字8的准确读取。",
-      "label": "阅读-细节理解"
+      "correct_answer": "C",
+      "explanation": "选C。根据文章第一段'A recent study shows that teenagers aged 13-18 use electronic devices for about seven hours daily'可知，研究表明青少年每天使用电子设备约7小时。解题技巧：细节理解题采用'关键词定位法'，在题干中找study/hours等关键词，快速回原文定位具体数字。",
+      "label": "阅读-细节理解",
+      "group": "reading_1",
+      "group_passage": "Many teenagers today spend hours looking at screens every day. A recent study shows that teenagers aged 13-18 use electronic devices for about seven hours daily. This includes time spent on smartphones, computers, and televisions.\n\nWhile technology brings convenience, excessive screen time can cause problems. Dr. Li, a researcher from Shenzhen University, explains that too much screen time affects sleep quality. The blue light from screens makes it harder for people to fall asleep. Moreover, sitting for long periods without exercise can lead to health issues such as back pain and poor eyesight.\n\nHowever, not all screen time is harmful. Using devices for educational purposes or keeping in touch with family members can be beneficial. The key is to find a balance. Parents should encourage children to take regular breaks and engage in outdoor activities.\n\nSome schools have started to take action. They limit the use of mobile phones during school hours and organize more sports activities after class. These measures have received positive feedback from both students and teachers.\n\nExperts suggest the '20-20-20' rule: every 20 minutes, look at something 20 feet away for at least 20 seconds. This simple habit can help reduce eye strain (视疲劳). Remember, technology is a tool. How we use it determines whether it helps or hurts us."
     },
     {
       "id": 14,
       "type": "reading",
-      "knowledge_point": "word_guessing",
+      "knowledge_point": "word_guessing_context",
       "difficulty": 2,
-      "group": "reading_1",
-      "group_passage": "Plastic pollution has become one of the biggest environmental problems in the world. Every year, about 8 million tons of plastic waste flows into our oceans. This causes serious harm to sea animals. Many turtles, fish and birds mistake plastic bags for food and eat them by accident.\n\nTo solve this problem, scientists have developed new ways to recycle plastic. One creative method is turning plastic bottles into fabric (织物) for making clothes. Another idea is using special bacteria (细菌) that can break down plastic in months instead of hundreds of years. Some cities have also started programs to encourage people to sort their rubbish properly.\n\nHowever, recycling alone is not enough. We should also reduce the use of single-use plastics like straws and cups. Remember, every small action counts. When you choose to bring your own shopping bag or water bottle, you are helping to protect our planet.",
-      "stem": "The underlined word 'break down' in Paragraph 2 probably means ______.",
+      "stem": "The underlined word 'excessive' in Paragraph 2 probably means ______.",
       "options": [
-        "A. 打破",
-        "B. 分解",
-        "C. 损坏",
-        "D. 倒塌"
+        "A. proper",
+        "B. too much",
+        "C. limited",
+        "D. necessary"
       ],
       "correct_answer": "B",
-      "explanation": "词义猜测题。根据上下文，科学家使用特殊的细菌来处理塑料，in months instead of hundreds of years（在数月内而不是数百年内），说明细菌能快速将塑料'分解'。break down在生物学语境中常表示'分解（物质）'。",
-      "label": "阅读-词义猜测"
+      "explanation": "选B。根据上下文'excessive screen time can cause problems'及'too much screen time affects sleep quality'，可知excessive与too much同义，表示'过多的'。proper适当的、limited有限的、necessary必要的，均与句意相反或无关。解题技巧：词义猜测题利用'同义复现'原则，下文too much是对excessive的解释；也可根据前缀ex-（出，外）+cess（走）+ive（形容词后缀）→走出界限→过多的。",
+      "label": "阅读-词义猜测",
+      "group": "reading_1",
+      "group_passage": "Many teenagers today spend hours looking at screens every day. A recent study shows that teenagers aged 13-18 use electronic devices for about seven hours daily. This includes time spent on smartphones, computers, and televisions.\n\nWhile technology brings convenience, excessive screen time can cause problems. Dr. Li, a researcher from Shenzhen University, explains that too much screen time affects sleep quality. The blue light from screens makes it harder for people to fall asleep. Moreover, sitting for long periods without exercise can lead to health issues such as back pain and poor eyesight.\n\nHowever, not all screen time is harmful. Using devices for educational purposes or keeping in touch with family members can be beneficial. The key is to find a balance. Parents should encourage children to take regular breaks and engage in outdoor activities.\n\nSome schools have started to take action. They limit the use of mobile phones during school hours and organize more sports activities after class. These measures have received positive feedback from both students and teachers.\n\nExperts suggest the '20-20-20' rule: every 20 minutes, look at something 20 feet away for at least 20 seconds. This simple habit can help reduce eye strain (视疲劳). Remember, technology is a tool. How we use it determines whether it helps or hurts us."
     },
     {
       "id": 15,
       "type": "reading",
       "knowledge_point": "inference",
-      "difficulty": 2,
-      "group": "reading_1",
-      "group_passage": "Plastic pollution has become one of the biggest environmental problems in the world. Every year, about 8 million tons of plastic waste flows into our oceans. This causes serious harm to sea animals. Many turtles, fish and birds mistake plastic bags for food and eat them by accident.\n\nTo solve this problem, scientists have developed new ways to recycle plastic. One creative method is turning plastic bottles into fabric (织物) for making clothes. Another idea is using special bacteria (细菌) that can break down plastic in months instead of hundreds of years. Some cities have also started programs to encourage people to sort their rubbish properly.\n\nHowever, recycling alone is not enough. We should also reduce the use of single-use plastics like straws and cups. Remember, every small action counts. When you choose to bring your own shopping bag or water bottle, you are helping to protect our planet.",
-      "stem": "What can we infer from the last paragraph?",
+      "difficulty": 3,
+      "stem": "What can we infer from the passage?",
       "options": [
-        "A. We should stop using all kinds of plastics immediately.",
-        "B. Bringing our own bags is the only way to help the environment.",
-        "C. Both recycling and reducing plastic use are important.",
-        "D. Single-use plastics are more expensive than reusable ones."
+        "A. All screen time is bad for teenagers.",
+        "B. Schools should ban all electronic devices completely.",
+        "C. Using technology wisely is important for teenagers.",
+        "D. Teenagers should never use smartphones at home."
       ],
       "correct_answer": "C",
-      "explanation": "推理判断题。最后一段第一句'However, recycling alone is not enough. We should also reduce the use of single-use plastics...'说明仅靠回收是不够的，我们还需要减少使用一次性塑料，因此推断出回收和减少使用都很重要。A项'立即停止所有塑料'过于绝对；B项'唯一方式'错误；D项'价格比较'文中未提及。",
-      "label": "阅读-推理判断"
+      "explanation": "选C。根据第三段'However, not all screen time is harmful...The key is to find a balance'及最后一段'How we use it determines whether it helps or hurts us'可推断，明智地使用科技很重要。A与'not all screen time is harmful'矛盾；B与'schools limit...during school hours'（限制而非禁止）不符；D过于绝对，文中未提及。解题技巧：推理题要基于原文但不停留在表面，排除绝对化选项（all/never/completely），选择概括性、合理的结论。",
+      "label": "阅读-推理判断",
+      "group": "reading_1",
+      "group_passage": "Many teenagers today spend hours looking at screens every day. A recent study shows that teenagers aged 13-18 use electronic devices for about seven hours daily. This includes time spent on smartphones, computers, and televisions.\n\nWhile technology brings convenience, excessive screen time can cause problems. Dr. Li, a researcher from Shenzhen University, explains that too much screen time affects sleep quality. The blue light from screens makes it harder for people to fall asleep. Moreover, sitting for long periods without exercise can lead to health issues such as back pain and poor eyesight.\n\nHowever, not all screen time is harmful. Using devices for educational purposes or keeping in touch with family members can be beneficial. The key is to find a balance. Parents should encourage children to take regular breaks and engage in outdoor activities.\n\nSome schools have started to take action. They limit the use of mobile phones during school hours and organize more sports activities after class. These measures have received positive feedback from both students and teachers.\n\nExperts suggest the '20-20-20' rule: every 20 minutes, look at something 20 feet away for at least 20 seconds. This simple habit can help reduce eye strain (视疲劳). Remember, technology is a tool. How we use it determines whether it helps or hurts us."
     },
     {
       "id": 16,
       "type": "reading",
-      "knowledge_point": "main_idea",
+      "knowledge_point": "main_idea_title",
       "difficulty": 3,
-      "group": "reading_1",
-      "group_passage": "Plastic pollution has become one of the biggest environmental problems in the world. Every year, about 8 million tons of plastic waste flows into our oceans. This causes serious harm to sea animals. Many turtles, fish and birds mistake plastic bags for food and eat them by accident.\n\nTo solve this problem, scientists have developed new ways to recycle plastic. One creative method is turning plastic bottles into fabric (织物) for making clothes. Another idea is using special bacteria (细菌) that can break down plastic in months instead of hundreds of years. Some cities have also started programs to encourage people to sort their rubbish properly.\n\nHowever, recycling alone is not enough. We should also reduce the use of single-use plastics like straws and cups. Remember, every small action counts. When you choose to bring your own shopping bag or water bottle, you are helping to protect our planet.",
       "stem": "What is the best title for this passage?",
       "options": [
-        "A. The History of Plastic",
-        "B. How to Make Clothes from Plastic",
-        "C. Plastic Pollution and Solutions",
-        "D. Sea Animals in Danger"
+        "A. The History of Electronic Devices",
+        "B. How to Make Friends Online",
+        "C. Teenagers and Healthy Screen Time Habits",
+        "D. The Importance of Outdoor Activities"
       ],
       "correct_answer": "C",
-      "explanation": "主旨大意题。文章第一段讲塑料污染问题，第二段讲回收解决方案，第三段讲减少使用。因此最佳标题应涵盖'污染'和'解决方案'两方面。A项'塑料历史'未提及；B项'用塑料做衣服'只是细节；D项'濒危海洋动物'只是第一段内容。C项全面概括了文章主旨。",
-      "label": "阅读-主旨大意"
+      "explanation": "选C。文章主要讨论青少年使用电子屏幕时间的问题，分析了过度使用的危害，也指出合理使用的好处，并给出建议，核心是'健康的屏幕使用习惯'。A电子设备的历史文中未提；B网上交友只是细节；D户外活动是建议的一部分，非主旨。解题技巧：主旨题选择能覆盖全文内容的选项，避免以偏概全（细节作标题）或无中生有（文中未提及）。",
+      "label": "阅读-主旨大意",
+      "group": "reading_1",
+      "group_passage": "Many teenagers today spend hours looking at screens every day. A recent study shows that teenagers aged 13-18 use electronic devices for about seven hours daily. This includes time spent on smartphones, computers, and televisions.\n\nWhile technology brings convenience, excessive screen time can cause problems. Dr. Li, a researcher from Shenzhen University, explains that too much screen time affects sleep quality. The blue light from screens makes it harder for people to fall asleep. Moreover, sitting for long periods without exercise can lead to health issues such as back pain and poor eyesight.\n\nHowever, not all screen time is harmful. Using devices for educational purposes or keeping in touch with family members can be beneficial. The key is to find a balance. Parents should encourage children to take regular breaks and engage in outdoor activities.\n\nSome schools have started to take action. They limit the use of mobile phones during school hours and organize more sports activities after class. These measures have received positive feedback from both students and teachers.\n\nExperts suggest the '20-20-20' rule: every 20 minutes, look at something 20 feet away for at least 20 seconds. This simple habit can help reduce eye strain (视疲劳). Remember, technology is a tool. How we use it determines whether it helps or hurts us."
     },
     {
       "id": 17,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "group": "fill_1",
-      "group_passage": "Many students find it hard to balance their study and hobbies. They often feel stressed when they cannot finish homework on time because of hobby activities.  (17) Here are some useful tips.\n\nFirst, make a weekly schedule. Write down all your school tasks and hobby time in a planner.  (18) This way, you won't forget important deadlines.\n\nSecond, learn to say no. If you have an exam coming next week, you might need to skip one hobby class.  (19) Your hobbies will still be there after the exam.\n\n  (20) Even 15 minutes of reading or drawing can help you relax. Remember, hobbies are not a waste of time but a good way to refresh your mind.",
       "stem": "(17)______",
       "options": [
-        "A. However, never give up your hobbies completely.",
-        "B. Then, check your plan every day.",
-        "C. As a result, they give up their hobbies.",
-        "D. So, how can we solve this problem?",
-        "E. In addition, try to combine study with hobbies."
+        "A. However, cooking at home is much cheaper.",
+        "B. It is also a great way to show your love.",
+        "C. There are several reasons why teenagers should learn to cook.",
+        "D. Besides, you can control the amount of salt and sugar.",
+        "E. On the other hand, it takes a lot of time to learn."
       ],
-      "correct_answer": "D",
-      "explanation": "考查段落衔接。前一句提出学生难以平衡学习和爱好、感到压力的问题，后一句'Here are some useful tips'引出解决方案，因此此处需要承上启下的过渡句，提出问题如何解决的问句。D项'那么，我们如何解决这个问题呢？'符合逻辑。",
-      "label": "短文填空"
+      "correct_answer": "C",
+      "explanation": "选C。此处位于段首，下文用First...Second...Finally列举原因，故此处应填总起句'有几个原因说明青少年应该学做饭'。A讲省钱，D讲控制盐糖，均为具体原因，应在First/Second后；B讲表达爱，是总结句；E讲缺点，与下文积极论述不符。解题技巧：选句填空注意'总分结构'，段首常放主题句，段中放过渡句，段尾放总结句。",
+      "label": "短文填空",
+      "group": "fill_1",
+      "group_passage": "Learning to cook is an important life skill. Many teenagers depend on their parents for meals, but knowing how to prepare simple dishes can be very useful. (17)______\n\nFirst, cooking helps you eat healthier. When you cook at home, you know exactly what ingredients (原料) are in your food. (18)______ You can choose fresh vegetables and less oil, which is good for your body.\n\nSecond, cooking saves money. Eating out or ordering food delivery is often expensive. (19)______ A simple meal at home might cost only one-third of the restaurant price.\n\nFinally, cooking can bring joy to you and your family. Imagine the smile on your parents' faces when you serve them breakfast on Sunday morning. (20)______\n\nStart with easy recipes like fried eggs or tomato soup. As you practice more, you will become more confident in the kitchen."
     },
     {
       "id": 18,
       "type": "fill",
       "knowledge_point": "sentence_fill",
-      "difficulty": 1,
-      "group": "fill_1",
-      "group_passage": "Many students find it hard to balance their study and hobbies. They often feel stressed when they cannot finish homework on time because of hobby activities.  (17) Here are some useful tips.\n\nFirst, make a weekly schedule. Write down all your school tasks and hobby time in a planner.  (18) This way, you won't forget important deadlines.\n\nSecond, learn to say no. If you have an exam coming next week, you might need to skip one hobby class.  (19) Your hobbies will still be there after the exam.\n\n  (20) Even 15 minutes of reading or drawing can help you relax. Remember, hobbies are not a waste of time but a good way to refresh your mind.",
+      "difficulty": 2,
       "stem": "(18)______",
       "options": [
-        "A. However, never give up your hobbies completely.",
-        "B. Then, check your plan every day.",
-        "C. As a result, they give up their hobbies.",
-        "D. So, how can we solve this problem?",
-        "E. In addition, try to combine study with hobbies."
+        "A. However, cooking at home is much cheaper.",
+        "B. It is also a great way to show your love.",
+        "C. There are several reasons why teenagers should learn the cooking.",
+        "D. Besides, you can control the amount of salt and sugar.",
+        "E. On the other hand, it takes a lot of time to learn."
       ],
-      "correct_answer": "B",
-      "explanation": "考查逻辑关系。前一句讲'在计划本中写下所有学校任务和爱好时间'，后一句讲'这样你就不会忘记重要的截止日期'，因此此处应填入与查看计划相关的句子。B项'然后，每天检查你的计划'符合上下文逻辑，then表示时间顺序。",
-      "label": "短文填空"
+      "correct_answer": "D",
+      "explanation": "选D。前文讲'知道自己吃什么原料'，后文讲'选新鲜蔬菜和少油'，都是关于健康饮食，D项'此外，你能控制盐和糖的量'承接上文，besides表示递进。A讲价格（属于Second部分）；B是总结句；C是总起句；E讲缺点，均不符。解题技巧：注意连接词逻辑——besides/in addition/furthermore表递进，however/nevertheless表转折，therefore/as a result表结果。",
+      "label": "短文填空",
+      "group": "fill_1",
+      "group_passage": "Learning to cook is an important life skill. Many teenagers depend on their parents for meals, but knowing how to prepare simple dishes can be very useful. (17)______\n\nFirst, cooking helps you eat healthier. When you cook at home, you know exactly what ingredients (原料) are in your food. (18)______ You can choose fresh vegetables and less oil, which is good for your body.\n\nSecond, cooking saves money. Eating out or ordering food delivery is often expensive. (19)______ A simple meal at home might cost only one-third of the restaurant price.\n\nFinally, cooking can bring joy to you and your family. Imagine the smile on your parents' faces when you serve them breakfast on Sunday morning. (20)______\n\nStart with easy recipes like fried eggs or tomato soup. As you practice more, you will become more confident in the kitchen."
     },
     {
       "id": 19,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "group": "fill_1",
-      "group_passage": "Many students find it hard to balance their study and hobbies. They often feel stressed when they cannot finish homework on time because of hobby activities.  (17) Here are some useful tips.\n\nFirst, make a weekly schedule. Write down all your school tasks and hobby time in a planner.  (18) This way, you won't forget important deadlines.\n\nSecond, learn to say no. If you have an exam coming next week, you might need to skip one hobby class.  (19) Your hobbies will still be there after the exam.\n\n  (20) Even 15 minutes of reading or drawing can help you relax. Remember, hobbies are not a waste of time but a good way to refresh your mind.",
       "stem": "(19)______",
       "options": [
-        "A. However, never give up your hobbies completely.",
-        "B. Then, check your plan every day.",
-        "C. As a result, they give up their hobbies.",
-        "D. So, how can we solve this problem?",
-        "E. In addition, try to combine study with hobbies."
+        "A. However, cooking at home is much cheaper.",
+        "B. It is also a great way to show your love.",
+        "C. There are several reasons why teenagers should learn the cooking.",
+        "D. Besides, you can control the amount of salt and sugar.",
+        "E. On the other hand, it takes a lot of time to learn."
       ],
       "correct_answer": "A",
-      "explanation": "考查转折关系。前一句讲'如果下周有考试，你可能需要跳过一节爱好课'，后一句讲'考试后你的爱好还会在那里'，因此此处需要表示转折，说明只是暂时跳过而非完全放弃。A项'然而，永远不要完全放弃你的爱好'符合逻辑，however表示转折。",
-      "label": "短文填空"
+      "explanation": "选A。本段主题是Second（省钱），前文讲'出去吃或点外卖贵'，A项'然而，在家做饭便宜得多'形成对比，however表转折对比。B用于情感总结；C是总起；D属于First部分；E讲缺点。解题技巧：注意代词指代和词汇复现——A项cooking at home对应eating out，cheaper对应expensive。",
+      "label": "短文填空",
+      "group": "fill_1",
+      "group_passage": "Learning to cook is an important life skill. Many teenagers depend on their parents for meals, but knowing how to prepare simple dishes can be very useful. (17)______\n\nFirst, cooking helps you eat healthier. When you cook at home, you know exactly what ingredients (原料) are in your food. (18)______ You can choose fresh vegetables and less oil, which is good for your body.\n\nSecond, cooking saves money. Eating out or ordering food delivery is often expensive. (19)______ A simple meal at home might cost only one-third of the restaurant price.\n\nFinally, cooking can bring joy to you and your family. Imagine the smile on your parents' faces when you serve them breakfast on Sunday morning. (20)______\n\nStart with easy recipes like fried eggs or tomato soup. As you practice more, you will become more confident in the kitchen."
     },
     {
       "id": 20,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "group": "fill_1",
-      "group_passage": "Many students find it hard to balance their study and hobbies. They often feel stressed when they cannot finish homework on time because of hobby activities.  (17) Here are some useful tips.\n\nFirst, make a weekly schedule. Write down all your school tasks and hobby time in a planner.  (18) This way, you won't forget important deadlines.\n\nSecond, learn to say no. If you have an exam coming next week, you might need to skip one hobby class.  (19) Your hobbies will still be there after the exam.\n\n  (20) Even 15 minutes of reading or drawing can help you relax. Remember, hobbies are not a waste of time but a good way to refresh your mind.",
       "stem": "(20)______",
       "options": [
-        "A. However, never give up your hobbies completely.",
-        "B. Then, check your plan every day.",
-        "C. As a result, they give up their hobbies.",
-        "D. So, how can we solve this problem?",
-        "E. In addition, try to combine study with hobbies."
+        "A. However, cooking at home is much cheaper.",
+        "B. It is also a great way to show your love.",
+        "C. There are several reasons why teenagers should learn the cooking.",
+        "D. Besides, you can control the amount of salt and sugar.",
+        "E. On the other hand, it takes a lot of time to learn."
       ],
-      "correct_answer": "E",
-      "explanation": "考查递进关系。前面讲了First... Second...，此处应是第三条建议。后一句讲'即使15分钟的阅读或绘画也能帮助你放松'，说明可以利用碎片时间进行爱好活动，即把学习和爱好结合起来。E项'此外，尝试将学习与爱好结合起来'符合逻辑，in addition表示递进，引出第三条建议。",
-      "label": "短文填空"
+      "correct_answer": "B",
+      "explanation": "选B。本段讲做饭给家庭带来快乐，前文'想象父母脸上的笑容'，B项'这也是表达爱的好方式'总结情感意义，also表示补充。A属于Second；C是总起；D属于First；E负面表述不符。解题技巧：段落结尾常出现总结句，用also/in short/therefore等连接，呼应段落主题（joy/love）。",
+      "label": "短文填空",
+      "group": "fill_1",
+      "group_passage": "Learning to cook is an important life skill. Many teenagers depend on their parents for meals, but knowing how to prepare simple dishes can be very useful. (17)______\n\nFirst, cooking helps you eat healthier. When you cook at home, you know exactly what ingredients (原料) are in your food. (18)______ You can choose fresh vegetables and less oil, which is good for your body.\n\nSecond, cooking saves money. Eating out or ordering food delivery is often expensive. (19)______ A simple meal at home might cost only one-third of the restaurant price.\n\nFinally, cooking can bring joy to you and your family. Imagine the smile on your parents' faces when you serve them breakfast on Sunday morning. (20)______\n\nStart with easy recipes like fried eggs or tomato soup. As you practice more, you will become more confident in the kitchen."
     }
   ]
 }
