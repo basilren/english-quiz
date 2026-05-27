@@ -343,6 +343,13 @@
       "total": 20,
       "correct": 17,
       "rate": 85
+    },
+    {
+      "date": "2026-05-27",
+      "session": 1,
+      "total": 20,
+      "correct": 18,
+      "rate": 90
     }
   ],
   "errors": [
@@ -708,6 +715,42 @@
       "correct_answer": "B",
       "student_answer": "D",
       "explanation": "【解析】词义猜测题。根据下文'When teenagers stare at screens for too long...causes dry eyes'可知'excessive screen time'指的是'过长的/过多的'屏幕时间。proper适当的；limited有限的；necessary必要的，均与'导致健康问题'的语境不符。【技巧】词义猜测利用因果关系和举例线索，后文'too long'和具体危害（dry eyes, headaches）提示该词意为'过多的'。"
+    },
+    {
+      "date": "2026-05-27",
+      "session": 1,
+      "question_id": 12,
+      "type": "cloze",
+      "knowledge_point": "cloze_general",
+      "label": "完形填空",
+      "stem": "(12)______",
+      "options": [
+        "A. price",
+        "B. cost",
+        "C. value",
+        "D. money"
+      ],
+      "correct_answer": "C",
+      "student_answer": "A",
+      "explanation": "考查名词辨析。value表示'价值'；price表示'价格'；cost表示'成本，花费'；money表示'金钱'。句意：通过这个项目，我们不仅学到了园艺技能，还理解了耐心和团队合作的价值。the value of...表示'……的价值'，是固定搭配。"
+    },
+    {
+      "date": "2026-05-27",
+      "session": 1,
+      "question_id": 16,
+      "type": "reading",
+      "knowledge_point": "main_idea",
+      "label": "阅读-主旨大意",
+      "stem": "What is the best title for this passage?",
+      "options": [
+        "A. The History of Plastic",
+        "B. How to Make Clothes from Plastic",
+        "C. Plastic Pollution and Solutions",
+        "D. Sea Animals in Danger"
+      ],
+      "correct_answer": "C",
+      "student_answer": "B",
+      "explanation": "主旨大意题。文章第一段讲塑料污染问题，第二段讲回收解决方案，第三段讲减少使用。因此最佳标题应涵盖'污染'和'解决方案'两方面。A项'塑料历史'未提及；B项'用塑料做衣服'只是细节；D项'濒危海洋动物'只是第一段内容。C项全面概括了文章主旨。"
     }
   ]
 }
