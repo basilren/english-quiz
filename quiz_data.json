@@ -1,5 +1,5 @@
 ﻿{
-  "date": "2026-05-28",
+  "date": "2026-05-29",
   "session_number": 1,
   "questions": [
     {
@@ -7,15 +7,15 @@
       "type": "grammar",
       "knowledge_point": "present_perfect_vs_past_simple",
       "difficulty": 2,
-      "stem": "—I ______ the Great Wall twice. It's amazing.\n—When ______ you ______ there last time?",
+      "stem": "I ______ my homework two hours ago, but I ______ it yet.",
       "options": [
-        "A. have visited; did; go",
-        "B. visited; have; gone",
-        "C. have been to; did; went",
-        "D. went to; have; been"
+        "A. finished; didn't finish",
+        "B. finished; haven't finished",
+        "C. have finished; didn't finish",
+        "D. have finished; haven't finished"
       ],
-      "correct_answer": "A",
-      "explanation": "选A。第一空表示'曾经去过两次'，强调经历，用现在完成时have visited；第二空询问过去具体时间，用一般过去时的疑问句结构did...go。B选项时态混乱；C选项have been to后面直接接地点，不需要再加to，且went应改为go（did后接原形）；D选项时态完全错误。解题技巧：看时间标志词——twice/ever/never等用现完，last time/yesterday/ago等用过去时。",
+      "correct_answer": "B",
+      "explanation": "第一空后有'two hours ago'（两小时前），是具体的过去时间状语，必须用一般过去时finished；第二空后有'y et'（尚未），是现在完成时的标志词，且为否定形式haven't finished。解题技巧：看到'ago'选过去时，看到'y et/already/ever/never'选现在完成时。",
       "label": "语法题"
     },
     {
@@ -23,15 +23,15 @@
       "type": "grammar",
       "knowledge_point": "relative_clause_who_which",
       "difficulty": 2,
-      "stem": "The girl ______ is singing on the stage comes from Class 3, Grade 8.",
+      "stem": "The boy ______ is playing basketball over there is my cousin.",
       "options": [
-        "A. which",
-        "B. who",
-        "C. whom",
-        "D. whose"
+        "A. who",
+        "B. which",
+        "C. whose",
+        "D. whom"
       ],
-      "correct_answer": "B",
-      "explanation": "选B。先行词the girl指人，在定语从句中作主语，用关系代词who。which用于指物；whom用于指人但作宾语；whose表示'谁的'，在从句中作定语。解题技巧：指人用who/whom/that，指物用which/that；看从句缺什么成分——缺主语用who/which，缺宾语用whom/which/who（口语中who可代替whom），缺定语用whose。",
+      "correct_answer": "A",
+      "explanation": "先行词是'the boy'指人，排除B（which指物）；定语从句'is playing basketball'缺少主语，且关系词在从句中作主语，用who。whom只能在从句中作宾语，whose作定语表所属关系。口诀：先行词指人用who/that，指物用which/that，从句缺主语用who/which，缺宾语可用whom。",
       "label": "语法题"
     },
     {
@@ -39,31 +39,31 @@
       "type": "grammar",
       "knowledge_point": "passive_voice",
       "difficulty": 1,
-      "stem": "The broken bike ______ by my father tomorrow afternoon.",
+      "stem": "These library books ______ by students tomorrow morning.",
       "options": [
-        "A. will repair",
-        "B. is repaired",
-        "C. will be repaired",
-        "D. was repaired"
+        "A. will return",
+        "B. will be returned",
+        "C. are returning",
+        "D. returned"
       ],
-      "correct_answer": "C",
-      "explanation": "选C。主语the broken bike是'被修理'的对象，需用被动语态；时间标志tomorrow afternoon表示将来，故用一般将来时的被动will be repaired。A是主动语态；B是一般现在时被动；D是一般过去时被动，均不符合时间状语。解题技巧：被动语态基本结构be+done，根据时间确定be的时态——tomorrow用will be，now用is/am/are being，yesterday用was/were。",
+      "correct_answer": "B",
+      "explanation": "时间状语'tomorrow morning'表明用一般将来时；主语'books'与动词'return'是被动关系（书被归还），所以用一般将来时的被动语态will be returned。被动语态结构：be+过去分词，时态通过be的变化体现。",
       "label": "语法题"
     },
     {
       "id": 4,
       "type": "grammar",
-      "knowledge_point": "modal_verbs_speculation",
+      "knowledge_point": "relative_clause_who_which",
       "difficulty": 3,
-      "stem": "—Is that Mr. Wang knocking at the door?\n—It ______ be him. He has gone to Beijing on business.",
+      "stem": "The book ______ cover is red belongs to my sister.",
       "options": [
-        "A. mustn't",
-        "B. might not",
-        "C. can't",
-        "D. shouldn't"
+        "A. which",
+        "B. that",
+        "C. whose",
+        "D. who"
       ],
       "correct_answer": "C",
-      "explanation": "选C。根据'He has gone to Beijing'（他去北京出差了，还没回来），可推断'不可能是他'。can't表示'不可能'（否定推测），mustn't表示'禁止'（不表推测），might not表示'可能不'（把握不大），shouldn't表示'不应该'。解题技巧：推测时must表肯定'一定'，can't表否定'不可能'，might/may表不确定'可能'；mustn't易混淆，记住它只表'禁止'，不表'不可能'。",
+      "explanation": "本题考查定语从句中的所属关系。空格后是'cover'（封面），需要定语修饰，表示'the book's cover'（这本书的封面）。whose在定语从句中作定语，表示'……的'，既可指人也可指物。which和that在从句中作主语或宾语，不能作定语；who指人。解题关键：看到空格后紧跟名词，考虑whose表示所属。",
       "label": "语法题"
     },
     {
@@ -71,47 +71,47 @@
       "type": "vocabulary",
       "knowledge_point": "phrasal_verbs",
       "difficulty": 1,
-      "stem": "Please ______ the TV when you finish watching the program. We should save electricity.",
+      "stem": "If you don't know the word, you can ______ in the dictionary.",
       "options": [
-        "A. turn on",
-        "B. turn off",
-        "C. turn up",
-        "D. turn down"
+        "A. look it up",
+        "B. look up it",
+        "C. find it out",
+        "D. find out it"
       ],
-      "correct_answer": "B",
-      "explanation": "选B。根据'节约用电'的语境，看完节目应该'关掉'电视，turn off表示关闭。turn on打开；turn up调大（音量）；turn down调小/拒绝，均不符合语境。解题技巧：记住turn短语的核心含义——on/off表开关，up/down表大小/高低。",
+      "correct_answer": "A",
+      "explanation": "look up表示'查阅（词典、资料）'，find out表示'查明、发现（事实、真相）'。查单词用look up。代词it要放在look和up中间，名词可放中间或后面（look the word up / look up the word）。口诀：动词+副词短语，代词放中间，名词放两边。",
       "label": "词汇题"
     },
     {
       "id": 6,
       "type": "vocabulary",
-      "knowledge_point": "prefixes_un_dis",
+      "knowledge_point": "word_formation",
       "difficulty": 2,
-      "stem": "It is ______ that such a little boy can speak three foreign languages fluently.",
+      "stem": "The movie is ______. I feel very ______ when watching it.",
       "options": [
-        "A. believable",
-        "B. unbelievable",
-        "C. believed",
-        "D. disbelieved"
+        "A. excited; exciting",
+        "B. exciting; excited",
+        "C. excited; excited",
+        "D. exciting; exciting"
       ],
       "correct_answer": "B",
-      "explanation": "选B。句意：这么小的男孩能流利说三门外语，真是'难以置信'。unbelievable=un（不）+believable（可信的），表示'难以置信的'。believable可信的，与句意相反；believed是动词过去分词；disbelieved表示'不相信'（动作），此处需形容词作表语。解题技巧：un-常加在形容词前表否定，如unhappy, unusual；dis-常加在动词前，如dislike, disagree。",
+      "explanation": "-ing形容词（exciting/boring/interesting）修饰事物，表示'令人……的'；-ed形容词（excited/bored/interested）修饰人，表示'感到……的'。第一空主语是movie（物），用exciting；第二空主语是I（人），用excited。口诀：-ing形容物，-ed形容人。",
       "label": "词汇题"
     },
     {
       "id": 7,
       "type": "vocabulary",
-      "knowledge_point": "word_formation",
+      "knowledge_point": "word_meaning",
       "difficulty": 2,
-      "stem": "We should take action to stop the ______ of the environment around us.",
+      "stem": "The ______ of the mountain is covered with snow all year round.",
       "options": [
-        "A. pollute",
-        "B. polluted",
-        "C. polluting",
-        "D. pollution"
+        "A. foot",
+        "B. top",
+        "C. middle",
+        "D. bottom"
       ],
-      "correct_answer": "D",
-      "explanation": "选D。定冠词the后需接名词，pollution（污染）是名词。pollute是动词；polluted是形容词或过去分词；polluting是现在分词。解题技巧：注意词性转换后缀——动词pollute→名词pollution（去e加ion），protect→protection，invent→invention；形容词后缀-ful（helpful），-less（careless）。",
+      "correct_answer": "B",
+      "explanation": "根据句意'终年被雪覆盖'，结合常识，山顶（top）才会有常年积雪。foot指山脚，middle指山腰，bottom指底部。解题技巧：利用上下文线索和常识推理，'covered with snow all year round'是高海拔地区的特征。",
       "label": "词汇题"
     },
     {
@@ -121,16 +121,16 @@
       "difficulty": 2,
       "stem": "(8)______",
       "options": [
-        "A. easy",
-        "B. difficult",
-        "C. interesting",
-        "D. boring"
+        "A. and",
+        "B. but",
+        "C. while",
+        "D. or"
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
+      "explanation": "此处需要表示对比关系，'一些学生用工具捡垃圾，而另一些分类装袋'。while表示'而、却'，用于对比两件事同时发生或两种情况对比。and表并列，but表转折，or表选择。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school started an environmental protection project. All students were asked to take part in activities that could help make our campus greener.\n\nThe first step was to reduce waste. We set up different bins for recycling. At first, many students found it (8)______ to remember which bin to use. But after two weeks, it became a habit. The student who (9)______ up with the most creative recycling idea was given a prize. His idea was to use old bottles as flower pots.\n\nNext, we focused on saving energy. The lights in the classrooms are now turned off automatically when no one is there. This simple change has saved a lot of electricity. Teachers told us that if everyone (10)______ small actions, we could make a big difference.\n\nThe project has changed the way we think about waste. We now understand that protecting the environment is not just the government's job. It is (11)______ responsibility. Even small efforts like bringing reusable bags to school can help reduce plastic waste.\n\nLooking back, I feel proud of what we have achieved. The project has not only improved our school environment but also taught us important lessons about taking care of our planet. I hope more schools will (12)______ similar programs in the future.",
-      "explanation": "选B。根据下文'But after two weeks, it became a habit'（但两周后成了习惯）的转折关系，可推断起初觉得'困难'（difficult）。easy与句意相反；interesting有趣的和boring无聊的与上下文逻辑不符。解题技巧：完形填空注意逻辑关系词，but/however表转折，and/so表因果或顺承。"
+      "group_passage": "Last term, our school set up an Environmental Protection Club. As a member, I have learned a lot about how to protect our environment.\n\nOne Saturday, we organized a clean-up activity in the city park. When we arrived, we were shocked to see so much rubbish everywhere. Plastic bottles and paper bags were scattered under the trees.\n\nWe quickly got to work. Some students used tools to pick up the rubbish, (8)_______ others sorted it into different bags. At first, I felt tired and wanted to give up. (9)_______, I remembered why we were there. The park is home to many birds, and they need a clean place to live.\n\nAfter three hours, the park looked completely different. Some visitors even (10)_______ us and said we were doing a great job. This experience taught me that small actions can make a big (11)_______. I have realized that everyone (12)_______ play a part in protecting our planet."
     },
     {
       "id": 9,
@@ -139,16 +139,16 @@
       "difficulty": 2,
       "stem": "(9)______",
       "options": [
-        "A. came",
-        "B. caught",
-        "C. kept",
-        "D. made"
+        "A. However",
+        "B. Therefore",
+        "C. Besides",
+        "D. Instead"
       ],
       "correct_answer": "A",
+      "explanation": "前句说'我想放弃'，后句说'我想起为什么来这里'，前后是转折关系。However表示'然而'，符合语境。Therefore因此，Besides此外，Instead代替。注意：however通常用逗号与句子其他部分隔开。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school started an environmental protection project. All students were asked to take part in activities that could help make our campus greener.\n\nThe first step was to reduce waste. We set up different bins for recycling. At first, many students found it (8)______ to remember which bin to use. But after two weeks, it became a habit. The student who (9)______ up with the most creative recycling idea was given a prize. His idea was to use old bottles as flower pots.\n\nNext, we focused on saving energy. The lights in the classrooms are now turned off automatically when no one is there. This simple change has saved a lot of electricity. Teachers told us that if everyone (10)______ small actions, we could make a big difference.\n\nThe project has changed the way we think about waste. We now understand that protecting the environment is not just the government's job. It is (11)______ responsibility. Even small efforts like bringing reusable bags to school can help reduce plastic waste.\n\nLooking back, I feel proud of what we have achieved. The project has not only improved our school environment but also taught us important lessons about taking care of our planet. I hope more schools will (12)______ similar programs in the future.",
-      "explanation": "选A。固定搭配come up with表示'想出（主意、办法）'。catch up with赶上；keep up with跟上；make up with与...和解，均不符合'想出创意'的语境。解题技巧：积累动词短语——come up with ideas, catch up with classmates, keep up with the times。"
+      "group_passage": "Last term, our school set up an Environmental Protection Club. As a member, I have learned a lot about how to protect our environment.\n\nOne Saturday, we organized a clean-up activity in the city park. When we arrived, we were shocked to see so much rubbish everywhere. Plastic bottles and paper bags were scattered under the trees.\n\nWe quickly got to work. Some students used tools to pick up the rubbish, (8)_______ others sorted it into different bags. At first, I felt tired and wanted to give up. (9)_______, I remembered why we were there. The park is home to many birds, and they need a clean place to live.\n\nAfter three hours, the park looked completely different. Some visitors even (10)_______ us and said we were doing a great job. This experience taught me that small actions can make a big (11)_______. I have realized that everyone (12)_______ play a part in protecting our planet."
     },
     {
       "id": 10,
@@ -157,16 +157,16 @@
       "difficulty": 1,
       "stem": "(10)______",
       "options": [
-        "A. takes",
-        "B. took",
-        "C. is taking",
-        "D. has taken"
+        "A. praised",
+        "B. stopped",
+        "C. joined",
+        "D. refused"
       ],
       "correct_answer": "A",
+      "explanation": "根据后文'said we were doing a great job'（说我们做得棒），可知游客是在'表扬'我们。praise表扬，stop阻止，join加入，refuse拒绝。语境线索：'doing a great job'对应积极评价。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school started an environmental protection project. All students were asked to take part in activities that could help make our campus greener.\n\nThe first step was to reduce waste. We set up different bins for recycling. At first, many students found it (8)______ to remember which bin to use. But after two weeks, it became a habit. The student who (9)______ up with the most creative recycling idea was given a prize. His idea was to use old bottles as flower pots.\n\nNext, we focused on saving energy. The lights in the classrooms are now turned off automatically when no one is there. This simple change has saved a lot of electricity. Teachers told us that if everyone (10)______ small actions, we could make a big difference.\n\nThe project has changed the way we think about waste. We now understand that protecting the environment is not just the government's job. It is (11)______ responsibility. Even small efforts like bringing reusable bags to school can help reduce plastic waste.\n\nLooking back, I feel proud of what we have achieved. The project has not only improved our school environment but also taught us important lessons about taking care of our planet. I hope more schools will (12)______ similar programs in the future.",
-      "explanation": "选A。if引导的条件状语从句，主句含情态动词could，从句用一般现在时表将来（主将从现原则）。everyone作主语，谓语用第三人称单数takes。解题技巧：if条件句时态口诀——'主将从现'（主句将来时/情态动词，从句现在时），'主过从过'（主句过去时，从句过去时）。"
+      "group_passage": "Last term, our school set up an Environmental Protection Club. As a member, I have learned a lot about how to protect our environment.\n\nOne Saturday, we organized a clean-up activity in the city park. When we arrived, we were shocked to see so much rubbish everywhere. Plastic bottles and paper bags were scattered under the trees.\n\nWe quickly got to work. Some students used tools to pick up the rubbish, (8)_______ others sorted it into different bags. At first, I felt tired and wanted to give up. (9)_______, I remembered why we were there. The park is home to many birds, and they need a clean place to live.\n\nAfter three hours, the park looked completely different. Some visitors even (10)_______ us and said we were doing a great job. This experience taught me that small actions can make a big (11)_______. I have realized that everyone (12)_______ play a part in protecting our planet."
     },
     {
       "id": 11,
@@ -175,16 +175,16 @@
       "difficulty": 2,
       "stem": "(11)______",
       "options": [
-        "A. his",
-        "B. her",
-        "C. our",
-        "D. their"
+        "A. mistake",
+        "B. difference",
+        "C. decision",
+        "D. progress"
       ],
-      "correct_answer": "C",
-      "explanation": "选C。根据上文'We now understand'及下文'Even small efforts like bringing reusable bags...'可知，此处指'我们的'责任，与we保持人称一致。his/her指代单数；their指代复数第三人称，均不符合语境。解题技巧：完形填空注意代词指代一致性，看前后句主语是第几人称。",
+      "correct_answer": "B",
+      "explanation": "固定搭配make a difference意为'有影响、起作用'，符合句意'小行动可以产生大影响'。make a mistake犯错，make a decision做决定，make progress取得进步（progress不可数，前面不能加a）。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school started an environmental protection project. All students were asked to take part in activities that could help make our campus greener.\n\nThe first step was to reduce waste. We set up different bins for recycling. At first, many students found it (8)______ to remember which bin to use. But after two weeks, it became a habit. The student who (9)______ up with the most creative recycling idea was given a prize. His idea was to use old bottles as flower pots.\n\nNext, we focused on saving energy. The lights in the classrooms are now turned off automatically when no one is there. This simple change has saved a lot of electricity. Teachers told us that if everyone (10)______ small actions, we could make a big difference.\n\nThe project has changed the way we think about waste. We now understand that protecting the environment is not just the government's job. It is (11)______ responsibility. Even small efforts like bringing reusable bags to school can help reduce plastic waste.\n\nLooking back, I feel proud of what we have achieved. The project has not only improved our school environment but also taught us important lessons about taking care of our planet. I hope more schools will (12)______ similar programs in the future."
+      "group_passage": "Last term, our school set up an Environmental Protection Club. As a member, I have learned a lot about how to protect our environment.\n\nOne Saturday, we organized a clean-up activity in the city park. When we arrived, we were shocked to see so much rubbish everywhere. Plastic bottles and paper bags were scattered under the trees.\n\nWe quickly got to work. Some students used tools to pick up the rubbish, (8)_______ others sorted it into different bags. At first, I felt tired and wanted to give up. (9)_______, I remembered why we were there. The park is home to many birds, and they need a clean place to live.\n\nAfter three hours, the park looked completely different. Some visitors even (10)_______ us and said we were doing a great job. This experience taught me that small actions can make a big (11)_______. I have realized that everyone (12)_______ play a part in protecting our planet."
     },
     {
       "id": 12,
@@ -193,16 +193,16 @@
       "difficulty": 1,
       "stem": "(12)______",
       "options": [
-        "A. start",
-        "B. stop",
-        "C. refuse",
-        "D. finish"
+        "A. must",
+        "B. can",
+        "C. should",
+        "D. need"
       ],
-      "correct_answer": "A",
-      "explanation": "选A。根据语境'希望更多学校...类似项目'，应该是'开展/启动'（start）。stop停止、refuse拒绝、finish完成，均与作者积极支持环保项目的态度不符。解题技巧：通过上下文情感线索判断，作者对项目持积极态度，故选积极意义的词汇。",
+      "correct_answer": "C",
+      "explanation": "句意：我意识到每个人都应该在保护地球中发挥作用。should表示'应该'，强调责任和义务，符合语境。must必须（语气太强），can能够，need需要（通常作实义动词need to do）。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school started an environmental protection project. All students were asked to take part in activities that could help make our campus greener.\n\nThe first step was to reduce waste. We set up different bins for recycling. At first, many students found it (8)______ to remember which bin to use. But after two weeks, it became a habit. The student who (9)______ up with the most creative recycling idea was given a prize. His idea was to use old bottles as flower pots.\n\nNext, we focused on saving energy. The lights in the classrooms are now turned off automatically when no one is there. This simple change has saved a lot of electricity. Teachers told us that if everyone (10)______ small actions, we could make a big difference.\n\nThe project has changed the way we think about waste. We now understand that protecting the environment is not just the government's job. It is (11)______ responsibility. Even small efforts like bringing reusable bags to school can help reduce plastic waste.\n\nLooking back, I feel proud of what we have achieved. The project has not only improved our school environment but also taught us important lessons about taking care of our planet. I hope more schools will (12)______ similar programs in the future."
+      "group_passage": "Last term, our school set up an Environmental Protection Club. As a member, I have learned a lot about how to protect our environment.\n\nOne Saturday, we organized a clean-up activity in the city park. When we arrived, we were shocked to see so much rubbish everywhere. Plastic bottles and paper bags were scattered under the trees.\n\nWe quickly got to work. Some students used tools to pick up the rubbish, (8)_______ others sorted it into different bags. At first, I felt tired and wanted to give up. (9)_______, I remembered why we were there. The park is home to many birds, and they need a clean place to live.\n\nAfter three hours, the park looked completely different. Some visitors even (10)_______ us and said we were doing a great job. This experience taught me that small actions can make a big (11)_______. I have realized that everyone (12)_______ play a part in protecting our planet."
     },
     {
       "id": 13,
@@ -211,34 +211,34 @@
       "difficulty": 2,
       "stem": "How many hours do teenagers spend on screens daily according to the study?",
       "options": [
-        "A. About five hours.",
-        "B. About six hours.",
-        "C. About seven hours.",
-        "D. About eight hours."
+        "A. 3 hours",
+        "B. 7.5 hours",
+        "C. One hour",
+        "D. 8 hours"
       ],
-      "correct_answer": "C",
-      "explanation": "选C。根据文章第一段'A recent study shows that teenagers aged 13-18 use electronic devices for about seven hours daily'可知，研究表明青少年每天使用电子设备约7小时。解题技巧：细节理解题采用'关键词定位法'，在题干中找study/hours等关键词，快速回原文定位具体数字。",
+      "correct_answer": "B",
+      "explanation": "细节理解题。根据文章第二段'teenagers spend an average of 7.5 hours on screens every day'可知，青少年平均每天花7.5小时在屏幕上。解题技巧：细节题要准确定位关键词'daily/hours'，在原文中找到完全对应或同义替换的句子，注意数字信息。",
       "label": "阅读-细节理解",
       "group": "reading_1",
-      "group_passage": "Many teenagers today spend hours looking at screens every day. A recent study shows that teenagers aged 13-18 use electronic devices for about seven hours daily. This includes time spent on smartphones, computers, and televisions.\n\nWhile technology brings convenience, excessive screen time can cause problems. Dr. Li, a researcher from Shenzhen University, explains that too much screen time affects sleep quality. The blue light from screens makes it harder for people to fall asleep. Moreover, sitting for long periods without exercise can lead to health issues such as back pain and poor eyesight.\n\nHowever, not all screen time is harmful. Using devices for educational purposes or keeping in touch with family members can be beneficial. The key is to find a balance. Parents should encourage children to take regular breaks and engage in outdoor activities.\n\nSome schools have started to take action. They limit the use of mobile phones during school hours and organize more sports activities after class. These measures have received positive feedback from both students and teachers.\n\nExperts suggest the '20-20-20' rule: every 20 minutes, look at something 20 feet away for at least 20 seconds. This simple habit can help reduce eye strain (视疲劳). Remember, technology is a tool. How we use it determines whether it helps or hurts us."
+      "group_passage": "In recent years, smartphones have become an important part of our daily life. However, a new study shows that excessive (过度的) screen time may have negative effects on teenagers' health.\n\nAccording to the research, teenagers spend an average of 7.5 hours on screens every day. This includes time spent on phones, computers, and TVs. Dr. Li, the lead researcher, explains that looking at screens for too long can cause eye problems and poor sleep quality.\n\nInterestingly, the study also found that teenagers who spend more than 3 hours on social media are more likely to feel anxious. 'They constantly compare themselves with others online,' says Dr. Li. 'This can lead to low self-esteem (自尊).'\n\nHowever, the researchers don't suggest giving up technology completely. Instead, they recommend setting time limits. For example, teenagers should avoid using phones one hour before bedtime. Parents are also advised to encourage outdoor activities to balance screen time.\n\nThe key is finding a healthy balance between the digital world and real life. As one participant said, 'I feel happier when I spend time with friends face-to-face rather than just chatting online.'"
     },
     {
       "id": 14,
       "type": "reading",
-      "knowledge_point": "word_guessing_context",
+      "knowledge_point": "word_guessing",
       "difficulty": 2,
-      "stem": "The underlined word 'excessive' in Paragraph 2 probably means ______.",
+      "stem": "The underlined word 'excessive' in Paragraph 1 probably means ______.",
       "options": [
-        "A. proper",
+        "A. limited",
         "B. too much",
-        "C. limited",
-        "D. necessary"
+        "C. necessary",
+        "D. proper"
       ],
       "correct_answer": "B",
-      "explanation": "选B。根据上下文'excessive screen time can cause problems'及'too much screen time affects sleep quality'，可知excessive与too much同义，表示'过多的'。proper适当的、limited有限的、necessary必要的，均与句意相反或无关。解题技巧：词义猜测题利用'同义复现'原则，下文too much是对excessive的解释；也可根据前缀ex-（出，外）+cess（走）+ive（形容词后缀）→走出界限→过多的。",
+      "explanation": "词义猜测题。根据上下文，'excessive screen time'后提到'may have negative effects'（可能有负面影响），且第二段解释'looking at screens for too long'（看屏幕太久），可知excessive意为'过多的、过度的'。limited有限的，necessary必要的，proper适当的。解题技巧：通过因果线索（negative effects）和同义解释（too long）推断词义。",
       "label": "阅读-词义猜测",
       "group": "reading_1",
-      "group_passage": "Many teenagers today spend hours looking at screens every day. A recent study shows that teenagers aged 13-18 use electronic devices for about seven hours daily. This includes time spent on smartphones, computers, and televisions.\n\nWhile technology brings convenience, excessive screen time can cause problems. Dr. Li, a researcher from Shenzhen University, explains that too much screen time affects sleep quality. The blue light from screens makes it harder for people to fall asleep. Moreover, sitting for long periods without exercise can lead to health issues such as back pain and poor eyesight.\n\nHowever, not all screen time is harmful. Using devices for educational purposes or keeping in touch with family members can be beneficial. The key is to find a balance. Parents should encourage children to take regular breaks and engage in outdoor activities.\n\nSome schools have started to take action. They limit the use of mobile phones during school hours and organize more sports activities after class. These measures have received positive feedback from both students and teachers.\n\nExperts suggest the '20-20-20' rule: every 20 minutes, look at something 20 feet away for at least 20 seconds. This simple habit can help reduce eye strain (视疲劳). Remember, technology is a tool. How we use it determines whether it helps or hurts us."
+      "group_passage": "In recent years, smartphones have become an important part of our daily life. However, a new study shows that excessive (过度的) screen time may have negative effects on teenagers' health.\n\nAccording to the research, teenagers spend an average of 7.5 hours on screens every day. This includes time spent on phones, computers, and TVs. Dr. Li, the lead researcher, explains that looking at screens for too long can cause eye problems and poor sleep quality.\n\nInterestingly, the study also found that teenagers who spend more than 3 hours on social media are more likely to feel anxious. 'They constantly compare themselves with others online,' says Dr. Li. 'This can lead to low self-esteem (自尊).'\n\nHowever, the researchers don't suggest giving up technology completely. Instead, they recommend setting time limits. For example, teenagers should avoid using phones one hour before bedtime. Parents are also advised to encourage outdoor activities to balance screen time.\n\nThe key is finding a healthy balance between the digital world and real life. As one participant said, 'I feel happier when I spend time with friends face-to-face rather than just chatting online.'"
     },
     {
       "id": 15,
@@ -247,34 +247,34 @@
       "difficulty": 3,
       "stem": "What can we infer from the passage?",
       "options": [
-        "A. All screen time is bad for teenagers.",
-        "B. Schools should ban all electronic devices completely.",
-        "C. Using technology wisely is important for teenagers.",
-        "D. Teenagers should never use smartphones at home."
+        "A. All teenagers should stop using smartphones immediately.",
+        "B. Social media is completely bad for teenagers.",
+        "C. Face-to-face communication may be better for mental health.",
+        "D. Parents should forbid their children from using technology."
       ],
       "correct_answer": "C",
-      "explanation": "选C。根据第三段'However, not all screen time is harmful...The key is to find a balance'及最后一段'How we use it determines whether it helps or hurts us'可推断，明智地使用科技很重要。A与'not all screen time is harmful'矛盾；B与'schools limit...during school hours'（限制而非禁止）不符；D过于绝对，文中未提及。解题技巧：推理题要基于原文但不停留在表面，排除绝对化选项（all/never/completely），选择概括性、合理的结论。",
+      "explanation": "推理判断题。根据最后一段'I feel happier when I spend time with friends face-to-face rather than just chatting online'可推断，面对面交流可能对心理健康更有益。A、B、D都过于绝对，与原文'don't suggest giving up technology completely'（不建议完全放弃科技）不符。解题技巧：推理题要基于原文但不过度推断，排除绝对化选项（all/completely/forbid）。",
       "label": "阅读-推理判断",
       "group": "reading_1",
-      "group_passage": "Many teenagers today spend hours looking at screens every day. A recent study shows that teenagers aged 13-18 use electronic devices for about seven hours daily. This includes time spent on smartphones, computers, and televisions.\n\nWhile technology brings convenience, excessive screen time can cause problems. Dr. Li, a researcher from Shenzhen University, explains that too much screen time affects sleep quality. The blue light from screens makes it harder for people to fall asleep. Moreover, sitting for long periods without exercise can lead to health issues such as back pain and poor eyesight.\n\nHowever, not all screen time is harmful. Using devices for educational purposes or keeping in touch with family members can be beneficial. The key is to find a balance. Parents should encourage children to take regular breaks and engage in outdoor activities.\n\nSome schools have started to take action. They limit the use of mobile phones during school hours and organize more sports activities after class. These measures have received positive feedback from both students and teachers.\n\nExperts suggest the '20-20-20' rule: every 20 minutes, look at something 20 feet away for at least 20 seconds. This simple habit can help reduce eye strain (视疲劳). Remember, technology is a tool. How we use it determines whether it helps or hurts us."
+      "group_passage": "In recent years, smartphones have become an important part of our daily life. However, a new study shows that excessive (过度的) screen time may have negative effects on teenagers' health.\n\nAccording to the research, teenagers spend an average of 7.5 hours on screens every day. This includes time spent on phones, computers, and TVs. Dr. Li, the lead researcher, explains that looking at screens for too long can cause eye problems and poor sleep quality.\n\nInterestingly, the study also found that teenagers who spend more than 3 hours on social media are more likely to feel anxious. 'They constantly compare themselves with others online,' says Dr. Li. 'This can lead to low self-esteem (自尊).'\n\nHowever, the researchers don't suggest giving up technology completely. Instead, they recommend setting time limits. For example, teenagers should avoid using phones one hour before bedtime. Parents are also advised to encourage outdoor activities to balance screen time.\n\nThe key is finding a healthy balance between the digital world and real life. As one participant said, 'I feel happier when I spend time with friends face-to-face rather than just chatting online.'"
     },
     {
       "id": 16,
       "type": "reading",
-      "knowledge_point": "main_idea_title",
+      "knowledge_point": "main_idea",
       "difficulty": 3,
       "stem": "What is the best title for this passage?",
       "options": [
-        "A. The History of Electronic Devices",
-        "B. How to Make Friends Online",
-        "C. Teenagers and Healthy Screen Time Habits",
-        "D. The Importance of Outdoor Activities"
+        "A. The History of Smartphones",
+        "B. How to Use Social Media Safely",
+        "C. Screen Time and Teenagers' Health",
+        "D. The Advantages of Technology"
       ],
       "correct_answer": "C",
-      "explanation": "选C。文章主要讨论青少年使用电子屏幕时间的问题，分析了过度使用的危害，也指出合理使用的好处，并给出建议，核心是'健康的屏幕使用习惯'。A电子设备的历史文中未提；B网上交友只是细节；D户外活动是建议的一部分，非主旨。解题技巧：主旨题选择能覆盖全文内容的选项，避免以偏概全（细节作标题）或无中生有（文中未提及）。",
+      "explanation": "主旨大意题。文章主要讨论屏幕时间对青少年健康的影响（视力、睡眠、心理健康）及建议。A只涉及历史，B只涉及社交媒体安全，D只讲优点，都过于片面。C选项'屏幕时间与青少年健康'全面概括了主题。解题技巧：标题要覆盖全文主要内容，避免以偏概全；通常出现频率高的关键词（screen time/health/teenagers）会出现在正确选项中。",
       "label": "阅读-主旨大意",
       "group": "reading_1",
-      "group_passage": "Many teenagers today spend hours looking at screens every day. A recent study shows that teenagers aged 13-18 use electronic devices for about seven hours daily. This includes time spent on smartphones, computers, and televisions.\n\nWhile technology brings convenience, excessive screen time can cause problems. Dr. Li, a researcher from Shenzhen University, explains that too much screen time affects sleep quality. The blue light from screens makes it harder for people to fall asleep. Moreover, sitting for long periods without exercise can lead to health issues such as back pain and poor eyesight.\n\nHowever, not all screen time is harmful. Using devices for educational purposes or keeping in touch with family members can be beneficial. The key is to find a balance. Parents should encourage children to take regular breaks and engage in outdoor activities.\n\nSome schools have started to take action. They limit the use of mobile phones during school hours and organize more sports activities after class. These measures have received positive feedback from both students and teachers.\n\nExperts suggest the '20-20-20' rule: every 20 minutes, look at something 20 feet away for at least 20 seconds. This simple habit can help reduce eye strain (视疲劳). Remember, technology is a tool. How we use it determines whether it helps or hurts us."
+      "group_passage": "In recent years, smartphones have become an important part of our daily life. However, a new study shows that excessive (过度的) screen time may have negative effects on teenagers' health.\n\nAccording to the research, teenagers spend an average of 7.5 hours on screens every day. This includes time spent on phones, computers, and TVs. Dr. Li, the lead researcher, explains that looking at screens for too long can cause eye problems and poor sleep quality.\n\nInterestingly, the study also found that teenagers who spend more than 3 hours on social media are more likely to feel anxious. 'They constantly compare themselves with others online,' says Dr. Li. 'This can lead to low self-esteem (自尊).'\n\nHowever, the researchers don't suggest giving up technology completely. Instead, they recommend setting time limits. For example, teenagers should avoid using phones one hour before bedtime. Parents are also advised to encourage outdoor activities to balance screen time.\n\nThe key is finding a healthy balance between the digital world and real life. As one participant said, 'I feel happier when I spend time with friends face-to-face rather than just chatting online.'"
     },
     {
       "id": 17,
@@ -283,17 +283,17 @@
       "difficulty": 2,
       "stem": "(17)______",
       "options": [
-        "A. However, cooking at home is much cheaper.",
-        "B. It is also a great way to show your love.",
-        "C. There are several reasons why teenagers should learn to cook.",
-        "D. Besides, you can control the amount of salt and sugar.",
-        "E. On the other hand, it takes a lot of time to learn."
+        "A. First, maintain a regular sleep schedule.",
+        "B. Even 20 minutes of sport every day is helpful.",
+        "C. However, sleep is equally important.",
+        "D. Avoid eating too much junk food like chips or candy.",
+        "E. In addition, you should drink plenty of water."
       ],
-      "correct_answer": "C",
-      "explanation": "选C。此处位于段首，下文用First...Second...Finally列举原因，故此处应填总起句'有几个原因说明青少年应该学做饭'。A讲省钱，D讲控制盐糖，均为具体原因，应在First/Second后；B讲表达爱，是总结句；E讲缺点，与下文积极论述不符。解题技巧：选句填空注意'总分结构'，段首常放主题句，段中放过渡句，段尾放总结句。",
+      "correct_answer": "A",
+      "explanation": "下文提到'Getting up early...Try to wake up at the same time'（早起、同一时间起床），说明本段讲规律作息。A选项'First, maintain a regular sleep schedule'（首先，保持规律的睡眠时间表）作为段首句总领全段，且First与下文的Second、Third形成顺序衔接。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Learning to cook is an important life skill. Many teenagers depend on their parents for meals, but knowing how to prepare simple dishes can be very useful. (17)______\n\nFirst, cooking helps you eat healthier. When you cook at home, you know exactly what ingredients (原料) are in your food. (18)______ You can choose fresh vegetables and less oil, which is good for your body.\n\nSecond, cooking saves money. Eating out or ordering food delivery is often expensive. (19)______ A simple meal at home might cost only one-third of the restaurant price.\n\nFinally, cooking can bring joy to you and your family. Imagine the smile on your parents' faces when you serve them breakfast on Sunday morning. (20)______\n\nStart with easy recipes like fried eggs or tomato soup. As you practice more, you will become more confident in the kitchen."
+      "group_passage": "It's important for students to keep healthy. Here are some useful tips.\n\n(17)_______. Getting up early gives you enough time to prepare for the day. Try to wake up at the same time every morning, even on weekends.\n\nSecond, eat a balanced diet. (18)_______. Also, remember to eat more fruits and vegetables. They provide vitamins that your body needs.\n\nThird, exercise regularly. You don't need to run for hours. (19)_______. Walking to school or riding a bike can also be good choices.\n\n(20)_______. Don't stay up late studying or playing games. A good night's sleep helps your brain work better the next day."
     },
     {
       "id": 18,
@@ -302,17 +302,17 @@
       "difficulty": 2,
       "stem": "(18)______",
       "options": [
-        "A. However, cooking at home is much cheaper.",
-        "B. It is also a great way to show your love.",
-        "C. There are several reasons why teenagers should learn the cooking.",
-        "D. Besides, you can control the amount of salt and sugar.",
-        "E. On the other hand, it takes a lot of time to learn."
+        "A. First, maintain a regular sleep schedule.",
+        "B. Even 20 minutes of sport every day is helpful.",
+        "C. However, sleep is equally important.",
+        "D. Avoid eating too much junk food like chips or candy.",
+        "E. In addition, you should drink plenty of water."
       ],
       "correct_answer": "D",
-      "explanation": "选D。前文讲'知道自己吃什么原料'，后文讲'选新鲜蔬菜和少油'，都是关于健康饮食，D项'此外，你能控制盐和糖的量'承接上文，besides表示递进。A讲价格（属于Second部分）；B是总结句；C是总起句；E讲缺点，均不符。解题技巧：注意连接词逻辑——besides/in addition/furthermore表递进，however/nevertheless表转折，therefore/as a result表结果。",
+      "explanation": "本段主题是'eat a balanced diet'（均衡饮食）。D选项'Avoid eating too much junk food'（避免吃太多垃圾食品）与饮食相关，且与下文'Also, remember to eat more fruits'（也要多吃水果）形成并列补充关系，先讲不要吃什么，再讲要吃什么。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Learning to cook is an important life skill. Many teenagers depend on their parents for meals, but knowing how to prepare simple dishes can be very useful. (17)______\n\nFirst, cooking helps you eat healthier. When you cook at home, you know exactly what ingredients (原料) are in your food. (18)______ You can choose fresh vegetables and less oil, which is good for your body.\n\nSecond, cooking saves money. Eating out or ordering food delivery is often expensive. (19)______ A simple meal at home might cost only one-third of the restaurant price.\n\nFinally, cooking can bring joy to you and your family. Imagine the smile on your parents' faces when you serve them breakfast on Sunday morning. (20)______\n\nStart with easy recipes like fried eggs or tomato soup. As you practice more, you will become more confident in the kitchen."
+      "group_passage": "It's important for students to keep healthy. Here are some useful tips.\n\n(17)_______. Getting up early gives you enough time to prepare for the day. Try to wake up at the same time every morning, even on weekends.\n\nSecond, eat a balanced diet. (18)_______. Also, remember to eat more fruits and vegetables. They provide vitamins that your body needs.\n\nThird, exercise regularly. You don't need to run for hours. (19)_______. Walking to school or riding a bike can also be good choices.\n\n(20)_______. Don't stay up late studying or playing games. A good night's sleep helps your brain work better the next day."
     },
     {
       "id": 19,
@@ -321,17 +321,17 @@
       "difficulty": 2,
       "stem": "(19)______",
       "options": [
-        "A. However, cooking at home is much cheaper.",
-        "B. It is also a great way to show your love.",
-        "C. There are several reasons why teenagers should learn the cooking.",
-        "D. Besides, you can control the amount of salt and sugar.",
-        "E. On the other hand, it takes a lot of time to learn."
+        "A. First, maintain a regular sleep schedule.",
+        "B. Even 20 minutes of sport every day is helpful.",
+        "C. However, sleep is equally important.",
+        "D. Avoid eating too much junk food like chips or candy.",
+        "E. In addition, you should drink plenty of water."
       ],
-      "correct_answer": "A",
-      "explanation": "选A。本段主题是Second（省钱），前文讲'出去吃或点外卖贵'，A项'然而，在家做饭便宜得多'形成对比，however表转折对比。B用于情感总结；C是总起；D属于First部分；E讲缺点。解题技巧：注意代词指代和词汇复现——A项cooking at home对应eating out，cheaper对应expensive。",
+      "correct_answer": "B",
+      "explanation": "本段主题是'exercise regularly'（规律锻炼）。前句说'You don't need to run for hours'（不需要跑几个小时），B选项'Even 20 minutes of sport every day is helpful'（即使每天20分钟运动也有帮助）承接上文，说明运动不需要太长时间，少量也有效。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Learning to cook is an important life skill. Many teenagers depend on their parents for meals, but knowing how to prepare simple dishes can be very useful. (17)______\n\nFirst, cooking helps you eat healthier. When you cook at home, you know exactly what ingredients (原料) are in your food. (18)______ You can choose fresh vegetables and less oil, which is good for your body.\n\nSecond, cooking saves money. Eating out or ordering food delivery is often expensive. (19)______ A simple meal at home might cost only one-third of the restaurant price.\n\nFinally, cooking can bring joy to you and your family. Imagine the smile on your parents' faces when you serve them breakfast on Sunday morning. (20)______\n\nStart with easy recipes like fried eggs or tomato soup. As you practice more, you will become more confident in the kitchen."
+      "group_passage": "It's important for students to keep healthy. Here are some useful tips.\n\n(17)_______. Getting up early gives you enough time to prepare for the day. Try to wake up at the same time every morning, even on weekends.\n\nSecond, eat a balanced diet. (18)_______. Also, remember to eat more fruits and vegetables. They provide vitamins that your body needs.\n\nThird, exercise regularly. You don't need to run for hours. (19)_______. Walking to school or riding a bike can also be good choices.\n\n(20)_______. Don't stay up late studying or playing games. A good night's sleep helps your brain work better the next day."
     },
     {
       "id": 20,
@@ -340,17 +340,17 @@
       "difficulty": 2,
       "stem": "(20)______",
       "options": [
-        "A. However, cooking at home is much cheaper.",
-        "B. It is also a great way to show your love.",
-        "C. There are several reasons why teenagers should learn the cooking.",
-        "D. Besides, you can control the amount of salt and sugar.",
-        "E. On the other hand, it takes a lot of time to learn."
+        "A. First, maintain a regular sleep schedule.",
+        "B. Even 20 minutes of sport every day is helpful.",
+        "C. However, sleep is equally important.",
+        "D. Avoid eating too much junk food like chips or candy.",
+        "E. In addition, you should drink plenty of water."
       ],
-      "correct_answer": "B",
-      "explanation": "选B。本段讲做饭给家庭带来快乐，前文'想象父母脸上的笑容'，B项'这也是表达爱的好方式'总结情感意义，also表示补充。A属于Second；C是总起；D属于First；E负面表述不符。解题技巧：段落结尾常出现总结句，用also/in short/therefore等连接，呼应段落主题（joy/love）。",
+      "correct_answer": "C",
+      "explanation": "下文提到'Don't stay up late...A good night's sleep'（不要熬夜、良好的睡眠），说明本段转折讲睡眠的重要性。C选项'However, sleep is equally important'（然而，睡眠同样重要）用However转折，引出睡眠话题，与前面的饮食、运动形成并列但转折强调的关系。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Learning to cook is an important life skill. Many teenagers depend on their parents for meals, but knowing how to prepare simple dishes can be very useful. (17)______\n\nFirst, cooking helps you eat healthier. When you cook at home, you know exactly what ingredients (原料) are in your food. (18)______ You can choose fresh vegetables and less oil, which is good for your body.\n\nSecond, cooking saves money. Eating out or ordering food delivery is often expensive. (19)______ A simple meal at home might cost only one-third of the restaurant price.\n\nFinally, cooking can bring joy to you and your family. Imagine the smile on your parents' faces when you serve them breakfast on Sunday morning. (20)______\n\nStart with easy recipes like fried eggs or tomato soup. As you practice more, you will become more confident in the kitchen."
+      "group_passage": "It's important for students to keep healthy. Here are some useful tips.\n\n(17)_______. Getting up early gives you enough time to prepare for the day. Try to wake up at the same time every morning, even on weekends.\n\nSecond, eat a balanced diet. (18)_______. Also, remember to eat more fruits and vegetables. They provide vitamins that your body needs.\n\nThird, exercise regularly. You don't need to run for hours. (19)_______. Walking to school or riding a bike can also be good choices.\n\n(20)_______. Don't stay up late studying or playing games. A good night's sleep helps your brain work better the next day."
     }
   ]
 }
