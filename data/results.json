@@ -357,6 +357,13 @@
       "total": 20,
       "correct": 19,
       "rate": 95
+    },
+    {
+      "date": "2026-05-29",
+      "session": 1,
+      "total": 20,
+      "correct": 17,
+      "rate": 85
     }
   ],
   "errors": [
@@ -684,6 +691,60 @@
       "correct_answer": "C",
       "student_answer": "B",
       "explanation": "选C。根据第三段'However, not all screen time is harmful...The key is to find a balance'及最后一段'How we use it determines whether it helps or hurts us'可推断，明智地使用科技很重要。A与'not all screen time is harmful'矛盾；B与'schools limit...during school hours'（限制而非禁止）不符；D过于绝对，文中未提及。解题技巧：推理题要基于原文但不停留在表面，排除绝对化选项（all/never/completely），选择概括性、合理的结论。"
+    },
+    {
+      "date": "2026-05-29",
+      "session": 1,
+      "question_id": 7,
+      "type": "vocabulary",
+      "knowledge_point": "word_meaning",
+      "label": "单词释义",
+      "stem": "The ______ of the mountain is covered with snow all year round.",
+      "options": [
+        "A. foot",
+        "B. top",
+        "C. middle",
+        "D. bottom"
+      ],
+      "correct_answer": "B",
+      "student_answer": "D",
+      "explanation": "根据句意'终年被雪覆盖'，结合常识，山顶（top）才会有常年积雪。foot指山脚，middle指山腰，bottom指底部。解题技巧：利用上下文线索和常识推理，'covered with snow all year round'是高海拔地区的特征。"
+    },
+    {
+      "date": "2026-05-29",
+      "session": 1,
+      "question_id": 12,
+      "type": "cloze",
+      "knowledge_point": "cloze_general",
+      "label": "完形填空",
+      "stem": "(12)______",
+      "options": [
+        "A. must",
+        "B. can",
+        "C. should",
+        "D. need"
+      ],
+      "correct_answer": "C",
+      "student_answer": "A",
+      "explanation": "句意：我意识到每个人都应该在保护地球中发挥作用。should表示'应该'，强调责任和义务，符合语境。must必须（语气太强），can能够，need需要（通常作实义动词need to do）。"
+    },
+    {
+      "date": "2026-05-29",
+      "session": 1,
+      "question_id": 14,
+      "type": "reading",
+      "knowledge_point": "word_guessing",
+      "label": "阅读-词义猜测",
+      "stem": "The underlined word 'excessive' in Paragraph 1 probably means ______.",
+      "options": [
+        "A. limited",
+        "B. too much",
+        "C. necessary",
+        "D. proper"
+      ],
+      "correct_answer": "B",
+      "student_answer": "C",
+      "explanation": "词义猜测题。根据上下文，'excessive screen time'后提到'may have negative effects'（可能有负面影响），且第二段解释'looking at screens for too long'（看屏幕太久），可知excessive意为'过多的、过度的'。limited有限的，necessary必要的，proper适当的。解题技巧：通过因果线索（negative effects）和同义解释（too long）推断词义。"
     }
   ]
 }
