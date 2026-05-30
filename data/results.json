@@ -375,42 +375,6 @@
   ],
   "errors": [
     {
-      "date": "2026-05-20",
-      "session": 1,
-      "question_id": 2,
-      "type": "grammar",
-      "knowledge_point": "relative_clause_who_which",
-      "label": "语法题",
-      "stem": "The book _____ cover is red belongs to my sister.",
-      "options": [
-        "A. who",
-        "B. which",
-        "C. whose",
-        "D. that"
-      ],
-      "correct_answer": "C",
-      "student_answer": "B",
-      "explanation": "考查定语从句关系词的选择。先行词是The book（物），但空格后接的是cover（封面），表示\"书的封面\"，即先行词与cover之间存在所属关系。在定语从句中，whose可指人或物，在从句中作定语，表示\"...的\"。which和that在从句中作主语或宾语；who指人。故选C。"
-    },
-    {
-      "date": "2026-05-20",
-      "session": 1,
-      "question_id": 10,
-      "type": "cloze",
-      "knowledge_point": "cloze_emotion_logic",
-      "label": "完形填空",
-      "stem": "(10)_____",
-      "options": [
-        "A. interesting",
-        "B. boring",
-        "C. exciting",
-        "D. relaxing"
-      ],
-      "correct_answer": "B",
-      "student_answer": "A",
-      "explanation": "考查情感线索与语境推理。根据后文\"didn't want to do it\"（不想做）可知，一开始大家认为这项工作很\"无聊\"。interesting（有趣的）、exciting（令人兴奋的）、relaxing（令人放松的）均与\"不想做\"的态度相反；boring（无聊的）符合语境。故选B。"
-    },
-    {
       "date": "2026-05-22",
       "session": 1,
       "question_id": 5,
