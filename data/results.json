@@ -364,6 +364,13 @@
       "total": 20,
       "correct": 17,
       "rate": 85
+    },
+    {
+      "date": "2026-05-30",
+      "session": 1,
+      "total": 20,
+      "correct": 17,
+      "rate": 85
     }
   ],
   "errors": [
@@ -745,6 +752,60 @@
       "correct_answer": "B",
       "student_answer": "C",
       "explanation": "词义猜测题。根据上下文，'excessive screen time'后提到'may have negative effects'（可能有负面影响），且第二段解释'looking at screens for too long'（看屏幕太久），可知excessive意为'过多的、过度的'。limited有限的，necessary必要的，proper适当的。解题技巧：通过因果线索（negative effects）和同义解释（too long）推断词义。"
+    },
+    {
+      "date": "2026-05-30",
+      "session": 1,
+      "question_id": 7,
+      "type": "vocabulary",
+      "knowledge_point": "word_guessing_context",
+      "label": "词汇题",
+      "stem": "The old bridge is not strong enough to support heavy trucks. It may ______ if too many trucks cross it at the same time.",
+      "options": [
+        "A. stand",
+        "B. collapse",
+        "C. exist",
+        "D. shake"
+      ],
+      "correct_answer": "B",
+      "student_answer": "C",
+      "explanation": "根据前文'不够坚固支撑卡车'可推测，如果太多卡车同时经过，桥可能会'倒塌'。collapse意为'倒塌、坍塌'，符合语境。stand（站立）、exist（存在）与文意相反，shake（摇晃）程度不够严重。"
+    },
+    {
+      "date": "2026-05-30",
+      "session": 1,
+      "question_id": 13,
+      "type": "reading",
+      "knowledge_point": "detail",
+      "label": "阅读-细节理解",
+      "stem": "How many hours do teenagers spend on screens daily according to the study?",
+      "options": [
+        "A. About 3 hours",
+        "B. About 7 hours",
+        "C. About 20 hours",
+        "D. About 22 hours"
+      ],
+      "correct_answer": "B",
+      "student_answer": "D",
+      "explanation": "细节理解题。根据第一段第二句'A new study shows that teenagers spend an average of 7 hours and 22 minutes on screens every day'可知，青少年每天花大约7小时22分钟在屏幕上，约等于7小时。注意准确找到数字信息，不要误选D（22是分钟数）。"
+    },
+    {
+      "date": "2026-05-30",
+      "session": 1,
+      "question_id": 15,
+      "type": "reading",
+      "knowledge_point": "inference",
+      "label": "阅读-推理判断",
+      "stem": "What can we infer from the passage?",
+      "options": [
+        "A. All screen time is bad for teenagers.",
+        "B. Schools should ban all electronic devices.",
+        "C. Active screen time may be beneficial.",
+        "D. Blue light helps produce melatonin."
+      ],
+      "correct_answer": "C",
+      "student_answer": "A",
+      "explanation": "推理判断题。根据第二段最后一句'It can actually help brain development'（它实际上可以帮助大脑发育）可推断，主动屏幕时间可能是有益的。A与第二段首句'not all screen time is harmful'矛盾；B与第四段学校采取的措施（screen-free hours而非ban all）不符；D与第三段'affects the production of melatonin'（影响褪黑激素分泌，且是负面影响）相反。"
     }
   ]
 }
