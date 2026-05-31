@@ -371,6 +371,13 @@
       "total": 20,
       "correct": 17,
       "rate": 85
+    },
+    {
+      "date": "2026-05-31",
+      "session": 1,
+      "total": 20,
+      "correct": 19,
+      "rate": 95
     }
   ],
   "errors": [
@@ -770,6 +777,24 @@
       "correct_answer": "C",
       "student_answer": "A",
       "explanation": "推理判断题。根据第二段最后一句'It can actually help brain development'（它实际上可以帮助大脑发育）可推断，主动屏幕时间可能是有益的。A与第二段首句'not all screen time is harmful'矛盾；B与第四段学校采取的措施（screen-free hours而非ban all）不符；D与第三段'affects the production of melatonin'（影响褪黑激素分泌，且是负面影响）相反。"
+    },
+    {
+      "date": "2026-05-31",
+      "session": 1,
+      "question_id": 8,
+      "type": "cloze",
+      "knowledge_point": "cloze_general",
+      "label": "完形填空",
+      "stem": "(8)______",
+      "options": [
+        "A. easy",
+        "B. hard",
+        "C. happy",
+        "D. sad"
+      ],
+      "correct_answer": "B",
+      "student_answer": "C",
+      "explanation": "选B。根据下文'But soon, they got used to it'（但很快他们习惯了）中的转折词But可知，起初应该是'困难的'。hard表示'困难的'，符合语境。A选项easy（容易的）与But转折矛盾。C选项happy（开心的）和D选项sad（难过的）通常用来描述人的情绪，而不是描述'remember bringing bottles'这件事的难度。解题技巧：利用转折关系，But前后语义相反，后面是'习惯'，前面应该是'不习惯/困难'。"
     }
   ]
 }
