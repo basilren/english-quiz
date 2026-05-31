@@ -1,5 +1,5 @@
 ﻿{
-  "date": "2026-05-31",
+  "date": "2026-06-01",
   "session_number": 1,
   "questions": [
     {
@@ -7,15 +7,15 @@
       "type": "grammar",
       "knowledge_point": "present_perfect_vs_past_simple",
       "difficulty": 2,
-      "stem": "—Why didn't you answer my call last night?\n—Sorry, I ______ a movie at the cinema. I ______ my phone at home.",
+      "stem": "—______ you ______ your homework yet?\n—Yes, I ______ it an hour ago.",
       "options": [
-        "A. was watching; left",
-        "B. watched; have left",
-        "C. have watched; left",
-        "D. watched; had left"
+        "A. Did; finish; finished",
+        "B. Have; finished; finished",
+        "C. Have; finished; have finished",
+        "D. Did; finish; have finished"
       ],
-      "correct_answer": "A",
-      "explanation": "选A。第一空用过去进行时was watching表示过去某个时刻正在进行的动作（昨晚打电话时正在看电影）；第二空用一般过去时left表示过去发生的动作（把手机落在家里是过去的事实）。B选项have left是现在完成时，但'落手机'是昨晚的过去动作，与现在无关，不能用现在完成时。C选项have watched错误，因为看电影是过去特定时间正在进行的动作。D选项时态正确但第二空had left是过去完成时，需要相对于另一个过去动作的'过去的过去'，此处无此含义。解题技巧：找时间标志词，last night用过去时，强调正在进行用过去进行时。",
+      "correct_answer": "B",
+      "explanation": "本题考查现在完成时与一般过去时的区别。问句中的'yet'（还，尚）是现在完成时的标志词，表示动作是否已经发生，因此问句用'Have...finished'；答句中的'an hour ago'（一小时前）是明确的过去时间状语，只能用一般过去时'finished'。A选项第一空错误，yet不与一般过去时连用；C选项第三空错误，ago不与现在完成时连用；D选项两空都错。口诀：yet/already/ever/never用现完，yesterday/ago/last night用过去。",
       "label": "语法题"
     },
     {
@@ -23,334 +23,334 @@
       "type": "grammar",
       "knowledge_point": "relative_clause_who_which",
       "difficulty": 2,
-      "stem": "The girl ______ is singing on the stage is my classmate. She is the one ______ won the singing competition last week.",
+      "stem": "The boy ______ is standing under the tree is my cousin who just came back from Shenzhen.",
       "options": [
-        "A. who; which",
-        "B. which; who",
-        "C. who; who",
-        "D. that; which"
+        "A. who",
+        "B. which",
+        "C. whom",
+        "D. whose"
       ],
-      "correct_answer": "C",
-      "explanation": "选C。两个空都指代人（the girl, the one），所以都用who引导定语从句。A选项第二空which指物，错误。B选项第一空which指物，错误。D选项第二空which指物，错误。解题技巧：先行词是人用who/that，先行词是物用which/that；此处先行词明确是人，优先用who。口诀：'人who物which，that两者皆可替'。",
+      "correct_answer": "A",
+      "explanation": "本题考查定语从句关系代词的选择。先行词是'the boy'（指人），且关系代词在从句中作主语（is standing），因此用who。which指物；whom指人但只能作宾语；whose表示'……的'，作定语。判断技巧：指人用who/whom/that，指物用which/that；从句缺主语用who/which，缺宾语用whom/which/省略。",
       "label": "语法题"
     },
     {
       "id": 3,
       "type": "grammar",
       "knowledge_point": "passive_voice",
-      "difficulty": 1,
-      "stem": "These old buildings ______ down next month to make room for a new park.",
+      "difficulty": 3,
+      "stem": "The new environmental protection book ______ into 10 languages since it came out three years ago.",
       "options": [
-        "A. will be pulled",
-        "B. will pull",
-        "C. are pulling",
-        "D. pulled"
+        "A. translates",
+        "B. translated",
+        "C. has been translated",
+        "D. is translated"
       ],
-      "correct_answer": "A",
-      "explanation": "选A。主语buildings与pull down（拆除）是被动关系，时间状语next month表示将来，所以用一般将来时的被动语态will be pulled。B选项是主动语态，建筑物不能自己拆自己。C选项是现在进行时主动语态，语态和时态都错。D选项是一般过去时主动语态，时态和语态都错。解题技巧：看到next month想将来时，看到主语是'被拆除'的对象想被动语态，结构为will be done。",
+      "correct_answer": "C",
+      "explanation": "本题考查现在完成时的被动语态。时间状语'since it came out three years ago'（自从三年前出版以来）是现在完成时的标志；主语'book'与动词'translate'是被动关系（书被翻译），因此用现在完成时的被动语态'has been translated'。A是主动语态一般现在时；B是主动语态一般过去时；D是一般现在时被动语态，不能和since连用。解题关键：看到since想到现在完成时，看到'书被翻译'想到被动语态。",
       "label": "语法题"
     },
     {
       "id": 4,
       "type": "grammar",
-      "knowledge_point": "object_clause_modal_verbs",
-      "difficulty": 3,
-      "stem": "—Could you tell me ______?\n—It ______ belong to Jack. He is looking for his dictionary everywhere.",
+      "knowledge_point": "comparative_degree",
+      "difficulty": 1,
+      "stem": "Tom is ______ than any other student in his class. He is the best basketball player.",
       "options": [
-        "A. whose dictionary this is; must",
-        "B. whose dictionary is this; must",
-        "C. whose dictionary this is; can't",
-        "D. whose dictionary is this; can't"
+        "A. tall",
+        "B. taller",
+        "C. tallest",
+        "D. the tallest"
       ],
-      "correct_answer": "A",
-      "explanation": "选A。第一空是宾语从句，必须用陈述语序（主语this在前，谓语is在后），排除B和D。第二空根据语境'He is looking for his dictionary everywhere'（他到处找字典）表示肯定推测，用must（一定是），can't表示否定推测'不可能是'，与语境矛盾，排除C。解题技巧：宾语从句三要素——连接词、陈述语序、正确时态；情态动词表推测：must肯定（一定是），can't否定（不可能是），might可能（不确定）。",
+      "correct_answer": "B",
+      "explanation": "本题考查形容词比较级。句中有'than'（比），这是比较级的标志词，因此用taller。A是原级；C和D是最高级，用于三者或以上比较（常与in/of短语连用）。句型'比较级+than+any other+名词单数'表示'比其他任何……都……'，表达最高级含义。技巧：看到than就选比较级（-er/more）。",
       "label": "语法题"
     },
     {
       "id": 5,
       "type": "vocabulary",
-      "knowledge_point": "phrasal_verbs",
-      "difficulty": 1,
-      "stem": "If you don't know the word, you can ______ it ______ in the dictionary.",
+      "knowledge_point": "word_guessing_context",
+      "difficulty": 2,
+      "stem": "The old wooden bridge is not strong enough to support heavy trucks. It may ______ if too many trucks cross it at the same time.",
       "options": [
-        "A. look; up",
-        "B. look; for",
-        "C. look; after",
-        "D. look; at"
+        "A. fall down",
+        "B. break down",
+        "C. turn down",
+        "D. slow down"
       ],
       "correct_answer": "A",
-      "explanation": "选A。look up表示'查阅（词典、资料）'，是固定搭配。B选项look for表示'寻找'，强调找的动作，不是查字典。C选项look after表示'照顾'。D选项look at表示'看'。解题技巧：up有'向上'之意，查字典时目光在字条间上下移动，联想记忆；近期错题回顾，查字典必须用look up。",
+      "explanation": "本题考查语境猜词。前句说桥不够坚固，无法承受重型卡车，因此推断后句意思是'如果太多卡车同时通过，它可能会倒塌'。fall down意为'倒塌，落下'；break down意为'出故障，分解'（常用于机器、车辆）；turn down意为'调低，拒绝'；slow down意为'减速'。根据上下文'not strong enough'和'bridge'的语境，只有fall down符合逻辑。技巧：通过上下文关键词（strong/support）推断词义。",
       "label": "词汇题"
     },
     {
       "id": 6,
       "type": "vocabulary",
-      "knowledge_point": "word_formation",
+      "knowledge_point": "phrasal_verbs",
       "difficulty": 2,
-      "stem": "It was ______ of you to help the old lady cross the road. We all admire your ______.",
+      "stem": "We should ______ our small differences and work together to protect the environment.",
       "options": [
-        "A. kind; kindness",
-        "B. kind; kind",
-        "C. kindly; kindness",
-        "D. kindness; kind"
+        "A. set aside",
+        "B. put away",
+        "C. take off",
+        "D. give out"
       ],
       "correct_answer": "A",
-      "explanation": "选A。第一空在be动词后作表语，用形容词kind（善良的）。第二空在形容词性物主代词your后，需要名词kindness（善良）。B选项第二空是形容词，不能被your修饰。C选项第一空kindly是副词，不能作表语（此处需要形容词）。D选项第一空是名词，不能作表语。解题技巧：-ness是名词后缀，形容词+ness变名词；be动词后通常接形容词作表语。",
+      "explanation": "本题考查动词短语辨析。set aside意为'把……放一边，暂不考虑，搁置'；put away意为'把……收起来，储存'；take off意为'起飞，脱掉，突然成功'；give out意为'分发，耗尽，公布'。根据语境'我们应该搁置小分歧，共同努力保护环境'，set aside最符合句意。技巧：set aside differences是固定搭配，意为'搁置分歧'，常用于合作、谈判语境。",
       "label": "词汇题"
     },
     {
       "id": 7,
       "type": "vocabulary",
-      "knowledge_point": "word_meaning_context",
-      "difficulty": 2,
-      "stem": "The ______ of the mountain is covered with snow all year round. Few people can climb up to the ______.",
+      "knowledge_point": "word_meaning",
+      "difficulty": 1,
+      "stem": "If you don't know the meaning of a new word, you can ______ it in the dictionary.",
       "options": [
-        "A. foot; bottom",
-        "B. top; top",
-        "C. foot; top",
-        "D. bottom; top"
+        "A. look up",
+        "B. look for",
+        "C. look at",
+        "D. look after"
       ],
-      "correct_answer": "B",
-      "explanation": "选B。第一空根据'covered with snow all year round'（终年积雪）可知是山顶（top）。第二空'climb up to'（爬上）也指向山顶。A选项bottom（底部）不会终年积雪。C选项foot（山脚）不会终年积雪。D选项bottom（底部）错误。解题技巧：利用上下文线索，'covered with snow'和'climb up'都指向高处；针对近期错题，注意top表示山顶的用法。",
+      "correct_answer": "A",
+      "explanation": "本题考查动词短语辨析。look up意为'查阅（词典、资料）'；look for意为'寻找'；look at意为'看'；look after意为'照顾'。根据语境'在词典中查单词'，应选look up。技巧：look up+word+in the dictionary是固定搭配，注意代词要放中间（look it up），名词可放中间或后面（look the word up/look up the word）。",
       "label": "词汇题"
     },
     {
       "id": 8,
       "type": "cloze",
-      "knowledge_point": "cloze_general",
-      "difficulty": 2,
-      "group": "cloze_1",
-      "group_passage": "The Green School Project\n\nLast month, our school started a green project. We wanted to make our campus more environmentally friendly. The first step was to reduce waste. We asked students to bring reusable bottles instead of buying plastic ones.\n\nAt first, some students found it (8)______ to remember bringing their own bottles. But soon, they got used to it. Our teacher, Mr. Li, told us that small actions could make a big (9)______. He showed us some photos of plastic pollution in the ocean. It was shocking to see how much damage plastic waste could cause to sea animals.\n\nThen we started recycling paper. Every classroom now has a special box for waste paper. The paper (10)______ collected is sent to a recycling factory. In just one month, we saved about 500 kilograms of paper.\n\n(11)______, we organized a \"No Car Day\" on Fridays. Students and teachers were encouraged to walk, ride bikes or take buses to school. This not only reduced air pollution but also helped us stay healthy.\n\nThe project has taught us that everyone can contribute to protecting the environment. We feel proud that we are making a positive (12)______ to our planet.",
-      "stem": "(8)______",
+      "knowledge_point": "cloze_context",
+      "difficulty": 1,
+      "stem": "(1)______",
       "options": [
-        "A. easy",
-        "B. hard",
-        "C. happy",
-        "D. sad"
+        "A. using",
+        "B. collecting",
+        "C. sorting",
+        "D. making"
       ],
-      "correct_answer": "B",
-      "explanation": "选B。根据下文'But soon, they got used to it'（但很快他们习惯了）中的转折词But可知，起初应该是'困难的'。hard表示'困难的'，符合语境。A选项easy（容易的）与But转折矛盾。C选项happy（开心的）和D选项sad（难过的）通常用来描述人的情绪，而不是描述'remember bringing bottles'这件事的难度。解题技巧：利用转折关系，But前后语义相反，后面是'习惯'，前面应该是'不习惯/困难'。",
-      "label": "完形填空"
+      "correct_answer": "C",
+      "explanation": "本题考查语境推理。前文提到'plastic bottle recycling'（塑料瓶回收）和'special bins'（专用垃圾桶），后文说'They just threw bottles anywhere'（他们到处乱扔瓶子），说明学生们没有正确'分类'。sort意为'分类，整理'；use使用；collect收集；make制造。根据回收语境，sort...correctly（正确分类）最符合逻辑。",
+      "label": "完形填空",
+      "group": "cloze_1",
+      "group_passage": "A Green School Project\n\nLast month, our school started an environmental project called \"Green Campus\". The aim was to reduce waste and teach students about recycling.\n\nOur class decided to work on plastic bottle recycling. First, we placed special bins in every classroom. At first, many students didn't care about (1)______ them correctly. They just threw bottles anywhere.\n\nMy friend Li Wei came up with a great (2)______. He suggested putting up posters showing how long plastic takes to break down — 450 years! This shocked everyone.\n\nAfter that, students started paying more attention. Every Friday afternoon, we collect the bottles and (3)______ them to the recycling center. So far, we (4)______ over 500 kilograms of plastic.\n\nThe project has changed our school a lot. Not only has it made the campus cleaner, but it has also raised our environmental (5)______. We now understand that small actions can make a big difference."
     },
     {
       "id": 9,
       "type": "cloze",
-      "knowledge_point": "cloze_collocation",
+      "knowledge_point": "cloze_general",
       "difficulty": 2,
-      "group": "cloze_1",
-      "group_passage": "The Green School Project\n\nLast month, our school started a green project. We wanted to make our campus more environmentally friendly. The first step was to reduce waste. We asked students to bring reusable bottles instead of buying plastic ones.\n\nAt first, some students found it (8)______ to remember bringing their own bottles. But soon, they got used to it. Our teacher, Mr. Li, told us that small actions could make a big (9)______. He showed us some photos of plastic pollution in the ocean. It was shocking to see how much damage plastic waste could cause to sea animals.\n\nThen we started recycling paper. Every classroom now has a special box for waste paper. The paper (10)______ collected is sent to a recycling factory. In just one month, we saved about 500 kilograms of paper.\n\n(11)______, we organized a \"No Car Day\" on Fridays. Students and teachers were encouraged to walk, ride bikes or take buses to school. This not only reduced air pollution but also helped us stay healthy.\n\nThe project has taught us that everyone can contribute to protecting the environment. We feel proud that we are making a positive (12)______ to our planet.",
-      "stem": "(9)______",
+      "stem": "(2)______",
       "options": [
-        "A. decision",
-        "B. mistake",
-        "C. difference",
-        "D. progress"
+        "A. idea",
+        "B. speech",
+        "C. lesson",
+        "D. article"
       ],
-      "correct_answer": "C",
-      "explanation": "选C。固定搭配make a difference表示'有影响、起作用'，句意为'小行动可以产生大影响'。A选项make a decision（做决定）与small actions搭配不当。B选项make a mistake（犯错误）语义不符。D选项make progress（取得进步）通常不与a连用，且主语通常是人，不是actions。解题技巧：记住固定短语make a big difference（产生重大影响），这是中考高频考点。",
-      "label": "完形填空"
+      "correct_answer": "A",
+      "explanation": "本题考查名词辨析及固定搭配。come up with an idea是固定搭配，意为'想出一个主意'。idea主意，想法；speech演讲；lesson课程，教训；article文章。后文'He suggested...'（他建议……）说明这是一个'主意/想法'，因此选idea。",
+      "label": "完形填空",
+      "group": "cloze_1",
+      "group_passage": "A Green School Project\n\nLast month, our school started an environmental project called \"Green Campus\". The aim was to reduce waste and teach students about recycling.\n\nOur class decided to work on plastic bottle recycling. First, we placed special bins in every classroom. At first, many students didn't care about (1)______ them correctly. They just threw bottles anywhere.\n\nMy friend Li Wei came up with a great (2)______. He suggested putting up posters showing how long plastic takes to break down — 450 years! This shocked everyone.\n\nAfter that, students started paying more attention. Every Friday afternoon, we collect the bottles and (3)______ them to the recycling center. So far, we (4)______ over 500 kilograms of plastic.\n\nThe project has changed our school a lot. Not only has it made the campus cleaner, but it has also raised our environmental (5)______. We now understand that small actions can make a big difference."
     },
     {
       "id": 10,
       "type": "cloze",
-      "knowledge_point": "relative_clause_who_which",
+      "knowledge_point": "cloze_collocation",
       "difficulty": 2,
-      "group": "cloze_1",
-      "group_passage": "The Green School Project\n\nLast month, our school started a green project. We wanted to make our campus more environmentally friendly. The first step was to reduce waste. We asked students to bring reusable bottles instead of buying plastic ones.\n\nAt first, some students found it (8)______ to remember bringing their own bottles. But soon, they got used to it. Our teacher, Mr. Li, told us that small actions could make a big (9)______. He showed us some photos of plastic pollution in the ocean. It was shocking to see how much damage plastic waste could cause to sea animals.\n\nThen we started recycling paper. Every classroom now has a special box for waste paper. The paper (10)______ collected is sent to a recycling factory. In just one month, we saved about 500 kilograms of paper.\n\n(11)______, we organized a \"No Car Day\" on Fridays. Students and teachers were encouraged to walk, ride bikes or take buses to school. This not only reduced air pollution but also helped us stay healthy.\n\nThe project has taught us that everyone can contribute to protecting the environment. We feel proud that we are making a positive (12)______ to our planet.",
-      "stem": "(10)______",
+      "stem": "(3)______",
       "options": [
-        "A. who",
-        "B. what",
-        "C. which",
-        "D. where"
+        "A. donate",
+        "B. sell",
+        "C. send",
+        "D. show"
       ],
       "correct_answer": "C",
-      "explanation": "选C。先行词是the paper（纸），指物，在定语从句中作主语，所以用which引导。A选项who指人，纸是物，不能用who。B选项what不能引导定语从句。D选项where是关系副词，在从句中作地点状语，但此处从句缺少主语（纸被收集），需要关系代词。解题技巧：先行词是物用which/that，且从句缺少主语时用关系代词而非副词；针对薄弱点定语从句强化训练。",
-      "label": "完形填空"
+      "explanation": "本题考查动词辨析及语境理解。send...to...意为'把……送到……'；donate捐赠（通常搭配to charity）；sell卖；show展示。根据语境'我们把瓶子送到回收中心'，send最符合逻辑，表示运送的动作。donate虽然语义相关，但通常指直接捐赠给需要的人或机构，而回收中心是处理站，用send更准确。",
+      "label": "完形填空",
+      "group": "cloze_1",
+      "group_passage": "A Green School Project\n\nLast month, our school started an environmental project called \"Green Campus\". The aim was to reduce waste and teach students about recycling.\n\nOur class decided to work on plastic bottle recycling. First, we placed special bins in every classroom. At first, many students didn't care about (1)______ them correctly. They just threw bottles anywhere.\n\nMy friend Li Wei came up with a great (2)______. He suggested putting up posters showing how long plastic takes to break down — 450 years! This shocked everyone.\n\nAfter that, students started paying more attention. Every Friday afternoon, we collect the bottles and (3)______ them to the recycling center. So far, we (4)______ over 500 kilograms of plastic.\n\nThe project has changed our school a lot. Not only has it made the campus cleaner, but it has also raised our environmental (5)______. We now understand that small actions can make a big difference."
     },
     {
       "id": 11,
       "type": "cloze",
-      "knowledge_point": "cloze_logic",
-      "difficulty": 1,
-      "group": "cloze_1",
-      "group_passage": "The Green School Project\n\nLast month, our school started a green project. We wanted to make our campus more environmentally friendly. The first step was to reduce waste. We asked students to bring reusable bottles instead of buying plastic ones.\n\nAt first, some students found it (8)______ to remember bringing their own bottles. But soon, they got used to it. Our teacher, Mr. Li, told us that small actions could make a big (9)______. He showed us some photos of plastic pollution in the ocean. It was shocking to see how much damage plastic waste could cause to sea animals.\n\nThen we started recycling paper. Every classroom now has a special box for waste paper. The paper (10)______ collected is sent to a recycling factory. In just one month, we saved about 500 kilograms of paper.\n\n(11)______, we organized a \"No Car Day\" on Fridays. Students and teachers were encouraged to walk, ride bikes or take buses to school. This not only reduced air pollution but also helped us stay healthy.\n\nThe project has taught us that everyone can contribute to protecting the environment. We feel proud that we are making a positive (12)______ to our planet.",
-      "stem": "(11)______",
+      "knowledge_point": "present_perfect",
+      "difficulty": 2,
+      "stem": "(4)______",
       "options": [
-        "A. However",
-        "B. Therefore",
-        "C. Finally",
-        "D. Instead"
+        "A. recycled",
+        "B. have recycled",
+        "C. had recycled",
+        "D. are recycling"
       ],
-      "correct_answer": "C",
-      "explanation": "选C。根据上下文，前面讲了'reusable bottles'和'recycling paper'，这里是第三个措施'No Car Day'，表示顺序上的'最后'，用Finally。A选项However（然而）表转折，此处是并列的措施，无转折。B选项Therefore（因此）表因果，此处无因果关系。D选项Instead（代替）表替代，此处是新增措施，不是替代。解题技巧：注意文章结构，First... Then... Finally...是说明文常见顺序标志。",
-      "label": "完形填空"
+      "correct_answer": "B",
+      "explanation": "本题考查现在完成时。时间状语'So far'（到目前为止）是现在完成时的标志词，表示从过去某时持续到现在的情况，因此用have recycled。A是一般过去时；C是过去完成时（用于过去的过去）；D是现在进行时。技巧：so far/up to now/by now/in the past/last few years都是现在完成时的标志词。",
+      "label": "完形填空",
+      "group": "cloze_1",
+      "group_passage": "A Green School Project\n\nLast month, our school started an environmental project called \"Green Campus\". The aim was to reduce waste and teach students about recycling.\n\nOur class decided to work on plastic bottle recycling. First, we placed special bins in every classroom. At first, many students didn't care about (1)______ them correctly. They just threw bottles anywhere.\n\nMy friend Li Wei came up with a great (2)______. He suggested putting up posters showing how long plastic takes to break down — 450 years! This shocked everyone.\n\nAfter that, students started paying more attention. Every Friday afternoon, we collect the bottles and (3)______ them to the recycling center. So far, we (4)______ over 500 kilograms of plastic.\n\nThe project has changed our school a lot. Not only has it made the campus cleaner, but it has also raised our environmental (5)______. We now understand that small actions can make a big difference."
     },
     {
       "id": 12,
       "type": "cloze",
-      "knowledge_point": "cloze_collocation",
+      "knowledge_point": "cloze_context",
       "difficulty": 1,
-      "group": "cloze_1",
-      "group_passage": "The Green School Project\n\nLast month, our school started a green project. We wanted to make our campus more environmentally friendly. The first step was to reduce waste. We asked students to bring reusable bottles instead of buying plastic ones.\n\nAt first, some students found it (8)______ to remember bringing their own bottles. But soon, they got used to it. Our teacher, Mr. Li, told us that small actions could make a big (9)______. He showed us some photos of plastic pollution in the ocean. It was shocking to see how much damage plastic waste could cause to sea animals.\n\nThen we started recycling paper. Every classroom now has a special box for waste paper. The paper (10)______ collected is sent to a recycling factory. In just one month, we saved about 500 kilograms of paper.\n\n(11)______, we organized a \"No Car Day\" on Fridays. Students and teachers were encouraged to walk, ride bikes or take buses to school. This not only reduced air pollution but also helped us stay healthy.\n\nThe project has taught us that everyone can contribute to protecting the environment. We feel proud that we are making a positive (12)______ to our planet.",
-      "stem": "(12)______",
+      "stem": "(5)______",
       "options": [
-        "A. difference",
-        "B. contribution",
-        "C. attention",
-        "D. decision"
+        "A. protection",
+        "B. pollution",
+        "C. awareness",
+        "D. development"
       ],
-      "correct_answer": "B",
-      "explanation": "选B。固定搭配make a contribution to...表示'为...做出贡献'，句意为'为我们星球做出积极贡献'。A选项make a difference（有影响）后面通常不接to，而是直接接宾语或接to+动词。C选项make attention（引起注意）搭配不当，通常是draw/pay attention。D选项make a decision（做决定）与语境不符。解题技巧：contribute（动词，贡献）的名词形式是contribution，与make搭配表示'做出贡献'，to后面接对象。",
-      "label": "完形填空"
+      "correct_answer": "C",
+      "explanation": "本题考查名词辨析及语境理解。awareness意为'意识'，environmental awareness即'环保意识'；protection保护；pollution污染；development发展。前文提到项目让校园更干净，后文说'我们明白了小行动能带来大改变'，说明提高了'意识'。raise awareness是固定搭配，意为'提高意识'。",
+      "label": "完形填空",
+      "group": "cloze_1",
+      "group_passage": "A Green School Project\n\nLast month, our school started an environmental project called \"Green Campus\". The aim was to reduce waste and teach students about recycling.\n\nOur class decided to work on plastic bottle recycling. First, we placed special bins in every classroom. At first, many students didn't care about (1)______ them correctly. They just threw bottles anywhere.\n\nMy friend Li Wei came up with a great (2)______. He suggested putting up posters showing how long plastic takes to break down — 450 years! This shocked everyone.\n\nAfter that, students started paying more attention. Every Friday afternoon, we collect the bottles and (3)______ them to the recycling center. So far, we (4)______ over 500 kilograms of plastic.\n\nThe project has changed our school a lot. Not only has it made the campus cleaner, but it has also raised our environmental (5)______. We now understand that small actions can make a big difference."
     },
     {
       "id": 13,
       "type": "reading",
       "knowledge_point": "detail",
-      "difficulty": 2,
-      "group": "reading_1",
-      "group_passage": "Teenagers and Screen Time\n\nA recent study shows that teenagers spend an average of 7 hours and 22 minutes on screens every day. This includes phones, computers, and TVs. However, doctors recommend no more than 2 hours of recreational screen time daily.\n\nToo much screen time can lead to several problems. First, it affects sleep quality. The blue light from screens makes it harder to fall asleep. Second, it can cause eye strain and headaches. Third, spending too much time online may reduce face-to-face communication skills.\n\nHowever, not all screen time is bad. Using educational apps or doing research for homework can be beneficial. The key is to find a balance.\n\nHere are some tips to manage screen time. Turn off notifications during study hours. Set a \"no phone\" rule before bedtime. Find other activities you enjoy, such as sports or reading. Parents can also help by setting a good example and having screen-free family time.\n\nBy being mindful of how we use technology, we can enjoy its benefits while avoiding its negative effects.",
-      "stem": "How many hours do teenagers spend on screens daily according to the study?",
+      "difficulty": 1,
+      "stem": "According to the study mentioned in Paragraph 1, how many hours do teenagers spend on screens daily on average?",
       "options": [
-        "A. Less than 2 hours.",
-        "B. About 7.5 hours.",
-        "C. Exactly 2 hours.",
-        "D. More than 8 hours."
+        "A. 6 hours",
+        "B. 7.5 hours",
+        "C. 20 minutes",
+        "D. 450 years"
       ],
       "correct_answer": "B",
-      "explanation": "选B。根据文章第一段第一句'A recent study shows that teenagers spend an average of 7 hours and 22 minutes on screens every day'，7小时22分钟约等于7.5小时（about 7.5 hours）。A选项是医生建议的时间，不是实际时间。C选项错误。D选项超过了文中数据。解题技巧：细节题要精准定位，找到关键词'spend'和'hours'，注意数字的同义转换（7 hours 22 minutes ≈ about 7.5 hours）。",
-      "label": "阅读-细节理解"
+      "explanation": "本题是细节理解题。根据第一段第一句'A recent study shows that teenagers spend an average of 7.5 hours on screens every day.'（最近的一项研究显示，青少年平均每天花7.5小时在屏幕上），直接找到答案7.5 hours。A选项6小时是第三段提到的社交媒体使用时间；C选项20分钟是专家建议的休息规则；D选项450年是塑料分解时间（干扰项来自完形填空，注意区分不同文章信息）。技巧：细节题要准确定位原文，注意数字对应。",
+      "label": "阅读-细节理解",
+      "group": "reading_1",
+      "group_passage": "Screen Time and Teen Health\n\nA recent study shows that teenagers spend an average of 7.5 hours on screens every day. This includes smartphones, computers, and televisions. While technology helps with learning and communication, excessive screen time can cause health problems.\n\nDr. Chen, a health researcher, explains that looking at screens for too long leads to eye strain and poor sleep. \"The blue light from screens tricks the brain into thinking it's still daytime,\" says Dr. Chen. This makes it hard for teens to fall asleep at night.\n\nBesides physical health, screen time also affects mental health. The study found that teens who spend more than 6 hours daily on social media are more likely to feel anxious or depressed. They often compare themselves with others online, which lowers their self-esteem.\n\nHowever, not all screen time is harmful. Educational apps and video calls with family can be beneficial. The key is balance. Experts recommend the \"20-20-20 rule\": every 20 minutes, look at something 20 feet away for 20 seconds.\n\nParents can help by setting screen-free zones at home, such as during meals and before bedtime. Schools are also taking action. Some have started \"phone-free days\" to encourage face-to-face communication.\n\nRemember, technology is a tool. It's up to us to use it wisely."
     },
     {
       "id": 14,
       "type": "reading",
-      "knowledge_point": "word_guessing_context",
+      "knowledge_point": "word_guessing",
       "difficulty": 2,
-      "group": "reading_1",
-      "group_passage": "Teenagers and Screen Time\n\nA recent study shows that teenagers spend an average of 7 hours and 22 minutes on screens every day. This includes phones, computers, and TVs. However, doctors recommend no more than 2 hours of recreational screen time daily.\n\nToo much screen time can lead to several problems. First, it affects sleep quality. The blue light from screens makes it harder to fall asleep. Second, it can cause eye strain and headaches. Third, spending too much time online may reduce face-to-face communication skills.\n\nHowever, not all screen time is bad. Using educational apps or doing research for homework can be beneficial. The key is to find a balance.\n\nHere are some tips to manage screen time. Turn off notifications during study hours. Set a \"no phone\" rule before bedtime. Find other activities you enjoy, such as sports or reading. Parents can also help by setting a good example and having screen-free family time.\n\nBy being mindful of how we use technology, we can enjoy its benefits while avoiding its negative effects.",
-      "stem": "The underlined word \"recreational\" in Paragraph 1 probably means ______.",
+      "stem": "What does the underlined word 'excessive' in Paragraph 1 probably mean?",
       "options": [
-        "A. educational",
-        "B. for pleasure/entertainment",
-        "C. working",
-        "D. sleeping"
+        "A. Limited",
+        "B. Too much",
+        "C. Necessary",
+        "D. Proper"
       ],
       "correct_answer": "B",
-      "explanation": "选B。根据上下文，第一段提到'phones, computers, and TVs'，第三段对比提到'Using educational apps or doing research'（教育类），可以推断recreational与educational相对，指娱乐性质的屏幕时间。A选项educational（教育的）与第三段重复，但医生限制的是娱乐时间而非教育时间。C选项working（工作的）和D选项sleeping（睡觉的）与语境无关。解题技巧：利用对比关系，后文'educational'与'recreational'形成对比， educational是学习，recreational就是娱乐；针对薄弱点词义猜测题，注意上下文逻辑关系。",
-      "label": "阅读-词义猜测"
+      "explanation": "本题是词义猜测题。根据上下文，前句说每天7.5小时，后句说'会导致健康问题'，因此excessive应该是'过多的，过量的'意思。limited有限的；too much太多；necessary必要的；proper适当的。技巧：通过因果逻辑判断，'导致健康问题'通常是因为'过多'而非'适当'或'有限'。前缀ex-表示'出，外'，cess表示'走'，excessive即'走出界限的'→过度的。",
+      "label": "阅读-词义猜测",
+      "group": "reading_1",
+      "group_passage": "Screen Time and Teen Health\n\nA recent study shows that teenagers spend an average of 7.5 hours on screens every day. This includes smartphones, computers, and televisions. While technology helps with learning and communication, excessive screen time can cause health problems.\n\nDr. Chen, a health researcher, explains that looking at screens for too long leads to eye strain and poor sleep. \"The blue light from screens tricks the brain into thinking it's still daytime,\" says Dr. Chen. This makes it hard for teens to fall asleep at night.\n\nBesides physical health, screen time also affects mental health. The study found that teens who spend more than 6 hours daily on social media are more likely to feel anxious or depressed. They often compare themselves with others online, which lowers their self-esteem.\n\nHowever, not all screen time is harmful. Educational apps and video calls with family can be beneficial. The key is balance. Experts recommend the \"20-20-20 rule\": every 20 minutes, look at something 20 feet away for 20 seconds.\n\nParents can help by setting screen-free zones at home, such as during meals and before bedtime. Schools are also taking action. Some have started \"phone-free days\" to encourage face-to-face communication.\n\nRemember, technology is a tool. It's up to us to use it wisely."
     },
     {
       "id": 15,
       "type": "reading",
       "knowledge_point": "inference",
       "difficulty": 3,
-      "group": "reading_1",
-      "group_passage": "Teenagers and Screen Time\n\nA recent study shows that teenagers spend an average of 7 hours and 22 minutes on screens every day. This includes phones, computers, and TVs. However, doctors recommend no more than 2 hours of recreational screen time daily.\n\nToo much screen time can lead to several problems. First, it affects sleep quality. The blue light from screens makes it harder to fall asleep. Second, it can cause eye strain and headaches. Third, spending too much time online may reduce face-to-face communication skills.\n\nHowever, not all screen time is bad. Using educational apps or doing research for homework can be beneficial. The key is to find a balance.\n\nHere are some tips to manage screen time. Turn off notifications during study hours. Set a \"no phone\" rule before bedtime. Find other activities you enjoy, such as sports or reading. Parents can also help by setting a good example and having screen-free family time.\n\nBy being mindful of how we use technology, we can enjoy its benefits while avoiding its negative effects.",
       "stem": "What can we infer from the passage?",
       "options": [
-        "A. All screen time is harmful to teenagers.",
-        "B. Teenagers should never use smartphones.",
-        "C. Parents should help manage children's screen time.",
-        "D. Doctors spend less time on screens than teenagers."
+        "A. All screen time is bad for teenagers and should be avoided.",
+        "B. Teenagers should never use social media because it causes depression.",
+        "C. Using technology wisely with balance is important for teen health.",
+        "D. Parents should forbid their children from using smartphones completely."
       ],
       "correct_answer": "C",
-      "explanation": "选C。根据最后一段'Parents can also help by setting a good example and having screen-free family time'可以推断出父母应该帮助孩子管理屏幕时间。A选项错误，因为第三段明确说'not all screen time is bad'。B选项'never'太绝对，文章说'find a balance'而非完全禁止。D选项文章未提及医生使用屏幕的时间，无法推断。解题技巧：推理题要注意选项中的绝对词（all, never），通常过于绝对的选项是错误的；正确答案通常是基于原文的合理延伸，而非原文直接陈述的内容。",
-      "label": "阅读-推理判断"
+      "explanation": "本题是推理判断题。A选项说所有屏幕时间都有害，与第四段'However, not all screen time is harmful'矛盾；B选项说绝不能用社交媒体，过于绝对，文中只说超过6小时可能焦虑；C选项'明智地平衡使用科技对青少年健康很重要'符合第四段'The key is balance'和最后一段'It's up to us to use it wisely'；D选项说父母应完全禁止，与文中'setting screen-free zones'（设置无屏幕区域，而非完全禁止）不符。技巧：推理题要基于原文但不停留在表面，注意绝对化词汇（all/never/completely）通常是错的。",
+      "label": "阅读-推理判断",
+      "group": "reading_1",
+      "group_passage": "Screen Time and Teen Health\n\nA recent study shows that teenagers spend an average of 7.5 hours on screens every day. This includes smartphones, computers, and televisions. While technology helps with learning and communication, excessive screen time can cause health problems.\n\nDr. Chen, a health researcher, explains that looking at screens for too long leads to eye strain and poor sleep. \"The blue light from screens tricks the brain into thinking it's still daytime,\" says Dr. Chen. This makes it hard for teens to fall asleep at night.\n\nBesides physical health, screen time also affects mental health. The study found that teens who spend more than 6 hours daily on social media are more likely to feel anxious or depressed. They often compare themselves with others online, which lowers their self-esteem.\n\nHowever, not all screen time is harmful. Educational apps and video calls with family can be beneficial. The key is balance. Experts recommend the \"20-20-20 rule\": every 20 minutes, look at something 20 feet away for 20 seconds.\n\nParents can help by setting screen-free zones at home, such as during meals and before bedtime. Schools are also taking action. Some have started \"phone-free days\" to encourage face-to-face communication.\n\nRemember, technology is a tool. It's up to us to use it wisely."
     },
     {
       "id": 16,
       "type": "reading",
-      "knowledge_point": "main_idea_title",
-      "difficulty": 3,
-      "group": "reading_1",
-      "group_passage": "Teenagers and Screen Time\n\nA recent study shows that teenagers spend an average of 7 hours and 22 minutes on screens every day. This includes phones, computers, and TVs. However, doctors recommend no more than 2 hours of recreational screen time daily.\n\nToo much screen time can lead to several problems. First, it affects sleep quality. The blue light from screens makes it harder to fall asleep. Second, it can cause eye strain and headaches. Third, spending too much time online may reduce face-to-face communication skills.\n\nHowever, not all screen time is bad. Using educational apps or doing research for homework can be beneficial. The key is to find a balance.\n\nHere are some tips to manage screen time. Turn off notifications during study hours. Set a \"no phone\" rule before bedtime. Find other activities you enjoy, such as sports or reading. Parents can also help by setting a good example and having screen-free family time.\n\nBy being mindful of how we use technology, we can enjoy its benefits while avoiding its negative effects.",
+      "knowledge_point": "main_idea",
+      "difficulty": 2,
       "stem": "What is the best title for this passage?",
       "options": [
-        "A. The History of Computers",
-        "B. Teenagers' Screen Time: Problems and Solutions",
-        "C. How to Repair Your Phone",
-        "D. The Benefits of Online Games"
+        "A. The History of Smartphones",
+        "B. How to Make Friends Online",
+        "C. Screen Time and Teen Health",
+        "D. Educational Apps for Students"
       ],
-      "correct_answer": "B",
-      "explanation": "选B。文章第一段讲现状（屏幕时间过多），第二段讲问题，第三段讲平衡，第四段讲解决方案（建议），全面概括了问题和解决方案。A选项计算机历史，文章未提及。C选项修理手机，与主题无关。D选项网络游戏好处，片面且与文章重点（控制屏幕时间）不符。解题技巧：主旨大意题要涵盖全文主要内容，' Problems and Solutions'（问题与解决方案）涵盖了第二段的问题和第四段的建议；针对薄弱点主旨题，注意避免以偏概全的选项。",
-      "label": "阅读-主旨大意"
+      "correct_answer": "C",
+      "explanation": "本题是主旨大意题。文章第一段讲屏幕使用时间，第二段讲身体健康（眼睛、睡眠），第三段讲心理健康，第四段讲如何平衡使用，整体围绕'屏幕时间与青少年健康'展开。A选项智能手机历史，文中未提；B选项如何网上交友，只在第三段提及社交媒体的负面影响；D选项教育应用，只在第四段作为正面例子提到。C选项涵盖了全文主题。技巧：最佳标题要覆盖全文主要内容，既不能太宽泛也不能太片面，通常首段或尾段会点明主题。",
+      "label": "阅读-主旨大意",
+      "group": "reading_1",
+      "group_passage": "Screen Time and Teen Health\n\nA recent study shows that teenagers spend an average of 7.5 hours on screens every day. This includes smartphones, computers, and televisions. While technology helps with learning and communication, excessive screen time can cause health problems.\n\nDr. Chen, a health researcher, explains that looking at screens for too long leads to eye strain and poor sleep. \"The blue light from screens tricks the brain into thinking it's still daytime,\" says Dr. Chen. This makes it hard for teens to fall asleep at night.\n\nBesides physical health, screen time also affects mental health. The study found that teens who spend more than 6 hours daily on social media are more likely to feel anxious or depressed. They often compare themselves with others online, which lowers their self-esteem.\n\nHowever, not all screen time is harmful. Educational apps and video calls with family can be beneficial. The key is balance. Experts recommend the \"20-20-20 rule\": every 20 minutes, look at something 20 feet away for 20 seconds.\n\nParents can help by setting screen-free zones at home, such as during meals and before bedtime. Schools are also taking action. Some have started \"phone-free days\" to encourage face-to-face communication.\n\nRemember, technology is a tool. It's up to us to use it wisely."
     },
     {
       "id": 17,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "group": "fill_1",
-      "group_passage": "Developing Good Study Habits\n\nDeveloping good study habits is important for middle school students. (17)______ Here are some useful tips.\n\nFirst, find a quiet place to study. Your bedroom or a library corner can be good choices. Make sure there are no distractions like phones or games. (18)______\n\nSecond, make a study plan. Write down what you need to do each day. (19)______ This will help you manage your time better.\n\nThird, take regular breaks. Studying for too long without rest is not efficient. (20)______ For example, you can study for 45 minutes and then rest for 10 minutes.\n\nBy following these suggestions, you can improve your study efficiency and get better grades.",
       "stem": "(17)______",
       "options": [
-        "A. However, many students don't know how to do it.",
-        "B. For example, turn off your phone while studying.",
-        "C. In addition, you should prioritize difficult subjects.",
-        "D. As a result, you will feel less stressed.",
-        "E. For example, try the Pomodoro Technique."
+        "A. Then, prioritize your tasks and stick to your plan.",
+        "B. However, with good time management, you can do both well.",
+        "C. As a result, many students give up their favorite activities.",
+        "D. Even short periods can bring you joy and relaxation.",
+        "E. On the other hand, studying all day without breaks is harmful."
       ],
-      "correct_answer": "A",
-      "explanation": "选A。前一句说'养成好习惯很重要'，后一句说'这里有一些建议'，中间需要过渡句。A选项'然而，很多学生不知道如何做'起到了承上启下的作用，承接上文的'重要性'，引出下文的'建议'。B、C、E都是具体例子或方法，不适合放在段首总起。D选项是结果，与后文'Here are tips'无法衔接。解题技巧：选句填空注意承上启下，段首空通常起过渡或总起作用，此处需要转折过渡引出下文的建议。",
-      "label": "短文填空"
+      "correct_answer": "B",
+      "explanation": "本题考查段落衔接与逻辑关系。前文说'许多学生因为繁重的学业而难以找到时间从事爱好'，后文说'以下是帮助你实现这种平衡的建议'，因此空格处需要一个转折句，承上启下，引出'平衡'的概念。B选项'然而，通过良好的时间管理，你可以把两者都做好'符合逻辑。A选项是具体建议，应在后面；C选项是结果，但后文是解决方案，衔接不当；D选项讲短时间，与后文'tips'衔接不自然；E选项讲休息的重要性，与后文建议列表衔接不如B自然。",
+      "label": "短文填空",
+      "group": "fill_1",
+      "group_passage": "Balancing Study and Hobbies\n\nMany students struggle to find time for their hobbies because of heavy schoolwork. (17)______ Here are some tips to help you achieve this balance.\n\nFirst, make a schedule. Write down all your homework and activities in a planner. (18)______ This way, you won't forget important tasks or waste time deciding what to do next.\n\nSecond, use small pockets of time. You don't need hours to enjoy a hobby. (19)______ For example, you can read a book for 15 minutes before bed or draw during lunch break.\n\nFinally, don't forget to rest. (20)______ If you feel too stressed, take a short walk or listen to music. A relaxed mind helps you study better.\n\nRemember, hobbies are not a waste of time. They help you relax and develop new skills."
     },
     {
       "id": 18,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "group": "fill_1",
-      "group_passage": "Developing Good Study Habits\n\nDeveloping good study habits is important for middle school students. (17)______ Here are some useful tips.\n\nFirst, find a quiet place to study. Your bedroom or a library corner can be good choices. Make sure there are no distractions like phones or games. (18)______\n\nSecond, make a study plan. Write down what you need to do each day. (19)______ This will help you manage your time better.\n\nThird, take regular breaks. Studying for too long without rest is not efficient. (20)______ For example, you can study for 45 minutes and then rest for 10 minutes.\n\nBy following these suggestions, you can improve your study efficiency and get better grades.",
       "stem": "(18)______",
       "options": [
-        "A. However, many students don't know how to do it.",
-        "B. For example, turn off your phone while studying.",
-        "C. In addition, you should prioritize difficult subjects.",
-        "D. As a result, you will feel less stressed.",
-        "E. For example, try the Pomodoro Technique."
+        "A. Then, prioritize your tasks and stick to your plan.",
+        "B. However, with good time management, you can do both well.",
+        "C. As a result, many students give up their favorite activities.",
+        "D. Even short periods can bring you joy and relaxation.",
+        "E. On the other hand, studying all day without breaks is harmful."
       ],
-      "correct_answer": "B",
-      "explanation": "选B。前一句说'确保没有干扰，比如手机或游戏'，B选项'例如，学习时关掉手机'是对前一句的具体举例说明，逻辑连贯。A选项是过渡句，此处不需要。C选项'另外，你应该优先处理难的科目'，虽然也是建议，但与前文' distractions'无关。D选项是结果，此处需要例子。E选项是番茄工作法，属于后文'休息'部分的内容。解题技巧：注意指代和举例关系，前句提到phones，B选项具体说明如何处理手机干扰，是前句的例证。",
-      "label": "短文填空"
+      "correct_answer": "A",
+      "explanation": "本题考查指代衔接与逻辑顺序。前文说'首先，制定时间表，在计划本上写下所有作业和活动'，后文说'这样你就不会忘记重要任务'，因此空格处应该是制定计划后的下一步行动。A选项'然后，确定任务的优先级并坚持执行你的计划'承接上文，Then表示顺序，且'your plan'指代上文的'schedule'。其他选项：B是转折，C是结果，D讲短时间，E讲休息，都与'制定计划'的语境不符。",
+      "label": "短文填空",
+      "group": "fill_1",
+      "group_passage": "Balancing Study and Hobbies\n\nMany students struggle to find time for their hobbies because of heavy schoolwork. (17)______ Here are some tips to help you achieve this balance.\n\nFirst, make a schedule. Write down all your homework and activities in a planner. (18)______ This way, you won't forget important tasks or waste time deciding what to do next.\n\nSecond, use small pockets of time. You don't need hours to enjoy a hobby. (19)______ For example, you can read a book for 15 minutes before bed or draw during lunch break.\n\nFinally, don't forget to rest. (20)______ If you feel too stressed, take a short walk or listen to music. A relaxed mind helps you study better.\n\nRemember, hobbies are not a waste of time. They help you relax and develop new skills."
     },
     {
       "id": 19,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "group": "fill_1",
-      "group_passage": "Developing Good Study Habits\n\nDeveloping good study habits is important for middle school students. (17)______ Here are some useful tips.\n\nFirst, find a quiet place to study. Your bedroom or a library corner can be good choices. Make sure there are no distractions like phones or games. (18)______\n\nSecond, make a study plan. Write down what you need to do each day. (19)______ This will help you manage your time better.\n\nThird, take regular breaks. Studying for too long without rest is not efficient. (20)______ For example, you can study for 45 minutes and then rest for 10 minutes.\n\nBy following these suggestions, you can improve your study efficiency and get better grades.",
       "stem": "(19)______",
       "options": [
-        "A. However, many students don't know how to do it.",
-        "B. For example, turn off your phone while studying.",
-        "C. In addition, you should prioritize difficult subjects.",
-        "D. As a result, you will feel less stressed.",
-        "E. For example, try the Pomodoro Technique."
+        "A. Then, prioritize your tasks and stick to your plan.",
+        "B. However, with good time management, you can do both well.",
+        "C. As a result, many students give up their favorite activities.",
+        "D. Even short periods can bring you joy and relaxation.",
+        "E. On the other hand, studying all day without breaks is harmful."
       ],
-      "correct_answer": "C",
-      "explanation": "选C。前一句讲'制定计划，写下每天要做的事'，C选项'另外，你应该优先处理难的科目'是对制定计划的补充建议，In addition表示递进关系，符合逻辑。A选项不适用。B选项是前一个要点的例子。D选项是结果。E选项是后一个要点的例子。解题技巧：注意逻辑关系词，In addition/Also/Furthermore表示递进，补充同类信息；此处都是关于如何制定计划的建议，属于递进关系。",
-      "label": "短文填空"
+      "correct_answer": "D",
+      "explanation": "本题考查语境衔接。前文说'你不需要花好几个小时来享受爱好'，后文举例'你可以睡前读15分钟书或午餐时画画'，因此空格处应该强调'短时间'的价值。D选项'即使是短时间段也能带给你快乐和放松'承上启下，short periods对应前文small pockets of time和hours，也对应后文的15 minutes。其他选项与'small pockets of time'主题不符。",
+      "label": "短文填空",
+      "group": "fill_1",
+      "group_passage": "Balancing Study and Hobbies\n\nMany students struggle to find time for their hobbies because of heavy schoolwork. (17)______ Here are some tips to help you achieve this balance.\n\nFirst, make a schedule. Write down all your homework and activities in a planner. (18)______ This way, you won't forget important tasks or waste time deciding what to do next.\n\nSecond, use small pockets of time. You don't need hours to enjoy a hobby. (19)______ For example, you can read a book for 15 minutes before bed or draw during lunch break.\n\nFinally, don't forget to rest. (20)______ If you feel too stressed, take a short walk or listen to music. A relaxed mind helps you study better.\n\nRemember, hobbies are not a waste of time. They help you relax and develop new skills."
     },
     {
       "id": 20,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "group": "fill_1",
-      "group_passage": "Developing Good Study Habits\n\nDeveloping good study habits is important for middle school students. (17)______ Here are some useful tips.\n\nFirst, find a quiet place to study. Your bedroom or a library corner can be good choices. Make sure there are no distractions like phones or games. (18)______\n\nSecond, make a study plan. Write down what you need to do each day. (19)______ This will help you manage your time better.\n\nThird, take regular breaks. Studying for too long without rest is not efficient. (20)______ For example, you can study for 45 minutes and then rest for 10 minutes.\n\nBy following these suggestions, you can improve your study efficiency and get better grades.",
       "stem": "(20)______",
       "options": [
-        "A. However, many students don't know how to do it.",
-        "B. For example, turn off your phone while studying.",
-        "C. In addition, you should prioritize difficult subjects.",
-        "D. As a result, you will feel less stressed.",
-        "E. For example, try the Pomodoro Technique."
+        "A. Then, prioritize your tasks and stick to your plan.",
+        "B. However, with good time management, you can do both well.",
+        "C. As a result, many students give up their favorite activities.",
+        "D. Even short periods can bring you joy and relaxation.",
+        "E. On the other hand, studying all day without breaks is harmful."
       ],
       "correct_answer": "E",
-      "explanation": "选E。前一句讲'定期休息，长时间学习不休息效率低'，后一句讲'例如，学45分钟休息10分钟'，E选项'例如，尝试番茄工作法'承上启下，番茄工作法正是学一段时间休息一段时间的方法，后一句是对E选项的具体解释。A、B、C已选或不符合。D选项是结果，但后文是举例而非结果。解题技巧：注意例证关系，For example表明后句是对选项的具体说明，后句'45 minutes...rest for 10 minutes'正是番茄工作法的具体做法，因此选E。",
-      "label": "短文填空"
+      "explanation": "本题考查逻辑关系与段落衔接。本段主题是'rest'（休息），前文说'最后，不要忘记休息'，后文说'如果你感到压力太大，散散步或听听音乐'，因此空格处应该解释为什么要休息，或说明不休息的坏处。E选项'另一方面，整天学习不休息是有害的'引出休息的必要性，On the other hand表示转折对比（虽然要努力学习，但……），符合逻辑。A、B、C、D都不涉及'rest'或'studying all day'的对比。",
+      "label": "短文填空",
+      "group": "fill_1",
+      "group_passage": "Balancing Study and Hobbies\n\nMany students struggle to find time for their hobbies because of heavy schoolwork. (17)______ Here are some tips to help you achieve this balance.\n\nFirst, make a schedule. Write down all your homework and activities in a planner. (18)______ This way, you won't forget important tasks or waste time deciding what to do next.\n\nSecond, use small pockets of time. You don't need hours to enjoy a hobby. (19)______ For example, you can read a book for 15 minutes before bed or draw during lunch break.\n\nFinally, don't forget to rest. (20)______ If you feel too stressed, take a short walk or listen to music. A relaxed mind helps you study better.\n\nRemember, hobbies are not a waste of time. They help you relax and develop new skills."
     }
   ]
 }
