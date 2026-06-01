@@ -389,61 +389,6 @@
   ],
   "errors": [
     {
-      "date": "2026-05-22",
-      "session": 1,
-      "question_id": 5,
-      "type": "vocabulary",
-      "knowledge_point": "word_meaning_context",
-      "label": "词汇题",
-      "stem": "The weather was terrible yesterday. It was raining heavily and the wind was blowing strongly. People could hardly go outside.\nWhat does the underlined word 'terrible' mean?",
-      "options": [
-        "A. Very good",
-        "B. Very bad",
-        "C. Very cold",
-        "D. Very hot"
-      ],
-      "correct_answer": "B",
-      "student_answer": "A",
-      "explanation": "选B。根据上下文线索'raining heavily'（雨下得很大）和'wind was blowing strongly'（风刮得很大）以及'could hardly go outside'（几乎不能外出），可以推断terrible是'糟糕的、恶劣的'意思。A意思相反；C和D只是描述温度，而原文描述的是风雨交加的综合恶劣天气。解题技巧：猜词题要关注前后的同义词、反义词或解释说明性的短语。"
-    },
-    {
-      "date": "2026-05-22",
-      "session": 1,
-      "question_id": 10,
-      "type": "cloze",
-      "knowledge_point": "cloze_general",
-      "label": "完形填空",
-      "stem": "(10)_____",
-      "options": [
-        "A. big",
-        "B. heavy",
-        "C. attractive",
-        "D. expensive"
-      ],
-      "correct_answer": "C",
-      "student_answer": "D",
-      "explanation": "选C。根据上文'painted it with bright colors'（涂上了鲜艳的颜色），目的是让书架看起来'有吸引力的、漂亮的'。attractive表示'吸引人的'；big（大的）和heavy（重的）与涂颜色无关；expensive（昂贵的）不符合语境，因为这是用废旧材料做的。解题技巧：根据动作（painted bright colors）推断目的（更好看/更吸引人）。"
-    },
-    {
-      "date": "2026-05-22",
-      "session": 1,
-      "question_id": 17,
-      "type": "fill",
-      "knowledge_point": "sentence_fill",
-      "label": "短文填空",
-      "stem": "(17)_____",
-      "options": [
-        "A. This is because your brain needs time to process information.",
-        "B. However, with the right methods, you can improve your memory easily.",
-        "C. In addition, try to connect new knowledge with what you already know.",
-        "D. As a result, your memory will become worse if you don't sleep well.",
-        "E. Then, organize your notes in a clear way."
-      ],
-      "correct_answer": "B",
-      "student_answer": "C",
-      "explanation": "选B。前一句说'很多学生抱怨他们很快忘记学过的东西'，后一句说'这里有一些有用的建议'，中间需要转折过渡，表示'但是，用正确的方法，你可以轻松提高记忆力'。However表示转折，承接上文的抱怨并引出下文的解决方案。其他选项：A解释原因，但前文是抱怨而非结论；C是递进；D是结果；E是顺承，都不符合此处转折逻辑。解题技巧：选句子填空要关注连接词，抱怨→转折→解决方案是常见结构。"
-    },
-    {
       "date": "2026-05-23",
       "session": 1,
       "question_id": 10,
