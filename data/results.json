@@ -385,6 +385,13 @@
       "total": 20,
       "correct": 17,
       "rate": 85
+    },
+    {
+      "date": "2026-06-02",
+      "session": 1,
+      "total": 20,
+      "correct": 20,
+      "rate": 100
     }
   ],
   "errors": [
