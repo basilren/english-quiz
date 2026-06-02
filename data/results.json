@@ -396,42 +396,6 @@
   ],
   "errors": [
     {
-      "date": "2026-05-23",
-      "session": 1,
-      "question_id": 10,
-      "type": "cloze",
-      "knowledge_point": "phrasal_verbs",
-      "label": "完形填空",
-      "stem": "(10)______",
-      "options": [
-        "A. looked for",
-        "B. thought of",
-        "C. looked after",
-        "D. thought about"
-      ],
-      "correct_answer": "B",
-      "student_answer": "A",
-      "explanation": "【解析】选B。think of意为'想出，想到（主意、办法等）'，符合句意'我想出了一个更好的主意'。A项look for寻找；C项look after照顾；D项think about考虑，思考（过程），不强调结果。【技巧】think of强调'想出'结果，think about强调'思考'过程。"
-    },
-    {
-      "date": "2026-05-23",
-      "session": 1,
-      "question_id": 13,
-      "type": "reading",
-      "knowledge_point": "detail",
-      "label": "阅读-细节理解",
-      "stem": "How many hours do teenagers spend on screens daily according to the study?",
-      "options": [
-        "A. Less than three hours.",
-        "B. About seven hours.",
-        "C. More than eight hours.",
-        "D. Only during school time."
-      ],
-      "correct_answer": "B",
-      "student_answer": "C",
-      "explanation": "【解析】选B。根据文章第一段'A recent study shows that teenagers spend an average of seven hours a day on screens, not including school work.'可知，青少年平均每天花7小时在屏幕上（不含学业）。A项是睡前使用手机超过3小时的情况；C、D项文中未提及。【技巧】细节题要找准关键词study和hours，定位到第一段数字信息。"
-    },
-    {
       "date": "2026-05-24",
       "session": 1,
       "question_id": 5,
