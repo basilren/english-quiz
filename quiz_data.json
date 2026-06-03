@@ -1,5 +1,5 @@
 ﻿{
-  "date": "2026-06-03",
+  "date": "2026-06-04",
   "session_number": 1,
   "questions": [
     {
@@ -7,15 +7,15 @@
       "type": "grammar",
       "knowledge_point": "present_perfect_vs_past_simple",
       "difficulty": 2,
-      "stem": "-Have you ever ______ to the Shenzhen Science Museum?\n-Yes, I ______ there last month.",
+      "stem": "My father ______ to Shanghai many times on business, but he ______ there just once last year because of the pandemic.",
       "options": [
-        "A. gone; went",
-        "B. been; went",
-        "C. been; have gone",
-        "D. go; went"
+        "A. has gone; went",
+        "B. has been; went",
+        "C. went; has been",
+        "D. has been; has gone"
       ],
       "correct_answer": "B",
-      "explanation": "第一空考查现在完成时：have been to表示'去过某地已经回来'，have gone to表示'去了某地还没回来'，根据语境'我上个月去的'说明已经回来，用been。第二空有明确过去时间状语last month，必须用一般过去时went。解题技巧：看到'ever'想现在完成时，看到'last+时间'想一般过去时。",
+      "explanation": "本题考查现在完成时与一般过去时的区别。第一空：'has been to'表示'曾经去过某地（已返回）'，'has gone to'表示'去了某地（未回）'，根据'many times'可知是去过已回的经历，用has been；第二空：'last year'是具体过去时间状语，必须用一般过去时went。干扰项A的has gone表示人还没回来，与语境不符；C时态颠倒；D的第二空不能用现在完成时。",
       "label": "语法题"
     },
     {
@@ -23,15 +23,15 @@
       "type": "grammar",
       "knowledge_point": "relative_clause_who_which",
       "difficulty": 2,
-      "stem": "The girl ______ is singing on the stage is my classmate. She won the first prize in the singing competition.",
+      "stem": "The old man ______ you met at the school gate yesterday is a famous scientist ______ research has won many prizes.",
       "options": [
-        "A. which",
-        "B. who",
-        "C. whom",
-        "D. whose"
+        "A. who; who",
+        "B. whom; whose",
+        "C. which; which",
+        "D. that; who"
       ],
       "correct_answer": "B",
-      "explanation": "考查定语从句关系词。先行词the girl指人，且在从句中作主语（is singing），故用who或that。which指物，排除A；whom指人但作宾语，排除C；whose表示'谁的'，在从句中作定语，排除D。解题口诀：先行词是人作主语用who，作宾语用whom，表所属用whose；先行词是物用which/that。",
+      "explanation": "本题考查定语从句关系词。第一空：先行词'the old man'指人，在从句中作met的宾语，可用who/whom/that，也可省略；第二空：先行词'scientist'与从句中'research'是所属关系（科学家的研究），必须用whose表示'……的'。A项第二空who不能表所属；C项which指物，不符合；D项第二空who不能修饰research。口诀：whose在从句中作定语，后接名词。",
       "label": "语法题"
     },
     {
@@ -39,141 +39,123 @@
       "type": "grammar",
       "knowledge_point": "passive_voice",
       "difficulty": 1,
-      "stem": "These old books ______ to the library tomorrow morning.",
+      "stem": "The school library ______ every day so that students can enjoy a clean reading environment.",
       "options": [
-        "A. will return",
-        "B. are returned",
-        "C. will be returned",
-        "D. returned"
+        "A. cleans",
+        "B. is cleaning",
+        "C. is cleaned",
+        "D. cleaned"
       ],
       "correct_answer": "C",
-      "explanation": "考查一般将来时的被动语态。主语books与return是被动关系（书被归还），且时间状语tomorrow morning表示将来，故用will be returned。A是主动语态，B是一般现在时被动，D是一般过去时，均不符合。解题技巧：' tomorrow'提示将来时，'书被还'提示被动，结构为will be done。",
+      "explanation": "本题考查一般现在时的被动语态。主语'The school library'是动作'clean'的承受者，需用被动语态；时间状语'every day'表明是一般现在时，因此用is cleaned。A是主动语态；B是现在进行时主动；D是一般过去时主动。被动语态结构：be + 过去分词，注意根据时态和人称变化be动词。",
       "label": "语法题"
     },
     {
       "id": 4,
       "type": "grammar",
-      "knowledge_point": "object_clause_if_whether",
+      "knowledge_point": "object_clause",
       "difficulty": 3,
-      "stem": "-I wonder ______ Mary will come to the party tonight.\n-If she ______, her parents will be angry.",
+      "stem": "—I wonder ______ Mary will join our science club tomorrow.\n—Hard to say. She ______ come, but it depends on her homework load.",
       "options": [
-        "A. if; won't come",
-        "B. whether; doesn't come",
-        "C. that; comes",
-        "D. when; will come"
+        "A. that; must",
+        "B. whether; might",
+        "C. if; must",
+        "D. that; can't"
       ],
       "correct_answer": "B",
-      "explanation": "第一空wonder后接宾语从句，表示'是否'用if或whether，排除C（that无'是否'含义）和D（when表时间，与答句逻辑不符）。第二空考查if引导的条件状语从句，遵循'主将从现'原则，主句will be angry（将来时），从句用一般现在时doesn't come。A选项won't come是将来时，违反'主将从现'。",
+      "explanation": "本题考查宾语从句连接词和情态动词表推测。第一空：wonder表示'想知道'，后接whether/if引导的宾语从句，排除A和D；第二空：根据'Hard to say'（很难说）和'depends on'可知是不确定推测，用might（可能），must表示肯定推测（一定），can't表示否定推测（不可能）。whether可与or not连用，if不能，且whether更正式，适合与wonder搭配。",
       "label": "语法题"
     },
     {
       "id": 5,
       "type": "vocabulary",
-      "knowledge_point": "word_meaning_context",
-      "difficulty": 1,
-      "stem": "The ______ of the mountain is covered with snow all year round. It looks beautiful from far away.",
+      "knowledge_point": "word_meaning",
+      "difficulty": 2,
+      "stem": "The ancient bridge is not strong enough to support heavy trucks. It may ______ if too many people walk on it at the same time.",
       "options": [
-        "A. foot",
-        "B. top",
-        "C. side",
-        "D. bottom"
+        "A. fall down",
+        "B. put up",
+        "C. turn up",
+        "D. get up"
       ],
-      "correct_answer": "B",
-      "explanation": "考查名词词义辨析。根据'covered with snow all year round'（终年积雪）和'looks beautiful from far away'（远看很美）可知应是山的'顶部'top。foot山脚，side侧面，bottom底部，均不符合'终年积雪'这一地理特征。解题技巧：利用上下文线索'snow'和'from far away'推断位置。",
+      "correct_answer": "A",
+      "explanation": "本题考查动词短语辨析。根据前文'not strong enough'（不够坚固）和'support heavy trucks'（承受重型卡车）的语境，可知此处指'倒塌'。fall down意为'倒塌、跌倒'；put up意为'张贴、搭建、举起'；turn up意为'调大（音量）、出现'；get up意为'起床、站起来'。根据语境逻辑，不够坚固的桥梁可能会'倒塌'，选A。",
       "label": "词汇题"
     },
     {
       "id": 6,
       "type": "vocabulary",
-      "knowledge_point": "word_guessing_context",
-      "difficulty": 2,
-      "stem": "It is ______ for us to protect the environment. We should take action right now instead of waiting.",
+      "knowledge_point": "fixed_phrases",
+      "difficulty": 1,
+      "stem": "As students, we should ______ our best to reduce plastic waste in our daily life.",
       "options": [
-        "A. possible",
-        "B. necessary",
-        "C. impossible",
-        "D. unnecessary"
+        "A. try",
+        "B. make",
+        "C. do",
+        "D. give"
       ],
-      "correct_answer": "B",
-      "explanation": "考查形容词辨析及语境理解。根据'We should take action right now'（我们应该立即行动）可知保护环境是'necessary必要的'。possible可能的，impossible不可能的，unnecessary不必要的，均与'立即行动'的紧迫语气不符。固定句型：It is necessary for sb to do sth。",
+      "correct_answer": "A",
+      "explanation": "本题考查固定搭配。try one's best to do sth.是固定短语，意为'尽某人最大努力做某事'。make one's best不是固定搭配；do one's best虽也有'尽力'之意，但通常说do one's best，而try one's best更强调'竭尽全力'；give one's best意为'给出最好的'，不符合语境。根据题干中的'our best to reduce'，应选try构成try our best to reduce。",
       "label": "词汇题"
     },
     {
       "id": 7,
       "type": "vocabulary",
-      "knowledge_point": "phrasal_verbs",
+      "knowledge_point": "word_formation",
       "difficulty": 2,
-      "stem": "The old bridge is not strong enough to support heavy trucks. It may ______ if too many trucks cross it at the same time.",
+      "stem": "The ______ news made all of us feel ______. We didn't expect to win the first prize.",
       "options": [
-        "A. fall down",
-        "B. break down",
-        "C. turn down",
-        "D. write down"
+        "A. surprised; surprising",
+        "B. surprising; surprised",
+        "C. surprised; surprised",
+        "D. surprising; surprising"
       ],
       "correct_answer": "B",
-      "explanation": "考查动词短语辨析。break down此处指'（机器、结构）垮塌、损坏'，符合'桥不够坚固'的语境。fall down侧重'（人）摔倒、（物）掉落'；turn down调低（音量）、拒绝；write down写下。解题技巧：break down多指机械故障或结构损坏，fall down多指失去平衡倒下。",
+      "explanation": "本题考查-ing形容词和-ed形容词的区别。surprising（令人惊讶的）修饰事物，surprised（感到惊讶的）修饰人。第一空修饰'news'（消息），用surprising；第二空修饰'us'（人），用surprised。口诀：'令人-ing，感到-ed'，即物用-ing，人用-ed。类似用法还有exciting/excited, boring/bored等。",
       "label": "词汇题"
     },
     {
       "id": 8,
       "type": "cloze",
-      "knowledge_point": "cloze_context",
-      "difficulty": 1,
+      "knowledge_point": "cloze_general",
+      "difficulty": 2,
       "stem": "(8)______",
       "options": [
-        "A. easy",
-        "B. necessary",
-        "C. interesting",
-        "D. possible"
+        "A. finished",
+        "B. started",
+        "C. missed",
+        "D. stopped"
       ],
       "correct_answer": "B",
-      "explanation": "考查形容词辨析及上下文语境。前文提到学校启动环保项目，此处指'起初一些学生认为改变长期习惯是不必要的'，与后文'他们继续到处扔垃圾'形成逻辑一致。easy容易的，interesting有趣的，possible可能的，均不如necessary能体现学生对环保态度的转变过程。",
+      "explanation": "根据下文'First, we collected used bottles...'（首先，我们收集用过的瓶子）可知，活动'开始'了。started意为'开始'，符合语境；finished意为'结束'，与下文动作顺序矛盾；missed意为'错过'；stopped意为'停止'。根据逻辑顺序，选started。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school started a meaningful environmental project called \"Green Campus\". The main goal was to reduce waste and save energy in our daily school life, which would help protect the environment around us.\n\nAt first, some students thought it was not (8)______ to change their long-standing habits. They kept throwing rubbish everywhere and leaving lights on in empty classrooms after class. Some even forgot to turn off computers when they went home. However, after the headmaster gave us an inspiring speech about the importance of protecting the earth for future generations, things began to (9)______ gradually.\n\nMy class decided to (10)______ a special activity called \"No Plastic Week\". We promised to stop using plastic bottles and bags for seven days completely. It was quite difficult at the beginning, but we soon got used to bringing our own cups and cloth bags to school. By the end of the week, we had saved over 200 plastic items from being thrown away. We felt really proud of ourselves.\n\nThe project taught us that small actions can make a big (11)______ to the environment. Now, more and more students are actively joining the green movement. They have finally realized that everyone has an important role to (12)______ in making our planet cleaner and better for all living things."
+      "group_passage": "Last month, our school (8)______ an interesting activity called 'Green Campus, Green Life'. The goal was to teach students how to protect the environment in creative ways. First, we collected used bottles and paper from each classroom. Then, with the help of our art teacher, we turned these 'wastes' into beautiful artworks. Some students made flowerpots from plastic bottles, while others created notebooks from waste paper. Everyone was (9)______ in the activity. During the process, we not only learned the importance of recycling but also realized that small actions could make a big (10)______. The artworks were displayed in the school hall, attracting many teachers and students. They were all (11)______ by our creative ideas. At the end of the activity, our headmaster gave a speech. He said that protecting the environment is not just a slogan but a responsibility for everyone. He encouraged us to (12)______ this green lifestyle and influence more people around us. This activity made me understand that environmental protection starts from small things in daily life."
     },
     {
       "id": 9,
       "type": "cloze",
-      "knowledge_point": "cloze_logic",
+      "knowledge_point": "cloze_general",
       "difficulty": 2,
       "stem": "(9)______",
       "options": [
-        "A. happen",
-        "B. change",
-        "C. appear",
-        "D. disappear"
+        "A. bored",
+        "B. interested",
+        "C. tired",
+        "D. worried"
       ],
       "correct_answer": "B",
-      "explanation": "考查动词辨析及逻辑关系。前文说学生不改变习惯，However转折后表示'情况开始逐渐改变'，change符合语境。happen发生，appear出现，disappear消失，均不能与'things'搭配表示'情况好转/改变'。解题技巧：However提示前后对比，前面是不改变，后面就是改变。",
+      "explanation": "be interested in是固定搭配，意为'对……感兴趣'。根据下文'we not only learned... but also realized...'（我们不仅学到……而且意识到……）可知大家积极参与，很感兴趣。bored（无聊的）、tired（疲倦的）、worried（担心的）均与语境不符。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school started a meaningful environmental project called \"Green Campus\". The main goal was to reduce waste and save energy in our daily school life, which would help protect the environment around us.\n\nAt first, some students thought it was not (8)______ to change their long-standing habits. They kept throwing rubbish everywhere and leaving lights on in empty classrooms after class. Some even forgot to turn off computers when they went home. However, after the headmaster gave us an inspiring speech about the importance of protecting the earth for future generations, things began to (9)______ gradually.\n\nMy class decided to (10)______ a special activity called \"No Plastic Week\". We promised to stop using plastic bottles and bags for seven days completely. It was quite difficult at the beginning, but we soon got used to bringing our own cups and cloth bags to school. By the end of the week, we had saved over 200 plastic items from being thrown away. We felt really proud of ourselves.\n\nThe project taught us that small actions can make a big (11)______ to the environment. Now, more and more students are actively joining the green movement. They have finally realized that everyone has an important role to (12)______ in making our planet cleaner and better for all living things."
+      "group_passage": "Last month, our school (8)______ an interesting activity called 'Green Campus, Green Life'. The goal was to teach students how to protect the environment in creative ways. First, we collected used bottles and paper from each classroom. Then, with the help of our art teacher, we turned these 'wastes' into beautiful artworks. Some students made flowerpots from plastic bottles, while others created notebooks from waste paper. Everyone was (9)______ in the activity. During the process, we not only learned the importance of recycling but also realized that small actions could make a big (10)______. The artworks were displayed in the school hall, attracting many teachers and students. They were all (11)______ by our creative ideas. At the end of the activity, our headmaster gave a speech. He said that protecting the environment is not just a slogan but a responsibility for everyone. He encouraged us to (12)______ this green lifestyle and influence more people around us. This activity made me understand that environmental protection starts from small things in daily life."
     },
     {
       "id": 10,
       "type": "cloze",
-      "knowledge_point": "cloze_collocation",
-      "difficulty": 2,
-      "stem": "(10)______",
-      "options": [
-        "A. organize",
-        "B. join",
-        "C. attend",
-        "D. visit"
-      ],
-      "correct_answer": "A",
-      "explanation": "考查动词辨析及固定搭配。organize an activity组织活动，是固定搭配。join参加（组织/活动），但通常说join in an activity或join an organization；attend出席（会议/课程）；visit参观（地点）。此处主语是My class，后接activity，organize最符合'班级发起活动'的语境。",
-      "label": "完形填空",
-      "group": "cloze_1",
-      "group_passage": "Last month, our school started a meaningful environmental project called \"Green Campus\". The main goal was to reduce waste and save energy in our daily school life, which would help protect the environment around us.\n\nAt first, some students thought it was not (8)______ to change their long-standing habits. They kept throwing rubbish everywhere and leaving lights on in empty classrooms after class. Some even forgot to turn off computers when they went home. However, after the headmaster gave us an inspiring speech about the importance of protecting the earth for future generations, things began to (9)______ gradually.\n\nMy class decided to (10)______ a special activity called \"No Plastic Week\". We promised to stop using plastic bottles and bags for seven days completely. It was quite difficult at the beginning, but we soon got used to bringing our own cups and cloth bags to school. By the end of the week, we had saved over 200 plastic items from being thrown away. We felt really proud of ourselves.\n\nThe project taught us that small actions can make a big (11)______ to the environment. Now, more and more students are actively joining the green movement. They have finally realized that everyone has an important role to (12)______ in making our planet cleaner and better for all living things."
-    },
-    {
-      "id": 11,
-      "type": "cloze",
-      "knowledge_point": "cloze_fixed_phrase",
+      "knowledge_point": "cloze_general",
       "difficulty": 1,
-      "stem": "(11)______",
+      "stem": "(10)______",
       "options": [
         "A. mistake",
         "B. decision",
@@ -181,53 +163,89 @@
         "D. plan"
       ],
       "correct_answer": "C",
-      "explanation": "考查固定短语。make a difference是固定搭配，意为'有影响、起作用'。make a mistake犯错误，make a decision做决定，make a plan制定计划，均不符合句意'小行动能对环境产生大影响'。",
+      "explanation": "make a difference是固定短语，意为'有影响、起作用'。句意：小小的行动可以产生巨大的影响。make a mistake意为'犯错'；make a decision意为'做决定'；make a plan意为'制定计划'。根据语境，选difference最恰当，强调环保小行动的重要性。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school started a meaningful environmental project called \"Green Campus\". The main goal was to reduce waste and save energy in our daily school life, which would help protect the environment around us.\n\nAt first, some students thought it was not (8)______ to change their long-standing habits. They kept throwing rubbish everywhere and leaving lights on in empty classrooms after class. Some even forgot to turn off computers when they went home. However, after the headmaster gave us an inspiring speech about the importance of protecting the earth for future generations, things began to (9)______ gradually.\n\nMy class decided to (10)______ a special activity called \"No Plastic Week\". We promised to stop using plastic bottles and bags for seven days completely. It was quite difficult at the beginning, but we soon got used to bringing our own cups and cloth bags to school. By the end of the week, we had saved over 200 plastic items from being thrown away. We felt really proud of ourselves.\n\nThe project taught us that small actions can make a big (11)______ to the environment. Now, more and more students are actively joining the green movement. They have finally realized that everyone has an important role to (12)______ in making our planet cleaner and better for all living things."
+      "group_passage": "Last month, our school (8)______ an interesting activity called 'Green Campus, Green Life'. The goal was to teach students how to protect the environment in creative ways. First, we collected used bottles and paper from each classroom. Then, with the help of our art teacher, we turned these 'wastes' into beautiful artworks. Some students made flowerpots from plastic bottles, while others created notebooks from waste paper. Everyone was (9)______ in the activity. During the process, we not only learned the importance of recycling but also realized that small actions could make a big (10)______. The artworks were displayed in the school hall, attracting many teachers and students. They were all (11)______ by our creative ideas. At the end of the activity, our headmaster gave a speech. He said that protecting the environment is not just a slogan but a responsibility for everyone. He encouraged us to (12)______ this green lifestyle and influence more people around us. This activity made me understand that environmental protection starts from small things in daily life."
+    },
+    {
+      "id": 11,
+      "type": "cloze",
+      "knowledge_point": "cloze_general",
+      "difficulty": 1,
+      "stem": "(11)______",
+      "options": [
+        "A. surprised",
+        "B. frightened",
+        "C. embarrassed",
+        "D. disappointed"
+      ],
+      "correct_answer": "A",
+      "explanation": "根据'by our creative ideas'（被我们的创意）可知，老师和学生们感到'惊讶'。surprised意为'惊讶的'；frightened意为'害怕的'；embarrassed意为'尴尬的'；disappointed意为'失望的'。创意作品令人惊讶，选surprised。注意被动语态be surprised by表示'被……所惊讶'。",
+      "label": "完形填空",
+      "group": "cloze_1",
+      "group_passage": "Last month, our school (8)______ an interesting activity called 'Green Campus, Green Life'. The goal was to teach students how to protect the environment in creative ways. First, we collected used bottles and paper from each classroom. Then, with the help of our art teacher, we turned these 'wastes' into beautiful artworks. Some students made flowerpots from plastic bottles, while others created notebooks from waste paper. Everyone was (9)______ in the activity. During the process, we not only learned the importance of recycling but also realized that small actions could make a big (10)______. The artworks were displayed in the school hall, attracting many teachers and students. They were all (11)______ by our creative ideas. At the end of the activity, our headmaster gave a speech. He said that protecting the environment is not just a slogan but a responsibility for everyone. He encouraged us to (12)______ this green lifestyle and influence more people around us. This activity made me understand that environmental protection starts from small things in daily life."
     },
     {
       "id": 12,
       "type": "cloze",
-      "knowledge_point": "cloze_collocation",
+      "knowledge_point": "cloze_general",
       "difficulty": 2,
       "stem": "(12)______",
       "options": [
-        "A. take",
-        "B. play",
-        "C. make",
-        "D. give"
+        "A. change",
+        "B. forget",
+        "C. keep",
+        "D. refuse"
       ],
-      "correct_answer": "B",
-      "explanation": "考查固定搭配。play a role in...是固定短语，意为'在...中扮演角色/起作用'。take拿走，make制作，give给予，均不与role构成此搭配。句意：每个人都可以在让地球变得更清洁方面发挥作用。",
+      "correct_answer": "C",
+      "explanation": "根据'this green lifestyle'（这种绿色生活方式）和'influence more people'（影响更多人）可知，校长鼓励我们'保持'这种生活方式。keep意为'保持、继续'；change意为'改变'；forget意为'忘记'；refuse意为'拒绝'。根据语境逻辑，选keep。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school started a meaningful environmental project called \"Green Campus\". The main goal was to reduce waste and save energy in our daily school life, which would help protect the environment around us.\n\nAt first, some students thought it was not (8)______ to change their long-standing habits. They kept throwing rubbish everywhere and leaving lights on in empty classrooms after class. Some even forgot to turn off computers when they went home. However, after the headmaster gave us an inspiring speech about the importance of protecting the earth for future generations, things began to (9)______ gradually.\n\nMy class decided to (10)______ a special activity called \"No Plastic Week\". We promised to stop using plastic bottles and bags for seven days completely. It was quite difficult at the beginning, but we soon got used to bringing our own cups and cloth bags to school. By the end of the week, we had saved over 200 plastic items from being thrown away. We felt really proud of ourselves.\n\nThe project taught us that small actions can make a big (11)______ to the environment. Now, more and more students are actively joining the green movement. They have finally realized that everyone has an important role to (12)______ in making our planet cleaner and better for all living things."
+      "group_passage": "Last month, our school (8)______ an interesting activity called 'Green Campus, Green Life'. The goal was to teach students how to protect the environment in creative ways. First, we collected used bottles and paper from each classroom. Then, with the help of our art teacher, we turned these 'wastes' into beautiful artworks. Some students made flowerpots from plastic bottles, while others created notebooks from waste paper. Everyone was (9)______ in the activity. During the process, we not only learned the importance of recycling but also realized that small actions could make a big (10)______. The artworks were displayed in the school hall, attracting many teachers and students. They were all (11)______ by our creative ideas. At the end of the activity, our headmaster gave a speech. He said that protecting the environment is not just a slogan but a responsibility for everyone. He encouraged us to (12)______ this green lifestyle and influence more people around us. This activity made me understand that environmental protection starts from small things in daily life."
     },
     {
       "id": 13,
       "type": "reading",
       "knowledge_point": "detail",
       "difficulty": 2,
-      "stem": "How many hours do Shenzhen teenagers spend on screens daily on average according to the study?",
+      "stem": "According to the passage, why do many teenagers have difficulty falling asleep?",
       "options": [
-        "A. 1-2 hours.",
-        "B. 6.5 hours.",
-        "C. 8 hours.",
-        "D. 4 hours."
+        "A. Because they have too much homework to do.",
+        "B. Because they use electronic devices before bedtime.",
+        "C. Because they drink too much coffee at night.",
+        "D. Because they exercise too much in the evening."
       ],
       "correct_answer": "B",
-      "explanation": "细节理解题。根据文章首句'A recent study shows that teenagers in Shenzhen spend an average of 6.5 hours on screens every day'可知，深圳青少年平均每天花6.5小时在屏幕上。A选项1-2小时是使用教育app的时间，C和D未提及。解题技巧：题干中'average'对应原文'average'，直接定位首句找数字。",
+      "explanation": "细节理解题。根据文章第二段'Many teenagers find it hard to fall asleep because they spend time on smartphones or computers before bed. The blue light from these screens stops the body from making melatonin, a chemical that helps us sleep.'可知，青少年难以入睡是因为睡前使用电子设备，屏幕蓝光阻止身体产生褪黑素。A项作业多、C项喝咖啡、D项过度锻炼文中均未提及。",
       "label": "阅读-细节理解",
       "group": "reading_1",
-      "group_passage": "A recent study shows that teenagers in Shenzhen spend an average of 6.5 hours on screens every day. This includes time spent on smartphones, computers, and tablets for both study and entertainment.\n\nDr. Li, a local health expert, explains that excessive screen time can lead to several problems. \"Many students complain about dry eyes and headaches after using devices for long periods,\" he says. \"More importantly, spending too much time online may affect their sleep quality and face-to-face communication skills.\"\n\nHowever, not all screen time is harmful. The study also found that students who use educational apps and online learning platforms for 1-2 hours daily often perform better in school. The key is to find a healthy balance between digital activities and other aspects of life.\n\nTo help students develop better habits, some schools have started \"Screen-Free Hours\" during lunch breaks. During this time, students are encouraged to play outdoor games, read physical books, or simply chat with friends. \"At first, I felt anxious without my phone,\" says Bosco, a 14-year-old student. \"But now I enjoy playing basketball with my classmates. It's more fun than staring at a screen.\"\n\nThe study suggests that parents should also set good examples by reducing their own screen time. Family activities like hiking or board games can provide excellent alternatives to digital entertainment."
+      "group_passage": "In today's digital age, teenagers are spending more time than ever on screens. A recent study shows that Shenzhen teenagers spend about 7 hours daily on electronic devices, including phones, tablets, and computers. While technology brings convenience and entertainment, excessive screen time is causing serious health problems among young people.\n\nMany teenagers find it hard to fall asleep because they spend time on smartphones or computers before bed. The blue light from these screens stops the body from making melatonin (褪黑素), a chemical that helps us sleep. Doctors suggest turning off all screens at least one hour before bedtime to ensure good sleep quality.\n\nBesides sleep problems, too much screen time also affects teenagers' eyesight and physical health. When staring at screens, people blink less often, which causes dry eyes and vision problems. Moreover, long periods of sitting lead to obesity and poor posture. Dr. Li Ming, a local health expert, recommends the '20-20-20' rule: every 20 minutes, look at something 20 feet away for at least 20 seconds.\n\nHowever, completely banning technology is neither possible nor necessary. The key is to find a balance. Parents should encourage outdoor activities and set reasonable time limits on device usage. Schools can also help by organizing more sports events and limiting screen-based homework. After all, technology should serve us, not control our lives."
     },
     {
       "id": 14,
       "type": "reading",
+      "knowledge_point": "inference",
+      "difficulty": 3,
+      "stem": "What can we infer from Dr. Li Ming's '20-20-20' rule mentioned in Paragraph 3?",
+      "options": [
+        "A. We should exercise for 20 minutes every day.",
+        "B. Teenagers should not use screens for more than 20 minutes a day.",
+        "C. Taking regular breaks can help protect our eyes when using screens.",
+        "D. Looking at distant objects can cure all eye diseases."
+      ],
+      "correct_answer": "C",
+      "explanation": "推理判断题。根据第三段'Dr. Li Ming... recommends the '20-20-20' rule: every 20 minutes, look at something 20 feet away for at least 20 seconds.'可知，这个规则建议每20分钟看20英尺外的物体20秒，目的是缓解眼睛疲劳。由此可推断出：使用屏幕时定期休息有助于保护眼睛。A项每天锻炼20分钟曲解原意；B项每天使用不超过20分钟过于绝对；D项治愈所有眼病错误，规则是预防而非治疗。",
+      "label": "阅读-推理判断",
+      "group": "reading_1",
+      "group_passage": "In today's digital age, teenagers are spending more time than ever on screens. A recent study shows that Shenzhen teenagers spend about 7 hours daily on electronic devices, including phones, tablets, and computers. While technology brings convenience and entertainment, excessive screen time is causing serious health problems among young people.\n\nMany teenagers find it hard to fall asleep because they spend time on smartphones or computers before bed. The blue light from these screens stops the body from making melatonin (褪黑素), a chemical that helps us sleep. Doctors suggest turning off all screens at least one hour before bedtime to ensure good sleep quality.\n\nBesides sleep problems, too much screen time also affects teenagers' eyesight and physical health. When staring at screens, people blink less often, which causes dry eyes and vision problems. Moreover, long periods of sitting lead to obesity and poor posture. Dr. Li Ming, a local health expert, recommends the '20-20-20' rule: every 20 minutes, look at something 20 feet away for at least 20 seconds.\n\nHowever, completely banning technology is neither possible nor necessary. The key is to find a balance. Parents should encourage outdoor activities and set reasonable time limits on device usage. Schools can also help by organizing more sports events and limiting screen-based homework. After all, technology should serve us, not control our lives."
+    },
+    {
+      "id": 15,
+      "type": "reading",
       "knowledge_point": "word_guessing",
       "difficulty": 2,
-      "stem": "The underlined word 'excessive' in Paragraph 2 probably means ______.",
+      "stem": "The underlined word 'excessive' in Paragraph 1 probably means ______.",
       "options": [
         "A. proper",
         "B. too much",
@@ -235,46 +253,28 @@
         "D. necessary"
       ],
       "correct_answer": "B",
-      "explanation": "词义猜测题。根据后文' Many students complain about dry eyes and headaches'（许多学生抱怨眼睛干涩和头痛）可知，这是'过多的'screen time导致的问题。proper适当的，limited有限的，necessary必要的，均与'导致问题'的负面语境不符。解题技巧：利用因果线索，后文列举的都是负面影响，故excessive应表示'过量、过多'。",
+      "explanation": "词义猜测题。根据上下文'teenagers spend about 7 hours daily on electronic devices'（每天约7小时）和'causing serious health problems'（导致严重健康问题）可知，excessive指的是'过度的、过多的'。proper（适当的）、limited（有限的）、necessary（必要的）均与语境相反。excessive=too much，表示过量使用屏幕时间。",
       "label": "阅读-词义猜测",
       "group": "reading_1",
-      "group_passage": "A recent study shows that teenagers in Shenzhen spend an average of 6.5 hours on screens every day. This includes time spent on smartphones, computers, and tablets for both study and entertainment.\n\nDr. Li, a local health expert, explains that excessive screen time can lead to several problems. \"Many students complain about dry eyes and headaches after using devices for long periods,\" he says. \"More importantly, spending too much time online may affect their sleep quality and face-to-face communication skills.\"\n\nHowever, not all screen time is harmful. The study also found that students who use educational apps and online learning platforms for 1-2 hours daily often perform better in school. The key is to find a healthy balance between digital activities and other aspects of life.\n\nTo help students develop better habits, some schools have started \"Screen-Free Hours\" during lunch breaks. During this time, students are encouraged to play outdoor games, read physical books, or simply chat with friends. \"At first, I felt anxious without my phone,\" says Bosco, a 14-year-old student. \"But now I enjoy playing basketball with my classmates. It's more fun than staring at a screen.\"\n\nThe study suggests that parents should also set good examples by reducing their own screen time. Family activities like hiking or board games can provide excellent alternatives to digital entertainment."
-    },
-    {
-      "id": 15,
-      "type": "reading",
-      "knowledge_point": "inference",
-      "difficulty": 3,
-      "stem": "What can we infer from the passage?",
-      "options": [
-        "A. All screen time is bad for teenagers.",
-        "B. Students should never use smartphones at school.",
-        "C. Educational apps can be helpful if used properly.",
-        "D. Bosco still hates playing basketball now."
-      ],
-      "correct_answer": "C",
-      "explanation": "推理判断题。根据第三段'students who use educational apps... for 1-2 hours daily often perform better in school'和'The key is to find a healthy balance'可推断，教育类app如果使用得当（时间适当）是有帮助的。A与第三段'not all screen time is harmful'矛盾；B过于绝对，文中未说'should never use'；D与最后Bosco说'now I enjoy playing basketball'矛盾。解题技巧：推理题要避免绝对化选项（all/never）和与原文直接矛盾的选项。",
-      "label": "阅读-推理判断",
-      "group": "reading_1",
-      "group_passage": "A recent study shows that teenagers in Shenzhen spend an average of 6.5 hours on screens every day. This includes time spent on smartphones, computers, and tablets for both study and entertainment.\n\nDr. Li, a local health expert, explains that excessive screen time can lead to several problems. \"Many students complain about dry eyes and headaches after using devices for long periods,\" he says. \"More importantly, spending too much time online may affect their sleep quality and face-to-face communication skills.\"\n\nHowever, not all screen time is harmful. The study also found that students who use educational apps and online learning platforms for 1-2 hours daily often perform better in school. The key is to find a healthy balance between digital activities and other aspects of life.\n\nTo help students develop better habits, some schools have started \"Screen-Free Hours\" during lunch breaks. During this time, students are encouraged to play outdoor games, read physical books, or simply chat with friends. \"At first, I felt anxious without my phone,\" says Bosco, a 14-year-old student. \"But now I enjoy playing basketball with my classmates. It's more fun than staring at a screen.\"\n\nThe study suggests that parents should also set good examples by reducing their own screen time. Family activities like hiking or board games can provide excellent alternatives to digital entertainment."
+      "group_passage": "In today's digital age, teenagers are spending more time than ever on screens. A recent study shows that Shenzhen teenagers spend about 7 hours daily on electronic devices, including phones, tablets, and computers. While technology brings convenience and entertainment, excessive screen time is causing serious health problems among young people.\n\nMany teenagers find it hard to fall asleep because they spend time on smartphones or computers before bed. The blue light from these screens stops the body from making melatonin (褪黑素), a chemical that helps us sleep. Doctors suggest turning off all screens at least one hour before bedtime to ensure good sleep quality.\n\nBesides sleep problems, too much screen time also affects teenagers' eyesight and physical health. When staring at screens, people blink less often, which causes dry eyes and vision problems. Moreover, long periods of sitting lead to obesity and poor posture. Dr. Li Ming, a local health expert, recommends the '20-20-20' rule: every 20 minutes, look at something 20 feet away for at least 20 seconds.\n\nHowever, completely banning technology is neither possible nor necessary. The key is to find a balance. Parents should encourage outdoor activities and set reasonable time limits on device usage. Schools can also help by organizing more sports events and limiting screen-based homework. After all, technology should serve us, not control our lives."
     },
     {
       "id": 16,
       "type": "reading",
       "knowledge_point": "main_idea",
-      "difficulty": 2,
+      "difficulty": 3,
       "stem": "What is the best title for this passage?",
       "options": [
-        "A. The Importance of Online Learning",
-        "B. How to Use Educational Apps",
-        "C. Teenagers and Screen Time: Finding Balance",
-        "D. The History of Smartphones"
+        "A. The Development of Electronic Devices",
+        "B. How to Treat Sleep Problems",
+        "C. Screen Time and Teenagers' Health",
+        "D. The Importance of Outdoor Activities"
       ],
       "correct_answer": "C",
-      "explanation": "主旨大意题。文章先讲青少年屏幕时间过长的问题，再讲合理使用教育app的好处，最后讲如何平衡屏幕时间与其他活动，核心是'青少年与屏幕时间：寻找平衡'。A只涉及第三段内容，片面；B也是局部信息；D文中未提及。解题技巧：最佳标题要涵盖全文主要内容，既要有screen time，又要有balance的概念。",
+      "explanation": "主旨大意题。文章第一段引出话题：青少年屏幕使用时间过长；第二段讲对睡眠的影响；第三段讲对视力和其他健康方面的影响；第四段讲如何平衡使用。全文围绕'screen time'（屏幕时间）和'teenagers' health'（青少年健康）的关系展开。A项电子设备的发展只是背景；B项如何治疗睡眠问题只是细节；D项户外活动的重要性是建议部分。C项最全面概括主旨。",
       "label": "阅读-主旨大意",
       "group": "reading_1",
-      "group_passage": "A recent study shows that teenagers in Shenzhen spend an average of 6.5 hours on screens every day. This includes time spent on smartphones, computers, and tablets for both study and entertainment.\n\nDr. Li, a local health expert, explains that excessive screen time can lead to several problems. \"Many students complain about dry eyes and headaches after using devices for long periods,\" he says. \"More importantly, spending too much time online may affect their sleep quality and face-to-face communication skills.\"\n\nHowever, not all screen time is harmful. The study also found that students who use educational apps and online learning platforms for 1-2 hours daily often perform better in school. The key is to find a healthy balance between digital activities and other aspects of life.\n\nTo help students develop better habits, some schools have started \"Screen-Free Hours\" during lunch breaks. During this time, students are encouraged to play outdoor games, read physical books, or simply chat with friends. \"At first, I felt anxious without my phone,\" says Bosco, a 14-year-old student. \"But now I enjoy playing basketball with my classmates. It's more fun than staring at a screen.\"\n\nThe study suggests that parents should also set good examples by reducing their own screen time. Family activities like hiking or board games can provide excellent alternatives to digital entertainment."
+      "group_passage": "In today's digital age, teenagers are spending more time than ever on screens. A recent study shows that Shenzhen teenagers spend about 7 hours daily on electronic devices, including phones, tablets, and computers. While technology brings convenience and entertainment, excessive screen time is causing serious health problems among young people.\n\nMany teenagers find it hard to fall asleep because they spend time on smartphones or computers before bed. The blue light from these screens stops the body from making melatonin (褪黑素), a chemical that helps us sleep. Doctors suggest turning off all screens at least one hour before bedtime to ensure good sleep quality.\n\nBesides sleep problems, too much screen time also affects teenagers' eyesight and physical health. When staring at screens, people blink less often, which causes dry eyes and vision problems. Moreover, long periods of sitting lead to obesity and poor posture. Dr. Li Ming, a local health expert, recommends the '20-20-20' rule: every 20 minutes, look at something 20 feet away for at least 20 seconds.\n\nHowever, completely banning technology is neither possible nor necessary. The key is to find a balance. Parents should encourage outdoor activities and set reasonable time limits on device usage. Schools can also help by organizing more sports events and limiting screen-based homework. After all, technology should serve us, not control our lives."
     },
     {
       "id": 17,
@@ -283,17 +283,17 @@
       "difficulty": 2,
       "stem": "(17)______",
       "options": [
-        "A. However, you can make it easier with the right methods.",
-        "B. For example, use different folders for different subjects.",
-        "C. Teachers and senior students are good resources when you face difficulties.",
-        "D. This will help you build social connections and reduce stress.",
-        "E. Besides, you should study hard every day."
+        "A. However",
+        "B. First of all",
+        "C. In addition",
+        "D. As a result",
+        "E. On the other hand"
       ],
-      "correct_answer": "A",
-      "explanation": "考查段落衔接。前文说'开始初中生活既令人兴奋又有挑战性'，后文说'这里有一些有用的建议'，中间需要过渡句承上启下。A项'然而，用正确的方法你可以让它变得更容易'符合逻辑，However转折承接'challenging'，引出下文的解决方法。B是举例，C讲求助，D讲好处，E讲学习，均不能承接'挑战'与'建议'之间的过渡。",
+      "correct_answer": "B",
+      "explanation": "此处需要填入表示顺序或层次的连接词。根据下文'Secondly'（第二）可知，此处应为'First of all'（首先），与Secondly构成顺序关系。However表转折；In addition表递进；As a result表结果；On the other hand表另一方面。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Starting middle school can be both exciting and challenging for many students. (17)______ Here are some useful tips to help you get used to the new environment quickly.\n\nFirst, try to be more organized. (18)______ Write down your homework and important dates in a notebook so you won't forget anything.\n\nSecond, don't be afraid to ask for help. (19)______ They have rich experience and are always willing to support you.\n\nFinally, join some school clubs or sports teams. (20)______ You can make new friends who share similar interests with you.\n\nRemember, everyone feels nervous at first. Just take your time and be yourself. Soon you'll find that middle school life is full of fun and surprises."
+      "group_passage": "Many students find it difficult to balance study and hobbies. (17)______, they should make a clear schedule. Write down all the tasks for the day and estimate how long each one takes. (18)______, they need to learn to say no to unnecessary activities like spending too much time on social media. (19)______, good time management can help reduce stress and improve efficiency. When students finish tasks on time, they will have more free time to enjoy their hobbies. (20)______, parents and teachers should provide support and understanding, rather than just pushing students to study all the time."
     },
     {
       "id": 18,
@@ -302,17 +302,17 @@
       "difficulty": 2,
       "stem": "(18)______",
       "options": [
-        "A. However, you can make it easier with the right methods.",
-        "B. For example, use different folders for different subjects.",
-        "C. Teachers and senior students are good resources when you face difficulties.",
-        "D. This will help you build social connections and reduce stress.",
-        "E. Besides, you should study hard every day."
+        "A. However",
+        "B. First of all",
+        "C. In addition",
+        "D. As a result",
+        "E. On the other hand"
       ],
-      "correct_answer": "B",
-      "explanation": "考查逻辑关系。前句说'try to be more organized'（尽量有条理），后句说'Write down...'（写下作业和重要日期），中间需要具体举例说明如何做到organized。B项'例如，用不同的文件夹装不同的科目'是具体例子，衔接自然。A是过渡句，C讲求助，D讲好处，E与学习相关但不如B具体体现organized。",
+      "correct_answer": "C",
+      "explanation": "前文讲'制定清晰的日程表'，后文讲'学会对不必要的活动说不'，两者是递进关系，都是具体建议。In addition（此外、另外）表递进，符合语境。However表转折；First of all表首先（已用过）；As a result表结果；On the other hand表另一方面（通常指对立观点）。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Starting middle school can be both exciting and challenging for many students. (17)______ Here are some useful tips to help you get used to the new environment quickly.\n\nFirst, try to be more organized. (18)______ Write down your homework and important dates in a notebook so you won't forget anything.\n\nSecond, don't be afraid to ask for help. (19)______ They have rich experience and are always willing to support you.\n\nFinally, join some school clubs or sports teams. (20)______ You can make new friends who share similar interests with you.\n\nRemember, everyone feels nervous at first. Just take your time and be yourself. Soon you'll find that middle school life is full of fun and surprises."
+      "group_passage": "Many students find it difficult to balance study and hobbies. (17)______, they should make a clear schedule. Write down all the tasks for the day and estimate how long each one takes. (18)______, they need to learn to say no to unnecessary activities like spending too much time on social media. (19)______, good time management can help reduce stress and improve efficiency. When students finish tasks on time, they will have more free time to enjoy their hobbies. (20)______, parents and teachers should provide支持 and understanding, rather than just pushing students to study all the time."
     },
     {
       "id": 19,
@@ -321,17 +321,17 @@
       "difficulty": 2,
       "stem": "(19)______",
       "options": [
-        "A. However, you can make it easier with the right methods.",
-        "B. For example, use different folders for different subjects.",
-        "C. Teachers and senior students are good resources when you face difficulties.",
-        "D. This will help you build social connections and reduce stress.",
-        "E. Besides, you should study hard every day."
+        "A. However",
+        "B. First of all",
+        "C. In addition",
+        "D. As a result",
+        "E. On the other hand"
       ],
-      "correct_answer": "C",
-      "explanation": "考查上下文衔接。前句说'don't be afraid to ask for help'（不要怕求助），后句'They have rich experience'（他们有丰富经验），They指代C项中的'Teachers and senior students'。C项说明向谁求助，与后文的They形成指代关系。A、B、D均不能被They指代。",
+      "correct_answer": "D",
+      "explanation": "前文讲具体的时间管理方法（制定日程、拒绝无关活动），后文讲'良好的时间管理能帮助减少压力、提高效率'，这是前文做法带来的结果。As a result（因此、结果）表因果关系，符合逻辑。However表转折；First of all和In addition表顺序/递进；On the other hand表对比。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Starting middle school can be both exciting and challenging for many students. (17)______ Here are some useful tips to help you get used to the new environment quickly.\n\nFirst, try to be more organized. (18)______ Write down your homework and important dates in a notebook so you won't forget anything.\n\nSecond, don't be afraid to ask for help. (19)______ They have rich experience and are always willing to support you.\n\nFinally, join some school clubs or sports teams. (20)______ You can make new friends who share similar interests with you.\n\nRemember, everyone feels nervous at first. Just take your time and be yourself. Soon you'll find that middle school life is full of fun and surprises."
+      "group_passage": "Many students find it difficult to balance study and hobbies. (17)______, they should make a clear schedule. Write down all the tasks for the day and estimate how long each one takes. (18)______, they need to learn to say no to unnecessary activities like spending too much time on social media. (19)______, good time management can help reduce stress and improve efficiency. When students finish tasks on time, they will have more free time to enjoy their hobbies. (20)______, parents and teachers should provide支持 and understanding, rather than just pushing students to study all the time."
     },
     {
       "id": 20,
@@ -340,17 +340,17 @@
       "difficulty": 2,
       "stem": "(20)______",
       "options": [
-        "A. However, you can make it easier with the right methods.",
-        "B. For example, use different folders for different subjects.",
-        "C. Teachers and senior students are good resources when you face difficulties.",
-        "D. This will help you build social connections and reduce stress.",
-        "E. Besides, you should study hard every day."
+        "A. However",
+        "B. First of all",
+        "C. In addition",
+        "D. As a result",
+        "E. On the other hand"
       ],
-      "correct_answer": "D",
-      "explanation": "考查因果关系。前句说'join some school clubs or sports teams'（参加社团或运动队），后句说'You can make new friends'（你能交到新朋友），中间需要说明参加活动的好处。D项'这将帮助你建立社交联系并减少压力'承上启下，This指代参加社团，build social connections对应make new friends。A、B、C均不能体现参加社团的好处。",
+      "correct_answer": "A",
+      "explanation": "前文讲学生自身的做法（制定日程、拒绝诱惑、享受结果），后文讲'家长和老师应该提供支持……'，话题从学生自身转向外部支持，且带有轻微转折意味——除了学生努力，家长老师也要配合。However（然而、不过）可用于引出另一方面的建议。On the other hand通常用于对比两种不同观点，此处不适用；其他选项逻辑不符。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Starting middle school can be both exciting and challenging for many students. (17)______ Here are some useful tips to help you get used to the new environment quickly.\n\nFirst, try to be more organized. (18)______ Write down your homework and important dates in a notebook so you won't forget anything.\n\nSecond, don't be afraid to ask for help. (19)______ They have rich experience and are always willing to support you.\n\nFinally, join some school clubs or sports teams. (20)______ You can make new friends who share similar interests with you.\n\nRemember, everyone feels nervous at first. Just take your time and be yourself. Soon you'll find that middle school life is full of fun and surprises."
+      "group_passage": "Many students find it difficult to balance study and hobbies. (17)______, they should make a clear schedule. Write down all the tasks for the day and estimate how long each one takes. (18)______, they need to learn to say no to unnecessary activities like spending too much time on social media. (19)______, good time management can help reduce stress and improve efficiency. When students finish tasks on time, they will have more free time to enjoy their hobbies. (20)______, parents and teachers should provide支持 and understanding, rather than just pushing students to study all the time."
     }
   ]
 }
