@@ -1,5 +1,5 @@
 ﻿{
-  "date": "2026-06-04",
+  "date": "2026-06-05",
   "session_number": 1,
   "questions": [
     {
@@ -7,15 +7,15 @@
       "type": "grammar",
       "knowledge_point": "present_perfect_vs_past_simple",
       "difficulty": 2,
-      "stem": "My father ______ to Shanghai many times on business, but he ______ there just once last year because of the pandemic.",
+      "stem": "—______ you ever ______ to the Shenzhen Science Museum? \n—Yes, I went there last month. It was amazing!",
       "options": [
-        "A. has gone; went",
-        "B. has been; went",
-        "C. went; has been",
-        "D. has been; has gone"
+        "A. Did; go",
+        "B. Have; been",
+        "C. Do; go",
+        "D. Are; going"
       ],
       "correct_answer": "B",
-      "explanation": "本题考查现在完成时与一般过去时的区别。第一空：'has been to'表示'曾经去过某地（已返回）'，'has gone to'表示'去了某地（未回）'，根据'many times'可知是去过已回的经历，用has been；第二空：'last year'是具体过去时间状语，必须用一般过去时went。干扰项A的has gone表示人还没回来，与语境不符；C时态颠倒；D的第二空不能用现在完成时。",
+      "explanation": "正确答案为B。本题考查现在完成时与一般过去时的区别。句中有'ever'（曾经），这是现在完成时的标志性时间状语，表示过去经历对现在的影响。结构为'Have/Has + 过去分词'。A选项是一般过去时，虽可回答具体时间，但问句中有ever时应用现在完成时；C是一般现在时；D是现在进行时表将来。技巧口诀：'ever/never/already/yet'，完成时态记心间。",
       "label": "语法题"
     },
     {
@@ -23,79 +23,79 @@
       "type": "grammar",
       "knowledge_point": "relative_clause_who_which",
       "difficulty": 2,
-      "stem": "The old man ______ you met at the school gate yesterday is a famous scientist ______ research has won many prizes.",
+      "stem": "The book ______ I bought yesterday is about environmental protection. It is very interesting.",
       "options": [
-        "A. who; who",
-        "B. whom; whose",
-        "C. which; which",
-        "D. that; who"
+        "A. who",
+        "B. whom",
+        "C. which",
+        "D. whose"
       ],
-      "correct_answer": "B",
-      "explanation": "本题考查定语从句关系词。第一空：先行词'the old man'指人，在从句中作met的宾语，可用who/whom/that，也可省略；第二空：先行词'scientist'与从句中'research'是所属关系（科学家的研究），必须用whose表示'……的'。A项第二空who不能表所属；C项which指物，不符合；D项第二空who不能修饰research。口诀：whose在从句中作定语，后接名词。",
+      "correct_answer": "C",
+      "explanation": "正确答案为C。本题考查定语从句关系词的选择。先行词'the book'指物，且在从句中作宾语（I bought the book），因此用which或that引导。A选项who用于指人，在从句中作主语；B选项whom用于指人，在从句中作宾语；D选项whose表示'……的'，在从句中作定语。解题技巧：先行词是物选which/that，是人选who/whom，表所属用whose。",
       "label": "语法题"
     },
     {
       "id": 3,
       "type": "grammar",
       "knowledge_point": "passive_voice",
-      "difficulty": 1,
-      "stem": "The school library ______ every day so that students can enjoy a clean reading environment.",
+      "difficulty": 3,
+      "stem": "The new teaching building ______ by the workers and it will be put into use next term.",
       "options": [
-        "A. cleans",
-        "B. is cleaning",
-        "C. is cleaned",
-        "D. cleaned"
+        "A. builds",
+        "B. is building",
+        "C. has been built",
+        "D. was built"
       ],
       "correct_answer": "C",
-      "explanation": "本题考查一般现在时的被动语态。主语'The school library'是动作'clean'的承受者，需用被动语态；时间状语'every day'表明是一般现在时，因此用is cleaned。A是主动语态；B是现在进行时主动；D是一般过去时主动。被动语态结构：be + 过去分词，注意根据时态和人称变化be动词。",
+      "explanation": "正确答案为C。本题考查现在完成时的被动语态。根据后半句'will be put into use next term'（下学期将投入使用）可知，教学楼已经被建好，强调过去动作对现在的影响（已经完工，即将使用），应用现在完成时的被动语态'has been built'。A是主动语态一般现在时；B是主动语态现在进行时；D是一般过去时被动语态，仅表示过去被建，未体现对现在的影响。技巧：看时间标志词和语境暗示，强调'已完成'用现在完成时。",
       "label": "语法题"
     },
     {
       "id": 4,
       "type": "grammar",
       "knowledge_point": "object_clause",
-      "difficulty": 3,
-      "stem": "—I wonder ______ Mary will join our science club tomorrow.\n—Hard to say. She ______ come, but it depends on her homework load.",
+      "difficulty": 1,
+      "stem": "Could you tell me ______?",
       "options": [
-        "A. that; must",
-        "B. whether; might",
-        "C. if; must",
-        "D. that; can't"
+        "A. where is the nearest bookstore",
+        "B. where the nearest bookstore is",
+        "C. where does the nearest bookstore",
+        "D. where the nearest bookstore was"
       ],
       "correct_answer": "B",
-      "explanation": "本题考查宾语从句连接词和情态动词表推测。第一空：wonder表示'想知道'，后接whether/if引导的宾语从句，排除A和D；第二空：根据'Hard to say'（很难说）和'depends on'可知是不确定推测，用might（可能），must表示肯定推测（一定），can't表示否定推测（不可能）。whether可与or not连用，if不能，且whether更正式，适合与wonder搭配。",
+      "explanation": "正确答案为B。本题考查宾语从句的语序。宾语从句必须使用陈述句语序（主语+谓语），不能用疑问句语序。A和C都是疑问句语序（is/does在主语前），首先排除。D选项时态错误，主句'Could you tell me'中的could是委婉语气，不是过去时，从句陈述客观事实应用一般现在时is。技巧口诀：宾语从句用陈述，主句时态定从句，客观真理永一现。",
       "label": "语法题"
     },
     {
       "id": 5,
       "type": "vocabulary",
       "knowledge_point": "word_meaning",
-      "difficulty": 2,
-      "stem": "The ancient bridge is not strong enough to support heavy trucks. It may ______ if too many people walk on it at the same time.",
+      "difficulty": 1,
+      "stem": "The ______ of the mountain is covered with snow all year round. You can see the white peak from far away.",
       "options": [
-        "A. fall down",
-        "B. put up",
-        "C. turn up",
-        "D. get up"
+        "A. foot",
+        "B. top",
+        "C. side",
+        "D. bottom"
       ],
-      "correct_answer": "A",
-      "explanation": "本题考查动词短语辨析。根据前文'not strong enough'（不够坚固）和'support heavy trucks'（承受重型卡车）的语境，可知此处指'倒塌'。fall down意为'倒塌、跌倒'；put up意为'张贴、搭建、举起'；turn up意为'调大（音量）、出现'；get up意为'起床、站起来'。根据语境逻辑，不够坚固的桥梁可能会'倒塌'，选A。",
+      "correct_answer": "B",
+      "explanation": "正确答案为B。本题考查名词词义辨析。根据后句'You can see the white peak'（你能看到白色的山峰）和'covered with snow'（被雪覆盖）可知，此处指'山顶'。A选项foot表示'山脚'；C选项side表示'侧面'；D选项bottom表示'底部'。解题技巧：利用上下文语境线索（peak提示top），联系地理常识（山顶积雪）。",
       "label": "词汇题"
     },
     {
       "id": 6,
       "type": "vocabulary",
-      "knowledge_point": "fixed_phrases",
-      "difficulty": 1,
-      "stem": "As students, we should ______ our best to reduce plastic waste in our daily life.",
+      "knowledge_point": "phrasal_verbs",
+      "difficulty": 2,
+      "stem": "We should ______ our best to reduce plastic waste and protect the ocean.",
       "options": [
         "A. try",
         "B. make",
         "C. do",
-        "D. give"
+        "D. take"
       ],
       "correct_answer": "A",
-      "explanation": "本题考查固定搭配。try one's best to do sth.是固定短语，意为'尽某人最大努力做某事'。make one's best不是固定搭配；do one's best虽也有'尽力'之意，但通常说do one's best，而try one's best更强调'竭尽全力'；give one's best意为'给出最好的'，不符合语境。根据题干中的'our best to reduce'，应选try构成try our best to reduce。",
+      "explanation": "正确答案为A。本题考查固定搭配'try one's best'（尽某人最大努力）。B选项make常搭配make progress（取得进步）、make a decision（做决定）；C选项do常搭配do homework（做作业）、do exercise（做运动）；D选项take常搭配take action（采取行动）、take care of（照顾）。技巧：积累常用动词短语，注意介词搭配，'try one's best to do sth'是中考高频考点。",
       "label": "词汇题"
     },
     {
@@ -103,149 +103,133 @@
       "type": "vocabulary",
       "knowledge_point": "word_formation",
       "difficulty": 2,
-      "stem": "The ______ news made all of us feel ______. We didn't expect to win the first prize.",
+      "stem": "The story sounds ______. Nobody believes it is true.",
       "options": [
-        "A. surprised; surprising",
-        "B. surprising; surprised",
-        "C. surprised; surprised",
-        "D. surprising; surprising"
+        "A. believable",
+        "B. unbelievable",
+        "C. believe",
+        "D. belief"
       ],
       "correct_answer": "B",
-      "explanation": "本题考查-ing形容词和-ed形容词的区别。surprising（令人惊讶的）修饰事物，surprised（感到惊讶的）修饰人。第一空修饰'news'（消息），用surprising；第二空修饰'us'（人），用surprised。口诀：'令人-ing，感到-ed'，即物用-ing，人用-ed。类似用法还有exciting/excited, boring/bored等。",
+      "explanation": "正确答案为B。本题考查词性转换及前缀用法。根据后句'Nobody believes it'（没人相信）可知，故事'难以置信'。un-是否定前缀，unbelievable意为'难以置信的'。A选项believable（可信的）与句意相反；C选项believe是动词原形；D选项belief是名词（信仰）。技巧：掌握常见否定前缀un-/dis-/im-，根据上下文逻辑（转折、因果）判断词义方向。",
       "label": "词汇题"
     },
     {
       "id": 8,
       "type": "cloze",
       "knowledge_point": "cloze_general",
-      "difficulty": 2,
+      "difficulty": 1,
+      "group": "cloze_1",
+      "group_passage": "Last month, our school started an environmental protection club. I decided to join it because I really care about the environment. Every Friday afternoon, we meet in the classroom to discuss how to make our school greener.\n\nLast week, we (8)______ a special activity. We collected waste paper and plastic bottles in the school. At first, some students thought it was (9)______ and didn't want to help. But when we explained the importance of recycling, they changed their minds. By the end of the day, we (10)______ over 50 kilograms of waste. Our teacher was very proud (11)______ us. She said our small actions could make a big (12)______ to the world. I felt happy because I knew we were doing something meaningful for our planet.",
       "stem": "(8)______",
       "options": [
-        "A. finished",
-        "B. started",
-        "C. missed",
-        "D. stopped"
+        "A. had",
+        "B. organized",
+        "C. found",
+        "D. lost"
       ],
       "correct_answer": "B",
-      "explanation": "根据下文'First, we collected used bottles...'（首先，我们收集用过的瓶子）可知，活动'开始'了。started意为'开始'，符合语境；finished意为'结束'，与下文动作顺序矛盾；missed意为'错过'；stopped意为'停止'。根据逻辑顺序，选started。",
-      "label": "完形填空",
-      "group": "cloze_1",
-      "group_passage": "Last month, our school (8)______ an interesting activity called 'Green Campus, Green Life'. The goal was to teach students how to protect the environment in creative ways. First, we collected used bottles and paper from each classroom. Then, with the help of our art teacher, we turned these 'wastes' into beautiful artworks. Some students made flowerpots from plastic bottles, while others created notebooks from waste paper. Everyone was (9)______ in the activity. During the process, we not only learned the importance of recycling but also realized that small actions could make a big (10)______. The artworks were displayed in the school hall, attracting many teachers and students. They were all (11)______ by our creative ideas. At the end of the activity, our headmaster gave a speech. He said that protecting the environment is not just a slogan but a responsibility for everyone. He encouraged us to (12)______ this green lifestyle and influence more people around us. This activity made me understand that environmental protection starts from small things in daily life."
+      "explanation": "正确答案为B。本题考查动词词义辨析及语境理解。根据宾语'a special activity'（一次特别活动）可知，应选'organized'（组织）。A选项had（有）搭配不够具体；C选项found（发现）与语境不符，活动是主动策划而非发现；D选项lost（丢失）与下文描述的积极活动相悖。技巧：完形填空注意动词与宾语的搭配合理性，以及上下文情感色彩（积极/消极）。",
+      "label": "完形填空"
     },
     {
       "id": 9,
       "type": "cloze",
       "knowledge_point": "cloze_general",
       "difficulty": 2,
+      "group": "cloze_1",
+      "group_passage": "Last month, our school started an environmental protection club. I decided to join it because I really care about the environment. Every Friday afternoon, we meet in the classroom to discuss how to make our school greener.\n\nLast week, we (8)______ a special activity. We collected waste paper and plastic bottles in the school. At first, some students thought it was (9)______ and didn't want to help. But when we explained the importance of recycling, they changed their minds. By the end of the day, we (10)______ over 50 kilograms of waste. Our teacher was very proud (11)______ us. She said our small actions could make a big (12)______ to the world. I felt happy because I knew we were doing something meaningful for our planet.",
       "stem": "(9)______",
       "options": [
-        "A. bored",
-        "B. interested",
-        "C. tired",
-        "D. worried"
+        "A. boring",
+        "B. interesting",
+        "C. important",
+        "D. necessary"
       ],
-      "correct_answer": "B",
-      "explanation": "be interested in是固定搭配，意为'对……感兴趣'。根据下文'we not only learned... but also realized...'（我们不仅学到……而且意识到……）可知大家积极参与，很感兴趣。bored（无聊的）、tired（疲倦的）、worried（担心的）均与语境不符。",
-      "label": "完形填空",
-      "group": "cloze_1",
-      "group_passage": "Last month, our school (8)______ an interesting activity called 'Green Campus, Green Life'. The goal was to teach students how to protect the environment in creative ways. First, we collected used bottles and paper from each classroom. Then, with the help of our art teacher, we turned these 'wastes' into beautiful artworks. Some students made flowerpots from plastic bottles, while others created notebooks from waste paper. Everyone was (9)______ in the activity. During the process, we not only learned the importance of recycling but also realized that small actions could make a big (10)______. The artworks were displayed in the school hall, attracting many teachers and students. They were all (11)______ by our creative ideas. At the end of the activity, our headmaster gave a speech. He said that protecting the environment is not just a slogan but a responsibility for everyone. He encouraged us to (12)______ this green lifestyle and influence more people around us. This activity made me understand that environmental protection starts from small things in daily life."
+      "correct_answer": "A",
+      "explanation": "正确答案为A。本题考查形容词情感色彩及逻辑关系。根据后文'But... they changed their minds'（但他们改变了想法）和'didn't want to help'（不想帮忙）可知，起初他们认为活动'boring'（无聊的）。B、C、D都是积极词汇，与'didn't want to help'矛盾。技巧：关注转折词But/However，前后语义通常相反，利用逻辑关系反推答案。",
+      "label": "完形填空"
     },
     {
       "id": 10,
       "type": "cloze",
       "knowledge_point": "cloze_general",
-      "difficulty": 1,
+      "difficulty": 2,
+      "group": "cloze_1",
+      "group_passage": "Last month, our school started an environmental protection club. I decided to join it because I really care about the environment. Every Friday afternoon, we meet in the classroom to discuss how to make our school greener.\n\nLast week, we (8)______ a special activity. We collected waste paper and plastic bottles in the school. At first, some students thought it was (9)______ and didn't want to help. But when we explained the importance of recycling, they changed their minds. By the end of the day, we (10)______ over 50 kilograms of waste. Our teacher was very proud (11)______ us. She said our small actions could make a big (12)______ to the world. I felt happy because I knew we were doing something meaningful for our planet.",
       "stem": "(10)______",
       "options": [
-        "A. mistake",
-        "B. decision",
-        "C. difference",
-        "D. plan"
+        "A. collected",
+        "B. bought",
+        "C. sold",
+        "D. threw"
       ],
-      "correct_answer": "C",
-      "explanation": "make a difference是固定短语，意为'有影响、起作用'。句意：小小的行动可以产生巨大的影响。make a mistake意为'犯错'；make a decision意为'做决定'；make a plan意为'制定计划'。根据语境，选difference最恰当，强调环保小行动的重要性。",
-      "label": "完形填空",
-      "group": "cloze_1",
-      "group_passage": "Last month, our school (8)______ an interesting activity called 'Green Campus, Green Life'. The goal was to teach students how to protect the environment in creative ways. First, we collected used bottles and paper from each classroom. Then, with the help of our art teacher, we turned these 'wastes' into beautiful artworks. Some students made flowerpots from plastic bottles, while others created notebooks from waste paper. Everyone was (9)______ in the activity. During the process, we not only learned the importance of recycling but also realized that small actions could make a big (10)______. The artworks were displayed in the school hall, attracting many teachers and students. They were all (11)______ by our creative ideas. At the end of the activity, our headmaster gave a speech. He said that protecting the environment is not just a slogan but a responsibility for everyone. He encouraged us to (12)______ this green lifestyle and influence more people around us. This activity made me understand that environmental protection starts from small things in daily life."
+      "correct_answer": "A",
+      "explanation": "正确答案为A。本题考查原词复现及语境理解。第二段首句明确提到'We collected waste paper...'，此处为原词复现，表示'收集了50多公斤垃圾'。B选项bought（购买）与收集废品语境不符；C选项sold（售卖）应是收集后的步骤，而非当天活动；D选项threw（扔）与环保主题相悖。技巧：完形填空注意'原词复现'和'同义词复现'，前文出现的词后文可能再次出现。",
+      "label": "完形填空"
     },
     {
       "id": 11,
       "type": "cloze",
-      "knowledge_point": "cloze_general",
+      "knowledge_point": "cloze_collocation",
       "difficulty": 1,
+      "group": "cloze_1",
+      "group_passage": "Last month, our school started an environmental protection club. I decided to join it because I really care about the environment. Every Friday afternoon, we meet in the classroom to discuss how to make our school greener.\n\nLast week, we (8)______ a special activity. We collected waste paper and plastic bottles in the school. At first, some students thought it was (9)______ and didn't want to help. But when we explained the importance of recycling, they changed their minds. By the end of the day, we (10)______ over 50 kilograms of waste. Our teacher was very proud (11)______ us. She said our small actions could make a big (12)______ to the world. I felt happy because I knew we were doing something meaningful for our planet.",
       "stem": "(11)______",
       "options": [
-        "A. surprised",
-        "B. frightened",
-        "C. embarrassed",
-        "D. disappointed"
+        "A. in",
+        "B. with",
+        "C. of",
+        "D. at"
       ],
-      "correct_answer": "A",
-      "explanation": "根据'by our creative ideas'（被我们的创意）可知，老师和学生们感到'惊讶'。surprised意为'惊讶的'；frightened意为'害怕的'；embarrassed意为'尴尬的'；disappointed意为'失望的'。创意作品令人惊讶，选surprised。注意被动语态be surprised by表示'被……所惊讶'。",
-      "label": "完形填空",
-      "group": "cloze_1",
-      "group_passage": "Last month, our school (8)______ an interesting activity called 'Green Campus, Green Life'. The goal was to teach students how to protect the environment in creative ways. First, we collected used bottles and paper from each classroom. Then, with the help of our art teacher, we turned these 'wastes' into beautiful artworks. Some students made flowerpots from plastic bottles, while others created notebooks from waste paper. Everyone was (9)______ in the activity. During the process, we not only learned the importance of recycling but also realized that small actions could make a big (10)______. The artworks were displayed in the school hall, attracting many teachers and students. They were all (11)______ by our creative ideas. At the end of the activity, our headmaster gave a speech. He said that protecting the environment is not just a slogan but a responsibility for everyone. He encouraged us to (12)______ this green lifestyle and influence more people around us. This activity made me understand that environmental protection starts from small things in daily life."
+      "correct_answer": "C",
+      "explanation": "正确答案为C。本题考查固定搭配'be proud of'（为……感到骄傲）。这是中考必考短语。A选项in常搭配be proud in（无此搭配）；B选项with常搭配be pleased with（对……满意）；D选项at常搭配be good at（擅长）。技巧：积累常用形容词短语，特别是proud/pleased/good/interested等词与介词的固定搭配。",
+      "label": "完形填空"
     },
     {
       "id": 12,
       "type": "cloze",
       "knowledge_point": "cloze_general",
       "difficulty": 2,
+      "group": "cloze_1",
+      "group_passage": "Last month, our school started an environmental protection club. I decided to join it because I really care about the environment. Every Friday afternoon, we meet in the classroom to discuss how to make our school greener.\n\nLast week, we (8)______ a special activity. We collected waste paper and plastic bottles in the school. At first, some students thought it was (9)______ and didn't want to help. But when we explained the importance of recycling, they changed their minds. By the end of the day, we (10)______ over 50 kilograms of waste. Our teacher was very proud (11)______ us. She said our small actions could make a big (12)______ to the world. I felt happy because I knew we were doing something meaningful for our planet.",
       "stem": "(12)______",
       "options": [
-        "A. change",
-        "B. forget",
-        "C. keep",
-        "D. refuse"
+        "A. decision",
+        "B. mistake",
+        "C. difference",
+        "D. plan"
       ],
       "correct_answer": "C",
-      "explanation": "根据'this green lifestyle'（这种绿色生活方式）和'influence more people'（影响更多人）可知，校长鼓励我们'保持'这种生活方式。keep意为'保持、继续'；change意为'改变'；forget意为'忘记'；refuse意为'拒绝'。根据语境逻辑，选keep。",
-      "label": "完形填空",
-      "group": "cloze_1",
-      "group_passage": "Last month, our school (8)______ an interesting activity called 'Green Campus, Green Life'. The goal was to teach students how to protect the environment in creative ways. First, we collected used bottles and paper from each classroom. Then, with the help of our art teacher, we turned these 'wastes' into beautiful artworks. Some students made flowerpots from plastic bottles, while others created notebooks from waste paper. Everyone was (9)______ in the activity. During the process, we not only learned the importance of recycling but also realized that small actions could make a big (10)______. The artworks were displayed in the school hall, attracting many teachers and students. They were all (11)______ by our creative ideas. At the end of the activity, our headmaster gave a speech. He said that protecting the environment is not just a slogan but a responsibility for everyone. He encouraged us to (12)______ this green lifestyle and influence more people around us. This activity made me understand that environmental protection starts from small things in daily life."
+      "explanation": "正确答案为C。本题考查固定搭配'make a difference'（产生影响/发挥作用）。句意：她说我们的小行动可以给世界带来大影响。A选项make a decision（做决定）；B选项make a mistake（犯错误）；D选项make a plan（制定计划），均与语境不符。技巧：注意名词与动词的搭配，make a difference是环保类文章高频短语。",
+      "label": "完形填空"
     },
     {
       "id": 13,
       "type": "reading",
       "knowledge_point": "detail",
       "difficulty": 2,
-      "stem": "According to the passage, why do many teenagers have difficulty falling asleep?",
+      "group": "reading_1",
+      "group_passage": "In today's digital age, more and more teenagers spend long hours staring at screens. Whether it's for online classes, homework, or entertainment, screen time has become a major part of daily life. However, doctors warn that excessive screen time can seriously harm our eyes.\n\nDr. Li Ming, a famous eye doctor in Shenzhen, suggests the \"20-20-20\" rule to protect our eyes. It means that for every 20 minutes of screen time, we should look at something 20 feet away (about 6 meters) for at least 20 seconds. This simple habit helps relax the eye muscles and reduce tiredness.\n\nBesides following the 20-20-20 rule, there are other ways to keep our eyes healthy. First, make sure the screen is at least 50-70 cm away from your eyes. Second, blink more often to keep your eyes wet. Third, get enough sleep and eat more green vegetables and carrots, which are rich in vitamins good for eyesight.\n\nMany students in our school have tried these methods. Wang Wei, a 14-year-old boy, said, \"I used to have dry eyes and headaches after using the computer. But after following the 20-20-20 rule for a month, I feel much better now.\"\n\nRemember, our eyes are the windows to the world. Taking good care of them today will help us see a clearer tomorrow.",
+      "stem": "According to the passage, how long should we look at something 20 feet away according to the \"20-20-20\" rule?",
       "options": [
-        "A. Because they have too much homework to do.",
-        "B. Because they use electronic devices before bedtime.",
-        "C. Because they drink too much coffee at night.",
-        "D. Because they exercise too much in the evening."
+        "A. 10 seconds",
+        "B. 20 seconds",
+        "C. 30 seconds",
+        "D. 1 minute"
       ],
       "correct_answer": "B",
-      "explanation": "细节理解题。根据文章第二段'Many teenagers find it hard to fall asleep because they spend time on smartphones or computers before bed. The blue light from these screens stops the body from making melatonin, a chemical that helps us sleep.'可知，青少年难以入睡是因为睡前使用电子设备，屏幕蓝光阻止身体产生褪黑素。A项作业多、C项喝咖啡、D项过度锻炼文中均未提及。",
-      "label": "阅读-细节理解",
-      "group": "reading_1",
-      "group_passage": "In today's digital age, teenagers are spending more time than ever on screens. A recent study shows that Shenzhen teenagers spend about 7 hours daily on electronic devices, including phones, tablets, and computers. While technology brings convenience and entertainment, excessive screen time is causing serious health problems among young people.\n\nMany teenagers find it hard to fall asleep because they spend time on smartphones or computers before bed. The blue light from these screens stops the body from making melatonin (褪黑素), a chemical that helps us sleep. Doctors suggest turning off all screens at least one hour before bedtime to ensure good sleep quality.\n\nBesides sleep problems, too much screen time also affects teenagers' eyesight and physical health. When staring at screens, people blink less often, which causes dry eyes and vision problems. Moreover, long periods of sitting lead to obesity and poor posture. Dr. Li Ming, a local health expert, recommends the '20-20-20' rule: every 20 minutes, look at something 20 feet away for at least 20 seconds.\n\nHowever, completely banning technology is neither possible nor necessary. The key is to find a balance. Parents should encourage outdoor activities and set reasonable time limits on device usage. Schools can also help by organizing more sports events and limiting screen-based homework. After all, technology should serve us, not control our lives."
+      "explanation": "正确答案为B。本题考查细节理解。根据第二段第二句'we should look at something 20 feet away (about 6 meters) for at least 20 seconds'（我们应该看20英尺外的物体至少20秒）可知，正确答案是20秒。A、C、D选项的时间与原文不符。技巧：细节题采用'关键词定位法'，在题干中找'20 feet away'和'how long'，回原文定位到第二段即可找到答案'20 seconds'。",
+      "label": "阅读-细节理解"
     },
     {
       "id": 14,
       "type": "reading",
-      "knowledge_point": "inference",
-      "difficulty": 3,
-      "stem": "What can we infer from Dr. Li Ming's '20-20-20' rule mentioned in Paragraph 3?",
-      "options": [
-        "A. We should exercise for 20 minutes every day.",
-        "B. Teenagers should not use screens for more than 20 minutes a day.",
-        "C. Taking regular breaks can help protect our eyes when using screens.",
-        "D. Looking at distant objects can cure all eye diseases."
-      ],
-      "correct_answer": "C",
-      "explanation": "推理判断题。根据第三段'Dr. Li Ming... recommends the '20-20-20' rule: every 20 minutes, look at something 20 feet away for at least 20 seconds.'可知，这个规则建议每20分钟看20英尺外的物体20秒，目的是缓解眼睛疲劳。由此可推断出：使用屏幕时定期休息有助于保护眼睛。A项每天锻炼20分钟曲解原意；B项每天使用不超过20分钟过于绝对；D项治愈所有眼病错误，规则是预防而非治疗。",
-      "label": "阅读-推理判断",
-      "group": "reading_1",
-      "group_passage": "In today's digital age, teenagers are spending more time than ever on screens. A recent study shows that Shenzhen teenagers spend about 7 hours daily on electronic devices, including phones, tablets, and computers. While technology brings convenience and entertainment, excessive screen time is causing serious health problems among young people.\n\nMany teenagers find it hard to fall asleep because they spend time on smartphones or computers before bed. The blue light from these screens stops the body from making melatonin (褪黑素), a chemical that helps us sleep. Doctors suggest turning off all screens at least one hour before bedtime to ensure good sleep quality.\n\nBesides sleep problems, too much screen time also affects teenagers' eyesight and physical health. When staring at screens, people blink less often, which causes dry eyes and vision problems. Moreover, long periods of sitting lead to obesity and poor posture. Dr. Li Ming, a local health expert, recommends the '20-20-20' rule: every 20 minutes, look at something 20 feet away for at least 20 seconds.\n\nHowever, completely banning technology is neither possible nor necessary. The key is to find a balance. Parents should encourage outdoor activities and set reasonable time limits on device usage. Schools can also help by organizing more sports events and limiting screen-based homework. After all, technology should serve us, not control our lives."
-    },
-    {
-      "id": 15,
-      "type": "reading",
       "knowledge_point": "word_guessing",
       "difficulty": 2,
-      "stem": "The underlined word 'excessive' in Paragraph 1 probably means ______.",
+      "group": "reading_1",
+      "group_passage": "In today's digital age, more and more teenagers spend long hours staring at screens. Whether it's for online classes, homework, or entertainment, screen time has become a major part of daily life. However, doctors warn that excessive screen time can seriously harm our eyes.\n\nDr. Li Ming, a famous eye doctor in Shenzhen, suggests the \"20-20-20\" rule to protect our eyes. It means that for every 20 minutes of screen time, we should look at something 20 feet away (about 6 meters) for at least 20 seconds. This simple habit helps relax the eye muscles and reduce tiredness.\n\nBesides following the 20-20-20 rule, there are other ways to keep our eyes healthy. First, make sure the screen is at least 50-70 cm away from your eyes. Second, blink more often to keep your eyes wet. Third, get enough sleep and eat more green vegetables and carrots, which are rich in vitamins good for eyesight.\n\nMany students in our school have tried these methods. Wang Wei, a 14-year-old boy, said, \"I used to have dry eyes and headaches after using the computer. But after following the 20-20-20 rule for a month, I feel much better now.\"\n\nRemember, our eyes are the windows to the world. Taking good care of them today will help us see a clearer tomorrow.",
+      "stem": "The underlined word \"excessive\" in Paragraph 1 probably means ______.",
       "options": [
         "A. proper",
         "B. too much",
@@ -253,104 +237,120 @@
         "D. necessary"
       ],
       "correct_answer": "B",
-      "explanation": "词义猜测题。根据上下文'teenagers spend about 7 hours daily on electronic devices'（每天约7小时）和'causing serious health problems'（导致严重健康问题）可知，excessive指的是'过度的、过多的'。proper（适当的）、limited（有限的）、necessary（必要的）均与语境相反。excessive=too much，表示过量使用屏幕时间。",
-      "label": "阅读-词义猜测",
+      "explanation": "正确答案为B。本题考查词义猜测。根据上下文'warn that... can seriously harm our eyes'（警告说……会严重伤害眼睛）以及常识，只有'过多的'屏幕时间才会伤害眼睛。A选项proper（适当的）、C选项limited（有限的）、D选项necessary（必要的）均不会与'harm'搭配。技巧：利用上下文逻辑关系（因果、转折）和常识猜测词义，ex-前缀常表示'向外、超过'，excessive即'过度的'。",
+      "label": "阅读-词义猜测"
+    },
+    {
+      "id": 15,
+      "type": "reading",
+      "knowledge_point": "inference",
+      "difficulty": 3,
       "group": "reading_1",
-      "group_passage": "In today's digital age, teenagers are spending more time than ever on screens. A recent study shows that Shenzhen teenagers spend about 7 hours daily on electronic devices, including phones, tablets, and computers. While technology brings convenience and entertainment, excessive screen time is causing serious health problems among young people.\n\nMany teenagers find it hard to fall asleep because they spend time on smartphones or computers before bed. The blue light from these screens stops the body from making melatonin (褪黑素), a chemical that helps us sleep. Doctors suggest turning off all screens at least one hour before bedtime to ensure good sleep quality.\n\nBesides sleep problems, too much screen time also affects teenagers' eyesight and physical health. When staring at screens, people blink less often, which causes dry eyes and vision problems. Moreover, long periods of sitting lead to obesity and poor posture. Dr. Li Ming, a local health expert, recommends the '20-20-20' rule: every 20 minutes, look at something 20 feet away for at least 20 seconds.\n\nHowever, completely banning technology is neither possible nor necessary. The key is to find a balance. Parents should encourage outdoor activities and set reasonable time limits on device usage. Schools can also help by organizing more sports events and limiting screen-based homework. After all, technology should serve us, not control our lives."
+      "group_passage": "In today's digital age, more and more teenagers spend long hours staring at screens. Whether it's for online classes, homework, or entertainment, screen time has become a major part of daily life. However, doctors warn that excessive screen time can seriously harm our eyes.\n\nDr. Li Ming, a famous eye doctor in Shenzhen, suggests the \"20-20-20\" rule to protect our eyes. It means that for every 20 minutes of screen time, we should look at something 20 feet away (about 6 meters) for at least 20 seconds. This simple habit helps relax the eye muscles and reduce tiredness.\n\nBesides following the 20-20-20 rule, there are other ways to keep our eyes healthy. First, make sure the screen is at least 50-70 cm away from your eyes. Second, blink more often to keep your eyes wet. Third, get enough sleep and eat more green vegetables and carrots, which are rich in vitamins good for eyesight.\n\nMany students in our school have tried these methods. Wang Wei, a 14-year-old boy, said, \"I used to have dry eyes and headaches after using the computer. But after following the 20-20-20 rule for a month, I feel much better now.\"\n\nRemember, our eyes are the windows to the world. Taking good care of them today will help us see a clearer tomorrow.",
+      "stem": "What can we infer from Wang Wei's words in Paragraph 4?",
+      "options": [
+        "A. He doesn't like using computers at all.",
+        "B. He wants to see an eye doctor immediately.",
+        "C. The 20-20-20 rule is helpful for eye health.",
+        "D. Dry eyes cannot be cured by any method."
+      ],
+      "correct_answer": "C",
+      "explanation": "正确答案为C。本题考查推理判断。Wang Wei说：'我过去用电脑后眼睛干涩头痛，但遵循20-20-20规则一个月后感觉好多了'，可推断出该规则对眼睛健康有帮助。A选项'一点也不喜欢用电脑'过度推断，他仍使用电脑只是学会了保护；B选项'想立即看医生'与原文不符，他已经好转；D选项'干眼症无法治愈'与原文'feel much better'矛盾。技巧：推理题要基于文本信息，避免过度推断或主观臆断，注意转折词But后的内容常是重点。",
+      "label": "阅读-推理判断"
     },
     {
       "id": 16,
       "type": "reading",
-      "knowledge_point": "main_idea",
+      "knowledge_point": "main_idea_title",
       "difficulty": 3,
-      "stem": "What is the best title for this passage?",
-      "options": [
-        "A. The Development of Electronic Devices",
-        "B. How to Treat Sleep Problems",
-        "C. Screen Time and Teenagers' Health",
-        "D. The Importance of Outdoor Activities"
-      ],
-      "correct_answer": "C",
-      "explanation": "主旨大意题。文章第一段引出话题：青少年屏幕使用时间过长；第二段讲对睡眠的影响；第三段讲对视力和其他健康方面的影响；第四段讲如何平衡使用。全文围绕'screen time'（屏幕时间）和'teenagers' health'（青少年健康）的关系展开。A项电子设备的发展只是背景；B项如何治疗睡眠问题只是细节；D项户外活动的重要性是建议部分。C项最全面概括主旨。",
-      "label": "阅读-主旨大意",
       "group": "reading_1",
-      "group_passage": "In today's digital age, teenagers are spending more time than ever on screens. A recent study shows that Shenzhen teenagers spend about 7 hours daily on electronic devices, including phones, tablets, and computers. While technology brings convenience and entertainment, excessive screen time is causing serious health problems among young people.\n\nMany teenagers find it hard to fall asleep because they spend time on smartphones or computers before bed. The blue light from these screens stops the body from making melatonin (褪黑素), a chemical that helps us sleep. Doctors suggest turning off all screens at least one hour before bedtime to ensure good sleep quality.\n\nBesides sleep problems, too much screen time also affects teenagers' eyesight and physical health. When staring at screens, people blink less often, which causes dry eyes and vision problems. Moreover, long periods of sitting lead to obesity and poor posture. Dr. Li Ming, a local health expert, recommends the '20-20-20' rule: every 20 minutes, look at something 20 feet away for at least 20 seconds.\n\nHowever, completely banning technology is neither possible nor necessary. The key is to find a balance. Parents should encourage outdoor activities and set reasonable time limits on device usage. Schools can also help by organizing more sports events and limiting screen-based homework. After all, technology should serve us, not control our lives."
+      "group_passage": "In today's digital age, more and more teenagers spend long hours staring at screens. Whether it's for online classes, homework, or entertainment, screen time has become a major part of daily life. However, doctors warn that excessive screen time can seriously harm our eyes.\n\nDr. Li Ming, a famous eye doctor in Shenzhen, suggests the \"20-20-20\" rule to protect our eyes. It means that for every 20 minutes of screen time, we should look at something 20 feet away (about 6 meters) for at least 20 seconds. This simple habit helps relax the eye muscles and reduce tiredness.\n\nBesides following the 20-20-20 rule, there are other ways to keep our eyes healthy. First, make sure the screen is at least 50-70 cm away from your eyes. Second, blink more often to keep your eyes wet. Third, get enough sleep and eat more green vegetables and carrots, which are rich in vitamins good for eyesight.\n\nMany students in our school have tried these methods. Wang Wei, a 14-year-old boy, said, \"I used to have dry eyes and headaches after using the computer. But after following the 20-20-20 rule for a month, I feel much better now.\"\n\nRemember, our eyes are the windows to the world. Taking good care of them today will help us see a clearer tomorrow.",
+      "stem": "What is the best title for the passage?",
+      "options": [
+        "A. The History of Glasses",
+        "B. How to Protect Our Eyes in the Digital Age",
+        "C. The Life of Dr. Li Ming",
+        "D. Why We Need Computers"
+      ],
+      "correct_answer": "B",
+      "explanation": "正确答案为B。本题考查主旨大意/最佳标题。全文围绕数字时代（digital age）如何保护眼睛展开，介绍了20-20-20规则及其他护眼方法。A选项'眼镜的历史'只在文中未提及；C选项'李医生的生活'只是文中细节，非主旨；D选项'为什么我们需要电脑'偏离主题，文中强调的是用电脑时的护眼而非需要电脑。技巧：最佳标题应概括全文核心内容，通常包含主题词（eyes/eye protection）和范围（digital age/screen time），避免以偏概全或扩大范围。",
+      "label": "阅读-主旨大意"
     },
     {
       "id": 17,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
+      "group": "fill_1",
+      "group_passage": "Waste sorting has become an important part of our daily life in Shenzhen. It helps protect the environment and save resources. (17)______. For example, kitchen waste can be turned into fertilizer, while paper and plastic can be recycled into new products.\n\n(18)______. First, we should learn the four categories: recyclable waste, harmful waste, kitchen waste, and other waste. Each type goes into a different colored bin. (19)______. Second, we need to clean the containers before throwing them away. This makes recycling easier and more efficient.\n\n(20)______. Many communities have volunteers who stand by the bins to help residents sort their waste correctly. With everyone's effort, our city will become cleaner and greener.",
       "stem": "(17)______",
       "options": [
-        "A. However",
-        "B. First of all",
-        "C. In addition",
-        "D. As a result",
-        "E. On the other hand"
+        "A. However, it is not always easy to sort waste correctly at the beginning.",
+        "B. Then, we can take some simple steps to sort waste properly.",
+        "C. As a result, waste sorting has been widely promoted across the city.",
+        "D. Different types of waste are processed in different ways.",
+        "E. In addition, the government has set up special programs to help people learn about waste sorting."
       ],
-      "correct_answer": "B",
-      "explanation": "此处需要填入表示顺序或层次的连接词。根据下文'Secondly'（第二）可知，此处应为'First of all'（首先），与Secondly构成顺序关系。However表转折；In addition表递进；As a result表结果；On the other hand表另一方面。",
-      "label": "短文填空",
-      "group": "fill_1",
-      "group_passage": "Many students find it difficult to balance study and hobbies. (17)______, they should make a clear schedule. Write down all the tasks for the day and estimate how long each one takes. (18)______, they need to learn to say no to unnecessary activities like spending too much time on social media. (19)______, good time management can help reduce stress and improve efficiency. When students finish tasks on time, they will have more free time to enjoy their hobbies. (20)______, parents and teachers should provide support and understanding, rather than just pushing students to study all the time."
+      "correct_answer": "D",
+      "explanation": "正确答案为D。本题考查段落衔接和逻辑关系。空后'For example'（例如）提示前一句是总述，后文举例说明：厨余垃圾变成肥料，纸和塑料回收成新产品。D选项'Different types of waste are processed in different ways'（不同类型的垃圾以不同方式处理）正好概括后文例子。A表转折，后文无转折含义；B引出步骤，但后文是举例而非步骤；C表结果，此处无因果关系；E补充政府项目，与后文例子无关。技巧：关注连接词For example/For instance，其前通常是总述句。",
+      "label": "短文填空"
     },
     {
       "id": 18,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
+      "group": "fill_1",
+      "group_passage": "Waste sorting has become an important part of our daily life in Shenzhen. It helps protect the environment and save resources. (17)______. For example, kitchen waste can be turned into fertilizer, while paper and plastic can be recycled into new products.\n\n(18)______. First, we should learn the four categories: recyclable waste, harmful waste, kitchen waste, and other waste. Each type goes into a different colored bin. (19)______. Second, we need to clean the containers before throwing them away. This makes recycling easier and more efficient.\n\n(20)______. Many communities have volunteers who stand by the bins to help residents sort their waste correctly. With everyone's effort, our city will become cleaner and greener.",
       "stem": "(18)______",
       "options": [
-        "A. However",
-        "B. First of all",
-        "C. In addition",
-        "D. As a result",
-        "E. On the other hand"
+        "A. However, it is not always easy to sort waste correctly at the beginning.",
+        "B. Then, we can take some simple steps to sort waste properly.",
+        "C. As a result, waste sorting has been widely promoted across the city.",
+        "D. Different types of waste are processed in different ways.",
+        "E. In addition, the government has set up special programs to help people learn about waste sorting."
       ],
-      "correct_answer": "C",
-      "explanation": "前文讲'制定清晰的日程表'，后文讲'学会对不必要的活动说不'，两者是递进关系，都是具体建议。In addition（此外、另外）表递进，符合语境。However表转折；First of all表首先（已用过）；As a result表结果；On the other hand表另一方面（通常指对立观点）。",
-      "label": "短文填空",
-      "group": "fill_1",
-      "group_passage": "Many students find it difficult to balance study and hobbies. (17)______, they should make a clear schedule. Write down all the tasks for the day and estimate how long each one takes. (18)______, they need to learn to say no to unnecessary activities like spending too much time on social media. (19)______, good time management can help reduce stress and improve efficiency. When students finish tasks on time, they will have more free time to enjoy their hobbies. (20)______, parents and teachers should provide支持 and understanding, rather than just pushing students to study all the time."
+      "correct_answer": "B",
+      "explanation": "正确答案为B。本题考查段落主题句。空后出现'First... Second...'，提示这是步骤说明。B选项'Then, we can take some simple steps to sort waste properly'（然后，我们可以采取一些简单步骤正确分类垃圾）作为主题句引出下文步骤。A表转折，与后文步骤无关；C表结果，位置不当；D是17题答案；E补充说明，不适合引出步骤。技巧：看到First/Second/Third等序数词，前文通常有'take steps/methods/ways'等总述词。",
+      "label": "短文填空"
     },
     {
       "id": 19,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
+      "group": "fill_1",
+      "group_passage": "Waste sorting has become an important part of our daily life in Shenzhen. It helps protect the environment and save resources. (17)______. For example, kitchen waste can be turned into fertilizer, while paper and plastic can be recycled into new products.\n\n(18)______. First, we should learn the four categories: recyclable waste, harmful waste, kitchen waste, and other waste. Each type goes into a different colored bin. (19)______. Second, we need to clean the containers before throwing them away. This makes recycling easier and more efficient.\n\n(20)______. Many communities have volunteers who stand by the bins to help residents sort their waste correctly. With everyone's effort, our city will become cleaner and greener.",
       "stem": "(19)______",
       "options": [
-        "A. However",
-        "B. First of all",
-        "C. In addition",
-        "D. As a result",
-        "E. On the other hand"
+        "A. However, it is not always easy to sort waste correctly at the beginning.",
+        "B. Then, we can take some simple steps to sort waste properly.",
+        "C. As a result, waste sorting has been widely promoted across the city.",
+        "D. Different types of waste are processed in different ways.",
+        "E. In addition, the government has set up special programs to help people learn about waste sorting."
       ],
-      "correct_answer": "D",
-      "explanation": "前文讲具体的时间管理方法（制定日程、拒绝无关活动），后文讲'良好的时间管理能帮助减少压力、提高效率'，这是前文做法带来的结果。As a result（因此、结果）表因果关系，符合逻辑。However表转折；First of all和In addition表顺序/递进；On the other hand表对比。",
-      "label": "短文填空",
-      "group": "fill_1",
-      "group_passage": "Many students find it difficult to balance study and hobbies. (17)______, they should make a clear schedule. Write down all the tasks for the day and estimate how long each one takes. (18)______, they need to learn to say no to unnecessary activities like spending too much time on social media. (19)______, good time management can help reduce stress and improve efficiency. When students finish tasks on time, they will have more free time to enjoy their hobbies. (20)______, parents and teachers should provide支持 and understanding, rather than just pushing students to study all the time."
+      "correct_answer": "A",
+      "explanation": "正确答案为A。本题考查逻辑转折关系。前文讲'First, we should learn...'（首先我们应该学习……），后文讲'Second, we need to...'（其次我们需要……），中间插入A选项'However, it is not always easy...'（然而，起初正确分类并不总是容易的），形成'建议-困难-建议'的逻辑，使文章更有层次。B已用于18题；C表结果，此处无因果；D已用于17题；E与上下文衔接不畅。技巧：However表转折，用于引出问题或困难，使文章内容更丰富，避免平铺直叙。",
+      "label": "短文填空"
     },
     {
       "id": 20,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
+      "group": "fill_1",
+      "group_passage": "Waste sorting has become an important part of our daily life in Shenzhen. It helps protect the environment and save resources. (17)______. For example, kitchen waste can be turned into fertilizer, while paper and plastic can be recycled into new products.\n\n(18)______. First, we should learn the four categories: recyclable waste, harmful waste, kitchen waste, and other waste. Each type goes into a different colored bin. (19)______. Second, we need to clean the containers before throwing them away. This makes recycling easier and more efficient.\n\n(20)______. Many communities have volunteers who stand by the bins to help residents sort their waste correctly. With everyone's effort, our city will become cleaner and greener.",
       "stem": "(20)______",
       "options": [
-        "A. However",
-        "B. First of all",
-        "C. In addition",
-        "D. As a result",
-        "E. On the other hand"
+        "A. However, it is not always easy to sort waste correctly at the beginning.",
+        "B. Then, we can take some simple steps to sort waste properly.",
+        "C. As a result, waste sorting has been widely promoted across the city.",
+        "D. Different types of waste are processed in different ways.",
+        "E. In addition, the government has set up special programs to help people learn about waste sorting."
       ],
-      "correct_answer": "A",
-      "explanation": "前文讲学生自身的做法（制定日程、拒绝诱惑、享受结果），后文讲'家长和老师应该提供支持……'，话题从学生自身转向外部支持，且带有轻微转折意味——除了学生努力，家长老师也要配合。However（然而、不过）可用于引出另一方面的建议。On the other hand通常用于对比两种不同观点，此处不适用；其他选项逻辑不符。",
-      "label": "短文填空",
-      "group": "fill_1",
-      "group_passage": "Many students find it difficult to balance study and hobbies. (17)______, they should make a clear schedule. Write down all the tasks for the day and estimate how long each one takes. (18)______, they need to learn to say no to unnecessary activities like spending too much time on social media. (19)______, good time management can help reduce stress and improve efficiency. When students finish tasks on time, they will have more free time to enjoy their hobbies. (20)______, parents and teachers should provide支持 and understanding, rather than just pushing students to study all the time."
+      "correct_answer": "E",
+      "explanation": "正确答案为E。本题考查段落衔接和补充说明。最后一段提到'Many communities have volunteers...'（许多社区有志愿者……），E选项'In addition, the government has set up special programs...'（此外，政府设立了特别项目……）中的'In addition'（此外）表示补充，与后文'volunteers'形成'政府-社区'的并列支持体系。A已用于19题；B已用于18题；C表结果，通常用于结尾总结，但后文还有'With everyone's effort...'；D已用于17题。技巧：In addition/Furthermore/Moreover用于补充同类信息，看到后文有新措施时，前文可能是'政府/学校/社区'等不同主体的支持。",
+      "label": "短文填空"
     }
   ]
 }
