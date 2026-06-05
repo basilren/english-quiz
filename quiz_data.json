@@ -1,5 +1,5 @@
 ﻿{
-  "date": "2026-06-05",
+  "date": "2026-06-06",
   "session_number": 1,
   "questions": [
     {
@@ -7,15 +7,15 @@
       "type": "grammar",
       "knowledge_point": "present_perfect_vs_past_simple",
       "difficulty": 2,
-      "stem": "—______ you ever ______ to the Shenzhen Science Museum? \n—Yes, I went there last month. It was amazing!",
+      "stem": "I ______ my homework an hour ago, but I haven't checked it yet.",
       "options": [
-        "A. Did; go",
-        "B. Have; been",
-        "C. Do; go",
-        "D. Are; going"
+        "A. finished",
+        "B. have finished",
+        "C. finish",
+        "D. am finishing"
       ],
-      "correct_answer": "B",
-      "explanation": "正确答案为B。本题考查现在完成时与一般过去时的区别。句中有'ever'（曾经），这是现在完成时的标志性时间状语，表示过去经历对现在的影响。结构为'Have/Has + 过去分词'。A选项是一般过去时，虽可回答具体时间，但问句中有ever时应用现在完成时；C是一般现在时；D是现在进行时表将来。技巧口诀：'ever/never/already/yet'，完成时态记心间。",
+      "correct_answer": "A",
+      "explanation": "正确答案是A。'an hour ago'（一小时前）是一般过去时的明确时间状语，强调过去某个时间点完成的动作，因此用finished。'haven't checked'使用现在完成时，强调过去动作对现在的影响（还没检查）。B选项have finished用于现在完成时，但不能与ago连用；C是一般现在时，D是现在进行时，均不符合时间状语要求。解题技巧：看到'ago'选过去时，看到'yet/already'选现在完成时。",
       "label": "语法题"
     },
     {
@@ -23,63 +23,63 @@
       "type": "grammar",
       "knowledge_point": "relative_clause_who_which",
       "difficulty": 2,
-      "stem": "The book ______ I bought yesterday is about environmental protection. It is very interesting.",
+      "stem": "The boy ______ is standing under the tree is my classmate.",
       "options": [
-        "A. who",
-        "B. whom",
-        "C. which",
+        "A. which",
+        "B. who",
+        "C. whom",
         "D. whose"
       ],
-      "correct_answer": "C",
-      "explanation": "正确答案为C。本题考查定语从句关系词的选择。先行词'the book'指物，且在从句中作宾语（I bought the book），因此用which或that引导。A选项who用于指人，在从句中作主语；B选项whom用于指人，在从句中作宾语；D选项whose表示'……的'，在从句中作定语。解题技巧：先行词是物选which/that，是人选who/whom，表所属用whose。",
+      "correct_answer": "B",
+      "explanation": "正确答案是B。考查定语从句关系词的选择。先行词'the boy'指人，且在从句中作主语（is standing），因此用who。A选项which用于指物；C选项whom虽然指人，但只能在从句中作宾语；D选项whose表示'...的'，在从句中作定语。解题技巧：先行词指人用who/whom/that，指物用which/that；从句缺主语用who/which，缺宾语用whom/which/who（口语中who可代替whom）。",
       "label": "语法题"
     },
     {
       "id": 3,
       "type": "grammar",
       "knowledge_point": "passive_voice",
-      "difficulty": 3,
-      "stem": "The new teaching building ______ by the workers and it will be put into use next term.",
+      "difficulty": 1,
+      "stem": "The letter ______ in English yesterday.",
       "options": [
-        "A. builds",
-        "B. is building",
-        "C. has been built",
-        "D. was built"
+        "A. writes",
+        "B. wrote",
+        "C. is written",
+        "D. was written"
       ],
-      "correct_answer": "C",
-      "explanation": "正确答案为C。本题考查现在完成时的被动语态。根据后半句'will be put into use next term'（下学期将投入使用）可知，教学楼已经被建好，强调过去动作对现在的影响（已经完工，即将使用），应用现在完成时的被动语态'has been built'。A是主动语态一般现在时；B是主动语态现在进行时；D是一般过去时被动语态，仅表示过去被建，未体现对现在的影响。技巧：看时间标志词和语境暗示，强调'已完成'用现在完成时。",
+      "correct_answer": "D",
+      "explanation": "正确答案是D。考查一般过去时的被动语态。主语'the letter'（信）是动作'write'的承受者，因此用被动语态；时间状语'yesterday'表明是过去时，所以用was written。A是一般现在时主动；B是一般过去时主动；C是一般现在时被动，时态不符。解题技巧：被动语态结构为'be+过去分词'，先判断时态（yesterday→过去时），再判断语态（信被写→被动）。",
       "label": "语法题"
     },
     {
       "id": 4,
       "type": "grammar",
       "knowledge_point": "object_clause",
-      "difficulty": 1,
+      "difficulty": 3,
       "stem": "Could you tell me ______?",
       "options": [
         "A. where is the nearest bookstore",
         "B. where the nearest bookstore is",
-        "C. where does the nearest bookstore",
-        "D. where the nearest bookstore was"
+        "C. where was the nearest bookstore",
+        "D. where does the nearest bookstore locate"
       ],
       "correct_answer": "B",
-      "explanation": "正确答案为B。本题考查宾语从句的语序。宾语从句必须使用陈述句语序（主语+谓语），不能用疑问句语序。A和C都是疑问句语序（is/does在主语前），首先排除。D选项时态错误，主句'Could you tell me'中的could是委婉语气，不是过去时，从句陈述客观事实应用一般现在时is。技巧口诀：宾语从句用陈述，主句时态定从句，客观真理永一现。",
+      "explanation": "正确答案是B。考查宾语从句的语序。宾语从句必须使用陈述句语序（主语+谓语），不能用疑问句语序。A、C、D都是疑问句语序（is/was/does在主语前）。B选项'where the nearest bookstore is'中，主语是'the nearest bookstore'，谓语是'is'，符合陈述语序。解题技巧：宾语从句三步走：1)看引导词（if/whether/疑问词）；2)看语序（必须是主谓结构）；3)看时态（主过从过，主现从实）。记住口诀：宾从要用陈述序，主过从过要牢记。",
       "label": "语法题"
     },
     {
       "id": 5,
       "type": "vocabulary",
-      "knowledge_point": "word_meaning",
+      "knowledge_point": "word_guessing_context",
       "difficulty": 1,
-      "stem": "The ______ of the mountain is covered with snow all year round. You can see the white peak from far away.",
+      "stem": "The old bridge is not strong enough to support heavy trucks. It may ______ if too many vehicles cross it at the same time.",
       "options": [
-        "A. foot",
-        "B. top",
-        "C. side",
-        "D. bottom"
+        "A. stand",
+        "B. collapse",
+        "C. survive",
+        "D. exist"
       ],
       "correct_answer": "B",
-      "explanation": "正确答案为B。本题考查名词词义辨析。根据后句'You can see the white peak'（你能看到白色的山峰）和'covered with snow'（被雪覆盖）可知，此处指'山顶'。A选项foot表示'山脚'；C选项side表示'侧面'；D选项bottom表示'底部'。解题技巧：利用上下文语境线索（peak提示top），联系地理常识（山顶积雪）。",
+      "explanation": "正确答案是B。考查通过上下文猜测词义。根据前句'not strong enough to support'（不够坚固，无法支撑）可推断，如果太多车辆同时通过，桥可能会'倒塌'。collapse意为'倒塌、坍塌'。A选项stand（站立）与语境矛盾；C选项survive（幸存）和D选项exist（存在）不符合'不坚固'的语境线索。解题技巧：利用同义/反义线索、因果线索（so, because）、转折线索（but, however）猜测词义。",
       "label": "词汇题"
     },
     {
@@ -87,15 +87,15 @@
       "type": "vocabulary",
       "knowledge_point": "phrasal_verbs",
       "difficulty": 2,
-      "stem": "We should ______ our best to reduce plastic waste and protect the ocean.",
+      "stem": "We need to ______ a solution to this problem before the deadline.",
       "options": [
-        "A. try",
-        "B. make",
-        "C. do",
-        "D. take"
+        "A. come up with",
+        "B. look forward to",
+        "C. get along with",
+        "D. run out of"
       ],
       "correct_answer": "A",
-      "explanation": "正确答案为A。本题考查固定搭配'try one's best'（尽某人最大努力）。B选项make常搭配make progress（取得进步）、make a decision（做决定）；C选项do常搭配do homework（做作业）、do exercise（做运动）；D选项take常搭配take action（采取行动）、take care of（照顾）。技巧：积累常用动词短语，注意介词搭配，'try one's best to do sth'是中考高频考点。",
+      "explanation": "正确答案是A。考查动词短语辨析。come up with意为'提出、想出（主意、计划、解决方案等）'，与solution（解决方案）搭配恰当。B选项look forward to意为'期待'，后接名词或动名词；C选项get along with意为'与...相处'；D选项run out of意为'用完、耗尽'。解题技巧：记住常见搭配：come up with an idea/solution/plan；run out of time/money/energy。",
       "label": "词汇题"
     },
     {
@@ -103,254 +103,254 @@
       "type": "vocabulary",
       "knowledge_point": "word_formation",
       "difficulty": 2,
-      "stem": "The story sounds ______. Nobody believes it is true.",
+      "stem": "It is ______ to swim in the river without a lifeguard. You should be careful.",
       "options": [
-        "A. believable",
-        "B. unbelievable",
-        "C. believe",
-        "D. belief"
+        "A. danger",
+        "B. dangerous",
+        "C. dangerously",
+        "D. endanger"
       ],
       "correct_answer": "B",
-      "explanation": "正确答案为B。本题考查词性转换及前缀用法。根据后句'Nobody believes it'（没人相信）可知，故事'难以置信'。un-是否定前缀，unbelievable意为'难以置信的'。A选项believable（可信的）与句意相反；C选项believe是动词原形；D选项belief是名词（信仰）。技巧：掌握常见否定前缀un-/dis-/im-，根据上下文逻辑（转折、因果）判断词义方向。",
+      "explanation": "正确答案是B。考查词性转换。句型'It is + adj. + to do sth.'中，is后面需要接形容词作表语。dangerous是形容词，意为'危险的'。A选项danger是名词；C选项dangerously是副词；D选项endanger是动词（危及）。解题技巧：记住句型It is +形容词+for sb.+to do sth.。常见形容词后缀：-ous（dangerous, famous）、-ful（helpful）、-less（careless）。",
       "label": "词汇题"
     },
     {
       "id": 8,
       "type": "cloze",
-      "knowledge_point": "cloze_general",
+      "knowledge_point": "passive_voice",
       "difficulty": 1,
-      "group": "cloze_1",
-      "group_passage": "Last month, our school started an environmental protection club. I decided to join it because I really care about the environment. Every Friday afternoon, we meet in the classroom to discuss how to make our school greener.\n\nLast week, we (8)______ a special activity. We collected waste paper and plastic bottles in the school. At first, some students thought it was (9)______ and didn't want to help. But when we explained the importance of recycling, they changed their minds. By the end of the day, we (10)______ over 50 kilograms of waste. Our teacher was very proud (11)______ us. She said our small actions could make a big (12)______ to the world. I felt happy because I knew we were doing something meaningful for our planet.",
-      "stem": "(8)______",
+      "stem": "(1)______",
       "options": [
-        "A. had",
-        "B. organized",
-        "C. found",
-        "D. lost"
+        "A. was designed",
+        "B. designed",
+        "C. is designed",
+        "D. designs"
       ],
-      "correct_answer": "B",
-      "explanation": "正确答案为B。本题考查动词词义辨析及语境理解。根据宾语'a special activity'（一次特别活动）可知，应选'organized'（组织）。A选项had（有）搭配不够具体；C选项found（发现）与语境不符，活动是主动策划而非发现；D选项lost（丢失）与下文描述的积极活动相悖。技巧：完形填空注意动词与宾语的搭配合理性，以及上下文情感色彩（积极/消极）。",
-      "label": "完形填空"
+      "correct_answer": "A",
+      "explanation": "正确答案是A。考查一般过去时的被动语态。主语'the project'（项目）与动词'design'（设计）是被动关系，且动作发生在过去（上个月开始的项目），因此用was designed。B缺少be动词，不能构成被动语态；C是一般现在时被动，时态不符；D是主动语态第三人称单数形式。解题技巧：被动语态结构'be done'，先找时间标志词（last month→过去时），再判断主谓关系（项目被设计→被动）。",
+      "label": "完形填空",
+      "group": "cloze_1",
+      "group_passage": "The Green Club at Sunshine Middle School has been working hard to make our school more environmentally friendly. Last month, they started a new project called \"Zero Waste Classroom\". The project (1)______ by the club members themselves. They wanted to reduce the amount of waste produced in classrooms. First, they placed recycling bins in every room. Then, they made posters to teach students how to sort waste properly. However, things didn't go (2)______ at first. Many students found it difficult to remember which bin to use. Some even complained that it took too much time. But the club members didn't (3)______. They stood by the bins during break time and helped classmates sort their rubbish. Slowly, students began to understand the (4)______ of the project. \"I used to throw everything into one bin,\" said Li Wei, a Grade 8 student. \"Now I know that paper and plastic should go to different places. It feels good to do something for our planet.\" After four weeks, the results were amazing. The school has produced 40% less waste (5)______ the project started. The Green Club is now planning to spread this idea to other schools in the city."
     },
     {
       "id": 9,
       "type": "cloze",
       "knowledge_point": "cloze_general",
       "difficulty": 2,
-      "group": "cloze_1",
-      "group_passage": "Last month, our school started an environmental protection club. I decided to join it because I really care about the environment. Every Friday afternoon, we meet in the classroom to discuss how to make our school greener.\n\nLast week, we (8)______ a special activity. We collected waste paper and plastic bottles in the school. At first, some students thought it was (9)______ and didn't want to help. But when we explained the importance of recycling, they changed their minds. By the end of the day, we (10)______ over 50 kilograms of waste. Our teacher was very proud (11)______ us. She said our small actions could make a big (12)______ to the world. I felt happy because I knew we were doing something meaningful for our planet.",
-      "stem": "(9)______",
+      "stem": "(2)______",
       "options": [
-        "A. boring",
-        "B. interesting",
-        "C. important",
-        "D. necessary"
+        "A. badly",
+        "B. smoothly",
+        "C. quickly",
+        "D. strangely"
       ],
-      "correct_answer": "A",
-      "explanation": "正确答案为A。本题考查形容词情感色彩及逻辑关系。根据后文'But... they changed their minds'（但他们改变了想法）和'didn't want to help'（不想帮忙）可知，起初他们认为活动'boring'（无聊的）。B、C、D都是积极词汇，与'didn't want to help'矛盾。技巧：关注转折词But/However，前后语义通常相反，利用逻辑关系反推答案。",
-      "label": "完形填空"
+      "correct_answer": "B",
+      "explanation": "正确答案是B。考查语境推理。根据下文'Many students found it difficult... Some even complained'（很多学生觉得困难，有人抱怨）可知，事情起初进展并不'顺利'。smoothly意为'顺利地、平稳地'，go smoothly是固定搭配，意为'进展顺利'。A选项badly（糟糕地）虽然意思似乎通顺，但didn't go badly表示'进展不错'，与下文矛盾；C选项quickly（快速地）和D选项strangely（奇怪地）不符合语境。解题技巧：利用下文解释线索（学生抱怨、觉得困难）推断事情进展不顺利，因此选择smoothly构成否定'并不顺利'。",
+      "label": "完形填空",
+      "group": "cloze_1",
+      "group_passage": "The Green Club at Sunshine Middle School has been working hard to make our school more environmentally friendly. Last month, they started a new project called \"Zero Waste Classroom\". The project (1)______ by the club members themselves. They wanted to reduce the amount of waste produced in classrooms. First, they placed recycling bins in every room. Then, they made posters to teach students how to sort waste properly. However, things didn't go (2)______ at first. Many students found it difficult to remember which bin to use. Some even complained that it took too much time. But the club members didn't (3)______. They stood by the bins during break time and helped classmates sort their rubbish. Slowly, students began to understand the (4)______ of the project. \"I used to throw everything into one bin,\" said Li Wei, a Grade 8 student. \"Now I know that paper and plastic should go to different places. It feels good to do something for our planet.\" After four weeks, the results were amazing. The school has produced 40% less waste (5)______ the project started. The Green Club is now planning to spread this idea to other schools in the city."
     },
     {
       "id": 10,
       "type": "cloze",
       "knowledge_point": "cloze_general",
       "difficulty": 2,
-      "group": "cloze_1",
-      "group_passage": "Last month, our school started an environmental protection club. I decided to join it because I really care about the environment. Every Friday afternoon, we meet in the classroom to discuss how to make our school greener.\n\nLast week, we (8)______ a special activity. We collected waste paper and plastic bottles in the school. At first, some students thought it was (9)______ and didn't want to help. But when we explained the importance of recycling, they changed their minds. By the end of the day, we (10)______ over 50 kilograms of waste. Our teacher was very proud (11)______ us. She said our small actions could make a big (12)______ to the world. I felt happy because I knew we were doing something meaningful for our planet.",
-      "stem": "(10)______",
+      "stem": "(3)______",
       "options": [
-        "A. collected",
-        "B. bought",
-        "C. sold",
-        "D. threw"
+        "A. give up",
+        "B. look up",
+        "C. grow up",
+        "D. show up"
       ],
       "correct_answer": "A",
-      "explanation": "正确答案为A。本题考查原词复现及语境理解。第二段首句明确提到'We collected waste paper...'，此处为原词复现，表示'收集了50多公斤垃圾'。B选项bought（购买）与收集废品语境不符；C选项sold（售卖）应是收集后的步骤，而非当天活动；D选项threw（扔）与环保主题相悖。技巧：完形填空注意'原词复现'和'同义词复现'，前文出现的词后文可能再次出现。",
-      "label": "完形填空"
+      "explanation": "正确答案是A。考查动词短语及逻辑关系。根据转折词'But'和下文'They stood by the bins... and helped'（他们站在垃圾桶旁帮忙）可知，尽管遇到困难，俱乐部成员没有'放弃'。give up意为'放弃'。B选项look up意为'查阅、向上看'；C选项grow up意为'长大'；D选项show up意为'出现'。解题技巧：利用转折逻辑（But）和下文行为描述（坚持帮忙）推断情感态度（不放弃）。",
+      "label": "完形填空",
+      "group": "cloze_1",
+      "group_passage": "The Green Club at Sunshine Middle School has been working hard to make our school more environmentally friendly. Last month, they started a new project called \"Zero Waste Classroom\". The project (1)______ by the club members themselves. They wanted to reduce the amount of waste produced in classrooms. First, they placed recycling bins in every room. Then, they made posters to teach students how to sort waste properly. However, things didn't go (2)______ at first. Many students found it difficult to remember which bin to use. Some even complained that it took too much time. But the club members didn't (3)______. They stood by the bins during break time and helped classmates sort their rubbish. Slowly, students began to understand the (4)______ of the project. \"I used to throw everything into one bin,\" said Li Wei, a Grade 8 student. \"Now I know that paper and plastic should go to different places. It feels good to do something for our planet.\" After four weeks, the results were amazing. The school has produced 40% less waste (5)______ the project started. The Green Club is now planning to spread this idea to other schools in the city."
     },
     {
       "id": 11,
       "type": "cloze",
-      "knowledge_point": "cloze_collocation",
-      "difficulty": 1,
-      "group": "cloze_1",
-      "group_passage": "Last month, our school started an environmental protection club. I decided to join it because I really care about the environment. Every Friday afternoon, we meet in the classroom to discuss how to make our school greener.\n\nLast week, we (8)______ a special activity. We collected waste paper and plastic bottles in the school. At first, some students thought it was (9)______ and didn't want to help. But when we explained the importance of recycling, they changed their minds. By the end of the day, we (10)______ over 50 kilograms of waste. Our teacher was very proud (11)______ us. She said our small actions could make a big (12)______ to the world. I felt happy because I knew we were doing something meaningful for our planet.",
-      "stem": "(11)______",
+      "knowledge_point": "cloze_general",
+      "difficulty": 2,
+      "stem": "(4)______",
       "options": [
-        "A. in",
-        "B. with",
-        "C. of",
-        "D. at"
+        "A. difficulty",
+        "B. secret",
+        "C. importance",
+        "D. mystery"
       ],
       "correct_answer": "C",
-      "explanation": "正确答案为C。本题考查固定搭配'be proud of'（为……感到骄傲）。这是中考必考短语。A选项in常搭配be proud in（无此搭配）；B选项with常搭配be pleased with（对……满意）；D选项at常搭配be good at（擅长）。技巧：积累常用形容词短语，特别是proud/pleased/good/interested等词与介词的固定搭配。",
-      "label": "完形填空"
+      "explanation": "正确答案是C。考查语境推理及情感线索。根据下文李威的话'Now I know that... It feels good to do something for our planet'（现在我知道了...为地球做点事感觉很好）可知，学生们开始理解这个项目的'重要性'。importance意为'重要性'。A选项difficulty（困难）与语境情感不符；B选项secret（秘密）和D选项mystery（谜团）不符合上下文。解题技巧：利用直接引语中的情感线索（feels good）推断学生对项目价值的认可。",
+      "label": "完形填空",
+      "group": "cloze_1",
+      "group_passage": "The Green Club at Sunshine Middle School has been working hard to make our school more environmentally friendly. Last month, they started a new project called \"Zero Waste Classroom\". The project (1)______ by the club members themselves. They wanted to reduce the amount of waste produced in classrooms. First, they placed recycling bins in every room. Then, they made posters to teach students how to sort waste properly. However, things didn't go (2)______ at first. Many students found it difficult to remember which bin to use. Some even complained that it took too much time. But the club members didn't (3)______. They stood by the bins during break time and helped classmates sort their rubbish. Slowly, students began to understand the (4)______ of the project. \"I used to throw everything into one bin,\" said Li Wei, a Grade 8 student. \"Now I know that paper and plastic should go to different places. It feels good to do something for our planet.\" After four weeks, the results were amazing. The school has produced 40% less waste (5)______ the project started. The Green Club is now planning to spread this idea to other schools in the city."
     },
     {
       "id": 12,
       "type": "cloze",
-      "knowledge_point": "cloze_general",
-      "difficulty": 2,
-      "group": "cloze_1",
-      "group_passage": "Last month, our school started an environmental protection club. I decided to join it because I really care about the environment. Every Friday afternoon, we meet in the classroom to discuss how to make our school greener.\n\nLast week, we (8)______ a special activity. We collected waste paper and plastic bottles in the school. At first, some students thought it was (9)______ and didn't want to help. But when we explained the importance of recycling, they changed their minds. By the end of the day, we (10)______ over 50 kilograms of waste. Our teacher was very proud (11)______ us. She said our small actions could make a big (12)______ to the world. I felt happy because I knew we were doing something meaningful for our planet.",
-      "stem": "(12)______",
+      "knowledge_point": "present_perfect_vs_past_simple",
+      "difficulty": 1,
+      "stem": "(5)______",
       "options": [
-        "A. decision",
-        "B. mistake",
-        "C. difference",
-        "D. plan"
+        "A. before",
+        "B. when",
+        "C. until",
+        "D. since"
       ],
-      "correct_answer": "C",
-      "explanation": "正确答案为C。本题考查固定搭配'make a difference'（产生影响/发挥作用）。句意：她说我们的小行动可以给世界带来大影响。A选项make a decision（做决定）；B选项make a mistake（犯错误）；D选项make a plan（制定计划），均与语境不符。技巧：注意名词与动词的搭配，make a difference是环保类文章高频短语。",
-      "label": "完形填空"
+      "correct_answer": "D",
+      "explanation": "正确答案是D。考查现在完成时的时间状语。主句'The school has produced...'使用了现在完成时（has produced），因此需要与since（自从...以来）连用，表示从过去某时点持续到现在的动作。since the project started意为'自从项目开始以来'。A选项before（在...之前）通常与过去完成时连用；B选项when（当...时）和C选项until（直到）不与现在完成时搭配表示持续。解题技巧：现在完成时+since+一般过去时句子，是固定句型，表示'自从...以来已经...'。",
+      "label": "完形填空",
+      "group": "cloze_1",
+      "group_passage": "The Green Club at Sunshine Middle School has been working hard to make our school more environmentally friendly. Last month, they started a new project called \"Zero Waste Classroom\". The project (1)______ by the club members themselves. They wanted to reduce the amount of waste produced in classrooms. First, they placed recycling bins in every room. Then, they made posters to teach students how to sort waste properly. However, things didn't go (2)______ at first. Many students found it difficult to remember which bin to use. Some even complained that it took too much time. But the club members didn't (3)______. They stood by the bins during break time and helped classmates sort their rubbish. Slowly, students began to understand the (4)______ of the project. \"I used to throw everything into one bin,\" said Li Wei, a Grade 8 student. \"Now I know that paper and plastic should go to different places. It feels good to do something for our planet.\" After four weeks, the results were amazing. The school has produced 40% less waste (5)______ the project started. The Green Club is now planning to spread this idea to other schools in the city."
     },
     {
       "id": 13,
       "type": "reading",
       "knowledge_point": "detail",
       "difficulty": 2,
-      "group": "reading_1",
-      "group_passage": "In today's digital age, more and more teenagers spend long hours staring at screens. Whether it's for online classes, homework, or entertainment, screen time has become a major part of daily life. However, doctors warn that excessive screen time can seriously harm our eyes.\n\nDr. Li Ming, a famous eye doctor in Shenzhen, suggests the \"20-20-20\" rule to protect our eyes. It means that for every 20 minutes of screen time, we should look at something 20 feet away (about 6 meters) for at least 20 seconds. This simple habit helps relax the eye muscles and reduce tiredness.\n\nBesides following the 20-20-20 rule, there are other ways to keep our eyes healthy. First, make sure the screen is at least 50-70 cm away from your eyes. Second, blink more often to keep your eyes wet. Third, get enough sleep and eat more green vegetables and carrots, which are rich in vitamins good for eyesight.\n\nMany students in our school have tried these methods. Wang Wei, a 14-year-old boy, said, \"I used to have dry eyes and headaches after using the computer. But after following the 20-20-20 rule for a month, I feel much better now.\"\n\nRemember, our eyes are the windows to the world. Taking good care of them today will help us see a clearer tomorrow.",
-      "stem": "According to the passage, how long should we look at something 20 feet away according to the \"20-20-20\" rule?",
+      "stem": "How much higher did the students who read paper books score compared to those who read e-books?",
       "options": [
-        "A. 10 seconds",
-        "B. 20 seconds",
-        "C. 30 seconds",
-        "D. 1 minute"
+        "A. 5% higher.",
+        "B. 10% higher.",
+        "C. 15% higher.",
+        "D. 20% higher."
       ],
-      "correct_answer": "B",
-      "explanation": "正确答案为B。本题考查细节理解。根据第二段第二句'we should look at something 20 feet away (about 6 meters) for at least 20 seconds'（我们应该看20英尺外的物体至少20秒）可知，正确答案是20秒。A、C、D选项的时间与原文不符。技巧：细节题采用'关键词定位法'，在题干中找'20 feet away'和'how long'，回原文定位到第二段即可找到答案'20 seconds'。",
-      "label": "阅读-细节理解"
+      "correct_answer": "C",
+      "explanation": "正确答案是C。细节理解题。根据第二段最后一句'Surprisingly, the students who read paper books scored 15% higher on average.'（令人惊讶的是，阅读纸质书的学生平均得分高出15%），直接得出答案。A、B、D数字与原文不符。解题技巧：细节题采用'关键词定位法'，在题干中找'how much higher'和'scored'，回原文定位到第二段数字信息。",
+      "label": "阅读-细节理解",
+      "group": "reading_1",
+      "group_passage": "In recent years, e-books have become increasingly popular among teenagers. Many students now read on tablets or phones instead of opening paper books. But which is better for learning? A recent study may have the answer.\n\nDr. Chen from Shenzhen University conducted research with 200 middle school students. Half of them read a story on an e-reader, while the other half read the same story in a printed book. After reading, both groups took a test about the details of the story. Surprisingly, the students who read paper books scored 15% higher on average.\n\n\"We found that paper books help readers create a 'mental map' of the information,\" explained Dr. Chen. When you read a physical book, you can feel how many pages you have read and how many are left. This physical sense helps your brain organize information better. With e-books, this feeling is lost because you just see numbers on a screen.\n\nHowever, e-books have their own advantages. They are lighter to carry and often cheaper than printed books. You can also adjust the font size (字体大小) and brightness (亮度) according to your needs. Dr. Chen suggests using both types wisely: choose paper books when you need to study difficult subjects deeply, and use e-books for light reading or when traveling.\n\nThe study was published last month and has attracted wide attention from educators across China. Many teachers are now reconsidering their classroom reading materials."
     },
     {
       "id": 14,
       "type": "reading",
-      "knowledge_point": "word_guessing",
+      "knowledge_point": "inference",
       "difficulty": 2,
-      "group": "reading_1",
-      "group_passage": "In today's digital age, more and more teenagers spend long hours staring at screens. Whether it's for online classes, homework, or entertainment, screen time has become a major part of daily life. However, doctors warn that excessive screen time can seriously harm our eyes.\n\nDr. Li Ming, a famous eye doctor in Shenzhen, suggests the \"20-20-20\" rule to protect our eyes. It means that for every 20 minutes of screen time, we should look at something 20 feet away (about 6 meters) for at least 20 seconds. This simple habit helps relax the eye muscles and reduce tiredness.\n\nBesides following the 20-20-20 rule, there are other ways to keep our eyes healthy. First, make sure the screen is at least 50-70 cm away from your eyes. Second, blink more often to keep your eyes wet. Third, get enough sleep and eat more green vegetables and carrots, which are rich in vitamins good for eyesight.\n\nMany students in our school have tried these methods. Wang Wei, a 14-year-old boy, said, \"I used to have dry eyes and headaches after using the computer. But after following the 20-20-20 rule for a month, I feel much better now.\"\n\nRemember, our eyes are the windows to the world. Taking good care of them today will help us see a clearer tomorrow.",
-      "stem": "The underlined word \"excessive\" in Paragraph 1 probably means ______.",
+      "stem": "What can we infer from Dr. Chen's suggestion in Paragraph 4?",
       "options": [
-        "A. proper",
-        "B. too much",
-        "C. limited",
-        "D. necessary"
+        "A. E-books will completely replace paper books in the future.",
+        "B. Students should only use paper books for all subjects.",
+        "C. Students should choose different books for different purposes.",
+        "D. Paper books are too expensive for most students."
       ],
-      "correct_answer": "B",
-      "explanation": "正确答案为B。本题考查词义猜测。根据上下文'warn that... can seriously harm our eyes'（警告说……会严重伤害眼睛）以及常识，只有'过多的'屏幕时间才会伤害眼睛。A选项proper（适当的）、C选项limited（有限的）、D选项necessary（必要的）均不会与'harm'搭配。技巧：利用上下文逻辑关系（因果、转折）和常识猜测词义，ex-前缀常表示'向外、超过'，excessive即'过度的'。",
-      "label": "阅读-词义猜测"
+      "correct_answer": "C",
+      "explanation": "正确答案是C。推理判断题。根据第四段Dr. Chen的建议：'choose paper books when you need to study difficult subjects deeply, and use e-books for light reading or when traveling'（深入学习难科目时选纸质书，轻松阅读或旅行时用电子书），可推断出应根据不同目的选择不同书籍。A选项（电子书将完全取代纸质书）与文意相反；B选项（所有科目只用纸质书）过于绝对；D选项（纸质书太贵）文中未提及，且文中说电子书'often cheaper'（通常更便宜），暗示纸质书较贵但并非买不起。解题技巧：推理题要基于原文信息合理推断，不能过度推断或与原文矛盾，注意排除绝对化选项（only, completely, never）。",
+      "label": "阅读-推理判断",
+      "group": "reading_1",
+      "group_passage": "In recent years, e-books have become increasingly popular among teenagers. Many students now read on tablets or phones instead of opening paper books. But which is better for learning? A recent study may have the answer.\n\nDr. Chen from Shenzhen University conducted research with 200 middle school students. Half of them read a story on an e-reader, while the other half read the same story in a printed book. After reading, both groups took a test about the details of the story. Surprisingly, the students who read paper books scored 15% higher on average.\n\n\"We found that paper books help readers create a 'mental map' of the information,\" explained Dr. Chen. When you read a physical book, you can feel how many pages you have read and how many are left. This physical sense helps your brain organize information better. With e-books, this feeling is lost because you just see numbers on a screen.\n\nHowever, e-books have their own advantages. They are lighter to carry and often cheaper than printed books. You can also adjust the font size (字体大小) and brightness (亮度) according to your needs. Dr. Chen suggests using both types wisely: choose paper books when you need to study difficult subjects deeply, and use e-books for light reading or when traveling.\n\nThe study was published last month and has attracted wide attention from educators across China. Many teachers are now reconsidering their classroom reading materials."
     },
     {
       "id": 15,
       "type": "reading",
-      "knowledge_point": "inference",
-      "difficulty": 3,
-      "group": "reading_1",
-      "group_passage": "In today's digital age, more and more teenagers spend long hours staring at screens. Whether it's for online classes, homework, or entertainment, screen time has become a major part of daily life. However, doctors warn that excessive screen time can seriously harm our eyes.\n\nDr. Li Ming, a famous eye doctor in Shenzhen, suggests the \"20-20-20\" rule to protect our eyes. It means that for every 20 minutes of screen time, we should look at something 20 feet away (about 6 meters) for at least 20 seconds. This simple habit helps relax the eye muscles and reduce tiredness.\n\nBesides following the 20-20-20 rule, there are other ways to keep our eyes healthy. First, make sure the screen is at least 50-70 cm away from your eyes. Second, blink more often to keep your eyes wet. Third, get enough sleep and eat more green vegetables and carrots, which are rich in vitamins good for eyesight.\n\nMany students in our school have tried these methods. Wang Wei, a 14-year-old boy, said, \"I used to have dry eyes and headaches after using the computer. But after following the 20-20-20 rule for a month, I feel much better now.\"\n\nRemember, our eyes are the windows to the world. Taking good care of them today will help us see a clearer tomorrow.",
-      "stem": "What can we infer from Wang Wei's words in Paragraph 4?",
+      "knowledge_point": "word_guessing",
+      "difficulty": 1,
+      "stem": "What does the underlined word 'conducted' in Paragraph 2 probably mean?",
       "options": [
-        "A. He doesn't like using computers at all.",
-        "B. He wants to see an eye doctor immediately.",
-        "C. The 20-20-20 rule is helpful for eye health.",
-        "D. Dry eyes cannot be cured by any method."
+        "A. Joined.",
+        "B. Organized and carried out.",
+        "C. Refused.",
+        "D. Reported."
       ],
-      "correct_answer": "C",
-      "explanation": "正确答案为C。本题考查推理判断。Wang Wei说：'我过去用电脑后眼睛干涩头痛，但遵循20-20-20规则一个月后感觉好多了'，可推断出该规则对眼睛健康有帮助。A选项'一点也不喜欢用电脑'过度推断，他仍使用电脑只是学会了保护；B选项'想立即看医生'与原文不符，他已经好转；D选项'干眼症无法治愈'与原文'feel much better'矛盾。技巧：推理题要基于文本信息，避免过度推断或主观臆断，注意转折词But后的内容常是重点。",
-      "label": "阅读-推理判断"
+      "correct_answer": "B",
+      "explanation": "正确答案是B。词义猜测题。根据上下文'Dr. Chen... conducted research with 200 middle school students'以及下文描述的研究过程（分组、测试等），可知conducted意为'组织并进行（研究）'。A选项joined（加入）主语通常是参与者而非研究者；C选项refused（拒绝）与语境相反；D选项reported（报道）通常指研究结束后的行为，而这里指研究过程。解题技巧：利用动宾搭配（conduct research）和上下文动作链（分组→阅读→测试）推断词义。conduct常见含义：conduct an experiment/survey（进行实验/调查），conduct an orchestra（指挥乐队）。",
+      "label": "阅读-词义猜测",
+      "group": "reading_1",
+      "group_passage": "In recent years, e-books have become increasingly popular among teenagers. Many students now read on tablets or phones instead of opening paper books. But which is better for learning? A recent study may have the answer.\n\nDr. Chen from Shenzhen University conducted research with 200 middle school students. Half of them read a story on an e-reader, while the other half read the same story in a printed book. After reading, both groups took a test about the details of the story. Surprisingly, the students who read paper books scored 15% higher on average.\n\n\"We found that paper books help readers create a 'mental map' of the information,\" explained Dr. Chen. When you read a physical book, you can feel how many pages you have read and how many are left. This physical sense helps your brain organize information better. With e-books, this feeling is lost because you just see numbers on a screen.\n\nHowever, e-books have their own advantages. They are lighter to carry and often cheaper than printed books. You can also adjust the font size (字体大小) and brightness (亮度) according to your needs. Dr. Chen suggests using both types wisely: choose paper books when you need to study difficult subjects deeply, and use e-books for light reading or when traveling.\n\nThe study was published last month and has attracted wide attention from educators across China. Many teachers are now reconsidering their classroom reading materials."
     },
     {
       "id": 16,
       "type": "reading",
-      "knowledge_point": "main_idea_title",
+      "knowledge_point": "main_idea",
       "difficulty": 3,
-      "group": "reading_1",
-      "group_passage": "In today's digital age, more and more teenagers spend long hours staring at screens. Whether it's for online classes, homework, or entertainment, screen time has become a major part of daily life. However, doctors warn that excessive screen time can seriously harm our eyes.\n\nDr. Li Ming, a famous eye doctor in Shenzhen, suggests the \"20-20-20\" rule to protect our eyes. It means that for every 20 minutes of screen time, we should look at something 20 feet away (about 6 meters) for at least 20 seconds. This simple habit helps relax the eye muscles and reduce tiredness.\n\nBesides following the 20-20-20 rule, there are other ways to keep our eyes healthy. First, make sure the screen is at least 50-70 cm away from your eyes. Second, blink more often to keep your eyes wet. Third, get enough sleep and eat more green vegetables and carrots, which are rich in vitamins good for eyesight.\n\nMany students in our school have tried these methods. Wang Wei, a 14-year-old boy, said, \"I used to have dry eyes and headaches after using the computer. But after following the 20-20-20 rule for a month, I feel much better now.\"\n\nRemember, our eyes are the windows to the world. Taking good care of them today will help us see a clearer tomorrow.",
       "stem": "What is the best title for the passage?",
       "options": [
-        "A. The History of Glasses",
-        "B. How to Protect Our Eyes in the Digital Age",
-        "C. The Life of Dr. Li Ming",
-        "D. Why We Need Computers"
+        "A. The History of Paper Books",
+        "B. E-books vs. Paper Books: Which Is Better for Learning?",
+        "C. How to Use E-readers Properly",
+        "D. The Life of Dr. Chen"
       ],
       "correct_answer": "B",
-      "explanation": "正确答案为B。本题考查主旨大意/最佳标题。全文围绕数字时代（digital age）如何保护眼睛展开，介绍了20-20-20规则及其他护眼方法。A选项'眼镜的历史'只在文中未提及；C选项'李医生的生活'只是文中细节，非主旨；D选项'为什么我们需要电脑'偏离主题，文中强调的是用电脑时的护眼而非需要电脑。技巧：最佳标题应概括全文核心内容，通常包含主题词（eyes/eye protection）和范围（digital age/screen time），避免以偏概全或扩大范围。",
-      "label": "阅读-主旨大意"
+      "explanation": "正确答案是B。主旨大意题。文章首段提出问题'But which is better for learning?'（哪种对学习更好？），中间段落对比电子书和纸质书的研究结果，最后给出建议，全文围绕两种书籍的比较展开。A选项（纸质书的历史）只在文中提及阅读时的触感，非主要内容；C选项（如何正确使用电子阅读器）过于片面；D选项（陈博士的生平）只是细节。解题技巧：主旨题要概括全文核心内容，不能过大（如A选项）或过小（如C、D选项），通常看首尾段和每段首句。B选项用'vs.'（对比）准确概括了文章比较两者的核心内容。",
+      "label": "阅读-主旨大意",
+      "group": "reading_1",
+      "group_passage": "In recent years, e-books have become increasingly popular among teenagers. Many students now read on tablets or phones instead of opening paper books. But which is better for learning? A recent study may have the answer.\n\nDr. Chen from Shenzhen University conducted research with 200 middle school students. Half of them read a story on an e-reader, while the other half read the same story in a printed book. After reading, both groups took a test about the details of the story. Surprisingly, the students who read paper books scored 15% higher on average.\n\n\"We found that paper books help readers create a 'mental map' of the information,\" explained Dr. Chen. When you read a physical book, you can feel how many pages you have read and how many are left. This physical sense helps your brain organize information better. With e-books, this feeling is lost because you just see numbers on a screen.\n\nHowever, e-books have their own advantages. They are lighter to carry and often cheaper than printed books. You can also adjust the font size (字体大小) and brightness (亮度) according to your needs. Dr. Chen suggests using both types wisely: choose paper books when you need to study difficult subjects deeply, and use e-books for light reading or when traveling.\n\nThe study was published last month and has attracted wide attention from educators across China. Many teachers are now reconsidering their classroom reading materials."
     },
     {
       "id": 17,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "group": "fill_1",
-      "group_passage": "Waste sorting has become an important part of our daily life in Shenzhen. It helps protect the environment and save resources. (17)______. For example, kitchen waste can be turned into fertilizer, while paper and plastic can be recycled into new products.\n\n(18)______. First, we should learn the four categories: recyclable waste, harmful waste, kitchen waste, and other waste. Each type goes into a different colored bin. (19)______. Second, we need to clean the containers before throwing them away. This makes recycling easier and more efficient.\n\n(20)______. Many communities have volunteers who stand by the bins to help residents sort their waste correctly. With everyone's effort, our city will become cleaner and greener.",
       "stem": "(17)______",
       "options": [
-        "A. However, it is not always easy to sort waste correctly at the beginning.",
-        "B. Then, we can take some simple steps to sort waste properly.",
-        "C. As a result, waste sorting has been widely promoted across the city.",
-        "D. Different types of waste are processed in different ways.",
-        "E. In addition, the government has set up special programs to help people learn about waste sorting."
+        "A. However, don't forget to take breaks.",
+        "B. Besides, avoid putting off your work.",
+        "C. First, write down your daily tasks.",
+        "D. In addition, learn to say no to perfectionism.",
+        "E. On the other hand, sleep is very important."
       ],
-      "correct_answer": "D",
-      "explanation": "正确答案为D。本题考查段落衔接和逻辑关系。空后'For example'（例如）提示前一句是总述，后文举例说明：厨余垃圾变成肥料，纸和塑料回收成新产品。D选项'Different types of waste are processed in different ways'（不同类型的垃圾以不同方式处理）正好概括后文例子。A表转折，后文无转折含义；B引出步骤，但后文是举例而非步骤；C表结果，此处无因果关系；E补充政府项目，与后文例子无关。技巧：关注连接词For example/For instance，其前通常是总述句。",
-      "label": "短文填空"
+      "correct_answer": "C",
+      "explanation": "正确答案是C。考查段落主题句（顺序连接词）。空格后内容'Make a list of everything... Put the most important tasks at the top'（列出今天要做的一切，把最重要的放在顶部）讲的是制定任务清单，与C选项'First, write down your daily tasks'（首先，写下你的日常任务）完全对应。A选项讲休息，B选项讲拖延，D选项讲完美主义，E选项讲睡眠，均与本段内容不符。解题技巧：选句子填空要注意段落主题一致性，本段出现'First'，后文应有'Then'等顺序词，但此处选主题句，C选项的'First'与下文逻辑吻合。",
+      "label": "短文填空",
+      "group": "fill_1",
+      "group_passage": "Are you always busy with schoolwork and hobbies? Do you often feel like there aren't enough hours in a day? Here are some tips to help you manage your time better.\n\n(17)______ Make a list of everything you need to do today. Put the most important tasks at the top. This way, you won't forget anything urgent.\n\n(18)______ It's easy to say \"I'll do it later,\" but this often leads to stress. Try to finish your homework before watching TV or playing games. Once you develop this habit, you'll have more free time in the evening.\n\n(19)______ You don't have to do everything perfectly. If a task is supposed to take 30 minutes, don't spend two hours on it. Good enough is sometimes better than perfect.\n\n(20)______ Your brain needs rest to work well. After studying for 45 minutes, stand up and stretch. Drink some water or look out the window for a few minutes.\n\nRemember, time management is a skill that takes practice. Start with small changes, and you'll soon find yourself less stressed and more productive."
     },
     {
       "id": 18,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "group": "fill_1",
-      "group_passage": "Waste sorting has become an important part of our daily life in Shenzhen. It helps protect the environment and save resources. (17)______. For example, kitchen waste can be turned into fertilizer, while paper and plastic can be recycled into new products.\n\n(18)______. First, we should learn the four categories: recyclable waste, harmful waste, kitchen waste, and other waste. Each type goes into a different colored bin. (19)______. Second, we need to clean the containers before throwing them away. This makes recycling easier and more efficient.\n\n(20)______. Many communities have volunteers who stand by the bins to help residents sort their waste correctly. With everyone's effort, our city will become cleaner and greener.",
       "stem": "(18)______",
       "options": [
-        "A. However, it is not always easy to sort waste correctly at the beginning.",
-        "B. Then, we can take some simple steps to sort waste properly.",
-        "C. As a result, waste sorting has been widely promoted across the city.",
-        "D. Different types of waste are processed in different ways.",
-        "E. In addition, the government has set up special programs to help people learn about waste sorting."
+        "A. However, don't forget to take breaks.",
+        "B. Besides, avoid putting off your work.",
+        "C. First, write down your daily tasks.",
+        "D. In addition, learn to say no to perfectionism.",
+        "E. On the other hand, sleep is very important."
       ],
       "correct_answer": "B",
-      "explanation": "正确答案为B。本题考查段落主题句。空后出现'First... Second...'，提示这是步骤说明。B选项'Then, we can take some simple steps to sort waste properly'（然后，我们可以采取一些简单步骤正确分类垃圾）作为主题句引出下文步骤。A表转折，与后文步骤无关；C表结果，位置不当；D是17题答案；E补充说明，不适合引出步骤。技巧：看到First/Second/Third等序数词，前文通常有'take steps/methods/ways'等总述词。",
-      "label": "短文填空"
+      "explanation": "正确答案是B。考查逻辑关系（因果关系/建议）。空格后提到'It's easy to say \"I'll do it later,\"'（说'我以后再做'很容易），这是典型的'拖延'行为，因此B选项'Besides, avoid putting off your work'（此外，避免拖延你的工作）与之对应。put off与I'll do it later同义。A讲休息，C讲首要任务（已用于17题），D讲完美主义，E讲睡眠，均不符。解题技巧：利用同义复现（put off = do it later）和连接词（Besides表示递进，承接上文的First）。",
+      "label": "短文填空",
+      "group": "fill_1",
+      "group_passage": "Are you always busy with schoolwork and hobbies? Do you often feel like there aren't enough hours in a day? Here are some tips to help you manage your time better.\n\n(17)______ Make a list of everything you need to do today. Put the most important tasks at the top. This way, you won't forget anything urgent.\n\n(18)______ It's easy to say \"I'll do it later,\" but this often leads to stress. Try to finish your homework before watching TV or playing games. Once you develop this habit, you'll have more free time in the evening.\n\n(19)______ You don't have to do everything perfectly. If a task is supposed to take 30 minutes, don't spend two hours on it. Good enough is sometimes better than perfect.\n\n(20)______ Your brain needs rest to work well. After studying for 45 minutes, stand up and stretch. Drink some water or look out the window for a few minutes.\n\nRemember, time management is a skill that takes practice. Start with small changes, and you'll soon find yourself less stressed and more productive."
     },
     {
       "id": 19,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "group": "fill_1",
-      "group_passage": "Waste sorting has become an important part of our daily life in Shenzhen. It helps protect the environment and save resources. (17)______. For example, kitchen waste can be turned into fertilizer, while paper and plastic can be recycled into new products.\n\n(18)______. First, we should learn the four categories: recyclable waste, harmful waste, kitchen waste, and other waste. Each type goes into a different colored bin. (19)______. Second, we need to clean the containers before throwing them away. This makes recycling easier and more efficient.\n\n(20)______. Many communities have volunteers who stand by the bins to help residents sort their waste correctly. With everyone's effort, our city will become cleaner and greener.",
       "stem": "(19)______",
       "options": [
-        "A. However, it is not always easy to sort waste correctly at the beginning.",
-        "B. Then, we can take some simple steps to sort waste properly.",
-        "C. As a result, waste sorting has been widely promoted across the city.",
-        "D. Different types of waste are processed in different ways.",
-        "E. In addition, the government has set up special programs to help people learn about waste sorting."
+        "A. However, don't forget to take breaks.",
+        "B. Besides, avoid putting off your work.",
+        "C. First, write down your daily tasks.",
+        "D. In addition, learn to say no to perfectionism.",
+        "E. On the other hand, sleep is very important."
       ],
-      "correct_answer": "A",
-      "explanation": "正确答案为A。本题考查逻辑转折关系。前文讲'First, we should learn...'（首先我们应该学习……），后文讲'Second, we need to...'（其次我们需要……），中间插入A选项'However, it is not always easy...'（然而，起初正确分类并不总是容易的），形成'建议-困难-建议'的逻辑，使文章更有层次。B已用于18题；C表结果，此处无因果；D已用于17题；E与上下文衔接不畅。技巧：However表转折，用于引出问题或困难，使文章内容更丰富，避免平铺直叙。",
-      "label": "短文填空"
+      "correct_answer": "D",
+      "explanation": "正确答案是D。考查段落主旨（建议）。空格后'You don't have to do everything perfectly'（你不必把每件事都做得完美）和'Good enough is sometimes better than perfect'（足够好有时比完美更好）明确指向D选项'In addition, learn to say no to perfectionism'（此外，学会对完美主义说不）。perfectionism（完美主义）与perfectly/perfect同根复现。A讲休息，B讲拖延（已用于18题），C讲首要任务（已用于17题），E讲睡眠。解题技巧：利用词汇复现（perfectly/perfect与perfectionism）和连接词（In addition表示补充建议）。",
+      "label": "短文填空",
+      "group": "fill_1",
+      "group_passage": "Are you always busy with schoolwork and hobbies? Do you often feel like there aren't enough hours in a day? Here are some tips to help you manage your time better.\n\n(17)______ Make a list of everything you need to do today. Put the most important tasks at the top. This way, you won't forget anything urgent.\n\n(18)______ It's easy to say \"I'll do it later,\" but this often leads to stress. Try to finish your homework before watching TV or playing games. Once you develop this habit, you'll have more free time in the evening.\n\n(19)______ You don't have to do everything perfectly. If a task is supposed to take 30 minutes, don't spend two hours on it. Good enough is sometimes better than perfect.\n\n(20)______ Your brain needs rest to work well. After studying for 45 minutes, stand up and stretch. Drink some water or look out the window for a few minutes.\n\nRemember, time management is a skill that takes practice. Start with small changes, and you'll soon find yourself less stressed and more productive."
     },
     {
       "id": 20,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "group": "fill_1",
-      "group_passage": "Waste sorting has become an important part of our daily life in Shenzhen. It helps protect the environment and save resources. (17)______. For example, kitchen waste can be turned into fertilizer, while paper and plastic can be recycled into new products.\n\n(18)______. First, we should learn the four categories: recyclable waste, harmful waste, kitchen waste, and other waste. Each type goes into a different colored bin. (19)______. Second, we need to clean the containers before throwing them away. This makes recycling easier and more efficient.\n\n(20)______. Many communities have volunteers who stand by the bins to help residents sort their waste correctly. With everyone's effort, our city will become cleaner and greener.",
       "stem": "(20)______",
       "options": [
-        "A. However, it is not always easy to sort waste correctly at the beginning.",
-        "B. Then, we can take some simple steps to sort waste properly.",
-        "C. As a result, waste sorting has been widely promoted across the city.",
-        "D. Different types of waste are processed in different ways.",
-        "E. In addition, the government has set up special programs to help people learn about waste sorting."
+        "A. However, don't forget to take breaks.",
+        "B. Besides, avoid putting off your work.",
+        "C. First, write down your daily tasks.",
+        "D. In addition, learn to say no to perfectionism.",
+        "E. On the other hand, sleep is very important."
       ],
-      "correct_answer": "E",
-      "explanation": "正确答案为E。本题考查段落衔接和补充说明。最后一段提到'Many communities have volunteers...'（许多社区有志愿者……），E选项'In addition, the government has set up special programs...'（此外，政府设立了特别项目……）中的'In addition'（此外）表示补充，与后文'volunteers'形成'政府-社区'的并列支持体系。A已用于19题；B已用于18题；C表结果，通常用于结尾总结，但后文还有'With everyone's effort...'；D已用于17题。技巧：In addition/Furthermore/Moreover用于补充同类信息，看到后文有新措施时，前文可能是'政府/学校/社区'等不同主体的支持。",
-      "label": "短文填空"
+      "correct_answer": "A",
+      "explanation": "正确答案是A。考查逻辑关系（转折/建议）。空格后'Your brain needs rest to work well'（你的大脑需要休息才能良好工作）和'After studying for 45 minutes, stand up and stretch'（学习45分钟后站起来伸展）讲的是休息的重要性，因此A选项'However, don't forget to take breaks'（然而，别忘了休息）符合。However在这里表示话题转换（从做事方法转到休息）。B、C、D已使用，E虽然提到休息但强调sleep（睡眠），而本段讲的是学习间隙的短暂休息（breaks），且On the other hand通常用于对比两种观点，不适合此处建议顺序。解题技巧：利用词汇复现（rest与breaks同义）和语境（学习45分钟后伸展对应take breaks）。",
+      "label": "短文填空",
+      "group": "fill_1",
+      "group_passage": "Are you always busy with schoolwork and hobbies? Do you often feel like there aren't enough hours in a day? Here are some tips to help you manage your time better.\n\n(17)______ Make a list of everything you need to do today. Put the most important tasks at the top. This way, you won't forget anything urgent.\n\n(18)______ It's easy to say \"I'll do it later,\" but this often leads to stress. Try to finish your homework before watching TV or playing games. Once you develop this habit, you'll have more free time in the evening.\n\n(19)______ You don't have to do everything perfectly. If a task is supposed to take 30 minutes, don't spend two hours on it. Good enough is sometimes better than perfect.\n\n(20)______ Your brain needs rest to work well. After studying for 45 minutes, stand up and stretch. Drink some water or look out the window for a few minutes.\n\nRemember, time management is a skill that takes practice. Start with small changes, and you'll soon find yourself less stressed and more productive."
     }
   ]
 }
