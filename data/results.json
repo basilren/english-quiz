@@ -406,6 +406,13 @@
       "total": 20,
       "correct": 19,
       "rate": 95
+    },
+    {
+      "date": "2026-06-05",
+      "session": 1,
+      "total": 20,
+      "correct": 18,
+      "rate": 90
     }
   ],
   "errors": [
@@ -696,6 +703,43 @@
       "correct_answer": "C",
       "student_answer": "B",
       "explanation": "推理判断题。根据第三段'Dr. Li Ming... recommends the '20-20-20' rule: every 20 minutes, look at something 20 feet away for at least 20 seconds.'可知，这个规则建议每20分钟看20英尺外的物体20秒，目的是缓解眼睛疲劳。由此可推断出：使用屏幕时定期休息有助于保护眼睛。A项每天锻炼20分钟曲解原意；B项每天使用不超过20分钟过于绝对；D项治愈所有眼病错误，规则是预防而非治疗。"
+    },
+    {
+      "date": "2026-06-05",
+      "session": 1,
+      "question_id": 11,
+      "type": "cloze",
+      "knowledge_point": "cloze_collocation",
+      "label": "完形填空",
+      "stem": "(11)______",
+      "options": [
+        "A. in",
+        "B. with",
+        "C. of",
+        "D. at"
+      ],
+      "correct_answer": "C",
+      "student_answer": "B",
+      "explanation": "正确答案为C。本题考查固定搭配'be proud of'（为……感到骄傲）。这是中考必考短语。A选项in常搭配be proud in（无此搭配）；B选项with常搭配be pleased with（对……满意）；D选项at常搭配be good at（擅长）。技巧：积累常用形容词短语，特别是proud/pleased/good/interested等词与介词的固定搭配。"
+    },
+    {
+      "date": "2026-06-05",
+      "session": 1,
+      "question_id": 17,
+      "type": "fill",
+      "knowledge_point": "sentence_fill",
+      "label": "短文填空",
+      "stem": "(17)______",
+      "options": [
+        "A. However, it is not always easy to sort waste correctly at the beginning.",
+        "B. Then, we can take some simple steps to sort waste properly.",
+        "C. As a result, waste sorting has been widely promoted across the city.",
+        "D. Different types of waste are processed in different ways.",
+        "E. In addition, the government has set up special programs to help people learn about waste sorting."
+      ],
+      "correct_answer": "D",
+      "student_answer": "C",
+      "explanation": "正确答案为D。本题考查段落衔接和逻辑关系。空后'For example'（例如）提示前一句是总述，后文举例说明：厨余垃圾变成肥料，纸和塑料回收成新产品。D选项'Different types of waste are processed in different ways'（不同类型的垃圾以不同方式处理）正好概括后文例子。A表转折，后文无转折含义；B引出步骤，但后文是举例而非步骤；C表结果，此处无因果关系；E补充政府项目，与后文例子无关。技巧：关注连接词For example/For instance，其前通常是总述句。"
     }
   ]
 }
