@@ -1,5 +1,5 @@
 ﻿{
-  "date": "2026-06-06",
+  "date": "2026-06-07",
   "session_number": 1,
   "questions": [
     {
@@ -7,15 +7,15 @@
       "type": "grammar",
       "knowledge_point": "present_perfect_vs_past_simple",
       "difficulty": 2,
-      "stem": "I ______ my homework an hour ago, but I haven't checked it yet.",
+      "stem": "—______ you ever ______ to the Shenzhen Science Museum?\n—Yes, I ______ there with my classmates last month.",
       "options": [
-        "A. finished",
-        "B. have finished",
-        "C. finish",
-        "D. am finishing"
+        "A. Did; go; went",
+        "B. Have; been; went",
+        "C. Have; gone; went",
+        "D. Do; go; have been"
       ],
-      "correct_answer": "A",
-      "explanation": "正确答案是A。'an hour ago'（一小时前）是一般过去时的明确时间状语，强调过去某个时间点完成的动作，因此用finished。'haven't checked'使用现在完成时，强调过去动作对现在的影响（还没检查）。B选项have finished用于现在完成时，但不能与ago连用；C是一般现在时，D是现在进行时，均不符合时间状语要求。解题技巧：看到'ago'选过去时，看到'yet/already'选现在完成时。",
+      "correct_answer": "B",
+      "explanation": "第一空：问句中有ever（曾经），是现在完成时的标志词，且表示\"去过某地（已返回）\"用have been to；第二空：答句中有last month（上个月），是明确的过去时间状语，必须用一般过去时went。干扰项C的have gone to表示\"去了某地（未回）\"，与语境不符。",
       "label": "语法题"
     },
     {
@@ -23,15 +23,15 @@
       "type": "grammar",
       "knowledge_point": "relative_clause_who_which",
       "difficulty": 2,
-      "stem": "The boy ______ is standing under the tree is my classmate.",
+      "stem": "The student ______ won the first prize in the English speech contest is from Class 3.",
       "options": [
-        "A. which",
-        "B. who",
+        "A. who",
+        "B. which",
         "C. whom",
         "D. whose"
       ],
-      "correct_answer": "B",
-      "explanation": "正确答案是B。考查定语从句关系词的选择。先行词'the boy'指人，且在从句中作主语（is standing），因此用who。A选项which用于指物；C选项whom虽然指人，但只能在从句中作宾语；D选项whose表示'...的'，在从句中作定语。解题技巧：先行词指人用who/whom/that，指物用which/that；从句缺主语用who/which，缺宾语用whom/which/who（口语中who可代替whom）。",
+      "correct_answer": "A",
+      "explanation": "先行词是the student（指人），在定语从句中作主语，因此用关系代词who。which用于指物；whom用于指人但在从句中作宾语；whose表示\"谁的\"，在从句中作定语。解题口诀：先行词指人作主语，who来引导莫犹豫。",
       "label": "语法题"
     },
     {
@@ -39,63 +39,63 @@
       "type": "grammar",
       "knowledge_point": "passive_voice",
       "difficulty": 1,
-      "stem": "The letter ______ in English yesterday.",
+      "stem": "These old books ______ to the library by the students tomorrow.",
       "options": [
-        "A. writes",
-        "B. wrote",
-        "C. is written",
-        "D. was written"
+        "A. will return",
+        "B. will be returned",
+        "C. are returning",
+        "D. returned"
       ],
-      "correct_answer": "D",
-      "explanation": "正确答案是D。考查一般过去时的被动语态。主语'the letter'（信）是动作'write'的承受者，因此用被动语态；时间状语'yesterday'表明是过去时，所以用was written。A是一般现在时主动；B是一般过去时主动；C是一般现在时被动，时态不符。解题技巧：被动语态结构为'be+过去分词'，先判断时态（yesterday→过去时），再判断语态（信被写→被动）。",
+      "correct_answer": "B",
+      "explanation": "主语These old books与动词return之间是被动关系（书被归还），因此要用被动语态；时间状语tomorrow表示将来，所以用一般将来时的被动语态will be returned。被动语态基本结构：be + 过去分词。",
       "label": "语法题"
     },
     {
       "id": 4,
       "type": "grammar",
-      "knowledge_point": "object_clause",
+      "knowledge_point": "comparative_degree",
       "difficulty": 3,
-      "stem": "Could you tell me ______?",
+      "stem": "The environment in Shenzhen is getting ______ than before. The air is ______ cleaner now.",
       "options": [
-        "A. where is the nearest bookstore",
-        "B. where the nearest bookstore is",
-        "C. where was the nearest bookstore",
-        "D. where does the nearest bookstore locate"
+        "A. better; much",
+        "B. better; more",
+        "C. good; very",
+        "D. best; much"
       ],
-      "correct_answer": "B",
-      "explanation": "正确答案是B。考查宾语从句的语序。宾语从句必须使用陈述句语序（主语+谓语），不能用疑问句语序。A、C、D都是疑问句语序（is/was/does在主语前）。B选项'where the nearest bookstore is'中，主语是'the nearest bookstore'，谓语是'is'，符合陈述语序。解题技巧：宾语从句三步走：1)看引导词（if/whether/疑问词）；2)看语序（必须是主谓结构）；3)看时态（主过从过，主现从实）。记住口诀：宾从要用陈述序，主过从过要牢记。",
+      "correct_answer": "A",
+      "explanation": "第一空：than是比较级标志词，get better表示\"变得更好\"，good的比较级是better；第二空：修饰比较级cleaner要用程度副词much，表示\"...得多\"，不能用very或more（more本身用于构成多音节词的比较级）。",
       "label": "语法题"
     },
     {
       "id": 5,
       "type": "vocabulary",
       "knowledge_point": "word_guessing_context",
-      "difficulty": 1,
-      "stem": "The old bridge is not strong enough to support heavy trucks. It may ______ if too many vehicles cross it at the same time.",
+      "difficulty": 2,
+      "stem": "The old bridge is not strong enough to support heavy trucks. It may ______ if too many trucks pass over it at the same time.",
       "options": [
-        "A. stand",
-        "B. collapse",
-        "C. survive",
-        "D. exist"
+        "A. fall down",
+        "B. break down",
+        "C. collapse",
+        "D. fall behind"
       ],
-      "correct_answer": "B",
-      "explanation": "正确答案是B。考查通过上下文猜测词义。根据前句'not strong enough to support'（不够坚固，无法支撑）可推断，如果太多车辆同时通过，桥可能会'倒塌'。collapse意为'倒塌、坍塌'。A选项stand（站立）与语境矛盾；C选项survive（幸存）和D选项exist（存在）不符合'不坚固'的语境线索。解题技巧：利用同义/反义线索、因果线索（so, because）、转折线索（but, however）猜测词义。",
+      "correct_answer": "C",
+      "explanation": "collapse意为\"倒塌、坍塌\"，符合语境\"桥不够坚固，支撑不了重型卡车\"。fall down侧重\"摔倒、跌落\"；break down通常指机器\"出故障\"或物质\"分解\"；fall behind指\"落后\"。根据上下文\"not strong enough\"和\"support heavy trucks\"，选择collapse最准确。",
       "label": "词汇题"
     },
     {
       "id": 6,
       "type": "vocabulary",
       "knowledge_point": "phrasal_verbs",
-      "difficulty": 2,
-      "stem": "We need to ______ a solution to this problem before the deadline.",
+      "difficulty": 1,
+      "stem": "We should ______ our best to reduce pollution and protect the environment around us.",
       "options": [
-        "A. come up with",
-        "B. look forward to",
-        "C. get along with",
-        "D. run out of"
+        "A. try",
+        "B. make",
+        "C. do",
+        "D. give"
       ],
       "correct_answer": "A",
-      "explanation": "正确答案是A。考查动词短语辨析。come up with意为'提出、想出（主意、计划、解决方案等）'，与solution（解决方案）搭配恰当。B选项look forward to意为'期待'，后接名词或动名词；C选项get along with意为'与...相处'；D选项run out of意为'用完、耗尽'。解题技巧：记住常见搭配：come up with an idea/solution/plan；run out of time/money/energy。",
+      "explanation": "try one's best是固定搭配，意为\"尽某人最大努力\"。其他选项：make one's best不是固定搭配；do one's best虽然也有\"尽力\"之意，但通常用于do one's best，而题干中是our best，try更常用；give one's best表示\"给出最好的\"，不符合句意。",
       "label": "词汇题"
     },
     {
@@ -103,178 +103,178 @@
       "type": "vocabulary",
       "knowledge_point": "word_formation",
       "difficulty": 2,
-      "stem": "It is ______ to swim in the river without a lifeguard. You should be careful.",
+      "stem": "Everyone was ______ when they heard the ______ news that our school team had won the final game.",
       "options": [
-        "A. danger",
-        "B. dangerous",
-        "C. dangerously",
-        "D. endanger"
+        "A. exciting; exciting",
+        "B. excited; excited",
+        "C. exciting; excited",
+        "D. excited; exciting"
       ],
-      "correct_answer": "B",
-      "explanation": "正确答案是B。考查词性转换。句型'It is + adj. + to do sth.'中，is后面需要接形容词作表语。dangerous是形容词，意为'危险的'。A选项danger是名词；C选项dangerously是副词；D选项endanger是动词（危及）。解题技巧：记住句型It is +形容词+for sb.+to do sth.。常见形容词后缀：-ous（dangerous, famous）、-ful（helpful）、-less（careless）。",
+      "correct_answer": "D",
+      "explanation": "-ed形容词（excited）通常修饰人，表示\"感到...的\"；-ing形容词（exciting）通常修饰物，表示\"令人...的\"。第一空主语是Everyone（人），用excited；第二空修饰news（事物），用exciting。口诀：-ed感到，-ing令人。",
       "label": "词汇题"
     },
     {
       "id": 8,
       "type": "cloze",
-      "knowledge_point": "passive_voice",
+      "knowledge_point": "cloze_general",
       "difficulty": 1,
       "stem": "(1)______",
       "options": [
-        "A. was designed",
-        "B. designed",
-        "C. is designed",
-        "D. designs"
+        "A. finished",
+        "B. started",
+        "C. stopped",
+        "D. forgot"
       ],
-      "correct_answer": "A",
-      "explanation": "正确答案是A。考查一般过去时的被动语态。主语'the project'（项目）与动词'design'（设计）是被动关系，且动作发生在过去（上个月开始的项目），因此用was designed。B缺少be动词，不能构成被动语态；C是一般现在时被动，时态不符；D是主动语态第三人称单数形式。解题技巧：被动语态结构'be done'，先找时间标志词（last month→过去时），再判断主谓关系（项目被设计→被动）。",
+      "correct_answer": "B",
+      "explanation": "根据下文\"All the students were excited to take part in it\"（学生们兴奋参与）可知，学校应该是\"启动/开始\"了一个项目。started符合语境。finished（完成）和stopped（停止）与 excited to take part 矛盾；forgot（忘记）不符合逻辑。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "The Green Club at Sunshine Middle School has been working hard to make our school more environmentally friendly. Last month, they started a new project called \"Zero Waste Classroom\". The project (1)______ by the club members themselves. They wanted to reduce the amount of waste produced in classrooms. First, they placed recycling bins in every room. Then, they made posters to teach students how to sort waste properly. However, things didn't go (2)______ at first. Many students found it difficult to remember which bin to use. Some even complained that it took too much time. But the club members didn't (3)______. They stood by the bins during break time and helped classmates sort their rubbish. Slowly, students began to understand the (4)______ of the project. \"I used to throw everything into one bin,\" said Li Wei, a Grade 8 student. \"Now I know that paper and plastic should go to different places. It feels good to do something for our planet.\" After four weeks, the results were amazing. The school has produced 40% less waste (5)______ the project started. The Green Club is now planning to spread this idea to other schools in the city."
+      "group_passage": "A School Green Project\n\nLast month, our school (1)______ a meaningful green project called \"Save Our Earth\". All the students were excited to take part in it.\n\nAt first, some students thought it would be boring to pick up rubbish. (2)______, they changed their minds soon. We were divided into different groups. My group was responsible for recycling waste paper and plastic bottles. During the activity, we (3)______ over 200 kilograms of recyclable materials.\n\nThrough this project, we not only learned the importance of environmental protection but also felt (4)______ of what we had done. We (5)______ more students can join us and make our school greener in the future."
     },
     {
       "id": 9,
       "type": "cloze",
-      "knowledge_point": "cloze_general",
+      "knowledge_point": "cloze_logic",
       "difficulty": 2,
       "stem": "(2)______",
       "options": [
-        "A. badly",
-        "B. smoothly",
-        "C. quickly",
-        "D. strangely"
+        "A. However",
+        "B. Therefore",
+        "C. Besides",
+        "D. So"
       ],
-      "correct_answer": "B",
-      "explanation": "正确答案是B。考查语境推理。根据下文'Many students found it difficult... Some even complained'（很多学生觉得困难，有人抱怨）可知，事情起初进展并不'顺利'。smoothly意为'顺利地、平稳地'，go smoothly是固定搭配，意为'进展顺利'。A选项badly（糟糕地）虽然意思似乎通顺，但didn't go badly表示'进展不错'，与下文矛盾；C选项quickly（快速地）和D选项strangely（奇怪地）不符合语境。解题技巧：利用下文解释线索（学生抱怨、觉得困难）推断事情进展不顺利，因此选择smoothly构成否定'并不顺利'。",
+      "correct_answer": "A",
+      "explanation": "前文说\"some students thought it would be boring\"（一些学生觉得无聊），后文说\"they changed their minds\"（他们改变了想法），前后是转折关系，用However（然而）。Therefore和So表示因果，Besides表示递进，都不符合逻辑关系。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "The Green Club at Sunshine Middle School has been working hard to make our school more environmentally friendly. Last month, they started a new project called \"Zero Waste Classroom\". The project (1)______ by the club members themselves. They wanted to reduce the amount of waste produced in classrooms. First, they placed recycling bins in every room. Then, they made posters to teach students how to sort waste properly. However, things didn't go (2)______ at first. Many students found it difficult to remember which bin to use. Some even complained that it took too much time. But the club members didn't (3)______. They stood by the bins during break time and helped classmates sort their rubbish. Slowly, students began to understand the (4)______ of the project. \"I used to throw everything into one bin,\" said Li Wei, a Grade 8 student. \"Now I know that paper and plastic should go to different places. It feels good to do something for our planet.\" After four weeks, the results were amazing. The school has produced 40% less waste (5)______ the project started. The Green Club is now planning to spread this idea to other schools in the city."
+      "group_passage": "A School Green Project\n\nLast month, our school (1)______ a meaningful green project called \"Save Our Earth\". All the students were excited to take part in it.\n\nAt first, some students thought it would be boring to pick up rubbish. (2)______, they changed their minds soon. We were divided into different groups. My group was responsible for recycling waste paper and plastic bottles. During the activity, we (3)______ over 200 kilograms of recyclable materials.\n\nThrough this project, we not only learned the importance of environmental protection but also felt (4)______ of what we had done. We (5)______ more students can join us and make our school greener in the future."
     },
     {
       "id": 10,
       "type": "cloze",
-      "knowledge_point": "cloze_general",
+      "knowledge_point": "cloze_context",
       "difficulty": 2,
       "stem": "(3)______",
       "options": [
-        "A. give up",
-        "B. look up",
-        "C. grow up",
-        "D. show up"
+        "A. collected",
+        "B. produced",
+        "C. created",
+        "D. invented"
       ],
       "correct_answer": "A",
-      "explanation": "正确答案是A。考查动词短语及逻辑关系。根据转折词'But'和下文'They stood by the bins... and helped'（他们站在垃圾桶旁帮忙）可知，尽管遇到困难，俱乐部成员没有'放弃'。give up意为'放弃'。B选项look up意为'查阅、向上看'；C选项grow up意为'长大'；D选项show up意为'出现'。解题技巧：利用转折逻辑（But）和下文行为描述（坚持帮忙）推断情感态度（不放弃）。",
+      "explanation": "根据前文\"recycling waste paper and plastic bottles\"（回收废纸和塑料瓶）可知，此处应该是\"收集\"了200多公斤可回收材料。collected（收集）符合语境。produced（生产）、created（创造）、invented（发明）都与\"回收垃圾\"的语境不符。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "The Green Club at Sunshine Middle School has been working hard to make our school more environmentally friendly. Last month, they started a new project called \"Zero Waste Classroom\". The project (1)______ by the club members themselves. They wanted to reduce the amount of waste produced in classrooms. First, they placed recycling bins in every room. Then, they made posters to teach students how to sort waste properly. However, things didn't go (2)______ at first. Many students found it difficult to remember which bin to use. Some even complained that it took too much time. But the club members didn't (3)______. They stood by the bins during break time and helped classmates sort their rubbish. Slowly, students began to understand the (4)______ of the project. \"I used to throw everything into one bin,\" said Li Wei, a Grade 8 student. \"Now I know that paper and plastic should go to different places. It feels good to do something for our planet.\" After four weeks, the results were amazing. The school has produced 40% less waste (5)______ the project started. The Green Club is now planning to spread this idea to other schools in the city."
+      "group_passage": "A School Green Project\n\nLast month, our school (1)______ a meaningful green project called \"Save Our Earth\". All the students were excited to take part in it.\n\nAt first, some students thought it would be boring to pick up rubbish. (2)______, they changed their minds soon. We were divided into different groups. My group was responsible for recycling waste paper and plastic bottles. During the activity, we (3)______ over 200 kilograms of recyclable materials.\n\nThrough this project, we not only learned the importance of environmental protection but also felt (4)______ of what we had done. We (5)______ more students can join us and make our school greener in the future."
     },
     {
       "id": 11,
       "type": "cloze",
-      "knowledge_point": "cloze_general",
+      "knowledge_point": "cloze_emotion",
       "difficulty": 2,
       "stem": "(4)______",
       "options": [
-        "A. difficulty",
-        "B. secret",
-        "C. importance",
-        "D. mystery"
+        "A. afraid",
+        "B. tired",
+        "C. proud",
+        "D. sorry"
       ],
       "correct_answer": "C",
-      "explanation": "正确答案是C。考查语境推理及情感线索。根据下文李威的话'Now I know that... It feels good to do something for our planet'（现在我知道了...为地球做点事感觉很好）可知，学生们开始理解这个项目的'重要性'。importance意为'重要性'。A选项difficulty（困难）与语境情感不符；B选项secret（秘密）和D选项mystery（谜团）不符合上下文。解题技巧：利用直接引语中的情感线索（feels good）推断学生对项目价值的认可。",
+      "explanation": "根据前文\"we not only learned the importance...\"（我们不仅学到了...）可知，这是积极的体验，felt proud of（为...感到自豪）符合语境。afraid（害怕）、tired（疲倦）、sorry（抱歉）都是消极情绪，与上下文不符。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "The Green Club at Sunshine Middle School has been working hard to make our school more environmentally friendly. Last month, they started a new project called \"Zero Waste Classroom\". The project (1)______ by the club members themselves. They wanted to reduce the amount of waste produced in classrooms. First, they placed recycling bins in every room. Then, they made posters to teach students how to sort waste properly. However, things didn't go (2)______ at first. Many students found it difficult to remember which bin to use. Some even complained that it took too much time. But the club members didn't (3)______. They stood by the bins during break time and helped classmates sort their rubbish. Slowly, students began to understand the (4)______ of the project. \"I used to throw everything into one bin,\" said Li Wei, a Grade 8 student. \"Now I know that paper and plastic should go to different places. It feels good to do something for our planet.\" After four weeks, the results were amazing. The school has produced 40% less waste (5)______ the project started. The Green Club is now planning to spread this idea to other schools in the city."
+      "group_passage": "A School Green Project\n\nLast month, our school (1)______ a meaningful green project called \"Save Our Earth\". All the students were excited to take part in it.\n\nAt first, some students thought it would be boring to pick up rubbish. (2)______, they changed their minds soon. We were divided into different groups. My group was responsible for recycling waste paper and plastic bottles. During the activity, we (3)______ over 200 kilograms of recyclable materials.\n\nThrough this project, we not only learned the importance of environmental protection but also felt (4)______ of what we had done. We (5)______ more students can join us and make our school greener in the future."
     },
     {
       "id": 12,
       "type": "cloze",
-      "knowledge_point": "present_perfect_vs_past_simple",
+      "knowledge_point": "cloze_general",
       "difficulty": 1,
       "stem": "(5)______",
       "options": [
-        "A. before",
-        "B. when",
-        "C. until",
-        "D. since"
+        "A. hope",
+        "B. decide",
+        "C. refuse",
+        "D. forget"
       ],
-      "correct_answer": "D",
-      "explanation": "正确答案是D。考查现在完成时的时间状语。主句'The school has produced...'使用了现在完成时（has produced），因此需要与since（自从...以来）连用，表示从过去某时点持续到现在的动作。since the project started意为'自从项目开始以来'。A选项before（在...之前）通常与过去完成时连用；B选项when（当...时）和C选项until（直到）不与现在完成时搭配表示持续。解题技巧：现在完成时+since+一般过去时句子，是固定句型，表示'自从...以来已经...'。",
+      "correct_answer": "A",
+      "explanation": "根据句意\"我们______更多学生能加入我们\"，hope（希望）符合语境和逻辑。decide（决定）通常用于自己做出决定，不用于希望别人做某事；refuse（拒绝）和forget（忘记）与句意相反。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "The Green Club at Sunshine Middle School has been working hard to make our school more environmentally friendly. Last month, they started a new project called \"Zero Waste Classroom\". The project (1)______ by the club members themselves. They wanted to reduce the amount of waste produced in classrooms. First, they placed recycling bins in every room. Then, they made posters to teach students how to sort waste properly. However, things didn't go (2)______ at first. Many students found it difficult to remember which bin to use. Some even complained that it took too much time. But the club members didn't (3)______. They stood by the bins during break time and helped classmates sort their rubbish. Slowly, students began to understand the (4)______ of the project. \"I used to throw everything into one bin,\" said Li Wei, a Grade 8 student. \"Now I know that paper and plastic should go to different places. It feels good to do something for our planet.\" After four weeks, the results were amazing. The school has produced 40% less waste (5)______ the project started. The Green Club is now planning to spread this idea to other schools in the city."
+      "group_passage": "A School Green Project\n\nLast month, our school (1)______ a meaningful green project called \"Save Our Earth\". All the students were excited to take part in it.\n\nAt first, some students thought it would be boring to pick up rubbish. (2)______, they changed their minds soon. We were divided into different groups. My group was responsible for recycling waste paper and plastic bottles. During the activity, we (3)______ over 200 kilograms of recyclable materials.\n\nThrough this project, we not only learned the importance of environmental protection but also felt (4)______ of what we had done. We (5)______ more students can join us and make our school greener in the future."
     },
     {
       "id": 13,
       "type": "reading",
       "knowledge_point": "detail",
       "difficulty": 2,
-      "stem": "How much higher did the students who read paper books score compared to those who read e-books?",
+      "stem": "How many hours do Shenzhen teenagers spend on screens daily on average according to the passage?",
       "options": [
-        "A. 5% higher.",
-        "B. 10% higher.",
-        "C. 15% higher.",
-        "D. 20% higher."
+        "A. 2.5 hours",
+        "B. 3.5 hours",
+        "C. 4.5 hours",
+        "D. 5 hours"
       ],
-      "correct_answer": "C",
-      "explanation": "正确答案是C。细节理解题。根据第二段最后一句'Surprisingly, the students who read paper books scored 15% higher on average.'（令人惊讶的是，阅读纸质书的学生平均得分高出15%），直接得出答案。A、B、D数字与原文不符。解题技巧：细节题采用'关键词定位法'，在题干中找'how much higher'和'scored'，回原文定位到第二段数字信息。",
+      "correct_answer": "B",
+      "explanation": "细节理解题。根据文章第一段第一句\"A recent survey shows that Shenzhen teenagers spend about 3.5 hours on screens every day on average\"可知，平均每天花3.5小时。解题技巧：细节题要精准定位，找到原文对应句子，注意数字信息。",
       "label": "阅读-细节理解",
       "group": "reading_1",
-      "group_passage": "In recent years, e-books have become increasingly popular among teenagers. Many students now read on tablets or phones instead of opening paper books. But which is better for learning? A recent study may have the answer.\n\nDr. Chen from Shenzhen University conducted research with 200 middle school students. Half of them read a story on an e-reader, while the other half read the same story in a printed book. After reading, both groups took a test about the details of the story. Surprisingly, the students who read paper books scored 15% higher on average.\n\n\"We found that paper books help readers create a 'mental map' of the information,\" explained Dr. Chen. When you read a physical book, you can feel how many pages you have read and how many are left. This physical sense helps your brain organize information better. With e-books, this feeling is lost because you just see numbers on a screen.\n\nHowever, e-books have their own advantages. They are lighter to carry and often cheaper than printed books. You can also adjust the font size (字体大小) and brightness (亮度) according to your needs. Dr. Chen suggests using both types wisely: choose paper books when you need to study difficult subjects deeply, and use e-books for light reading or when traveling.\n\nThe study was published last month and has attracted wide attention from educators across China. Many teachers are now reconsidering their classroom reading materials."
+      "group_passage": "Teenagers and Screen Time in Shenzhen\n\nA recent survey shows that Shenzhen teenagers spend about 3.5 hours on screens every day on average. This includes time spent on mobile phones, computers, and TVs. Doctors are worried about this trend because too much screen time can cause eye problems and affect sleep quality.\n\nDr. Li Ming, an eye specialist from Shenzhen Hospital, suggests the \"20-20-20\" rule to protect eyesight. According to this rule, every 20 minutes of screen time, you should look at something 20 feet (about 6 meters) away for at least 20 seconds. \"This simple habit can effectively reduce eye strain,\" Dr. Li explains. \"It gives your eye muscles a chance to relax.\"\n\nHowever, some students say it's hard to follow this rule when they have lots of online homework. \"I have to stare at the screen for hours to finish my assignments,\" said Wang Wei, a Grade 8 student. \"Sometimes my eyes feel dry and painful after studying.\"\n\nExperts suggest that students should balance study and rest. They recommend taking regular breaks and doing outdoor activities for at least one hour every day. Parents are also advised to set a good example by reducing their own screen time and spending more time with their children outdoors."
     },
     {
       "id": 14,
       "type": "reading",
       "knowledge_point": "inference",
-      "difficulty": 2,
-      "stem": "What can we infer from Dr. Chen's suggestion in Paragraph 4?",
+      "difficulty": 3,
+      "stem": "What can we infer from Dr. Li Ming's \"20-20-20\" rule mentioned in Paragraph 2?",
       "options": [
-        "A. E-books will completely replace paper books in the future.",
-        "B. Students should only use paper books for all subjects.",
-        "C. Students should choose different books for different purposes.",
-        "D. Paper books are too expensive for most students."
+        "A. We should only use screens for 20 minutes every day.",
+        "B. Looking at distant objects can help rest our eyes.",
+        "C. We need to exercise for 20 seconds every 20 minutes.",
+        "D. Teenagers should stand 20 feet away from the screen."
       ],
-      "correct_answer": "C",
-      "explanation": "正确答案是C。推理判断题。根据第四段Dr. Chen的建议：'choose paper books when you need to study difficult subjects deeply, and use e-books for light reading or when traveling'（深入学习难科目时选纸质书，轻松阅读或旅行时用电子书），可推断出应根据不同目的选择不同书籍。A选项（电子书将完全取代纸质书）与文意相反；B选项（所有科目只用纸质书）过于绝对；D选项（纸质书太贵）文中未提及，且文中说电子书'often cheaper'（通常更便宜），暗示纸质书较贵但并非买不起。解题技巧：推理题要基于原文信息合理推断，不能过度推断或与原文矛盾，注意排除绝对化选项（only, completely, never）。",
+      "correct_answer": "B",
+      "explanation": "推理判断题。根据第二段\"look at something 20 feet away for at least 20 seconds\"和\"It gives your eye muscles a chance to relax\"可推断，看远处物体有助于放松眼部肌肉，即帮助眼睛休息。A、C、D都是对原文的误解或过度推断。解题技巧：推理题要基于原文信息合理推断，不能主观臆断。",
       "label": "阅读-推理判断",
       "group": "reading_1",
-      "group_passage": "In recent years, e-books have become increasingly popular among teenagers. Many students now read on tablets or phones instead of opening paper books. But which is better for learning? A recent study may have the answer.\n\nDr. Chen from Shenzhen University conducted research with 200 middle school students. Half of them read a story on an e-reader, while the other half read the same story in a printed book. After reading, both groups took a test about the details of the story. Surprisingly, the students who read paper books scored 15% higher on average.\n\n\"We found that paper books help readers create a 'mental map' of the information,\" explained Dr. Chen. When you read a physical book, you can feel how many pages you have read and how many are left. This physical sense helps your brain organize information better. With e-books, this feeling is lost because you just see numbers on a screen.\n\nHowever, e-books have their own advantages. They are lighter to carry and often cheaper than printed books. You can also adjust the font size (字体大小) and brightness (亮度) according to your needs. Dr. Chen suggests using both types wisely: choose paper books when you need to study difficult subjects deeply, and use e-books for light reading or when traveling.\n\nThe study was published last month and has attracted wide attention from educators across China. Many teachers are now reconsidering their classroom reading materials."
+      "group_passage": "Teenagers and Screen Time in Shenzhen\n\nA recent survey shows that Shenzhen teenagers spend about 3.5 hours on screens every day on average. This includes time spent on mobile phones, computers, and TVs. Doctors are worried about this trend because too much screen time can cause eye problems and affect sleep quality.\n\nDr. Li Ming, an eye specialist from Shenzhen Hospital, suggests the \"20-20-20\" rule to protect eyesight. According to this rule, every 20 minutes of screen time, you should look at something 20 feet (about 6 meters) away for at least 20 seconds. \"This simple habit can effectively reduce eye strain,\" Dr. Li explains. \"It gives your eye muscles a chance to relax.\"\n\nHowever, some students say it's hard to follow this rule when they have lots of online homework. \"I have to stare at the screen for hours to finish my assignments,\" said Wang Wei, a Grade 8 student. \"Sometimes my eyes feel dry and painful after studying.\"\n\nExperts suggest that students should balance study and rest. They recommend taking regular breaks and doing outdoor activities for at least one hour every day. Parents are also advised to set a good example by reducing their own screen time and spending more time with their children outdoors."
     },
     {
       "id": 15,
       "type": "reading",
       "knowledge_point": "word_guessing",
-      "difficulty": 1,
-      "stem": "What does the underlined word 'conducted' in Paragraph 2 probably mean?",
+      "difficulty": 2,
+      "stem": "What does the underlined word \"strain\" in Paragraph 2 probably mean in Chinese?",
       "options": [
-        "A. Joined.",
-        "B. Organized and carried out.",
-        "C. Refused.",
-        "D. Reported."
+        "A. 压力；疲劳",
+        "B. 快乐",
+        "C. 力量",
+        "D. 视力"
       ],
-      "correct_answer": "B",
-      "explanation": "正确答案是B。词义猜测题。根据上下文'Dr. Chen... conducted research with 200 middle school students'以及下文描述的研究过程（分组、测试等），可知conducted意为'组织并进行（研究）'。A选项joined（加入）主语通常是参与者而非研究者；C选项refused（拒绝）与语境相反；D选项reported（报道）通常指研究结束后的行为，而这里指研究过程。解题技巧：利用动宾搭配（conduct research）和上下文动作链（分组→阅读→测试）推断词义。conduct常见含义：conduct an experiment/survey（进行实验/调查），conduct an orchestra（指挥乐队）。",
+      "correct_answer": "A",
+      "explanation": "词义猜测题。根据上下文\"protect eyesight\"（保护视力）和\"gives your eye muscles a chance to relax\"（让眼部肌肉放松）可知，strain应该是指眼睛的压力或疲劳状态。解题技巧：通过上下文语境、同义词/反义词、定义解释等线索猜测词义。",
       "label": "阅读-词义猜测",
       "group": "reading_1",
-      "group_passage": "In recent years, e-books have become increasingly popular among teenagers. Many students now read on tablets or phones instead of opening paper books. But which is better for learning? A recent study may have the answer.\n\nDr. Chen from Shenzhen University conducted research with 200 middle school students. Half of them read a story on an e-reader, while the other half read the same story in a printed book. After reading, both groups took a test about the details of the story. Surprisingly, the students who read paper books scored 15% higher on average.\n\n\"We found that paper books help readers create a 'mental map' of the information,\" explained Dr. Chen. When you read a physical book, you can feel how many pages you have read and how many are left. This physical sense helps your brain organize information better. With e-books, this feeling is lost because you just see numbers on a screen.\n\nHowever, e-books have their own advantages. They are lighter to carry and often cheaper than printed books. You can also adjust the font size (字体大小) and brightness (亮度) according to your needs. Dr. Chen suggests using both types wisely: choose paper books when you need to study difficult subjects deeply, and use e-books for light reading or when traveling.\n\nThe study was published last month and has attracted wide attention from educators across China. Many teachers are now reconsidering their classroom reading materials."
+      "group_passage": "Teenagers and Screen Time in Shenzhen\n\nA recent survey shows that Shenzhen teenagers spend about 3.5 hours on screens every day on average. This includes time spent on mobile phones, computers, and TVs. Doctors are worried about this trend because too much screen time can cause eye problems and affect sleep quality.\n\nDr. Li Ming, an eye specialist from Shenzhen Hospital, suggests the \"20-20-20\" rule to protect eyesight. According to this rule, every 20 minutes of screen time, you should look at something 20 feet (about 6 meters) away for at least 20 seconds. \"This simple habit can effectively reduce eye strain,\" Dr. Li explains. \"It gives your eye muscles a chance to relax.\"\n\nHowever, some students say it's hard to follow this rule when they have lots of online homework. \"I have to stare at the screen for hours to finish my assignments,\" said Wang Wei, a Grade 8 student. \"Sometimes my eyes feel dry and painful after studying.\"\n\nExperts suggest that students should balance study and rest. They recommend taking regular breaks and doing outdoor activities for at least one hour every day. Parents are also advised to set a good example by reducing their own screen time and spending more time with their children outdoors."
     },
     {
       "id": 16,
       "type": "reading",
       "knowledge_point": "main_idea",
       "difficulty": 3,
-      "stem": "What is the best title for the passage?",
+      "stem": "What is the best title for this passage?",
       "options": [
-        "A. The History of Paper Books",
-        "B. E-books vs. Paper Books: Which Is Better for Learning?",
-        "C. How to Use E-readers Properly",
-        "D. The Life of Dr. Chen"
+        "A. The History of Shenzhen Hospitals",
+        "B. How to Do Online Homework Quickly",
+        "C. Teenagers and Screen Time in Shenzhen",
+        "D. The Importance of Outdoor Activities"
       ],
-      "correct_answer": "B",
-      "explanation": "正确答案是B。主旨大意题。文章首段提出问题'But which is better for learning?'（哪种对学习更好？），中间段落对比电子书和纸质书的研究结果，最后给出建议，全文围绕两种书籍的比较展开。A选项（纸质书的历史）只在文中提及阅读时的触感，非主要内容；C选项（如何正确使用电子阅读器）过于片面；D选项（陈博士的生平）只是细节。解题技巧：主旨题要概括全文核心内容，不能过大（如A选项）或过小（如C、D选项），通常看首尾段和每段首句。B选项用'vs.'（对比）准确概括了文章比较两者的核心内容。",
+      "correct_answer": "C",
+      "explanation": "主旨大意题。文章第一段点明主题\"Shenzhen teenagers spend about 3.5 hours on screens\"，全文围绕深圳青少年的屏幕使用时间、带来的问题及解决方案展开。A、B、D都只是文章细节，不能概括全文。解题技巧：最佳标题应涵盖文章核心内容，具有概括性。",
       "label": "阅读-主旨大意",
       "group": "reading_1",
-      "group_passage": "In recent years, e-books have become increasingly popular among teenagers. Many students now read on tablets or phones instead of opening paper books. But which is better for learning? A recent study may have the answer.\n\nDr. Chen from Shenzhen University conducted research with 200 middle school students. Half of them read a story on an e-reader, while the other half read the same story in a printed book. After reading, both groups took a test about the details of the story. Surprisingly, the students who read paper books scored 15% higher on average.\n\n\"We found that paper books help readers create a 'mental map' of the information,\" explained Dr. Chen. When you read a physical book, you can feel how many pages you have read and how many are left. This physical sense helps your brain organize information better. With e-books, this feeling is lost because you just see numbers on a screen.\n\nHowever, e-books have their own advantages. They are lighter to carry and often cheaper than printed books. You can also adjust the font size (字体大小) and brightness (亮度) according to your needs. Dr. Chen suggests using both types wisely: choose paper books when you need to study difficult subjects deeply, and use e-books for light reading or when traveling.\n\nThe study was published last month and has attracted wide attention from educators across China. Many teachers are now reconsidering their classroom reading materials."
+      "group_passage": "Teenagers and Screen Time in Shenzhen\n\nA recent survey shows that Shenzhen teenagers spend about 3.5 hours on screens every day on average. This includes time spent on mobile phones, computers, and TVs. Doctors are worried about this trend because too much screen time can cause eye problems and affect sleep quality.\n\nDr. Li Ming, an eye specialist from Shenzhen Hospital, suggests the \"20-20-20\" rule to protect eyesight. According to this rule, every 20 minutes of screen time, you should look at something 20 feet (about 6 meters) away for at least 20 seconds. \"This simple habit can effectively reduce eye strain,\" Dr. Li explains. \"It gives your eye muscles a chance to relax.\"\n\nHowever, some students say it's hard to follow this rule when they have lots of online homework. \"I have to stare at the screen for hours to finish my assignments,\" said Wang Wei, a Grade 8 student. \"Sometimes my eyes feel dry and painful after studying.\"\n\nExperts suggest that students should balance study and rest. They recommend taking regular breaks and doing outdoor activities for at least one hour every day. Parents are also advised to set a good example by reducing their own screen time and spending more time with their children outdoors."
     },
     {
       "id": 17,
@@ -283,17 +283,17 @@
       "difficulty": 2,
       "stem": "(17)______",
       "options": [
-        "A. However, don't forget to take breaks.",
-        "B. Besides, avoid putting off your work.",
-        "C. First, write down your daily tasks.",
-        "D. In addition, learn to say no to perfectionism.",
-        "E. On the other hand, sleep is very important."
+        "A. However, many students don't know how to take proper breaks.",
+        "B. In addition, taking regular breaks can improve your memory and creativity.",
+        "C. As a result, they often feel tired and can't focus on their studies.",
+        "D. Then, divide your study time into smaller parts with short breaks.",
+        "E. On the other hand, you should also make time for physical exercise."
       ],
-      "correct_answer": "C",
-      "explanation": "正确答案是C。考查段落主题句（顺序连接词）。空格后内容'Make a list of everything... Put the most important tasks at the top'（列出今天要做的一切，把最重要的放在顶部）讲的是制定任务清单，与C选项'First, write down your daily tasks'（首先，写下你的日常任务）完全对应。A选项讲休息，B选项讲拖延，D选项讲完美主义，E选项讲睡眠，均与本段内容不符。解题技巧：选句子填空要注意段落主题一致性，本段出现'First'，后文应有'Then'等顺序词，但此处选主题句，C选项的'First'与下文逻辑吻合。",
+      "correct_answer": "A",
+      "explanation": "前文说\"许多学生想取得好成绩，所以花大部分时间学习\"，后文说\"他们连续几小时坐在书桌前不休息\"，此处用However转折，指出\"然而，许多学生不知道如何正确休息\"，引出下文的具体表现。As a result表示结果，通常用于描述后果而非引出新的问题。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Are you always busy with schoolwork and hobbies? Do you often feel like there aren't enough hours in a day? Here are some tips to help you manage your time better.\n\n(17)______ Make a list of everything you need to do today. Put the most important tasks at the top. This way, you won't forget anything urgent.\n\n(18)______ It's easy to say \"I'll do it later,\" but this often leads to stress. Try to finish your homework before watching TV or playing games. Once you develop this habit, you'll have more free time in the evening.\n\n(19)______ You don't have to do everything perfectly. If a task is supposed to take 30 minutes, don't spend two hours on it. Good enough is sometimes better than perfect.\n\n(20)______ Your brain needs rest to work well. After studying for 45 minutes, stand up and stretch. Drink some water or look out the window for a few minutes.\n\nRemember, time management is a skill that takes practice. Start with small changes, and you'll soon find yourself less stressed and more productive."
+      "group_passage": "How to Balance Study and Rest\n\nMany students want to get good grades, so they spend most of their time studying. (17)______ They sit at their desks for hours without breaks. This is actually not good for their health or study efficiency.\n\n(18)______ When you study for too long, your brain gets tired and you can't concentrate well. That's why you may find it harder to remember things after studying for three hours straight.\n\nSo what should we do? First, make a reasonable study plan. Don't try to finish all your work in one sitting. (19)______ For example, you can study for 45 minutes and then rest for 10 minutes. During the break, stand up, stretch your body, or look out of the window.\n\n(20)______ Don't forget to do some sports every day. A healthy body helps you study better."
     },
     {
       "id": 18,
@@ -302,17 +302,17 @@
       "difficulty": 2,
       "stem": "(18)______",
       "options": [
-        "A. However, don't forget to take breaks.",
-        "B. Besides, avoid putting off your work.",
-        "C. First, write down your daily tasks.",
-        "D. In addition, learn to say no to perfectionism.",
-        "E. On the other hand, sleep is very important."
+        "A. However, many students don't know how to take proper breaks.",
+        "B. In addition, taking regular breaks can improve your memory and creativity.",
+        "C. As a result, they often feel tired and can't focus on their studies.",
+        "D. Then, divide your study time into smaller parts with short breaks.",
+        "E. On the other hand, you should also make time for physical exercise."
       ],
-      "correct_answer": "B",
-      "explanation": "正确答案是B。考查逻辑关系（因果关系/建议）。空格后提到'It's easy to say \"I'll do it later,\"'（说'我以后再做'很容易），这是典型的'拖延'行为，因此B选项'Besides, avoid putting off your work'（此外，避免拖延你的工作）与之对应。put off与I'll do it later同义。A讲休息，C讲首要任务（已用于17题），D讲完美主义，E讲睡眠，均不符。解题技巧：利用同义复现（put off = do it later）和连接词（Besides表示递进，承接上文的First）。",
+      "correct_answer": "C",
+      "explanation": "前文说\"连续几小时不休息\"，后文说\"当你学习太久，大脑会疲劳，无法集中注意力\"，此处需要表示结果/后果的过渡句\"因此，他们经常感到疲倦，无法专注于学习\"。As a result表示\"结果、因此\"，承上启下，连接因果关系。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Are you always busy with schoolwork and hobbies? Do you often feel like there aren't enough hours in a day? Here are some tips to help you manage your time better.\n\n(17)______ Make a list of everything you need to do today. Put the most important tasks at the top. This way, you won't forget anything urgent.\n\n(18)______ It's easy to say \"I'll do it later,\" but this often leads to stress. Try to finish your homework before watching TV or playing games. Once you develop this habit, you'll have more free time in the evening.\n\n(19)______ You don't have to do everything perfectly. If a task is supposed to take 30 minutes, don't spend two hours on it. Good enough is sometimes better than perfect.\n\n(20)______ Your brain needs rest to work well. After studying for 45 minutes, stand up and stretch. Drink some water or look out the window for a few minutes.\n\nRemember, time management is a skill that takes practice. Start with small changes, and you'll soon find yourself less stressed and more productive."
+      "group_passage": "How to Balance Study and Rest\n\nMany students want to get good grades, so they spend most of their time studying. (17)______ They sit at their desks for hours without breaks. This is actually not good for their health or study efficiency.\n\n(18)______ When you study for too long, your brain gets tired and you can't concentrate well. That's why you may find it harder to remember things after studying for three hours straight.\n\nSo what should we do? First, make a reasonable study plan. Don't try to finish all your work in one sitting. (19)______ For example, you can study for 45 minutes and then rest for 10 minutes. During the break, stand up, stretch your body, or look out of the window.\n\n(20)______ Don't forget to do some sports every day. A healthy body helps you study better."
     },
     {
       "id": 19,
@@ -321,17 +321,17 @@
       "difficulty": 2,
       "stem": "(19)______",
       "options": [
-        "A. However, don't forget to take breaks.",
-        "B. Besides, avoid putting off your work.",
-        "C. First, write down your daily tasks.",
-        "D. In addition, learn to say no to perfectionism.",
-        "E. On the other hand, sleep is very important."
+        "A. However, many students don't know how to take proper breaks.",
+        "B. In addition, taking regular breaks can improve your memory and creativity.",
+        "C. As a result, they often feel tired and can't focus on their studies.",
+        "D. Then, divide your study time into smaller parts with short breaks.",
+        "E. On the other hand, you should also make time for physical exercise."
       ],
       "correct_answer": "D",
-      "explanation": "正确答案是D。考查段落主旨（建议）。空格后'You don't have to do everything perfectly'（你不必把每件事都做得完美）和'Good enough is sometimes better than perfect'（足够好有时比完美更好）明确指向D选项'In addition, learn to say no to perfectionism'（此外，学会对完美主义说不）。perfectionism（完美主义）与perfectly/perfect同根复现。A讲休息，B讲拖延（已用于18题），C讲首要任务（已用于17题），E讲睡眠。解题技巧：利用词汇复现（perfectly/perfect与perfectionism）和连接词（In addition表示补充建议）。",
+      "explanation": "前文说\"不要试图一次性完成所有作业\"，后文举例\"比如学习45分钟然后休息10分钟\"，此处需要具体的建议/方法\"然后，把你的学习时间分成几个小段，中间穿插短暂休息\"。Then表示顺序，承接上文的First，引出具体做法。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Are you always busy with schoolwork and hobbies? Do you often feel like there aren't enough hours in a day? Here are some tips to help you manage your time better.\n\n(17)______ Make a list of everything you need to do today. Put the most important tasks at the top. This way, you won't forget anything urgent.\n\n(18)______ It's easy to say \"I'll do it later,\" but this often leads to stress. Try to finish your homework before watching TV or playing games. Once you develop this habit, you'll have more free time in the evening.\n\n(19)______ You don't have to do everything perfectly. If a task is supposed to take 30 minutes, don't spend two hours on it. Good enough is sometimes better than perfect.\n\n(20)______ Your brain needs rest to work well. After studying for 45 minutes, stand up and stretch. Drink some water or look out the window for a few minutes.\n\nRemember, time management is a skill that takes practice. Start with small changes, and you'll soon find yourself less stressed and more productive."
+      "group_passage": "How to Balance Study and Rest\n\nMany students want to get good grades, so they spend most of their time studying. (17)______ They sit at their desks for hours without breaks. This is actually not good for their health or study efficiency.\n\n(18)______ When you study for too long, your brain gets tired and you can't concentrate well. That's why you may find it harder to remember things after studying for three hours straight.\n\nSo what should we do? First, make a reasonable study plan. Don't try to finish all your work in one sitting. (19)______ For example, you can study for 45 minutes and then rest for 10 minutes. During the break, stand up, stretch your body, or look out of the window.\n\n(20)______ Don't forget to do some sports every day. A healthy body helps you study better."
     },
     {
       "id": 20,
@@ -340,17 +340,17 @@
       "difficulty": 2,
       "stem": "(20)______",
       "options": [
-        "A. However, don't forget to take breaks.",
-        "B. Besides, avoid putting off your work.",
-        "C. First, write down your daily tasks.",
-        "D. In addition, learn to say no to perfectionism.",
-        "E. On the other hand, sleep is very important."
+        "A. However, many students don't know how to take proper breaks.",
+        "B. In addition, taking regular breaks can improve your memory and creativity.",
+        "C. As a result, they often feel tired and can't focus on their studies.",
+        "D. Then, divide your study time into smaller parts with short breaks.",
+        "E. On the other hand, you should also make time for physical exercise."
       ],
-      "correct_answer": "A",
-      "explanation": "正确答案是A。考查逻辑关系（转折/建议）。空格后'Your brain needs rest to work well'（你的大脑需要休息才能良好工作）和'After studying for 45 minutes, stand up and stretch'（学习45分钟后站起来伸展）讲的是休息的重要性，因此A选项'However, don't forget to take breaks'（然而，别忘了休息）符合。However在这里表示话题转换（从做事方法转到休息）。B、C、D已使用，E虽然提到休息但强调sleep（睡眠），而本段讲的是学习间隙的短暂休息（breaks），且On the other hand通常用于对比两种观点，不适合此处建议顺序。解题技巧：利用词汇复现（rest与breaks同义）和语境（学习45分钟后伸展对应take breaks）。",
+      "correct_answer": "E",
+      "explanation": "后文说\"别忘了每天做些运动\"，此处应该引出运动/体育锻炼的话题\"另一方面，你也应该腾出时间进行体育锻炼\"。On the other hand用于引出另一个相关但不同方面的建议，与上文的休息建议形成并列补充关系。In addition虽然也表示补充，但后文已经明确提到sports，用On the other hand更强调这是另一个重要方面。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Are you always busy with schoolwork and hobbies? Do you often feel like there aren't enough hours in a day? Here are some tips to help you manage your time better.\n\n(17)______ Make a list of everything you need to do today. Put the most important tasks at the top. This way, you won't forget anything urgent.\n\n(18)______ It's easy to say \"I'll do it later,\" but this often leads to stress. Try to finish your homework before watching TV or playing games. Once you develop this habit, you'll have more free time in the evening.\n\n(19)______ You don't have to do everything perfectly. If a task is supposed to take 30 minutes, don't spend two hours on it. Good enough is sometimes better than perfect.\n\n(20)______ Your brain needs rest to work well. After studying for 45 minutes, stand up and stretch. Drink some water or look out the window for a few minutes.\n\nRemember, time management is a skill that takes practice. Start with small changes, and you'll soon find yourself less stressed and more productive."
+      "group_passage": "How to Balance Study and Rest\n\nMany students want to get good grades, so they spend most of their time studying. (17)______ They sit at their desks for hours without breaks. This is actually not good for their health or study efficiency.\n\n(18)______ When you study for too long, your brain gets tired and you can't concentrate well. That's why you may find it harder to remember things after studying for three hours straight.\n\nSo what should we do? First, make a reasonable study plan. Don't try to finish all your work in one sitting. (19)______ For example, you can study for 45 minutes and then rest for 10 minutes. During the break, stand up, stretch your body, or look out of the window.\n\n(20)______ Don't forget to do some sports every day. A healthy body helps you study better."
     }
   ]
 }
