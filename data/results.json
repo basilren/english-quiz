@@ -424,24 +424,6 @@
   ],
   "errors": [
     {
-      "date": "2026-05-28",
-      "session": 1,
-      "question_id": 15,
-      "type": "reading",
-      "knowledge_point": "inference",
-      "label": "阅读-推理判断",
-      "stem": "What can we infer from the passage?",
-      "options": [
-        "A. All screen time is bad for teenagers.",
-        "B. Schools should ban all electronic devices completely.",
-        "C. Using technology wisely is important for teenagers.",
-        "D. Teenagers should never use smartphones at home."
-      ],
-      "correct_answer": "C",
-      "student_answer": "B",
-      "explanation": "选C。根据第三段'However, not all screen time is harmful...The key is to find a balance'及最后一段'How we use it determines whether it helps or hurts us'可推断，明智地使用科技很重要。A与'not all screen time is harmful'矛盾；B与'schools limit...during school hours'（限制而非禁止）不符；D过于绝对，文中未提及。解题技巧：推理题要基于原文但不停留在表面，排除绝对化选项（all/never/completely），选择概括性、合理的结论。"
-    },
-    {
       "date": "2026-05-29",
       "session": 1,
       "question_id": 7,
