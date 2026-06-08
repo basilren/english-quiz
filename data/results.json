@@ -424,60 +424,6 @@
   ],
   "errors": [
     {
-      "date": "2026-05-29",
-      "session": 1,
-      "question_id": 7,
-      "type": "vocabulary",
-      "knowledge_point": "word_meaning",
-      "label": "单词释义",
-      "stem": "The ______ of the mountain is covered with snow all year round.",
-      "options": [
-        "A. foot",
-        "B. top",
-        "C. middle",
-        "D. bottom"
-      ],
-      "correct_answer": "B",
-      "student_answer": "D",
-      "explanation": "根据句意'终年被雪覆盖'，结合常识，山顶（top）才会有常年积雪。foot指山脚，middle指山腰，bottom指底部。解题技巧：利用上下文线索和常识推理，'covered with snow all year round'是高海拔地区的特征。"
-    },
-    {
-      "date": "2026-05-29",
-      "session": 1,
-      "question_id": 12,
-      "type": "cloze",
-      "knowledge_point": "cloze_general",
-      "label": "完形填空",
-      "stem": "(12)______",
-      "options": [
-        "A. must",
-        "B. can",
-        "C. should",
-        "D. need"
-      ],
-      "correct_answer": "C",
-      "student_answer": "A",
-      "explanation": "句意：我意识到每个人都应该在保护地球中发挥作用。should表示'应该'，强调责任和义务，符合语境。must必须（语气太强），can能够，need需要（通常作实义动词need to do）。"
-    },
-    {
-      "date": "2026-05-29",
-      "session": 1,
-      "question_id": 14,
-      "type": "reading",
-      "knowledge_point": "word_guessing",
-      "label": "阅读-词义猜测",
-      "stem": "The underlined word 'excessive' in Paragraph 1 probably means ______.",
-      "options": [
-        "A. limited",
-        "B. too much",
-        "C. necessary",
-        "D. proper"
-      ],
-      "correct_answer": "B",
-      "student_answer": "C",
-      "explanation": "词义猜测题。根据上下文，'excessive screen time'后提到'may have negative effects'（可能有负面影响），且第二段解释'looking at screens for too long'（看屏幕太久），可知excessive意为'过多的、过度的'。limited有限的，necessary必要的，proper适当的。解题技巧：通过因果线索（negative effects）和同义解释（too long）推断词义。"
-    },
-    {
       "date": "2026-05-30",
       "session": 1,
       "question_id": 7,
