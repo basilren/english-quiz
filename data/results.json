@@ -431,24 +431,6 @@
   ],
   "errors": [
     {
-      "date": "2026-05-31",
-      "session": 1,
-      "question_id": 8,
-      "type": "cloze",
-      "knowledge_point": "cloze_general",
-      "label": "完形填空",
-      "stem": "(8)______",
-      "options": [
-        "A. easy",
-        "B. hard",
-        "C. happy",
-        "D. sad"
-      ],
-      "correct_answer": "B",
-      "student_answer": "C",
-      "explanation": "选B。根据下文'But soon, they got used to it'（但很快他们习惯了）中的转折词But可知，起初应该是'困难的'。hard表示'困难的'，符合语境。A选项easy（容易的）与But转折矛盾。C选项happy（开心的）和D选项sad（难过的）通常用来描述人的情绪，而不是描述'remember bringing bottles'这件事的难度。解题技巧：利用转折关系，But前后语义相反，后面是'习惯'，前面应该是'不习惯/困难'。"
-    },
-    {
       "date": "2026-06-01",
       "session": 1,
       "question_id": 4,

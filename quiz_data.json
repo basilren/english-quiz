@@ -1,5 +1,5 @@
 ﻿{
-  "date": "2026-06-10",
+  "date": "2026-06-11",
   "session_number": 1,
   "questions": [
     {
@@ -7,130 +7,130 @@
       "type": "grammar",
       "knowledge_point": "present_perfect_vs_past_simple",
       "difficulty": 2,
-      "stem": "—______ you ______ the new science museum near our school?\n—Yes. I ______ there with my classmates last Sunday.",
+      "stem": "—Why don't you go to the cinema with us, Tom?\n—Because I ______ the film before.",
       "options": [
-        "A. Did; visit; have gone",
-        "B. Have; visited; went",
-        "C. Have; visited; have gone",
-        "D. Did; visit; went"
+        "A. have seen",
+        "B. saw",
+        "C. see",
+        "D. am seeing"
       ],
-      "correct_answer": "B",
-      "explanation": "本题考查现在完成时与一般过去时的区别。\n第一空：问句询问\"是否去过某地（人已回来）\"，强调对现在的影响，用现在完成时Have...visited；\n第二空：答句中有明确过去时间状语last Sunday，只能用一般过去时went。\n干扰项分析：A和D第一空用Did，只强调过去动作，不强调对现在的影响；C第二空用have gone表示\"去了未回\"，与语境不符（说话人已经在对话现场）。\n解题技巧：看到ever/never/yet/already/just用现在完成时；看到yesterday/last week/in 2020用一般过去时。",
+      "correct_answer": "A",
+      "explanation": "选A。句意：——Tom，为什么不和我们一起去看电影？——因为我之前看过这部电影了。现在完成时（have seen）强调过去的动作对现在造成的影响或结果（已经看过，所以不想再去），而一般过去时（saw）仅表示过去发生过某事，与现在无关联。解题技巧：看到\"before\"、\"already\"、\"yet\"等词，或强调\"经历/完成/影响\"时，用现在完成时。",
       "label": "语法题"
     },
     {
       "id": 2,
       "type": "grammar",
-      "knowledge_point": "relative_clause",
+      "knowledge_point": "relative_clause_who_which",
       "difficulty": 2,
-      "stem": "The book ______ cover is red belongs to my sister ______ is studying in high school.",
+      "stem": "The story ______ was written by Mo Yan is very popular among teenagers.",
       "options": [
-        "A. which; who",
-        "B. that; which",
-        "C. whose; who",
-        "D. who; that"
+        "A. who",
+        "B. what",
+        "C. which",
+        "D. whom"
       ],
       "correct_answer": "C",
-      "explanation": "本题考查定语从句关系词的选择。\n第一空：cover（封面）与book是所属关系，用whose表示\"...的\"，相当于the cover of which；\n第二空：先行词sister指人，在从句中作主语，用who或that均可，但选项中只有who符合。\n干扰项分析：which在定语从句中作主语或宾语，不表所属；that可指人或物，但不能表所属关系；who指人但主格/宾格，不表所属。\n解题口诀：whose是\"谁的\"，后接名词不可丢；指人主格用who，宾格whom可省可留。",
+      "explanation": "选C。句意：莫言写的那个故事在青少年中非常受欢迎。定语从句修饰先行词\"story\"（物），关系代词可用which或that。who/whom指人，what不能引导定语从句。解题技巧：空格前是名词（先行词），空格后是动词/主谓结构，考虑定语从句；人为主用who/whom，物为主用which/that。",
       "label": "语法题"
     },
     {
       "id": 3,
       "type": "grammar",
       "knowledge_point": "passive_voice",
-      "difficulty": 1,
-      "stem": "These old books ______ to the library by Tom every month.",
+      "difficulty": 3,
+      "stem": "—Do you know when the new subway line ______?\n—Next year, I think.",
       "options": [
-        "A. return",
-        "B. returned",
-        "C. are returned",
-        "D. were returned"
+        "A. will complete",
+        "B. will be completed",
+        "C. is completing",
+        "D. completes"
       ],
-      "correct_answer": "C",
-      "explanation": "本题考查一般现在时的被动语态。\n主语books与return是被动关系（书被归还），时间状语every month表示习惯性动作，用一般现在时被动语态：am/is/are + done。books是复数，用are returned。\n干扰项分析：A是主动语态原形；B是一般过去时主动；D是一般过去时被动，与every month时间状语不符。\n解题技巧：先判断主谓关系（书被还→被动），再找时间词（every month→一般现在时），最后看单复数（books→are）。",
+      "correct_answer": "B",
+      "explanation": "选B。句意：——你知道新地铁线什么时候完工吗？——我想是明年。主语\"subway line\"与\"complete\"是被动关系（被完成），且时间状语\"next year\"表示将来，故用一般将来时的被动语态\"will be completed\"。A是主动语态，C是现在进行时不合逻辑，D是一般现在时表将来但不用于被动。解题技巧：先判断主谓关系（被动/主动），再判断时态（将来时间→将来时）。",
       "label": "语法题"
     },
     {
       "id": 4,
       "type": "grammar",
-      "knowledge_point": "comparative_degree",
-      "difficulty": 3,
-      "stem": "Tom is ______ than any other student in his class. He is the best basketball player in the school team.",
+      "knowledge_point": "modal_verbs",
+      "difficulty": 1,
+      "stem": "Look! The light is still on in the teacher's office. Mr. Zhang ______ be working there now.",
       "options": [
-        "A. tall",
-        "B. taller",
-        "C. tallest",
-        "D. the tallest"
+        "A. must",
+        "B. might",
+        "C. can't",
+        "D. shouldn't"
       ],
-      "correct_answer": "B",
-      "explanation": "本题考查比较级表最高级的特殊用法。\n句型\"比较级 + than any other + 单数名词\"表示\"比其他任何...都...\"，相当于最高级含义。后面提到He is the best也印证了是在比较。\n干扰项分析：A是原级，不能与than连用；C和D是最高级，但句中已有than，结构不符；\n易错点：学生可能看到the best就选D，忽略了than any other这个关键结构。\n解题口诀：than是比较级标志，看到than用比较；than any other + 单数，比较形式最高含义。",
+      "correct_answer": "A",
+      "explanation": "选A。句意：看！老师办公室的灯还亮着。张老师现在一定在那里工作。根据\"灯还亮着\"这一证据，做出肯定推测，用must表示\"一定\"。might表示\"可能\"（把握不大），can't表示\"不可能\"（否定推测），shouldn't表示\"不应该\"。解题技巧：must表肯定推测（证据强），might表不确定推测，can't表否定推测。",
       "label": "语法题"
     },
     {
       "id": 5,
       "type": "vocabulary",
-      "knowledge_point": "word_meaning",
-      "difficulty": 1,
-      "stem": "The old bridge is not strong enough to ______ heavy trucks. It may fall down if too many of them cross it at the same time.",
+      "knowledge_point": "word_guessing_context",
+      "difficulty": 2,
+      "stem": "The old bridge is not strong enough to support heavy trucks. It may ______ if too many vehicles cross it at the same time.",
       "options": [
-        "A. support",
-        "B. produce",
-        "C. protect",
-        "D. provide"
+        "A. appear",
+        "B. rise",
+        "C. collapse",
+        "D. shake"
       ],
-      "correct_answer": "A",
-      "explanation": "本题考查动词词义辨析。\n语境：桥不够坚固，无法\"支撑\"重型卡车。support意为\"支撑、承受重量\"，符合语境。\n干扰项分析：produce生产；protect保护；provide提供，均与\"承重\"语境不符。\n词义辨析技巧：结合物理常识，桥梁的功能是承载重量，support有\"支撑、承受\"之意，常指承受重量。",
+      "correct_answer": "C",
+      "explanation": "选C。句意：这座旧桥不够坚固，无法承受重型卡车。如果太多车辆同时通过，它可能会倒塌。根据上下文\"not strong enough\"（不够坚固）和\"heavy trucks\"（重型卡车），可推测词义为\"倒塌\"。collapse意为\"倒塌、坍塌\"；appear出现；rise上升；shake摇晃（虽然可能，但collapse更符合\"不坚固+重载\"的语境）。解题技巧：利用上下文线索（因果、同义、反义）推测词义。",
       "label": "词汇题"
     },
     {
       "id": 6,
       "type": "vocabulary",
-      "knowledge_point": "prefix_suffix",
-      "difficulty": 2,
-      "stem": "If you are ______ with your current score, you should work harder to get a better result next time.",
+      "knowledge_point": "phrasal_verbs",
+      "difficulty": 1,
+      "stem": "Please ______ the lights when you leave the classroom to save electricity.",
       "options": [
-        "A. happy",
-        "B. unhappy",
-        "C. happily",
-        "D. unhappily"
+        "A. turn on",
+        "B. turn off",
+        "C. turn up",
+        "D. turn down"
       ],
       "correct_answer": "B",
-      "explanation": "本题考查形容词前缀及词性。\n语境：如果对当前分数不满意，应该更努力学习。be动词后接形容词作表语，排除C、D（副词）；根据句意，需要否定含义，un-是否定前缀，unhappy表示\"不满意的、不高兴的\"。\n干扰项分析：A意思相反；C、D是副词，不能作表语。\n前缀口诀：un-表否定，happy变unhappy；dis-也是否，like变dislike。",
+      "explanation": "选B。句意：离开教室时请关灯以节约用电。turn off关闭（电器）；turn on打开；turn up调高（音量）；turn down调低（音量）/拒绝。根据\"save electricity\"（节约用电）可知应选\"关闭\"。解题技巧：积累常见动词短语，注意介词/副词改变词义。",
       "label": "词汇题"
     },
     {
       "id": 7,
       "type": "vocabulary",
-      "knowledge_point": "phrasal_verbs",
+      "knowledge_point": "word_formation",
       "difficulty": 2,
-      "stem": "We should ______ our parents when they are old and can't take care of themselves.",
+      "stem": "It is ______ for us to protect the environment. We only have one Earth.",
       "options": [
-        "A. look for",
-        "B. look after",
-        "C. look up",
-        "D. look at"
+        "A. necessary",
+        "B. necessarily",
+        "C. necessity",
+        "D. necessarily"
       ],
-      "correct_answer": "B",
-      "explanation": "本题考查look短语辨析。\n语境：当父母年老无法自理时，我们应该\"照顾\"他们。look after = take care of，意为\"照顾\"。\n干扰项分析：look for寻找；look up查阅（词典）/抬头看；look at看（某物），均不符合\"赡养老人\"语境。\n短语记忆法：after有\"跟随、在...之后\"之意，look after就是跟随照看→照顾。",
+      "correct_answer": "A",
+      "explanation": "选A。句意：保护环境对我们来说是必要的。我们只有一个地球。句型\"It is + adj. + for sb. to do sth.\"需要形容词。necessary是形容词（必要的）；necessarily是副词；necessity是名词。解题技巧：分析句子结构，确定所需词性（系动词后接形容词）。",
       "label": "词汇题"
     },
     {
       "id": 8,
       "type": "cloze",
       "knowledge_point": "cloze_general",
-      "difficulty": 2,
+      "difficulty": 1,
       "stem": "(8)______",
       "options": [
-        "A. easy",
-        "B. difficult",
-        "C. important",
-        "D. boring"
+        "A. time",
+        "B. importance",
+        "C. reason",
+        "D. result"
       ],
-      "correct_answer": "C",
-      "explanation": "本题考查语境推理。前文提到学生们意识到环保的重要性，后文说\"they decided to take action\"，说明他们认为这件事很\"重要\"。\n干扰项分析：easy容易、difficult困难、boring无聊，均与decided to take action（决定采取行动）的逻辑不符。只有当事情重要时，才会决定行动。\n解题技巧：完形填空要注意上下文逻辑，后文的action是重要线索。",
+      "correct_answer": "B",
+      "explanation": "选B。句意：目标是帮助学生理解保护环境的重要性。根据上下文，学校开展项目是为了让学生理解环保的\"重要性\"（importance）。固定搭配\"the importance of...\"（……的重要性）。time时间；reason原因；result结果，均不符合语境。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school started a project called \"Green Campus, Green Future\". The students were asked to come up with ideas to make our school more environmentally friendly. At first, some students thought it would be (1)______ to change their daily habits. However, after watching a video about plastic pollution in the oceans, everyone realized how (8)______ it was to protect the environment. They decided to take action immediately. The first thing they did was to stop using plastic bottles. Instead, they brought their own reusable bottles from home. Some students also suggested setting up recycling bins in every classroom. The teachers were surprised by the students' enthusiasm and promised to (9)______ their plans. By the end of the month, the amount of plastic waste in our school had dropped by 40%. This project taught us that small changes can make a big (11)______ to our planet."
+      "group_passage": "Last month, our school started a new project called \"Green Campus\". The goal was to help students understand the (8)______ of protecting the environment. At first, many students didn't show much (9)______. They thought it was just another boring school activity.\n\nHowever, things changed when our science teacher, Mr. Wang, brought some interesting (10)______ to class. He showed us photos of polluted rivers and forests. He also told us that simple actions could make a big (11)______. For example, turning off lights when leaving classrooms and using both sides of paper could help save resources.\n\nNow, more and more students are joining the project. We have planted 50 trees around the school and set up a recycling station. Everyone feels (12)______ to be part of this meaningful activity."
     },
     {
       "id": 9,
@@ -139,34 +139,34 @@
       "difficulty": 2,
       "stem": "(9)______",
       "options": [
-        "A. support",
-        "B. refuse",
-        "C. forget",
-        "D. doubt"
+        "A. interest",
+        "B. courage",
+        "C. confidence",
+        "D. surprise"
       ],
       "correct_answer": "A",
-      "explanation": "本题考查语境逻辑。前文说老师们对学生们的热情感到惊讶（surprised by enthusiasm），根据逻辑，应该是\"支持\"他们的计划，而非拒绝、忘记或怀疑。\n固定搭配：support one's plans支持某人的计划。\n干扰项分析：refuse拒绝（与surprised by enthusiasm矛盾）；forget忘记（不合逻辑）；doubt怀疑（与积极语境不符）。\n解题技巧：情感线索很重要，enthusiasm（热情）通常导致积极回应。",
+      "explanation": "选A。句意：起初，许多学生没有表现出太大的兴趣。固定搭配\"show interest\"（表现出兴趣）。根据下文\"他们认为这只是另一个无聊的校园活动\"可知，学生们不感兴趣。courage勇气；confidence信心；surprise惊讶，均不符合语境逻辑。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school started a project called \"Green Campus, Green Future\". The students were asked to come up with ideas to make our school more environmentally friendly. At first, some students thought it would be (1)______ to change their daily habits. However, after watching a video about plastic pollution in the oceans, everyone realized how (8)______ it was to protect the environment. They decided to take action immediately. The first thing they did was to stop using plastic bottles. Instead, they brought their own reusable bottles from home. Some students also suggested setting up recycling bins in every classroom. The teachers were surprised by the students' enthusiasm and promised to (9)______ their plans. By the end of the month, the amount of plastic waste in our school had dropped by 40%. This project taught us that small changes can make a big (11)______ to our planet."
+      "group_passage": "Last month, our school started a new project called \"Green Campus\". The goal was to help students understand the (8)______ of protecting the environment. At first, many students didn't show much (9)______. They thought it was just another boring school activity.\n\nHowever, things changed when our science teacher, Mr. Wang, brought some interesting (10)______ to class. He showed us photos of polluted rivers and forests. He also told us that simple actions could make a big (11)______. For example, turning off lights when leaving classrooms and using both sides of paper could help save resources.\n\nNow, more and more students are joining the project. We have planted 50 trees around the school and set up a recycling station. Everyone feels (12)______ to be part of this meaningful activity."
     },
     {
       "id": 10,
       "type": "cloze",
       "knowledge_point": "cloze_general",
-      "difficulty": 1,
-      "stem": "(1)______",
+      "difficulty": 2,
+      "stem": "(10)______",
       "options": [
-        "A. easy",
-        "B. hard",
-        "C. fun",
-        "D. necessary"
+        "A. games",
+        "B. gifts",
+        "C. examples",
+        "D. materials"
       ],
-      "correct_answer": "B",
-      "explanation": "本题考查语境转折。后文有However（然而）转折，说明前面应该是与后文积极态度相反的负面/困难态度。change their daily habits（改变日常习惯）通常是\"困难的\"。\n干扰项分析：easy容易（与however转折逻辑不符）；fun有趣（非负面）；necessary必要（非负面）。\n解题技巧：however是转折信号词，前后态度相反。后文是积极行动，前文应该是消极/困难的态度。",
+      "correct_answer": "D",
+      "explanation": "选D。句意：然而，当科学王老师把一些有趣的材料带到课堂上时，情况改变了。根据下文\"他展示了污染河流和森林的照片\"可知，老师带来了教学\"材料\"（materials）。examples例子（后面已有具体例子说明）；games游戏；gifts礼物，均不符合教师授课场景。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school started a project called \"Green Campus, Green Future\". The students were asked to come up with ideas to make our school more environmentally friendly. At first, some students thought it would be (1)______ to change their daily habits. However, after watching a video about plastic pollution in the oceans, everyone realized how (8)______ it was to protect the environment. They decided to take action immediately. The first thing they did was to stop using plastic bottles. Instead, they brought their own reusable bottles from home. Some students also suggested setting up recycling bins in every classroom. The teachers were surprised by the students' enthusiasm and promised to (9)______ their plans. By the end of the month, the amount of plastic waste in our school had dropped by 40%. This project taught us that small changes can make a big (11)______ to our planet."
+      "group_passage": "Last month, our school started a new project called \"Green Campus\". The goal was to help students understand the (8)______ of protecting the environment. At first, many students didn't show much (9)______. They thought it was just another boring school activity.\n\nHowever, things changed when our science teacher, Mr. Wang, brought some interesting (10)______ to class. He showed us photos of polluted rivers and forests. He also told us that simple actions could make a big (11)______. For example, turning off lights when leaving classrooms and using both sides of paper could help save resources.\n\nNow, more and more students are joining the project. We have planted 50 trees around the school and set up a recycling station. Everyone feels (12)______ to be part of this meaningful activity."
     },
     {
       "id": 11,
@@ -175,16 +175,16 @@
       "difficulty": 2,
       "stem": "(11)______",
       "options": [
-        "A. mistake",
-        "B. decision",
+        "A. decision",
+        "B. mistake",
         "C. difference",
-        "D. progress"
+        "D. promise"
       ],
       "correct_answer": "C",
-      "explanation": "本题考查固定搭配。make a difference是固定短语，意为\"有影响、起作用\"。句意：小改变能对地球产生大影响。\n干扰项分析：make a mistake犯错误；make a decision做决定；make progress取得进步（progress不可数，不能说a progress）。\n解题技巧：记住常见搭配：make a difference（有影响）、make sense（有意义）、make progress（进步）。",
+      "explanation": "选C。句意：他还告诉我们简单的行动可以产生巨大影响。固定搭配\"make a big difference\"（产生重大影响、有很大作用）。decision决定；mistake错误；promise承诺，均无此搭配。根据下文举例（关灯、双面用纸）可知，这些小行为有大作用。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school started a project called \"Green Campus, Green Future\". The students were asked to come up with ideas to make our school more environmentally friendly. At first, some students thought it would be (1)______ to change their daily habits. However, after watching a video about plastic pollution in the oceans, everyone realized how (8)______ it was to protect the environment. They decided to take action immediately. The first thing they did was to stop using plastic bottles. Instead, they brought their own reusable bottles from home. Some students also suggested setting up recycling bins in every classroom. The teachers were surprised by the students' enthusiasm and promised to (9)______ their plans. By the end of the month, the amount of plastic waste in our school had dropped by 40%. This project taught us that small changes can make a big (11)______ to our planet."
+      "group_passage": "Last month, our school started a new project called \"Green Campus\". The goal was to help students understand the (8)______ of protecting the environment. At first, many students didn't show much (9)______. They thought it was just another boring school activity.\n\nHowever, things changed when our science teacher, Mr. Wang, brought some interesting (10)______ to class. He showed us photos of polluted rivers and forests. He also told us that simple actions could make a big (11)______. For example, turning off lights when leaving classrooms and using both sides of paper could help save resources.\n\nNow, more and more students are joining the project. We have planted 50 trees around the school and set up a recycling station. Everyone feels (12)______ to be part of this meaningful activity."
     },
     {
       "id": 12,
@@ -193,52 +193,52 @@
       "difficulty": 1,
       "stem": "(12)______",
       "options": [
-        "A. buying",
-        "B. collecting",
-        "C. recycling",
-        "D. making"
+        "A. sorry",
+        "B. proud",
+        "C. nervous",
+        "D. lonely"
       ],
-      "correct_answer": "C",
-      "explanation": "本题考查上下文呼应。前文提到setting up recycling bins（设置回收箱），所以此处应该是\"回收\"旧纸张和瓶子。\n干扰项分析：buying购买（与环保主题相反）；collecting收集（虽然相关，但前文明确提到recycling bins）；making制造（不符）。\n解题技巧：完形填空中，前文提到的关键词通常会在后文呼应，recycling是主题词。",
+      "correct_answer": "B",
+      "explanation": "选B。句意：每个人都为参与这项有意义的活动感到自豪。根据\"meaningful activity\"（有意义的活动）可知，情感色彩应为积极正面的。proud自豪的；sorry抱歉的；nervous紧张的；lonely孤独的。只有proud符合语境逻辑。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school started a project called \"Green Campus, Green Future\". The students were asked to come up with ideas to make our school more environmentally friendly. At first, some students thought it would be hard to change their daily habits. However, after watching a video about plastic pollution in the oceans, everyone realized how important it was to protect the environment. They decided to take action immediately. The first thing they did was to stop using plastic bottles. Instead, they brought their own reusable bottles from home. Some students also suggested setting up recycling bins in every classroom. The teachers were surprised by the students' enthusiasm and promised to support their plans. By the end of the month, the amount of plastic waste in our school had dropped by 40%. This project taught us that small changes can make a big difference to our planet. We also started (12)______ old paper and bottles to reduce waste."
+      "group_passage": "Last month, our school started a new project called \"Green Campus\". The goal was to help students understand the (8)______ of protecting the environment. At first, many students didn't show much (9)______. They thought it was just another boring school activity.\n\nHowever, things changed when our science teacher, Mr. Wang, brought some interesting (10)______ to class. He showed us photos of polluted rivers and forests. He also told us that simple actions could make a big (11)______. For example, turning off lights when leaving classrooms and using both sides of paper could help save resources.\n\nNow, more and more students are joining the project. We have planted 50 trees around the school and set up a recycling station. Everyone feels (12)______ to be part of this meaningful activity."
     },
     {
       "id": 13,
       "type": "reading",
       "knowledge_point": "detail",
-      "difficulty": 2,
-      "stem": "According to the passage, how many hours do Shenzhen teenagers spend on screens daily on average?",
+      "difficulty": 1,
+      "stem": "According to the passage, what percentage of Shenzhen teenagers spend over 6 hours on screens daily?",
       "options": [
-        "A. Less than 2 hours.",
-        "B. About 4 to 6 hours.",
-        "C. More than 8 hours.",
-        "D. About 2 to 3 hours."
+        "A. 20%",
+        "B. 40%",
+        "C. 60%",
+        "D. 80%"
       ],
-      "correct_answer": "B",
-      "explanation": "本题考查细节理解。根据文章第二段第一句\"A recent survey shows that teenagers in Shenzhen spend about 4 to 6 hours on screens every day\"可知，深圳青少年平均每天花4-6小时在电子屏幕上。\n干扰项分析：A选项少于2小时是专家建议的户外时间；C选项超过8小时是周末的极端情况；D选项2-3小时未提及。\n解题技巧：细节题要准确定位，注意数字、时间等具体信息，避免主观臆断。",
+      "correct_answer": "C",
+      "explanation": "选C。细节理解题。根据文章第一段第二句\"Studies show that about 60% of teenagers in Shenzhen spend more than 6 hours on screens every day.\"可知，60%的深圳青少年每天花超过6小时在屏幕上。解题技巧：细节题要定位关键词（百分比、数字），在原文中找到对应句子，注意同义替换（over=more than）。",
       "label": "阅读-细节理解",
       "group": "reading_1",
-      "group_passage": "In today's digital age, smartphones and computers have become an important part of students' lives. However, too much screen time can be harmful to both physical and mental health.\nA recent survey shows that teenagers in Shenzhen spend about 4 to 6 hours on screens every day, not including time for online classes. This number has increased by 30% compared to five years ago. Dr. Li Ming, a local eye doctor, is worried about this trend. He created the \"20-20-20\" rule to help students protect their eyesight: every 20 minutes, look at something 20 feet (about 6 meters) away for at least 20 seconds.\n\"The blue light from screens can cause eye strain and affect sleep quality,\" explains Dr. Li. \"Many students come to my clinic complaining of dry eyes and headaches.\" He suggests that students should spend at least 2 hours outdoors every day, as natural light is good for eye development.\nSome schools in Shenzhen have taken action. They have started \"Offline Reading Hours\" during lunch breaks, encouraging students to read paper books instead of using electronic devices. \"It's hard at first,\" says Wang Wei, a 14-year-old student. \"But now I enjoy the peace of reading without notifications (通知) popping up every minute.\"\nExperts agree that technology is useful, but balance is key. Parents should also set a good example by reducing their own screen time at home."
+      "group_passage": "Do your eyes often feel tired after using computers or phones? You are not alone. Studies show that about 60% of teenagers in Shenzhen spend more than 6 hours on screens every day. This can cause serious eye problems.\n\nDr. Li Ming, a famous eye doctor, suggests the \"20-20-20\" rule to protect our eyes. The rule is simple: every 20 minutes, look at something 20 feet (about 6 meters) away for at least 20 seconds. This gives your eye muscles a chance to relax.\n\nWhy does this work? When we stare at screens, we tend to blink less often. This makes our eyes dry and tired. Looking at distant objects helps our eyes focus differently and reduces strain. \"It's like giving your eyes a mini vacation,\" says Dr. Li.\n\nBesides following the 20-20-20 rule, we should also make sure our screens are not too bright or too dark. Getting enough sleep and eating vegetables rich in Vitamin A are also good for eye health.\n\nRemember, our eyes are precious. Once damaged, they are hard to repair. Start protecting them today!"
     },
     {
       "id": 14,
       "type": "reading",
       "knowledge_point": "inference",
       "difficulty": 3,
-      "stem": "What can we infer from Dr. Li Ming's \"20-20-20\" rule mentioned in Paragraph 3?",
+      "stem": "What can we infer from Dr. Li Ming's words \"It's like giving your eyes a mini vacation\"?",
       "options": [
-        "A. Students should use screens for only 20 minutes a day.",
-        "B. Looking at distant objects can help relax eye muscles.",
-        "C. Students must exercise for 20 seconds every 20 minutes.",
-        "D. The rule is designed to improve students' sleeping habits."
+        "A. We should travel more to protect our eyes.",
+        "B. The 20-20-20 rule helps eyes relax effectively.",
+        "C. Eyes need long holidays to recover from damage.",
+        "D. Looking at screens is like working at the office."
       ],
       "correct_answer": "B",
-      "explanation": "本题考查推理判断。20-20-20法则要求每20分钟看20英尺外的东西20秒，其原理是看远处物体可以让眼睛睫状肌放松，缓解视疲劳。\n干扰项分析：A错误，不是每天只用20分钟，而是每20分钟休息一次；C错误，不是锻炼身体，而是放松眼睛；D错误，虽然蓝光影响睡眠，但这个规则主要是保护视力（eyesight），而非直接改善睡眠。\n解题技巧：推理题要基于文本信息进行合理推断，不能过度推断，也不能只是原文复述。理解\"看远处\"与\"放松眼睛\"的因果关系是关键。",
+      "explanation": "选B。推理判断题。Dr. Li将遵循20-20-20规则比作\"给眼睛一个迷你假期\"，暗示这种方法能有效帮助眼睛放松。A项曲解原意（不是真的去旅行）；C项过度推断（mini vacation强调短暂休息，而非长期假期）；D项无关。解题技巧：理解比喻修辞的深层含义，结合上下文（前文提到\"给眼肌放松的机会\"）进行逻辑推理。",
       "label": "阅读-推理判断",
       "group": "reading_1",
-      "group_passage": "In today's digital age, smartphones and computers have become an important part of students' lives. However, too much screen time can be harmful to both physical and mental health.\nA recent survey shows that teenagers in Shenzhen spend about 4 to 6 hours on screens every day, not including time for online classes. This number has increased by 30% compared to five years ago. Dr. Li Ming, a local eye doctor, is worried about this trend. He created the \"20-20-20\" rule to help students protect their eyesight: every 20 minutes, look at something 20 feet (about 6 meters) away for at least 20 seconds.\n\"The blue light from screens can cause eye strain and affect sleep quality,\" explains Dr. Li. \"Many students come to my clinic complaining of dry eyes and headaches.\" He suggests that students should spend at least 2 hours outdoors every day, as natural light is good for eye development.\nSome schools in Shenzhen have taken action. They have started \"Offline Reading Hours\" during lunch breaks, encouraging students to read paper books instead of using electronic devices. \"It's hard at first,\" says Wang Wei, a 14-year-old student. \"But now I enjoy the peace of reading without notifications (通知) popping up every minute.\"\nExperts agree that technology is useful, but balance is key. Parents should also set a good example by reducing their own screen time at home."
+      "group_passage": "Do your eyes often feel tired after using computers or phones? You are not alone. Studies show that about 60% of teenagers in Shenzhen spend more than 6 hours on screens every day. This can cause serious eye problems.\n\nDr. Li Ming, a famous eye doctor, suggests the \"20-20-20\" rule to protect our eyes. The rule is simple: every 20 minutes, look at something 20 feet (about 6 meters) away for at least 20 seconds. This gives your eye muscles a chance to relax.\n\nWhy does this work? When we stare at screens, we tend to blink less often. This makes our eyes dry and tired. Looking at distant objects helps our eyes focus differently and reduces strain. \"It's like giving your eyes a mini vacation,\" says Dr. Li.\n\nBesides following the 20-20-20 rule, we should also make sure our screens are not too bright or too dark. Getting enough sleep and eating vegetables rich in Vitamin A are also good for eye health.\n\nRemember, our eyes are precious. Once damaged, they are hard to repair. Start protecting them today!"
     },
     {
       "id": 15,
@@ -247,34 +247,34 @@
       "difficulty": 2,
       "stem": "What does the underlined word \"strain\" in Paragraph 3 probably mean?",
       "options": [
-        "A. 力量 (power)",
-        "B. 紧张；疲劳 (tension; tiredness)",
-        "C. 保护 (protection)",
-        "D. 训练 (training)"
+        "A. 压力/疲劳",
+        "B. 快乐",
+        "C. 能量",
+        "D. 视力"
       ],
-      "correct_answer": "B",
-      "explanation": "本题考查词义猜测。根据上下文，蓝光会导致眼睛strain并影响睡眠，后文又提到学生抱怨眼睛干涩（dry eyes）和头痛（headaches），可推断strain是\"疲劳、紧张\"之意。eye strain即\"视疲劳\"。\n干扰项分析：A力量、C保护、D训练均不符合\"蓝光对眼睛的负面影响\"这一语境。\n解题技巧：词义猜测题要通过上下文线索（dry eyes, headaches）推断，注意同义/反义关系。",
+      "correct_answer": "A",
+      "explanation": "选A。词义猜测题。根据上下文，长时间盯着屏幕会让眼睛干涩疲劳（dry and tired），看远处物体有助于以不同方式聚焦并减少\"strain\"。由此可推知strain意为\"压力、疲劳、紧张\"。解题技巧：利用同义/近义线索（dry and tired → strain），通过因果关系（减少的是什么？减少的是疲劳）推测词义。",
       "label": "阅读-词义猜测",
       "group": "reading_1",
-      "group_passage": "In today's digital age, smartphones and computers have become an important part of students' lives. However, too much screen time can be harmful to both physical and mental health.\nA recent survey shows that teenagers in Shenzhen spend about 4 to 6 hours on screens every day, not including time for online classes. This number has increased by 30% compared to five years ago. Dr. Li Ming, a local eye doctor, is worried about this trend. He created the \"20-20-20\" rule to help students protect their eyesight: every 20 minutes, look at something 20 feet (about 6 meters) away for at least 20 seconds.\n\"The blue light from screens can cause eye strain and affect sleep quality,\" explains Dr. Li. \"Many students come to my clinic complaining of dry eyes and headaches.\" He suggests that students should spend at least 2 hours outdoors every day, as natural light is good for eye development.\nSome schools in Shenzhen have taken action. They have started \"Offline Reading Hours\" during lunch breaks, encouraging students to read paper books instead of using electronic devices. \"It's hard at first,\" says Wang Wei, a 14-year-old student. \"But now I enjoy the peace of reading without notifications (通知) popping up every minute.\"\nExperts agree that technology is useful, but balance is key. Parents should also set a good example by reducing their own screen time at home."
+      "group_passage": "Do your eyes often feel tired after using computers or phones? You are not alone. Studies show that about 60% of teenagers in Shenzhen spend more than 6 hours on screens every day. This can cause serious eye problems.\n\nDr. Li Ming, a famous eye doctor, suggests the \"20-20-20\" rule to protect our eyes. The rule is simple: every 20 minutes, look at something 20 feet (about 6 meters) away for at least 20 seconds. This gives your eye muscles a chance to relax.\n\nWhy does this work? When we stare at screens, we tend to blink less often. This makes our eyes dry and tired. Looking at distant objects helps our eyes focus differently and reduces strain. \"It's like giving your eyes a mini vacation,\" says Dr. Li.\n\nBesides following the 20-20-20 rule, we should also make sure our screens are not too bright or too dark. Getting enough sleep and eating vegetables rich in Vitamin A are also good for eye health.\n\nRemember, our eyes are precious. Once damaged, they are hard to repair. Start protecting them today!"
     },
     {
       "id": 16,
       "type": "reading",
       "knowledge_point": "main_idea",
-      "difficulty": 3,
+      "difficulty": 2,
       "stem": "What is the best title for this passage?",
       "options": [
-        "A. The History of Smartphones",
-        "B. Dr. Li Ming's Medical Career",
-        "C. How to Reduce Screen Time for Teenagers",
-        "D. The Benefits of Digital Technology"
+        "A. The History of Eye Glasses",
+        "B. How to Use Computers Safely",
+        "C. The 20-20-20 Rule for Eye Health",
+        "D. Teenagers' Bad Habits in Shenzhen"
       ],
       "correct_answer": "C",
-      "explanation": "本题考查主旨大意。文章主要讨论了深圳青少年屏幕时间过长的问题，以及医生和学校采取的应对措施（20-20-20法则、离线阅读时间等），核心是\"如何减少屏幕时间\"。\n干扰项分析：A智能手机的历史（未提及）；B李医生的职业生涯（片面）；D数字技术的好处（与文章强调过度使用有害的主旨相反）。\n解题技巧：主旨题要概括全文，不能片面。出现频率高的关键词（screen time, teenagers, reduce, protect）是重要线索。",
+      "explanation": "选C。主旨大意题。文章围绕20-20-20护眼法则展开，介绍了其内容、原理及其他护眼建议。A项（眼镜历史）文中未提；B项（如何安全使用电脑）范围过宽，未突出核心内容；D项（深圳青少年的坏习惯）过于负面且片面。解题技巧：标题要涵盖核心话题（eye health）和核心建议（20-20-20 rule），体现文章主要内容而非细节。",
       "label": "阅读-主旨大意",
       "group": "reading_1",
-      "group_passage": "In today's digital age, smartphones and computers have become an important part of students' lives. However, too much screen time can be harmful to both physical and mental health.\nA recent survey shows that teenagers in Shenzhen spend about 4 to 6 hours on screens every day, not including time for online classes. This number has increased by 30% compared to five years ago. Dr. Li Ming, a local eye doctor, is worried about this trend. He created the \"20-20-20\" rule to help students protect their eyesight: every 20 minutes, look at something 20 feet (about 6 meters) away for at least 20 seconds.\n\"The blue light from screens can cause eye strain and affect sleep quality,\" explains Dr. Li. \"Many students come to my clinic complaining of dry eyes and headaches.\" He suggests that students should spend at least 2 hours outdoors every day, as natural light is good for eye development.\nSome schools in Shenzhen have taken action. They have started \"Offline Reading Hours\" during lunch breaks, encouraging students to read paper books instead of using electronic devices. \"It's hard at first,\" says Wang Wei, a 14-year-old student. \"But now I enjoy the peace of reading without notifications (通知) popping up every minute.\"\nExperts agree that technology is useful, but balance is key. Parents should also set a good example by reducing their own screen time at home."
+      "group_passage": "Do your eyes often feel tired after using computers or phones? You are not alone. Studies show that about 60% of teenagers in Shenzhen spend more than 6 hours on screens every day. This can cause serious eye problems.\n\nDr. Li Ming, a famous eye doctor, suggests the \"20-20-20\" rule to protect our eyes. The rule is simple: every 20 minutes, look at something 20 feet (about 6 meters) away for at least 20 seconds. This gives your eye muscles a chance to relax.\n\nWhy does this work? When we stare at screens, we tend to blink less often. This makes our eyes dry and tired. Looking at distant objects helps our eyes focus differently and reduces strain. \"It's like giving your eyes a mini vacation,\" says Dr. Li.\n\nBesides following the 20-20-20 rule, we should also make sure our screens are not too bright or too dark. Getting enough sleep and eating vegetables rich in Vitamin A are also good for eye health.\n\nRemember, our eyes are precious. Once damaged, they are hard to repair. Start protecting them today!"
     },
     {
       "id": 17,
@@ -283,17 +283,17 @@
       "difficulty": 2,
       "stem": "(17)______",
       "options": [
-        "A. However",
-        "B. First of all",
-        "C. In addition",
-        "D. As a result",
-        "E. For example"
+        "A. This means sleeping well helps you remember better.",
+        "B. However, it is not difficult to improve your memory with the right methods.",
+        "C. Finally, don't forget to exercise regularly.",
+        "D. This is because colors help create strong connections in our brains.",
+        "E. On the other hand, watching TV is bad for memory."
       ],
       "correct_answer": "B",
-      "explanation": "本题考查段落衔接。空格后是\"Make a list of all your hobbies and number them by importance\"（列出爱好并按重要性排序），这是具体的第一步建议。First of all（首先）用于列举第一条建议，符合逻辑。\n干扰项分析：However表转折（前后无对比）；In addition表递进（前面无内容，无法递进）；As a result表结果（前面无原因）；For example表举例（后面是步骤而非例子）。\n解题技巧：列举顺序词First... Then... Finally...是常考点，注意区分。",
+      "explanation": "选B。前文提到\"许多学生抱怨记不住学过的东西\"，后文用\"Here are some useful tips\"（以下是一些有用建议）引出解决方法。因此此处需要转折过渡，表明\"但用对方法就不难改善\"。However承接上文的抱怨，引出下文的解决方案，起到承上启下的作用。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Many middle school students find it difficult to balance their studies and hobbies. They often feel stressed because they don't have enough time for both. (17)______, you need to know what really matters to you. Make a list of all your hobbies and number them by importance. This helps you decide which activities to keep when time is limited. (18)______, talk to your parents and teachers about your schedule. They can give you useful advice on how to manage your time better. (19)______, don't try to do everything perfectly. It's okay to focus on your studies during exam weeks and spend more time on hobbies during holidays. (20)______, you will find a good balance between schoolwork and fun activities."
+      "group_passage": "Many students complain that they cannot remember what they have learned. (17)______ Here are some useful tips.\n\nFirst, get enough sleep. Research shows that our brains process information during sleep. (18)______ So, never stay up too late before exams.\n\nSecond, use colorful notes. When we write key points in different colors, our brains find it easier to remember them. (19)______ Try using yellow for important definitions and blue for examples.\n\n(20)______ Physical exercise increases blood flow to the brain, which helps improve memory. Even a 10-minute walk after studying can make a difference."
     },
     {
       "id": 18,
@@ -302,17 +302,17 @@
       "difficulty": 2,
       "stem": "(18)______",
       "options": [
-        "A. However",
-        "B. First of all",
-        "C. In addition",
-        "D. As a result",
-        "E. For example"
+        "A. This means sleeping well helps you remember better.",
+        "B. However, it is not difficult to improve your memory with the right methods.",
+        "C. Finally, don't forget to exercise regularly.",
+        "D. This is because colors help create strong connections in our brains.",
+        "E. On the other hand, watching TV is bad for memory."
       ],
-      "correct_answer": "C",
-      "explanation": "本题考查逻辑关系。前文讲了第一条建议（First of all...），此处是第二条建议（与父母老师谈话），是补充性的建议。In addition（此外、另外）用于添加并列信息，符合逻辑。\n干扰项分析：However转折不符；First of all已经用过；As a result结果不符；For example举例不符（后面是建议而非例子）。\n解题技巧：In addition/Also/Besides都表递进，用于添加同类信息。",
+      "correct_answer": "A",
+      "explanation": "选A。前文提到\"研究表明大脑在睡眠期间处理信息\"，此处需要解释这意味着什么。A项\"这意味着睡好觉有助于你更好地记忆\"恰好解释前文研究的含义，并与下文\"因此考前不要熬夜\"形成因果逻辑。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Many middle school students find it difficult to balance their studies and hobbies. They often feel stressed because they don't have enough time for both. (17)______, you need to know what really matters to you. Make a list of all your hobbies and number them by importance. This helps you decide which activities to keep when time is limited. (18)______, talk to your parents and teachers about your schedule. They can give you useful advice on how to manage your time better. (19)______, don't try to do everything perfectly. It's okay to focus on your studies during exam weeks and spend more time on hobbies during holidays. (20)______, you will find a good balance between schoolwork and fun activities."
+      "group_passage": "Many students complain that they cannot remember what they have learned. (17)______ Here are some useful tips.\n\nFirst, get enough sleep. Research shows that our brains process information during sleep. (18)______ So, never stay up too late before exams.\n\nSecond, use colorful notes. When we write key points in different colors, our brains find it easier to remember them. (19)______ Try using yellow for important definitions and blue for examples.\n\n(20)______ Physical exercise increases blood flow to the brain, which helps improve memory. Even a 10-minute walk after studying can make a difference."
     },
     {
       "id": 19,
@@ -321,17 +321,17 @@
       "difficulty": 2,
       "stem": "(19)______",
       "options": [
-        "A. However",
-        "B. First of all",
-        "C. In addition",
-        "D. As a result",
-        "E. For example"
+        "A. This means sleeping well helps you remember better.",
+        "B. However, it is not difficult to improve your memory with the right methods.",
+        "C. Finally, don't forget to exercise regularly.",
+        "D. This is because colors help create strong connections in our brains.",
+        "E. On the other hand, watching TV is bad for memory."
       ],
-      "correct_answer": "A",
-      "explanation": "本题考查转折关系。前文讲要与父母沟通、寻求建议，后文说\"不要试图把每件事都做到完美\"，语气有轻微转折（从积极寻求建议转到接受不完美）。However（然而）符合逻辑。\n也可理解为：前面是具体行动建议，这里转到心态调整，有转折意味。\n干扰项分析：First of all/In addition都表顺序或递进，与后文\"don't try\"的否定建议衔接不够自然；As a result结果不符；For example举例不符。\n解题技巧：However表转折，前后内容通常有对比或语气变化。",
+      "correct_answer": "D",
+      "explanation": "选D。本段主题是\"使用彩色笔记\"。前文说\"用不同颜色写要点，大脑更容易记住\"，此处需要解释原因。D项\"这是因为颜色有助于在大脑中建立牢固的联系\"解释了彩色笔记为何有效，关键词colors与前文呼应。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Many middle school students find it difficult to balance their studies and hobbies. They often feel stressed because they don't have enough time for both. (17)______, you need to know what really matters to you. Make a list of all your hobbies and number them by importance. This helps you decide which activities to keep when time is limited. (18)______, talk to your parents and teachers about your schedule. They can give you useful advice on how to manage your time better. (19)______, don't try to do everything perfectly. It's okay to focus on your studies during exam weeks and spend more time on hobbies during holidays. (20)______, you will find a good balance between schoolwork and fun activities."
+      "group_passage": "Many students complain that they cannot remember what they have learned. (17)______ Here are some useful tips.\n\nFirst, get enough sleep. Research shows that our brains process information during sleep. (18)______ So, never stay up too late before exams.\n\nSecond, use colorful notes. When we write key points in different colors, our brains find it easier to remember them. (19)______ Try using yellow for important definitions and blue for examples.\n\n(20)______ Physical exercise increases blood flow to the brain, which helps improve memory. Even a 10-minute walk after studying can make a difference."
     },
     {
       "id": 20,
@@ -340,17 +340,17 @@
       "difficulty": 2,
       "stem": "(20)______",
       "options": [
-        "A. However",
-        "B. First of all",
-        "C. In addition",
-        "D. As a result",
-        "E. For example"
+        "A. This means sleeping well helps you remember better.",
+        "B. However, it is not difficult to improve your memory with the right methods.",
+        "C. Finally, don't forget to exercise regularly.",
+        "D. This is because colors help create strong connections in our brains.",
+        "E. On the other hand, watching TV is bad for memory."
       ],
-      "correct_answer": "D",
-      "explanation": "本题考查因果关系。前文讲了具体建议（列清单、沟通、接受不完美），后文说\"你会找到平衡\"，这是前文建议产生的\"结果\"。As a result（因此、结果）符合逻辑。\n干扰项分析：However转折不符；First of all顺序不符；In addition递进不符；For example举例不符。\n解题技巧：As a result/Therefore/So都表结果，通常用于总结或说明后果。",
+      "correct_answer": "C",
+      "explanation": "选C。前文用了First... Second... 结构，此处应是最后一点建议，用Finally引出。下文提到\"体育锻炼增加脑部血流量\"，因此C项\"最后，别忘了定期锻炼\"作为主题句最合适。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Many middle school students find it difficult to balance their studies and hobbies. They often feel stressed because they don't have enough time for both. (17)______, you need to know what really matters to you. Make a list of all your hobbies and number them by importance. This helps you decide which activities to keep when time is limited. (18)______, talk to your parents and teachers about your schedule. They can give you useful advice on how to manage your time better. (19)______, don't try to do everything perfectly. It's okay to focus on your studies during exam weeks and spend more time on hobbies during holidays. (20)______, you will find a good balance between schoolwork and fun activities."
+      "group_passage": "Many students complain that they cannot remember what they have learned. (17)______ Here are some useful tips.\n\nFirst, get enough sleep. Research shows that our brains process information during sleep. (18)______ So, never stay up too late before exams.\n\nSecond, use colorful notes. When we write key points in different colors, our brains find it easier to remember them. (19)______ Try using yellow for important definitions and blue for examples.\n\n(20)______ Physical exercise increases blood flow to the brain, which helps improve memory. Even a 10-minute walk after studying can make a difference."
     }
   ]
 }
