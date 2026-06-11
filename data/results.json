@@ -431,60 +431,6 @@
   ],
   "errors": [
     {
-      "date": "2026-06-01",
-      "session": 1,
-      "question_id": 4,
-      "type": "grammar",
-      "knowledge_point": "comparative_degree",
-      "label": "语法题",
-      "stem": "Tom is ______ than any other student in his class. He is the best basketball player.",
-      "options": [
-        "A. tall",
-        "B. taller",
-        "C. tallest",
-        "D. the tallest"
-      ],
-      "correct_answer": "B",
-      "student_answer": "C",
-      "explanation": "本题考查形容词比较级。句中有'than'（比），这是比较级的标志词，因此用taller。A是原级；C和D是最高级，用于三者或以上比较（常与in/of短语连用）。句型'比较级+than+any other+名词单数'表示'比其他任何……都……'，表达最高级含义。技巧：看到than就选比较级（-er/more）。"
-    },
-    {
-      "date": "2026-06-01",
-      "session": 1,
-      "question_id": 8,
-      "type": "cloze",
-      "knowledge_point": "cloze_context",
-      "label": "完形填空",
-      "stem": "(1)______",
-      "options": [
-        "A. using",
-        "B. collecting",
-        "C. sorting",
-        "D. making"
-      ],
-      "correct_answer": "C",
-      "student_answer": "B",
-      "explanation": "本题考查语境推理。前文提到'plastic bottle recycling'（塑料瓶回收）和'special bins'（专用垃圾桶），后文说'They just threw bottles anywhere'（他们到处乱扔瓶子），说明学生们没有正确'分类'。sort意为'分类，整理'；use使用；collect收集；make制造。根据回收语境，sort...correctly（正确分类）最符合逻辑。"
-    },
-    {
-      "date": "2026-06-01",
-      "session": 1,
-      "question_id": 10,
-      "type": "cloze",
-      "knowledge_point": "cloze_collocation",
-      "label": "完形填空",
-      "stem": "(3)______",
-      "options": [
-        "A. donate",
-        "B. sell",
-        "C. send",
-        "D. show"
-      ],
-      "correct_answer": "C",
-      "student_answer": "A",
-      "explanation": "本题考查动词辨析及语境理解。send...to...意为'把……送到……'；donate捐赠（通常搭配to charity）；sell卖；show展示。根据语境'我们把瓶子送到回收中心'，send最符合逻辑，表示运送的动作。donate虽然语义相关，但通常指直接捐赠给需要的人或机构，而回收中心是处理站，用send更准确。"
-    },
-    {
       "date": "2026-06-03",
       "session": 1,
       "question_id": 9,
