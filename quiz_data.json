@@ -1,5 +1,5 @@
 ﻿{
-  "date": "2026-06-12",
+  "date": "2026-06-13",
   "session_number": 1,
   "questions": [
     {
@@ -7,15 +7,15 @@
       "type": "grammar",
       "knowledge_point": "present_perfect_vs_past_simple",
       "difficulty": 2,
-      "stem": "—______ you ever ______ to the Shenzhen Science Museum?\n—Yes, I ______ there last month.",
+      "stem": "—I ______ the film twice. It's really exciting.\n—Oh, really? When ______ you ______ it for the first time?",
       "options": [
-        "A. Did; go; went",
-        "B. Have; been; went",
-        "C. Have; gone; have been",
-        "D. Do; go; went"
+        "A. have seen; did; see",
+        "B. saw; have; seen",
+        "C. have seen; have; seen",
+        "D. saw; did; see"
       ],
-      "correct_answer": "B",
-      "explanation": "第一空和第二空考查现在完成时，'ever'是现在完成时的标志词，表示'曾经'，且人已经回来，用have been to；第三空有明确过去时间状语last month，用一般过去时went。A选项第一空用Did构成一般过去时疑问句，但ever通常与完成时连用；C选项第二空have gone to表示去了未回，与答句矛盾；D选项时态均不正确。",
+      "correct_answer": "A",
+      "explanation": "第一空用现在完成时have seen，表示\"已经看过两次\"，强调对现在的影响（知道电影内容）；第二空用一般过去时did...see，询问\"第一次看\"的具体过去时间，有明确过去时间状语时用过去时。技巧：遇到twice/ever/never用现完；遇到when/just now/yesterday用过去时。",
       "label": "语法题"
     },
     {
@@ -23,113 +23,113 @@
       "type": "grammar",
       "knowledge_point": "relative_clause_who_which",
       "difficulty": 2,
-      "stem": "The book _______ cover is red belongs to Bosco.",
+      "stem": "The boy ______ is standing under the tree is my cousin. He is holding a book ______ cover is red.",
       "options": [
-        "A. who",
-        "B. which",
-        "C. whose",
-        "D. that"
+        "A. who; which",
+        "B. which; who",
+        "C. who; whose",
+        "D. whom; which"
       ],
       "correct_answer": "C",
-      "explanation": "考查定语从句关系代词。先行词是the book，从句中cover（封面）与book是所属关系，需要用whose表示'……的'，相当于the cover of which。who指人；which和that在从句中作主语或宾语，不能表示所属关系。",
+      "explanation": "第一空先行词boy指人，且在从句中作主语，用who；第二空cover与book是所属关系（书的封面），用whose表示\"……的\"。which指物，whom指人作宾语。技巧：空格后紧跟名词（cover）且表所属，优先选whose。",
       "label": "语法题"
     },
     {
       "id": 3,
       "type": "grammar",
       "knowledge_point": "passive_voice",
-      "difficulty": 1,
-      "stem": "The environment _______ by all of us.",
+      "difficulty": 3,
+      "stem": "The new bridge ______ by the end of last year, but the access road ______ yet due to the heavy rain.",
       "options": [
-        "A. should protect",
-        "B. should be protected",
-        "C. be protected",
-        "D. is protecting"
+        "A. had been completed; hasn't been built",
+        "B. was completed; hasn't built",
+        "C. has been completed; wasn't built",
+        "D. completed; hasn't been built"
       ],
-      "correct_answer": "B",
-      "explanation": "考查含有情态动词的被动语态。结构为：情态动词 + be + 过去分词。environment与protect是被动关系，'环境应该被保护'。A选项是主动语态；C选项缺少情态动词；D选项时态和语态均错误。",
+      "correct_answer": "A",
+      "explanation": "第一空by the end of last year（到去年底为止）是过去完成时的标志，且bridge与complete是被动关系，用had been completed；第二空yet（还）是现在完成时标志，road与build是被动关系，用hasn't been built。技巧：by+过去时间用过去完成时被动；yet/already用现在完成时。",
       "label": "语法题"
     },
     {
       "id": 4,
       "type": "grammar",
       "knowledge_point": "object_clause",
-      "difficulty": 3,
-      "stem": "Could you tell me _______?",
+      "difficulty": 1,
+      "stem": "Could you tell me ______? I want to buy some stamps.",
       "options": [
-        "A. where is the nearest library",
-        "B. where the nearest library is",
-        "C. where does the nearest library locate",
-        "D. where the nearest library located"
+        "A. where is the nearest post office",
+        "B. where the nearest post office is",
+        "C. where was the nearest post office",
+        "D. where does the nearest post office lie"
       ],
       "correct_answer": "B",
-      "explanation": "考查宾语从句语序。宾语从句必须使用陈述句语序（主语+谓语），不能用疑问句语序。A和C选项使用了疑问句语序（is/does在主语前）；D选项缺少助动词，且locate用法错误，应用is located。B选项the nearest library为主语，is为谓语，符合陈述句语序。",
+      "explanation": "宾语从句必须用陈述语序（主语+谓语），排除A、C、D的疑问语序。技巧：宾从陈述语序口诀——\"宾从后面用陈述，主语谓语不颠倒，疑问词前移别忘掉，时态人称要配套\"。",
       "label": "语法题"
     },
     {
       "id": 5,
       "type": "vocabulary",
-      "knowledge_point": "phrasal_verbs",
-      "difficulty": 1,
-      "stem": "We are looking forward to _______ you again.",
+      "knowledge_point": "word_meaning_context",
+      "difficulty": 2,
+      "stem": "The old building is so dilapidated that it might ______ at any time. We should stay away from it.",
       "options": [
-        "A. see",
-        "B. seeing",
-        "C. saw",
-        "D. seen"
+        "A. establish",
+        "B. collapse",
+        "C. construct",
+        "D. shake"
       ],
       "correct_answer": "B",
-      "explanation": "考查固定搭配look forward to的用法。其中to是介词，后面必须接名词或动名词（doing形式），表示'期待做某事'。A是动词原形；C是过去式；D是过去分词，均不符合搭配要求。",
+      "explanation": "根据上下文\"老建筑\"\"应该远离\"，可知是\"倒塌\"之意。collapse意为\"倒塌\"；establish建立；construct建造；shake摇晃（不及物时需加介词）。技巧：利用上下文情感色彩（危险、远离）推断词义，建筑老旧+危险=倒塌。",
       "label": "词汇题"
     },
     {
       "id": 6,
       "type": "vocabulary",
-      "knowledge_point": "word_meaning",
-      "difficulty": 2,
-      "stem": "The old photo always _______ me of my happy childhood.",
+      "knowledge_point": "phrasal_verbs",
+      "difficulty": 1,
+      "stem": "We should ______ our old clothes to charity instead of throwing them away. It's a good way to help others.",
       "options": [
-        "A. remembers",
-        "B. reminds",
-        "C. recalls",
-        "D. reviews"
+        "A. put up",
+        "B. give away",
+        "C. hand in",
+        "D. take off"
       ],
       "correct_answer": "B",
-      "explanation": "考查动词辨析和固定搭配。remind sb. of sth.是固定搭配，表示'使某人想起某事'。remember后直接接宾语，不与of搭配；recall表示'回忆起'，主语通常是人；review表示'复习'，不符合句意。",
+      "explanation": "give away捐赠；put up张贴/搭建；hand in上交；take off起飞/脱下。根据\"给慈善机构\"\"帮助他人\"可知选give away。技巧：give away有两层意思——\"赠送\"和\"泄露\"，根据语境\"旧衣服+慈善\"确定为\"赠送\"。",
       "label": "词汇题"
     },
     {
       "id": 7,
       "type": "vocabulary",
-      "knowledge_point": "word_guessing_context",
+      "knowledge_point": "word_formation",
       "difficulty": 2,
-      "stem": "If you are _______ with your current grade, you should work harder to get a better one next time.",
+      "stem": "It is ______ for humans to live on Mars without special equipment because there is no oxygen there.",
       "options": [
-        "A. satisfied",
-        "B. dissatisfied",
-        "C. excited",
-        "D. interested"
+        "A. possible",
+        "B. impossible",
+        "C. possibly",
+        "D. possibility"
       ],
       "correct_answer": "B",
-      "explanation": "考查语境中的词义辨析。根据后半句'应该更努力学习以取得更好成绩'可推断，前半句意为'如果你对当前成绩不满意'。be dissatisfied with表示'对……不满意'；satisfied（满意）与句意相反；excited（兴奋）和interested（感兴趣）不符合逻辑。",
+      "explanation": "系动词is后接形容词作表语，排除C（副词）、D（名词）；根据\"没有氧气\"可知是\"不可能的\"，选impossible（im-是否定前缀）。技巧：-ible/-able形容词后缀，im-/in-/un-否定前缀，根据常识（火星无氧气）确定否定含义。",
       "label": "词汇题"
     },
     {
       "id": 8,
       "type": "cloze",
       "knowledge_point": "cloze_general",
-      "difficulty": 2,
+      "difficulty": 1,
       "group": "cloze_1",
-      "group_passage": "Last year, our school started an environmental project called \"Green Campus\". The students were asked to (8)______ a small garden behind the library. At first, many of us thought it would be boring. However, as we started working together, we found it quite (9)______.\n\nWe first cleaned the area and removed the rubbish. Then the biology teacher taught us how to plant flowers and vegetables. She told us that plants need not only water but also love and (10)______. Every afternoon after class, we would go there to water the plants and record their growth.\n\nTwo months later, our garden became beautiful. We (11)______ many fresh vegetables and colorful flowers. The most exciting part was that we could sell the vegetables and donate the money to charity. This project not only improved our school environment (12)______ taught us the value of teamwork.",
+      "group_passage": "Last month, our school started a green project called \"Zero Waste Classroom\". The idea was simple: each class would try to produce as little rubbish as possible over four weeks.\n\nAt first, many students thought it would be (8)______. However, we soon realized how much waste we (9)______ every day. Plastic bottles, paper towels, and food packaging were the main problems. Our teacher, Mr. Zhang, suggested we bring reusable containers from home. He also asked us to sort the rubbish into different bins (10)______ we wanted to win the competition.\n\nThe most challenging part was changing our habits. Some students forgot to bring their water bottles and had to buy drinks in plastic bottles. Others didn't want to (11)______ time sorting rubbish. (12)______, everyone began to understand the importance of the project gradually. By the end of the second week, our class was producing 50% less waste than before.\n\nOn the final day, we had a ceremony to celebrate our success. Although not every class won, we all learned valuable lessons about protecting the environment.",
       "stem": "(8)______",
       "options": [
-        "A. destroy",
-        "B. create",
-        "C. remove",
-        "D. protect"
+        "A. difficult",
+        "B. easy",
+        "C. boring",
+        "D. important"
       ],
       "correct_answer": "B",
-      "explanation": "考查语境推理。根据上文'启动环保项目'和下文'小花园'可知，学生们被要求'创建'一个花园。create表示'创建、建造'；destroy（破坏）和remove（移除）与语境相反；protect（保护）不符合初始阶段的语境。",
+      "explanation": "根据下文However（转折）\"我们很快意识到每天产生多少垃圾\"，可知起初学生们以为会很\"简单\"，与后文形成对比。difficult困难的与文意相反；boring无聊的/important重要的与转折逻辑不符。技巧：however是转折信号词，前后句意相反，后文说\"意识到困难\"，前文则填\"简单\"。",
       "label": "完形填空"
     },
     {
@@ -138,32 +138,34 @@
       "knowledge_point": "cloze_general",
       "difficulty": 2,
       "group": "cloze_1",
+      "group_passage": "Last month, our school started a green project called \"Zero Waste Classroom\". The idea was simple: each class would try to produce as little rubbish as possible over four weeks.\n\nAt first, many students thought it would be (8)______. However, we soon realized how much waste we (9)______ every day. Plastic bottles, paper towels, and food packaging were the main problems. Our teacher, Mr. Zhang, suggested we bring reusable containers from home. He also asked us to sort the rubbish into different bins (10)______ we wanted to win the competition.\n\nThe most challenging part was changing our habits. Some students forgot to bring their water bottles and had to buy drinks in plastic bottles. Others didn't want to (11)______ time sorting rubbish. (12)______, everyone began to understand the importance of the project gradually. By the end of the second week, our class was producing 50% less waste than before.\n\nOn the final day, we had a ceremony to celebrate our success. Although not every class won, we all learned valuable lessons about protecting the environment.",
       "stem": "(9)______",
       "options": [
-        "A. difficult",
-        "B. boring",
-        "C. enjoyable",
-        "D. strange"
+        "A. created",
+        "B. collected",
+        "C. reduced",
+        "D. recycled"
       ],
-      "correct_answer": "C",
-      "explanation": "考查情感线索和转折关系。上文提到'起初觉得无聊'，However（然而）表示转折，说明实际感受与boring相反，enjoyable（令人愉快的）符合语境。difficult（困难）和strange（奇怪）未体现转折；boring与上文重复且逻辑矛盾。",
+      "correct_answer": "A",
+      "explanation": "create waste产生/制造垃圾，是固定搭配。collect收集；reduce减少（与文意矛盾，后文才讲减少）；recycle回收（此处强调意识到\"产生\"多少垃圾）。技巧：waste常与create/produce/generate搭配表示\"产生垃圾\"，与reduce搭配表示\"减少垃圾\"，注意上下文时间线（先意识到产生，后才减少）。",
       "label": "完形填空"
     },
     {
       "id": 10,
       "type": "cloze",
       "knowledge_point": "cloze_general",
-      "difficulty": 1,
+      "difficulty": 2,
       "group": "cloze_1",
+      "group_passage": "Last month, our school started a green project called \"Zero Waste Classroom\". The idea was simple: each class would try to produce as little rubbish as possible over four weeks.\n\nAt first, many students thought it would be (8)______. However, we soon realized how much waste we (9)______ every day. Plastic bottles, paper towels, and food packaging were the main problems. Our teacher, Mr. Zhang, suggested we bring reusable containers from home. He also asked us to sort the rubbish into different bins (10)______ we wanted to win the competition.\n\nThe most challenging part was changing our habits. Some students forgot to bring their water bottles and had to buy drinks in plastic bottles. Others didn't want to (11)______ time sorting rubbish. (12)______, everyone began to understand the importance of the project gradually. By the end of the second week, our class was producing 50% less waste than before.\n\nOn the final day, we had a ceremony to celebrate our success. Although not every class won, we all learned valuable lessons about protecting the environment.",
       "stem": "(10)______",
       "options": [
-        "A. care",
-        "B. money",
-        "C. space",
-        "D. soil"
+        "A. if",
+        "B. unless",
+        "C. until",
+        "D. though"
       ],
       "correct_answer": "A",
-      "explanation": "考查语境理解和固定搭配。老师告诉学生植物不仅需要水，还需要爱和'关心'。care（关心、照料）与love并列，符合种植语境；money（金钱）与下文捐赠情节重复且不符合逻辑；space（空间）和soil（土壤）虽然是植物所需，但与'love'情感词汇不并列。",
+      "explanation": "if引导条件状语从句，\"如果想赢得比赛，就要分类垃圾\"。unless除非（=if not），代入逻辑相反；until直到；though尽管（让步）。技巧：根据句意\"分类垃圾\"是\"赢得比赛\"的条件，用if表条件；unless是陷阱，除非=如果不，代入后意为\"如果不想赢\"，与积极语境不符。",
       "label": "完形填空"
     },
     {
@@ -172,15 +174,16 @@
       "knowledge_point": "cloze_general",
       "difficulty": 2,
       "group": "cloze_1",
+      "group_passage": "Last month, our school started a green project called \"Zero Waste Classroom\". The idea was simple: each class would try to produce as little rubbish as possible over four weeks.\n\nAt first, many students thought it would be (8)______. However, we soon realized how much waste we (9)______ every day. Plastic bottles, paper towels, and food packaging were the main problems. Our teacher, Mr. Zhang, suggested we bring reusable containers from home. He also asked us to sort the rubbish into different bins (10)______ we wanted to win the competition.\n\nThe most challenging part was changing our habits. Some students forgot to bring their water bottles and had to buy drinks in plastic bottles. Others didn't want to (11)______ time sorting rubbish. (12)______, everyone began to understand the importance of the project gradually. By the end of the second week, our class was producing 50% less waste than before.\n\nOn the final day, we had a ceremony to celebrate our success. Although not every class won, we all learned valuable lessons about protecting the environment.",
       "stem": "(11)______",
       "options": [
-        "A. bought",
-        "B. sold",
-        "C. harvested",
-        "D. planted"
+        "A. spend",
+        "B. waste",
+        "C. take",
+        "D. cost"
       ],
-      "correct_answer": "C",
-      "explanation": "考查动词辨析和语境推理。两个月后花园变美，学生们'收获'了蔬菜和鲜花。harvest表示'收获'；bought（购买）与下文'出售蔬菜'矛盾；sold（出售）是之后的动作；planted（种植）是之前的动作，时间线不符。",
+      "correct_answer": "A",
+      "explanation": "spend time (in) doing sth.花费时间做某事，是固定搭配。waste time浪费时间（语义也通，但spend更中性，且是初中核心短语）；take常用it takes sb. time to do；cost主语是物。技巧：人+spend+时间+doing；it+takes+人+时间+to do，注意主语和句型搭配。",
       "label": "完形填空"
     },
     {
@@ -189,15 +192,16 @@
       "knowledge_point": "cloze_general",
       "difficulty": 1,
       "group": "cloze_1",
+      "group_passage": "Last month, our school started a green project called \"Zero Waste Classroom\". The idea was simple: each class would try to produce as little rubbish as possible over four weeks.\n\nAt first, many students thought it would be (8)______. However, we soon realized how much waste we (9)______ every day. Plastic bottles, paper towels, and food packaging were the main problems. Our teacher, Mr. Zhang, suggested we bring reusable containers from home. He also asked us to sort the rubbish into different bins (10)______ we wanted to win the competition.\n\nThe most challenging part was changing our habits. Some students forgot to bring their water bottles and had to buy drinks in plastic bottles. Others didn't want to (11)______ time sorting rubbish. (12)______, everyone began to understand the importance of the project gradually. By the end of the second week, our class was producing 50% less waste than before.\n\nOn the final day, we had a ceremony to celebrate our success. Although not every class won, we all learned valuable lessons about protecting the environment.",
       "stem": "(12)______",
       "options": [
-        "A. and",
-        "B. but also",
-        "C. or",
-        "D. so"
+        "A. And",
+        "B. But",
+        "C. However",
+        "D. So"
       ],
-      "correct_answer": "B",
-      "explanation": "考查固定搭配not only...but also...（不仅……而且……）。这是固定句型，表示并列关系。句意为'这个项目不仅改善了校园环境，而且教会了我们团队合作的价值'。and虽然表并列，但不能与not only搭配；or（或者）表选择；so（所以）表结果。",
+      "correct_answer": "C",
+      "explanation": "However然而（表转折，后常接逗号）；But但是（后无逗号）；And和（并列）；So所以（因果）。前文说\"有人不想花时间\"，后文\"大家逐渐理解重要性\"，是转折关系，且空格后有逗号，选However。技巧：however和but都表转折，但however可放句首/中/尾，常用逗号隔开；but后无逗号直接接句子。",
       "label": "完形填空"
     },
     {
@@ -206,16 +210,16 @@
       "knowledge_point": "detail",
       "difficulty": 1,
       "group": "reading_1",
-      "group_passage": "In today's digital age, teenagers spend hours on smartphones and computers. Recent research shows that Shenzhen teenagers spend about 4.5 hours on screens daily on average. This has raised concerns among parents and teachers.\n\nDr. Li Ming, a health expert, created the \"20-20-20\" rule to protect eyesight. It suggests that for every 20 minutes of screen time, you should look at something 20 feet (about 6 meters) away for 20 seconds. \"This simple habit can reduce eye strain significantly,\" says Dr. Li.\n\nHowever, screen time affects more than just eyes. Many students report feeling anxious when separated from their phones. To solve this, some schools have introduced \"Digital Detox Days\" where students must turn off their devices for a whole day. Surprisingly, many participants found they could focus better on studies and slept more peacefully.\n\n\"Technology is a tool, not a master,\" says Principal Wang. \"We need to teach students to use it wisely rather than letting it control our lives.\"",
+      "group_passage": "Do you know how much time teenagers spend looking at screens every day? A recent study in Shenzhen shows that the average is about 7.5 hours. This includes time spent on smartphones, computers, and TVs.\n\nDr. Li Ming, an eye specialist, has noticed an increase in eye problems among young people. \"Many students come to my clinic with dry eyes and blurred vision,\" he says. To help solve this problem, Dr. Li created the \"20-20-20\" rule. It means that every 20 minutes, you should look at something 20 feet away for at least 20 seconds.\n\nHowever, reducing screen time is not easy. Many students need computers for homework, and others enjoy online games during their free time. \"It's not about stopping completely,\" explains Dr. Li. \"It's about finding a balance.\"\n\nSome schools in Shenzhen have started to take action. They now require students to do eye exercises twice a day and limit the use of electronic devices in classrooms. Parents are also encouraged to set a good example by reducing their own screen time.\n\nThe good news is that small changes can help. Students who follow the \"20-20-20\" rule report less eye strain within just one week. As one student said, \"At first, it felt strange to take breaks, but now my eyes feel much more comfortable.\"",
       "stem": "How many hours do Shenzhen teenagers spend on screens daily on average according to the passage?",
       "options": [
-        "A. 3.5 hours",
-        "B. 4.5 hours",
-        "C. 5.5 hours",
-        "D. 6 hours"
+        "A. 5.5 hours",
+        "B. 7.5 hours",
+        "C. 9.5 hours",
+        "D. 6.5 hours"
       ],
       "correct_answer": "B",
-      "explanation": "细节理解题。根据第一段第二句'Recent research shows that Shenzhen teenagers spend about 4.5 hours on screens daily on average.'可知，深圳青少年平均每天花4.5小时在电子屏幕上。直接定位原文即可找到答案。",
+      "explanation": "细节定位题。根据第一段第二句\"A recent study in Shenzhen shows that the average is about 7.5 hours\"可知答案是7.5小时。技巧：数字题注意快速扫描数字信息，确认单位（hours）和限定词（Shenzhen teenagers/average）完全匹配，避免被干扰项（如20-20-20中的20）迷惑。",
       "label": "阅读-细节理解"
     },
     {
@@ -224,15 +228,16 @@
       "knowledge_point": "inference",
       "difficulty": 2,
       "group": "reading_1",
+      "group_passage": "Do you know how much time teenagers spend looking at screens every day? A recent study in Shenzhen shows that the average is about 7.5 hours. This includes time spent on smartphones, computers, and TVs.\n\nDr. Li Ming, an eye specialist, has noticed an increase in eye problems among young people. \"Many students come to my clinic with dry eyes and blurred vision,\" he says. To help solve this problem, Dr. Li created the \"20-20-20\" rule. It means that every 20 minutes, you should look at something 20 feet away for at least 20 seconds.\n\nHowever, reducing screen time is not easy. Many students need computers for homework, and others enjoy online games during their free time. \"It's not about stopping completely,\" explains Dr. Li. \"It's about finding a balance.\"\n\nSome schools in Shenzhen have started to take action. They now require students to do eye exercises twice a day and limit the use of electronic devices in classrooms. Parents are also encouraged to set a good example by reducing their own screen time.\n\nThe good news is that small changes can help. Students who follow the \"20-20-20\" rule report less eye strain within just one week. As one student said, \"At first, it felt strange to take breaks, but now my eyes feel much more comfortable.\"",
       "stem": "What can we infer from Dr. Li Ming's \"20-20-20\" rule mentioned in Paragraph 2?",
       "options": [
-        "A. We should use screens for only 20 minutes a day",
-        "B. Taking regular breaks helps protect our eyesight",
-        "C. We need to stand 20 feet away from the screen",
-        "D. The rule is too difficult for students to follow"
+        "A. We should exercise for 20 minutes every day",
+        "B. Taking regular breaks is important for eye health",
+        "C. We should sit 20 feet away from the screen",
+        "D. Teenagers should only use screens for 20 minutes daily"
       ],
       "correct_answer": "B",
-      "explanation": "推理判断题。根据第二段，'20-20-20'规则建议每使用20分钟屏幕就看20英尺外的东西20秒，目的是减少眼睛疲劳。由此可推断'定期休息有助于保护视力'。A选项曲解了20分钟的含义；C选项误解了20 feet的意思；D选项与文中'simple habit'矛盾。",
+      "explanation": "推理判断题。20-20-20规则指每20分钟看20英尺外20秒，目的是让眼睛休息。可推断\"定期休息对眼睛健康重要\"。A错（不是锻炼身体）；C错（不是坐20英尺远，而是看20英尺外的物体）；D错（不是只用20分钟，而是每20分钟休息）。技巧：infer题不能选原文直接陈述的，要选基于原文的合理推论，注意数字的具体含义（时间/距离）。",
       "label": "阅读-推理判断"
     },
     {
@@ -241,15 +246,16 @@
       "knowledge_point": "word_guessing",
       "difficulty": 2,
       "group": "reading_1",
-      "stem": "What does the underlined phrase \"Digital Detox\" in Paragraph 3 probably mean?",
+      "group_passage": "Do you know how much time teenagers spend looking at screens every day? A recent study in Shenzhen shows that the average is about 7.5 hours. This includes time spent on smartphones, computers, and TVs.\n\nDr. Li Ming, an eye specialist, has noticed an increase in eye problems among young people. \"Many students come to my clinic with dry eyes and blurred vision,\" he says. To help solve this problem, Dr. Li created the \"20-20-20\" rule. It means that every 20 minutes, you should look at something 20 feet away for at least 20 seconds.\n\nHowever, reducing screen time is not easy. Many students need computers for homework, and others enjoy online games during their free time. \"It's not about stopping completely,\" explains Dr. Li. \"It's about finding a balance.\"\n\nSome schools in Shenzhen have started to take action. They now require students to do eye exercises twice a day and limit the use of electronic devices in classrooms. Parents are also encouraged to set a good example by reducing their own screen time.\n\nThe good news is that small changes can help. Students who follow the \"20-20-20\" rule report less eye strain within just one week. As one student said, \"At first, it felt strange to take breaks, but now my eyes feel much more comfortable.\"",
+      "stem": "What does the underlined word \"strain\" in the last paragraph probably mean in Chinese?",
       "options": [
-        "A. A day to buy new digital devices",
-        "B. A day to repair broken phones",
-        "C. A day without using electronic devices",
-        "D. A day to learn digital technology"
+        "A. 压力；疲劳",
+        "B. 疼痛",
+        "C. 疾病",
+        "D. 锻炼"
       ],
-      "correct_answer": "C",
-      "explanation": "词义猜测题。根据第三段后文'where students must turn off their devices for a whole day'（学生必须关闭设备一整天）可知，Digital Detox指的是'不使用电子设备的一天'。detox原意为'排毒'，这里引申为'数字排毒'，即远离电子设备。",
+      "correct_answer": "A",
+      "explanation": "词义猜测题。根据上下文\"遵循规则后眼睛感觉更舒适（comfortable）\"，可知之前是\"疲劳/紧张\"。eye strain指\"视疲劳\"。B过于严重（pain）；C是疾病；D与语境无关。技巧：利用反义/对比关系（strange vs comfortable）和因果逻辑（small changes→less strain）猜测，strain本义为\"拉紧\"，引申为\"疲劳/压力\"。",
       "label": "阅读-词义猜测"
     },
     {
@@ -258,15 +264,16 @@
       "knowledge_point": "main_idea",
       "difficulty": 3,
       "group": "reading_1",
+      "group_passage": "Do you know how much time teenagers spend looking at screens every day? A recent study in Shenzhen shows that the average is about 7.5 hours. This includes time spent on smartphones, computers, and TVs.\n\nDr. Li Ming, an eye specialist, has noticed an increase in eye problems among young people. \"Many students come to my clinic with dry eyes and blurred vision,\" he says. To help solve this problem, Dr. Li created the \"20-20-20\" rule. It means that every 20 minutes, you should look at something 20 feet away for at least 20 seconds.\n\nHowever, reducing screen time is not easy. Many students need computers for homework, and others enjoy online games during their free time. \"It's not about stopping completely,\" explains Dr. Li. \"It's about finding a balance.\"\n\nSome schools in Shenzhen have started to take action. They now require students to do eye exercises twice a day and limit the use of electronic devices in classrooms. Parents are also encouraged to set a good example by reducing their own screen time.\n\nThe good news is that small changes can help. Students who follow the \"20-20-20\" rule report less eye strain within just one week. As one student said, \"At first, it felt strange to take breaks, but now my eyes feel much more comfortable.\"",
       "stem": "What is the best title for this passage?",
       "options": [
-        "A. The History of Smartphones",
-        "B. How to Use Technology Wisely",
-        "C. The Development of Shenzhen Schools",
-        "D. Different Ways to Protect Eyesight"
+        "A. The History of Computers",
+        "B. Eye Problems in Shenzhen",
+        "C. The \"20-20-20\" Rule for Healthy Eyes",
+        "D. How to Stop Using Smartphones"
       ],
-      "correct_answer": "B",
-      "explanation": "主旨大意题。文章先指出青少年过度使用电子设备的问题，然后介绍保护视力的方法和'数字排毒日'，最后引用校长的话'科技是工具而非主人'，核心是'如何明智地使用科技'。A选项只涉及背景；C选项偏离主题；D选项只涵盖第二段内容，以偏概全。",
+      "correct_answer": "C",
+      "explanation": "主旨大意题。文章围绕青少年屏幕时间过长导致眼疲劳，重点介绍20-20-20护眼规则及效果。A范围过大（历史）；B过于负面（只是引子）；D极端（文章说不是完全停止）。技巧：主旨题要覆盖全文核心（问题+解决方案），出现频率高的关键词（20-20-20 rule/eyes）通常是标题重点，避免以偏概全（只讲问题或只讲背景）。",
       "label": "阅读-主旨大意"
     },
     {
@@ -275,17 +282,17 @@
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
       "group": "fill_1",
-      "group_passage": "Having good study habits is important for middle school students. Here are some tips to help you study better.\n\n(17)______ First, find a quiet place with good lighting. Make sure your desk is clean and organized. This helps you focus on your homework.\n\n(18)______ Don't try to finish everything in one hour. Take a 10-minute break after 45 minutes of studying. During the break, stand up and stretch your body.\n\n(19)______ If you don't understand something, ask your teacher or classmates immediately. Don't leave problems until the day before the exam.\n\n(20)______ Before going to bed, spend 10 minutes reviewing what you learned that day. This helps move information from short-term memory to long-term memory.",
+      "group_passage": "Having a good daily routine is important for students. It helps you manage your time and reduces stress. Here are some tips for creating an effective routine.\n\n(17)______ First, write down all the activities you need to do each day, such as studying, exercising, and sleeping. This will help you see where your time goes.\n\nNext, prioritize your tasks. Not everything has the same importance. (18)______ For example, homework should come before watching TV. Make sure to complete the most difficult tasks when you have the most energy.\n\n(19)______ Don't forget to include breaks in your schedule. Studying for hours without rest is not effective. Taking short breaks can actually improve your concentration and memory.\n\nFinally, be flexible. Sometimes unexpected things happen, and you need to adjust your plan. (20)______ The key is to get back on track as soon as possible.",
       "stem": "(17)______",
       "options": [
-        "A. However, avoid using your phone during breaks.",
-        "B. In addition, review your notes every day.",
-        "C. Finally, don't hesitate to ask questions.",
-        "D. First, create a comfortable study environment.",
-        "E. Then, make a reasonable schedule and take regular breaks."
+        "A. Start by making a list of your daily activities.",
+        "B. Do the most important things first.",
+        "C. In addition, taking regular breaks is essential.",
+        "D. However, remember that nobody is perfect.",
+        "E. On the other hand, some students prefer to study at night."
       ],
-      "correct_answer": "D",
-      "explanation": "考查段落衔接和逻辑顺序。根据下文'First, find a quiet place...'（首先，找一个安静的地方……）可知，本段主题是创建舒适的学习环境，且这是第一条建议，用First引出。选项D中的First与下文First呼应。",
+      "correct_answer": "A",
+      "explanation": "根据下文\"First, write down all the activities...\"（首先写下所有活动），可知此处应是\"从列清单开始\"，A项\"Start by making a list...\"与后文write down形成同义复现和逻辑衔接。技巧：选句填空看上下文逻辑，空后First提示这是第一步，A项Start by完美对应。",
       "label": "短文填空"
     },
     {
@@ -294,16 +301,17 @@
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
       "group": "fill_1",
+      "group_passage": "Having a good daily routine is important for students. It helps you manage your time and reduces stress. Here are some tips for creating an effective routine.\n\n(17)______ First, write down all the activities you need to do each day, such as studying, exercising, and sleeping. This will help you see where your time goes.\n\nNext, prioritize your tasks. Not everything has the same importance. (18)______ For example, homework should come before watching TV. Make sure to complete the most difficult tasks when you have the most energy.\n\n(19)______ Don't forget to include breaks in your schedule. Studying for hours without rest is not effective. Taking short breaks can actually improve your concentration and memory.\n\nFinally, be flexible. Sometimes unexpected things happen, and you need to adjust your plan. (20)______ The key is to get back on track as soon as possible.",
       "stem": "(18)______",
       "options": [
-        "A. However, avoid using your phone during breaks.",
-        "B. In addition, review your notes every day.",
-        "C. Finally, don't hesitate to ask questions.",
-        "D. First, create a comfortable study environment.",
-        "E. Then, make a reasonable schedule and take regular breaks."
+        "A. Start by making a list of your daily activities.",
+        "B. Do the most important things first.",
+        "C. In addition, taking regular breaks is essential.",
+        "D. However, remember that nobody is perfect.",
+        "E. On the other hand, some students prefer to study at night."
       ],
-      "correct_answer": "E",
-      "explanation": "考查逻辑关系和过渡句。根据下文'不要试图在一小时内完成所有事'和'学习45分钟后休息10分钟'可知，本段主题是制定时间表和定期休息。Then（然后）表示顺序承接，符合文章结构（第一条……然后……）。",
+      "correct_answer": "B",
+      "explanation": "本段主题是prioritize（划分优先级），下文举例\"作业应该优先于看电视\"，B项\"先做最重要的事\"符合段落主旨，且与Not everything has the same importance形成递进解释关系。技巧：注意段落主题句（prioritize），选项B中的most important与prioritize同义替换。",
       "label": "短文填空"
     },
     {
@@ -312,16 +320,17 @@
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
       "group": "fill_1",
+      "group_passage": "Having a good daily routine is important for students. It helps you manage your time and reduces stress. Here are some tips for creating an effective routine.\n\n(17)______ First, write down all the activities you need to do each day, such as studying, exercising, and sleeping. This will help you see where your time goes.\n\nNext, prioritize your tasks. Not everything has the same importance. (18)______ For example, homework should come before watching TV. Make sure to complete the most difficult tasks when you have the most energy.\n\n(19)______ Don't forget to include breaks in your schedule. Studying for hours without rest is not effective. Taking short breaks can actually improve your concentration and memory.\n\nFinally, be flexible. Sometimes unexpected things happen, and you need to adjust your plan. (20)______ The key is to get back on track as soon as possible.",
       "stem": "(19)______",
       "options": [
-        "A. However, avoid using your phone during breaks.",
-        "B. In addition, review your notes every day.",
-        "C. Finally, don't hesitate to ask questions.",
-        "D. First, create a comfortable study environment.",
-        "E. Then, make a reasonable schedule and take regular breaks."
+        "A. Start by making a list of your daily activities.",
+        "B. Do the most important things first.",
+        "C. In addition, taking regular breaks is essential.",
+        "D. However, remember that nobody is perfect.",
+        "E. On the other hand, some students prefer to study at night."
       ],
       "correct_answer": "C",
-      "explanation": "考查主题一致性。根据下文'如果有不懂的，立即问老师或同学'可知，本段主题是'提问'。Finally（最后）表示顺序；don't hesitate to ask questions与下文ask your teacher呼应。",
+      "explanation": "下文提到\"Don't forget to include breaks\"（别忘了安排休息），C项\"此外，定期休息也很重要\"作为段落主题句引领全段，In addition表示递进（在列清单、排优先之后补充第三点）。技巧：In addition/Also/Furthermore表示补充说明，看空后是否出现关键词breaks，与C项breaks原词复现。",
       "label": "短文填空"
     },
     {
@@ -330,16 +339,17 @@
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
       "group": "fill_1",
+      "group_passage": "Having a good daily routine is important for students. It helps you manage your time and reduces stress. Here are some tips for creating an effective routine.\n\n(17)______ First, write down all the activities you need to do each day, such as studying, exercising, and sleeping. This will help you see where your time goes.\n\nNext, prioritize your tasks. Not everything has the same importance. (18)______ For example, homework should come before watching TV. Make sure to complete the most difficult tasks when you have the most energy.\n\n(19)______ Don't forget to include breaks in your schedule. Studying for hours without rest is not effective. Taking short breaks can actually improve your concentration and memory.\n\nFinally, be flexible. Sometimes unexpected things happen, and you need to adjust your plan. (20)______ The key is to get back on track as soon as possible.",
       "stem": "(20)______",
       "options": [
-        "A. However, avoid using your phone during breaks.",
-        "B. In addition, review your notes every day.",
-        "C. Finally, don't hesitate to ask questions.",
-        "D. First, create a comfortable study environment.",
-        "E. Then, make a reasonable schedule and take regular breaks."
+        "A. Start by making a list of your daily activities.",
+        "B. Do the most important things first.",
+        "C. In addition, taking regular breaks is essential.",
+        "D. However, remember that nobody is perfect.",
+        "E. On the other hand, some students prefer to study at night."
       ],
-      "correct_answer": "B",
-      "explanation": "考查段落主旨。根据下文'睡前花10分钟复习当天所学'可知，本段主题是'复习'。In addition（此外/另外）用于补充建议；review your notes every day与下文reviewing what you learned对应。",
+      "correct_answer": "D",
+      "explanation": "本段讲\"be flexible\"（灵活调整），上文说\"有时意外发生需要调整计划\"，下文\"关键是尽快回到正轨\"，D项\"然而，记住没有人是完美的\"承上启下，解释为何需要灵活（因为人会遇到意外，不可能完美执行计划）。技巧：However表转折让步，与be flexible的语境相符，且nobody is perfect与unexpected things形成因果逻辑。",
       "label": "短文填空"
     }
   ]
