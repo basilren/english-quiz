@@ -431,42 +431,6 @@
   ],
   "errors": [
     {
-      "date": "2026-06-03",
-      "session": 1,
-      "question_id": 9,
-      "type": "cloze",
-      "knowledge_point": "cloze_logic",
-      "label": "完形填空",
-      "stem": "(9)______",
-      "options": [
-        "A. happen",
-        "B. change",
-        "C. appear",
-        "D. disappear"
-      ],
-      "correct_answer": "B",
-      "student_answer": "D",
-      "explanation": "考查动词辨析及逻辑关系。前文说学生不改变习惯，However转折后表示'情况开始逐渐改变'，change符合语境。happen发生，appear出现，disappear消失，均不能与'things'搭配表示'情况好转/改变'。解题技巧：However提示前后对比，前面是不改变，后面就是改变。"
-    },
-    {
-      "date": "2026-06-03",
-      "session": 1,
-      "question_id": 13,
-      "type": "reading",
-      "knowledge_point": "detail",
-      "label": "阅读-细节理解",
-      "stem": "How many hours do Shenzhen teenagers spend on screens daily on average according to the study?",
-      "options": [
-        "A. 1-2 hours.",
-        "B. 6.5 hours.",
-        "C. 8 hours.",
-        "D. 4 hours."
-      ],
-      "correct_answer": "B",
-      "student_answer": "A",
-      "explanation": "细节理解题。根据文章首句'A recent study shows that teenagers in Shenzhen spend an average of 6.5 hours on screens every day'可知，深圳青少年平均每天花6.5小时在屏幕上。A选项1-2小时是使用教育app的时间，C和D未提及。解题技巧：题干中'average'对应原文'average'，直接定位首句找数字。"
-    },
-    {
       "date": "2026-06-04",
       "session": 1,
       "question_id": 14,
