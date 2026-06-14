@@ -431,24 +431,6 @@
   ],
   "errors": [
     {
-      "date": "2026-06-04",
-      "session": 1,
-      "question_id": 14,
-      "type": "reading",
-      "knowledge_point": "inference",
-      "label": "阅读-推理判断",
-      "stem": "What can we infer from Dr. Li Ming's '20-20-20' rule mentioned in Paragraph 3?",
-      "options": [
-        "A. We should exercise for 20 minutes every day.",
-        "B. Teenagers should not use screens for more than 20 minutes a day.",
-        "C. Taking regular breaks can help protect our eyes when using screens.",
-        "D. Looking at distant objects can cure all eye diseases."
-      ],
-      "correct_answer": "C",
-      "student_answer": "B",
-      "explanation": "推理判断题。根据第三段'Dr. Li Ming... recommends the '20-20-20' rule: every 20 minutes, look at something 20 feet away for at least 20 seconds.'可知，这个规则建议每20分钟看20英尺外的物体20秒，目的是缓解眼睛疲劳。由此可推断出：使用屏幕时定期休息有助于保护眼睛。A项每天锻炼20分钟曲解原意；B项每天使用不超过20分钟过于绝对；D项治愈所有眼病错误，规则是预防而非治疗。"
-    },
-    {
       "date": "2026-06-05",
       "session": 1,
       "question_id": 11,
