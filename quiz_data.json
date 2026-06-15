@@ -1,21 +1,21 @@
 ﻿{
-  "date": "2026-06-15",
+  "date": "2026-06-16",
   "session_number": 1,
   "questions": [
     {
       "id": 1,
       "type": "grammar",
       "knowledge_point": "present_perfect_vs_past_simple",
-      "difficulty": 1,
-      "stem": "I ______ my homework already. I ______ it an hour ago.",
+      "difficulty": 2,
+      "stem": "—I ______ the book already. \n—Oh, really? When ______ you ______ it?",
       "options": [
-        "A. have finished; finished",
-        "B. finished; have finished",
-        "C. have finished; have finished",
-        "D. finished; finished"
+        "A. have read; did; read",
+        "B. read; have; read",
+        "C. have read; have; read",
+        "D. read; did; read"
       ],
       "correct_answer": "A",
-      "explanation": "第一空有already（已经），是现在完成时的标志词，强调对现在的影响（作业已完成），用have finished；第二空有具体过去时间状语an hour ago（一小时前），只能用一般过去时finished。口诀：already/ever/never用现完，具体过去时间用过去。",
+      "explanation": "本题考查现在完成时与一般过去时的区别。第一空后有already（已经），是现在完成时的标志词，结构为have/has+过去分词，故用have read；第二空询问过去发生的动作时间，用一般过去时的疑问句形式，借助助动词did，后面动词用原形read。B项时态颠倒，C项第二空不应使用现在完成时，D项第一空缺少完成时。",
       "label": "语法题"
     },
     {
@@ -23,334 +23,334 @@
       "type": "grammar",
       "knowledge_point": "relative_clause_who_which",
       "difficulty": 2,
-      "stem": "The boy ______ is standing under the tree is my brother.",
+      "stem": "The boy ______ won the first prize is the monitor of Class 3.",
       "options": [
         "A. who",
         "B. which",
-        "C. whose",
-        "D. whom"
+        "C. whom",
+        "D. whose"
       ],
       "correct_answer": "A",
-      "explanation": "先行词是the boy（人），且在定语从句中作主语，应用关系代词who。which指物；whose表示所属关系（谁的）；whom在从句中作宾语。本题从句缺主语，故选who。",
+      "explanation": "本题考查定语从句关系代词的选择。先行词The boy指人，且在从句中作主语，因此用who。which用于指物；whom用于指人但作宾语；whose表示所属关系，意为'……的'。从句中缺少主语，故选A。",
       "label": "语法题"
     },
     {
       "id": 3,
       "type": "grammar",
       "knowledge_point": "passive_voice",
-      "difficulty": 2,
-      "stem": "These books ______ to the library yesterday.",
+      "difficulty": 1,
+      "stem": "These books ______ to the school library by the students yesterday.",
       "options": [
-        "A. returned",
+        "A. are returned",
         "B. were returned",
-        "C. are returned",
-        "D. have returned"
+        "C. have returned",
+        "D. returned"
       ],
       "correct_answer": "B",
-      "explanation": "主语these books与return是被动关系（书被归还），应用被动语态be+过去分词。时间状语yesterday表明用一般过去时，主语是复数，故用were returned。A和D是主动语态；C时态错误。",
+      "explanation": "本题考查一般过去时的被动语态。主语These books与动词return之间是被动关系，需用被动语态（be+过去分词）；时间状语yesterday表明是一般过去时，因此be动词用were。A项是一般现在时被动，时态不符；C项是主动语态；D项缺少be动词，不是被动结构。",
       "label": "语法题"
     },
     {
       "id": 4,
       "type": "grammar",
-      "knowledge_point": "present_perfect_vs_past_simple",
+      "knowledge_point": "object_clause",
       "difficulty": 3,
-      "stem": "—Have you ever been to Beijing?\n—Yes, I ______ there last summer.",
+      "stem": "—Could you tell me ______?\n—Sure. It's on the third floor.",
       "options": [
-        "A. have been",
-        "B. went",
-        "C. have gone",
-        "D. go"
+        "A. where is the teachers' office",
+        "B. where the teachers' office is",
+        "C. where does the teachers' office",
+        "D. where the teachers' office does"
       ],
       "correct_answer": "B",
-      "explanation": "答句有具体过去时间状语last summer（去年夏天），只能用一般过去时went。现在完成时不能与具体过去时间状语（yesterday, last week, in 2020等）连用。have gone表示去了未回，不符合语境。",
+      "explanation": "本题考查宾语从句的语序。宾语从句必须使用陈述句语序（主语+谓语），不能倒装。A项是疑问句语序；C、D项结构错误，does位置不对且缺少be动词。只有B项'where the teachers' office is'符合陈述句语序，意为'教师办公室在哪里'。",
       "label": "语法题"
     },
     {
       "id": 5,
       "type": "vocabulary",
-      "knowledge_point": "word_collocation",
+      "knowledge_point": "word_meaning",
       "difficulty": 1,
-      "stem": "We should ______ our best to protect the environment.",
+      "stem": "If you are ______ with your current score, you should work harder to get a better one.",
       "options": [
-        "A. try",
-        "B. do",
-        "C. make",
-        "D. take"
+        "A. excited",
+        "B. satisfied",
+        "C. surprised",
+        "D. worried"
       ],
-      "correct_answer": "A",
-      "explanation": "固定搭配try one's best to do sth.（尽某人最大努力做某事）。do one's best也可，但选项B是do，缺少one's；make表示制作；take表示拿取，均不与best搭配表示尽力。",
+      "correct_answer": "B",
+      "explanation": "本题考查形容词词义辨析及语境理解。根据后半句'应该更努力取得更好成绩'可知，前半句意思是'如果你对现在的成绩满意'。be satisfied with是固定搭配，意为'对……满意'。excited（兴奋的）、surprised（惊讶的）、worried（担心的）代入后逻辑不通。",
       "label": "词汇题"
     },
     {
       "id": 6,
       "type": "vocabulary",
-      "knowledge_point": "word_meaning_context",
+      "knowledge_point": "phrasal_verbs",
       "difficulty": 2,
-      "stem": "The old bridge is not strong enough to support heavy trucks. It may ______ if too many trucks cross it at the same time.",
+      "stem": "We decided to ______ our old books to the children in mountain areas.",
       "options": [
-        "A. fall",
-        "B. drop",
-        "C. collapse",
-        "D. break down"
+        "A. give away",
+        "B. give up",
+        "C. give in",
+        "D. give out"
       ],
-      "correct_answer": "C",
-      "explanation": "collapse指（建筑物）倒塌、坍塌，符合桥梁因承重过大而倒塌的语境。fall指跌落（从高处落下）；drop指掉落（不经意）；break down指机器故障或身体垮掉，不用于建筑物倒塌。",
+      "correct_answer": "A",
+      "explanation": "本题考查动词短语辨析。give away意为'捐赠、赠送'；give up意为'放弃'；give in意为'屈服、让步'；give out意为'分发、耗尽'。根据语境'把旧书给山区孩子'，应选择'捐赠'之意，故选A。",
       "label": "词汇题"
     },
     {
       "id": 7,
       "type": "vocabulary",
-      "knowledge_point": "word_meaning_context",
+      "knowledge_point": "word_formation",
       "difficulty": 2,
-      "stem": "If you are ______ with your current score, you should work harder to get a better one next time.",
+      "stem": "The ______ of this painting is a famous artist from France. (paint)",
       "options": [
-        "A. exciting",
-        "B. satisfied",
-        "C. interesting",
-        "D. surprised"
+        "A. painter",
+        "B. painting",
+        "C. painted",
+        "D. paint"
       ],
-      "correct_answer": "B",
-      "explanation": "be satisfied with是固定搭配，意为对……满意。根据后半句work harder（更努力），可推断前半句是指如果对现状满意。exciting（令人兴奋的）和interesting（有趣的）修饰物；surprised（惊讶的）与语境不符。",
+      "correct_answer": "A",
+      "explanation": "本题考查词性转换。根据句意'这幅画的……是一位来自法国的著名艺术家'，可知空格处需要表示'画家'的名词。paint（绘画）加后缀-er变为painter（画家）。painting意为'画作'，不符合句意；painted是过去分词；paint是动词原形。",
       "label": "词汇题"
     },
     {
       "id": 8,
       "type": "cloze",
-      "knowledge_point": "cloze_general",
+      "knowledge_point": "cloze_context",
       "difficulty": 2,
+      "group": "cloze_1",
+      "group_passage": "Last month, our school started an interesting project called \"Green Campus\". The goal was to help students understand the (8)______ of protecting the environment while improving our school life.\n\nAt first, many students were not (9)______ about the project. They thought it would take too much time and bring little change. However, things turned out differently.\n\nOur class decided to (10)______ a recycling program. We collected plastic bottles and waste paper every Friday afternoon. To our surprise, we collected over 200 kilograms of recyclable materials in just one month. The money we got from selling these materials was used to buy books for our school library.\n\nThe project not only helped the environment but also taught us valuable lessons. We learned that small actions could make a big (11)______. Now, more and more students are joining us. They bring their used batteries and old clothes to school instead of throwing them away.\n\nThis experience has changed the way we think about waste. We realize that everyone can do something to make our world (12)______. I am proud to be part of this meaningful project.",
       "stem": "(8)______",
       "options": [
-        "A. take part in",
-        "B. join",
-        "C. join in",
-        "D. attend"
+        "A. result",
+        "B. importance",
+        "C. reason",
+        "D. cause"
       ],
-      "correct_answer": "A",
-      "explanation": "take part in指参加活动并在其中发挥作用，后接project（项目）。join指加入组织或团体成为成员（如join the club）；join in多指参加小规模活动（如join in the game）；attend指出席会议、上课等正式场合。",
-      "label": "完形填空",
-      "group": "cloze_1",
-      "group_passage": "Last month, our school started a new project called \"Green Campus\". As a member of the environmental club, I was excited to (8)______ it. Our goal was to reduce waste and save energy in our daily school life.\n\nAt first, many students didn't understand why we needed to change their habits. They kept throwing rubbish everywhere and forgot to turn off lights when leaving classrooms. (9)______, we didn't give up. We designed some interesting posters and put them up around the school. We also organized a competition to see which class could save the most electricity in a month.\n\nTo our surprise, these activities worked really well. More and more students began to (10)______ the importance of protecting our environment. By the end of the semester, the results were amazing. The amount of waste in our school had dropped by 40%, and the electricity bill was much lower than before.\n\nOur principal praised us at the school meeting. We felt very (11)______ and proud of what we had achieved. This experience taught me that small actions can make a big difference. If everyone does their part, we can create a better world for future generations. I decided to (12)______ the good work and encourage more classmates to join us."
+      "correct_answer": "B",
+      "explanation": "本题考查语境推理和名词辨析。根据句意'目标是帮助学生理解保护环境的……'，importance（重要性）最符合语境。the importance of...是固定搭配。result（结果）、reason（原因，常与for搭配）、cause（起因）均不符合此处表达'环保重要性'的语境。",
+      "label": "完形填空"
     },
     {
       "id": 9,
       "type": "cloze",
-      "knowledge_point": "cloze_general",
-      "difficulty": 2,
+      "knowledge_point": "cloze_emotion",
+      "difficulty": 1,
+      "group": "cloze_1",
+      "group_passage": "Last month, our school started an interesting project called \"Green Campus\". The goal was to help students understand the (8)______ of protecting the environment while improving our school life.\n\nAt first, many students were not (9)______ about the project. They thought it would take too much time and bring little change. However, things turned out differently.\n\nOur class decided to (10)______ a recycling program. We collected plastic bottles and waste paper every Friday afternoon. To our surprise, we collected over 200 kilograms of recyclable materials in just one month. The money we got from selling these materials was used to buy books for our school library.\n\nThe project not only helped the environment but also taught us valuable lessons. We learned that small actions could make a big (11)______. Now, more and more students are joining us. They bring their used batteries and old clothes to school instead of throwing them away.\n\nThis experience has changed the way we think about waste. We realize that everyone can do something to make our world (12)______. I am proud to be part of this meaningful project.",
       "stem": "(9)______",
       "options": [
-        "A. However",
-        "B. Therefore",
-        "C. Besides",
-        "D. Instead"
+        "A. nervous",
+        "B. angry",
+        "C. excited",
+        "D. sad"
       ],
-      "correct_answer": "A",
-      "explanation": "前文提到学生不改变习惯、乱扔垃圾（负面情况），后文说我们没放弃（转折），应用However（然而）。Therefore（因此）表因果；Besides（此外）表递进；Instead（反而）表替代，均不符合上下文逻辑。",
-      "label": "完形填空",
-      "group": "cloze_1",
-      "group_passage": "Last month, our school started a new project called \"Green Campus\". As a member of the environmental club, I was excited to (8)______ it. Our goal was to reduce waste and save energy in our daily school life.\n\nAt first, many students didn't understand why we needed to change their habits. They kept throwing rubbish everywhere and forgot to turn off lights when leaving classrooms. (9)______, we didn't give up. We designed some interesting posters and put them up around the school. We also organized a competition to see which class could save the most electricity in a month.\n\nTo our surprise, these activities worked really well. More and more students began to (10)______ the importance of protecting our environment. By the end of the semester, the results were amazing. The amount of waste in our school had dropped by 40%, and the electricity bill was much lower than before.\n\nOur principal praised us at the school meeting. We felt very (11)______ and proud of what we had achieved. This experience taught me that small actions can make a big difference. If everyone does their part, we can create a better world for future generations. I decided to (12)______ the good work and encourage more classmates to join us."
+      "correct_answer": "C",
+      "explanation": "本题考查情感线索和形容词辨析。根据下文'他们认为这会花太多时间且没什么改变'可知，起初学生们对这个项目并不'兴奋/感兴趣'。be excited about意为'对……感到兴奋'。nervous（紧张的）、angry（生气的）、sad（悲伤的）均不符合语境逻辑。",
+      "label": "完形填空"
     },
     {
       "id": 10,
       "type": "cloze",
-      "knowledge_point": "cloze_general",
-      "difficulty": 1,
+      "knowledge_point": "cloze_context",
+      "difficulty": 2,
+      "group": "cloze_1",
+      "group_passage": "Last month, our school started an interesting project called \"Green Campus\". The goal was to help students understand the (8)______ of protecting the environment while improving our school life.\n\nAt first, many students were not (9)______ about the project. They thought it would take too much time and bring little change. However, things turned out differently.\n\nOur class decided to (10)______ a recycling program. We collected plastic bottles and waste paper every Friday afternoon. To our surprise, we collected over 200 kilograms of recyclable materials in just one month. The money we got from selling these materials was used to buy books for our school library.\n\nThe project not only helped the environment but also taught us valuable lessons. We learned that small actions could make a big (11)______. Now, more and more students are joining us. They bring their used batteries and old clothes to school instead of throwing them away.\n\nThis experience has changed the way we think about waste. We realize that everyone can do something to make our world (12)______. I am proud to be part of this meaningful project.",
       "stem": "(10)______",
       "options": [
-        "A. realize",
-        "B. believe",
-        "C. doubt",
-        "D. regret"
+        "A. join",
+        "B. start",
+        "C. refuse",
+        "D. stop"
       ],
-      "correct_answer": "A",
-      "explanation": "realize意为意识到，符合语境学生开始意识到环保的重要性。believe（相信）虽可搭配，但realize更强调从不懂到懂的认识过程；doubt（怀疑）和regret（后悔）与语境相反。",
-      "label": "完形填空",
-      "group": "cloze_1",
-      "group_passage": "Last month, our school started a new project called \"Green Campus\". As a member of the environmental club, I was excited to (8)______ it. Our goal was to reduce waste and save energy in our daily school life.\n\nAt first, many students didn't understand why we needed to change their habits. They kept throwing rubbish everywhere and forgot to turn off lights when leaving classrooms. (9)______, we didn't give up. We designed some interesting posters and put them up around the school. We also organized a competition to see which class could save the most electricity in a month.\n\nTo our surprise, these activities worked really well. More and more students began to (10)______ the importance of protecting our environment. By the end of the semester, the results were amazing. The amount of waste in our school had dropped by 40%, and the electricity bill was much lower than before.\n\nOur principal praised us at the school meeting. We felt very (11)______ and proud of what we had achieved. This experience taught me that small actions can make a big difference. If everyone does their part, we can create a better world for future generations. I decided to (12)______ the good work and encourage more classmates to join us."
+      "correct_answer": "B",
+      "explanation": "本题考查语境推理和动词辨析。根据下文'我们每周五下午收集塑料瓶和废纸'可知，我们班'发起/开始'了一个回收项目。start（开始、发起）符合语境。join（加入）通常指加入已有组织；refuse（拒绝）和stop（停止）与下文积极行动矛盾。",
+      "label": "完形填空"
     },
     {
       "id": 11,
       "type": "cloze",
-      "knowledge_point": "cloze_general",
+      "knowledge_point": "cloze_fixed_phrase",
       "difficulty": 1,
+      "group": "cloze_1",
+      "group_passage": "Last month, our school started an interesting project called \"Green Campus\". The goal was to help students understand the (8)______ of protecting the environment while improving our school life.\n\nAt first, many students were not (9)______ about the project. They thought it would take too much time and bring little change. However, things turned out differently.\n\nOur class decided to (10)______ a recycling program. We collected plastic bottles and waste paper every Friday afternoon. To our surprise, we collected over 200 kilograms of recyclable materials in just one month. The money we got from selling these materials was used to buy books for our school library.\n\nThe project not only helped the environment but also taught us valuable lessons. We learned that small actions could make a big (11)______. Now, more and more students are joining us. They bring their used batteries and old clothes to school instead of throwing them away.\n\nThis experience has changed the way we think about waste. We realize that everyone can do something to make our world (12)______. I am proud to be part of this meaningful project.",
       "stem": "(11)______",
       "options": [
-        "A. surprised",
-        "B. disappointed",
-        "C. frightened",
-        "D. bored"
+        "A. mistake",
+        "B. decision",
+        "C. difference",
+        "D. progress"
       ],
-      "correct_answer": "A",
-      "explanation": "前文提到To our surprise（令我们惊讶的是），此处felt very surprised与上文呼应，表示感到惊讶和自豪。disappointed（失望的）、frightened（害怕的）、bored（无聊的）均与取得成果的积极语境不符。",
-      "label": "完形填空",
-      "group": "cloze_1",
-      "group_passage": "Last month, our school started a new project called \"Green Campus\". As a member of the environmental club, I was excited to (8)______ it. Our goal was to reduce waste and save energy in our daily school life.\n\nAt first, many students didn't understand why we needed to change their habits. They kept throwing rubbish everywhere and forgot to turn off lights when leaving classrooms. (9)______, we didn't give up. We designed some interesting posters and put them up around the school. We also organized a competition to see which class could save the most electricity in a month.\n\nTo our surprise, these activities worked really well. More and more students began to (10)______ the importance of protecting our environment. By the end of the semester, the results were amazing. The amount of waste in our school had dropped by 40%, and the electricity bill was much lower than before.\n\nOur principal praised us at the school meeting. We felt very (11)______ and proud of what we had achieved. This experience taught me that small actions can make a big difference. If everyone does their part, we can create a better world for future generations. I decided to (12)______ the good work and encourage more classmates to join us."
+      "correct_answer": "C",
+      "explanation": "本题考查固定搭配。make a big difference是固定短语，意为'产生重大影响、有很大作用'。句意：我们学到小行动可以产生大影响。make a mistake（犯错）、make a decision（做决定）、make progress（取得进步，不与a连用）均不符合此处固定搭配和语境。",
+      "label": "完形填空"
     },
     {
       "id": 12,
       "type": "cloze",
-      "knowledge_point": "cloze_general",
+      "knowledge_point": "cloze_context",
       "difficulty": 2,
+      "group": "cloze_1",
+      "group_passage": "Last month, our school started an interesting project called \"Green Campus\". The goal was to help students understand the (8)______ of protecting the environment while improving our school life.\n\nAt first, many students were not (9)______ about the project. They thought it would take too much time and bring little change. However, things turned out differently.\n\nOur class decided to (10)______ a recycling program. We collected plastic bottles and waste paper every Friday afternoon. To our surprise, we collected over 200 kilograms of recyclable materials in just one month. The money we got from selling these materials was used to buy books for our school library.\n\nThe project not only helped the environment but also taught us valuable lessons. We learned that small actions could make a big (11)______. Now, more and more students are joining us. They bring their used batteries and old clothes to school instead of throwing them away.\n\nThis experience has changed the way we think about waste. We realize that everyone can do something to make our world (12)______. I am proud to be part of this meaningful project.",
       "stem": "(12)______",
       "options": [
-        "A. keep up",
-        "B. give up",
-        "C. take up",
-        "D. set up"
+        "A. bigger",
+        "B. cleaner",
+        "C. quieter",
+        "D. busier"
       ],
-      "correct_answer": "A",
-      "explanation": "keep up意为保持、继续（keep up the good work是固定表达，意为再接再厉）。give up（放弃）与语境相反；take up（开始从事/占据）；set up（建立），均不符合继续做好工作的语境。",
-      "label": "完形填空",
-      "group": "cloze_1",
-      "group_passage": "Last month, our school started a new project called \"Green Campus\". As a member of the environmental club, I was excited to (8)______ it. Our goal was to reduce waste and save energy in our daily school life.\n\nAt first, many students didn't understand why we needed to change their habits. They kept throwing rubbish everywhere and forgot to turn off lights when leaving classrooms. (9)______, we didn't give up. We designed some interesting posters and put them up around the school. We also organized a competition to see which class could save the most electricity in a month.\n\nTo our surprise, these activities worked really well. More and more students began to (10)______ the importance of protecting our environment. By the end of the semester, the results were amazing. The amount of waste in our school had dropped by 40%, and the electricity bill was much lower than before.\n\nOur principal praised us at the school meeting. We felt very (11)______ and proud of what we had achieved. This experience taught me that small actions can make a big difference. If everyone does their part, we can create a better world for future generations. I decided to (12)______ the good work and encourage more classmates to join us."
+      "correct_answer": "B",
+      "explanation": "本题考查语境推理和形容词比较级。全文主题是环保项目，因此此处意为'让世界更干净'。cleaner（更干净的）符合环保主题。bigger（更大的）、quieter（更安静的）、busier（更忙的）与回收垃圾、保护环境的语境不符。",
+      "label": "完形填空"
     },
     {
       "id": 13,
       "type": "reading",
       "knowledge_point": "detail",
       "difficulty": 2,
-      "stem": "What is the \"20-20-20\" rule according to the passage?",
+      "group": "reading_1",
+      "group_passage": "Protecting Your Eyes in the Digital Age\n\nIn today's world, teenagers spend more time than ever looking at screens. Whether it's for online classes, homework, or entertainment, our eyes are working harder than ever before. Dr. Li Ming, an eye specialist from Shenzhen Hospital, has some useful advice for keeping our eyes healthy.\n\nAccording to Dr. Li, digital eye strain is becoming increasingly common among students. \"When we stare at screens for long periods, our eyes become dry and tired,\" he explains. \"This can lead to headaches and even blurred vision over time.\"\n\nTo solve this problem, Dr. Li suggests following the \"20-20-20\" rule. Every 20 minutes, look at something 20 feet away (about 6 meters) for at least 20 seconds. This simple habit gives your eye muscles a chance to relax. \"It's like taking a short vacation for your eyes,\" Dr. Li says with a smile.\n\nBesides the 20-20-20 rule, there are other ways to protect your eyes. Make sure your screen is about an arm's length away from your face. The top of the screen should be at or slightly below eye level. Good lighting is also important—avoid working in dark rooms or under strong direct light.\n\nDr. Li also recommends the \"blinking exercise.\" Normally, we blink about 15 times per minute, but when using screens, this drops to 5 times. Try to blink more often to keep your eyes moist. If your eyes feel dry, you can use artificial tears (眼药水), but don't overuse them.\n\nRemember, your eyes are precious. Once damaged, they are hard to repair. By following these simple tips, you can enjoy technology without hurting your vision.",
+      "stem": "What is the \"20-20-20\" rule according to Dr. Li Ming?",
       "options": [
-        "A. Exercise for 20 minutes every day to stay healthy.",
-        "B. Every 20 minutes, take a 20-second break and look at something 20 feet away.",
-        "C. Sleep 20 hours a week to rest your eyes.",
-        "D. Eat 20 types of vegetables to get enough vitamins."
+        "A. Resting for 20 days after using screens.",
+        "B. Looking at something 20 feet away for 20 seconds every 20 minutes.",
+        "C. Using screens for no more than 20 minutes every day.",
+        "D. Taking a 20-second break after 20 hours of work."
       ],
       "correct_answer": "B",
-      "explanation": "细节理解题。根据第二段'every 20 minutes of looking at a screen, you should take a 20-second break and look at something at least 20 feet (about 6 meters) away'可知，B选项准确描述了该规则。A、C、D选项在文中均未提及。",
-      "label": "阅读-细节理解",
-      "group": "reading_1",
-      "group_passage": "In today's digital age, many teenagers spend hours staring at (盯着看) screens every day. This has led to a rapid increase in eye problems among young people. Dr. Li Ming, a famous eye doctor from Beijing, has introduced a simple but effective rule to protect our eyes—the \"20-20-20\" rule.\n\nAccording to Dr. Li, every 20 minutes of looking at a screen, you should take a 20-second break and look at something at least 20 feet (about 6 meters) away. This short break allows your eye muscles to relax and reduces the risk of eye strain (疲劳).\n\n\"Many students think they can just keep working for hours without rest, but that's very harmful,\" says Dr. Li. \"The 20-20-20 rule is easy to remember and doesn't take much time, but it can make a huge difference in the long run.\"\n\nA recent study showed that students who followed this rule regularly had 30% fewer complaints about dry eyes and headaches compared to those who didn't. Some schools in Shenzhen have even started reminding students to follow this rule during computer classes.\n\nHowever, Dr. Li reminds us that the 20-20-20 rule is just one part of eye care. We should also make sure to spend time outdoors every day and maintain a healthy diet rich in vitamins A and C. If you experience persistent (持续的) eye discomfort, it's important to visit an eye doctor immediately."
+      "explanation": "本题是细节理解题。根据文章第三段第二句'Every 20 minutes, look at something 20 feet away (about 6 meters) for at least 20 seconds.'可知，20-20-20规则是指每20分钟看20英尺（约6米）外的东西至少20秒。A项20天、C项每天使用不超过20分钟、D项20小时后休息均与原文不符。",
+      "label": "阅读-细节理解"
     },
     {
       "id": 14,
       "type": "reading",
-      "knowledge_point": "inference",
-      "difficulty": 3,
-      "stem": "What can we infer from Dr. Li Ming's words in Paragraph 3?",
+      "knowledge_point": "word_guessing",
+      "difficulty": 2,
+      "group": "reading_1",
+      "group_passage": "Protecting Your Eyes in the Digital Age\n\nIn today's world, teenagers spend more time than ever looking at screens. Whether it's for online classes, homework, or entertainment, our eyes are working harder than ever before. Dr. Li Ming, an eye specialist from Shenzhen Hospital, has some useful advice for keeping our eyes healthy.\n\nAccording to Dr. Li, digital eye strain is becoming increasingly common among students. \"When we stare at screens for long periods, our eyes become dry and tired,\" he explains. \"This can lead to headaches and even blurred vision over time.\"\n\nTo solve this problem, Dr. Li suggests following the \"20-20-20\" rule. Every 20 minutes, look at something 20 feet away (about 6 meters) for at least 20 seconds. This simple habit gives your eye muscles a chance to relax. \"It's like taking a short vacation for your eyes,\" Dr. Li says with a smile.\n\nBesides the 20-20-20 rule, there are other ways to protect your eyes. Make sure your screen is about an arm's length away from your face. The top of the screen should be at or slightly below eye level. Good lighting is also important—avoid working in dark rooms or under strong direct light.\n\nDr. Li also recommends the \"blinking exercise.\" Normally, we blink about 15 times per minute, but when using screens, this drops to 5 times. Try to blink more often to keep your eyes moist. If your eyes feel dry, you can use artificial tears (眼药水), but don't overuse them.\n\nRemember, your eyes are precious. Once damaged, they are hard to repair. By following these simple tips, you can enjoy technology without hurting your vision.",
+      "stem": "What does the word \"strain\" in Paragraph 2 probably mean?",
       "options": [
-        "A. Students should study harder to avoid eye problems.",
-        "B. Small regular breaks are beneficial for eye health.",
-        "C. Eye problems cannot be prevented by any rules.",
-        "D. Working for hours without rest improves study efficiency."
+        "A. Strength",
+        "B. Tiredness",
+        "C. Light",
+        "D. Disease"
       ],
       "correct_answer": "B",
-      "explanation": "推理判断题。根据第三段Dr. Li的话可知，连续工作数小时不休息是有害的，而20-20-20规则虽然每次只花20秒，但长期坚持有很大作用。由此可推断，规律的小休息对眼睛有益。A选项未提及；C选项与文意相反；D选项与文意相反（harmful）。",
-      "label": "阅读-推理判断",
-      "group": "reading_1",
-      "group_passage": "In today's digital age, many teenagers spend hours staring at (盯着看) screens every day. This has led to a rapid increase in eye problems among young people. Dr. Li Ming, a famous eye doctor from Beijing, has introduced a simple but effective rule to protect our eyes—the \"20-20-20\" rule.\n\nAccording to Dr. Li, every 20 minutes of looking at a screen, you should take a 20-second break and look at something at least 20 feet (about 6 meters) away. This short break allows your eye muscles to relax and reduces the risk of eye strain (疲劳).\n\n\"Many students think they can just keep working for hours without rest, but that's very harmful,\" says Dr. Li. \"The 20-20-20 rule is easy to remember and doesn't take much time, but it can make a huge difference in the long run.\"\n\nA recent study showed that students who followed this rule regularly had 30% fewer complaints about dry eyes and headaches compared to those who didn't. Some schools in Shenzhen have even started reminding students to follow this rule during computer classes.\n\nHowever, Dr. Li reminds us that the 20-20-20 rule is just one part of eye care. We should also make sure to spend time outdoors every day and maintain a healthy diet rich in vitamins A and C. If you experience persistent (持续的) eye discomfort, it's important to visit an eye doctor immediately."
+      "explanation": "本题是词义猜测题。根据第二段后文解释'When we stare at screens for long periods, our eyes become dry and tired'（长时间盯着屏幕，眼睛会变干和疲劳），可推断strain在此处意为'疲劳、紧张'。A项力量、C项光线、D项疾病均不符合上下文语境。",
+      "label": "阅读-词义猜测"
     },
     {
       "id": 15,
       "type": "reading",
-      "knowledge_point": "word_guessing_context",
-      "difficulty": 2,
-      "stem": "What does the word \"strain\" in Paragraph 2 probably mean?",
-      "options": [
-        "A. 力量",
-        "B. 疲劳",
-        "C. 视力",
-        "D. 压力"
-      ],
-      "correct_answer": "B",
-      "explanation": "词义猜测题。根据上下文，长时间看屏幕后眼睛肌肉需要放松（relax），可推断strain指眼睛疲劳。且后文第四段提到dry eyes and headaches（干眼和头痛），都是眼疲劳的症状。因此strain意为疲劳。",
-      "label": "阅读-词义猜测",
+      "knowledge_point": "inference",
+      "difficulty": 3,
       "group": "reading_1",
-      "group_passage": "In today's digital age, many teenagers spend hours staring at (盯着看) screens every day. This has led to a rapid increase in eye problems among young people. Dr. Li Ming, a famous eye doctor from Beijing, has introduced a simple but effective rule to protect our eyes—the \"20-20-20\" rule.\n\nAccording to Dr. Li, every 20 minutes of looking at a screen, you should take a 20-second break and look at something at least 20 feet (about 6 meters) away. This short break allows your eye muscles to relax and reduces the risk of eye strain (疲劳).\n\n\"Many students think they can just keep working for hours without rest, but that's very harmful,\" says Dr. Li. \"The 20-20-20 rule is easy to remember and doesn't take much time, but it can make a huge difference in the long run.\"\n\nA recent study showed that students who followed this rule regularly had 30% fewer complaints about dry eyes and headaches compared to those who didn't. Some schools in Shenzhen have even started reminding students to follow this rule during computer classes.\n\nHowever, Dr. Li reminds us that the 20-20-20 rule is just one part of eye care. We should also make sure to spend time outdoors every day and maintain a healthy diet rich in vitamins A and C. If you experience persistent (持续的) eye discomfort, it's important to visit an eye doctor immediately."
+      "group_passage": "Protecting Your Eyes in the Digital Age\n\nIn today's world, teenagers spend more time than ever looking at screens. Whether it's for online classes, homework, or entertainment, our eyes are working harder than ever before. Dr. Li Ming, an eye specialist from Shenzhen Hospital, has some useful advice for keeping our eyes healthy.\n\nAccording to Dr. Li, digital eye strain is becoming increasingly common among students. \"When we stare at screens for long periods, our eyes become dry and tired,\" he explains. \"This can lead to headaches and even blurred vision over time.\"\n\nTo solve this problem, Dr. Li suggests following the \"20-20-20\" rule. Every 20 minutes, look at something 20 feet away (about 6 meters) for at least 20 seconds. This simple habit gives your eye muscles a chance to relax. \"It's like taking a short vacation for your eyes,\" Dr. Li says with a smile.\n\nBesides the 20-20-20 rule, there are other ways to protect your eyes. Make sure your screen is about an arm's length away from your face. The top of the screen should be at or slightly below eye level. Good lighting is also important—avoid working in dark rooms or under strong direct light.\n\nDr. Li also recommends the \"blinking exercise.\" Normally, we blink about 15 times per minute, but when using screens, this drops to 5 times. Try to blink more often to keep your eyes moist. If your eyes feel dry, you can use artificial tears (眼药水), but don't overuse them.\n\nRemember, your eyes are precious. Once damaged, they are hard to repair. By following these simple tips, you can enjoy technology without hurting your vision.",
+      "stem": "What can we infer from Dr. Li Ming's words in the last paragraph?",
+      "options": [
+        "A. We should stop using electronic devices completely.",
+        "B. Eye drops can cure all eye diseases.",
+        "C. Prevention is more important than treatment for eye health.",
+        "D. Only teenagers need to worry about eye strain."
+      ],
+      "correct_answer": "C",
+      "explanation": "本题是推理判断题。根据最后一段'Remember, your eyes are precious. Once damaged, they are hard to repair.'（眼睛很珍贵，一旦受损很难修复），可推断出'预防比治疗更重要'。A项完全停止使用电子设备过于绝对；B项眼药水能治愈所有眼疾与原文'不要过度使用'矛盾；D项只有青少年需要担心与文章开头'teengers'只是例子不符。",
+      "label": "阅读-推理判断"
     },
     {
       "id": 16,
       "type": "reading",
-      "knowledge_point": "main_idea_title",
+      "knowledge_point": "main_idea",
       "difficulty": 3,
+      "group": "reading_1",
+      "group_passage": "Protecting Your Eyes in the Digital Age\n\nIn today's world, teenagers spend more time than ever looking at screens. Whether it's for online classes, homework, or entertainment, our eyes are working harder than ever before. Dr. Li Ming, an eye specialist from Shenzhen Hospital, has some useful advice for keeping our eyes healthy.\n\nAccording to Dr. Li, digital eye strain is becoming increasingly common among students. \"When we stare at screens for long periods, our eyes become dry and tired,\" he explains. \"This can lead to headaches and even blurred vision over time.\"\n\nTo solve this problem, Dr. Li suggests following the \"20-20-20\" rule. Every 20 minutes, look at something 20 feet away (about 6 meters) for at least 20 seconds. This simple habit gives your eye muscles a chance to relax. \"It's like taking a short vacation for your eyes,\" Dr. Li says with a smile.\n\nBesides the 20-20-20 rule, there are other ways to protect your eyes. Make sure your screen is about an arm's length away from your face. The top of the screen should be at or slightly below eye level. Good lighting is also important—avoid working in dark rooms or under strong direct light.\n\nDr. Li also recommends the \"blinking exercise.\" Normally, we blink about 15 times per minute, but when using screens, this drops to 5 times. Try to blink more often to keep your eyes moist. If your eyes feel dry, you can use artificial tears (眼药水), but don't overuse them.\n\nRemember, your eyes are precious. Once damaged, they are hard to repair. By following these simple tips, you can enjoy technology without hurting your vision.",
       "stem": "What is the best title for this passage?",
       "options": [
-        "A. The History of Eye Glasses",
-        "B. Digital Age and Education",
-        "C. A Simple Rule for Eye Protection",
-        "D. The Importance of Outdoor Activities"
+        "A. Dr. Li Ming's Career",
+        "B. Ways to Protect Eyes in the Digital Age",
+        "C. The Dangers of Electronic Devices",
+        "D. How to Use Eye Drops Correctly"
       ],
-      "correct_answer": "C",
-      "explanation": "主旨大意题。文章围绕20-20-20护眼法则展开，介绍了其内容、原理、效果及注意事项。C选项准确概括了文章主旨。A选项未提及；B选项范围过大；D选项只是文章末尾提到的细节，非主旨。",
-      "label": "阅读-主旨大意",
-      "group": "reading_1",
-      "group_passage": "In today's digital age, many teenagers spend hours staring at (盯着看) screens every day. This has led to a rapid increase in eye problems among young people. Dr. Li Ming, a famous eye doctor from Beijing, has introduced a simple but effective rule to protect our eyes—the \"20-20-20\" rule.\n\nAccording to Dr. Li, every 20 minutes of looking at a screen, you should take a 20-second break and look at something at least 20 feet (about 6 meters) away. This short break allows your eye muscles to relax and reduces the risk of eye strain (疲劳).\n\n\"Many students think they can just keep working for hours without rest, but that's very harmful,\" says Dr. Li. \"The 20-20-20 rule is easy to remember and doesn't take much time, but it can make a huge difference in the long run.\"\n\nA recent study showed that students who followed this rule regularly had 30% fewer complaints about dry eyes and headaches compared to those who didn't. Some schools in Shenzhen have even started reminding students to follow this rule during computer classes.\n\nHowever, Dr. Li reminds us that the 20-20-20 rule is just one part of eye care. We should also make sure to spend time outdoors every day and maintain a healthy diet rich in vitamins A and C. If you experience persistent (持续的) eye discomfort, it's important to visit an eye doctor immediately."
+      "correct_answer": "B",
+      "explanation": "本题是主旨大意题。文章主要介绍了在数字时代如何保护眼睛的方法，包括20-20-20规则、眨眼练习等。A项李医生的职业生涯只是细节；C项电子设备的危险过于片面且负面；D项如何使用眼药水只是最后提到的一个小建议。B项'数字时代的护眼方法'最能概括全文主旨。",
+      "label": "阅读-主旨大意"
     },
     {
       "id": 17,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
+      "group": "fill_1",
+      "group_passage": "Balancing Study and Hobbies\n\nMany students find it difficult to balance their schoolwork and hobbies. They often feel stressed when they cannot finish homework on time or give up their favorite activities. (17)______ Here are some useful tips.\n\nFirst, make a proper schedule. Write down all your tasks and activities for the week. (18)______ This way, you won't forget important deadlines or miss your hobby time.\n\nSecond, learn to focus. When studying, put away your phone and other distractions. (19)______ Then you can enjoy your hobbies without worrying about unfinished homework.\n\nFinally, remember that hobbies are not a waste of time. They help you relax and develop new skills. (20)______ Finding the right balance will make your school life more colorful and enjoyable.",
       "stem": "(17)______",
       "options": [
-        "A. However, many of them don't know how to use their time wisely.",
-        "B. As a result, you'll be able to concentrate better on your studies.",
-        "C. Start with the most difficult or important tasks.",
-        "D. After a short rest, you'll return to work with fresh energy.",
-        "E. On the other hand, some students have plenty of time but no plan."
+        "A. However, with good time management, you can do well in both.",
+        "B. For example, you can allocate two hours for homework and one hour for basketball.",
+        "C. As a result, you will finish your work more efficiently.",
+        "D. In fact, they can improve your study performance in the long run.",
+        "E. On the other hand, some students spend too much time on hobbies."
       ],
       "correct_answer": "A",
-      "explanation": "前文提到学生感到压力大、作业多时间少，后文给出建议，此处需填入承上启下的过渡句。A选项（然而，他们中许多人不知道如何明智地利用时间）承接上文的压力问题，引出下文的解决建议，逻辑通顺。E选项虽有转折，但plenty of time与前文too little time矛盾。",
-      "label": "短文填空",
-      "group": "fill_1",
-      "group_passage": "Many students feel stressed because they have too much homework and too little time. (17)______ Here are some useful tips to help you manage your time better.\n\nFirst, make a to-do list every morning. Write down all the tasks you need to complete and put them in order of importance. (18)______ This way, you won't waste time deciding what to do next.\n\nSecond, avoid distractions while studying. Turn off your phone or put it in another room. (19)______ If you check your phone every few minutes, you'll lose your focus and take longer to finish your work.\n\nFinally, don't forget to take short breaks. Your brain needs time to rest and process information. (20)______ Try the Pomodoro Technique: study for 25 minutes, then rest for 5 minutes.\n\nBy following these suggestions, you'll find that you can finish your homework more efficiently and still have time for hobbies and relaxation."
+      "explanation": "本题考查段落衔接和过渡句。前文提到学生感到压力大，后文说'这里有一些有用的建议'，因此此处需要转折过渡，表示'然而，通过良好的时间管理，你可以两者兼顾'。A项However表示转折，引出解决方法，符合逻辑。B项是举例，C项是结果，D项进一步说明爱好好处，E项另一方面，均不适合此处承上启下。",
+      "label": "短文填空"
     },
     {
       "id": 18,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
+      "group": "fill_1",
+      "group_passage": "Balancing Study and Hobbies\n\nMany students find it difficult to balance their schoolwork and hobbies. They often feel stressed when they cannot finish homework on time or give up their favorite activities. (17)______ Here are some useful tips.\n\nFirst, make a proper schedule. Write down all your tasks and activities for the week. (18)______ This way, you won't forget important deadlines or miss your hobby time.\n\nSecond, learn to focus. When studying, put away your phone and other distractions. (19)______ Then you can enjoy your hobbies without worrying about unfinished homework.\n\nFinally, remember that hobbies are not a waste of time. They help you relax and develop new skills. (20)______ Finding the right balance will make your school life more colorful and enjoyable.",
       "stem": "(18)______",
       "options": [
-        "A. However, many of them don't know how to use their time wisely.",
-        "B. As a result, you'll be able to concentrate better on your studies.",
-        "C. Start with the most difficult or important tasks.",
-        "D. After a short rest, you'll return to work with fresh energy.",
-        "E. On the other hand, some students have plenty of time but no plan."
+        "A. However, with good time management, you can do well in both.",
+        "B. For example, you can allocate two hours for homework and one hour for basketball.",
+        "C. As a result, you will finish your work more efficiently.",
+        "D. In fact, they can improve your study performance in the long run.",
+        "E. On the other hand, some students spend too much time on hobbies."
       ],
-      "correct_answer": "C",
-      "explanation": "前文提到put them in order of importance（按重要性排序），C选项（从最困难或最重要的任务开始）承接上文，具体说明如何排序。后文This way指代先完成重要任务的做法，逻辑连贯。",
-      "label": "短文填空",
-      "group": "fill_1",
-      "group_passage": "Many students feel stressed because they have too much homework and too little time. (17)______ Here are some useful tips to help you manage your time better.\n\nFirst, make a to-do list every morning. Write down all the tasks you need to complete and put them in order of importance. (18)______ This way, you won't waste time deciding what to do next.\n\nSecond, avoid distractions while studying. Turn off your phone or put it in another room. (19)______ If you check your phone every few minutes, you'll lose your focus and take longer to finish your work.\n\nFinally, don't forget to take short breaks. Your brain needs time to rest and process information. (20)______ Try the Pomodoro Technique: study for 25 minutes, then rest for 5 minutes.\n\nBy following these suggestions, you'll find that you can finish your homework more efficiently and still have time for hobbies and relaxation."
+      "correct_answer": "B",
+      "explanation": "本题考查举例关系。前文说'写下所有任务和活动'，后文说'这样你就不会忘记重要截止日期或错过爱好时间'，因此此处需要具体例子说明如何安排时间。B项'例如，你可以分配两小时做作业，一小时打篮球'是对制定计划的具体举例，符合语境。",
+      "label": "短文填空"
     },
     {
       "id": 19,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
+      "group": "fill_1",
+      "group_passage": "Balancing Study and Hobbies\n\nMany students find it difficult to balance their schoolwork and hobbies. They often feel stressed when they cannot finish homework on time or give up their favorite activities. (17)______ Here are some useful tips.\n\nFirst, make a proper schedule. Write down all your tasks and activities for the week. (18)______ This way, you won't forget important deadlines or miss your hobby time.\n\nSecond, learn to focus. When studying, put away your phone and other distractions. (19)______ Then you can enjoy your hobbies without worrying about unfinished homework.\n\nFinally, remember that hobbies are not a waste of time. They help you relax and develop new skills. (20)______ Finding the right balance will make your school life more colorful and enjoyable.",
       "stem": "(19)______",
       "options": [
-        "A. However, many of them don't know how to use their time wisely.",
-        "B. As a result, you'll be able to concentrate better on your studies.",
-        "C. Start with the most difficult or important tasks.",
-        "D. After a short rest, you'll return to work with fresh energy.",
-        "E. On the other hand, some students have plenty of time but no plan."
+        "A. However, with good time management, you can do well in both.",
+        "B. For example, you can allocate two hours for homework and one hour for basketball.",
+        "C. As a result, you will finish your work more efficiently.",
+        "D. In fact, they can improve your study performance in the long run.",
+        "E. On the other hand, some students spend too much time on hobbies."
       ],
-      "correct_answer": "B",
-      "explanation": "前文建议关掉手机或放到另一个房间，B选项（因此，你将能够更专注于学习）是前文做法带来的结果，As a result表示因果关系。后文If you check...是反面论证，进一步说明为什么要远离手机干扰。",
-      "label": "短文填空",
-      "group": "fill_1",
-      "group_passage": "Many students feel stressed because they have too much homework and too little time. (17)______ Here are some useful tips to help you manage your time better.\n\nFirst, make a to-do list every morning. Write down all the tasks you need to complete and put them in order of importance. (18)______ This way, you won't waste time deciding what to do next.\n\nSecond, avoid distractions while studying. Turn off your phone or put it in another room. (19)______ If you check your phone every few minutes, you'll lose your focus and take longer to finish your work.\n\nFinally, don't forget to take short breaks. Your brain needs time to rest and process information. (20)______ Try the Pomodoro Technique: study for 25 minutes, then rest for 5 minutes.\n\nBy following these suggestions, you'll find that you can finish your homework more efficiently and still have time for hobbies and relaxation."
+      "correct_answer": "C",
+      "explanation": "本题考查因果关系。前文说'学习时把手机和其他干扰物收起来'，这是提高效率的方法，因此此处表示结果'因此，你会更高效地完成作业'。As a result表示结果，承接上文的专注行为，引出下文的'然后你可以享受爱好'。",
+      "label": "短文填空"
     },
     {
       "id": 20,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
+      "group": "fill_1",
+      "group_passage": "Balancing Study and Hobbies\n\nMany students find it difficult to balance their schoolwork and hobbies. They often feel stressed when they cannot finish homework on time or give up their favorite activities. (17)______ Here are some useful tips.\n\nFirst, make a proper schedule. Write down all your tasks and activities for the week. (18)______ This way, you won't forget important deadlines or miss your hobby time.\n\nSecond, learn to focus. When studying, put away your phone and other distractions. (19)______ Then you can enjoy your hobbies without worrying about unfinished homework.\n\nFinally, remember that hobbies are not a waste of time. They help you relax and develop new skills. (20)______ Finding the right balance will make your school life more colorful and enjoyable.",
       "stem": "(20)______",
       "options": [
-        "A. However, many of them don't know how to use their time wisely.",
-        "B. As a result, you'll be able to concentrate better on your studies.",
-        "C. Start with the most difficult or important tasks.",
-        "D. After a short rest, you'll return to work with fresh energy.",
-        "E. On the other hand, some students have plenty of time but no plan."
+        "A. However, with good time management, you can do well in both.",
+        "B. For example, you can allocate two hours for homework and one hour for basketball.",
+        "C. As a result, you will finish your work more efficiently.",
+        "D. In fact, they can improve your study performance in the long run.",
+        "E. On the other hand, some students spend too much time on hobbies."
       ],
       "correct_answer": "D",
-      "explanation": "本段主题是take short breaks（短暂休息），D选项（短暂休息后，你会以全新的精力回到工作中）解释了为什么要休息，与主题一致。后文提到的Pomodoro Technique（番茄工作法）也是关于休息的具体方法，进一步印证D选项正确。",
-      "label": "短文填空",
-      "group": "fill_1",
-      "group_passage": "Many students feel stressed because they have too much homework and too little time. (17)______ Here are some useful tips to help you manage your time better.\n\nFirst, make a to-do list every morning. Write down all the tasks you need to complete and put them in order of importance. (18)______ This way, you won't waste time deciding what to do next.\n\nSecond, avoid distractions while studying. Turn off your phone or put it in another room. (19)______ If you check your phone every few minutes, you'll lose your focus and take longer to finish your work.\n\nFinally, don't forget to take short breaks. Your brain needs time to rest and process information. (20)______ Try the Pomodoro Technique: study for 25 minutes, then rest for 5 minutes.\n\nBy following these suggestions, you'll find that you can finish your homework more efficiently and still have time for hobbies and relaxation."
+      "explanation": "本题考查递进关系。前文说'爱好帮助你放松和发展新技能'，此处进一步说明爱好的好处'事实上，从长远来看它们能提高你的学习表现'。In fact用于补充说明或强调，符合此处进一步阐述爱好价值的语境。",
+      "label": "短文填空"
     }
   ]
 }
