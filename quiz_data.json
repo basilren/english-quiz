@@ -1,5 +1,5 @@
 ﻿{
-  "date": "2026-06-16",
+  "date": "2026-06-17",
   "session_number": 1,
   "questions": [
     {
@@ -7,15 +7,15 @@
       "type": "grammar",
       "knowledge_point": "present_perfect_vs_past_simple",
       "difficulty": 2,
-      "stem": "—I ______ the book already. \n—Oh, really? When ______ you ______ it?",
+      "stem": "—I ______ the Great Wall twice. It's amazing.\n—Really? When ______ you ______ there last time?",
       "options": [
-        "A. have read; did; read",
-        "B. read; have; read",
-        "C. have read; have; read",
-        "D. read; did; read"
+        "A. have visited; did; go",
+        "B. visited; have; gone",
+        "C. have visited; have; gone",
+        "D. visited; did; go"
       ],
       "correct_answer": "A",
-      "explanation": "本题考查现在完成时与一般过去时的区别。第一空后有already（已经），是现在完成时的标志词，结构为have/has+过去分词，故用have read；第二空询问过去发生的动作时间，用一般过去时的疑问句形式，借助助动词did，后面动词用原形read。B项时态颠倒，C项第二空不应使用现在完成时，D项第一空缺少完成时。",
+      "explanation": "第一空用现在完成时have visited，表示\"曾经去过两次\"，强调对现在的影响或经历；第二空有明确时间状语last time，用一般过去时did...go。B和D第一空错误，C第二空错误。技巧：看到twice/ever/never等用现在完成时；看到last time/yesterday等具体过去时间用一般过去时。",
       "label": "语法题"
     },
     {
@@ -23,15 +23,15 @@
       "type": "grammar",
       "knowledge_point": "relative_clause_who_which",
       "difficulty": 2,
-      "stem": "The boy ______ won the first prize is the monitor of Class 3.",
+      "stem": "The book ______ cover is red belongs to Tom. It is about science.",
       "options": [
         "A. who",
         "B. which",
-        "C. whom",
-        "D. whose"
+        "C. whose",
+        "D. whom"
       ],
       "correct_answer": "A",
-      "explanation": "本题考查定语从句关系代词的选择。先行词The boy指人，且在从句中作主语，因此用who。which用于指物；whom用于指人但作宾语；whose表示所属关系，意为'……的'。从句中缺少主语，故选A。",
+      "explanation": "先行词是the boy（人），且在定语从句中作主语，用who。which用于指物（排除B）；whose表示\"...的\"，后需接名词（排除C）；whom用于指人但作宾语（排除D）。技巧：先行词是人且作主语用who，作宾语用who/whom，表示所属用whose；先行词是物用which/that。",
       "label": "语法题"
     },
     {
@@ -39,169 +39,169 @@
       "type": "grammar",
       "knowledge_point": "passive_voice",
       "difficulty": 1,
-      "stem": "These books ______ to the school library by the students yesterday.",
+      "stem": "These books ______ to the school library after they are read.",
       "options": [
-        "A. are returned",
-        "B. were returned",
-        "C. have returned",
-        "D. returned"
+        "A. must return",
+        "B. must be returned",
+        "C. must returned",
+        "D. must be return"
       ],
       "correct_answer": "B",
-      "explanation": "本题考查一般过去时的被动语态。主语These books与动词return之间是被动关系，需用被动语态（be+过去分词）；时间状语yesterday表明是一般过去时，因此be动词用were。A项是一般现在时被动，时态不符；C项是主动语态；D项缺少be动词，不是被动结构。",
+      "explanation": "主语books和动词return是被动关系（书被归还），含情态动词must的被动语态结构是：must be + 过去分词。A是主动语态；C缺少be；D中return形式错误。技巧：被动语态基本结构be done，情态动词后be用原形。",
       "label": "语法题"
     },
     {
       "id": 4,
       "type": "grammar",
-      "knowledge_point": "object_clause",
+      "knowledge_point": "object_clause_modal_verbs",
       "difficulty": 3,
-      "stem": "—Could you tell me ______?\n—Sure. It's on the third floor.",
+      "stem": "—Do you think ______ we will have a picnic tomorrow?\n—I'm not sure. It ______ rain in the afternoon.",
       "options": [
-        "A. where is the teachers' office",
-        "B. where the teachers' office is",
-        "C. where does the teachers' office",
-        "D. where the teachers' office does"
+        "A. that; must",
+        "B. if; might",
+        "C. whether; must",
+        "D. that; can"
       ],
       "correct_answer": "B",
-      "explanation": "本题考查宾语从句的语序。宾语从句必须使用陈述句语序（主语+谓语），不能倒装。A项是疑问句语序；C、D项结构错误，does位置不对且缺少be动词。只有B项'where the teachers' office is'符合陈述句语序，意为'教师办公室在哪里'。",
+      "explanation": "第一空：根据答语I'm not sure（不确定），可知问句是\"是否\"，用if或whether，排除A和D；第二空：表示\"可能下雨\"用might（可能性较小）或may。must表示肯定推测\"一定\"，与not sure矛盾；can表推测通常用于否定句。因此选B。技巧：不确定用might/may，肯定推测用must，否定推测用can't。",
       "label": "语法题"
     },
     {
       "id": 5,
       "type": "vocabulary",
-      "knowledge_point": "word_meaning",
+      "knowledge_point": "word_meaning_satisfied",
       "difficulty": 1,
-      "stem": "If you are ______ with your current score, you should work harder to get a better one.",
+      "stem": "If you are not ______ with your current grade, you should work harder to get a better one next time.",
       "options": [
-        "A. excited",
+        "A. satisfying",
         "B. satisfied",
-        "C. surprised",
-        "D. worried"
+        "C. satisfaction",
+        "D. satisfy"
       ],
       "correct_answer": "B",
-      "explanation": "本题考查形容词词义辨析及语境理解。根据后半句'应该更努力取得更好成绩'可知，前半句意思是'如果你对现在的成绩满意'。be satisfied with是固定搭配，意为'对……满意'。excited（兴奋的）、surprised（惊讶的）、worried（担心的）代入后逻辑不通。",
+      "explanation": "be satisfied with是固定搭配，表示\"对...感到满意\"。主语是人，用-ed形容词satisfied；satisfying令人满意的（修饰物）；satisfaction是名词；satisfy是动词。技巧：-ed形容词修饰人，-ing形容词修饰物。",
       "label": "词汇题"
     },
     {
       "id": 6,
       "type": "vocabulary",
-      "knowledge_point": "phrasal_verbs",
+      "knowledge_point": "prefix_suffix",
       "difficulty": 2,
-      "stem": "We decided to ______ our old books to the children in mountain areas.",
+      "stem": "The ______ news made all of us feel ______. We jumped with joy.",
       "options": [
-        "A. give away",
-        "B. give up",
-        "C. give in",
-        "D. give out"
+        "A. excited; excited",
+        "B. exciting; exciting",
+        "C. exciting; excited",
+        "D. excited; exciting"
       ],
-      "correct_answer": "A",
-      "explanation": "本题考查动词短语辨析。give away意为'捐赠、赠送'；give up意为'放弃'；give in意为'屈服、让步'；give out意为'分发、耗尽'。根据语境'把旧书给山区孩子'，应选择'捐赠'之意，故选A。",
+      "correct_answer": "C",
+      "explanation": "第一空修饰news（物），用exciting（令人兴奋的）；第二空修饰us（人），用excited（感到兴奋的）。技巧：-ing形容词表示\"令人...的\"，修饰物；-ed形容词表示\"感到...的\"，修饰人。",
       "label": "词汇题"
     },
     {
       "id": 7,
       "type": "vocabulary",
-      "knowledge_point": "word_formation",
+      "knowledge_point": "phrasal_verbs",
       "difficulty": 2,
-      "stem": "The ______ of this painting is a famous artist from France. (paint)",
+      "stem": "We should ______ our best to reduce plastic waste and protect the environment.",
       "options": [
-        "A. painter",
-        "B. painting",
-        "C. painted",
-        "D. paint"
+        "A. try",
+        "B. make",
+        "C. do",
+        "D. give"
       ],
       "correct_answer": "A",
-      "explanation": "本题考查词性转换。根据句意'这幅画的……是一位来自法国的著名艺术家'，可知空格处需要表示'画家'的名词。paint（绘画）加后缀-er变为painter（画家）。painting意为'画作'，不符合句意；painted是过去分词；paint是动词原形。",
+      "explanation": "try one's best是固定短语，意为\"尽某人最大努力\"。make one's best（无此搭配）；do one's best虽然也有\"尽力\"之意，但通常说do one's best，而try one's best更常用；give one's best（无此搭配）。根据常用搭配，选A。技巧：try one's best = do one's best，但选项中只有try符合。",
       "label": "词汇题"
     },
     {
       "id": 8,
       "type": "cloze",
-      "knowledge_point": "cloze_context",
+      "knowledge_point": "cloze_general",
       "difficulty": 2,
       "group": "cloze_1",
-      "group_passage": "Last month, our school started an interesting project called \"Green Campus\". The goal was to help students understand the (8)______ of protecting the environment while improving our school life.\n\nAt first, many students were not (9)______ about the project. They thought it would take too much time and bring little change. However, things turned out differently.\n\nOur class decided to (10)______ a recycling program. We collected plastic bottles and waste paper every Friday afternoon. To our surprise, we collected over 200 kilograms of recyclable materials in just one month. The money we got from selling these materials was used to buy books for our school library.\n\nThe project not only helped the environment but also taught us valuable lessons. We learned that small actions could make a big (11)______. Now, more and more students are joining us. They bring their used batteries and old clothes to school instead of throwing them away.\n\nThis experience has changed the way we think about waste. We realize that everyone can do something to make our world (12)______. I am proud to be part of this meaningful project.",
+      "group_passage": "Green Life in Our School\n\nOur school started a \"Green Campus\" project this term. The goal is to make students understand the importance of protecting the environment.\n\nEvery classroom now has three different bins. They are for paper, plastic, and other waste. At first, many students found it (8)______ to remember which bin to use. But after two weeks, everyone got used to it.\n\nThe most popular part is the \"No Plastic Week\". During this week, students cannot use plastic bags or bottles. Instead, we use cloth bags and metal bottles. Some students thought it would be (9)______ to live without plastic. However, they soon found it was easier than expected.\n\nWhat surprised us most was the \"Green Garden\" on the rooftop. Students can plant vegetables there. Not only does it provide fresh food, but it also teaches us about nature. Working in the garden has become a favorite activity. Students say it helps them (10)______ from study pressure.\n\nThe project has run for three months. According to the data, waste produced by our school has dropped by 30%. This result (11)______ us that small changes can make a big difference. Our headmaster said, \"We plan to add solar panels next year. I hope more students will (12)______ in making our school greener.\"",
       "stem": "(8)______",
       "options": [
-        "A. result",
-        "B. importance",
-        "C. reason",
-        "D. cause"
+        "A. easy",
+        "B. difficult",
+        "C. possible",
+        "D. necessary"
       ],
       "correct_answer": "B",
-      "explanation": "本题考查语境推理和名词辨析。根据句意'目标是帮助学生理解保护环境的……'，importance（重要性）最符合语境。the importance of...是固定搭配。result（结果）、reason（原因，常与for搭配）、cause（起因）均不符合此处表达'环保重要性'的语境。",
+      "explanation": "根据下文\"But after two weeks, everyone got used to it（但两周后大家习惯了）\"的转折关系，可知起初应该是\"困难的\"。easy（容易的）与but转折矛盾；possible（可能的）和necessary（必要的）不符合语境。技巧：注意but/however等转折词，前后语义相反。",
       "label": "完形填空"
     },
     {
       "id": 9,
       "type": "cloze",
-      "knowledge_point": "cloze_emotion",
-      "difficulty": 1,
+      "knowledge_point": "cloze_general",
+      "difficulty": 2,
       "group": "cloze_1",
-      "group_passage": "Last month, our school started an interesting project called \"Green Campus\". The goal was to help students understand the (8)______ of protecting the environment while improving our school life.\n\nAt first, many students were not (9)______ about the project. They thought it would take too much time and bring little change. However, things turned out differently.\n\nOur class decided to (10)______ a recycling program. We collected plastic bottles and waste paper every Friday afternoon. To our surprise, we collected over 200 kilograms of recyclable materials in just one month. The money we got from selling these materials was used to buy books for our school library.\n\nThe project not only helped the environment but also taught us valuable lessons. We learned that small actions could make a big (11)______. Now, more and more students are joining us. They bring their used batteries and old clothes to school instead of throwing them away.\n\nThis experience has changed the way we think about waste. We realize that everyone can do something to make our world (12)______. I am proud to be part of this meaningful project.",
+      "group_passage": "Green Life in Our School\n\nOur school started a \"Green Campus\" project this term. The goal is to make students understand the importance of protecting the environment.\n\nEvery classroom now has three different bins. They are for paper, plastic, and other waste. At first, many students found it (8)______ to remember which bin to use. But after two weeks, everyone got used to it.\n\nThe most popular part is the \"No Plastic Week\". During this week, students cannot use plastic bags or bottles. Instead, we use cloth bags and metal bottles. Some students thought it would be (9)______ to live without plastic. However, they soon found it was easier than expected.\n\nWhat surprised us most was the \"Green Garden\" on the rooftop. Students can plant vegetables there. Not only does it provide fresh food, but it also teaches us about nature. Working in the garden has become a favorite activity. Students say it helps them (10)______ from study pressure.\n\nThe project has run for three months. According to the data, waste produced by our school has dropped by 30%. This result (11)______ us that small changes can make a big difference. Our headmaster said, \"We plan to add solar panels next year. I hope more students will (12)______ in making our school greener.\"",
       "stem": "(9)______",
       "options": [
-        "A. nervous",
-        "B. angry",
-        "C. excited",
-        "D. sad"
+        "A. easy",
+        "B. difficult",
+        "C. interesting",
+        "D. important"
       ],
-      "correct_answer": "C",
-      "explanation": "本题考查情感线索和形容词辨析。根据下文'他们认为这会花太多时间且没什么改变'可知，起初学生们对这个项目并不'兴奋/感兴趣'。be excited about意为'对……感到兴奋'。nervous（紧张的）、angry（生气的）、sad（悲伤的）均不符合语境逻辑。",
+      "correct_answer": "B",
+      "explanation": "根据下文\"However, they soon found it was easier than expected（然而他们很快发现比预期容易）\"，可知起初认为\"困难\"。however表示转折，后面说easier，前面应该是difficult。技巧：however/ but前后语义相反，利用反义词解题。",
       "label": "完形填空"
     },
     {
       "id": 10,
       "type": "cloze",
-      "knowledge_point": "cloze_context",
-      "difficulty": 2,
+      "knowledge_point": "cloze_general",
+      "difficulty": 1,
       "group": "cloze_1",
-      "group_passage": "Last month, our school started an interesting project called \"Green Campus\". The goal was to help students understand the (8)______ of protecting the environment while improving our school life.\n\nAt first, many students were not (9)______ about the project. They thought it would take too much time and bring little change. However, things turned out differently.\n\nOur class decided to (10)______ a recycling program. We collected plastic bottles and waste paper every Friday afternoon. To our surprise, we collected over 200 kilograms of recyclable materials in just one month. The money we got from selling these materials was used to buy books for our school library.\n\nThe project not only helped the environment but also taught us valuable lessons. We learned that small actions could make a big (11)______. Now, more and more students are joining us. They bring their used batteries and old clothes to school instead of throwing them away.\n\nThis experience has changed the way we think about waste. We realize that everyone can do something to make our world (12)______. I am proud to be part of this meaningful project.",
+      "group_passage": "Green Life in Our School\n\nOur school started a \"Green Campus\" project this term. The goal is to make students understand the importance of protecting the environment.\n\nEvery classroom now has three different bins. They are for paper, plastic, and other waste. At first, many students found it (8)______ to remember which bin to use. But after two weeks, everyone got used to it.\n\nThe most popular part is the \"No Plastic Week\". During this week, students cannot use plastic bags or bottles. Instead, we use cloth bags and metal bottles. Some students thought it would be (9)______ to live without plastic. However, they soon found it was easier than expected.\n\nWhat surprised us most was the \"Green Garden\" on the rooftop. Students can plant vegetables there. Not only does it provide fresh food, but it also teaches us about nature. Working in the garden has become a favorite activity. Students say it helps them (10)______ from study pressure.\n\nThe project has run for three months. According to the data, waste produced by our school has dropped by 30%. This result (11)______ us that small changes can make a big difference. Our headmaster said, \"We plan to add solar panels next year. I hope more students will (12)______ in making our school greener.\"",
       "stem": "(10)______",
       "options": [
-        "A. join",
-        "B. start",
-        "C. refuse",
-        "D. stop"
+        "A. relax",
+        "B. to relax",
+        "C. relaxing",
+        "D. relaxed"
       ],
-      "correct_answer": "B",
-      "explanation": "本题考查语境推理和动词辨析。根据下文'我们每周五下午收集塑料瓶和废纸'可知，我们班'发起/开始'了一个回收项目。start（开始、发起）符合语境。join（加入）通常指加入已有组织；refuse（拒绝）和stop（停止）与下文积极行动矛盾。",
+      "correct_answer": "A",
+      "explanation": "help sb. (to) do sth.是固定搭配，意为\"帮助某人做某事\"，to可以省略。因此用动词原形relax。技巧：help后接不带to或带to的不定式作宾补。",
       "label": "完形填空"
     },
     {
       "id": 11,
       "type": "cloze",
-      "knowledge_point": "cloze_fixed_phrase",
-      "difficulty": 1,
+      "knowledge_point": "cloze_general",
+      "difficulty": 2,
       "group": "cloze_1",
-      "group_passage": "Last month, our school started an interesting project called \"Green Campus\". The goal was to help students understand the (8)______ of protecting the environment while improving our school life.\n\nAt first, many students were not (9)______ about the project. They thought it would take too much time and bring little change. However, things turned out differently.\n\nOur class decided to (10)______ a recycling program. We collected plastic bottles and waste paper every Friday afternoon. To our surprise, we collected over 200 kilograms of recyclable materials in just one month. The money we got from selling these materials was used to buy books for our school library.\n\nThe project not only helped the environment but also taught us valuable lessons. We learned that small actions could make a big (11)______. Now, more and more students are joining us. They bring their used batteries and old clothes to school instead of throwing them away.\n\nThis experience has changed the way we think about waste. We realize that everyone can do something to make our world (12)______. I am proud to be part of this meaningful project.",
+      "group_passage": "Green Life in Our School\n\nOur school started a \"Green Campus\" project this term. The goal is to make students understand the importance of protecting the environment.\n\nEvery classroom now has three different bins. They are for paper, plastic, and other waste. At first, many students found it (8)______ to remember which bin to use. But after two weeks, everyone got used to it.\n\nThe most popular part is the \"No Plastic Week\". During this week, students cannot use plastic bags or bottles. Instead, we use cloth bags and metal bottles. Some students thought it would be (9)______ to live without plastic. However, they soon found it was easier than expected.\n\nWhat surprised us most was the \"Green Garden\" on the rooftop. Students can plant vegetables there. Not only does it provide fresh food, but it also teaches us about nature. Working in the garden has become a favorite activity. Students say it helps them (10)______ from study pressure.\n\nThe project has run for three months. According to the data, waste produced by our school has dropped by 30%. This result (11)______ us that small changes can make a big difference. Our headmaster said, \"We plan to add solar panels next year. I hope more students will (12)______ in making our school greener.\"",
       "stem": "(11)______",
       "options": [
-        "A. mistake",
-        "B. decision",
-        "C. difference",
-        "D. progress"
+        "A. tells",
+        "B. reminds",
+        "C. warns",
+        "D. promises"
       ],
-      "correct_answer": "C",
-      "explanation": "本题考查固定搭配。make a big difference是固定短语，意为'产生重大影响、有很大作用'。句意：我们学到小行动可以产生大影响。make a mistake（犯错）、make a decision（做决定）、make progress（取得进步，不与a连用）均不符合此处固定搭配和语境。",
+      "correct_answer": "A",
+      "explanation": "根据语境\"这个结果_____我们小改变能带来大不同\"，tells（告诉）符合语境。reminds（提醒）需搭配of/from；warns（警告）语气过重；promises（承诺）主语通常是人。技巧：根据宾语从句内容判断动词，客观事实用tell。",
       "label": "完形填空"
     },
     {
       "id": 12,
       "type": "cloze",
-      "knowledge_point": "cloze_context",
-      "difficulty": 2,
+      "knowledge_point": "cloze_general",
+      "difficulty": 1,
       "group": "cloze_1",
-      "group_passage": "Last month, our school started an interesting project called \"Green Campus\". The goal was to help students understand the (8)______ of protecting the environment while improving our school life.\n\nAt first, many students were not (9)______ about the project. They thought it would take too much time and bring little change. However, things turned out differently.\n\nOur class decided to (10)______ a recycling program. We collected plastic bottles and waste paper every Friday afternoon. To our surprise, we collected over 200 kilograms of recyclable materials in just one month. The money we got from selling these materials was used to buy books for our school library.\n\nThe project not only helped the environment but also taught us valuable lessons. We learned that small actions could make a big (11)______. Now, more and more students are joining us. They bring their used batteries and old clothes to school instead of throwing them away.\n\nThis experience has changed the way we think about waste. We realize that everyone can do something to make our world (12)______. I am proud to be part of this meaningful project.",
+      "group_passage": "Green Life in Our School\n\nOur school started a \"Green Campus\" project this term. The goal is to make students understand the importance of protecting the environment.\n\nEvery classroom now has three different bins. They are for paper, plastic, and other waste. At first, many students found it (8)______ to remember which bin to use. But after two weeks, everyone got used to it.\n\nThe most popular part is the \"No Plastic Week\". During this week, students cannot use plastic bags or bottles. Instead, we use cloth bags and metal bottles. Some students thought it would be (9)______ to live without plastic. However, they soon found it was easier than expected.\n\nWhat surprised us most was the \"Green Garden\" on the rooftop. Students can plant vegetables there. Not only does it provide fresh food, but it also teaches us about nature. Working in the garden has become a favorite activity. Students say it helps them (10)______ from study pressure.\n\nThe project has run for three months. According to the data, waste produced by our school has dropped by 30%. This result (11)______ us that small changes can make a big difference. Our headmaster said, \"We plan to add solar panels next year. I hope more students will (12)______ in making our school greener.\"",
       "stem": "(12)______",
       "options": [
-        "A. bigger",
-        "B. cleaner",
-        "C. quieter",
-        "D. busier"
+        "A. take part",
+        "B. join",
+        "C. attend",
+        "D. participate"
       ],
       "correct_answer": "B",
-      "explanation": "本题考查语境推理和形容词比较级。全文主题是环保项目，因此此处意为'让世界更干净'。cleaner（更干净的）符合环保主题。bigger（更大的）、quieter（更安静的）、busier（更忙的）与回收垃圾、保护环境的语境不符。",
+      "explanation": "join in doing sth.表示\"参与做某事\"。take part需加in；attend后接会议/学校等；participate需加in。空格后直接是in，因此选join。技巧：join in = take part in = participate in，注意搭配。",
       "label": "完形填空"
     },
     {
@@ -210,70 +210,70 @@
       "knowledge_point": "detail",
       "difficulty": 2,
       "group": "reading_1",
-      "group_passage": "Protecting Your Eyes in the Digital Age\n\nIn today's world, teenagers spend more time than ever looking at screens. Whether it's for online classes, homework, or entertainment, our eyes are working harder than ever before. Dr. Li Ming, an eye specialist from Shenzhen Hospital, has some useful advice for keeping our eyes healthy.\n\nAccording to Dr. Li, digital eye strain is becoming increasingly common among students. \"When we stare at screens for long periods, our eyes become dry and tired,\" he explains. \"This can lead to headaches and even blurred vision over time.\"\n\nTo solve this problem, Dr. Li suggests following the \"20-20-20\" rule. Every 20 minutes, look at something 20 feet away (about 6 meters) for at least 20 seconds. This simple habit gives your eye muscles a chance to relax. \"It's like taking a short vacation for your eyes,\" Dr. Li says with a smile.\n\nBesides the 20-20-20 rule, there are other ways to protect your eyes. Make sure your screen is about an arm's length away from your face. The top of the screen should be at or slightly below eye level. Good lighting is also important—avoid working in dark rooms or under strong direct light.\n\nDr. Li also recommends the \"blinking exercise.\" Normally, we blink about 15 times per minute, but when using screens, this drops to 5 times. Try to blink more often to keep your eyes moist. If your eyes feel dry, you can use artificial tears (眼药水), but don't overuse them.\n\nRemember, your eyes are precious. Once damaged, they are hard to repair. By following these simple tips, you can enjoy technology without hurting your vision.",
-      "stem": "What is the \"20-20-20\" rule according to Dr. Li Ming?",
+      "group_passage": "Teenagers Create App to Help Save Food\n\nTwo students from Shenzhen, Li Hua and Wang Mei, have developed a mobile app called \"Food Saver\". The app aims to reduce food waste in school cafeterias.\n\nThe idea came to them last year when they saw large amounts of uneaten food being thrown away every day. \"It was heartbreaking to see so much waste while many people in the world are still hungry,\" said Li Hua.\n\nThe app works in a simple way. Students can check the menu and order meals in advance through the app. The cafeteria staff then know exactly how much food to prepare. This prevents overproduction. Additionally, if students cannot eat at school unexpectedly, they can cancel their order two hours before lunchtime.\n\nSince the app was introduced three months ago, food waste in the cafeteria has decreased by 40%. \"The results exceeded our expectations,\" said Wang Mei. \"We thought people might find the app troublesome at first, but most students actually find it convenient.\"\n\nThe app has won first prize in the city's Teenage Science Competition. Now, several other schools in Shenzhen have shown interest in using it. Dr. Zhang, a technology expert, commented, \"This is a great example of how technology can solve real-life problems. These students have shown that innovation doesn't require complex technology—what matters is identifying a real need.\"\n\nHowever, the team is not stopping here. They are working on new features, including a function that allows students to rate meals. This will help the cafeteria improve its service.",
+      "stem": "How does the \"Food Saver\" app help reduce food waste?",
       "options": [
-        "A. Resting for 20 days after using screens.",
-        "B. Looking at something 20 feet away for 20 seconds every 20 minutes.",
-        "C. Using screens for no more than 20 minutes every day.",
-        "D. Taking a 20-second break after 20 hours of work."
+        "A. By providing free meals to students.",
+        "B. By allowing students to order meals in advance.",
+        "C. By closing the cafeteria early every day.",
+        "D. By limiting the amount of food per student."
       ],
       "correct_answer": "B",
-      "explanation": "本题是细节理解题。根据文章第三段第二句'Every 20 minutes, look at something 20 feet away (about 6 meters) for at least 20 seconds.'可知，20-20-20规则是指每20分钟看20英尺（约6米）外的东西至少20秒。A项20天、C项每天使用不超过20分钟、D项20小时后休息均与原文不符。",
+      "explanation": "根据第三段\"Students can check the menu and order meals in advance through the app. The cafeteria staff then know exactly how much food to prepare. This prevents overproduction.\"可知，学生提前点餐让食堂知道准备多少食物，防止过量生产。A、C、D文中未提及。技巧：细节题定位关键词，在原文找同义句。",
       "label": "阅读-细节理解"
     },
     {
       "id": 14,
       "type": "reading",
-      "knowledge_point": "word_guessing",
-      "difficulty": 2,
+      "knowledge_point": "inference",
+      "difficulty": 3,
       "group": "reading_1",
-      "group_passage": "Protecting Your Eyes in the Digital Age\n\nIn today's world, teenagers spend more time than ever looking at screens. Whether it's for online classes, homework, or entertainment, our eyes are working harder than ever before. Dr. Li Ming, an eye specialist from Shenzhen Hospital, has some useful advice for keeping our eyes healthy.\n\nAccording to Dr. Li, digital eye strain is becoming increasingly common among students. \"When we stare at screens for long periods, our eyes become dry and tired,\" he explains. \"This can lead to headaches and even blurred vision over time.\"\n\nTo solve this problem, Dr. Li suggests following the \"20-20-20\" rule. Every 20 minutes, look at something 20 feet away (about 6 meters) for at least 20 seconds. This simple habit gives your eye muscles a chance to relax. \"It's like taking a short vacation for your eyes,\" Dr. Li says with a smile.\n\nBesides the 20-20-20 rule, there are other ways to protect your eyes. Make sure your screen is about an arm's length away from your face. The top of the screen should be at or slightly below eye level. Good lighting is also important—avoid working in dark rooms or under strong direct light.\n\nDr. Li also recommends the \"blinking exercise.\" Normally, we blink about 15 times per minute, but when using screens, this drops to 5 times. Try to blink more often to keep your eyes moist. If your eyes feel dry, you can use artificial tears (眼药水), but don't overuse them.\n\nRemember, your eyes are precious. Once damaged, they are hard to repair. By following these simple tips, you can enjoy technology without hurting your vision.",
-      "stem": "What does the word \"strain\" in Paragraph 2 probably mean?",
+      "group_passage": "Teenagers Create App to Help Save Food\n\nTwo students from Shenzhen, Li Hua and Wang Mei, have developed a mobile app called \"Food Saver\". The app aims to reduce food waste in school cafeterias.\n\nThe idea came to them last year when they saw large amounts of uneaten food being thrown away every day. \"It was heartbreaking to see so much waste while many people in the world are still hungry,\" said Li Hua.\n\nThe app works in a simple way. Students can check the menu and order meals in advance through the app. The cafeteria staff then know exactly how much food to prepare. This prevents overproduction. Additionally, if students cannot eat at school unexpectedly, they can cancel their order two hours before lunchtime.\n\nSince the app was introduced three months ago, food waste in the cafeteria has decreased by 40%. \"The results exceeded our expectations,\" said Wang Mei. \"We thought people might find the app troublesome at first, but most students actually find it convenient.\"\n\nThe app has won first prize in the city's Teenage Science Competition. Now, several other schools in Shenzhen have shown interest in using it. Dr. Zhang, a technology expert, commented, \"This is a great example of how technology can solve real-life problems. These students have shown that innovation doesn't require complex technology—what matters is identifying a real need.\"\n\nHowever, the team is not stopping here. They are working on new features, including a function that allows students to rate meals. This will help the cafeteria improve its service.",
+      "stem": "What can we infer from Dr. Zhang's words in the last paragraph?",
       "options": [
-        "A. Strength",
-        "B. Tiredness",
-        "C. Light",
-        "D. Disease"
+        "A. The app uses very complex technology.",
+        "B. Li Hua and Wang Mei are professional programmers.",
+        "C. Identifying real problems is important for innovation.",
+        "D. All schools in Shenzhen are using this app now."
       ],
-      "correct_answer": "B",
-      "explanation": "本题是词义猜测题。根据第二段后文解释'When we stare at screens for long periods, our eyes become dry and tired'（长时间盯着屏幕，眼睛会变干和疲劳），可推断strain在此处意为'疲劳、紧张'。A项力量、C项光线、D项疾病均不符合上下文语境。",
-      "label": "阅读-词义猜测"
+      "correct_answer": "C",
+      "explanation": "根据最后一段Dr. Zhang的话\"what matters is identifying a real need（重要的是发现真实需求）\"，可推断出发现真实问题对创新很重要。A与原文\"doesn't require complex technology\"矛盾；B文中未提及他们是专业人士；D与\"several other schools... shown interest\"不符，只是感兴趣并非都在用。技巧：推理题基于原文但需合理推断，避免过度推理或与原文矛盾的选项。",
+      "label": "阅读-推理判断"
     },
     {
       "id": 15,
       "type": "reading",
-      "knowledge_point": "inference",
-      "difficulty": 3,
+      "knowledge_point": "word_guessing",
+      "difficulty": 2,
       "group": "reading_1",
-      "group_passage": "Protecting Your Eyes in the Digital Age\n\nIn today's world, teenagers spend more time than ever looking at screens. Whether it's for online classes, homework, or entertainment, our eyes are working harder than ever before. Dr. Li Ming, an eye specialist from Shenzhen Hospital, has some useful advice for keeping our eyes healthy.\n\nAccording to Dr. Li, digital eye strain is becoming increasingly common among students. \"When we stare at screens for long periods, our eyes become dry and tired,\" he explains. \"This can lead to headaches and even blurred vision over time.\"\n\nTo solve this problem, Dr. Li suggests following the \"20-20-20\" rule. Every 20 minutes, look at something 20 feet away (about 6 meters) for at least 20 seconds. This simple habit gives your eye muscles a chance to relax. \"It's like taking a short vacation for your eyes,\" Dr. Li says with a smile.\n\nBesides the 20-20-20 rule, there are other ways to protect your eyes. Make sure your screen is about an arm's length away from your face. The top of the screen should be at or slightly below eye level. Good lighting is also important—avoid working in dark rooms or under strong direct light.\n\nDr. Li also recommends the \"blinking exercise.\" Normally, we blink about 15 times per minute, but when using screens, this drops to 5 times. Try to blink more often to keep your eyes moist. If your eyes feel dry, you can use artificial tears (眼药水), but don't overuse them.\n\nRemember, your eyes are precious. Once damaged, they are hard to repair. By following these simple tips, you can enjoy technology without hurting your vision.",
-      "stem": "What can we infer from Dr. Li Ming's words in the last paragraph?",
+      "group_passage": "Teenagers Create App to Help Save Food\n\nTwo students from Shenzhen, Li Hua and Wang Mei, have developed a mobile app called \"Food Saver\". The app aims to reduce food waste in school cafeterias.\n\nThe idea came to them last year when they saw large amounts of uneaten food being thrown away every day. \"It was heartbreaking to see so much waste while many people in the world are still hungry,\" said Li Hua.\n\nThe app works in a simple way. Students can check the menu and order meals in advance through the app. The cafeteria staff then know exactly how much food to prepare. This prevents overproduction. Additionally, if students cannot eat at school unexpectedly, they can cancel their order two hours before lunchtime.\n\nSince the app was introduced three months ago, food waste in the cafeteria has decreased by 40%. \"The results exceeded our expectations,\" said Wang Mei. \"We thought people might find the app troublesome at first, but most students actually find it convenient.\"\n\nThe app has won first prize in the city's Teenage Science Competition. Now, several other schools in Shenzhen have shown interest in using it. Dr. Zhang, a technology expert, commented, \"This is a great example of how technology can solve real-life problems. These students have shown that innovation doesn't require complex technology—what matters is identifying a real need.\"\n\nHowever, the team is not stopping here. They are working on new features, including a function that allows students to rate meals. This will help the cafeteria improve its service.",
+      "stem": "What does the word \"exceeded\" in Paragraph 4 probably mean?",
       "options": [
-        "A. We should stop using electronic devices completely.",
-        "B. Eye drops can cure all eye diseases.",
-        "C. Prevention is more important than treatment for eye health.",
-        "D. Only teenagers need to worry about eye strain."
+        "A. 达到",
+        "B. 超出",
+        "C. 低于",
+        "D. 改变"
       ],
-      "correct_answer": "C",
-      "explanation": "本题是推理判断题。根据最后一段'Remember, your eyes are precious. Once damaged, they are hard to repair.'（眼睛很珍贵，一旦受损很难修复），可推断出'预防比治疗更重要'。A项完全停止使用电子设备过于绝对；B项眼药水能治愈所有眼疾与原文'不要过度使用'矛盾；D项只有青少年需要担心与文章开头'teengers'只是例子不符。",
-      "label": "阅读-推理判断"
+      "correct_answer": "B",
+      "explanation": "根据上下文，后面说\"We thought...（我们原以为...）\"，暗示实际情况比预期更好，浪费减少了40%，因此是\"超出\"预期。ex-表示\"向外\"，ceed表示\"走\"，走出去即\"超过\"。技巧：利用上下文逻辑（比预期好）和构词法（ex-向外）猜测词义。",
+      "label": "阅读-词义猜测"
     },
     {
       "id": 16,
       "type": "reading",
       "knowledge_point": "main_idea",
-      "difficulty": 3,
+      "difficulty": 2,
       "group": "reading_1",
-      "group_passage": "Protecting Your Eyes in the Digital Age\n\nIn today's world, teenagers spend more time than ever looking at screens. Whether it's for online classes, homework, or entertainment, our eyes are working harder than ever before. Dr. Li Ming, an eye specialist from Shenzhen Hospital, has some useful advice for keeping our eyes healthy.\n\nAccording to Dr. Li, digital eye strain is becoming increasingly common among students. \"When we stare at screens for long periods, our eyes become dry and tired,\" he explains. \"This can lead to headaches and even blurred vision over time.\"\n\nTo solve this problem, Dr. Li suggests following the \"20-20-20\" rule. Every 20 minutes, look at something 20 feet away (about 6 meters) for at least 20 seconds. This simple habit gives your eye muscles a chance to relax. \"It's like taking a short vacation for your eyes,\" Dr. Li says with a smile.\n\nBesides the 20-20-20 rule, there are other ways to protect your eyes. Make sure your screen is about an arm's length away from your face. The top of the screen should be at or slightly below eye level. Good lighting is also important—avoid working in dark rooms or under strong direct light.\n\nDr. Li also recommends the \"blinking exercise.\" Normally, we blink about 15 times per minute, but when using screens, this drops to 5 times. Try to blink more often to keep your eyes moist. If your eyes feel dry, you can use artificial tears (眼药水), but don't overuse them.\n\nRemember, your eyes are precious. Once damaged, they are hard to repair. By following these simple tips, you can enjoy technology without hurting your vision.",
-      "stem": "What is the best title for this passage?",
+      "group_passage": "Teenagers Create App to Help Save Food\n\nTwo students from Shenzhen, Li Hua and Wang Mei, have developed a mobile app called \"Food Saver\". The app aims to reduce food waste in school cafeterias.\n\nThe idea came to them last year when they saw large amounts of uneaten food being thrown away every day. \"It was heartbreaking to see so much waste while many people in the world are still hungry,\" said Li Hua.\n\nThe app works in a simple way. Students can check the menu and order meals in advance through the app. The cafeteria staff then know exactly how much food to prepare. This prevents overproduction. Additionally, if students cannot eat at school unexpectedly, they can cancel their order two hours before lunchtime.\n\nSince the app was introduced three months ago, food waste in the cafeteria has decreased by 40%. \"The results exceeded our expectations,\" said Wang Mei. \"We thought people might find the app troublesome at first, but most students actually find it convenient.\"\n\nThe app has won first prize in the city's Teenage Science Science Competition. Now, several other schools in Shenzhen have shown interest in using it. Dr. Zhang, a technology expert, commented, \"This is a great example of how technology can solve real-life problems. These students have shown that innovation doesn't require complex technology—what matters is identifying a real need.\"\n\nHowever, the team is not stopping here. They are working on new features, including a function that allows students to rate meals. This will help the cafeteria improve its service.",
+      "stem": "What is the best title for the passage?",
       "options": [
-        "A. Dr. Li Ming's Career",
-        "B. Ways to Protect Eyes in the Digital Age",
-        "C. The Dangers of Electronic Devices",
-        "D. How to Use Eye Drops Correctly"
+        "A. How to Use Mobile Apps Wisely",
+        "B. The History of Our School Cafeteria",
+        "C. Teenagers Create App to Reduce Food Waste",
+        "D. Dr. Zhang's Comments on Technology"
       ],
-      "correct_answer": "B",
-      "explanation": "本题是主旨大意题。文章主要介绍了在数字时代如何保护眼睛的方法，包括20-20-20规则、眨眼练习等。A项李医生的职业生涯只是细节；C项电子设备的危险过于片面且负面；D项如何使用眼药水只是最后提到的一个小建议。B项'数字时代的护眼方法'最能概括全文主旨。",
+      "correct_answer": "C",
+      "explanation": "文章主要介绍了两名中学生开发\"Food Saver\"应用程序减少食物浪费的事迹，包括应用的功能、效果和评价。A范围过大；B文中未提及食堂历史；D只是文末细节。C选项概括了主要人物（Teenagers）、动作（Create App）和目的（Reduce Food Waste）。技巧：主旨题要涵盖主要人物和事件，避免以偏概全或范围过大。",
       "label": "阅读-主旨大意"
     },
     {
@@ -282,17 +282,17 @@
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
       "group": "fill_1",
-      "group_passage": "Balancing Study and Hobbies\n\nMany students find it difficult to balance their schoolwork and hobbies. They often feel stressed when they cannot finish homework on time or give up their favorite activities. (17)______ Here are some useful tips.\n\nFirst, make a proper schedule. Write down all your tasks and activities for the week. (18)______ This way, you won't forget important deadlines or miss your hobby time.\n\nSecond, learn to focus. When studying, put away your phone and other distractions. (19)______ Then you can enjoy your hobbies without worrying about unfinished homework.\n\nFinally, remember that hobbies are not a waste of time. They help you relax and develop new skills. (20)______ Finding the right balance will make your school life more colorful and enjoyable.",
+      "group_passage": "How to Balance Study and Hobbies\n\nMany middle school students face a common problem: they want to do well in school, but they also want time for hobbies. (17)______ Here are some tips that might help.\n\nFirst, make a schedule. Write down all your homework and activities. (18)______ This way, you won't forget important tasks or waste time deciding what to do next.\n\nSecond, use small pockets of time. The ten minutes before dinner or the bus ride home can be useful. (19)______ You could review vocabulary or read a few pages of a book. These short periods add up to a lot over a week.\n\n(20)______ Don't give up your hobbies completely when exams are coming. Instead, reduce the time you spend on them. For example, if you usually play basketball for two hours, play for just one hour during exam weeks.\n\nRemember, balance is key. Both study and hobbies are important for your growth.",
       "stem": "(17)______",
       "options": [
-        "A. However, with good time management, you can do well in both.",
-        "B. For example, you can allocate two hours for homework and one hour for basketball.",
-        "C. As a result, you will finish your work more efficiently.",
-        "D. In fact, they can improve your study performance in the long run.",
-        "E. On the other hand, some students spend too much time on hobbies."
+        "A. However, finding the right balance is not always easy.",
+        "B. Then, put them in order of importance.",
+        "C. Finally, learn to adjust your hobby time.",
+        "D. For example, you can do some light studying during these moments.",
+        "E. In addition, you should give up all your hobbies to focus on study."
       ],
       "correct_answer": "A",
-      "explanation": "本题考查段落衔接和过渡句。前文提到学生感到压力大，后文说'这里有一些有用的建议'，因此此处需要转折过渡，表示'然而，通过良好的时间管理，你可以两者兼顾'。A项However表示转折，引出解决方法，符合逻辑。B项是举例，C项是结果，D项进一步说明爱好好处，E项另一方面，均不适合此处承上启下。",
+      "explanation": "前文提出\"想学好也想玩\"的问题，后文\"Here are some tips\"给出建议，此处需要过渡句承上启下。A项\"然而，找到正确的平衡并不总是容易的\"承接上文的矛盾，引出下文的解决方法。B、C表示步骤，用于列举中；D是举例；E与后文\"Don't give up your hobbies\"矛盾。技巧：段首过渡句注意与上文话题衔接和引出下文。",
       "label": "短文填空"
     },
     {
@@ -301,17 +301,17 @@
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
       "group": "fill_1",
-      "group_passage": "Balancing Study and Hobbies\n\nMany students find it difficult to balance their schoolwork and hobbies. They often feel stressed when they cannot finish homework on time or give up their favorite activities. (17)______ Here are some useful tips.\n\nFirst, make a proper schedule. Write down all your tasks and activities for the week. (18)______ This way, you won't forget important deadlines or miss your hobby time.\n\nSecond, learn to focus. When studying, put away your phone and other distractions. (19)______ Then you can enjoy your hobbies without worrying about unfinished homework.\n\nFinally, remember that hobbies are not a waste of time. They help you relax and develop new skills. (20)______ Finding the right balance will make your school life more colorful and enjoyable.",
+      "group_passage": "How to Balance Study and Hobbies\n\nMany middle school students face a common problem: they want to do well in school, but they also want time for hobbies. (17)______ Here are some tips that might help.\n\nFirst, make a schedule. Write down all your homework and activities. (18)______ This way, you won't forget important tasks or waste time deciding what to do next.\n\nSecond, use small pockets of time. The ten minutes before dinner or the bus ride home can be useful. (19)______ You could review vocabulary or read a few pages of a book. These short periods add up to a lot over a week.\n\n(20)______ Don't give up your hobbies completely when exams are coming. Instead, reduce the time you spend on them. For example, if you usually play basketball for two hours, play for just one hour during exam weeks.\n\nRemember, balance is key. Both study and hobbies are important for your growth.",
       "stem": "(18)______",
       "options": [
-        "A. However, with good time management, you can do well in both.",
-        "B. For example, you can allocate two hours for homework and one hour for basketball.",
-        "C. As a result, you will finish your work more efficiently.",
-        "D. In fact, they can improve your study performance in the long run.",
-        "E. On the other hand, some students spend too much time on hobbies."
+        "A. However, finding the right balance is not always easy.",
+        "B. Then, put them in order of importance.",
+        "C. Finally, learn to adjust your hobby time.",
+        "D. For example, you can do some light studying during these moments.",
+        "E. In addition, you should give up all your hobbies to focus on study."
       ],
       "correct_answer": "B",
-      "explanation": "本题考查举例关系。前文说'写下所有任务和活动'，后文说'这样你就不会忘记重要截止日期或错过爱好时间'，因此此处需要具体例子说明如何安排时间。B项'例如，你可以分配两小时做作业，一小时打篮球'是对制定计划的具体举例，符合语境。",
+      "explanation": "前文说\"写下所有作业和活动\"，后文说\"这样你就不会忘记重要任务\"，中间缺少步骤。B项\"然后，按重要性排序\"承接上文写下任务，解释为什么不会忘记（因为排序了）。Then表示步骤顺序，与First呼应。技巧：注意逻辑顺序词First/Then/Finally。",
       "label": "短文填空"
     },
     {
@@ -320,17 +320,17 @@
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
       "group": "fill_1",
-      "group_passage": "Balancing Study and Hobbies\n\nMany students find it difficult to balance their schoolwork and hobbies. They often feel stressed when they cannot finish homework on time or give up their favorite activities. (17)______ Here are some useful tips.\n\nFirst, make a proper schedule. Write down all your tasks and activities for the week. (18)______ This way, you won't forget important deadlines or miss your hobby time.\n\nSecond, learn to focus. When studying, put away your phone and other distractions. (19)______ Then you can enjoy your hobbies without worrying about unfinished homework.\n\nFinally, remember that hobbies are not a waste of time. They help you relax and develop new skills. (20)______ Finding the right balance will make your school life more colorful and enjoyable.",
+      "group_passage": "How to Balance Study and Hobbies\n\nMany middle school students face a common problem: they want to do well in school, but they also want time for hobbies. (17)______ Here are some tips that might help.\n\nFirst, make a schedule. Write down all your homework and activities. (18)______ This way, you won't forget important tasks or waste time deciding what to do next.\n\nSecond, use small pockets of time. The ten minutes before dinner or the bus ride home can be useful. (19)______ You could review vocabulary or read a few pages of a book. These short periods add up to a lot over a week.\n\n(20)______ Don't give up your hobbies completely when exams are coming. Instead, reduce the time you spend on them. For example, if you usually play basketball for two hours, play for just one hour during exam weeks.\n\nRemember, balance is key. Both study and hobbies are important for your growth.",
       "stem": "(19)______",
       "options": [
-        "A. However, with good time management, you can do well in both.",
-        "B. For example, you can allocate two hours for homework and one hour for basketball.",
-        "C. As a result, you will finish your work more efficiently.",
-        "D. In fact, they can improve your study performance in the long run.",
-        "E. On the other hand, some students spend too much time on hobbies."
+        "A. However, finding the right balance is not always easy.",
+        "B. Then, put them in order of importance.",
+        "C. Finally, learn to adjust your hobby time.",
+        "D. For example, you can do some light studying during these moments.",
+        "E. In addition, you should give up all your hobbies to focus on study."
       ],
-      "correct_answer": "C",
-      "explanation": "本题考查因果关系。前文说'学习时把手机和其他干扰物收起来'，这是提高效率的方法，因此此处表示结果'因此，你会更高效地完成作业'。As a result表示结果，承接上文的专注行为，引出下文的'然后你可以享受爱好'。",
+      "correct_answer": "D",
+      "explanation": "前文说\"空闲时间很有用\"，后文举例\"可以复习词汇或读几页书\"，因此此处需要举例说明如何利用这些时间。D项\"例如，你可以在这些时间做些轻松的学习\"承上启下。For example是举例信号词，与后文You could...呼应。技巧：注意举例信号词for example/for instance。",
       "label": "短文填空"
     },
     {
@@ -339,17 +339,17 @@
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
       "group": "fill_1",
-      "group_passage": "Balancing Study and Hobbies\n\nMany students find it difficult to balance their schoolwork and hobbies. They often feel stressed when they cannot finish homework on time or give up their favorite activities. (17)______ Here are some useful tips.\n\nFirst, make a proper schedule. Write down all your tasks and activities for the week. (18)______ This way, you won't forget important deadlines or miss your hobby time.\n\nSecond, learn to focus. When studying, put away your phone and other distractions. (19)______ Then you can enjoy your hobbies without worrying about unfinished homework.\n\nFinally, remember that hobbies are not a waste of time. They help you relax and develop new skills. (20)______ Finding the right balance will make your school life more colorful and enjoyable.",
+      "group_passage": "How to Balance Study and Hobbies\n\nMany middle school students face a common problem: they want to do well in school, but they also want time for hobbies. (17)______ Here are some tips that might help.\n\nFirst, make a schedule. Write down all your homework and activities. (18)______ This way, you won't forget important tasks or waste time deciding what to do next.\n\nSecond, use small pockets of time. The ten minutes before dinner or the bus ride home can be useful. (19)______ You could review vocabulary or read a few pages of a book. These short periods add up to a lot over a week.\n\n(20)______ Don't give up your hobbies completely when exams are coming. Instead, reduce the time you spend on them. For example, if you usually play basketball for two hours, play for just one hour during exam weeks.\n\nRemember, balance is key. Both study and hobbies are important for your growth.",
       "stem": "(20)______",
       "options": [
-        "A. However, with good time management, you can do well in both.",
-        "B. For example, you can allocate two hours for homework and one hour for basketball.",
-        "C. As a result, you will finish your work more efficiently.",
-        "D. In fact, they can improve your study performance in the long run.",
-        "E. On the other hand, some students spend too much time on hobbies."
+        "A. However, finding the right balance is not always easy.",
+        "B. Then, put them in order of importance.",
+        "C. Finally, learn to adjust your hobby time.",
+        "D. For example, you can do some light studying during these moments.",
+        "E. In addition, you should give up all your hobbies to focus on study."
       ],
-      "correct_answer": "D",
-      "explanation": "本题考查递进关系。前文说'爱好帮助你放松和发展新技能'，此处进一步说明爱好的好处'事实上，从长远来看它们能提高你的学习表现'。In fact用于补充说明或强调，符合此处进一步阐述爱好价值的语境。",
+      "correct_answer": "C",
+      "explanation": "前文有First... Second...，此处应该是最后一点建议。C项\"Finally, learn to adjust your hobby time（最后，学会调整你的爱好时间）\"符合顺序。后文\"不要完全放弃爱好，而是减少时间\"正是adjust（调整）的具体解释。技巧：注意顺序词First/Second/Finally/Finally的递进关系。",
       "label": "短文填空"
     }
   ]
