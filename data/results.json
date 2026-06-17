@@ -441,6 +441,13 @@
       "total": 20,
       "correct": 19,
       "rate": 95
+    },
+    {
+      "date": "2026-06-17",
+      "session": 1,
+      "total": 20,
+      "correct": 19,
+      "rate": 95
     }
   ],
   "errors": [
@@ -587,6 +594,24 @@
       "correct_answer": "B",
       "student_answer": "A",
       "explanation": "本题是词义猜测题。根据第二段后文解释'When we stare at screens for long periods, our eyes become dry and tired'（长时间盯着屏幕，眼睛会变干和疲劳），可推断strain在此处意为'疲劳、紧张'。A项力量、C项光线、D项疾病均不符合上下文语境。"
+    },
+    {
+      "date": "2026-06-17",
+      "session": 1,
+      "question_id": 4,
+      "type": "grammar",
+      "knowledge_point": "object_clause_modal_verbs",
+      "label": "语法题",
+      "stem": "—Do you think ______ we will have a picnic tomorrow?\n—I'm not sure. It ______ rain in the afternoon.",
+      "options": [
+        "A. that; must",
+        "B. if; might",
+        "C. whether; must",
+        "D. that; can"
+      ],
+      "correct_answer": "B",
+      "student_answer": "C",
+      "explanation": "第一空：根据答语I'm not sure（不确定），可知问句是\"是否\"，用if或whether，排除A和D；第二空：表示\"可能下雨\"用might（可能性较小）或may。must表示肯定推测\"一定\"，与not sure矛盾；can表推测通常用于否定句。因此选B。技巧：不确定用might/may，肯定推测用must，否定推测用can't。"
     }
   ]
 }
