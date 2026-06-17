@@ -452,24 +452,6 @@
   ],
   "errors": [
     {
-      "date": "2026-06-07",
-      "session": 1,
-      "question_id": 5,
-      "type": "vocabulary",
-      "knowledge_point": "word_guessing_context",
-      "label": "词汇题",
-      "stem": "The old bridge is not strong enough to support heavy trucks. It may ______ if too many trucks pass over it at the same time.",
-      "options": [
-        "A. fall down",
-        "B. break down",
-        "C. collapse",
-        "D. fall behind"
-      ],
-      "correct_answer": "C",
-      "student_answer": "A",
-      "explanation": "collapse意为\"倒塌、坍塌\"，符合语境\"桥不够坚固，支撑不了重型卡车\"。fall down侧重\"摔倒、跌落\"；break down通常指机器\"出故障\"或物质\"分解\"；fall behind指\"落后\"。根据上下文\"not strong enough\"和\"support heavy trucks\"，选择collapse最准确。"
-    },
-    {
       "date": "2026-06-10",
       "session": 1,
       "question_id": 6,
