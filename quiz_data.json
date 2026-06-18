@@ -1,5 +1,5 @@
 ﻿{
-  "date": "2026-06-18",
+  "date": "2026-06-19",
   "session_number": 1,
   "questions": [
     {
@@ -12,10 +12,10 @@
         "A. Did; finish; finished",
         "B. Have; finished; finished",
         "C. Have; finished; have finished",
-        "D. Did; finish; have finished"
+        "D. Do; finish; finished"
       ],
       "correct_answer": "B",
-      "explanation": "本题考查现在完成时与一般过去时的区别。\n第一空：句末有yet（已经/还），这是现在完成时的标志词，用于询问动作是否已经完成，所以用Have...finished。\n第二空：an hour ago（一小时前）是具体的过去时间状语，只能与一般过去时连用，所以用finished。\n\n解题技巧：记住时间标志词是关键。yet/ever/never/already/just/so far常与现在完成时连用；yesterday/last week/an hour ago/...ago等具体过去时间只能与一般过去时连用。",
+      "explanation": "【解析】yet是现在完成时的标志词，常用于疑问句和否定句，表示\"已经\"，所以第一空用Have...finished；an hour ago是一般过去时的标志词，表示具体的过去时间，所以第二空用finished。选项A和D的第一空是一般过去时，与yet不搭配；选项C的第二空用了现在完成时，与an hour ago矛盾。【口诀】yet现完，ago过去。",
       "label": "语法题"
     },
     {
@@ -23,15 +23,15 @@
       "type": "grammar",
       "knowledge_point": "relative_clause_who_which",
       "difficulty": 2,
-      "stem": "The boy ______ is wearing a red jacket is my best friend.",
+      "stem": "The book ______ I borrowed from the library is very interesting.",
       "options": [
         "A. who",
         "B. which",
-        "C. whose",
-        "D. whom"
+        "C. whom",
+        "D. whose"
       ],
-      "correct_answer": "A",
-      "explanation": "本题考查定语从句关系代词的选择。\n先行词是The boy（人），且在从句中作主语（is wearing），所以应该用who。\n\n为什么不选其他选项：\nB. which - 用于指物，不能指人；\nC. whose - 表示\"...的\"，在从句中作定语，后面需要接名词，而这里后面直接是is；\nD. whom - 虽然指人，但只能在从句中作宾语，而这里需要主语。\n\n解题口诀：先行词是人用who/whom/that，是物用which/that；缺主语用who/which，缺宾语用whom/which/who（口语中who可代替whom）。",
+      "correct_answer": "B",
+      "explanation": "【解析】本题考查定语从句关系代词的选择。先行词是the book，指物，在从句中作宾语，所以用which或that。选项A的who用于指人，作主语；选项C的whom用于指人，作宾语；选项D的whose表示\"谁的\"，在从句中作定语。【技巧】先行词是物，作主宾用which/that；先行词是人，作主语用who，作宾语用whom/who/that。",
       "label": "语法题"
     },
     {
@@ -39,55 +39,71 @@
       "type": "grammar",
       "knowledge_point": "passive_voice",
       "difficulty": 1,
-      "stem": "These books ______ to the library tomorrow.",
+      "stem": "These computers ______ to the poor students in the village last month.",
       "options": [
-        "A. will return",
-        "B. will be returned",
-        "C. are returning",
-        "D. returned"
+        "A. are given",
+        "B. were given",
+        "C. give",
+        "D. gave"
       ],
       "correct_answer": "B",
-      "explanation": "本题考查一般将来时的被动语态。\n主语These books（这些书）与动词return（归还）之间是被动关系（书被归还），且时间状语tomorrow表示将来，所以要用一般将来时的被动语态：will be + 过去分词。\n\n为什么不选其他选项：\nA. will return - 主动语态，书不能自己归还；\nC. are returning - 现在进行时的主动语态，同样逻辑错误；\nD. returned - 一般过去时，时态和语态都不对。\n\n解题技巧：看到主语是物，动词是及物动词时，要考虑被动语态。被动语态基本结构：be + done（过去分词），时态体现在be动词上。",
+      "explanation": "【解析】last month是一般过去时的标志词，主语computers与give之间是被动关系（电脑被送给学生），所以用一般过去时的被动语态were given。选项A是一般现在时被动语态，时态不符；选项C和D是主动语态，且主语computers不能执行\"给予\"这个动作。【口诀】被动语态be+done，时态体现在be动词上。",
       "label": "语法题"
     },
     {
       "id": 4,
       "type": "grammar",
-      "knowledge_point": "object_clause",
+      "knowledge_point": "object_clause_whether_if",
       "difficulty": 3,
-      "stem": "—Do you think ______ we will have a picnic tomorrow?\n—I'm not sure. It ______ rain.",
+      "stem": "—Do you think ______ we will have a picnic tomorrow?\n—I'm not sure. It ______ rain in the afternoon.",
       "options": [
         "A. that; must",
         "B. whether; might",
         "C. if; must",
-        "D. that; might"
+        "D. whether; should"
       ],
       "correct_answer": "B",
-      "explanation": "本题考查宾语从句连接词和情态动词表推测的用法。\n第一空：根据答句\"I'm not sure\"（我不确定），可知问句是在询问\"是否\"会野餐，所以用whether（是否）。虽然if也表示\"是否\"，但在think后面用whether更正式，且与后面的or not搭配更常见（这里虽没有or not，但whether更保险）。\n第二空：表示\"可能\"下雨，且不确定，用might（可能）。must表示\"必须/一定\"，语气太肯定，与I'm not sure矛盾。\n\n为什么不选其他选项：\nA. that; must - that不表示\"是否\"，must太肯定；\nC. if; must - must太肯定；\nD. that; might - that不表示疑问含义。\n\n解题技巧：think/doubt/wonder等动词后的宾语从句，若表示\"是否\"用whether/if；情态动词表推测：must（一定/肯定，95%可能），might（可能，50%可能），can't（不可能）。",
+      "explanation": "【解析】第一空考查宾语从句连接词。根据答句\"I'm not sure\"（我不确定）可知，问句表达的是\"是否\"会去野餐，所以用whether或if。第二空考查情态动词表推测。must表示肯定推测（一定），might表示可能性较小的推测（可能），should表示应该。根据\"I'm not sure\"可知是不确定，用might最恰当。【注意】虽然if也可以表示\"是否\"，但在正式英语中，与or not连用或放在句首时多用whether，且此题选项B搭配最合理。",
       "label": "语法题"
     },
     {
       "id": 5,
       "type": "vocabulary",
-      "knowledge_point": "word_meaning",
+      "knowledge_point": "word_meaning_satisfied",
       "difficulty": 1,
-      "stem": "If you are ______ with your current score, you should work harder to get a better one.",
+      "stem": "If you are not ______ with your current score, you should work harder to get a better one.",
       "options": [
-        "A. exciting",
+        "A. strict",
         "B. satisfied",
-        "C. interesting",
-        "D. surprised"
+        "C. popular",
+        "D. nervous"
       ],
       "correct_answer": "B",
-      "explanation": "本题考查形容词词义辨析和固定搭配。\nbe satisfied with 是固定搭配，意为\"对...感到满意\"。句意：如果你对自己目前的分数感到满意，你应该更加努力以取得更好的分数。\n\n为什么不选其他选项：\nA. exciting - 令人兴奋的，通常修饰物，不用于be...with结构；\nC. interesting - 有趣的，修饰物，且不符合句意；\nD. surprised - 惊讶的，虽然可用于be surprised at，但语义不通（对分数感到惊讶不需要更努力）。\n\n解题技巧：记住常见情感类形容词的搭配：be satisfied/pleased/content with（对...满意），be surprised/amazed at（对...惊讶），be interested in（对...感兴趣）。",
+      "explanation": "【解析】考查形容词词义辨析。be satisfied with是固定搭配，意为\"对……满意\"。句意：如果你对自己目前的分数不满意，你应该更努力以取得更好的成绩。选项A strict（严格的）常与with搭配，但意思不符；选项C popular（受欢迎的）常与with/among搭配；选项D nervous（紧张的）常与about搭配。【近义词】content也表示\"满意的\"，用法为be content with。",
       "label": "词汇题"
     },
     {
       "id": 6,
       "type": "vocabulary",
+      "knowledge_point": "prefix_un_dis",
+      "difficulty": 2,
+      "stem": "The news made everyone excited, but I felt rather ______.",
+      "options": [
+        "A. interested",
+        "B. uninterested",
+        "C. disinterested",
+        "D. interesting"
+      ],
+      "correct_answer": "B",
+      "explanation": "【解析】考查前缀和形容词辨析。根据but可知前后是转折关系，前面说大家都很兴奋，后面应该表示\"不感兴趣\"。uninterested表示\"不感兴趣的\"，指对某事缺乏兴趣；disinterested表示\"公正的，无私的\"，指没有偏见。此处指对消息不感兴趣，用uninterested。前缀un-表示否定，interested表示\"感兴趣的\"。选项A和D与句意相反。【辨析】uninterested=not interested（不感兴趣）；disinterested=neutral（公正无私）。",
+      "label": "词汇题"
+    },
+    {
+      "id": 7,
+      "type": "vocabulary",
       "knowledge_point": "phrasal_verbs",
       "difficulty": 2,
-      "stem": "Our school needs to ______ some new ideas to make the recycling program more successful.",
+      "stem": "We need to ______ a good plan to solve this problem.",
       "options": [
         "A. come up with",
         "B. catch up with",
@@ -95,103 +111,97 @@
         "D. put up with"
       ],
       "correct_answer": "A",
-      "explanation": "本题考查动词短语（phrasal verbs）的辨析。\ncome up with 意为\"想出，提出（主意、计划等）\"。句意：我们学校需要想出一些新主意来让回收项目更成功。\n\n为什么不选其他选项：\nB. catch up with - 追上，赶上（某人）；\nC. keep up with - 跟上，不落后于（进度、时代等）；\nD. put up with - 忍受，容忍（不愉快的事）。\n\n解题技巧：up with 结尾的短语常考：come up with（想出），catch up with（追上），keep up with（跟上），put up with（忍受）。记住各自的宾语搭配：come up with ideas/plans（想主意），catch up with sb（追人），keep up with the times（与时俱进），put up with noise/trouble（忍受噪音/麻烦）。",
-      "label": "词汇题"
-    },
-    {
-      "id": 7,
-      "type": "vocabulary",
-      "knowledge_point": "word_formation",
-      "difficulty": 2,
-      "stem": "The ______ of this chemical in farming has greatly improved the crop yield (产量).",
-      "options": [
-        "A. reuse",
-        "B. useless",
-        "C. usage",
-        "D. disuse"
-      ],
-      "correct_answer": "C",
-      "explanation": "本题考查词性转换和词义辨析。\n空格前是定冠词The，后面是介词of，所以需要填入名词。usage是名词，意为\"使用，用法\"。句意：这种化学品在农业上的使用大大提高了作物产量。\n\n为什么不选其他选项：\nA. reuse - 虽可作名词表示\"再利用\"，但通常指重复利用废弃物，不如usage准确；\nB. useless - 形容词，意为\"无用的\"，语法错误；\nD. disuse - 名词，意为\"不使用，废弃\"，与句意相反（句意是提高了产量，应该是使用而不是不使用）。\n\n解题技巧：-age结尾常构成名词：usage（使用），storage（储存），package（包裹）。根据句子结构判断词性：The + n. + of...。",
+      "explanation": "【解析】考查动词短语辨析。come up with意为\"提出，想出（主意、计划等）\"；catch up with意为\"赶上（某人）\"；keep up with意为\"跟上，保持同步\"；put up with意为\"忍受，容忍\"。句意：我们需要想出一个好计划来解决这个问题。根据宾语a good plan可知，应选\"提出\"。【记忆技巧】come up with = think of（想到）。",
       "label": "词汇题"
     },
     {
       "id": 8,
       "type": "cloze",
       "knowledge_point": "cloze_general",
-      "difficulty": 2,
+      "difficulty": 1,
+      "group": "cloze_1",
+      "group_passage": "Last month, our school started a new project called \"Green Campus\". The goal was to make students ______ the importance of protecting the environment.\n\nAs members of the Environmental Club, my classmates and I decided to take action. First, we placed special bins in every classroom for different types of waste. Many students were not ______ to it at first. They often put rubbish into the wrong bins. Instead of getting angry, we stood there ______ and guided them. Slowly, things began to change.\n\nOne of the most successful activities was the \"Paper Saving Week\". We encouraged students to use both sides of paper. To our ______, the amount of waste paper dropped by 40% that week. The teachers were proud of our efforts.\n\nHowever, the project was not without challenges. Some students complained that separating waste took too much time. We organized a discussion and listened to their ideas. In the end, we found a better way to make the process easier.\n\nThis project has taught us that small actions can make a big ______. Protecting the environment is not just a slogan, but something we should practice every day.",
       "stem": "(8)______",
       "options": [
-        "A. bored",
-        "B. surprised",
-        "C. worried",
-        "D. excited"
+        "A. forget",
+        "B. understand",
+        "C. doubt",
+        "D. remember"
       ],
-      "correct_answer": "C",
-      "explanation": "本题考查上下文语境理解和情感线索。\n根据下文\"he noticed how much paper was being wasted every day\"（他注意到每天有多少纸被浪费）以及\"decided to do something\"（决定做些什么），可推断Peter对这种浪费现象感到\"担忧\"（worried），而不是无聊、惊讶或兴奋。\n\n为什么不选其他选项：\nA. bored - 无聊的，下文没有体现无聊，而是想要改变；\nB. surprised - 惊讶的，虽然有意外成分，但worried更能体现环保意识；\nD. excited - 兴奋的，与浪费现象搭配不当。\n\n解题技巧：完形填空要注意情感线索。看到waste（浪费）这类负面词汇，作者通常会感到worried/concerned（担忧）或sad（难过），然后采取行动改变。",
+      "correct_answer": "B",
+      "explanation": "【解析】考查语境理解。根据上下文，学校开展\"绿色校园\"项目的目的是让学生\"理解\"保护环境的重要性。understand（理解）符合语境。forget（忘记）和doubt（怀疑）与项目目的相反；remember（记住）虽然语义通顺，但understand更能体现对重要性的深刻认识，且与后文的taught us相呼应。【线索】后文提到This project has taught us...，说明是让学生理解/明白道理。",
       "label": "完形填空"
     },
     {
       "id": 9,
       "type": "cloze",
-      "knowledge_point": "cloze_general",
-      "difficulty": 1,
+      "knowledge_point": "cloze_fixed_collocation",
+      "difficulty": 2,
+      "group": "cloze_1",
+      "group_passage": "Last month, our school started a new project called \"Green Campus\". The goal was to make students ______ the importance of protecting the environment.\n\nAs members of the Environmental Club, my classmates and I decided to take action. First, we placed special bins in every classroom for different types of waste. Many students were not ______ to it at first. They often put rubbish into the wrong bins. Instead of getting angry, we stood there ______ and guided them. Slowly, things began to change.\n\nOne of the most successful activities was the \"Paper Saving Week\". We encouraged students to use both sides of paper. To our ______, the amount of waste paper dropped by 40% that week. The teachers were proud of our efforts.\n\nHowever, the project was not without challenges. Some students complained that separating waste took too much time. We organized a discussion and listened to their ideas. In the end, we found a better way to make the process easier.\n\nThis project has taught us that small actions can make a big ______. Protecting the environment is not just a slogan, but something we should practice every day.",
       "stem": "(9)______",
       "options": [
-        "A. club",
-        "B. team",
-        "C. meeting",
-        "D. class"
+        "A. kind",
+        "B. helpful",
+        "C. used",
+        "D. similar"
       ],
-      "correct_answer": "A",
-      "explanation": "本题考查词汇复现和上下文呼应。\n上文明确提到\"Peter joined the school's Green Club\"（Peter加入了学校的绿色俱乐部），所以这里应该是他在\"俱乐部\"（club）会议上提出了想法。这是原词复现。\n\n为什么不选其他选项：\nB. team - 团队，虽然意思接近，但前文明确说是club；\nC. meeting - 会议，但这里需要指组织名称，而不是活动；\nD. class - 班级，与环保主题的组织不符。\n\n解题技巧：完形填空中，上下文出现过的原词或同义词往往是答案。做题时要留意前文的专有名词。",
+      "correct_answer": "C",
+      "explanation": "【解析】考查固定搭配。be used to sth/doing sth是固定搭配，意为\"习惯于……\"。句意：起初许多学生不习惯（这种分类方式）。根据后文\"They often put rubbish into the wrong bins\"（他们经常把垃圾放错垃圾桶）可知，学生们还不习惯这种新的分类方式。be kind to（对……友好）；be helpful to（对……有帮助）；be similar to（与……相似）均不符合语境。【口诀】used to do（过去常常），be used to doing（习惯于），be used to do（被用来做）。",
       "label": "完形填空"
     },
     {
       "id": 10,
       "type": "cloze",
-      "knowledge_point": "cloze_general",
+      "knowledge_point": "cloze_context_emotion",
       "difficulty": 2,
+      "group": "cloze_1",
+      "group_passage": "Last month, our school started a new project called \"Green Campus\". The goal was to make students ______ the importance of protecting the environment.\n\nAs members of the Environmental Club, my classmates and I decided to take action. First, we placed special bins in every classroom for different types of waste. Many students were not ______ to it at first. They often put rubbish into the wrong bins. Instead of getting angry, we stood there ______ and guided them. Slowly, things began to change.\n\nOne of the most successful activities was the \"Paper Saving Week\". We encouraged students to use both sides of paper. To our ______, the amount of waste paper dropped by 40% that week. The teachers were proud of our efforts.\n\nHowever, the project was not without challenges. Some students complained that separating waste took too much time. We organized a discussion and listened to their ideas. In the end, we found a better way to make the process easier.\n\nThis project has taught us that small actions can make a big ______. Protecting the environment is not just a slogan, but something we should practice every day.",
       "stem": "(10)______",
       "options": [
-        "A. throwing away",
-        "B. giving out",
-        "C. picking up",
-        "D. handing in"
+        "A. patiently",
+        "B. quickly",
+        "C. secretly",
+        "D. suddenly"
       ],
       "correct_answer": "A",
-      "explanation": "本题考查动词短语辨析和语境推理。\n根据语境\"used paper\"（用过的纸）和\"waste\"（浪费），这里应该是指同学们\"扔掉\"（throw away）只用过一面的纸。句意：他建议设置特殊的箱子来收集同学们通常扔掉的只用过一面的纸。\n\n为什么不选其他选项：\nB. giving out - 分发，与语境相反；\nC. picking up - 捡起，通常指从地上捡起，不符合\"浪费纸张\"的语境；\nD. handing in - 上交，通常指交作业，不符合。\n\n解题技巧：注意动作的方向性。throw away（扔掉）导致浪费，收集这些纸是为了再利用，符合环保主题。",
+      "explanation": "【解析】考查语境和情感线索。根据\"Instead of getting angry\"（没有生气）和\"guided them\"（指导他们）可知，我们应该是有耐心地向他们解释。patiently（耐心地）符合语境。quickly（快速地）与语境不符；secretly（秘密地）和suddenly（突然地）不符合逻辑。【线索】Instead of getting angry提示了对比关系，没有生气→有耐心。",
       "label": "完形填空"
     },
     {
       "id": 11,
       "type": "cloze",
-      "knowledge_point": "cloze_general",
+      "knowledge_point": "cloze_fixed_phrase",
       "difficulty": 2,
+      "group": "cloze_1",
+      "group_passage": "Last month, our school started a new project called \"Green Campus\". The goal was to make students ______ the importance of protecting the environment.\n\nAs members of the Environmental Club, my classmates and I decided to take action. First, we placed special bins in every classroom for different types of waste. Many students were not ______ to it at first. They often put rubbish into the wrong bins. Instead of getting angry, we stood there ______ and guided them. Slowly, things began to change.\n\nOne of the most successful activities was the \"Paper Saving Week\". We encouraged students to use both sides of paper. To our ______, the amount of waste paper dropped by 40% that week. The teachers were proud of our efforts.\n\nHowever, the project was not without challenges. Some students complained that separating waste took too much time. We organized a discussion and listened to their ideas. In the end, we found a better way to make the process easier.\n\nThis project has taught us that small actions can make a big ______. Protecting the environment is not just a slogan, but something we should practice every day.",
       "stem": "(11)______",
       "options": [
-        "A. Though",
-        "B. However",
-        "C. Therefore",
-        "D. Otherwise"
+        "A. sadness",
+        "B. surprise",
+        "C. fear",
+        "D. regret"
       ],
       "correct_answer": "B",
-      "explanation": "本题考查逻辑关系（转折关系）。\n前句说\"At first, only a few students listened\"（起初只有几个学生听），后句说\"Peter didn't give up\"（Peter没有放弃）。前后是明显的转折关系：虽然人少，但他没放弃。However表示转折，且常用逗号与句子隔开。\n\n为什么不选其他选项：\nA. Though - 虽然，引导让步状语从句，后面通常接句子，而不是直接接主句；\nC. Therefore - 因此，表示因果关系，不符合；\nD. Otherwise - 否则，表示假设条件下的相反结果，不符合。\n\n解题技巧：however/therefore/otherwise等副词作为插入语时，前后通常有逗号。根据前后句意判断逻辑：人少（消极）→没放弃（积极）= 转折。",
+      "explanation": "【解析】考查固定搭配和语境。to one's surprise是固定短语，意为\"令某人惊讶的是\"。根据\"dropped by 40%\"（下降了40%）可知，这个结果令人惊讶。sadness（悲伤）；fear（恐惧）；regret（后悔）均不符合语境。【固定搭配】to one's joy/delight（令某人高兴的是）；to one's disappointment（令某人失望的是）。",
       "label": "完形填空"
     },
     {
       "id": 12,
       "type": "cloze",
-      "knowledge_point": "cloze_general",
+      "knowledge_point": "cloze_idiom",
       "difficulty": 1,
+      "group": "cloze_1",
+      "group_passage": "Last month, our school started a new project called \"Green Campus\". The goal was to make students ______ the importance of protecting the environment.\n\nAs members of the Environmental Club, my classmates and I decided to take action. First, we placed special bins in every classroom for different types of waste. Many students were not ______ to it at first. They often put rubbish into the wrong bins. Instead of getting angry, we stood there ______ and guided them. Slowly, things began to change.\n\nOne of the most successful activities was the \"Paper Saving Week\". We encouraged students to use both sides of paper. To our ______, the amount of waste paper dropped by 40% that week. The teachers were proud of our efforts.\n\nHowever, the project was not without challenges. Some students complained that separating waste took too much time. We organized a discussion and listened to their ideas. In the end, we found a better way to make the process easier.\n\nThis project has taught us that small actions can make a big ______. Protecting the environment is not just a slogan, but something we should practice every day.",
       "stem": "(12)______",
       "options": [
-        "A. school",
-        "B. environment",
-        "C. paper",
-        "D. money"
+        "A. decision",
+        "B. mistake",
+        "C. difference",
+        "D. plan"
       ],
-      "correct_answer": "B",
-      "explanation": "本题考查主旨大意和词汇复现。\n文章开头提到\"Green Club\"（环保俱乐部），全文讲的是回收纸张保护环境。最后一句总结：Peter感到自豪，因为他为______做出了改变。这里应该填environment（环境），既符合文章主题，也符合常识（回收纸张是为了保护环境）。\n\n为什么不选其他选项：\nA. school - 虽然在学校做事情，但改变的对象是环境；\nC. paper - 回收的是纸，但目的是为了环境；\nD. money - 文中没有提到钱。\n\n解题技巧：完形填空的最后一句往往是总结句，要呼应文章主题（environmental protection）。",
+      "correct_answer": "C",
+      "explanation": "【解析】考查固定搭配。make a difference是固定短语，意为\"产生影响，发挥作用\"。句意：这个项目教会我们，小小的行动可以产生巨大的影响。make a decision（做决定）；make a mistake（犯错误）；make a plan（制定计划）虽然都是固定搭配，但不符合句意。【金句】Small actions can make a big difference.（积少成多/小行动大影响。）",
       "label": "完形填空"
     },
     {
@@ -199,15 +209,17 @@
       "type": "reading",
       "knowledge_point": "detail",
       "difficulty": 2,
-      "stem": "According to Dr. Li Ming, how long should we look at something 20 feet away?",
+      "group": "reading_1",
+      "group_passage": "In today's digital age, more and more teenagers are suffering from eye problems. Dr. Li Ming, a famous eye doctor from Shenzhen Hospital, has proposed a simple but effective method called the \"20-20-20\" rule to help protect our eyes.\n\nAccording to Dr. Li, when we look at screens for a long time, our eye muscles become tense. This tension, or \"strain\", can cause headaches and blurry vision. The 20-20-20 rule is easy to follow: every 20 minutes, look at something 20 feet (about 6 meters) away for at least 20 seconds. This gives your eye muscles a chance to relax.\n\n\"Many students think wearing glasses is the only solution to eye problems,\" says Dr. Li. \"But actually, changing our habits is more important. I often tell my patients that prevention is better than cure.\"\n\nA recent study shows that students who follow this rule regularly have 30% less eye strain than those who don't. However, Dr. Li reminds us that the rule alone is not enough. We should also make sure to spend at least one hour outdoors every day, as natural light is good for eye development.\n\nSchools in Shenzhen have started to promote this rule. Some teachers even set timers in class to remind students to rest their eyes. Students who have tried the method say their eyes feel more comfortable after a day of studying.",
+      "stem": "According to the passage, what does the \"20-20-20\" rule suggest we do?",
       "options": [
-        "A. For 20 seconds.",
-        "B. For 20 minutes.",
-        "C. For 2 minutes.",
-        "D. For 2 hours."
+        "A. Study for 20 minutes and rest for 20 seconds",
+        "B. Look at something 20 feet away every 20 minutes for 20 seconds",
+        "C. Spend 20 minutes outdoors every day",
+        "D. Check our eyes every 20 days"
       ],
-      "correct_answer": "A",
-      "explanation": "本题考查细节理解。\n根据文章第二段提到的\"20-20-20 rule\"：Every 20 minutes, look at something 20 feet away for 20 seconds.（每20分钟，看20英尺外的东西20秒。）所以答案是20秒。\n\n为什么不选其他选项：\nB. 20 minutes - 这是间隔时间，不是远眺时间；\nC. 2 minutes - 文中未提及；\nD. 2 hours - 明显过长，不符合常识。\n\n解题技巧：细节题要准确定位关键词（Dr. Li Ming, 20 feet away），找到原文对应句，注意区分几个数字分别代表什么（20分钟间隔、20英尺距离、20秒时长）。",
+      "correct_answer": "B",
+      "explanation": "【解析】细节理解题。根据第二段\"every 20 minutes, look at something 20 feet (about 6 meters) away for at least 20 seconds\"可知，20-20-20规则指的是：每20分钟，看20英尺（约6米）外的东西至少20秒。选项A错误，不是学习20分钟休息20秒；选项C错误，每天户外活动一小时是额外建议，不是20-20-20规则的内容；选项D文中未提及。【定位技巧】根据题干关键词\"20-20-20 rule\"定位到第二段，找到冒号后的解释说明。",
       "label": "阅读-细节理解"
     },
     {
@@ -215,121 +227,130 @@
       "type": "reading",
       "knowledge_point": "inference",
       "difficulty": 3,
+      "group": "reading_1",
+      "group_passage": "In today's digital age, more and more teenagers are suffering from eye problems. Dr. Li Ming, a famous eye doctor from Shenzhen Hospital, has proposed a simple but effective method called the \"20-20-20\" rule to help protect our eyes.\n\nAccording to Dr. Li, when we look at screens for a long time, our eye muscles become tense. This tension, or \"strain\", can cause headaches and blurry vision. The 20-20-20 rule is easy to follow: every 20 minutes, look at something 20 feet (about 6 meters) away for at least 20 seconds. This gives your eye muscles a chance to relax.\n\n\"Many students think wearing glasses is the only solution to eye problems,\" says Dr. Li. \"But actually, changing our habits is more important. I often tell my patients that prevention is better than cure.\"\n\nA recent study shows that students who follow this rule regularly have 30% less eye strain than those who don't. However, Dr. Li reminds us that the rule alone is not enough. We should also make sure to spend at least one hour outdoors every day, as natural light is good for eye development.\n\nSchools in Shenzhen have started to promote this rule. Some teachers even set timers in class to remind students to rest their eyes. Students who have tried the method say their eyes feel more comfortable after a day of studying.",
       "stem": "What can we infer from Dr. Li Ming's words in Paragraph 3?",
       "options": [
-        "A. We should never use electronic devices.",
-        "B. Eye exercises are the best way to protect eyes.",
-        "C. Taking regular breaks is important for eye health.",
-        "D. Only students need to worry about eye strain."
+        "A. All students should wear glasses to protect eyes",
+        "B. Eye problems cannot be cured once they occur",
+        "C. Changing habits is important for eye health",
+        "D. Wearing glasses is better than preventing eye problems"
       ],
       "correct_answer": "C",
-      "explanation": "本题考查推理判断。\n第三段中Dr. Li Ming提到：\"Your eyes are not designed to stare at screens for hours without a break.\"（你的眼睛不是用来连续几小时盯着屏幕不休息的。）由此可推断出：定期休息对眼睛健康很重要。\n\n为什么不选其他选项：\nA. 从不使用电子设备 - 过于绝对，文中只是说要休息，不是不用；\nB. 眼保健操是最好的方式 - 文中未提及眼保健操；\nD. 只有学生需要担心 - 文中提到office workers（办公室职员）也需要注意，所以错误。\n\n解题技巧：推理题要基于原文信息合理推断，不能过度推断（如从不使用），也不能无中生有（如眼保健操）。注意原文的隐含意思：不是设计来长时间使用的→意味着需要休息。",
+      "explanation": "【解析】推理判断题。根据第三段Dr. Li的话\"Many students think wearing glasses is the only solution... But actually, changing our habits is more important\"可知，他认为改变习惯比戴眼镜更重要，预防胜于治疗。由此可推断出改变习惯对眼睛健康很重要。选项A与原文相反；选项B过于绝对，文中未说不能治愈；选项D与原文\"prevention is better than cure\"（预防胜于治疗）相反。【推理技巧】注意转折词But，其后往往是作者真实观点。",
       "label": "阅读-推理判断"
     },
     {
       "id": 15,
       "type": "reading",
-      "knowledge_point": "word_guessing",
+      "knowledge_point": "word_guessing_context",
       "difficulty": 2,
+      "group": "reading_1",
+      "group_passage": "In today's digital age, more and more teenagers are suffering from eye problems. Dr. Li Ming, a famous eye doctor from Shenzhen Hospital, has proposed a simple but effective method called the \"20-20-20\" rule to help protect our eyes.\n\nAccording to Dr. Li, when we look at screens for a long time, our eye muscles become tense. This tension, or \"strain\", can cause headaches and blurry vision. The 20-20-20 rule is easy to follow: every 20 minutes, look at something 20 feet (about 6 meters) away for at least 20 seconds. This gives your eye muscles a chance to relax.\n\n\"Many students think wearing glasses is the only solution to eye problems,\" says Dr. Li. \"But actually, changing our habits is more important. I often tell my patients that prevention is better than cure.\"\n\nA recent study shows that students who follow this rule regularly have 30% less eye strain than those who don't. However, Dr. Li reminds us that the rule alone is not enough. We should also make sure to spend at least one hour outdoors every day, as natural light is good for eye development.\n\nSchools in Shenzhen have started to promote this rule. Some teachers even set timers in class to remind students to rest their eyes. Students who have tried the method say their eyes feel more comfortable after a day of studying.",
       "stem": "What does the word \"strain\" in Paragraph 2 probably mean?",
       "options": [
-        "A. Pain caused by physical injury.",
-        "B. Tiredness or stress from overuse.",
-        "C. A type of eye disease.",
-        "D. The power of eyesight."
+        "A. 力量 (strength)",
+        "B. 疲劳；紧张 (tiredness; tension)",
+        "C. 视力 (vision)",
+        "D. 治疗 (treatment)"
       ],
       "correct_answer": "B",
-      "explanation": "本题考查词义猜测。\n根据上下文：\"Looking at screens for too long can cause eye strain.\"（看屏幕太久会导致eye strain。）以及下文提到的symptoms（症状）：dry eyes, headaches, blurred vision（干眼、头痛、视力模糊）。这些都是过度使用眼睛导致的疲劳或紧张状态，所以strain意为\"疲劳、紧张\"。\n\n为什么不选其他选项：\nA. 身体受伤引起的疼痛 - 看屏幕不会导致受伤；\nC. 一种眼病 - strain不是疾病，而是症状；\nD. 视力 - 与语境相反，不是视力本身，而是视力问题。\n\n解题技巧：词义猜测题看上下文解释。下文列举的症状（干眼、头痛）都是疲劳的表现，因此strain≈tiredness/stress。",
+      "explanation": "【解析】词义猜测题。根据上下文，\"This tension, or 'strain'\"中or表示同位语解释，说明strain与tension（紧张）意思相近。前文说\"when we look at screens for a long time, our eye muscles become tense\"（长时间看屏幕，眼部肌肉变得紧张），后文说会导致头痛和视力模糊。因此strain指的是眼部肌肉的\"疲劳；紧张\"。选项A、C、D均不符合语境。【猜词技巧】利用同位语（tension, or strain）、因果关系（cause headaches）和上下文逻辑进行猜测。",
       "label": "阅读-词义猜测"
     },
     {
       "id": 16,
       "type": "reading",
-      "knowledge_point": "main_idea",
+      "knowledge_point": "main_idea_title",
       "difficulty": 2,
+      "group": "reading_1",
+      "group_passage": "In today's digital age, more and more teenagers are suffering from eye problems. Dr. Li Ming, a famous eye doctor from Shenzhen Hospital, has proposed a simple but effective method called the \"20-20-20\" rule to help protect our eyes.\n\nAccording to Dr. Li, when we look at screens for a long time, our eye muscles become tense. This tension, or \"strain\", can cause headaches and blurry vision. The 20-20-20 rule is easy to follow: every 20 minutes, look at something 20 feet (about 6 meters) away for at least 20 seconds. This gives your eye muscles a chance to relax.\n\n\"Many students think wearing glasses is the only solution to eye problems,\" says Dr. Li. \"But actually, changing our habits is more important. I often tell my patients that prevention is better than cure.\"\n\nA recent study shows that students who follow this rule regularly have 30% less eye strain than those who don't. However, Dr. Li reminds us that the rule alone is not enough. We should also make sure to spend at least one hour outdoors every day, as natural light is good for eye development.\n\nSchools in Shenzhen have started to promote this rule. Some teachers even set timers in class to remind students to rest their eyes. Students who have tried the method say their eyes feel more comfortable after a day of studying.",
       "stem": "What is the best title for this passage?",
       "options": [
-        "A. The History of Glasses",
-        "B. How to Use Computers Safely",
-        "C. The 20-20-20 Rule for Eye Care",
-        "D. Different Types of Eye Problems"
+        "A. How to Choose Glasses",
+        "B. The Importance of Outdoor Activities",
+        "C. A Simple Rule for Eye Protection",
+        "D. Modern Technology and Health"
       ],
       "correct_answer": "C",
-      "explanation": "本题考查主旨大意/最佳标题。\n文章围绕Dr. Li Ming提出的\"20-20-20\"护眼法则展开，介绍了其内容、原理和重要性。因此最佳标题是\"20-20-20护眼法则\"。\n\n为什么不选其他选项：\nA. 眼镜的历史 - 文中未提及；\nB. 如何安全使用电脑 - 太宽泛，文章专门讲护眼，而且不仅限于电脑，还有手机等；\nD. 不同类型的眼疾 - 文章不是介绍疾病类型，而是预防方法。\n\n解题技巧：最佳标题要概括全文核心内容。文章是\"总-分-总\"结构，首段和末段都提到了20-20-20 rule，这是全文关键词。",
+      "explanation": "【解析】主旨大意题。文章主要介绍了Dr. Li Ming提出的20-20-20规则，用于保护眼睛健康。第一段引出话题，第二段详细解释规则内容，第三段强调改变习惯的重要性，第四、五段补充说明和推广情况。因此\"A Simple Rule for Eye Protection\"（一个简单的护眼规则）最能概括全文。选项A只是文中提到的细节；选项B是补充建议，非主要内容；选项D范围过大，文章只聚焦于眼睛健康。【主旨题技巧】寻找反复出现的关键词（20-20-20 rule, eye protection），标题要概括全文而非局部细节。",
       "label": "阅读-主旨大意"
     },
     {
       "id": 17,
       "type": "fill",
-      "knowledge_point": "sentence_fill",
+      "knowledge_point": "sentence_fill_transition",
       "difficulty": 2,
+      "group": "fill_1",
+      "group_passage": "Good time management is important for middle school students. (17)______ Here are some practical ways to improve your time management skills.\n\nStart by tracking your time. (18)______ Write down everything you do for a week. You might be surprised to find how much time you spend on your phone.\n\nNext, plan ahead. Make a to-do list every morning. (19)______ Put the most important tasks at the top. This way, you won't forget anything urgent.\n\n(20)______ Don't try to do everything perfectly. Focus on what really matters, and you will find your school life much easier.",
       "stem": "(17)______",
       "options": [
-        "A. However",
-        "B. First of all",
-        "C. In addition",
-        "D. As a result",
-        "E. For example"
+        "A. However, don't be too hard on yourself.",
+        "B. First, find out where your time actually goes.",
+        "C. Many students struggle to balance study and play.",
+        "D. Then, decide which tasks are most important.",
+        "E. But remember to leave some time for relaxation."
       ],
-      "correct_answer": "B",
-      "explanation": "本题考查段落衔接（顺序关系）。\n空格后提到\"make a list of what you need to do\"（列出你需要做的事情），这是建议的第一条。下文还有\"Next\"（接下来），说明这里是列举的第一点，所以用First of all（首先）。\n\n为什么不选其他选项：\nA. However - 转折，不符合列举顺序；\nC. In addition - 此外，用于补充，通常不是第一条；\nD. As a result - 结果，表因果；\nE. For example - 例如，用于举例，但这里后面是具体建议，不是例子。\n\n解题技巧：注意下文的\"Next\"（下一步）提示，说明前文应该是\"First\"（第一步）。列举顺序常用：First of all/Firstly → Next/Then → Finally。",
+      "correct_answer": "C",
+      "explanation": "【解析】选句子填空题。空格前说时间管理很重要，空格后说\"这里有一些实用的方法来提高你的时间管理技能\"。选项C\"Many students struggle to balance study and play\"（许多学生努力平衡学习和娱乐）承上启下，先指出问题，再引出解决方法。其他选项：A用于最后一段的转折；B与下一段的Start by tracking对应；D与下文的Put the most important tasks对应；E是干扰项。【技巧】首段末句通常引出下文，找出问题-解决方案的逻辑关系。",
       "label": "短文填空"
     },
     {
       "id": 18,
       "type": "fill",
-      "knowledge_point": "sentence_fill",
+      "knowledge_point": "sentence_fill_logic_sequence",
       "difficulty": 2,
+      "group": "fill_1",
+      "group_passage": "Good time management is important for middle school students. (17)______ Here are some practical ways to improve your time management skills.\n\nStart by tracking your time. (18)______ Write down everything you do for a week. You might be surprised to find how much time you spend on your phone.\n\nNext, plan ahead. Make a to-do list every morning. (19)______ Put the most important tasks at the top. This way, you won't forget anything urgent.\n\n(20)______ Don't try to do everything perfectly. Focus on what really matters, and you will find your school life much easier.",
       "stem": "(18)______",
       "options": [
-        "A. However",
-        "B. First of all",
-        "C. In addition",
-        "D. As a result",
-        "E. For example"
+        "A. However, don't be too hard on yourself.",
+        "B. First, find out where your time actually goes.",
+        "C. Many students struggle to balance study and play.",
+        "D. Then, decide which tasks are most important.",
+        "E. But remember to leave some time for relaxation."
       ],
-      "correct_answer": "E",
-      "explanation": "本题考查段落衔接（举例关系）。\n前句说\"put the most important tasks at the top\"（把最重要的任务放在顶部），空格后说\"if you have a test tomorrow, studying should come before watching TV\"（如果你明天有考试，学习应该优先于看电视）。后面是前面原则的具体例子，所以用For example（例如）。\n\n为什么不选其他选项：\nA. However - 转折；\nB. First of all - 首先，但前文已经有了第一条建议；\nC. In addition - 此外，表补充，不是举例；\nD. As a result - 结果，表因果。\n\n解题技巧：看到后面是具体场景（考试+学习+看电视），前面是通用原则（重要任务优先），这是典型的\"举例\"关系。",
+      "correct_answer": "B",
+      "explanation": "【解析】考查逻辑顺序。本段主题是\"Start by tracking your time\"（开始追踪你的时间），选项B\"First, find out where your time actually goes\"（首先，找出你的时间实际上花在哪里了）与本段主题一致，且First与Start by相呼应。后文的\"Write down everything...\"是对\"find out where your time actually goes\"的具体解释。【线索】注意段落主题句Start by...和表示顺序的First。",
       "label": "短文填空"
     },
     {
       "id": 19,
       "type": "fill",
-      "knowledge_point": "sentence_fill",
+      "knowledge_point": "sentence_fill_connectors",
       "difficulty": 2,
+      "group": "fill_1",
+      "group_passage": "Good time management is important for middle school students. (17)______ Here are some practical ways to improve your time management skills.\n\nStart by tracking your time. (18)______ Write down everything you do for a week. You might be surprised to find how much time you spend on your phone.\n\nNext, plan ahead. Make a to-do list every morning. (19)______ Put the most important tasks at the top. This way, you won't forget anything urgent.\n\n(20)______ Don't try to do everything perfectly. Focus on what really matters, and you will find your school life much easier.",
       "stem": "(19)______",
       "options": [
-        "A. However",
-        "B. First of all",
-        "C. In addition",
-        "D. As a result",
-        "E. For example"
+        "A. However, don't be too hard on yourself.",
+        "B. First, find out where your time actually goes.",
+        "C. Many students struggle to balance study and play.",
+        "D. Then, decide which tasks are most important.",
+        "E. But remember to leave some time for relaxation."
       ],
-      "correct_answer": "C",
-      "explanation": "本题考查段落衔接（递进关系）。\n前文讲了如何安排学习任务（列清单、排序），本段开始讲\"Don't forget to take breaks\"（别忘了休息）。这是除了之前的建议之外的另一条建议，属于补充说明，用In addition（此外/另外）。\n\n为什么不选其他选项：\nA. However - 转折，但前后都是建议，没有转折；\nB. First of all - 首先，但这里不是第一条；\nD. As a result - 结果，前后没有因果关系；\nE. For example - 例如，后面不是例子，而是新建议。\n\n解题技巧：段落之间的衔接，如果是添加新的建议/观点，用In addition/Furthermore/Moreover（此外）；如果是转折用However；如果是结果用Therefore/As a result。",
+      "correct_answer": "D",
+      "explanation": "【解析】考查连接词和逻辑关系。前文说\"Make a to-do list every morning\"（每天早上列待办清单），后文说\"Put the most important tasks at the top\"（把最重要的任务放在最上面）。选项D\"Then, decide which tasks are most important\"（然后，决定哪些任务最重要）承上启下，Then表示顺序，承接上文的列清单，引出下文的重要性排序。【线索】Then表示步骤的延续，与Next（下一段开头）形成顺序呼应。",
       "label": "短文填空"
     },
     {
       "id": 20,
       "type": "fill",
-      "knowledge_point": "sentence_fill",
+      "knowledge_point": "sentence_fill_transition_contrast",
       "difficulty": 2,
+      "group": "fill_1",
+      "group_passage": "Good time management is important for middle school students. (17)______ Here are some practical ways to improve your time management skills.\n\nStart by tracking your time. (18)______ Write down everything you do for a week. You might be surprised to find how much time you spend on your phone.\n\nNext, plan ahead. Make a to-do list every morning. (19)______ Put the most important tasks at the top. This way, you won't forget anything urgent.\n\n(20)______ Don't try to do everything perfectly. Focus on what really matters, and you will find your school life much easier.",
       "stem": "(20)______",
       "options": [
-        "A. However",
-        "B. First of all",
-        "C. In addition",
-        "D. As a result",
-        "E. For example"
+        "A. However, don't be too hard on yourself.",
+        "B. First, find out where your time actually goes.",
+        "C. Many students struggle to balance study and play.",
+        "D. Then, decide which tasks are most important.",
+        "E. But remember to leave some time for relaxation."
       ],
-      "correct_answer": "D",
-      "explanation": "本题考查段落衔接（因果关系）。\n前文说\"If you follow these suggestions, you will find that...\"（如果你遵循这些建议，你会发现...），空格后说\"you have enough time for both study and hobbies\"（你有足够的时间用于学习和爱好）。遵循建议（因）导致有时间（果），所以用As a result（结果）。\n\n为什么不选其他选项：\nA. However - 转折，不符合；\nB. First of all - 顺序词，这里是结尾段，不是开始；\nC. In addition - 此外，表并列，不表因果；\nE. For example - 例如，后面不是例子。\n\n解题技巧：看到\"If you...you will...\"的条件结果句型，以及\"find that\"后面的积极结果，用As a result/Therefore（因此）来引出结果。",
+      "correct_answer": "A",
+      "explanation": "【解析】考查转折关系。空格后说\"Don't try to do everything perfectly\"（不要试图把每件事都做得完美），这是一种让步或转折的建议。选项A\"However, don't be too hard on yourself\"（然而，不要对自己太苛刻）与后文意思一致，However表示转折，提醒读者虽然要做好时间管理，但也不要过分苛求完美。【线索】However表示转折，通常引出与前面建议相对或补充的限制条件。",
       "label": "短文填空"
     }
-  ],
-  "group_passages": {
-    "cloze_1": "Peter is a Grade 8 student who cares deeply about the environment. Last month, he joined the school's Green Club. One day, he (8)______ when he noticed how much paper was being wasted every day in his school. Students were throwing away paper that had only been used on one side.\n\nAt the next (9)______ meeting, Peter shared his ideas. He suggested setting up special boxes to collect paper that students were (10)______ after using only one side. This paper could then be reused for notes or rough work.\n\n(11)______, Peter didn't give up. He made posters and gave presentations to explain how recycling paper could save trees. Slowly, more students started to support his idea. After one month, the school saved over 500 kilograms of paper.\n\nPeter felt proud that he had made a difference to the (12)______. He realized that even small actions could lead to big changes when everyone worked together.",
-    "reading_1": "In today's digital age, many teenagers spend hours looking at screens every day. Whether it's for online classes, homework, or entertainment, screen time has become a major part of daily life. However, this habit can cause serious problems for our eyes.\n\n\"Looking at screens for too long can cause eye strain,\" says Dr. Li Ming, an eye doctor from Shenzhen Hospital. \"Your eyes have to work hard to focus on the screen, and they don't blink as often. This leads to dry eyes, headaches, and blurred vision.\" The medical term for this condition is Computer Vision Syndrome (CVS).\n\nDr. Li Ming suggests following the \"20-20-20 rule\" to protect your eyes. \"Every 20 minutes, look at something 20 feet away (about 6 meters) for 20 seconds,\" he explains. \"This gives your eye muscles a chance to relax.\" He also reminds us to blink more often and keep the screen at arm's length.\n\n\"Your eyes are not designed to stare at screens for hours without a break,\" Dr. Li Ming warns. \"Just like your body needs rest after exercise, your eyes need rest after hard work.\" He adds that this rule applies not only to students but also to office workers who use computers all day.\n\nBy following these simple tips, you can enjoy your digital devices while keeping your eyes healthy. Remember, good eye habits today mean better vision tomorrow.",
-    "fill_1": "Balancing study and hobbies can be difficult for middle school students. With homework, exams, and after-school activities, many students feel stressed. Here are some tips to help you manage your time better.\n\n(17)______, make a list of what you need to do. Write down all your homework and activities. Then, put the most important tasks at the top. (18)______, if you have a test tomorrow, studying should come before watching TV.\n\n(19)______, don't forget to take breaks. Your brain needs rest to work well. Try studying for 45 minutes, then take a 10-minute break. During the break, you can stretch, have a snack, or simply close your eyes.\n\n(20)______, you will find that you have enough time for both study and hobbies. Good time management is a skill that will help you not just in school, but throughout your life."
-  }
+  ]
 }
