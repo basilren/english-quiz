@@ -1,5 +1,5 @@
 ﻿{
-  "date": "2026-06-19",
+  "date": "2026-06-20",
   "session_number": 1,
   "questions": [
     {
@@ -12,10 +12,10 @@
         "A. Did; finish; finished",
         "B. Have; finished; finished",
         "C. Have; finished; have finished",
-        "D. Do; finish; finished"
+        "D. Did; finish; have finished"
       ],
       "correct_answer": "B",
-      "explanation": "【解析】yet是现在完成时的标志词，常用于疑问句和否定句，表示\"已经\"，所以第一空用Have...finished；an hour ago是一般过去时的标志词，表示具体的过去时间，所以第二空用finished。选项A和D的第一空是一般过去时，与yet不搭配；选项C的第二空用了现在完成时，与an hour ago矛盾。【口诀】yet现完，ago过去。",
+      "explanation": "【考点】现在完成时 vs 一般过去时\n【解析】选B。第一空根据标志词yet（常用于疑问句和否定句）可知用现在完成时Have...finished；第二空根据标志词ago（一小时前）可知用一般过去时finished。\n【为什么不选其他】A项第一空用Did表示过去时，但yet通常与完成时连用；C项第二空用have finished，但ago是过去时标志；D项时态混乱，不符合语法规则。\n【解题技巧】口诀：\"yet/already/ever/never用完成，yesterday/ago/last night用过去\"。",
       "label": "语法题"
     },
     {
@@ -23,15 +23,15 @@
       "type": "grammar",
       "knowledge_point": "relative_clause_who_which",
       "difficulty": 2,
-      "stem": "The book ______ I borrowed from the library is very interesting.",
+      "stem": "The girl ______ is singing on the stage won the first prize in the singing competition.",
       "options": [
-        "A. who",
-        "B. which",
+        "A. which",
+        "B. who",
         "C. whom",
         "D. whose"
       ],
       "correct_answer": "B",
-      "explanation": "【解析】本题考查定语从句关系代词的选择。先行词是the book，指物，在从句中作宾语，所以用which或that。选项A的who用于指人，作主语；选项C的whom用于指人，作宾语；选项D的whose表示\"谁的\"，在从句中作定语。【技巧】先行词是物，作主宾用which/that；先行词是人，作主语用who，作宾语用whom/who/that。",
+      "explanation": "【考点】定语从句关系代词\n【解析】选B。先行词The girl指人，定语从句中缺少主语（is singing），故用who。which指物；whom指人但作宾语；whose表所属关系。\n【为什么不选其他】A项which用于指物；C项whom在从句中作宾语，而本题缺主语；D项whose后需接名词，表示\"...的\"。\n【解题技巧】口诀：\"指人用who/whom/that，指物which/that；作主语用who/which，作宾语whom可省略\"。",
       "label": "语法题"
     },
     {
@@ -39,318 +39,318 @@
       "type": "grammar",
       "knowledge_point": "passive_voice",
       "difficulty": 1,
-      "stem": "These computers ______ to the poor students in the village last month.",
+      "stem": "These books ______ to the school library by Bosco tomorrow.",
       "options": [
-        "A. are given",
-        "B. were given",
-        "C. give",
-        "D. gave"
+        "A. will return",
+        "B. will be returned",
+        "C. are returned",
+        "D. returned"
       ],
       "correct_answer": "B",
-      "explanation": "【解析】last month是一般过去时的标志词，主语computers与give之间是被动关系（电脑被送给学生），所以用一般过去时的被动语态were given。选项A是一般现在时被动语态，时态不符；选项C和D是主动语态，且主语computers不能执行\"给予\"这个动作。【口诀】被动语态be+done，时态体现在be动词上。",
+      "explanation": "【考点】一般将来时的被动语态\n【解析】选B。主语These books与动词return构成被动关系（书被归还），时间状语tomorrow表示将来，故用will be returned。\n【为什么不选其他】A项是主动语态；C项是一般现在时被动，与tomorrow不符；D项是一般过去时主动语态。\n【解题技巧】被动语态结构：be + done（过去分词），将来时用will be done。",
       "label": "语法题"
     },
     {
       "id": 4,
       "type": "grammar",
-      "knowledge_point": "object_clause_whether_if",
+      "knowledge_point": "object_clause_if_whether",
       "difficulty": 3,
-      "stem": "—Do you think ______ we will have a picnic tomorrow?\n—I'm not sure. It ______ rain in the afternoon.",
+      "stem": "—Do you think ______ we will have a picnic tomorrow?\n—I'm not sure. It ______ rain.",
       "options": [
         "A. that; must",
         "B. whether; might",
         "C. if; must",
-        "D. whether; should"
+        "D. that; might"
       ],
       "correct_answer": "B",
-      "explanation": "【解析】第一空考查宾语从句连接词。根据答句\"I'm not sure\"（我不确定）可知，问句表达的是\"是否\"会去野餐，所以用whether或if。第二空考查情态动词表推测。must表示肯定推测（一定），might表示可能性较小的推测（可能），should表示应该。根据\"I'm not sure\"可知是不确定，用might最恰当。【注意】虽然if也可以表示\"是否\"，但在正式英语中，与or not连用或放在句首时多用whether，且此题选项B搭配最合理。",
+      "explanation": "【考点】宾语从句连接词 + 情态动词表推测\n【解析】选B。第一空根据答语\"I'm not sure\"（不确定）可知用whether（是否）引导宾语从句；第二空might表示\"可能\"，符合不确定的语气。must表示\"必须/肯定\"，与not sure矛盾。\n【为什么不选其他】A项that引导陈述事实，但答语显示不确定；C项if虽可表\"是否\"，但第二空must太绝对；D项that不符合不确定语境。\n【解题技巧】口诀：\"宾从whether/if表是否，that陈述事实无疑问；回答not sure用whether更正式，might表可能must表肯定\"。",
       "label": "语法题"
     },
     {
       "id": 5,
       "type": "vocabulary",
-      "knowledge_point": "word_meaning_satisfied",
+      "knowledge_point": "phrasal_verbs",
       "difficulty": 1,
-      "stem": "If you are not ______ with your current score, you should work harder to get a better one.",
+      "stem": "Please ______ the lights when you leave the classroom. We should save energy to protect the environment.",
       "options": [
-        "A. strict",
-        "B. satisfied",
-        "C. popular",
-        "D. nervous"
+        "A. turn on",
+        "B. turn off",
+        "C. turn up",
+        "D. turn down"
       ],
       "correct_answer": "B",
-      "explanation": "【解析】考查形容词词义辨析。be satisfied with是固定搭配，意为\"对……满意\"。句意：如果你对自己目前的分数不满意，你应该更努力以取得更好的成绩。选项A strict（严格的）常与with搭配，但意思不符；选项C popular（受欢迎的）常与with/among搭配；选项D nervous（紧张的）常与about搭配。【近义词】content也表示\"满意的\"，用法为be content with。",
+      "explanation": "【考点】动词短语辨析\n【解析】选B。turn off表示\"关闭\"，根据后句\"save energy\"（节约能源）可知离开教室应关灯。\n【为什么不选其他】A项turn on（打开）与节能相反；C项turn up（调大音量/出现）；D项turn down（调小音量/拒绝）。\n【解题技巧】结合上下文语境，save energy对应turn off lights。",
       "label": "词汇题"
     },
     {
       "id": 6,
       "type": "vocabulary",
-      "knowledge_point": "prefix_un_dis",
+      "knowledge_point": "word_collocation",
       "difficulty": 2,
-      "stem": "The news made everyone excited, but I felt rather ______.",
+      "stem": "It's important for teenagers to ______ good relationships with their parents through communication.",
       "options": [
-        "A. interested",
-        "B. uninterested",
-        "C. disinterested",
-        "D. interesting"
+        "A. set up",
+        "B. put up",
+        "C. build up",
+        "D. make up"
       ],
-      "correct_answer": "B",
-      "explanation": "【解析】考查前缀和形容词辨析。根据but可知前后是转折关系，前面说大家都很兴奋，后面应该表示\"不感兴趣\"。uninterested表示\"不感兴趣的\"，指对某事缺乏兴趣；disinterested表示\"公正的，无私的\"，指没有偏见。此处指对消息不感兴趣，用uninterested。前缀un-表示否定，interested表示\"感兴趣的\"。选项A和D与句意相反。【辨析】uninterested=not interested（不感兴趣）；disinterested=neutral（公正无私）。",
+      "correct_answer": "C",
+      "explanation": "【考点】动词短语辨析（固定搭配）\n【解析】选C。build up relationships是固定搭配，表示\"建立/增进关系\"。\n【为什么不选其他】A项set up（建立组织/装置）；B项put up（张贴/举起/搭建）；D项make up（编造/化妆/组成）。\n【解题技巧】build up强调逐步建立和加强，常用于relationships/trust/strength等抽象概念。",
       "label": "词汇题"
     },
     {
       "id": 7,
       "type": "vocabulary",
-      "knowledge_point": "phrasal_verbs",
+      "knowledge_point": "word_formation_noun_suffix",
       "difficulty": 2,
-      "stem": "We need to ______ a good plan to solve this problem.",
+      "stem": "The ______ of this new recycling technology will greatly improve our environmental protection. (invent)",
       "options": [
-        "A. come up with",
-        "B. catch up with",
-        "C. keep up with",
-        "D. put up with"
+        "A. inventor",
+        "B. invention",
+        "C. inventive",
+        "D. inventing"
       ],
-      "correct_answer": "A",
-      "explanation": "【解析】考查动词短语辨析。come up with意为\"提出，想出（主意、计划等）\"；catch up with意为\"赶上（某人）\"；keep up with意为\"跟上，保持同步\"；put up with意为\"忍受，容忍\"。句意：我们需要想出一个好计划来解决这个问题。根据宾语a good plan可知，应选\"提出\"。【记忆技巧】come up with = think of（想到）。",
+      "correct_answer": "B",
+      "explanation": "【考点】词性转换（动词变名词）\n【解析】选B。定冠词The后需接名词，invention（发明物）符合句意\"这项新回收技术的发明\"。\n【为什么不选其他】A项inventor（发明家），指人；C项inventive（有创造力的），形容词；D项inventing（动名词），但此处特指具体发明物，用invention更准确。\n【解题技巧】-tion后缀常将动词变为名词，如invent→invention, educate→education。",
       "label": "词汇题"
     },
     {
       "id": 8,
       "type": "cloze",
-      "knowledge_point": "cloze_general",
-      "difficulty": 1,
-      "group": "cloze_1",
-      "group_passage": "Last month, our school started a new project called \"Green Campus\". The goal was to make students ______ the importance of protecting the environment.\n\nAs members of the Environmental Club, my classmates and I decided to take action. First, we placed special bins in every classroom for different types of waste. Many students were not ______ to it at first. They often put rubbish into the wrong bins. Instead of getting angry, we stood there ______ and guided them. Slowly, things began to change.\n\nOne of the most successful activities was the \"Paper Saving Week\". We encouraged students to use both sides of paper. To our ______, the amount of waste paper dropped by 40% that week. The teachers were proud of our efforts.\n\nHowever, the project was not without challenges. Some students complained that separating waste took too much time. We organized a discussion and listened to their ideas. In the end, we found a better way to make the process easier.\n\nThis project has taught us that small actions can make a big ______. Protecting the environment is not just a slogan, but something we should practice every day.",
+      "knowledge_point": "cloze_context",
+      "difficulty": 2,
       "stem": "(8)______",
       "options": [
-        "A. forget",
-        "B. understand",
-        "C. doubt",
-        "D. remember"
+        "A. interested",
+        "B. bored",
+        "C. tired",
+        "D. worried"
       ],
-      "correct_answer": "B",
-      "explanation": "【解析】考查语境理解。根据上下文，学校开展\"绿色校园\"项目的目的是让学生\"理解\"保护环境的重要性。understand（理解）符合语境。forget（忘记）和doubt（怀疑）与项目目的相反；remember（记住）虽然语义通顺，但understand更能体现对重要性的深刻认识，且与后文的taught us相呼应。【线索】后文提到This project has taught us...，说明是让学生理解/明白道理。",
-      "label": "完形填空"
+      "correct_answer": "A",
+      "explanation": "【考点】完形填空-语境推理\n【解析】选A。根据下文\"许多学生和老师参与\"以及\"令人兴奋的活动\"可知，这次活动\"吸引/使感兴趣\"了很多人。interested（使感兴趣）符合语境。\n【为什么不选其他】B项bored（使厌烦）、C项tired（使疲劳）、D项worried（使担忧）均为负面情绪，与exciting event矛盾。\n【解题技巧】关注情感线索，exciting对应积极词汇interested。",
+      "label": "完形填空",
+      "group": "cloze_1",
+      "group_passage": "Last month, our school held a science fair. It was an exciting event that (8)______ many students and teachers. The theme was \"Green Future\", focusing on environmental protection and sustainable living.\n\nI participated with my three teammates. We (9)______ a small robot that could sort waste automatically. At first, we faced many (10)______. The robot couldn't distinguish between plastic and paper clearly, and the sensors often failed to work. We felt a bit (11)______, but we didn't give up. After working on it for two weeks and consulting our science teacher, we finally solved all the technical problems.\n\nOn the day of the fair, many visitors (12)______ our project with great curiosity. They were amazed by how the robot worked and asked many questions. In the end, we won the first prize. It was a great experience that taught us the importance of teamwork and perseverance."
     },
     {
       "id": 9,
       "type": "cloze",
-      "knowledge_point": "cloze_fixed_collocation",
+      "knowledge_point": "cloze_context",
       "difficulty": 2,
-      "group": "cloze_1",
-      "group_passage": "Last month, our school started a new project called \"Green Campus\". The goal was to make students ______ the importance of protecting the environment.\n\nAs members of the Environmental Club, my classmates and I decided to take action. First, we placed special bins in every classroom for different types of waste. Many students were not ______ to it at first. They often put rubbish into the wrong bins. Instead of getting angry, we stood there ______ and guided them. Slowly, things began to change.\n\nOne of the most successful activities was the \"Paper Saving Week\". We encouraged students to use both sides of paper. To our ______, the amount of waste paper dropped by 40% that week. The teachers were proud of our efforts.\n\nHowever, the project was not without challenges. Some students complained that separating waste took too much time. We organized a discussion and listened to their ideas. In the end, we found a better way to make the process easier.\n\nThis project has taught us that small actions can make a big ______. Protecting the environment is not just a slogan, but something we should practice every day.",
       "stem": "(9)______",
       "options": [
-        "A. kind",
-        "B. helpful",
-        "C. used",
-        "D. similar"
+        "A. discovered",
+        "B. created",
+        "C. found",
+        "D. bought"
       ],
-      "correct_answer": "C",
-      "explanation": "【解析】考查固定搭配。be used to sth/doing sth是固定搭配，意为\"习惯于……\"。句意：起初许多学生不习惯（这种分类方式）。根据后文\"They often put rubbish into the wrong bins\"（他们经常把垃圾放错垃圾桶）可知，学生们还不习惯这种新的分类方式。be kind to（对……友好）；be helpful to（对……有帮助）；be similar to（与……相似）均不符合语境。【口诀】used to do（过去常常），be used to doing（习惯于），be used to do（被用来做）。",
-      "label": "完形填空"
+      "correct_answer": "B",
+      "explanation": "【考点】完形填空-语境推理\n【解析】选B。根据上下文，科技展上展示的是自己\"创造/制作\"的机器人，created（创造）符合语境。\n【为什么不选其他】A项discovered（发现）指发现已存在的事物；C项found（找到/发现）；D项bought（购买）与科技展展示原创作品的语境不符。\n【解题技巧】根据\"participated\"和\"project\"可知是原创作品，created最恰当。",
+      "label": "完形填空",
+      "group": "cloze_1",
+      "group_passage": "Last month, our school held a science fair. It was an exciting event that (8)______ many students and teachers. The theme was \"Green Future\", focusing on environmental protection and sustainable living.\n\nI participated with my three teammates. We (9)______ a small robot that could sort waste automatically. At first, we faced many (10)______. The robot couldn't distinguish between plastic and paper clearly, and the sensors often failed to work. We felt a bit (11)______, but we didn't give up. After working on it for two weeks and consulting our science teacher, we finally solved all the technical problems.\n\nOn the day of the fair, many visitors (12)______ our project with great curiosity. They were amazed by how the robot worked and asked many questions. In the end, we won the first prize. It was a great experience that taught us the importance of teamwork and perseverance."
     },
     {
       "id": 10,
       "type": "cloze",
-      "knowledge_point": "cloze_context_emotion",
-      "difficulty": 2,
-      "group": "cloze_1",
-      "group_passage": "Last month, our school started a new project called \"Green Campus\". The goal was to make students ______ the importance of protecting the environment.\n\nAs members of the Environmental Club, my classmates and I decided to take action. First, we placed special bins in every classroom for different types of waste. Many students were not ______ to it at first. They often put rubbish into the wrong bins. Instead of getting angry, we stood there ______ and guided them. Slowly, things began to change.\n\nOne of the most successful activities was the \"Paper Saving Week\". We encouraged students to use both sides of paper. To our ______, the amount of waste paper dropped by 40% that week. The teachers were proud of our efforts.\n\nHowever, the project was not without challenges. Some students complained that separating waste took too much time. We organized a discussion and listened to their ideas. In the end, we found a better way to make the process easier.\n\nThis project has taught us that small actions can make a big ______. Protecting the environment is not just a slogan, but something we should practice every day.",
+      "knowledge_point": "cloze_general",
+      "difficulty": 1,
       "stem": "(10)______",
       "options": [
-        "A. patiently",
-        "B. quickly",
-        "C. secretly",
-        "D. suddenly"
+        "A. advantages",
+        "B. progress",
+        "C. difficulties",
+        "D. success"
       ],
-      "correct_answer": "A",
-      "explanation": "【解析】考查语境和情感线索。根据\"Instead of getting angry\"（没有生气）和\"guided them\"（指导他们）可知，我们应该是有耐心地向他们解释。patiently（耐心地）符合语境。quickly（快速地）与语境不符；secretly（秘密地）和suddenly（突然地）不符合逻辑。【线索】Instead of getting angry提示了对比关系，没有生气→有耐心。",
-      "label": "完形填空"
+      "correct_answer": "C",
+      "explanation": "【考点】完形填空-语境推理\n【解析】选C。根据下文\"机器人无法清晰区分塑料和纸张\"可知，他们遇到了很多\"困难\"（difficulties）。\n【为什么不选其他】A项advantages（优点）；B项progress（进步）；D项success（成功），均与后文描述的问题相反。\n【解题技巧】利用转折关系，下文描述技术问题，故此处选difficulties。",
+      "label": "完形填空",
+      "group": "cloze_1",
+      "group_passage": "Last month, our school held a science fair. It was an exciting event that (8)______ many students and teachers. The theme was \"Green Future\", focusing on environmental protection and sustainable living.\n\nI participated with my three teammates. We (9)______ a small robot that could sort waste automatically. At first, we faced many (10)______. The robot couldn't distinguish between plastic and paper clearly, and the sensors often failed to work. We felt a bit (11)______, but we didn't give up. After working on it for two weeks and consulting our science teacher, we finally solved all the technical problems.\n\nOn the day of the fair, many visitors (12)______ our project with great curiosity. They were amazed by how the robot worked and asked many questions. In the end, we won the first prize. It was a great experience that taught us the importance of teamwork and perseverance."
     },
     {
       "id": 11,
       "type": "cloze",
-      "knowledge_point": "cloze_fixed_phrase",
+      "knowledge_point": "cloze_emotion",
       "difficulty": 2,
-      "group": "cloze_1",
-      "group_passage": "Last month, our school started a new project called \"Green Campus\". The goal was to make students ______ the importance of protecting the environment.\n\nAs members of the Environmental Club, my classmates and I decided to take action. First, we placed special bins in every classroom for different types of waste. Many students were not ______ to it at first. They often put rubbish into the wrong bins. Instead of getting angry, we stood there ______ and guided them. Slowly, things began to change.\n\nOne of the most successful activities was the \"Paper Saving Week\". We encouraged students to use both sides of paper. To our ______, the amount of waste paper dropped by 40% that week. The teachers were proud of our efforts.\n\nHowever, the project was not without challenges. Some students complained that separating waste took too much time. We organized a discussion and listened to their ideas. In the end, we found a better way to make the process easier.\n\nThis project has taught us that small actions can make a big ______. Protecting the environment is not just a slogan, but something we should practice every day.",
       "stem": "(11)______",
       "options": [
-        "A. sadness",
-        "B. surprise",
-        "C. fear",
-        "D. regret"
+        "A. excited",
+        "B. frustrated",
+        "C. surprised",
+        "D. relaxed"
       ],
       "correct_answer": "B",
-      "explanation": "【解析】考查固定搭配和语境。to one's surprise是固定短语，意为\"令某人惊讶的是\"。根据\"dropped by 40%\"（下降了40%）可知，这个结果令人惊讶。sadness（悲伤）；fear（恐惧）；regret（后悔）均不符合语境。【固定搭配】to one's joy/delight（令某人高兴的是）；to one's disappointment（令某人失望的是）。",
-      "label": "完形填空"
+      "explanation": "【考点】完形填空-情感线索\n【解析】选B。遇到技术困难时应该感到\"沮丧\"（frustrated），but表示转折，后说\"没放弃\"，前应是负面情绪。\n【为什么不选其他】A项excited（兴奋的）和D项relaxed（放松的）是积极情绪，与遇到困难矛盾；C项surprised（惊讶的）不符合语境。\n【解题技巧】关注情感转折词but，前后情感相反，后文didn't give up提示前文是挫折感。",
+      "label": "完形填空",
+      "group": "cloze_1",
+      "group_passage": "Last month, our school held a science fair. It was an exciting event that (8)______ many students and teachers. The theme was \"Green Future\", focusing on environmental protection and sustainable living.\n\nI participated with my three teammates. We (9)______ a small robot that could sort waste automatically. At first, we faced many (10)______. The robot couldn't distinguish between plastic and paper clearly, and the sensors often failed to work. We felt a bit (11)______, but we didn't give up. After working on it for two weeks and consulting our science teacher, we finally solved all the technical problems.\n\nOn the day of the fair, many visitors (12)______ our project with great curiosity. They were amazed by how the robot worked and asked many questions. In the end, we won the first prize. It was a great experience that taught us the importance of teamwork and perseverance."
     },
     {
       "id": 12,
       "type": "cloze",
-      "knowledge_point": "cloze_idiom",
+      "knowledge_point": "cloze_general",
       "difficulty": 1,
-      "group": "cloze_1",
-      "group_passage": "Last month, our school started a new project called \"Green Campus\". The goal was to make students ______ the importance of protecting the environment.\n\nAs members of the Environmental Club, my classmates and I decided to take action. First, we placed special bins in every classroom for different types of waste. Many students were not ______ to it at first. They often put rubbish into the wrong bins. Instead of getting angry, we stood there ______ and guided them. Slowly, things began to change.\n\nOne of the most successful activities was the \"Paper Saving Week\". We encouraged students to use both sides of paper. To our ______, the amount of waste paper dropped by 40% that week. The teachers were proud of our efforts.\n\nHowever, the project was not without challenges. Some students complained that separating waste took too much time. We organized a discussion and listened to their ideas. In the end, we found a better way to make the process easier.\n\nThis project has taught us that small actions can make a big ______. Protecting the environment is not just a slogan, but something we should practice every day.",
       "stem": "(12)______",
       "options": [
-        "A. decision",
-        "B. mistake",
-        "C. difference",
-        "D. plan"
+        "A. looked at",
+        "B. laughed at",
+        "C. pointed at",
+        "D. shouted at"
       ],
-      "correct_answer": "C",
-      "explanation": "【解析】考查固定搭配。make a difference是固定短语，意为\"产生影响，发挥作用\"。句意：这个项目教会我们，小小的行动可以产生巨大的影响。make a decision（做决定）；make a mistake（犯错误）；make a plan（制定计划）虽然都是固定搭配，但不符合句意。【金句】Small actions can make a big difference.（积少成多/小行动大影响。）",
-      "label": "完形填空"
+      "correct_answer": "A",
+      "explanation": "【考点】完形填空-语境推理（动词短语）\n【解析】选A。looked at（观看/看）符合语境，游客\"观看\"他们的项目。\n【为什么不选其他】B项laughed at（嘲笑）含贬义，与won the first prize矛盾；C项pointed at（指着）不够全面；D项shouted at（对...大喊）不礼貌，不符合场景。\n【解题技巧】结合with great curiosity（带着好奇心），looked at最符合参观科技展的语境。",
+      "label": "完形填空",
+      "group": "cloze_1",
+      "group_passage": "Last month, our school held a science fair. It was an exciting event that (8)______ many students and teachers. The theme was \"Green Future\", focusing on environmental protection and sustainable living.\n\nI participated with my three teammates. We (9)______ a small robot that could sort waste automatically. At first, we faced many (10)______. The robot couldn't distinguish between plastic and paper clearly, and the sensors often failed to work. We felt a bit (11)______, but we didn't give up. After working on it for two weeks and consulting our science teacher, we finally solved all the technical problems.\n\nOn the day of the fair, many visitors (12)______ our project with great curiosity. They were amazed by how the robot worked and asked many questions. In the end, we won the first prize. It was a great experience that taught us the importance of teamwork and perseverance."
     },
     {
       "id": 13,
       "type": "reading",
       "knowledge_point": "detail",
       "difficulty": 2,
-      "group": "reading_1",
-      "group_passage": "In today's digital age, more and more teenagers are suffering from eye problems. Dr. Li Ming, a famous eye doctor from Shenzhen Hospital, has proposed a simple but effective method called the \"20-20-20\" rule to help protect our eyes.\n\nAccording to Dr. Li, when we look at screens for a long time, our eye muscles become tense. This tension, or \"strain\", can cause headaches and blurry vision. The 20-20-20 rule is easy to follow: every 20 minutes, look at something 20 feet (about 6 meters) away for at least 20 seconds. This gives your eye muscles a chance to relax.\n\n\"Many students think wearing glasses is the only solution to eye problems,\" says Dr. Li. \"But actually, changing our habits is more important. I often tell my patients that prevention is better than cure.\"\n\nA recent study shows that students who follow this rule regularly have 30% less eye strain than those who don't. However, Dr. Li reminds us that the rule alone is not enough. We should also make sure to spend at least one hour outdoors every day, as natural light is good for eye development.\n\nSchools in Shenzhen have started to promote this rule. Some teachers even set timers in class to remind students to rest their eyes. Students who have tried the method say their eyes feel more comfortable after a day of studying.",
-      "stem": "According to the passage, what does the \"20-20-20\" rule suggest we do?",
+      "stem": "According to the passage, where do microplastics mainly come from?",
       "options": [
-        "A. Study for 20 minutes and rest for 20 seconds",
-        "B. Look at something 20 feet away every 20 minutes for 20 seconds",
-        "C. Spend 20 minutes outdoors every day",
-        "D. Check our eyes every 20 days"
+        "A. Only from plastic bottles in the ocean.",
+        "B. From synthetic clothes, plastic products and car tires.",
+        "C. Only from broken fishing nets.",
+        "D. From natural rocks and sand."
       ],
       "correct_answer": "B",
-      "explanation": "【解析】细节理解题。根据第二段\"every 20 minutes, look at something 20 feet (about 6 meters) away for at least 20 seconds\"可知，20-20-20规则指的是：每20分钟，看20英尺（约6米）外的东西至少20秒。选项A错误，不是学习20分钟休息20秒；选项C错误，每天户外活动一小时是额外建议，不是20-20-20规则的内容；选项D文中未提及。【定位技巧】根据题干关键词\"20-20-20 rule\"定位到第二段，找到冒号后的解释说明。",
-      "label": "阅读-细节理解"
+      "explanation": "【考点】阅读-细节理解\n【解析】选B。根据第二段\"They come from many sources: synthetic clothes when washed, plastic bottles breaking down, and even car tires wearing down on roads\"可知，微塑料来源于合成衣物、塑料瓶和汽车轮胎等。\n【为什么不选其他】A项\"only\"过于绝对；C项\"only\"错误；D项与原文不符，微塑料是人为产生的。\n【解题技巧】细节题要定位原文，注意\"sources\"后的列举，排除含only的绝对化选项。",
+      "label": "阅读-细节理解",
+      "group": "reading_1",
+      "group_passage": "Microplastics are tiny plastic particles less than 5mm in size. You cannot see many of them with your eyes, but they are everywhere around us. When you drink from a plastic bottle or wear clothes made of synthetic materials (合成材料), you might be releasing microplastics into the environment.\n\nThese small pollutants come from many daily sources. When we wash synthetic clothes, tiny fibers (纤维) flow into the water system. Plastic bottles and bags break down into smaller pieces over time. Even driving cars contributes to this problem—car tires wear down on roads and release microplastic particles.\n\nScientists have found microplastics in oceans, rivers, and even in the air we breathe. They can accumulate in animals' bodies and eventually enter our food chain. \"The problem is that plastic doesn't really disappear,\" explains Dr. Li Ming, an environmental scientist. \"It just breaks into smaller and smaller pieces.\"\n\nHowever, there are ways to reduce microplastic pollution. We can choose natural fiber clothes like cotton or wool, use reusable bottles instead of single-use plastics, and support policies that limit plastic production. Small changes in our daily habits can make a big difference to our planet's future."
     },
     {
       "id": 14,
       "type": "reading",
-      "knowledge_point": "inference",
-      "difficulty": 3,
-      "group": "reading_1",
-      "group_passage": "In today's digital age, more and more teenagers are suffering from eye problems. Dr. Li Ming, a famous eye doctor from Shenzhen Hospital, has proposed a simple but effective method called the \"20-20-20\" rule to help protect our eyes.\n\nAccording to Dr. Li, when we look at screens for a long time, our eye muscles become tense. This tension, or \"strain\", can cause headaches and blurry vision. The 20-20-20 rule is easy to follow: every 20 minutes, look at something 20 feet (about 6 meters) away for at least 20 seconds. This gives your eye muscles a chance to relax.\n\n\"Many students think wearing glasses is the only solution to eye problems,\" says Dr. Li. \"But actually, changing our habits is more important. I often tell my patients that prevention is better than cure.\"\n\nA recent study shows that students who follow this rule regularly have 30% less eye strain than those who don't. However, Dr. Li reminds us that the rule alone is not enough. We should also make sure to spend at least one hour outdoors every day, as natural light is good for eye development.\n\nSchools in Shenzhen have started to promote this rule. Some teachers even set timers in class to remind students to rest their eyes. Students who have tried the method say their eyes feel more comfortable after a day of studying.",
-      "stem": "What can we infer from Dr. Li Ming's words in Paragraph 3?",
+      "knowledge_point": "word_guessing_context",
+      "difficulty": 2,
+      "stem": "What does the word \"accumulate\" in Paragraph 3 probably mean?",
       "options": [
-        "A. All students should wear glasses to protect eyes",
-        "B. Eye problems cannot be cured once they occur",
-        "C. Changing habits is important for eye health",
-        "D. Wearing glasses is better than preventing eye problems"
+        "A. Disappear quickly.",
+        "B. Break into pieces.",
+        "C. Gather or collect gradually.",
+        "D. Move from one place to another."
       ],
       "correct_answer": "C",
-      "explanation": "【解析】推理判断题。根据第三段Dr. Li的话\"Many students think wearing glasses is the only solution... But actually, changing our habits is more important\"可知，他认为改变习惯比戴眼镜更重要，预防胜于治疗。由此可推断出改变习惯对眼睛健康很重要。选项A与原文相反；选项B过于绝对，文中未说不能治愈；选项D与原文\"prevention is better than cure\"（预防胜于治疗）相反。【推理技巧】注意转折词But，其后往往是作者真实观点。",
-      "label": "阅读-推理判断"
+      "explanation": "【考点】阅读-词义猜测\n【解析】选C。accumulate意为\"积累/积聚\"。根据上下文\"enter our food chain\"（进入食物链）可知，微塑料在动物体内逐渐\"聚集\"。\n【为什么不选其他】A项\"消失\"与原文意思相反；B项\"破碎\"是break down的意思；D项\"移动\"没有体现\"逐渐增多\"的含义。\n【解题技巧】利用上下文逻辑，微塑料进入动物体内并在食物链中传递，应该是逐渐聚集增多的过程。",
+      "label": "阅读-词义猜测",
+      "group": "reading_1",
+      "group_passage": "Microplastics are tiny plastic particles less than 5mm in size. You cannot see many of them with your eyes, but they are everywhere around us. When you drink from a plastic bottle or wear clothes made of synthetic materials (合成材料), you might be releasing microplastics into the environment.\n\nThese small pollutants come from many daily sources. When we wash synthetic clothes, tiny fibers (纤维) flow into the water system. Plastic bottles and bags break down into smaller pieces over time. Even driving cars contributes to this problem—car tires wear down on roads and release microplastic particles.\n\nScientists have found microplastics in oceans, rivers, and even in the air we breathe. They can accumulate in animals' bodies and eventually enter our food chain. \"The problem is that plastic doesn't really disappear,\" explains Dr. Li Ming, an environmental scientist. \"It just breaks into smaller and smaller pieces.\"\n\nHowever, there are ways to reduce microplastic pollution. We can choose natural fiber clothes like cotton or wool, use reusable bottles instead of single-use plastics, and support policies that limit plastic production. Small changes in our daily habits can make a big difference to our planet's future."
     },
     {
       "id": 15,
       "type": "reading",
-      "knowledge_point": "word_guessing_context",
-      "difficulty": 2,
-      "group": "reading_1",
-      "group_passage": "In today's digital age, more and more teenagers are suffering from eye problems. Dr. Li Ming, a famous eye doctor from Shenzhen Hospital, has proposed a simple but effective method called the \"20-20-20\" rule to help protect our eyes.\n\nAccording to Dr. Li, when we look at screens for a long time, our eye muscles become tense. This tension, or \"strain\", can cause headaches and blurry vision. The 20-20-20 rule is easy to follow: every 20 minutes, look at something 20 feet (about 6 meters) away for at least 20 seconds. This gives your eye muscles a chance to relax.\n\n\"Many students think wearing glasses is the only solution to eye problems,\" says Dr. Li. \"But actually, changing our habits is more important. I often tell my patients that prevention is better than cure.\"\n\nA recent study shows that students who follow this rule regularly have 30% less eye strain than those who don't. However, Dr. Li reminds us that the rule alone is not enough. We should also make sure to spend at least one hour outdoors every day, as natural light is good for eye development.\n\nSchools in Shenzhen have started to promote this rule. Some teachers even set timers in class to remind students to rest their eyes. Students who have tried the method say their eyes feel more comfortable after a day of studying.",
-      "stem": "What does the word \"strain\" in Paragraph 2 probably mean?",
+      "knowledge_point": "inference",
+      "difficulty": 3,
+      "stem": "What can we infer from Dr. Li Ming's words in Paragraph 3?",
       "options": [
-        "A. 力量 (strength)",
-        "B. 疲劳；紧张 (tiredness; tension)",
-        "C. 视力 (vision)",
-        "D. 治疗 (treatment)"
+        "A. Microplastics will disappear naturally in a few years.",
+        "B. Plastic pollution is a temporary problem.",
+        "C. Microplastics will remain in the environment for a long time.",
+        "D. Scientists have found ways to remove all microplastics."
       ],
-      "correct_answer": "B",
-      "explanation": "【解析】词义猜测题。根据上下文，\"This tension, or 'strain'\"中or表示同位语解释，说明strain与tension（紧张）意思相近。前文说\"when we look at screens for a long time, our eye muscles become tense\"（长时间看屏幕，眼部肌肉变得紧张），后文说会导致头痛和视力模糊。因此strain指的是眼部肌肉的\"疲劳；紧张\"。选项A、C、D均不符合语境。【猜词技巧】利用同位语（tension, or strain）、因果关系（cause headaches）和上下文逻辑进行猜测。",
-      "label": "阅读-词义猜测"
+      "correct_answer": "C",
+      "explanation": "【考点】阅读-推理判断\n【解析】选C。根据Dr. Li Ming的话\"plastic doesn't really disappear... it just breaks into smaller pieces\"可推断，微塑料不会消失，只是变小，会长期存在于环境中。\n【为什么不选其他】A项\"几年内自然消失\"与原文\"doesn't really disappear\"矛盾；B项\"暂时性问题\"错误；D项\"已找到清除所有微塑料的方法\"原文未提及且过于绝对。\n【解题技巧】推理题要基于原文信息合理推断，注意\"doesn't disappear\"和\"breaks into smaller pieces\"暗示长期存在。",
+      "label": "阅读-推理判断",
+      "group": "reading_1",
+      "group_passage": "Microplastics are tiny plastic particles less than 5mm in size. You cannot see many of them with your eyes, but they are everywhere around us. When you drink from a plastic bottle or wear clothes made of synthetic materials (合成材料), you might be releasing microplastics into the environment.\n\nThese small pollutants come from many daily sources. When we wash synthetic clothes, tiny fibers (纤维) flow into the water system. Plastic bottles and bags break down into smaller pieces over time. Even driving cars contributes to this problem—car tires wear down on roads and release microplastic particles.\n\nScientists have found microplastics in oceans, rivers, and even in the air we breathe. They can accumulate in animals' bodies and eventually enter our food chain. \"The problem is that plastic doesn't really disappear,\" explains Dr. Li Ming, an environmental scientist. \"It just breaks into smaller and smaller pieces.\"\n\nHowever, there are ways to reduce microplastic pollution. We can choose natural fiber clothes like cotton or wool, use reusable bottles instead of single-use plastics, and support policies that limit plastic production. Small changes in our daily habits can make a big difference to our planet's future."
     },
     {
       "id": 16,
       "type": "reading",
       "knowledge_point": "main_idea_title",
-      "difficulty": 2,
-      "group": "reading_1",
-      "group_passage": "In today's digital age, more and more teenagers are suffering from eye problems. Dr. Li Ming, a famous eye doctor from Shenzhen Hospital, has proposed a simple but effective method called the \"20-20-20\" rule to help protect our eyes.\n\nAccording to Dr. Li, when we look at screens for a long time, our eye muscles become tense. This tension, or \"strain\", can cause headaches and blurry vision. The 20-20-20 rule is easy to follow: every 20 minutes, look at something 20 feet (about 6 meters) away for at least 20 seconds. This gives your eye muscles a chance to relax.\n\n\"Many students think wearing glasses is the only solution to eye problems,\" says Dr. Li. \"But actually, changing our habits is more important. I often tell my patients that prevention is better than cure.\"\n\nA recent study shows that students who follow this rule regularly have 30% less eye strain than those who don't. However, Dr. Li reminds us that the rule alone is not enough. We should also make sure to spend at least one hour outdoors every day, as natural light is good for eye development.\n\nSchools in Shenzhen have started to promote this rule. Some teachers even set timers in class to remind students to rest their eyes. Students who have tried the method say their eyes feel more comfortable after a day of studying.",
+      "difficulty": 3,
       "stem": "What is the best title for this passage?",
       "options": [
-        "A. How to Choose Glasses",
-        "B. The Importance of Outdoor Activities",
-        "C. A Simple Rule for Eye Protection",
-        "D. Modern Technology and Health"
+        "A. The History of Plastic Invention",
+        "B. How to Make Plastic Bottles",
+        "C. Microplastics: The Invisible Threat Around Us",
+        "D. The Benefits of Synthetic Materials"
       ],
       "correct_answer": "C",
-      "explanation": "【解析】主旨大意题。文章主要介绍了Dr. Li Ming提出的20-20-20规则，用于保护眼睛健康。第一段引出话题，第二段详细解释规则内容，第三段强调改变习惯的重要性，第四、五段补充说明和推广情况。因此\"A Simple Rule for Eye Protection\"（一个简单的护眼规则）最能概括全文。选项A只是文中提到的细节；选项B是补充建议，非主要内容；选项D范围过大，文章只聚焦于眼睛健康。【主旨题技巧】寻找反复出现的关键词（20-20-20 rule, eye protection），标题要概括全文而非局部细节。",
-      "label": "阅读-主旨大意"
+      "explanation": "【考点】阅读-主旨大意/最佳标题\n【解析】选C。文章主要介绍微塑料的定义、来源、危害及解决方法，C项\"微塑料：我们周围看不见的威胁\"准确概括主旨。\n【为什么不选其他】A项\"塑料发明史\"原文未提及；B项\"如何制作塑料瓶\"是细节非主旨；D项\"合成材料的好处\"与文章讲污染的负面基调相反。\n【解题技巧】最佳标题要涵盖主题词（microplastics）和文章基调（threat/problem），避免以偏概全或偏离主题。",
+      "label": "阅读-主旨大意",
+      "group": "reading_1",
+      "group_passage": "Microplastics are tiny plastic particles less than 5mm in size. You cannot see many of them with your eyes, but they are everywhere around us. When you drink from a plastic bottle or wear clothes made of synthetic materials (合成材料), you might be releasing microplastics into the environment.\n\nThese small pollutants come from many daily sources. When we wash synthetic clothes, tiny fibers (纤维) flow into the water system. Plastic bottles and bags break down into smaller pieces over time. Even driving cars contributes to this problem—car tires wear down on roads and release microplastic particles.\n\nScientists have found microplastics in oceans, rivers, and even in the air we breathe. They can accumulate in animals' bodies and eventually enter our food chain. \"The problem is that plastic doesn't really disappear,\" explains Dr. Li Ming, an environmental scientist. \"It just breaks into smaller and smaller pieces.\"\n\nHowever, there are ways to reduce microplastic pollution. We can choose natural fiber clothes like cotton or wool, use reusable bottles instead of single-use plastics, and support policies that limit plastic production. Small changes in our daily habits can make a big difference to our planet's future."
     },
     {
       "id": 17,
       "type": "fill",
-      "knowledge_point": "sentence_fill_transition",
+      "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "group": "fill_1",
-      "group_passage": "Good time management is important for middle school students. (17)______ Here are some practical ways to improve your time management skills.\n\nStart by tracking your time. (18)______ Write down everything you do for a week. You might be surprised to find how much time you spend on your phone.\n\nNext, plan ahead. Make a to-do list every morning. (19)______ Put the most important tasks at the top. This way, you won't forget anything urgent.\n\n(20)______ Don't try to do everything perfectly. Focus on what really matters, and you will find your school life much easier.",
       "stem": "(17)______",
       "options": [
-        "A. However, don't be too hard on yourself.",
-        "B. First, find out where your time actually goes.",
-        "C. Many students struggle to balance study and play.",
-        "D. Then, decide which tasks are most important.",
-        "E. But remember to leave some time for relaxation."
+        "A. However, managing time wisely can help solve this problem.",
+        "B. First, make a schedule and stick to it.",
+        "C. On the other hand, hobbies help us relax and develop new skills.",
+        "D. As a result, they feel stressed and tired all the time.",
+        "E. In conclusion, balancing study and hobbies is important for our growth."
       ],
-      "correct_answer": "C",
-      "explanation": "【解析】选句子填空题。空格前说时间管理很重要，空格后说\"这里有一些实用的方法来提高你的时间管理技能\"。选项C\"Many students struggle to balance study and play\"（许多学生努力平衡学习和娱乐）承上启下，先指出问题，再引出解决方法。其他选项：A用于最后一段的转折；B与下一段的Start by tracking对应；D与下文的Put the most important tasks对应；E是干扰项。【技巧】首段末句通常引出下文，找出问题-解决方案的逻辑关系。",
-      "label": "短文填空"
+      "correct_answer": "A",
+      "explanation": "【考点】选句子填空-段落衔接（转折）\n【解析】选A。第一段讲问题（难以平衡），第二段讲解决方法，此处需转折过渡句\"然而，明智地管理时间可以帮助解决这个问题\"。\n【为什么不选其他】B项是具体建议，适合后文；C项讲爱好好处，适合另一段；D项是结果，前文已有类似表述；E项是总结，适合结尾。\n【解题技巧】关注逻辑关系，前文讲problem，后文讲solutions，需转折词However连接。",
+      "label": "短文填空",
+      "group": "fill_1",
+      "group_passage": "Many middle school students find it hard to balance their study and hobbies. Some focus only on schoolwork and ignore their interests, while others spend too much time on hobbies and fall behind in studies. (17)______ \n\n(18)______ Write down what you need to do for school and when you plan to do it. This helps you see how much free time you actually have for hobbies. Remember to include rest time in your schedule too.\n\n(19)______ They are not just for fun—they also teach us time management and creativity. The key is to choose quality over quantity. It's better to have one or two meaningful hobbies than to try to do everything.\n\n(20)______ By planning your time carefully, you can do well in school while still enjoying the activities you love. Start with small steps, and you will find the right balance for you."
     },
     {
       "id": 18,
       "type": "fill",
-      "knowledge_point": "sentence_fill_logic_sequence",
+      "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "group": "fill_1",
-      "group_passage": "Good time management is important for middle school students. (17)______ Here are some practical ways to improve your time management skills.\n\nStart by tracking your time. (18)______ Write down everything you do for a week. You might be surprised to find how much time you spend on your phone.\n\nNext, plan ahead. Make a to-do list every morning. (19)______ Put the most important tasks at the top. This way, you won't forget anything urgent.\n\n(20)______ Don't try to do everything perfectly. Focus on what really matters, and you will find your school life much easier.",
       "stem": "(18)______",
       "options": [
-        "A. However, don't be too hard on yourself.",
-        "B. First, find out where your time actually goes.",
-        "C. Many students struggle to balance study and play.",
-        "D. Then, decide which tasks are most important.",
-        "E. But remember to leave some time for relaxation."
+        "A. However, managing time wisely can help solve this problem.",
+        "B. First, make a schedule and stick to it.",
+        "C. On the other hand, hobbies help us relax and develop new skills.",
+        "D. As a result, they feel stressed and tired all the time.",
+        "E. In conclusion, balancing study and hobbies is important for our growth."
       ],
       "correct_answer": "B",
-      "explanation": "【解析】考查逻辑顺序。本段主题是\"Start by tracking your time\"（开始追踪你的时间），选项B\"First, find out where your time actually goes\"（首先，找出你的时间实际上花在哪里了）与本段主题一致，且First与Start by相呼应。后文的\"Write down everything...\"是对\"find out where your time actually goes\"的具体解释。【线索】注意段落主题句Start by...和表示顺序的First。",
-      "label": "短文填空"
+      "explanation": "【考点】选句子填空-段落主题句\n【解析】选B。本段下文讲\"写下学校任务和计划时间\"，这是具体的时间管理方法，故开头用\"First, make a schedule...\"（首先，制定时间表并坚持）作为主题句。\n【为什么不选其他】A项已用于17题；C项讲爱好，本段讲学习计划；D项表结果；E项是总结句。\n【解题技巧】段落首句常为主题句，下文Write down...与make a schedule对应。",
+      "label": "短文填空",
+      "group": "fill_1",
+      "group_passage": "Many middle school students find it hard to balance their study and hobbies. Some focus only on schoolwork and ignore their interests, while others spend too much time on hobbies and fall behind in studies. (17)______ \n\n(18)______ Write down what you need to do for school and when you plan to do it. This helps you see how much free time you actually have for hobbies. Remember to include rest time in your schedule too.\n\n(19)______ They are not just for fun—they also teach us time management and creativity. The key is to choose quality over quantity. It's better to have one or two meaningful hobbies than to try to do everything.\n\n(20)______ By planning your time carefully, you can do well in school while still enjoying the activities you love. Start with small steps, and you will find the right balance for you."
     },
     {
       "id": 19,
       "type": "fill",
-      "knowledge_point": "sentence_fill_connectors",
+      "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "group": "fill_1",
-      "group_passage": "Good time management is important for middle school students. (17)______ Here are some practical ways to improve your time management skills.\n\nStart by tracking your time. (18)______ Write down everything you do for a week. You might be surprised to find how much time you spend on your phone.\n\nNext, plan ahead. Make a to-do list every morning. (19)______ Put the most important tasks at the top. This way, you won't forget anything urgent.\n\n(20)______ Don't try to do everything perfectly. Focus on what really matters, and you will find your school life much easier.",
       "stem": "(19)______",
       "options": [
-        "A. However, don't be too hard on yourself.",
-        "B. First, find out where your time actually goes.",
-        "C. Many students struggle to balance study and play.",
-        "D. Then, decide which tasks are most important.",
-        "E. But remember to leave some time for relaxation."
+        "A. However, managing time wisely can help solve this problem.",
+        "B. First, make a schedule and stick to it.",
+        "C. On the other hand, hobbies help us relax and develop new skills.",
+        "D. As a result, they feel stressed and tired all the time.",
+        "E. In conclusion, balancing study and hobbies is important for our growth."
       ],
-      "correct_answer": "D",
-      "explanation": "【解析】考查连接词和逻辑关系。前文说\"Make a to-do list every morning\"（每天早上列待办清单），后文说\"Put the most important tasks at the top\"（把最重要的任务放在最上面）。选项D\"Then, decide which tasks are most important\"（然后，决定哪些任务最重要）承上启下，Then表示顺序，承接上文的列清单，引出下文的重要性排序。【线索】Then表示步骤的延续，与Next（下一段开头）形成顺序呼应。",
-      "label": "短文填空"
+      "correct_answer": "C",
+      "explanation": "【考点】选句子填空-段落衔接（并列/转折）\n【解析】选C。前文讲学习计划，本段讲爱好的好处，用\"On the other hand\"（另一方面）表示并列对比，引出hobbies的积极作用。\n【为什么不选其他】A、B已用；D项表结果；E项是总结。\n【解题技巧】On the other hand用于引出相对或并列的另一观点，前文讲study，此处讲hobbies，形成对应。",
+      "label": "短文填空",
+      "group": "fill_1",
+      "group_passage": "Many middle school students find it hard to balance their study and hobbies. Some focus only on schoolwork and ignore their interests, while others spend too much time on hobbies and fall behind in studies. (17)______ \n\n(18)______ Write down what you need to do for school and when you plan to do it. This helps you see how much free time you actually have for hobbies. Remember to include rest time in your schedule too.\n\n(19)______ They are not just for fun—they also teach us time management and creativity. The key is to choose quality over quantity. It's better to have one or two meaningful hobbies than to try to do everything.\n\n(20)______ By planning your time carefully, you can do well in school while still enjoying the activities you love. Start with small steps, and you will find the right balance for you."
     },
     {
       "id": 20,
       "type": "fill",
-      "knowledge_point": "sentence_fill_transition_contrast",
+      "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "group": "fill_1",
-      "group_passage": "Good time management is important for middle school students. (17)______ Here are some practical ways to improve your time management skills.\n\nStart by tracking your time. (18)______ Write down everything you do for a week. You might be surprised to find how much time you spend on your phone.\n\nNext, plan ahead. Make a to-do list every morning. (19)______ Put the most important tasks at the top. This way, you won't forget anything urgent.\n\n(20)______ Don't try to do everything perfectly. Focus on what really matters, and you will find your school life much easier.",
       "stem": "(20)______",
       "options": [
-        "A. However, don't be too hard on yourself.",
-        "B. First, find out where your time actually goes.",
-        "C. Many students struggle to balance study and play.",
-        "D. Then, decide which tasks are most important.",
-        "E. But remember to leave some time for relaxation."
+        "A. However, managing time wisely can help solve this problem.",
+        "B. First, make a schedule and stick to it.",
+        "C. On the other hand, hobbies help us relax and develop new skills.",
+        "D. As a result, they feel stressed and tired all the time.",
+        "E. In conclusion, balancing study and hobbies is important for our growth."
       ],
-      "correct_answer": "A",
-      "explanation": "【解析】考查转折关系。空格后说\"Don't try to do everything perfectly\"（不要试图把每件事都做得完美），这是一种让步或转折的建议。选项A\"However, don't be too hard on yourself\"（然而，不要对自己太苛刻）与后文意思一致，However表示转折，提醒读者虽然要做好时间管理，但也不要过分苛求完美。【线索】However表示转折，通常引出与前面建议相对或补充的限制条件。",
-      "label": "短文填空"
+      "correct_answer": "E",
+      "explanation": "【考点】选句子填空-结尾总结句\n【解析】选E。此处为文章最后一段开头，应使用总结性语句\"In conclusion...\"（总之，平衡学习与爱好对我们的成长很重要）。\n【为什么不选其他】A、B、C已用；D项是负面结果，与结尾积极建议不符。\n【解题技巧】In conclusion/Finally等总结性短语常用于文章末段，概括全文观点。",
+      "label": "短文填空",
+      "group": "fill_1",
+      "group_passage": "Many middle school students find it hard to balance their study and hobbies. Some focus only on schoolwork and ignore their interests, while others spend too much time on hobbies and fall behind in studies. (17)______ \n\n(18)______ Write down what you need to do for school and when you plan to do it. This helps you see how much free time you actually have for hobbies. Remember to include rest time in your schedule too.\n\n(19)______ They are not just for fun—they also teach us time management and creativity. The key is to choose quality over quantity. It's better to have one or two meaningful hobbies than to try to do everything.\n\n(20)______ By planning your time carefully, you can do well in school while still enjoying the activities you love. Start with small steps, and you will find the right balance for you."
     }
   ]
 }
