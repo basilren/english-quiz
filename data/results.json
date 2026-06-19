@@ -448,6 +448,13 @@
       "total": 20,
       "correct": 19,
       "rate": 95
+    },
+    {
+      "date": "2026-06-19",
+      "session": 1,
+      "total": 20,
+      "correct": 18,
+      "rate": 90
     }
   ],
   "errors": [
@@ -594,6 +601,42 @@
       "correct_answer": "B",
       "student_answer": "C",
       "explanation": "第一空：根据答语I'm not sure（不确定），可知问句是\"是否\"，用if或whether，排除A和D；第二空：表示\"可能下雨\"用might（可能性较小）或may。must表示肯定推测\"一定\"，与not sure矛盾；can表推测通常用于否定句。因此选B。技巧：不确定用might/may，肯定推测用must，否定推测用can't。"
+    },
+    {
+      "date": "2026-06-19",
+      "session": 1,
+      "question_id": 14,
+      "type": "reading",
+      "knowledge_point": "inference",
+      "label": "阅读-推理判断",
+      "stem": "What can we infer from Dr. Li Ming's words in Paragraph 3?",
+      "options": [
+        "A. All students should wear glasses to protect eyes",
+        "B. Eye problems cannot be cured once they occur",
+        "C. Changing habits is important for eye health",
+        "D. Wearing glasses is better than preventing eye problems"
+      ],
+      "correct_answer": "C",
+      "student_answer": "D",
+      "explanation": "【解析】推理判断题。根据第三段Dr. Li的话\"Many students think wearing glasses is the only solution... But actually, changing our habits is more important\"可知，他认为改变习惯比戴眼镜更重要，预防胜于治疗。由此可推断出改变习惯对眼睛健康很重要。选项A与原文相反；选项B过于绝对，文中未说不能治愈；选项D与原文\"prevention is better than cure\"（预防胜于治疗）相反。【推理技巧】注意转折词But，其后往往是作者真实观点。"
+    },
+    {
+      "date": "2026-06-19",
+      "session": 1,
+      "question_id": 15,
+      "type": "reading",
+      "knowledge_point": "word_guessing_context",
+      "label": "阅读理解",
+      "stem": "What does the word \"strain\" in Paragraph 2 probably mean?",
+      "options": [
+        "A. 力量 (strength)",
+        "B. 疲劳；紧张 (tiredness; tension)",
+        "C. 视力 (vision)",
+        "D. 治疗 (treatment)"
+      ],
+      "correct_answer": "B",
+      "student_answer": "C",
+      "explanation": "【解析】词义猜测题。根据上下文，\"This tension, or 'strain'\"中or表示同位语解释，说明strain与tension（紧张）意思相近。前文说\"when we look at screens for a long time, our eye muscles become tense\"（长时间看屏幕，眼部肌肉变得紧张），后文说会导致头痛和视力模糊。因此strain指的是眼部肌肉的\"疲劳；紧张\"。选项A、C、D均不符合语境。【猜词技巧】利用同位语（tension, or strain）、因果关系（cause headaches）和上下文逻辑进行猜测。"
     }
   ]
 }
