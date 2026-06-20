@@ -466,60 +466,6 @@
   ],
   "errors": [
     {
-      "date": "2026-06-10",
-      "session": 1,
-      "question_id": 6,
-      "type": "vocabulary",
-      "knowledge_point": "prefix_suffix",
-      "label": "词汇题",
-      "stem": "If you are ______ with your current score, you should work harder to get a better result next time.",
-      "options": [
-        "A. happy",
-        "B. unhappy",
-        "C. happily",
-        "D. unhappily"
-      ],
-      "correct_answer": "B",
-      "student_answer": "C",
-      "explanation": "本题考查形容词前缀及词性。\n语境：如果对当前分数不满意，应该更努力学习。be动词后接形容词作表语，排除C、D（副词）；根据句意，需要否定含义，un-是否定前缀，unhappy表示\"不满意的、不高兴的\"。\n干扰项分析：A意思相反；C、D是副词，不能作表语。\n前缀口诀：un-表否定，happy变unhappy；dis-也是否，like变dislike。"
-    },
-    {
-      "date": "2026-06-10",
-      "session": 1,
-      "question_id": 10,
-      "type": "cloze",
-      "knowledge_point": "cloze_general",
-      "label": "完形填空",
-      "stem": "(1)______",
-      "options": [
-        "A. easy",
-        "B. hard",
-        "C. fun",
-        "D. necessary"
-      ],
-      "correct_answer": "B",
-      "student_answer": "D",
-      "explanation": "本题考查语境转折。后文有However（然而）转折，说明前面应该是与后文积极态度相反的负面/困难态度。change their daily habits（改变日常习惯）通常是\"困难的\"。\n干扰项分析：easy容易（与however转折逻辑不符）；fun有趣（非负面）；necessary必要（非负面）。\n解题技巧：however是转折信号词，前后态度相反。后文是积极行动，前文应该是消极/困难的态度。"
-    },
-    {
-      "date": "2026-06-10",
-      "session": 1,
-      "question_id": 14,
-      "type": "reading",
-      "knowledge_point": "inference",
-      "label": "阅读-推理判断",
-      "stem": "What can we infer from Dr. Li Ming's \"20-20-20\" rule mentioned in Paragraph 3?",
-      "options": [
-        "A. Students should use screens for only 20 minutes a day.",
-        "B. Looking at distant objects can help relax eye muscles.",
-        "C. Students must exercise for 20 seconds every 20 minutes.",
-        "D. The rule is designed to improve students' sleeping habits."
-      ],
-      "correct_answer": "B",
-      "student_answer": "D",
-      "explanation": "本题考查推理判断。20-20-20法则要求每20分钟看20英尺外的东西20秒，其原理是看远处物体可以让眼睛睫状肌放松，缓解视疲劳。\n干扰项分析：A错误，不是每天只用20分钟，而是每20分钟休息一次；C错误，不是锻炼身体，而是放松眼睛；D错误，虽然蓝光影响睡眠，但这个规则主要是保护视力（eyesight），而非直接改善睡眠。\n解题技巧：推理题要基于文本信息进行合理推断，不能过度推断，也不能只是原文复述。理解\"看远处\"与\"放松眼睛\"的因果关系是关键。"
-    },
-    {
       "date": "2026-06-15",
       "session": 1,
       "question_id": 7,

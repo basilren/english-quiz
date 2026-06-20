@@ -1,13 +1,29 @@
 ﻿{
-  "date": "2026-06-20",
+  "date": "2026-06-21",
   "session_number": 1,
   "questions": [
     {
       "id": 1,
       "type": "grammar",
+      "knowledge_point": "passive_voice",
+      "difficulty": 1,
+      "stem": "The book ______ by many students in our school last year.",
+      "options": [
+        "A. reads",
+        "B. is read",
+        "C. was read",
+        "D. reading"
+      ],
+      "correct_answer": "C",
+      "explanation": "本题考查一般过去时的被动语态。由时间状语'last year'可知要用过去时，且书是'被读'，需用被动语态'was/were + 过去分词'。A是主动语态；B是一般现在时被动；D是现在分词不能作谓语。解题技巧：被动语态的基本结构是'be + done'，先确定时态再确定语态。",
+      "label": "语法题"
+    },
+    {
+      "id": 2,
+      "type": "grammar",
       "knowledge_point": "present_perfect_vs_past_simple",
       "difficulty": 2,
-      "stem": "—______ you ______ your homework yet?\n—Yes, I ______ it an hour ago.",
+      "stem": "—______ you ______ your homework yet?<br>—Yes, I ______ it an hour ago.",
       "options": [
         "A. Did; finish; finished",
         "B. Have; finished; finished",
@@ -15,15 +31,15 @@
         "D. Did; finish; have finished"
       ],
       "correct_answer": "B",
-      "explanation": "【考点】现在完成时 vs 一般过去时\n【解析】选B。第一空根据标志词yet（常用于疑问句和否定句）可知用现在完成时Have...finished；第二空根据标志词ago（一小时前）可知用一般过去时finished。\n【为什么不选其他】A项第一空用Did表示过去时，但yet通常与完成时连用；C项第二空用have finished，但ago是过去时标志；D项时态混乱，不符合语法规则。\n【解题技巧】口诀：\"yet/already/ever/never用完成，yesterday/ago/last night用过去\"。",
+      "explanation": "本题考查现在完成时与一般过去时的区别。第一空后有yet（已经），是现在完成时的标志词，用Have...finished；第二空后有ago（以前），是一般过去时的标志，用finished。A项第一空错误；C项第二空错误；D项两个空都错误。解题口诀：'yet/already/never/ever'用现完，'ago/yesterday/last year'用过去。",
       "label": "语法题"
     },
     {
-      "id": 2,
+      "id": 3,
       "type": "grammar",
       "knowledge_point": "relative_clause_who_which",
       "difficulty": 2,
-      "stem": "The girl ______ is singing on the stage won the first prize in the singing competition.",
+      "stem": "The boy ______ is standing under the tree is my classmate.",
       "options": [
         "A. which",
         "B. who",
@@ -31,31 +47,15 @@
         "D. whose"
       ],
       "correct_answer": "B",
-      "explanation": "【考点】定语从句关系代词\n【解析】选B。先行词The girl指人，定语从句中缺少主语（is singing），故用who。which指物；whom指人但作宾语；whose表所属关系。\n【为什么不选其他】A项which用于指物；C项whom在从句中作宾语，而本题缺主语；D项whose后需接名词，表示\"...的\"。\n【解题技巧】口诀：\"指人用who/whom/that，指物which/that；作主语用who/which，作宾语whom可省略\"。",
-      "label": "语法题"
-    },
-    {
-      "id": 3,
-      "type": "grammar",
-      "knowledge_point": "passive_voice",
-      "difficulty": 1,
-      "stem": "These books ______ to the school library by Bosco tomorrow.",
-      "options": [
-        "A. will return",
-        "B. will be returned",
-        "C. are returned",
-        "D. returned"
-      ],
-      "correct_answer": "B",
-      "explanation": "【考点】一般将来时的被动语态\n【解析】选B。主语These books与动词return构成被动关系（书被归还），时间状语tomorrow表示将来，故用will be returned。\n【为什么不选其他】A项是主动语态；C项是一般现在时被动，与tomorrow不符；D项是一般过去时主动语态。\n【解题技巧】被动语态结构：be + done（过去分词），将来时用will be done。",
+      "explanation": "本题考查定语从句关系代词。先行词是the boy（指人），且关系词在从句中作主语（is standing），故用who。which指物；whom指人但作宾语；whose作定语表所属。解题技巧：先找先行词（人/物），再看从句缺什么成分（主语/宾语/定语）。",
       "label": "语法题"
     },
     {
       "id": 4,
       "type": "grammar",
-      "knowledge_point": "object_clause_if_whether",
+      "knowledge_point": "object_clause_modal_verbs",
       "difficulty": 3,
-      "stem": "—Do you think ______ we will have a picnic tomorrow?\n—I'm not sure. It ______ rain.",
+      "stem": "—Do you think ______ we will have a sports meeting tomorrow?<br>—I'm not sure. It ______ rain in the afternoon.",
       "options": [
         "A. that; must",
         "B. whether; might",
@@ -63,74 +63,74 @@
         "D. that; might"
       ],
       "correct_answer": "B",
-      "explanation": "【考点】宾语从句连接词 + 情态动词表推测\n【解析】选B。第一空根据答语\"I'm not sure\"（不确定）可知用whether（是否）引导宾语从句；第二空might表示\"可能\"，符合不确定的语气。must表示\"必须/肯定\"，与not sure矛盾。\n【为什么不选其他】A项that引导陈述事实，但答语显示不确定；C项if虽可表\"是否\"，但第二空must太绝对；D项that不符合不确定语境。\n【解题技巧】口诀：\"宾从whether/if表是否，that陈述事实无疑问；回答not sure用whether更正式，might表可能must表肯定\"。",
+      "explanation": "本题考查宾语从句和情态动词表推测。第一空根据答句'I'm not sure'（不确定）可知应用whether（是否）引导宾语从句；第二空表示不确定的推测用might（可能），must表示肯定推测（一定）。A项第一空缺少'是否'含义；C项第二空must与'not sure'矛盾；D项第一空that无'是否'含义。解题技巧：whether/if表'是否'，不确定用might/could，肯定用must，否定用can't。",
       "label": "语法题"
     },
     {
       "id": 5,
       "type": "vocabulary",
-      "knowledge_point": "phrasal_verbs",
+      "knowledge_point": "prefix_suffix",
       "difficulty": 1,
-      "stem": "Please ______ the lights when you leave the classroom. We should save energy to protect the environment.",
+      "stem": "It is ______ for humans to live on Mars without special equipment.",
       "options": [
-        "A. turn on",
-        "B. turn off",
-        "C. turn up",
-        "D. turn down"
+        "A. possible",
+        "B. impossible",
+        "C. possibly",
+        "D. possibility"
       ],
       "correct_answer": "B",
-      "explanation": "【考点】动词短语辨析\n【解析】选B。turn off表示\"关闭\"，根据后句\"save energy\"（节约能源）可知离开教室应关灯。\n【为什么不选其他】A项turn on（打开）与节能相反；C项turn up（调大音量/出现）；D项turn down（调小音量/拒绝）。\n【解题技巧】结合上下文语境，save energy对应turn off lights。",
+      "explanation": "本题考查词性转换及前缀。根据常识，没有特殊设备人类不可能在火星生存，im-是否定前缀。A与句意相反；C是副词，is后需接形容词；D是名词。解题技巧：im-/un-/dis-是常见否定前缀，-ble结尾通常是形容词。",
       "label": "词汇题"
     },
     {
       "id": 6,
       "type": "vocabulary",
-      "knowledge_point": "word_collocation",
+      "knowledge_point": "word_synonyms",
       "difficulty": 2,
-      "stem": "It's important for teenagers to ______ good relationships with their parents through communication.",
+      "stem": "We should ______ the traditions of our country and pass them to the next generation.",
       "options": [
-        "A. set up",
-        "B. put up",
-        "C. build up",
-        "D. make up"
+        "A. discover",
+        "B. create",
+        "C. value",
+        "D. doubt"
       ],
       "correct_answer": "C",
-      "explanation": "【考点】动词短语辨析（固定搭配）\n【解析】选C。build up relationships是固定搭配，表示\"建立/增进关系\"。\n【为什么不选其他】A项set up（建立组织/装置）；B项put up（张贴/举起/搭建）；D项make up（编造/化妆/组成）。\n【解题技巧】build up强调逐步建立和加强，常用于relationships/trust/strength等抽象概念。",
+      "explanation": "本题考查动词词义辨析。value作动词意为'珍惜、重视'，符合句意'珍惜传统并传承'。discover发现；create创造；doubt怀疑。解题技巧：根据后半句'pass them to the next generation'（传给下一代）可知前半句应是'珍惜'。",
       "label": "词汇题"
     },
     {
       "id": 7,
       "type": "vocabulary",
-      "knowledge_point": "word_formation_noun_suffix",
+      "knowledge_point": "phrasal_verbs",
       "difficulty": 2,
-      "stem": "The ______ of this new recycling technology will greatly improve our environmental protection. (invent)",
+      "stem": "Don't ______ your dreams. Keep trying and you will succeed.",
       "options": [
-        "A. inventor",
-        "B. invention",
-        "C. inventive",
-        "D. inventing"
+        "A. give up",
+        "B. look up",
+        "C. take up",
+        "D. put up"
       ],
-      "correct_answer": "B",
-      "explanation": "【考点】词性转换（动词变名词）\n【解析】选B。定冠词The后需接名词，invention（发明物）符合句意\"这项新回收技术的发明\"。\n【为什么不选其他】A项inventor（发明家），指人；C项inventive（有创造力的），形容词；D项inventing（动名词），但此处特指具体发明物，用invention更准确。\n【解题技巧】-tion后缀常将动词变为名词，如invent→invention, educate→education。",
+      "correct_answer": "A",
+      "explanation": "本题考查动词短语辨析。give up放弃；look up查阅/抬头看；take up占据/开始从事；put up张贴/搭建。根据'Keep trying'（坚持努力）可知前句是'不要放弃'。解题技巧：熟记常见动词短语，结合上下文逻辑判断。",
       "label": "词汇题"
     },
     {
       "id": 8,
       "type": "cloze",
-      "knowledge_point": "cloze_context",
+      "knowledge_point": "cloze_general",
       "difficulty": 2,
       "stem": "(8)______",
       "options": [
-        "A. interested",
-        "B. bored",
-        "C. tired",
-        "D. worried"
+        "A. success",
+        "B. difference",
+        "C. progress",
+        "D. mistake"
       ],
-      "correct_answer": "A",
-      "explanation": "【考点】完形填空-语境推理\n【解析】选A。根据下文\"许多学生和老师参与\"以及\"令人兴奋的活动\"可知，这次活动\"吸引/使感兴趣\"了很多人。interested（使感兴趣）符合语境。\n【为什么不选其他】B项bored（使厌烦）、C项tired（使疲劳）、D项worried（使担忧）均为负面情绪，与exciting event矛盾。\n【解题技巧】关注情感线索，exciting对应积极词汇interested。",
+      "correct_answer": "B",
+      "explanation": "本题考查固定搭配。make a difference是固定短语，意为'有影响、起作用'。句意：然而，日常生活中的小行动也能产生重大影响。success成功；progress进步；mistake错误，均不与make构成此搭配。解题技巧：完形填空常考固定搭配，需熟记make a difference, make progress, make a decision等短语。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school held a science fair. It was an exciting event that (8)______ many students and teachers. The theme was \"Green Future\", focusing on environmental protection and sustainable living.\n\nI participated with my three teammates. We (9)______ a small robot that could sort waste automatically. At first, we faced many (10)______. The robot couldn't distinguish between plastic and paper clearly, and the sensors often failed to work. We felt a bit (11)______, but we didn't give up. After working on it for two weeks and consulting our science teacher, we finally solved all the technical problems.\n\nOn the day of the fair, many visitors (12)______ our project with great curiosity. They were amazed by how the robot worked and asked many questions. In the end, we won the first prize. It was a great experience that taught us the importance of teamwork and perseverance."
+      "group_passage": "Many people think that protecting the environment is a big task that only governments can handle. However, small actions in our daily life can also make a great (8)______. Last month, our school started a \"Green Campus\" project. We were asked to reduce waste and save resources.\n\nAt first, I didn't (9)______ my efforts would matter. But when I saw the results at the end of the month, I was (10)______. By using both sides of paper and turning off lights when leaving classrooms, we saved much energy.\n\nThe project taught us that everyone can (11)______ to environmental protection. It doesn't require big changes, just small habits. (12)______ each of us takes responsibility, our planet will become a better place to live."
     },
     {
       "id": 9,
@@ -139,142 +139,142 @@
       "difficulty": 2,
       "stem": "(9)______",
       "options": [
-        "A. discovered",
-        "B. created",
-        "C. found",
-        "D. bought"
+        "A. hope",
+        "B. doubt",
+        "C. believe",
+        "D. wonder"
       ],
-      "correct_answer": "B",
-      "explanation": "【考点】完形填空-语境推理\n【解析】选B。根据上下文，科技展上展示的是自己\"创造/制作\"的机器人，created（创造）符合语境。\n【为什么不选其他】A项discovered（发现）指发现已存在的事物；C项found（找到/发现）；D项bought（购买）与科技展展示原创作品的语境不符。\n【解题技巧】根据\"participated\"和\"project\"可知是原创作品，created最恰当。",
+      "correct_answer": "C",
+      "explanation": "本题考查语境理解。根据下文'But when I saw the results...'（但当我看到结果时）的转折关系，可知前文是'起初我不相信我的努力会有用'。believe相信；hope希望；doubt怀疑（通常用于doubt that...怀疑...不会）；wonder想知道。解题技巧：利用转折连词but判断前后情感相反，后文惊讶说明前文是不相信。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school held a science fair. It was an exciting event that (8)______ many students and teachers. The theme was \"Green Future\", focusing on environmental protection and sustainable living.\n\nI participated with my three teammates. We (9)______ a small robot that could sort waste automatically. At first, we faced many (10)______. The robot couldn't distinguish between plastic and paper clearly, and the sensors often failed to work. We felt a bit (11)______, but we didn't give up. After working on it for two weeks and consulting our science teacher, we finally solved all the technical problems.\n\nOn the day of the fair, many visitors (12)______ our project with great curiosity. They were amazed by how the robot worked and asked many questions. In the end, we won the first prize. It was a great experience that taught us the importance of teamwork and perseverance."
+      "group_passage": "Many people think that protecting the environment is a big task that only governments can handle. However, small actions in our daily life can also make a great (8)______. Last month, our school started a \"Green Campus\" project. We were asked to reduce waste and save resources.\n\nAt first, I didn't (9)______ my efforts would matter. But when I saw the results at the end of the month, I was (10)______. By using both sides of paper and turning off lights when leaving classrooms, we saved much energy.\n\nThe project taught us that everyone can (11)______ to environmental protection. It doesn't require big changes, just small habits. (12)______ each of us takes responsibility, our planet will become a better place to live."
     },
     {
       "id": 10,
       "type": "cloze",
-      "knowledge_point": "cloze_general",
-      "difficulty": 1,
+      "knowledge_point": "cloze_emotion",
+      "difficulty": 2,
       "stem": "(10)______",
       "options": [
-        "A. advantages",
-        "B. progress",
-        "C. difficulties",
-        "D. success"
+        "A. bored",
+        "B. surprised",
+        "C. worried",
+        "D. disappointed"
       ],
-      "correct_answer": "C",
-      "explanation": "【考点】完形填空-语境推理\n【解析】选C。根据下文\"机器人无法清晰区分塑料和纸张\"可知，他们遇到了很多\"困难\"（difficulties）。\n【为什么不选其他】A项advantages（优点）；B项progress（进步）；D项success（成功），均与后文描述的问题相反。\n【解题技巧】利用转折关系，下文描述技术问题，故此处选difficulties。",
+      "correct_answer": "B",
+      "explanation": "本题考查情感线索。前文说'不相信努力有用'，but转折后看到结果，应该是感到'惊讶'。surprised惊讶的；bored无聊的；worried担心的；disappointed失望的。解题技巧：关注文章情感线索，前文否定预期，后文积极结果，形成对比产生惊讶。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school held a science fair. It was an exciting event that (8)______ many students and teachers. The theme was \"Green Future\", focusing on environmental protection and sustainable living.\n\nI participated with my three teammates. We (9)______ a small robot that could sort waste automatically. At first, we faced many (10)______. The robot couldn't distinguish between plastic and paper clearly, and the sensors often failed to work. We felt a bit (11)______, but we didn't give up. After working on it for two weeks and consulting our science teacher, we finally solved all the technical problems.\n\nOn the day of the fair, many visitors (12)______ our project with great curiosity. They were amazed by how the robot worked and asked many questions. In the end, we won the first prize. It was a great experience that taught us the importance of teamwork and perseverance."
+      "group_passage": "Many people think that protecting the environment is a big task that only governments can handle. However, small actions in our daily life can also make a great (8)______. Last month, our school started a \"Green Campus\" project. We were asked to reduce waste and save resources.\n\nAt first, I didn't (9)______ my efforts would matter. But when I saw the results at the end of the month, I was (10)______. By using both sides of paper and turning off lights when leaving classrooms, we saved much energy.\n\nThe project taught us that everyone can (11)______ to environmental protection. It doesn't require big changes, just small habits. (12)______ each of us takes responsibility, our planet will become a better place to live."
     },
     {
       "id": 11,
       "type": "cloze",
-      "knowledge_point": "cloze_emotion",
-      "difficulty": 2,
+      "knowledge_point": "cloze_collocation",
+      "difficulty": 1,
       "stem": "(11)______",
       "options": [
-        "A. excited",
-        "B. frustrated",
-        "C. surprised",
-        "D. relaxed"
+        "A. give up",
+        "B. look forward",
+        "C. pay attention",
+        "D. contribute"
       ],
-      "correct_answer": "B",
-      "explanation": "【考点】完形填空-情感线索\n【解析】选B。遇到技术困难时应该感到\"沮丧\"（frustrated），but表示转折，后说\"没放弃\"，前应是负面情绪。\n【为什么不选其他】A项excited（兴奋的）和D项relaxed（放松的）是积极情绪，与遇到困难矛盾；C项surprised（惊讶的）不符合语境。\n【解题技巧】关注情感转折词but，前后情感相反，后文didn't give up提示前文是挫折感。",
+      "correct_answer": "D",
+      "explanation": "本题考查动词搭配。contribute to为固定搭配，意为'为...做贡献'。句意：这个项目教会我们每个人都能为环境保护做贡献。give up放弃；look forward to期待；pay attention to注意，均不符合句意。解题技巧：contribute to, pay attention to, look forward to都接to，但含义不同，需根据语境选择。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school held a science fair. It was an exciting event that (8)______ many students and teachers. The theme was \"Green Future\", focusing on environmental protection and sustainable living.\n\nI participated with my three teammates. We (9)______ a small robot that could sort waste automatically. At first, we faced many (10)______. The robot couldn't distinguish between plastic and paper clearly, and the sensors often failed to work. We felt a bit (11)______, but we didn't give up. After working on it for two weeks and consulting our science teacher, we finally solved all the technical problems.\n\nOn the day of the fair, many visitors (12)______ our project with great curiosity. They were amazed by how the robot worked and asked many questions. In the end, we won the first prize. It was a great experience that taught us the importance of teamwork and perseverance."
+      "group_passage": "Many people think that protecting the environment is a big task that only governments can handle. However, small actions in our daily life can also make a great (8)______. Last month, our school started a \"Green Campus\" project. We were asked to reduce waste and save resources.\n\nAt first, I didn't (9)______ my efforts would matter. But when I saw the results at the end of the month, I was (10)______. By using both sides of paper and turning off lights when leaving classrooms, we saved much energy.\n\nThe project taught us that everyone can (11)______ to environmental protection. It doesn't require big changes, just small habits. (12)______ each of us takes responsibility, our planet will become a better place to live."
     },
     {
       "id": 12,
       "type": "cloze",
-      "knowledge_point": "cloze_general",
+      "knowledge_point": "cloze_logic",
       "difficulty": 1,
       "stem": "(12)______",
       "options": [
-        "A. looked at",
-        "B. laughed at",
-        "C. pointed at",
-        "D. shouted at"
+        "A. Unless",
+        "B. Although",
+        "C. If",
+        "D. Because"
       ],
-      "correct_answer": "A",
-      "explanation": "【考点】完形填空-语境推理（动词短语）\n【解析】选A。looked at（观看/看）符合语境，游客\"观看\"他们的项目。\n【为什么不选其他】B项laughed at（嘲笑）含贬义，与won the first prize矛盾；C项pointed at（指着）不够全面；D项shouted at（对...大喊）不礼貌，不符合场景。\n【解题技巧】结合with great curiosity（带着好奇心），looked at最符合参观科技展的语境。",
+      "correct_answer": "C",
+      "explanation": "本题考查逻辑关系。句意：如果我们每个人都承担责任，我们的星球将成为更美好的居住地。前后是条件关系，用If引导条件状语从句。Unless除非（=if not）；Although尽管（让步）；Because因为（因果）。解题技巧：主句用将来时（will become），从句用一般现在时（takes），这是if条件句的'主将从现'原则。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school held a science fair. It was an exciting event that (8)______ many students and teachers. The theme was \"Green Future\", focusing on environmental protection and sustainable living.\n\nI participated with my three teammates. We (9)______ a small robot that could sort waste automatically. At first, we faced many (10)______. The robot couldn't distinguish between plastic and paper clearly, and the sensors often failed to work. We felt a bit (11)______, but we didn't give up. After working on it for two weeks and consulting our science teacher, we finally solved all the technical problems.\n\nOn the day of the fair, many visitors (12)______ our project with great curiosity. They were amazed by how the robot worked and asked many questions. In the end, we won the first prize. It was a great experience that taught us the importance of teamwork and perseverance."
+      "group_passage": "Many people think that protecting the environment is a big task that only governments can handle. However, small actions in our daily life can also make a great (8)______. Last month, our school started a \"Green Campus\" project. We were asked to reduce waste and save resources.\n\nAt first, I didn't (9)______ my efforts would matter. But when I saw the results at the end of the month, I was (10)______. By using both sides of paper and turning off lights when leaving classrooms, we saved much energy.\n\nThe project taught us that everyone can (11)______ to environmental protection. It doesn't require big changes, just small habits. (12)______ each of us takes responsibility, our planet will become a better place to live."
     },
     {
       "id": 13,
       "type": "reading",
       "knowledge_point": "detail",
       "difficulty": 2,
-      "stem": "According to the passage, where do microplastics mainly come from?",
+      "stem": "According to the study, students who sleep less than 7 hours ______.",
       "options": [
-        "A. Only from plastic bottles in the ocean.",
-        "B. From synthetic clothes, plastic products and car tires.",
-        "C. Only from broken fishing nets.",
-        "D. From natural rocks and sand."
+        "A. usually get higher test scores",
+        "B. can concentrate better in class",
+        "C. often feel sleepy after lunch",
+        "D. may get lower test scores"
       ],
-      "correct_answer": "B",
-      "explanation": "【考点】阅读-细节理解\n【解析】选B。根据第二段\"They come from many sources: synthetic clothes when washed, plastic bottles breaking down, and even car tires wearing down on roads\"可知，微塑料来源于合成衣物、塑料瓶和汽车轮胎等。\n【为什么不选其他】A项\"only\"过于绝对；C项\"only\"错误；D项与原文不符，微塑料是人为产生的。\n【解题技巧】细节题要定位原文，注意\"sources\"后的列举，排除含only的绝对化选项。",
+      "correct_answer": "D",
+      "explanation": "本题考查细节理解。根据文章第二段'Their test scores were 15% lower than those who slept 8-9 hours'（他们的考试分数比睡8-9小时的学生低15%）可知，睡眠不足7小时的学生可能得到更低的分数。A、B与原文相反；C文中未提及。解题技巧：细节题要精准定位，找到'sleep less than 7 hours'对应段落，对比选项与原文。",
       "label": "阅读-细节理解",
       "group": "reading_1",
-      "group_passage": "Microplastics are tiny plastic particles less than 5mm in size. You cannot see many of them with your eyes, but they are everywhere around us. When you drink from a plastic bottle or wear clothes made of synthetic materials (合成材料), you might be releasing microplastics into the environment.\n\nThese small pollutants come from many daily sources. When we wash synthetic clothes, tiny fibers (纤维) flow into the water system. Plastic bottles and bags break down into smaller pieces over time. Even driving cars contributes to this problem—car tires wear down on roads and release microplastic particles.\n\nScientists have found microplastics in oceans, rivers, and even in the air we breathe. They can accumulate in animals' bodies and eventually enter our food chain. \"The problem is that plastic doesn't really disappear,\" explains Dr. Li Ming, an environmental scientist. \"It just breaks into smaller and smaller pieces.\"\n\nHowever, there are ways to reduce microplastic pollution. We can choose natural fiber clothes like cotton or wool, use reusable bottles instead of single-use plastics, and support policies that limit plastic production. Small changes in our daily habits can make a big difference to our planet's future."
+      "group_passage": "Do you often stay up late to finish your homework? Many students believe that sacrificing sleep can help them get better grades. However, recent scientific studies show that this idea is completely wrong.\n\nResearchers from a local university studied 500 middle school students for six months. They found that students who slept less than 7 hours a night had trouble concentrating in class. Their test scores were 15% lower than those who slept 8-9 hours.\n\n\"Sleep is like food for the brain,\" explains Dr. Wang, the lead researcher. \"When you sleep, your brain organizes information from the day. Without enough rest, your memory becomes weak, and you cannot learn efficiently (高效地).\"\n\nThe study also discovered something interesting. Taking a 20-minute nap after lunch can improve afternoon performance by 20%. However, sleeping longer than 30 minutes may make you feel groggy (昏昏沉沉的) instead.\n\nSo, if you want to do well in school, don't cut back on sleep. Good sleep habits are not a waste of time—they are the foundation of successful learning."
     },
     {
       "id": 14,
       "type": "reading",
-      "knowledge_point": "word_guessing_context",
-      "difficulty": 2,
-      "stem": "What does the word \"accumulate\" in Paragraph 3 probably mean?",
+      "knowledge_point": "inference",
+      "difficulty": 3,
+      "stem": "What can we infer from Dr. Wang's words?",
       "options": [
-        "A. Disappear quickly.",
-        "B. Break into pieces.",
-        "C. Gather or collect gradually.",
-        "D. Move from one place to another."
+        "A. Students should eat more food before sleeping.",
+        "B. Sleeping helps improve memory and learning efficiency.",
+        "C. Brain activities stop completely during sleep.",
+        "D. Students don't need to organize daily information."
       ],
-      "correct_answer": "C",
-      "explanation": "【考点】阅读-词义猜测\n【解析】选C。accumulate意为\"积累/积聚\"。根据上下文\"enter our food chain\"（进入食物链）可知，微塑料在动物体内逐渐\"聚集\"。\n【为什么不选其他】A项\"消失\"与原文意思相反；B项\"破碎\"是break down的意思；D项\"移动\"没有体现\"逐渐增多\"的含义。\n【解题技巧】利用上下文逻辑，微塑料进入动物体内并在食物链中传递，应该是逐渐聚集增多的过程。",
-      "label": "阅读-词义猜测",
+      "correct_answer": "B",
+      "explanation": "本题考查推理判断。根据第三段Dr. Wang的话'When you sleep, your brain organizes information... Without enough rest, your memory becomes weak'可推断，睡眠有助于大脑整理信息，提高记忆力和学习效率。A是对'food'的字面误解；C与'organizes information'矛盾；D与原文相反。解题技巧：推理题要基于原文但不仅限于字面，理解比喻含义（sleep is like food）。",
+      "label": "阅读-推理判断",
       "group": "reading_1",
-      "group_passage": "Microplastics are tiny plastic particles less than 5mm in size. You cannot see many of them with your eyes, but they are everywhere around us. When you drink from a plastic bottle or wear clothes made of synthetic materials (合成材料), you might be releasing microplastics into the environment.\n\nThese small pollutants come from many daily sources. When we wash synthetic clothes, tiny fibers (纤维) flow into the water system. Plastic bottles and bags break down into smaller pieces over time. Even driving cars contributes to this problem—car tires wear down on roads and release microplastic particles.\n\nScientists have found microplastics in oceans, rivers, and even in the air we breathe. They can accumulate in animals' bodies and eventually enter our food chain. \"The problem is that plastic doesn't really disappear,\" explains Dr. Li Ming, an environmental scientist. \"It just breaks into smaller and smaller pieces.\"\n\nHowever, there are ways to reduce microplastic pollution. We can choose natural fiber clothes like cotton or wool, use reusable bottles instead of single-use plastics, and support policies that limit plastic production. Small changes in our daily habits can make a big difference to our planet's future."
+      "group_passage": "Do you often stay up late to finish your homework? Many students believe that sacrificing sleep can help them get better grades. However, recent scientific studies show that this idea is completely wrong.\n\nResearchers from a local university studied 500 middle school students for six months. They found that students who slept less than 7 hours a night had trouble concentrating in class. Their test scores were 15% lower than those who slept 8-9 hours.\n\n\"Sleep is like food for the brain,\" explains Dr. Wang, the lead researcher. \"When you sleep, your brain organizes information from the day. Without enough rest, your memory becomes weak, and you cannot learn efficiently (高效地).\"\n\nThe study also discovered something interesting. Taking a 20-minute nap after lunch can improve afternoon performance by 20%. However, sleeping longer than 30 minutes may make you feel groggy (昏昏沉沉的) instead.\n\nSo, if you want to do well in school, don't cut back on sleep. Good sleep habits are not a waste of time—they are the foundation of successful learning."
     },
     {
       "id": 15,
       "type": "reading",
-      "knowledge_point": "inference",
-      "difficulty": 3,
-      "stem": "What can we infer from Dr. Li Ming's words in Paragraph 3?",
+      "knowledge_point": "word_guessing",
+      "difficulty": 2,
+      "stem": "The underlined word \"sacrificing\" in Paragraph 1 probably means ______.",
       "options": [
-        "A. Microplastics will disappear naturally in a few years.",
-        "B. Plastic pollution is a temporary problem.",
-        "C. Microplastics will remain in the environment for a long time.",
-        "D. Scientists have found ways to remove all microplastics."
+        "A. giving up",
+        "B. looking for",
+        "C. thinking about",
+        "D. paying for"
       ],
-      "correct_answer": "C",
-      "explanation": "【考点】阅读-推理判断\n【解析】选C。根据Dr. Li Ming的话\"plastic doesn't really disappear... it just breaks into smaller pieces\"可推断，微塑料不会消失，只是变小，会长期存在于环境中。\n【为什么不选其他】A项\"几年内自然消失\"与原文\"doesn't really disappear\"矛盾；B项\"暂时性问题\"错误；D项\"已找到清除所有微塑料的方法\"原文未提及且过于绝对。\n【解题技巧】推理题要基于原文信息合理推断，注意\"doesn't disappear\"和\"breaks into smaller pieces\"暗示长期存在。",
-      "label": "阅读-推理判断",
+      "correct_answer": "A",
+      "explanation": "本题考查词义猜测。根据上下文'stay up late'（熬夜）和'cut back on sleep'（减少睡眠）可知，sacrificing sleep意为'牺牲睡眠'，即'放弃'睡眠。give up放弃；look for寻找；think about考虑；pay for支付。解题技巧：利用同义复现，后文'cut back on'（削减）与sacrificing同义。",
+      "label": "阅读-词义猜测",
       "group": "reading_1",
-      "group_passage": "Microplastics are tiny plastic particles less than 5mm in size. You cannot see many of them with your eyes, but they are everywhere around us. When you drink from a plastic bottle or wear clothes made of synthetic materials (合成材料), you might be releasing microplastics into the environment.\n\nThese small pollutants come from many daily sources. When we wash synthetic clothes, tiny fibers (纤维) flow into the water system. Plastic bottles and bags break down into smaller pieces over time. Even driving cars contributes to this problem—car tires wear down on roads and release microplastic particles.\n\nScientists have found microplastics in oceans, rivers, and even in the air we breathe. They can accumulate in animals' bodies and eventually enter our food chain. \"The problem is that plastic doesn't really disappear,\" explains Dr. Li Ming, an environmental scientist. \"It just breaks into smaller and smaller pieces.\"\n\nHowever, there are ways to reduce microplastic pollution. We can choose natural fiber clothes like cotton or wool, use reusable bottles instead of single-use plastics, and support policies that limit plastic production. Small changes in our daily habits can make a big difference to our planet's future."
+      "group_passage": "Do you often stay up late to finish your homework? Many students believe that sacrificing sleep can help them get better grades. However, recent scientific studies show that this idea is completely wrong.\n\nResearchers from a local university studied 500 middle school students for six months. They found that students who slept less than 7 hours a night had trouble concentrating in class. Their test scores were 15% lower than those who slept 8-9 hours.\n\n\"Sleep is like food for the brain,\" explains Dr. Wang, the lead researcher. \"When you sleep, your brain organizes information from the day. Without enough rest, your memory becomes weak, and you cannot learn efficiently (高效地).\"\n\nThe study also discovered something interesting. Taking a 20-minute nap after lunch can improve afternoon performance by 20%. However, sleeping longer than 30 minutes may make you feel groggy (昏昏沉沉的) instead.\n\nSo, if you want to do well in school, don't cut back on sleep. Good sleep habits are not a waste of time—they are the foundation of successful learning."
     },
     {
       "id": 16,
       "type": "reading",
-      "knowledge_point": "main_idea_title",
+      "knowledge_point": "main_idea",
       "difficulty": 3,
-      "stem": "What is the best title for this passage?",
+      "stem": "What is the best title for the passage?",
       "options": [
-        "A. The History of Plastic Invention",
-        "B. How to Make Plastic Bottles",
-        "C. Microplastics: The Invisible Threat Around Us",
-        "D. The Benefits of Synthetic Materials"
+        "A. How to Finish Homework Quickly",
+        "B. The Importance of Sleep for Students",
+        "C. Ways to Take a Nap at School",
+        "D. Why Students Get Low Grades"
       ],
-      "correct_answer": "C",
-      "explanation": "【考点】阅读-主旨大意/最佳标题\n【解析】选C。文章主要介绍微塑料的定义、来源、危害及解决方法，C项\"微塑料：我们周围看不见的威胁\"准确概括主旨。\n【为什么不选其他】A项\"塑料发明史\"原文未提及；B项\"如何制作塑料瓶\"是细节非主旨；D项\"合成材料的好处\"与文章讲污染的负面基调相反。\n【解题技巧】最佳标题要涵盖主题词（microplastics）和文章基调（threat/problem），避免以偏概全或偏离主题。",
+      "correct_answer": "B",
+      "explanation": "本题考查主旨大意。文章通过研究结果说明睡眠对学生学习效率和记忆的重要性，呼吁保证充足睡眠。A只是开头提到的现象；C是细节（第四段）；D偏离主题。解题技巧：主旨题要概括全文，找主题句（首段转折后或尾段），本文尾段'Good sleep habits are... foundation of successful learning'点明主旨。",
       "label": "阅读-主旨大意",
       "group": "reading_1",
-      "group_passage": "Microplastics are tiny plastic particles less than 5mm in size. You cannot see many of them with your eyes, but they are everywhere around us. When you drink from a plastic bottle or wear clothes made of synthetic materials (合成材料), you might be releasing microplastics into the environment.\n\nThese small pollutants come from many daily sources. When we wash synthetic clothes, tiny fibers (纤维) flow into the water system. Plastic bottles and bags break down into smaller pieces over time. Even driving cars contributes to this problem—car tires wear down on roads and release microplastic particles.\n\nScientists have found microplastics in oceans, rivers, and even in the air we breathe. They can accumulate in animals' bodies and eventually enter our food chain. \"The problem is that plastic doesn't really disappear,\" explains Dr. Li Ming, an environmental scientist. \"It just breaks into smaller and smaller pieces.\"\n\nHowever, there are ways to reduce microplastic pollution. We can choose natural fiber clothes like cotton or wool, use reusable bottles instead of single-use plastics, and support policies that limit plastic production. Small changes in our daily habits can make a big difference to our planet's future."
+      "group_passage": "Do you often stay up late to finish your homework? Many students believe that sacrificing sleep can help them get better grades. However, recent scientific studies show that this idea is completely wrong.\n\nResearchers from a local university studied 500 middle school students for six months. They found that students who slept less than 7 hours a night had trouble concentrating in class. Their test scores were 15% lower than those who slept 8-9 hours.\n\n\"Sleep is like food for the brain,\" explains Dr. Wang, the lead researcher. \"When you sleep, your brain organizes information from the day. Without enough rest, your memory becomes weak, and you cannot learn efficiently (高效地).\"\n\nThe study also discovered something interesting. Taking a 20-minute nap after lunch can improve afternoon performance by 20%. However, sleeping longer than 30 minutes may make you feel groggy (昏昏沉沉的) instead.\n\nSo, if you want to do well in school, don't cut back on sleep. Good sleep habits are not a waste of time—they are the foundation of successful learning."
     },
     {
       "id": 17,
@@ -283,17 +283,17 @@
       "difficulty": 2,
       "stem": "(17)______",
       "options": [
-        "A. However, managing time wisely can help solve this problem.",
-        "B. First, make a schedule and stick to it.",
-        "C. On the other hand, hobbies help us relax and develop new skills.",
-        "D. As a result, they feel stressed and tired all the time.",
-        "E. In conclusion, balancing study and hobbies is important for our growth."
+        "A. However, with proper planning, 24 hours is actually plenty.",
+        "B. In addition, try to finish the hardest task first.",
+        "C. As a result, you can focus better on your studies.",
+        "D. Then, take a five-minute break every 45 minutes.",
+        "E. On the other hand, some students have too much free time."
       ],
       "correct_answer": "A",
-      "explanation": "【考点】选句子填空-段落衔接（转折）\n【解析】选A。第一段讲问题（难以平衡），第二段讲解决方法，此处需转折过渡句\"然而，明智地管理时间可以帮助解决这个问题\"。\n【为什么不选其他】B项是具体建议，适合后文；C项讲爱好好处，适合另一段；D项是结果，前文已有类似表述；E项是总结，适合结尾。\n【解题技巧】关注逻辑关系，前文讲problem，后文讲solutions，需转折词However连接。",
+      "explanation": "本题考查段落衔接。前句说'许多学生抱怨时间不够'，本句转折指出'然而，如果合理规划，24小时其实很充裕'，However承接上文的抱怨并引出下文的建议。B、C、D是具体建议，不应放在文章开头总起段；E逻辑不符。解题技巧：关注连接词，However表转折，常用于引出一个与普遍认知相反的观点。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Many middle school students find it hard to balance their study and hobbies. Some focus only on schoolwork and ignore their interests, while others spend too much time on hobbies and fall behind in studies. (17)______ \n\n(18)______ Write down what you need to do for school and when you plan to do it. This helps you see how much free time you actually have for hobbies. Remember to include rest time in your schedule too.\n\n(19)______ They are not just for fun—they also teach us time management and creativity. The key is to choose quality over quantity. It's better to have one or two meaningful hobbies than to try to do everything.\n\n(20)______ By planning your time carefully, you can do well in school while still enjoying the activities you love. Start with small steps, and you will find the right balance for you."
+      "group_passage": "Many students complain that they don't have enough time to finish their homework and hobbies. (17)______ Here are some simple tips to help you make the most of your day.\n\nFirst, create a to-do list every morning. Write down the three most important tasks. (18)______ This prevents you from wasting time on unimportant things.\n\nSecond, remove distractions when studying. Put your phone in another room. (19)______ You will be amazed at how much more you can accomplish.\n\nFinally, don't forget to take breaks. Working for hours without rest actually reduces your efficiency. (20)______ By following these suggestions, you can balance study and relaxation better."
     },
     {
       "id": 18,
@@ -302,17 +302,17 @@
       "difficulty": 2,
       "stem": "(18)______",
       "options": [
-        "A. However, managing time wisely can help solve this problem.",
-        "B. First, make a schedule and stick to it.",
-        "C. On the other hand, hobbies help us relax and develop new skills.",
-        "D. As a result, they feel stressed and tired all the time.",
-        "E. In conclusion, balancing study and hobbies is important for our growth."
+        "A. However, with proper planning, 24 hours is actually plenty.",
+        "B. In addition, try to finish the hardest task first.",
+        "C. As a result, you can focus better on your studies.",
+        "D. Then, take a five-minute break every 45 minutes.",
+        "E. On the other hand, some students have too much free time."
       ],
       "correct_answer": "B",
-      "explanation": "【考点】选句子填空-段落主题句\n【解析】选B。本段下文讲\"写下学校任务和计划时间\"，这是具体的时间管理方法，故开头用\"First, make a schedule...\"（首先，制定时间表并坚持）作为主题句。\n【为什么不选其他】A项已用于17题；C项讲爱好，本段讲学习计划；D项表结果；E项是总结句。\n【解题技巧】段落首句常为主题句，下文Write down...与make a schedule对应。",
+      "explanation": "本题考查逻辑关系（递进）。前句说'写下三件最重要的任务'，本句补充'此外，试着先完成最难的任务'，In addition（此外）表示递进关系，补充说明如何做待办清单。A已用过；C表结果；D谈休息，属于最后一段；E表对比。解题技巧：In addition/Furthermore/Moreover都表示递进，用于补充同类建议。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Many middle school students find it hard to balance their study and hobbies. Some focus only on schoolwork and ignore their interests, while others spend too much time on hobbies and fall behind in studies. (17)______ \n\n(18)______ Write down what you need to do for school and when you plan to do it. This helps you see how much free time you actually have for hobbies. Remember to include rest time in your schedule too.\n\n(19)______ They are not just for fun—they also teach us time management and creativity. The key is to choose quality over quantity. It's better to have one or two meaningful hobbies than to try to do everything.\n\n(20)______ By planning your time carefully, you can do well in school while still enjoying the activities you love. Start with small steps, and you will find the right balance for you."
+      "group_passage": "Many students complain that they don't have enough time to finish their homework and hobbies. (17)______ Here are some simple tips to help you make the most of your day.\n\nFirst, create a to-do list every morning. Write down the three most important tasks. (18)______ This prevents you from wasting time on unimportant things.\n\nSecond, remove distractions when studying. Put your phone in another room. (19)______ You will be amazed at how much more you can accomplish.\n\nFinally, don't forget to take breaks. Working for hours without rest actually reduces your efficiency. (20)______ By following these suggestions, you can balance study and relaxation better."
     },
     {
       "id": 19,
@@ -321,17 +321,17 @@
       "difficulty": 2,
       "stem": "(19)______",
       "options": [
-        "A. However, managing time wisely can help solve this problem.",
-        "B. First, make a schedule and stick to it.",
-        "C. On the other hand, hobbies help us relax and develop new skills.",
-        "D. As a result, they feel stressed and tired all the time.",
-        "E. In conclusion, balancing study and hobbies is important for our growth."
+        "A. However, with proper planning, 24 hours is actually plenty.",
+        "B. In addition, try to finish the hardest task first.",
+        "C. As a result, you can focus better on your studies.",
+        "D. Then, take a five-minute break every 45 minutes.",
+        "E. On the other hand, some students have too much free time."
       ],
       "correct_answer": "C",
-      "explanation": "【考点】选句子填空-段落衔接（并列/转折）\n【解析】选C。前文讲学习计划，本段讲爱好的好处，用\"On the other hand\"（另一方面）表示并列对比，引出hobbies的积极作用。\n【为什么不选其他】A、B已用；D项表结果；E项是总结。\n【解题技巧】On the other hand用于引出相对或并列的另一观点，前文讲study，此处讲hobbies，形成对应。",
+      "explanation": "本题考查逻辑关系（因果）。前句'把手机放在另一个房间'，本句'因此，你能更专注于学习'，As a result（因此）表示因果关系，说明前句行为的结果。A、B已用过；D谈休息；E逻辑不符。解题技巧：As a result/Therefore/Thus表结果，前因后果，说明前文动作带来的积极效果。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Many middle school students find it hard to balance their study and hobbies. Some focus only on schoolwork and ignore their interests, while others spend too much time on hobbies and fall behind in studies. (17)______ \n\n(18)______ Write down what you need to do for school and when you plan to do it. This helps you see how much free time you actually have for hobbies. Remember to include rest time in your schedule too.\n\n(19)______ They are not just for fun—they also teach us time management and creativity. The key is to choose quality over quantity. It's better to have one or two meaningful hobbies than to try to do everything.\n\n(20)______ By planning your time carefully, you can do well in school while still enjoying the activities you love. Start with small steps, and you will find the right balance for you."
+      "group_passage": "Many students complain that they don't have enough time to finish their homework and hobbies. (17)______ Here are some simple tips to help you make the most of your day.\n\nFirst, create a to-do list every morning. Write down the three most important tasks. (18)______ This prevents you from wasting time on unimportant things.\n\nSecond, remove distractions when studying. Put your phone in another room. (19)______ You will be amazed at how much more you can accomplish.\n\nFinally, don't forget to take breaks. Working for hours without rest actually reduces your efficiency. (20)______ By following these suggestions, you can balance study and relaxation better."
     },
     {
       "id": 20,
@@ -340,17 +340,17 @@
       "difficulty": 2,
       "stem": "(20)______",
       "options": [
-        "A. However, managing time wisely can help solve this problem.",
-        "B. First, make a schedule and stick to it.",
-        "C. On the other hand, hobbies help us relax and develop new skills.",
-        "D. As a result, they feel stressed and tired all the time.",
-        "E. In conclusion, balancing study and hobbies is important for our growth."
+        "A. However, with proper planning, 24 hours is actually plenty.",
+        "B. In addition, try to finish the hardest task first.",
+        "C. As a result, you can focus better on your studies.",
+        "D. Then, take a five-minute break every 45 minutes.",
+        "E. On the other hand, some students have too much free time."
       ],
-      "correct_answer": "E",
-      "explanation": "【考点】选句子填空-结尾总结句\n【解析】选E。此处为文章最后一段开头，应使用总结性语句\"In conclusion...\"（总之，平衡学习与爱好对我们的成长很重要）。\n【为什么不选其他】A、B、C已用；D项是负面结果，与结尾积极建议不符。\n【解题技巧】In conclusion/Finally等总结性短语常用于文章末段，概括全文观点。",
+      "correct_answer": "D",
+      "explanation": "本题考查主题一致性。本段主题是'take breaks'（休息），选项D'Then, take a five-minute break every 45 minutes'（然后，每45分钟休息5分钟）具体说明如何休息，符合段落主题。A、B、C已用过；E与主题无关。解题技巧：选句子填空要关注段落主题句（本段首句），选项必须与段落主题一致。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Many middle school students find it hard to balance their study and hobbies. Some focus only on schoolwork and ignore their interests, while others spend too much time on hobbies and fall behind in studies. (17)______ \n\n(18)______ Write down what you need to do for school and when you plan to do it. This helps you see how much free time you actually have for hobbies. Remember to include rest time in your schedule too.\n\n(19)______ They are not just for fun—they also teach us time management and creativity. The key is to choose quality over quantity. It's better to have one or two meaningful hobbies than to try to do everything.\n\n(20)______ By planning your time carefully, you can do well in school while still enjoying the activities you love. Start with small steps, and you will find the right balance for you."
+      "group_passage": "Many students complain that they don't have enough time to finish their homework and hobbies. (17)______ Here are some simple tips to help you make the most of your day.\n\nFirst, create a to-do list every morning. Write down the three most important tasks. (18)______ This prevents you from wasting time on unimportant things.\n\nSecond, remove distractions when studying. Put your phone in another room. (19)______ You will be amazed at how much more you can accomplish.\n\nFinally, don't forget to take breaks. Working for hours without rest actually reduces your efficiency. (20)______ By following these suggestions, you can balance study and relaxation better."
     }
   ]
 }
