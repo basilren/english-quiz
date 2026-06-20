@@ -455,6 +455,13 @@
       "total": 20,
       "correct": 18,
       "rate": 90
+    },
+    {
+      "date": "2026-06-20",
+      "session": 1,
+      "total": 20,
+      "correct": 18,
+      "rate": 90
     }
   ],
   "errors": [
@@ -637,6 +644,42 @@
       "correct_answer": "B",
       "student_answer": "C",
       "explanation": "【解析】词义猜测题。根据上下文，\"This tension, or 'strain'\"中or表示同位语解释，说明strain与tension（紧张）意思相近。前文说\"when we look at screens for a long time, our eye muscles become tense\"（长时间看屏幕，眼部肌肉变得紧张），后文说会导致头痛和视力模糊。因此strain指的是眼部肌肉的\"疲劳；紧张\"。选项A、C、D均不符合语境。【猜词技巧】利用同位语（tension, or strain）、因果关系（cause headaches）和上下文逻辑进行猜测。"
+    },
+    {
+      "date": "2026-06-20",
+      "session": 1,
+      "question_id": 9,
+      "type": "cloze",
+      "knowledge_point": "cloze_context",
+      "label": "完形填空",
+      "stem": "(9)______",
+      "options": [
+        "A. discovered",
+        "B. created",
+        "C. found",
+        "D. bought"
+      ],
+      "correct_answer": "B",
+      "student_answer": "A",
+      "explanation": "【考点】完形填空-语境推理\n【解析】选B。根据上下文，科技展上展示的是自己\"创造/制作\"的机器人，created（创造）符合语境。\n【为什么不选其他】A项discovered（发现）指发现已存在的事物；C项found（找到/发现）；D项bought（购买）与科技展展示原创作品的语境不符。\n【解题技巧】根据\"participated\"和\"project\"可知是原创作品，created最恰当。"
+    },
+    {
+      "date": "2026-06-20",
+      "session": 1,
+      "question_id": 11,
+      "type": "cloze",
+      "knowledge_point": "cloze_emotion",
+      "label": "完形填空",
+      "stem": "(11)______",
+      "options": [
+        "A. excited",
+        "B. frustrated",
+        "C. surprised",
+        "D. relaxed"
+      ],
+      "correct_answer": "B",
+      "student_answer": "C",
+      "explanation": "【考点】完形填空-情感线索\n【解析】选B。遇到技术困难时应该感到\"沮丧\"（frustrated），but表示转折，后说\"没放弃\"，前应是负面情绪。\n【为什么不选其他】A项excited（兴奋的）和D项relaxed（放松的）是积极情绪，与遇到困难矛盾；C项surprised（惊讶的）不符合语境。\n【解题技巧】关注情感转折词but，前后情感相反，后文didn't give up提示前文是挫折感。"
     }
   ]
 }
