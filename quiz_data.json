@@ -1,53 +1,53 @@
 ﻿{
-  "date": "2026-06-22",
+  "date": "2026-06-23",
   "session_number": 1,
   "questions": [
     {
       "id": 1,
       "type": "grammar",
-      "knowledge_point": "passive_voice",
-      "difficulty": 1,
-      "stem": "The book ______ by many students in our school library every day.",
+      "knowledge_point": "present_perfect_vs_past_simple",
+      "difficulty": 2,
+      "stem": "—______ you ever ______ to the new science museum?\n—Yes, I ______ there last Sunday with my classmates.",
       "options": [
-        "A. reads",
-        "B. is read",
-        "C. was read",
-        "D. reading"
+        "A. Did; go; went",
+        "B. Have; been; went",
+        "C. Have; gone; went",
+        "D. Did; go; have gone"
       ],
       "correct_answer": "B",
-      "explanation": "考查一般现在时的被动语态。主语The book是动作read的承受者，应用被动语态；由every day可知用一般现在时，结构为am/is/are+过去分词。主语是单数，用is read。A是主动语态，C是过去时被动，D是现在分词，均不符合。",
+      "explanation": "本题考查现在完成时与一般过去时的辨析。问句中'ever'（曾经）是现在完成时的标志词，且表示'去过某地（已回）'用have been to；答句中'last Sunday'是明确的过去时间状语，需用一般过去时went。A、D项第一空错误，C项第二空have gone表示'去了未回'与语境不符。",
       "label": "语法题"
     },
     {
       "id": 2,
       "type": "grammar",
-      "knowledge_point": "present_perfect_vs_past_simple",
+      "knowledge_point": "relative_clause_who_which",
       "difficulty": 2,
-      "stem": "—______ you ______ your homework yet?\n—Yes, I ______ it an hour ago.",
+      "stem": "The boy ______ is standing under the tree is my best friend, Bosco.",
       "options": [
-        "A. Did; finish; finished",
-        "B. Have; finished; finished",
-        "C. Have; finished; have finished",
-        "D. Do; finish; finished"
+        "A. who",
+        "B. which",
+        "C. whose",
+        "D. whom"
       ],
-      "correct_answer": "B",
-      "explanation": "考查现在完成时与一般过去时辨析。问句中yet是现在完成时标志词，用Have...finished；答句中an hour ago是一般过去时标志，用finished。A项第一空错用助动词Did，C项第三空错用现在完成时，D项第一空时态错误。",
+      "correct_answer": "A",
+      "explanation": "本题考查定语从句关系代词的选择。先行词'the boy'指人，且在从句中作主语，应用who。which指物；whose表示所属关系；whom指人但作宾语。口诀：先行词是人作主语用who，作宾语用whom/who/that，所属用whose；指物用which/that。",
       "label": "语法题"
     },
     {
       "id": 3,
       "type": "grammar",
-      "knowledge_point": "relative_clause_who_which",
-      "difficulty": 2,
-      "stem": "The girl ______ is singing on the stage won the first prize in the singing competition.",
+      "knowledge_point": "passive_voice",
+      "difficulty": 1,
+      "stem": "These old books ______ to the school library yesterday.",
       "options": [
-        "A. who",
-        "B. which",
-        "C. whom",
-        "D. whose"
+        "A. return",
+        "B. returned",
+        "C. were returned",
+        "D. are returned"
       ],
-      "correct_answer": "A",
-      "explanation": "考查定语从句关系词。先行词The girl指人，且在从句中作主语，用who。which指物，whom指人但作宾语，whose表示所属关系'...的'。从句缺主语，故选A。",
+      "correct_answer": "C",
+      "explanation": "本题考查一般过去时的被动语态。主语'books'与动词'return'是被动关系（书被归还），时间状语'yesterday'表明用一般过去时，结构为was/were+过去分词。主语是复数，用were returned。A是主动原形；B是主动过去式；D是一般现在时被动，时态不符。",
       "label": "语法题"
     },
     {
@@ -55,31 +55,31 @@
       "type": "grammar",
       "knowledge_point": "object_clause",
       "difficulty": 3,
-      "stem": "—Do you think ______ we will have a picnic tomorrow?\n—I'm not sure. It ______ rain this afternoon.",
+      "stem": "—Do you think ______ we will have a picnic tomorrow?\n—I'm not sure. It ______ rain in the afternoon.",
       "options": [
         "A. that; must",
-        "B. if; might",
-        "C. whether; must",
-        "D. that; might"
+        "B. that; might",
+        "C. if; must",
+        "D. whether; should"
       ],
       "correct_answer": "B",
-      "explanation": "考查宾语从句连接词及情态动词表推测。第一空由答语'I'm not sure'可知表示'是否'，用if/whether；第二空表示可能性不大的推测，用might（可能）。must表示肯定推测'一定'，与'not sure'矛盾。C项第一空虽可表示'是否'，但第二空must语气太肯定，不如B项贴切。",
+      "explanation": "本题考查宾语从句连接词和情态动词表推测。第一空：think后接宾语从句且不缺成分时用that（口语中可省），if/whether虽然也可用，但第二空是关键。根据答句'I'm not sure'（不确定），第二空需用might（可能）表不确定推测；must表肯定推测（一定），与'not sure'矛盾。因此选B。",
       "label": "语法题"
     },
     {
       "id": 5,
       "type": "vocabulary",
-      "knowledge_point": "word_meaning",
+      "knowledge_point": "word_collocation",
       "difficulty": 1,
-      "stem": "If you are not ______ with your current score, you should work harder to get a better one.",
+      "stem": "If you are ______ with your current score, you should work harder to get a better one.",
       "options": [
-        "A. satisfying",
-        "B. satisfied",
-        "C. satisfaction",
-        "D. satisfy"
+        "A. exciting",
+        "B. interested",
+        "C. satisfied",
+        "D. surprised"
       ],
-      "correct_answer": "B",
-      "explanation": "考查形容词satisfied的用法。be satisfied with是固定搭配，意为'对...感到满意'，修饰人用satisfied。A.satisfying令人满意的（修饰物）；C.satisfaction是名词；D.satisfy是动词。解题口诀：'人satisfied，物satisfying，感到满意用be satisfied with'。",
+      "correct_answer": "C",
+      "explanation": "本题考查形容词词义辨析及固定搭配。be satisfied with是固定搭配，意为'对……满意'。句意：如果你满足于目前的分数，你应该更努力取得更好的成绩。exciting（令人兴奋的）修饰物；interested常与in搭配；surprised常与at/by搭配。根据句意和搭配，选C。",
       "label": "词汇题"
     },
     {
@@ -89,66 +89,66 @@
       "difficulty": 2,
       "stem": "If you ______ the prefix 'un' from 'unhappy', you get the word 'happy'.",
       "options": [
-        "A. return",
-        "B. rebuild",
+        "A. add",
+        "B. build",
         "C. remove",
-        "D. recycle"
+        "D. create"
       ],
       "correct_answer": "C",
-      "explanation": "考查词义辨析及前缀知识。remove意为'移除、去掉'，符合句意'去掉前缀un'。A.return归还；B.rebuild重建；D.recycle回收。根据构词法知识，un-是表示否定意义的前缀，要得到原词需要'去掉'它。",
+      "explanation": "本题考查动词词义及构词法。prefix意为'前缀'，从'unhappy'中去掉'un'得到'happy'，应用remove（移除）。add（添加）意思相反；build（建立）和create（创造）与构词法操作无关。注意：un-是常见否定前缀，如unfair, unable等。",
       "label": "词汇题"
     },
     {
       "id": 7,
       "type": "vocabulary",
-      "knowledge_point": "phrasal_verbs",
+      "knowledge_point": "word_meaning",
       "difficulty": 2,
-      "stem": "Please ______ your old clothes to the charity. They need them badly to help the poor.",
+      "stem": "The government is trying to ______ the environment by planting more trees.",
       "options": [
-        "A. give away",
-        "B. give up",
-        "C. give out",
-        "D. give in"
+        "A. improve",
+        "B. increase",
+        "C. rise",
+        "D. grow"
       ],
       "correct_answer": "A",
-      "explanation": "考查短语动词辨析。give away捐赠、赠送；give up放弃；give out分发、耗尽；give in屈服、让步。根据语境'给慈善机构'可知是'捐赠'旧衣服。解题技巧：结合语境记忆短语，away表示'离开'，把东西给出去让它离开，即'捐赠'。",
+      "explanation": "本题考查动词词义辨析。improve（改善、提高）可与environment搭配，表示'改善环境'。increase（增加）常指数量的增长；rise（上升）是不及物动词；grow（种植、生长）虽然与trees相关，但'grow the environment'搭配不当。根据宾语'environment'，只能选improve。",
       "label": "词汇题"
     },
     {
       "id": 8,
       "type": "cloze",
-      "knowledge_point": "cloze_general",
-      "difficulty": 1,
+      "knowledge_point": "cloze_context",
+      "difficulty": 2,
       "stem": "(8)______",
       "options": [
-        "A. buy",
-        "B. make",
-        "C. borrow",
-        "D. draw"
+        "A. kills",
+        "B. pollutes",
+        "C. endangers",
+        "D. affects"
       ],
-      "correct_answer": "B",
-      "explanation": "考查动词辨析及固定搭配。make a poster是固定搭配，意为'制作海报'。buy买；borrow借；draw画。根据上下文'关于节约用水的海报'，应该是'制作'海报，且draw通常指画画，不如make涵盖范围广（包含设计、制作等）。",
+      "correct_answer": "D",
+      "explanation": "本题考查语境推理。上文提到塑料垃圾进入海洋，下文说'hurts the whole ecosystem'（伤害整个生态系统），此处应选一个相对概括的词。affects（影响）涵盖范围最广，且与hurt形成递进关系。kills（杀死）过于绝对；pollutes（污染）与前文'pollution'重复；endangers（危及）虽可接受，但affects更中性且符合说明文语气。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Our school started a \"Green School Project\" last month. The project aims to make students understand the importance of protecting the environment.\n\nLast week, our class was asked to (8)______ a poster about saving water. At first, I didn't know how to start. My deskmate Lily suggested that we (9)______ some pictures of dry rivers and lakes on the poster. \"Visual effects can help (10)______ people's attention,\" she said.\n\nWe worked on it for three days. When we finally (11)______ our poster to the teacher, she was very pleased. She said our work was creative and meaningful.\n\nNow the poster is hanging in the school hall. Every time I see it, I feel proud. This project has taught me that small actions can make a big (12)______. We should all try our best to protect the environment."
+      "group_passage": "Last month, our school organized a meaningful activity called \"Green Campus Week\". The purpose was to help students understand the importance of protecting our environment.\n\nOn Monday morning, our teacher gave us a speech about plastic pollution. She told us that about 8 million tons of plastic waste enters the ocean every year. This (8)______ many sea animals and hurts the whole ecosystem. After listening to the speech, we all felt that we should take action immediately.\n\nDuring the week, each class was asked to (9)______ a poster about environmental protection. My classmate Bosco and I worked together. We (10)______ pictures of polluted rivers and clean forests on the poster. We also wrote a slogan: \"Save the Earth, Save Our Future\". Our poster won the first prize, (11)______ made us very proud.\n\nBesides making posters, we also started a recycling program. We collected used bottles and paper in the classroom. By the end of the week, we had collected over 200 bottles. The money from selling them would be (12)______ to buy books for children in poor areas.\n\nThis activity taught us that even small actions can make a big difference to our planet."
     },
     {
       "id": 9,
       "type": "cloze",
       "knowledge_point": "cloze_general",
-      "difficulty": 2,
+      "difficulty": 1,
       "stem": "(9)______",
       "options": [
-        "A. put",
-        "B. cut",
-        "C. take",
-        "D. get"
+        "A. buy",
+        "B. create",
+        "C. borrow",
+        "D. lend"
       ],
-      "correct_answer": "A",
-      "explanation": "考查动词短语搭配。put...on...是固定搭配，意为'把...放在...上'。句意：在海报上放一些干涸河流湖泊的图片。cut切割；take带走；get得到。只有put符合语境，表示将图片放置在海报上。",
+      "correct_answer": "B",
+      "explanation": "本题考查动词与名词搭配。create a poster（制作海报）是固定搭配。buy（买）和borrow（借）与语境不符，海报是学生自己做的；lend（借出）也不合适。根据下文描述的画图和写标语，可知是'创作/制作'海报。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Our school started a \"Green School Project\" last month. The project aims to make students understand the importance of protecting the environment.\n\nLast week, our class was asked to (8)______ a poster about saving water. At first, I didn't know how to start. My deskmate Lily suggested that we (9)______ some pictures of dry rivers and lakes on the poster. \"Visual effects can help (10)______ people's attention,\" she said.\n\nWe worked on it for three days. When we finally (11)______ our poster to the teacher, she was very pleased. She said our work was creative and meaningful.\n\nNow the poster is hanging in the school hall. Every time I see it, I feel proud. This project has taught me that small actions can make a big (12)______. We should all try our best to protect the environment."
+      "group_passage": "Last month, our school organized a meaningful activity called \"Green Campus Week\". The purpose was to help students understand the importance of protecting our environment.\n\nOn Monday morning, our teacher gave us a speech about plastic pollution. She told us that about 8 million tons of plastic waste enters the ocean every year. This (8)______ many sea animals and hurts the whole ecosystem. After listening to the speech, we all felt that we should take action immediately.\n\nDuring the week, each class was asked to (9)______ a poster about environmental protection. My classmate Bosco and I worked together. We (10)______ pictures of polluted rivers and clean forests on the poster. We also wrote a slogan: \"Save the Earth, Save Our Future\". Our poster won the first prize, (11)______ made us very proud.\n\nBesides making posters, we also started a recycling program. We collected used bottles and paper in the classroom. By the end of the week, we had collected over 200 bottles. The money from selling them would be (12)______ to buy books for children in poor areas.\n\nThis activity taught us that even small actions can make a big difference to our planet."
     },
     {
       "id": 10,
@@ -157,124 +157,124 @@
       "difficulty": 2,
       "stem": "(10)______",
       "options": [
-        "A. pay",
-        "B. spend",
-        "C. take",
-        "D. catch"
+        "A. drew",
+        "B. took",
+        "C. cut",
+        "D. found"
       ],
-      "correct_answer": "D",
-      "explanation": "考查固定搭配。catch one's attention是固定短语，意为'吸引某人的注意力'。pay attention to注意（主语是人）；spend花费；take带走。解题技巧：attention常与catch/pay搭配，人作主语用pay，物作主语用catch。",
+      "correct_answer": "A",
+      "explanation": "本题考查语境线索。根据'on the poster'（在海报上）和'pictures'（图画），可知是在海报上'drew'（画）了河流和森林的图片。took（拍照）、cut（剪）、found（发现）均不符合'制作海报'的语境。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Our school started a \"Green School Project\" last month. The project aims to make students understand the importance of protecting the environment.\n\nLast week, our class was asked to (8)______ a poster about saving water. At first, I didn't know how to start. My deskmate Lily suggested that we (9)______ some pictures of dry rivers and lakes on the poster. \"Visual effects can help (10)______ people's attention,\" she said.\n\nWe worked on it for three days. When we finally (11)______ our poster to the teacher, she was very pleased. She said our work was creative and meaningful.\n\nNow the poster is hanging in the school hall. Every time I see it, I feel proud. This project has taught me that small actions can make a big (12)______. We should all try our best to protect the environment."
+      "group_passage": "Last month, our school organized a meaningful activity called \"Green Campus Week\". The purpose was to help students understand the importance of protecting our environment.\n\nOn Monday morning, our teacher gave us a speech about plastic pollution. She told us that about 8 million tons of plastic waste enters the ocean every year. This (8)______ many sea animals and hurts the whole ecosystem. After listening to the speech, we all felt that we should take action immediately.\n\nDuring the week, each class was asked to (9)______ a poster about environmental protection. My classmate Bosco and I worked together. We (10)______ pictures of polluted rivers and clean forests on the poster. We also wrote a slogan: \"Save the Earth, Save Our Future\". Our poster won the first prize, (11)______ made us very proud.\n\nBesides making posters, we also started a recycling program. We collected used bottles and paper in the classroom. By the end of the week, we had collected over 200 bottles. The money from selling them would be (12)______ to buy books for children in poor areas.\n\nThis activity taught us that even small actions can make a big difference to our planet."
     },
     {
       "id": 11,
       "type": "cloze",
-      "knowledge_point": "cloze_general",
-      "difficulty": 1,
+      "knowledge_point": "relative_clause_who_which",
+      "difficulty": 2,
       "stem": "(11)______",
       "options": [
-        "A. showed",
-        "B. sold",
-        "C. sent",
-        "D. suggested"
+        "A. who",
+        "B. which",
+        "C. what",
+        "D. it"
       ],
-      "correct_answer": "A",
-      "explanation": "考查动词辨析。show sth to sb把某物展示给某人看。句意：当我们最终把海报展示给老师看时，她非常高兴。sell卖；send发送；suggest建议。根据语境，完成作业后应该是'展示'给老师，而不是卖掉或建议。",
+      "correct_answer": "B",
+      "explanation": "本题考查非限制性定语从句。逗号后指代前面整句话'Our poster won the first prize'，且作主语，应用which引导非限制性定语从句。who指人；what不能引导定语从句；it会造成逗号连接两个独立句子的语法错误（逗号粘连）。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Our school started a \"Green School Project\" last month. The project aims to make students understand the importance of protecting the environment.\n\nLast week, our class was asked to (8)______ a poster about saving water. At first, I didn't know how to start. My deskmate Lily suggested that we (9)______ some pictures of dry rivers and lakes on the poster. \"Visual effects can help (10)______ people's attention,\" she said.\n\nWe worked on it for three days. When we finally (11)______ our poster to the teacher, she was very pleased. She said our work was creative and meaningful.\n\nNow the poster is hanging in the school hall. Every time I see it, I feel proud. This project has taught me that small actions can make a big (12)______. We should all try our best to protect the environment."
+      "group_passage": "Last month, our school organized a meaningful activity called \"Green Campus Week\". The purpose was to help students understand the importance of protecting our environment.\n\nOn Monday morning, our teacher gave us a speech about plastic pollution. She told us that about 8 million tons of plastic waste enters the ocean every year. This (8)______ many sea animals and hurts the whole ecosystem. After listening to the speech, we all felt that we should take action immediately.\n\nDuring the week, each class was asked to (9)______ a poster about environmental protection. My classmate Bosco and I worked together. We (10)______ pictures of polluted rivers and clean forests on the poster. We also wrote a slogan: \"Save the Earth, Save Our Future\". Our poster won the first prize, (11)______ made us very proud.\n\nBesides making posters, we also started a recycling program. We collected used bottles and paper in the classroom. By the end of the week, we had collected over 200 bottles. The money from selling them would be (12)______ to buy books for children in poor areas.\n\nThis activity taught us that even small actions can make a big difference to our planet."
     },
     {
       "id": 12,
       "type": "cloze",
-      "knowledge_point": "cloze_general",
-      "difficulty": 2,
+      "knowledge_point": "passive_voice",
+      "difficulty": 1,
       "stem": "(12)______",
       "options": [
-        "A. mistake",
-        "B. decision",
-        "C. difference",
-        "D. progress"
+        "A. used",
+        "B. spent",
+        "C. taken",
+        "D. paid"
       ],
-      "correct_answer": "C",
-      "explanation": "考查固定搭配。make a difference是固定短语，意为'产生影响、起作用'。句意：小行动可以产生大影响。make a mistake犯错误；make a decision做决定；make progress取得进步。根据句意和搭配，选difference。",
+      "correct_answer": "A",
+      "explanation": "本题考查被动语态及固定搭配。be used to do sth（被用来做某事）。句意：卖瓶子的钱将被用来给贫困地区的孩子买书。spent主语通常是人；taken（拿走）不符合语境；paid（支付）常与for搭配。根据句意选used。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Our school started a \"Green School Project\" last month. The project aims to make students understand the importance of protecting the environment.\n\nLast week, our class was asked to (8)______ a poster about saving water. At first, I didn't know how to start. My deskmate Lily suggested that we (9)______ some pictures of dry rivers and lakes on the poster. \"Visual effects can help (10)______ people's attention,\" she said.\n\nWe worked on it for three days. When we finally (11)______ our poster to the teacher, she was very pleased. She said our work was creative and meaningful.\n\nNow the poster is hanging in the school hall. Every time I see it, I feel proud. This project has taught me that small actions can make a big (12)______. We should all try our best to protect the environment."
+      "group_passage": "Last month, our school organized a meaningful activity called \"Green Campus Week\". The purpose was to help students understand the importance of protecting our environment.\n\nOn Monday morning, our teacher gave us a speech about plastic pollution. She told us that about 8 million tons of plastic waste enters the ocean every year. This (8)______ many sea animals and hurts the whole ecosystem. After listening to the speech, we all felt that we should take action immediately.\n\nDuring the week, each class was asked to (9)______ a poster about environmental protection. My classmate Bosco and I worked together. We (10)______ pictures of polluted rivers and clean forests on the poster. We also wrote a slogan: \"Save the Earth, Save Our Future\". Our poster won the first prize, (11)______ made us very proud.\n\nBesides making posters, we also started a recycling program. We collected used bottles and paper in the classroom. By the end of the week, we had collected over 200 bottles. The money from selling them would be (12)______ to buy books for children in poor areas.\n\nThis activity taught us that even small actions can make a big difference to our planet."
     },
     {
       "id": 13,
       "type": "reading",
       "knowledge_point": "detail",
-      "difficulty": 2,
-      "stem": "How much plastic waste enters the ocean every year according to the passage?",
+      "difficulty": 1,
+      "stem": "How many hours of sleep do teenagers need every night according to Dr. Wang?",
       "options": [
-        "A. About 8 tons.",
-        "B. About 80 tons.",
-        "C. About 8 million tons.",
-        "D. About 18 million tons."
+        "A. 6 hours",
+        "B. 7 hours",
+        "C. 8-9 hours",
+        "D. 10 hours"
       ],
       "correct_answer": "C",
-      "explanation": "考查细节理解。根据文章第二段第一句'Every year, about 8 million tons of plastic waste ends up in the ocean.'可知，每年约有800万吨塑料垃圾进入海洋。解题技巧：细节题要准确定位关键词'every year'和'plastic waste'，注意million（百万）和具体数字的搭配。",
+      "explanation": "本题考查细节理解。根据文章第二段第一句'teenagers need at least 8-9 hours of sleep every night'可知，青少年每晚需要8-9小时睡眠。直接定位原文即可得出答案。",
       "label": "阅读-细节理解",
       "group": "reading_1",
-      "group_passage": "The ocean covers more than 70% of our planet. It is home to millions of sea animals. However, our oceans are facing a serious problem—plastic pollution.\n\nEvery year, about 8 million tons of plastic waste ends up in the ocean. This is like dumping one garbage truck of plastic into the sea every minute. Sea animals often mistake plastic bags for food. When they eat the plastic, it can make them sick or even kill them.\n\nScientists are working hard to solve this problem. A 16-year-old boy named Boyan Slat from the Netherlands invented a special machine. This machine can collect plastic from the ocean using natural ocean currents. \"Technology can help us clean up the mess we've made,\" Boyan said.\n\nMany countries have also started to take action. Some cities have banned single-use plastic bags. More and more people are using reusable bottles and bags instead of disposable ones.\n\nThe word \"strain\" in the last paragraph means the pressure or burden we put on the environment. If we don't change our habits, the ocean ecosystem will be damaged. But if everyone makes small changes, we can protect our blue planet for future generations."
+      "group_passage": "Many students in Grade 8 often stay up late to finish their homework. They think sleeping less can give them more time to study. However, Dr. Wang, a sleep scientist, says this idea is completely wrong.\n\nAccording to Dr. Wang's research, teenagers need at least 8-9 hours of sleep every night. During sleep, our brain works like a computer cleaning up its memory. It stores important information and removes unnecessary things. If you don't get enough sleep, your brain cannot do this job well. As a result, you will feel tired and find it hard to concentrate in class.\n\nWhat's more, lack of sleep affects your mood too. Students who sleep less than 6 hours often feel anxious and stressed. They may get angry easily over small things. \"Sleep is not a waste of time,\" Dr. Wang explains. \"It is actually an important part of learning.\"\n\nTo sleep better, Dr. Wang suggests three things. First, turn off your mobile phone an hour before bedtime. The blue light from screens makes it hard for you to fall asleep. Second, don't drink coffee or tea in the evening. Third, try to go to bed at the same time every night. This helps your body build a healthy rhythm.\n\nRemember, good sleep habits don't just help you feel better. They can also improve your grades. So tonight, try to finish your homework earlier and give your brain the rest it needs."
     },
     {
       "id": 14,
       "type": "reading",
-      "knowledge_point": "inference",
-      "difficulty": 3,
-      "stem": "What can we infer from Boyan Slat's words \"Technology can help us clean up the mess we've made\"?",
+      "knowledge_point": "word_guessing_context",
+      "difficulty": 2,
+      "stem": "What does the word \"rhythm\" in Paragraph 4 probably mean?",
       "options": [
-        "A. He thinks technology is the only solution to pollution.",
-        "B. He believes humans should take responsibility for cleaning the ocean.",
-        "C. He invented the machine when he was 10 years old.",
-        "D. He thinks ocean currents are harmful to sea animals."
+        "A. A regular pattern of actions",
+        "B. A kind of physical exercise",
+        "C. A way of eating food",
+        "D. A type of sleep problem"
       ],
-      "correct_answer": "B",
-      "explanation": "考查推理判断。根据Boyan的话'科技可以帮助我们清理我们制造的烂摊子'，关键词是'we've made（我们制造的）'，暗示人类应该为污染负责并清理它。A项'唯一解决方案'过于绝对；C项年龄错误（文中是16岁）；D项与原文无关（currents是用来收集垃圾的）。推理题要基于文本，避免过度推断。",
-      "label": "阅读-推理判断",
+      "correct_answer": "A",
+      "explanation": "本题考查词义猜测。根据上下文'go to bed at the same time every night'（每晚同一时间睡觉）和'helps your body build...'，可知这是帮助身体建立规律的'节奏/节律'。regular pattern of actions（有规律的行为模式）符合语境。其他选项与'固定时间睡觉'无关。",
+      "label": "阅读-词义猜测",
       "group": "reading_1",
-      "group_passage": "The ocean covers more than 70% of our planet. It is home to millions of sea animals. However, our oceans are facing a serious problem—plastic pollution.\n\nEvery year, about 8 million tons of plastic waste ends up in the ocean. This is like dumping one garbage truck of plastic into the sea every minute. Sea animals often mistake plastic bags for food. When they eat the plastic, it can make them sick or even kill them.\n\nScientists are working hard to solve this problem. A 16-year-old boy named Boyan Slat from the Netherlands invented a special machine. This machine can collect plastic from the ocean using natural ocean currents. \"Technology can help us clean up the mess we've made,\" Boyan said.\n\nMany countries have also started to take action. Some cities have banned single-use plastic bags. More and more people are using reusable bottles and bags instead of disposable ones.\n\nThe word \"strain\" in the last paragraph means the pressure or burden we put on the environment. If we don't change our habits, the ocean ecosystem will be damaged. But if everyone makes small changes, we can protect our blue planet for future generations."
+      "group_passage": "Many students in Grade 8 often stay up late to finish their homework. They think sleeping less can give them more time to study. However, Dr. Wang, a sleep scientist, says this idea is completely wrong.\n\nAccording to Dr. Wang's research, teenagers need at least 8-9 hours of sleep every night. During sleep, our brain works like a computer cleaning up its memory. It stores important information and removes unnecessary things. If you don't get enough sleep, your brain cannot do this job well. As a result, you will feel tired and find it hard to concentrate in class.\n\nWhat's more, lack of sleep affects your mood too. Students who sleep less than 6 hours often feel anxious and stressed. They may get angry easily over small things. \"Sleep is not a waste of time,\" Dr. Wang explains. \"It is actually an important part of learning.\"\n\nTo sleep better, Dr. Wang suggests three things. First, turn off your mobile phone an hour before bedtime. The blue light from screens makes it hard for you to fall asleep. Second, don't drink coffee or tea in the evening. Third, try to go to bed at the same time every night. This helps your body build a healthy rhythm.\n\nRemember, good sleep habits don't just help you feel better. They can also improve your grades. So tonight, try to finish your homework earlier and give your brain the rest it needs."
     },
     {
       "id": 15,
       "type": "reading",
-      "knowledge_point": "word_guessing",
-      "difficulty": 2,
-      "stem": "What does the word \"strain\" in the last paragraph probably mean?",
+      "knowledge_point": "inference",
+      "difficulty": 3,
+      "stem": "What can we infer from Dr. Wang's words in the passage?",
       "options": [
-        "A. 种类 (type)",
-        "B. 压力 (pressure)",
-        "C. 力量 (strength)",
-        "D. 碎片 (piece)"
+        "A. Students should do homework as late as possible",
+        "B. Sleeping well can help students study better",
+        "C. Mobile phones help teenagers fall asleep quickly",
+        "D. Drinking coffee before bed is good for sleep"
       ],
       "correct_answer": "B",
-      "explanation": "考查词义猜测。根据上下文'If we don't change our habits, the ocean ecosystem will be damaged'（不改变习惯，海洋生态系统会受损），可推测strain指环境承受的'压力'或'负担'。后文'burden'也是提示词。A、C、D均不符合语境。解题技巧：通过因果关系和解释说明（burden）猜测词义。",
-      "label": "阅读-词义猜测",
+      "explanation": "本题考查推理判断。根据最后一段'good sleep habits...can also improve your grades'（良好的睡眠习惯能提高成绩）可推断出，睡得好能帮助学生学得更好。A与文意相反；C、D与第四段建议'turn off mobile phone'和'don't drink coffee'相悖。做推理题需基于原文，排除与原文矛盾或没有依据的选项。",
+      "label": "阅读-推理判断",
       "group": "reading_1",
-      "group_passage": "The ocean covers more than 70% of our planet. It is home to millions of sea animals. However, our oceans are facing a serious problem—plastic pollution.\n\nEvery year, about 8 million tons of plastic waste ends up in the ocean. This is like dumping one garbage truck of plastic into the sea every minute. Sea animals often mistake plastic bags for food. When they eat the plastic, it can make them sick or even kill them.\n\nScientists are working hard to solve this problem. A 16-year-old boy named Boyan Slat from the Netherlands invented a special machine. This machine can collect plastic from the ocean using natural ocean currents. \"Technology can help us clean up the mess we've made,\" Boyan said.\n\nMany countries have also started to take action. Some cities have banned single-use plastic bags. More and more people are using reusable bottles and bags instead of disposable ones.\n\nThe word \"strain\" in the last paragraph means the pressure or burden we put on the environment. If we don't change our habits, the ocean ecosystem will be damaged. But if everyone makes small changes, we can protect our blue planet for future generations."
+      "group_passage": "Many students in Grade 8 often stay up late to finish their homework. They think sleeping less can give them more time to study. However, Dr. Wang, a sleep scientist, says this idea is completely wrong.\n\nAccording to Dr. Wang's research, teenagers need at least 8-9 hours of sleep every night. During sleep, our brain works like a computer cleaning up its memory. It stores important information and removes unnecessary things. If you don't get enough sleep, your brain cannot do this job well. As a result, you will feel tired and find it hard to concentrate in class.\n\nWhat's more, lack of sleep affects your mood too. Students who sleep less than 6 hours often feel anxious and stressed. They may get angry easily over small things. \"Sleep is not a waste of time,\" Dr. Wang explains. \"It is actually an important part of learning.\"\n\nTo sleep better, Dr. Wang suggests three things. First, turn off your mobile phone an hour before bedtime. The blue light from screens makes it hard for you to fall asleep. Second, don't drink coffee or tea in the evening. Third, try to go to bed at the same time every night. This helps your body build a healthy rhythm.\n\nRemember, good sleep habits don't just help you feel better. They can also improve your grades. So tonight, try to finish your homework earlier and give your brain the rest it needs."
     },
     {
       "id": 16,
       "type": "reading",
-      "knowledge_point": "main_idea",
+      "knowledge_point": "main_idea_title",
       "difficulty": 2,
       "stem": "What is the best title for this passage?",
       "options": [
-        "A. The Life of Sea Animals",
-        "B. A Young Inventor's Story",
-        "C. Ocean Plastic Pollution and Solutions",
-        "D. How to Use Reusable Bags"
+        "A. How to Finish Homework Quickly",
+        "B. The Bad Effects of Mobile Phones",
+        "C. Why Sleep Matters for Students",
+        "D. Ways to Become a Sleep Scientist"
       ],
       "correct_answer": "C",
-      "explanation": "考查主旨大意。文章结构：第一段提出问题（海洋塑料污染），第二段说明危害，第三、四段提出解决方案（科技发明、国家政策、个人行动）。A只涉及第二段细节；B只涉及第三段例子；D只涉及第四段部分内容。C项全面概括了'污染问题及解决方法'。解题技巧：主旨题要涵盖全文，不能仅以偏概全，注意'问题-解决'类文章的结构特点。",
+      "explanation": "本题考查主旨大意/最佳标题。文章开篇批驳'少睡觉多学习'的错误观念，中间阐述睡眠对记忆和情绪的重要性，最后给出建议。全文围绕'睡眠对学生的重要性'展开。A、B、D都是文章局部细节，不能概括全文。选标题要抓住高频词（sleep）和作者核心观点。",
       "label": "阅读-主旨大意",
       "group": "reading_1",
-      "group_passage": "The ocean covers more than 70% of our planet. It is home to millions of sea animals. However, our oceans are facing a serious problem—plastic pollution.\n\nEvery year, about 8 million tons of plastic waste ends up in the ocean. This is like dumping one garbage truck of plastic into the sea every minute. Sea animals often mistake plastic bags for food. When they eat the plastic, it can make them sick or even kill them.\n\nScientists are working hard to solve this problem. A 16-year-old boy named Boyan Slat from the Netherlands invented a special machine. This machine can collect plastic from the ocean using natural ocean currents. \"Technology can help us clean up the mess we've made,\" Boyan said.\n\nMany countries have also started to take action. Some cities have banned single-use plastic bags. More and more people are using reusable bottles and bags instead of disposable ones.\n\nThe word \"strain\" in the last paragraph means the pressure or burden we put on the environment. If we don't change our habits, the ocean ecosystem will be damaged. But if everyone makes small changes, we can protect our blue planet for future generations."
+      "group_passage": "Many students in Grade 8 often stay up late to finish their homework. They think sleeping less can give them more time to study. However, Dr. Wang, a sleep scientist, says this idea is completely wrong.\n\nAccording to Dr. Wang's research, teenagers need at least 8-9 hours of sleep every night. During sleep, our brain works like a computer cleaning up its memory. It stores important information and removes unnecessary things. If you don't get enough sleep, your brain cannot do this job well. As a result, you will feel tired and find it hard to concentrate in class.\n\nWhat's more, lack of sleep affects your mood too. Students who sleep less than 6 hours often feel anxious and stressed. They may get angry easily over small things. \"Sleep is not a waste of time,\" Dr. Wang explains. \"It is actually an important part of learning.\"\n\nTo sleep better, Dr. Wang suggests three things. First, turn off your mobile phone an hour before bedtime. The blue light from screens makes it hard for you to fall asleep. Second, don't drink coffee or tea in the evening. Third, try to go to bed at the same time every night. This helps your body build a healthy rhythm.\n\nRemember, good sleep habits don't just help you feel better. They can also improve your grades. So tonight, try to finish your homework earlier and give your brain the rest it needs."
     },
     {
       "id": 17,
@@ -283,17 +283,17 @@
       "difficulty": 2,
       "stem": "(17)______",
       "options": [
-        "A. However, many students stay up late playing computer games.",
-        "B. In addition, remember to drink plenty of water.",
-        "C. As a result, you should give up your hobbies.",
-        "D. Physical activity is not only good for your body but also for your mind.",
-        "E. Breakfast is the most important meal of the day."
+        "A. The first step is to make a weekly plan.",
+        "B. However, you should adjust your hobby time according to your study schedule.",
+        "C. In addition, try to combine short hobby breaks with study time.",
+        "D. Finally, remember that balance is the key to a healthy school life.",
+        "E. On the other hand, never spend time on hobbies during school days."
       ],
       "correct_answer": "A",
-      "explanation": "考查逻辑关系（转折）。前句说'青少年每天需要8-10小时睡眠'，后句说'没有足够睡眠会感到疲劳'，中间需要转折句说明现实与需求的差距。However表示转折，'然而很多学生熬夜玩电脑游戏'，承上启下。其他选项：B表递进（用于喝水段落）；C表结果（语义错误）；D表递进（用于运动段落）；E表强调（用于饮食段落）。",
+      "explanation": "本题考查段落主旨句。空格后提到'First, write down all the things...'（首先写下所有事情），说明本段讲的是制定计划。A项'第一步是制定周计划'作为段首主题句最合适。E项过于绝对且与文章主旨'平衡'相悖，是干扰项。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Having healthy habits is important for everyone, especially for students. Here are some tips to help you stay healthy.\n\nFirst, get enough sleep. Teenagers need about 8-10 hours of sleep every night. (17)______. Without enough sleep, you will feel tired and can't concentrate in class.\n\nSecond, eat healthy food. (18)______. Try to eat more fruits and vegetables instead of junk food. They give you the energy you need for the whole day.\n\nThird, exercise regularly. You don't need to run for hours. Even a 30-minute walk every day can make a difference. (19)______. It helps you relax and keeps your body strong.\n\n(20)______. Drinking enough water helps your body work properly. Carry a water bottle with you and drink at least 8 cups of water daily."
+      "group_passage": "Many students have trouble balancing their schoolwork and hobbies. They often ask, \"How can I do well in studies and still have time for my interests?\" Here are some useful tips.\n\n(17)______. First, write down all the things you need to do, including homework and hobby time. This helps you see clearly how much time you actually have. You can use a planner or an app on your phone.\n\n(18)______. If you love playing basketball, don't do it for three hours every day during exam weeks. Instead, practice for just 30 minutes. You can play longer during weekends or holidays.\n\n(19)______. Use short breaks between study sessions for your hobbies. For example, if you enjoy drawing, sketch something quickly during your 10-minute break. This refreshes your mind and makes you more focused when you return to studying.\n\n(20)______. Remember that your studies are important, but hobbies help you relax and develop skills. Don't give up your interests completely, even when you are busy."
     },
     {
       "id": 18,
@@ -302,17 +302,17 @@
       "difficulty": 2,
       "stem": "(18)______",
       "options": [
-        "A. However, many students stay up late playing computer games.",
-        "B. In addition, remember to drink plenty of water.",
-        "C. As a result, you should give up your hobbies.",
-        "D. Physical activity is not only good for your body but also for your mind.",
-        "E. Breakfast is the most important meal of the day."
+        "A. The first step is to make a weekly plan.",
+        "B. However, you should adjust your hobby time according to your study schedule.",
+        "C. In addition, try to combine short hobby breaks with study time.",
+        "D. Finally, remember that balance is the key to a healthy school life.",
+        "E. On the other hand, never spend time on hobbies during school days."
       ],
-      "correct_answer": "E",
-      "explanation": "考查段落主题一致性。本段主题是'吃健康食物'，选项中只有E项'早餐是一天中最重要的一餐'与饮食相关。后句'尽量多吃水果和蔬菜'也围绕饮食展开。A项涉及睡眠，B项涉及喝水，C项语义不通，D项涉及运动，均不符合本段主题。",
+      "correct_answer": "B",
+      "explanation": "本题考查逻辑关系（转折）。空格后提到'don't do it for three hours every day during exam weeks'（考试周不要玩三小时），说明要根据学习安排调整爱好时间。B项'然而，你应该根据学习安排调整爱好时间'引出下文，However表示转折，符合语境。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Having healthy habits is important for everyone, especially for students. Here are some tips to help you stay healthy.\n\nFirst, get enough sleep. Teenagers need about 8-10 hours of sleep every night. (17)______. Without enough sleep, you will feel tired and can't concentrate in class.\n\nSecond, eat healthy food. (18)______. Try to eat more fruits and vegetables instead of junk food. They give you the energy you need for the whole day.\n\nThird, exercise regularly. You don't need to run for hours. Even a 30-minute walk every day can make a difference. (19)______. It helps you relax and keeps your body strong.\n\n(20)______. Drinking enough water helps your body work properly. Carry a water bottle with you and drink at least 8 cups of water daily."
+      "group_passage": "Many students have trouble balancing their schoolwork and hobbies. They often ask, \"How can I do well in studies and still have time for my interests?\" Here are some useful tips.\n\n(17)______. First, write down all the things you need to do, including homework and hobby time. This helps you see clearly how much time you actually have. You can use a planner or an app on your phone.\n\n(18)______. If you love playing basketball, don't do it for three hours every day during exam weeks. Instead, practice for just 30 minutes. You can play longer during weekends or holidays.\n\n(19)______. Use short breaks between study sessions for your hobbies. For example, if you enjoy drawing, sketch something quickly during your 10-minute break. This refreshes your mind and makes you more focused when you return to studying.\n\n(20)______. Remember that your studies are important, but hobbies help you relax and develop skills. Don't give up your interests completely, even when you are busy."
     },
     {
       "id": 19,
@@ -321,17 +321,17 @@
       "difficulty": 2,
       "stem": "(19)______",
       "options": [
-        "A. However, many students stay up late playing computer games.",
-        "B. In addition, remember to drink plenty of water.",
-        "C. As a result, you should give up your hobbies.",
-        "D. Physical activity is not only good for your body but also for your mind.",
-        "E. Breakfast is the most important meal of the day."
+        "A. The first step is to make a weekly plan.",
+        "B. However, you should adjust your hobby time according to your study schedule.",
+        "C. In addition, try to combine short hobby breaks with study time.",
+        "D. Finally, remember that balance is the key to a healthy school life.",
+        "E. On the other hand, never spend time on hobbies during school days."
       ],
-      "correct_answer": "D",
-      "explanation": "考查代词指代及逻辑衔接。后句'It helps you relax...'中的It指代前句提到的内容。D项'Physical activity（体育活动）'是单数名词，可被It指代，且内容与运动相关，符合本段主题。not only...but also...结构与后句的解释也形成呼应。A、B、E主题不符，C语义错误。",
+      "correct_answer": "C",
+      "explanation": "本题考查逻辑关系（递进）。空格后提到'Use short breaks between study sessions for your hobbies'（利用学习间隙的短休息进行爱好活动），C项'此外，尝试将短暂的爱好休息与学习时间结合'正好概括此内容。In addition表示递进，引出第三条建议。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Having healthy habits is important for everyone, especially for students. Here are some tips to help you stay healthy.\n\nFirst, get enough sleep. Teenagers need about 8-10 hours of sleep every night. (17)______. Without enough sleep, you will feel tired and can't concentrate in class.\n\nSecond, eat healthy food. (18)______. Try to eat more fruits and vegetables instead of junk food. They give you the energy you need for the whole day.\n\nThird, exercise regularly. You don't need to run for hours. Even a 30-minute walk every day can make a difference. (19)______. It helps you relax and keeps your body strong.\n\n(20)______. Drinking enough water helps your body work properly. Carry a water bottle with you and drink at least 8 cups of water daily."
+      "group_passage": "Many students have trouble balancing their schoolwork and hobbies. They often ask, \"How can I do well in studies and still have time for my interests?\" Here are some useful tips.\n\n(17)______. First, write down all the things you need to do, including homework and hobby time. This helps you see clearly how much time you actually have. You can use a planner or an app on your phone.\n\n(18)______. If you love playing basketball, don't do it for three hours every day during exam weeks. Instead, practice for just 30 minutes. You can play longer during weekends or holidays.\n\n(19)______. Use short breaks between study sessions for your hobbies. For example, if you enjoy drawing, sketch something quickly during your 10-minute break. This refreshes your mind and makes you more focused when you return to studying.\n\n(20)______. Remember that your studies are important, but hobbies help you relax and develop skills. Don't give up your interests completely, even when you are busy."
     },
     {
       "id": 20,
@@ -340,17 +340,17 @@
       "difficulty": 2,
       "stem": "(20)______",
       "options": [
-        "A. However, many students stay up late playing computer games.",
-        "B. In addition, remember to drink plenty of water.",
-        "C. As a result, you should give up your hobbies.",
-        "D. Physical activity is not only good for your body but also for your mind.",
-        "E. Breakfast is the most important meal of the day."
+        "A. The first step is to make a weekly plan.",
+        "B. However, you should adjust your hobby time according to your study schedule.",
+        "C. In addition, try to combine short hobby breaks with study time.",
+        "D. Finally, remember that balance is the key to a healthy school life.",
+        "E. On the other hand, never spend time on hobbies during school days."
       ],
-      "correct_answer": "B",
-      "explanation": "考查段落主旨句。本段内容围绕'喝水'展开，'Drinking enough water...'是主题句。B项'In addition, remember to drink plenty of water'作为段首句引出本段主题，In addition表示递进，引出另一个健康建议（喝水）。其他选项：A是睡眠，D是运动，E是饮食，均已被前文使用或主题不符。",
+      "correct_answer": "D",
+      "explanation": "本题考查逻辑关系（总结）。空格位于最后一段段首，后文总结'学习重要，但爱好也重要，不要完全放弃兴趣'，强调平衡的重要性。D项'最后，记住平衡是健康学校生活的关键'作为总结句，Finally表示顺序最后，也呼应文章结尾的总结功能。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Having healthy habits is important for everyone, especially for students. Here are some tips to help you stay healthy.\n\nFirst, get enough sleep. Teenagers need about 8-10 hours of sleep every night. (17)______. Without enough sleep, you will feel tired and can't concentrate in class.\n\nSecond, eat healthy food. (18)______. Try to eat more fruits and vegetables instead of junk food. They give you the energy you need for the whole day.\n\nThird, exercise regularly. You don't need to run for hours. Even a 30-minute walk every day can make a difference. (19)______. It helps you relax and keeps your body strong.\n\n(20)______. Drinking enough water helps your body work properly. Carry a water bottle with you and drink at least 8 cups of water daily."
+      "group_passage": "Many students have trouble balancing their schoolwork and hobbies. They often ask, \"How can I do well in studies and still have time for my interests?\" Here are some useful tips.\n\n(17)______. First, write down all the things you need to do, including homework and hobby time. This helps you see clearly how much time you actually have. You can use a planner or an app on your phone.\n\n(18)______. If you love playing basketball, don't do it for three hours every day during exam weeks. Instead, practice for just 30 minutes. You can play longer during weekends or holidays.\n\n(19)______. Use short breaks between study sessions for your hobbies. For example, if you enjoy drawing, sketch something quickly during your 10-minute break. This refreshes your mind and makes you more focused when you return to studying.\n\n(20)______. Remember that your studies are important, but hobbies help you relax and develop skills. Don't give up your interests completely, even when you are busy."
     }
   ]
 }
