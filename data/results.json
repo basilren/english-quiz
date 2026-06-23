@@ -469,6 +469,13 @@
       "total": 20,
       "correct": 16,
       "rate": 80
+    },
+    {
+      "date": "2026-06-23",
+      "session": 1,
+      "total": 20,
+      "correct": 16,
+      "rate": 80
     }
   ],
   "errors": [
@@ -706,6 +713,78 @@
       "correct_answer": "A",
       "student_answer": "C",
       "explanation": "考查逻辑关系（转折）。前句说'青少年每天需要8-10小时睡眠'，后句说'没有足够睡眠会感到疲劳'，中间需要转折句说明现实与需求的差距。However表示转折，'然而很多学生熬夜玩电脑游戏'，承上启下。其他选项：B表递进（用于喝水段落）；C表结果（语义错误）；D表递进（用于运动段落）；E表强调（用于饮食段落）。"
+    },
+    {
+      "date": "2026-06-23",
+      "session": 1,
+      "question_id": 5,
+      "type": "vocabulary",
+      "knowledge_point": "word_collocation",
+      "label": "词汇题",
+      "stem": "If you are ______ with your current score, you should work harder to get a better one.",
+      "options": [
+        "A. exciting",
+        "B. interested",
+        "C. satisfied",
+        "D. surprised"
+      ],
+      "correct_answer": "C",
+      "student_answer": "A",
+      "explanation": "本题考查形容词词义辨析及固定搭配。be satisfied with是固定搭配，意为'对……满意'。句意：如果你满足于目前的分数，你应该更努力取得更好的成绩。exciting（令人兴奋的）修饰物；interested常与in搭配；surprised常与at/by搭配。根据句意和搭配，选C。"
+    },
+    {
+      "date": "2026-06-23",
+      "session": 1,
+      "question_id": 8,
+      "type": "cloze",
+      "knowledge_point": "cloze_context",
+      "label": "完形填空",
+      "stem": "(8)______",
+      "options": [
+        "A. kills",
+        "B. pollutes",
+        "C. endangers",
+        "D. affects"
+      ],
+      "correct_answer": "D",
+      "student_answer": "C",
+      "explanation": "本题考查语境推理。上文提到塑料垃圾进入海洋，下文说'hurts the whole ecosystem'（伤害整个生态系统），此处应选一个相对概括的词。affects（影响）涵盖范围最广，且与hurt形成递进关系。kills（杀死）过于绝对；pollutes（污染）与前文'pollution'重复；endangers（危及）虽可接受，但affects更中性且符合说明文语气。"
+    },
+    {
+      "date": "2026-06-23",
+      "session": 1,
+      "question_id": 10,
+      "type": "cloze",
+      "knowledge_point": "cloze_general",
+      "label": "完形填空",
+      "stem": "(10)______",
+      "options": [
+        "A. drew",
+        "B. took",
+        "C. cut",
+        "D. found"
+      ],
+      "correct_answer": "A",
+      "student_answer": "D",
+      "explanation": "本题考查语境线索。根据'on the poster'（在海报上）和'pictures'（图画），可知是在海报上'drew'（画）了河流和森林的图片。took（拍照）、cut（剪）、found（发现）均不符合'制作海报'的语境。"
+    },
+    {
+      "date": "2026-06-23",
+      "session": 1,
+      "question_id": 14,
+      "type": "reading",
+      "knowledge_point": "word_guessing_context",
+      "label": "阅读理解",
+      "stem": "What does the word \"rhythm\" in Paragraph 4 probably mean?",
+      "options": [
+        "A. A regular pattern of actions",
+        "B. A kind of physical exercise",
+        "C. A way of eating food",
+        "D. A type of sleep problem"
+      ],
+      "correct_answer": "A",
+      "student_answer": "D",
+      "explanation": "本题考查词义猜测。根据上下文'go to bed at the same time every night'（每晚同一时间睡觉）和'helps your body build...'，可知这是帮助身体建立规律的'节奏/节律'。regular pattern of actions（有规律的行为模式）符合语境。其他选项与'固定时间睡觉'无关。"
     }
   ]
 }
