@@ -1,356 +1,356 @@
 ﻿{
-  "date": "2026-06-24",
+  "date": "2026-06-25",
   "session_number": 1,
   "questions": [
     {
       "id": 1,
       "type": "grammar",
-      "knowledge_point": "present_perfect_vs_past_simple",
-      "difficulty": 2,
-      "stem": "—I ______ my pen. Have you seen it?\n—When ______ you ______ it?",
+      "knowledge_point": "passive_voice",
+      "difficulty": 1,
+      "stem": "The books ______ to the library every Friday afternoon.",
       "options": [
-        "A. lost; did; lose",
-        "B. have lost; did; lose",
-        "C. have lost; have; lost",
-        "D. lost; have; lost"
+        "A. return",
+        "B. are returned",
+        "C. returned",
+        "D. were returned"
       ],
       "correct_answer": "B",
-      "explanation": "第一空强调过去动作对现在的影响（笔现在还在丢着的状态），用现在完成时have lost；第二空询问过去发生的具体时间，用一般过去时did...lose。解题技巧：现在完成时侧重'影响/结果'，一般过去时侧重'具体时间'。",
+      "explanation": "本题考查一般现在时的被动语态。主语The books与动词return之间是被动关系（书被归还），且时间状语every Friday afternoon表示习惯性动作，应用一般现在时的被动语态：am/is/are + 过去分词。主语是复数，故用are returned。A是主动语态；C是过去式，主动语态；D是过去时的被动语态，时态不符。",
       "label": "语法题"
     },
     {
       "id": 2,
       "type": "grammar",
-      "knowledge_point": "relative_clause_who_which",
-      "difficulty": 1,
-      "stem": "The boy ______ is standing under the tree is my brother.",
+      "knowledge_point": "present_perfect_vs_past_simple",
+      "difficulty": 2,
+      "stem": "—Where is Lucy? I haven't seen her for days.\n—She ______ to Beijing. She ______ there three days ago.",
       "options": [
-        "A. which",
-        "B. whose",
-        "C. who",
-        "D. whom"
+        "A. has gone; went",
+        "B. has been; went",
+        "C. went; has gone",
+        "D. has gone; has gone"
       ],
-      "correct_answer": "C",
-      "explanation": "先行词the boy指人，且在定语从句中作主语，关系代词用who。which指物；whose表所属；whom指人但只能作宾语。口诀：人物主who宾whom，物用which所有whose。",
+      "correct_answer": "A",
+      "explanation": "本题考查现在完成时与一般过去时的区别。第一空：has gone to表示'去了某地（现在不在说话现场）'，has been to表示'去过某地（现在已经回来）'。根据语境，Lucy现在不在这里，应用has gone。第二空：three days ago是明确的过去时间状语，只能用一般过去时went。口诀：'ago用过去，完成看影响'。",
       "label": "语法题"
     },
     {
       "id": 3,
       "type": "grammar",
-      "knowledge_point": "passive_voice",
+      "knowledge_point": "relative_clause",
       "difficulty": 2,
-      "stem": "The new bridge ______ by the end of last month.",
+      "stem": "The student ______ won the English speech contest is from Class 8.",
       "options": [
-        "A. has been built",
-        "B. had been built",
-        "C. was built",
-        "D. is built"
+        "A. who",
+        "B. which",
+        "C. whom",
+        "D. whose"
       ],
-      "correct_answer": "B",
-      "explanation": "by the end of last month（到上个月底为止）是过去完成时的标志词，且bridge与build是被动关系，故用过去完成时的被动语态had been built。A是现在完成时；C是一般过去时；D是一般现在时。",
+      "correct_answer": "A",
+      "explanation": "本题考查定语从句关系代词的选择。先行词The student指人，且在从句中作主语，应用who或that。which指物；whom指人但只能作宾语；whose表示'……的'，作定语。技巧：指人主格用who，宾格用whom，物用which，人和物都可用的that要记熟。",
       "label": "语法题"
     },
     {
       "id": 4,
       "type": "grammar",
-      "knowledge_point": "object_clause",
+      "knowledge_point": "passive_voice",
       "difficulty": 3,
-      "stem": "—Do you think ______ we will have a picnic tomorrow?\n—I'm not sure. It ______ rain.",
+      "stem": "The science project ______ finished by next Friday, or we will miss the deadline.",
       "options": [
-        "A. that; will",
-        "B. if; might",
-        "C. whether; must",
-        "D. if; can"
+        "A. must",
+        "B. must be",
+        "C. can",
+        "D. need"
       ],
       "correct_answer": "B",
-      "explanation": "第一空根据答语I'm not sure可知表示'是否'，可用if或whether引导宾语从句；第二空表示不确定的推测（可能性较小的猜测），用might。must表示肯定推测（一定），can表示能力或理论可能性，均不符合语境。",
+      "explanation": "本题考查含有情态动词的被动语态。结构为：情态动词 + be + 过去分词。主语The science project与finish是被动关系，且有情态动词must，故用must be finished。A和C缺少be动词，不能构成被动；D.need作为情态动词时通常用于否定句和疑问句，且语义不符。",
       "label": "语法题"
     },
     {
       "id": 5,
       "type": "vocabulary",
-      "knowledge_point": "prefix_suffix",
+      "knowledge_point": "prefix",
       "difficulty": 1,
-      "stem": "If you ______ the prefix 'un' from 'unhappy', you get the word 'happy'.",
+      "stem": "If you add the prefix 'un-' to 'happy', you get 'unhappy', meaning 'not happy'. Similarly, if you add 'dis-' to 'agree', you get 'disagree', which means ______.",
       "options": [
-        "A. add",
-        "B. put",
-        "C. remove",
-        "D. build"
+        "A. agree again",
+        "B. not agree",
+        "C. fully agree",
+        "D. partly agree"
       ],
-      "correct_answer": "C",
-      "explanation": "remove意为'移除、去掉'。句意：如果你去掉unhappy中的前缀un，就得到了happy。add添加；put放置；build建立，均不符合句意。",
+      "correct_answer": "B",
+      "explanation": "本题考查否定前缀。un-和dis-都是常见的否定前缀，表示'不、非'。disagree = dis- (not) + agree，意为'不同意'。常见前缀：un- (unable), dis- (dislike), re- (reuse), im- (impossible)。",
       "label": "词汇题"
     },
     {
       "id": 6,
       "type": "vocabulary",
-      "knowledge_point": "word_meaning_context",
+      "knowledge_point": "phrasal_verbs",
       "difficulty": 2,
-      "stem": "If you are ______ with your current score, you should work harder to get a better one.",
+      "stem": "When parents are not at home, children should learn to ______ themselves instead of depending on others.",
       "options": [
-        "A. excited",
-        "B. surprised",
-        "C. dissatisfied",
-        "D. tired"
+        "A. look for",
+        "B. look after",
+        "C. look up",
+        "D. look at"
       ],
-      "correct_answer": "C",
-      "explanation": "根据后半句'你应该更努力以取得更好的成绩'，可推断前半句表示'对当前成绩不满意'。dissatisfied意为'不满意的'。excited兴奋的；surprised惊讶的；tired疲倦的，均不符合逻辑。",
+      "correct_answer": "B",
+      "explanation": "本题考查短语动词辨析。look after意为'照顾、照料'，符合句意'学会照顾自己'。look for寻找；look up查阅（词典）、向上看；look at看。技巧：after有'跟随、在……之后'的意思，引申为'跟在身后照顾'。",
       "label": "词汇题"
     },
     {
       "id": 7,
       "type": "vocabulary",
-      "knowledge_point": "phrasal_verbs",
+      "knowledge_point": "word_meaning",
       "difficulty": 2,
-      "stem": "We need to ______ a solution to the environmental problem.",
+      "stem": "The weather in Shenzhen is ______ hot in July. The temperature often reaches 35°C or higher.",
       "options": [
-        "A. come up with",
-        "B. look forward to",
-        "C. get on with",
-        "D. run out of"
+        "A. quite",
+        "B. quietly",
+        "C. quick",
+        "D. quiet"
       ],
       "correct_answer": "A",
-      "explanation": "come up with意为'想出、提出（主意、计划等）'，符合句意'提出解决方案'。look forward to期待；get on with与……相处/继续做；run out of用完，均不符合搭配。",
+      "explanation": "本题考查词义辨析。quite是副词，意为'相当、很'，修饰形容词hot。quietly安静地（副词）；quick快速的（形容词）；quiet安静的（形容词）。技巧：quite和quiet只有一个字母之差，但quite中'e'在前，可联想为'程度相当'；quiet中'et'在后，可联想为'安静的结束'。",
       "label": "词汇题"
     },
     {
       "id": 8,
       "type": "cloze",
-      "knowledge_point": "cloze_general",
-      "difficulty": 2,
-      "stem": "(1)______",
-      "options": [
-        "A. attracted",
-        "B. invited",
-        "C. visited",
-        "D. joined"
-      ],
-      "correct_answer": "A",
-      "explanation": "attract吸引。句意：这是一个吸引了许多学生和老师的激动人心的活动。invite邀请（主语通常是人）；visit参观；join加入（组织/活动），但此处表示'吸引'更为恰当。",
-      "label": "完形填空",
+      "knowledge_point": "cloze_context",
+      "difficulty": 1,
       "group": "cloze_1",
-      "group_passage": "Last month, our school held a Science Fair. It was an exciting event that (1)______ many students and teachers. As a member of the organizing committee, I was responsible for setting up the exhibition hall.\n\nOn the morning of the fair, I arrived early. The hall was large, but we needed to (2)______ the tables and chairs properly. My classmates and I worked together to move the heavy equipment. Although we felt tired, we knew it was (3)______ the effort.\n\nWhen the visitors started coming in, I noticed a boy standing in front of our project. He looked confused. I walked over and asked if he (4)______ help. He told me he couldn't understand how our solar-powered car worked. I explained the process patiently, using simple words to make it clear.\n\nAfter listening to my explanation, his eyes lit up. \"This is amazing!\" he said. \"I want to build something like this too.\" His words made me feel proud. I realized that (5)______ knowledge with others is a wonderful experience.\n\nThe Science Fair was a great success. Not only did we show our inventions, but we also learned how to communicate scientific ideas effectively."
+      "group_passage": "Last term, our science teacher Mr. Wang asked us to work on a project about renewable energy. My classmates and I decided to (8)______ a model of a wind turbine.\n\nAt first, we thought it would be easy. We collected some materials from home, such as plastic bottles and cardboard. However, when we started (9)______, we faced many problems. The blades of our turbine wouldn't spin properly no matter how hard we tried.\n\nJust when we wanted to give up, Mr. Wang came to help us. He (10)______ that the angle of the blades was wrong. After adjusting them carefully, our turbine finally worked! We were so excited that we cheered loudly.\n\nThis project taught us an important lesson: failure is not the end. (11)______, it is a chance to learn and improve. We also realized that teamwork is essential when facing (12)______. Without everyone's effort, we couldn't have finished the project successfully.\n\nNow, our model is displayed in the school science hall.",
+      "stem": "(8)______",
+      "options": [
+        "A. buy",
+        "B. make",
+        "C. draw",
+        "D. find"
+      ],
+      "correct_answer": "B",
+      "explanation": "根据上下文，老师要求做关于可再生能源的项目，后面提到收集材料（plastic bottles and cardboard），应该是'制作'一个风力涡轮机模型。make a model是固定搭配。buy（买）与收集材料制作不符；draw（画）和find（找）与后文的制作细节不符。",
+      "label": "完形填空"
     },
     {
       "id": 9,
       "type": "cloze",
-      "knowledge_point": "cloze_general",
+      "knowledge_point": "cloze_context",
       "difficulty": 2,
-      "stem": "(2)______",
-      "options": [
-        "A. buy",
-        "B. arrange",
-        "C. design",
-        "D. repair"
-      ],
-      "correct_answer": "B",
-      "explanation": "arrange安排、布置。根据上下文'搭建展厅'，需要'布置'桌椅。buy购买；design设计；repair修理，均不符合语境。",
-      "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school held a Science Fair. It was an exciting event that (1)______ many students and teachers. As a member of the organizing committee, I was responsible for setting up the exhibition hall.\n\nOn the morning of the fair, I arrived early. The hall was large, but we needed to (2)______ the tables and chairs properly. My classmates and I worked together to move the heavy equipment. Although we felt tired, we knew it was (3)______ the effort.\n\nWhen the visitors started coming in, I noticed a boy standing in front of our project. He looked confused. I walked over and asked if he (4)______ help. He told me he couldn't understand how our solar-powered car worked. I explained the process patiently, using simple words to make it clear.\n\nAfter listening to my explanation, his eyes lit up. \"This is amazing!\" he said. \"I want to build something like this too.\" His words made me feel proud. I realized that (5)______ knowledge with others is a wonderful experience.\n\nThe Science Fair was a great success. Not only did we show our inventions, but we also learned how to communicate scientific ideas effectively."
+      "group_passage": "Last term, our science teacher Mr. Wang asked us to work on a project about renewable energy. My classmates and I decided to (8)______ a model of a wind turbine.\n\nAt first, we thought it would be easy. We collected some materials from home, such as plastic bottles and cardboard. However, when we started (9)______, we faced many problems. The blades of our turbine wouldn't spin properly no matter how hard we tried.\n\nJust when we wanted to give up, Mr. Wang came to help us. He (10)______ that the angle of the blades was wrong. After adjusting them carefully, our turbine finally worked! We were so excited that we cheered loudly.\n\nThis project taught us an important lesson: failure is not the end. (11)______, it is a chance to learn and improve. We also realized that teamwork is essential when facing (12)______. Without everyone's effort, we couldn't have finished the project successfully.\n\nNow, our model is displayed in the school science hall.",
+      "stem": "(9)______",
+      "options": [
+        "A. building",
+        "B. playing",
+        "C. resting",
+        "D. discussing"
+      ],
+      "correct_answer": "A",
+      "explanation": "前文提到收集材料制作模型，此处应该是开始'建造/制作'。start doing sth.，building表示建造，符合语境。playing（玩）、resting（休息）与制作模型的严肃过程不符；discussing（讨论）虽然可能发生在制作前，但后文说'遇到问题'，更可能是实际动手制作时遇到的问题。",
+      "label": "完形填空"
     },
     {
       "id": 10,
       "type": "cloze",
-      "knowledge_point": "cloze_general",
+      "knowledge_point": "cloze_logic",
       "difficulty": 2,
-      "stem": "(3)______",
-      "options": [
-        "A. worth",
-        "B. necessary",
-        "C. important",
-        "D. possible"
-      ],
-      "correct_answer": "A",
-      "explanation": "be worth the effort意为'值得这份努力'，是固定搭配。句意：尽管我们感到累，但知道这是值得的。necessary必要的；important重要的；possible可能的，虽然语法通顺，但worth最符合英语表达习惯。",
-      "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school held a Science Fair. It was an exciting event that (1)______ many students and teachers. As a member of the organizing committee, I was responsible for setting up the exhibition hall.\n\nOn the morning of the fair, I arrived early. The hall was large, but we needed to (2)______ the tables and chairs properly. My classmates and I worked together to move the heavy equipment. Although we felt tired, we knew it was (3)______ the effort.\n\nWhen the visitors started coming in, I noticed a boy standing in front of our project. He looked confused. I walked over and asked if he (4)______ help. He told me he couldn't understand how our solar-powered car worked. I explained the process patiently, using simple words to make it clear.\n\nAfter listening to my explanation, his eyes lit up. \"This is amazing!\" he said. \"I want to build something like this too.\" His words made me feel proud. I realized that (5)______ knowledge with others is a wonderful experience.\n\nThe Science Fair was a great success. Not only did we show our inventions, but we also learned how to communicate scientific ideas effectively."
+      "group_passage": "Last term, our science teacher Mr. Wang asked us to work on a project about renewable energy. My classmates and I decided to (8)______ a model of a wind turbine.\n\nAt first, we thought it would be easy. We collected some materials from home, such as plastic bottles and cardboard. However, when we started (9)______, we faced many problems. The blades of our turbine wouldn't spin properly no matter how hard we tried.\n\nJust when we wanted to give up, Mr. Wang came to help us. He (10)______ that the angle of the blades was wrong. After adjusting them carefully, our turbine finally worked! We were so excited that we cheered loudly.\n\nThis project taught us an important lesson: failure is not the end. (11)______, it is a chance to learn and improve. We also realized that teamwork is essential when facing (12)______. Without everyone's effort, we couldn't have finished the project successfully.\n\nNow, our model is displayed in the school science hall.",
+      "stem": "(10)______",
+      "options": [
+        "A. guessed",
+        "B. promised",
+        "C. explained",
+        "D. dreamed"
+      ],
+      "correct_answer": "C",
+      "explanation": "老师来帮忙，应该是'解释'问题所在（叶片角度错了）。explained（解释）符合语境。guessed（猜测）不够确定；promised（承诺）与指出问题无关；dreamed（梦想）不符合。此处体现老师指导学生解决问题的过程。",
+      "label": "完形填空"
     },
     {
       "id": 11,
       "type": "cloze",
-      "knowledge_point": "cloze_general",
-      "difficulty": 1,
-      "stem": "(4)______",
-      "options": [
-        "A. offered",
-        "B. refused",
-        "C. needed",
-        "D. accepted"
-      ],
-      "correct_answer": "C",
-      "explanation": "根据上文'他看起来很困惑'，我走过去问他是否'需要'帮助。need需要；offer主动提供；refuse拒绝；accept接受，均不符合语境逻辑。",
-      "label": "完形填空",
+      "knowledge_point": "cloze_logic",
+      "difficulty": 2,
       "group": "cloze_1",
-      "group_passage": "Last month, our school held a Science Fair. It was an exciting event that (1)______ many students and teachers. As a member of the organizing committee, I was responsible for setting up the exhibition hall.\n\nOn the morning of the fair, I arrived early. The hall was large, but we needed to (2)______ the tables and chairs properly. My classmates and I worked together to move the heavy equipment. Although we felt tired, we knew it was (3)______ the effort.\n\nWhen the visitors started coming in, I noticed a boy standing in front of our project. He looked confused. I walked over and asked if he (4)______ help. He told me he couldn't understand how our solar-powered car worked. I explained the process patiently, using simple words to make it clear.\n\nAfter listening to my explanation, his eyes lit up. \"This is amazing!\" he said. \"I want to build something like this too.\" His words made me feel proud. I realized that (5)______ knowledge with others is a wonderful experience.\n\nThe Science Fair was a great success. Not only did we show our inventions, but we also learned how to communicate scientific ideas effectively."
+      "group_passage": "Last term, our science teacher Mr. Wang asked us to work on a project about renewable energy. My classmates and I decided to (8)______ a model of a wind turbine.\n\nAt first, we thought it would be easy. We collected some materials from home, such as plastic bottles and cardboard. However, when we started (9)______, we faced many problems. The blades of our turbine wouldn't spin properly no matter how hard we tried.\n\nJust when we wanted to give up, Mr. Wang came to help us. He (10)______ that the angle of the blades was wrong. After adjusting them carefully, our turbine finally worked! We were so excited that we cheered loudly.\n\nThis project taught us an important lesson: failure is not the end. (11)______, it is a chance to learn and improve. We also realized that teamwork is essential when facing (12)______. Without everyone's effort, we couldn't have finished the project successfully.\n\nNow, our model is displayed in the school science hall.",
+      "stem": "(11)______",
+      "options": [
+        "A. Instead",
+        "B. However",
+        "C. Therefore",
+        "D. Besides"
+      ],
+      "correct_answer": "A",
+      "explanation": "考查逻辑关系。前句说'失败不是终点'，后句说'它是学习和提高的机会'，前后是转折替代关系，用Instead（相反、反而）。However虽然也表示转折，但通常引出对比内容；Instead强调'不是前者，而是后者'，更符合'失败不是结束，而是机会'的对比关系。Therefore因此；Besides此外。",
+      "label": "完形填空"
     },
     {
       "id": 12,
       "type": "cloze",
       "knowledge_point": "cloze_general",
       "difficulty": 1,
-      "stem": "(5)______",
-      "options": [
-        "A. receiving",
-        "B. sharing",
-        "C. testing",
-        "D. checking"
-      ],
-      "correct_answer": "B",
-      "explanation": "share sth. with sb.意为'与某人分享某物'。根据上文我给男孩讲解科学知识，可知此处指'与他人分享知识'。receive收到；test测试；check检查，均不符合文意。",
-      "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school held a Science Fair. It was an exciting event that (1)______ many students and teachers. As a member of the organizing committee, I was responsible for setting up the exhibition hall.\n\nOn the morning of the fair, I arrived early. The hall was large, but we needed to (2)______ the tables and chairs properly. My classmates and I worked together to move the heavy equipment. Although we felt tired, we knew it was (3)______ the effort.\n\nWhen the visitors started coming in, I noticed a boy standing in front of our project. He looked confused. I walked over and asked if he (4)______ help. He told me he couldn't understand how our solar-powered car worked. I explained the process patiently, using simple words to make it clear.\n\nAfter listening to my explanation, his eyes lit up. \"This is amazing!\" he said. \"I want to build something like this too.\" His words made me feel proud. I realized that (5)______ knowledge with others is a wonderful experience.\n\nThe Science Fair was a great success. Not only did we show our inventions, but we also learned how to communicate scientific ideas effectively."
+      "group_passage": "Last term, our science teacher Mr. Wang asked us to work on a project about renewable energy. My classmates and I decided to (8)______ a model of a wind turbine.\n\nAt first, we thought it would be easy. We collected some materials from home, such as plastic bottles and cardboard. However, when we started (9)______, we faced many problems. The blades of our turbine wouldn't spin properly no matter how hard we tried.\n\nJust when we wanted to give up, Mr. Wang came to help us. He (10)______ that the angle of the blades was wrong. After adjusting them carefully, our turbine finally worked! We were so excited that we cheered loudly.\n\nThis project taught us an important lesson: failure is not the end. (11)______, it is a chance to learn and improve. We also realized that teamwork is essential when facing (12)______. Without everyone's effort, we couldn't have finished the project successfully.\n\nNow, our model is displayed in the school science hall.",
+      "stem": "(12)______",
+      "options": [
+        "A. choices",
+        "B. changes",
+        "C. challenges",
+        "D. chances"
+      ],
+      "correct_answer": "C",
+      "explanation": "考查名词词义辨析。face challenges是固定搭配，意为'面对挑战'。前文提到项目制作中遇到很多困难（problems），这些都是挑战。choices选择；changes变化；chances机会。制作模型的困难应称为challenges（挑战），团队合作用来应对挑战。",
+      "label": "完形填空"
     },
     {
       "id": 13,
       "type": "reading",
       "knowledge_point": "detail",
       "difficulty": 2,
-      "stem": "What is the new technology mentioned in the passage?",
+      "group": "reading_1",
+      "group_passage": "Smart Habits for Digital Life\n\nIn today's world, digital devices have become an important part of our daily life. However, using them wisely is crucial for our health and study. Here are some tips from Dr. Chen, a scientist who studies technology's impact on teenagers.\n\nFirst, take regular breaks. Dr. Chen suggests following the \"20-20-20\" rule: every 20 minutes, look at something 20 feet away for at least 20 seconds. This helps reduce eye strain (疲劳) caused by staring at screens for too long.\n\nSecond, set a \"digital curfew\" (宵禁). Many students like to check their phones before sleeping, but the blue light from screens can make it harder to fall asleep. Dr. Chen recommends putting devices away at least one hour before bedtime. Instead, try reading a paper book or doing meditation (冥想).\n\nThird, use technology for learning. There are many educational apps that can help us study more efficiently. However, we should be careful not to get distracted by games or social media when using these tools.\n\n\"Technology is neither good nor bad,\" says Dr. Chen. \"It depends on how we use it. If we develop healthy digital habits now, we will benefit from technology throughout our lives.\"",
+      "stem": "What is the \"20-20-20\" rule mentioned in Paragraph 2?",
       "options": [
-        "A. A machine that cleans oceans.",
-        "B. An enzyme that breaks down plastic quickly.",
-        "C. A method to heat plastic safely.",
-        "D. A way to make plastic softer."
+        "A. A study method for exams",
+        "B. A rule to protect eyes",
+        "C. A way to improve sleep",
+        "D. A tool for online learning"
       ],
       "correct_answer": "B",
-      "explanation": "细节题。根据第二段第一句'The team has created a special enzyme that can break down plastic bottles in just a few hours.'可知，新技术是一种能快速分解塑料的酶。A选项清洁海洋的机器文中未提及；C、D只是过程中的步骤，不是核心技术。",
-      "label": "阅读-细节理解",
-      "group": "reading_1",
-      "group_passage": "Plastic pollution is one of the biggest environmental problems we face today. Every year, millions of tons of plastic waste end up in our oceans, harming marine life (海洋生物) and ecosystems. However, a new technology developed by a team of scientists might offer a solution.\n\nThe team has created a special enzyme (酶) that can break down plastic bottles in just a few hours. Traditional recycling methods often take months to degrade (降解) plastic. This new enzyme works much faster and can be used repeatedly. \"It's like having a super-powered recycling machine,\" says Dr. Zhang, the lead researcher.\n\nThe process is surprisingly simple. First, the plastic is heated to make it soft. Then, the enzyme is added. Within hours, the plastic turns into its original chemical components (成分). These components can then be used to make new plastic products. This means we could create a circular economy where plastic is continuously reused instead of being thrown away.\n\nHowever, some experts warn that this technology is not a magic fix. \"We still need to reduce our plastic use,\" says environmentalist Liu Wei. \"No matter how good the recycling technology is, producing less waste is always better.\"\n\nDespite these concerns, the discovery gives hope for a cleaner future. If this technology can be widely used, it could significantly reduce the amount of plastic waste in our environment. The team is now working with companies to make the process more affordable for large-scale use."
+      "explanation": "细节理解题。根据第二段最后一句'This helps reduce eye strain (疲劳) caused by staring at screens for too long'（这有助于减少长时间盯着屏幕造成的眼疲劳），可知这是保护眼睛的规则。A是学习方法；C是改善睡眠（对应第三段）；D是在线学习工具。定位原文关键句是解题关键。",
+      "label": "阅读-细节理解"
     },
     {
       "id": 14,
       "type": "reading",
       "knowledge_point": "inference",
       "difficulty": 3,
-      "stem": "What can we infer from Liu Wei's words in Paragraph 4?",
+      "group": "reading_1",
+      "group_passage": "Smart Habits for Digital Life\n\nIn today's world, digital devices have become an important part of our daily life. However, using them wisely is crucial for our health and study. Here are some tips from Dr. Chen, a scientist who studies technology's impact on teenagers.\n\nFirst, take regular breaks. Dr. Chen suggests following the \"20-20-20\" rule: every 20 minutes, look at something 20 feet away for at least 20 seconds. This helps reduce eye strain (疲劳) caused by staring at screens for too long.\n\nSecond, set a \"digital curfew\" (宵禁). Many students like to check their phones before sleeping, but the blue light from screens can make it harder to fall asleep. Dr. Chen recommends putting devices away at least one hour before bedtime. Instead, try reading a paper book or doing meditation (冥想).\n\nThird, use technology for learning. There are many educational apps that can help us study more efficiently. However, we should be careful not to get distracted by games or social media when using these tools.\n\n\"Technology is neither good nor bad,\" says Dr. Chen. \"It depends on how we use it. If we develop healthy digital habits now, we will benefit from technology throughout our lives.\"",
+      "stem": "What can we infer from Dr. Chen's words in the last paragraph?",
       "options": [
-        "A. He thinks the technology is useless.",
-        "B. He believes recycling is more important than reducing waste.",
-        "C. He thinks people should still use less plastic.",
-        "D. He wants to stop the research immediately."
+        "A. Technology will replace traditional learning methods soon.",
+        "B. Students should avoid using digital devices completely.",
+        "C. The effect of technology depends on how users use it.",
+        "D. Only scientists know the correct way to use technology."
       ],
       "correct_answer": "C",
-      "explanation": "推理判断题。根据第四段Liu Wei的话'We still need to reduce our plastic use... producing less waste is always better'可知，他认为即使有了回收技术，人们仍然应该减少塑料使用。A与原文相反；B与原文'减少比回收更好'矛盾；D文中未提及。",
-      "label": "阅读-推理判断",
-      "group": "reading_1",
-      "group_passage": "Plastic pollution is one of the biggest environmental problems we face today. Every year, millions of tons of plastic waste end up in our oceans, harming marine life (海洋生物) and ecosystems. However, a new technology developed by a team of scientists might offer a solution.\n\nThe team has created a special enzyme (酶) that can break down plastic bottles in just a few hours. Traditional recycling methods often take months to degrade (降解) plastic. This new enzyme works much faster and can be used repeatedly. \"It's like having a super-powered recycling machine,\" says Dr. Zhang, the lead researcher.\n\nThe process is surprisingly simple. First, the plastic is heated to make it soft. Then, the enzyme is added. Within hours, the plastic turns into its original chemical components (成分). These components can then be used to make new plastic products. This means we could create a circular economy where plastic is continuously reused instead of being thrown away.\n\nHowever, some experts warn that this technology is not a magic fix. \"We still need to reduce our plastic use,\" says environmentalist Liu Wei. \"No matter how good the recycling technology is, producing less waste is always better.\"\n\nDespite these concerns, the discovery gives hope for a cleaner future. If this technology can be widely used, it could significantly reduce the amount of plastic waste in our environment. The team is now working with companies to make the process more affordable for large-scale use."
+      "explanation": "推理判断题。根据最后一段Dr. Chen的话'Technology is neither good nor bad... It depends on how we use it'（科技本身不好也不坏，取决于我们如何使用），可推断出C选项'科技的影响取决于使用者如何使用'。A选项'取代传统学习'文中未提；B选项'完全避免使用'与文章鼓励健康使用而非禁止使用的观点相反；D选项'只有科学家知道正确方法'过于绝对，且与原文'我们都能培养健康习惯'不符。",
+      "label": "阅读-推理判断"
     },
     {
       "id": 15,
       "type": "reading",
       "knowledge_point": "word_guessing",
-      "difficulty": 1,
-      "stem": "What does the underlined word \"components\" in Paragraph 3 probably mean?",
-      "options": [
-        "A. Parts that form something.",
-        "B. Tools for making products.",
-        "C. Types of plastic waste.",
-        "D. Methods of recycling."
-      ],
-      "correct_answer": "A",
-      "explanation": "词义猜测题。根据第三段'These components can then be used to make new plastic products'可知，这些components可以用来制造新产品，推断其意为'成分、组成部分'。component=part/element。",
-      "label": "阅读-词义猜测",
+      "difficulty": 2,
       "group": "reading_1",
-      "group_passage": "Plastic pollution is one of the biggest environmental problems we face today. Every year, millions of tons of plastic waste end up in our oceans, harming marine life (海洋生物) and ecosystems. However, a new technology developed by a team of scientists might offer a solution.\n\nThe team has created a special enzyme (酶) that can break down plastic bottles in just a few hours. Traditional recycling methods often take months to degrade (降解) plastic. This new enzyme works much faster and can be used repeatedly. \"It's like having a super-powered recycling machine,\" says Dr. Zhang, the lead researcher.\n\nThe process is surprisingly simple. First, the plastic is heated to make it soft. Then, the enzyme is added. Within hours, the plastic turns into its original chemical components (成分). These components can then be used to make new plastic products. This means we could create a circular economy where plastic is continuously reused instead of being thrown away.\n\nHowever, some experts warn that this technology is not a magic fix. \"We still need to reduce our plastic use,\" says environmentalist Liu Wei. \"No matter how good the recycling technology is, producing less waste is always better.\"\n\nDespite these concerns, the discovery gives hope for a cleaner future. If this technology can be widely used, it could significantly reduce the amount of plastic waste in our environment. The team is now working with companies to make the process more affordable for large-scale use."
+      "group_passage": "Smart Habits for Digital Life\n\nIn today's world, digital devices have become an important part of our daily life. However, using them wisely is crucial for our health and study. Here are some tips from Dr. Chen, a scientist who studies technology's impact on teenagers.\n\nFirst, take regular breaks. Dr. Chen suggests following the \"20-20-20\" rule: every 20 minutes, look at something 20 feet away for at least 20 seconds. This helps reduce eye strain (疲劳) caused by staring at screens for too long.\n\nSecond, set a \"digital curfew\" (宵禁). Many students like to check their phones before sleeping, but the blue light from screens can make it harder to fall asleep. Dr. Chen recommends putting devices away at least one hour before bedtime. Instead, try reading a paper book or doing meditation (冥想).\n\nThird, use technology for learning. There are many educational apps that can help us study more efficiently. However, we should be careful not to get distracted by games or social media when using these tools.\n\n\"Technology is neither good nor bad,\" says Dr. Chen. \"It depends on how we use it. If we develop healthy digital habits now, we will benefit from technology throughout our lives.\"",
+      "stem": "What does the word \"distracted\" in Paragraph 4 probably mean?",
+      "options": [
+        "A. 受限制的",
+        "B. 受训练的",
+        "C. 分心的",
+        "D. 受保护的"
+      ],
+      "correct_answer": "C",
+      "explanation": "词义猜测题。根据上下文'use technology for learning'（用科技学习）和'by games or social media'（被游戏或社交媒体），可推断distracted意为'使分心'。学习时如果不小心，就会被游戏和社交媒体分散注意力。技巧：根据上下文逻辑，学习工具与游戏/社交媒体是竞争关系，后者会干扰前者，故为'分心'。",
+      "label": "阅读-词义猜测"
     },
     {
       "id": 16,
       "type": "reading",
       "knowledge_point": "main_idea",
       "difficulty": 2,
+      "group": "reading_1",
+      "group_passage": "Smart Habits for Digital Life\n\nIn today's world, digital devices have become an important part of our daily life. However, using them wisely is crucial for our health and study. Here are some tips from Dr. Chen, a scientist who studies technology's impact on teenagers.\n\nFirst, take regular breaks. Dr. Chen suggests following the \"20-20-20\" rule: every 20 minutes, look at something 20 feet away for at least 20 seconds. This helps reduce eye strain (疲劳) caused by staring at screens for too long.\n\nSecond, set a \"digital curfew\" (宵禁). Many students like to check their phones before sleeping, but the blue light from screens can make it harder to fall asleep. Dr. Chen recommends putting devices away at least one hour before bedtime. Instead, try reading a paper book or doing meditation (冥想).\n\nThird, use technology for learning. There are many educational apps that can help us study more efficiently. However, we should be careful not to get distracted by games or social media when using these tools.\n\n\"Technology is neither good nor bad,\" says Dr. Chen. \"It depends on how we use it. If we develop healthy digital habits now, we will benefit from technology throughout our lives.\"",
       "stem": "What is the best title for this passage?",
       "options": [
-        "A. The History of Plastic Invention",
-        "B. How to Reduce Plastic Use",
-        "C. New Hope for Plastic Recycling",
-        "D. The Dangers of Marine Life"
+        "A. The History of Digital Devices",
+        "B. Smart Habits for Digital Life",
+        "C. The Dangers of Using Technology",
+        "D. How to Make Digital Devices"
       ],
-      "correct_answer": "C",
-      "explanation": "主旨大意题。文章主要介绍了一种能快速分解塑料的新酶技术，为塑料回收带来新希望。A塑料发明史，偏离主题；B如何减少使用，只是文末提及；D海洋生物危险，只是开头背景。C选项准确概括了文章核心——新技术给塑料回收带来希望。",
-      "label": "阅读-主旨大意",
-      "group": "reading_1",
-      "group_passage": "Plastic pollution is one of the biggest environmental problems we face today. Every year, millions of tons of plastic waste end up in our oceans, harming marine life (海洋生物) and ecosystems. However, a new technology developed by a team of scientists might offer a solution.\n\nThe team has created a special enzyme (酶) that can break down plastic bottles in just a few hours. Traditional recycling methods often take months to degrade (降解) plastic. This new enzyme works much faster and can be used repeatedly. \"It's like having a super-powered recycling machine,\" says Dr. Zhang, the lead researcher.\n\nThe process is surprisingly simple. First, the plastic is heated to make it soft. Then, the enzyme is added. Within hours, the plastic turns into its original chemical components (成分). These components can then be used to make new plastic products. This means we could create a circular economy where plastic is continuously reused instead of being thrown away.\n\nHowever, some experts warn that this technology is not a magic fix. \"We still need to reduce our plastic use,\" says environmentalist Liu Wei. \"No matter how good the recycling technology is, producing less waste is always better.\"\n\nDespite these concerns, the discovery gives hope for a cleaner future. If this technology can be widely used, it could significantly reduce the amount of plastic waste in our environment. The team is now working with companies to make the process more affordable for large-scale use."
+      "correct_answer": "B",
+      "explanation": "主旨大意题。文章开头即点明主旨'using them wisely is crucial'，随后分三点介绍健康使用数字设备的建议，最后总结要培养健康习惯。B选项'数字生活的聪明习惯'准确概括全文。A选项'数字设备的历史'未提及；C选项'使用科技的危险'过于负面，文章是建议而非恐吓；D选项'如何制作数字设备'与内容无关。技巧：找首尾段主题句，关注重复出现的关键词（habits, wisely, healthy）。",
+      "label": "阅读-主旨大意"
     },
     {
       "id": 17,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "stem": "(16)______",
-      "options": [
-        "A. However, drinking too much coffee is bad for you.",
-        "B. Then, remember to stay hydrated.",
-        "C. Even 30 minutes of activity can make a difference.",
-        "D. This means you should avoid too much junk food like burgers and chips.",
-        "E. Going to bed early helps you wake up refreshed and ready to learn."
-      ],
-      "correct_answer": "E",
-      "explanation": "前文提到睡眠，E选项'早睡帮助你神清气爽地醒来并准备好学习'承接上文。后文'Without enough rest'也与E选项形成呼应。",
-      "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Many teenagers want to stay healthy, but they don't know where to start. Here are some simple tips that can help you develop healthy habits.\n\nFirst, try to get enough sleep. Most teenagers need about 8-10 hours of sleep each night. (16)______ Without enough rest, you will feel tired and find it hard to concentrate in class.\n\nSecond, eat a balanced diet. (17)______ Instead, choose fruits, vegetables and whole grains. These foods give you energy and help your body grow strong.\n\nThird, exercise regularly. You don't need to run a marathon. (18)______ Walking to school, playing basketball, or even dancing in your room counts. The key is to move your body every day.\n\n(19)______ Drinking enough water helps your skin look good and keeps your brain working well. Try to drink at least 8 glasses of water a day.\n\nBy following these simple steps, you can improve your health and feel better every day."
+      "group_passage": "Having a good daily routine is important for middle school students. It helps us manage time better and reduces stress. Here are some suggestions for improving your school life.\n\n(17)______ Try to go to bed before 10:30 p.m. and wake up at 6:30 a.m. This ensures you get 8 hours of sleep, which is necessary for teenagers.\n\n(18)______ Don't just memorize facts. Try to understand the main ideas and connect new knowledge with what you already know. Taking notes in class is also helpful.\n\n(19)______ Physical exercise not only keeps you healthy but also improves your concentration. You can play basketball, run, or simply take a walk after school.\n\nFinally, don't forget to communicate with your parents and friends. (20)______ Sharing your feelings can help you deal with pressure and feel more supported.",
+      "stem": "(17)______",
+      "options": [
+        "A. First, keep a regular sleep schedule.",
+        "B. Then, find a quiet place to study.",
+        "C. Second, develop effective study habits.",
+        "D. Besides, take exercise regularly.",
+        "E. In this way, you can build stronger relationships."
+      ],
+      "correct_answer": "A",
+      "explanation": "考查段落衔接。空后内容讲的是晚上10:30前睡觉、早上6:30起床、保证8小时睡眠，这些都是关于睡眠规律的。A选项'首先，保持规律的睡眠时间表'与之匹配。B选项提到学习地点，与该段睡眠主题不符；C是学习习惯；D是锻炼；E是建立关系。注意段落结构词First, Second等的使用。",
+      "label": "短文填空"
     },
     {
       "id": 18,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "stem": "(17)______",
-      "options": [
-        "A. However, drinking too much coffee is bad for you.",
-        "B. Then, remember to stay hydrated.",
-        "C. Even 30 minutes of activity can make a difference.",
-        "D. This means you should avoid too much junk food like burgers and chips.",
-        "E. Going to bed early helps you wake up refreshed and ready to learn."
-      ],
-      "correct_answer": "D",
-      "explanation": "本段主题是'均衡饮食'，D选项'这意味着你应该避免太多垃圾食品如汉堡和薯条'符合主题。后文'Instead, choose fruits...'与D选项形成对比转折关系。",
-      "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Many teenagers want to stay healthy, but they don't know where to start. Here are some simple tips that can help you develop healthy habits.\n\nFirst, try to get enough sleep. Most teenagers need about 8-10 hours of sleep each night. (16)______ Without enough rest, you will feel tired and find it hard to concentrate in class.\n\nSecond, eat a balanced diet. (17)______ Instead, choose fruits, vegetables and whole grains. These foods give you energy and help your body grow strong.\n\nThird, exercise regularly. You don't need to run a marathon. (18)______ Walking to school, playing basketball, or even dancing in your room counts. The key is to move your body every day.\n\n(19)______ Drinking enough water helps your skin look good and keeps your brain working well. Try to drink at least 8 glasses of water a day.\n\nBy following these simple steps, you can improve your health and feel better every day."
+      "group_passage": "Having a good daily routine is important for middle school students. It helps us manage time better and reduces stress. Here are some suggestions for improving your school life.\n\n(17)______ Try to go to bed before 10:30 p.m. and wake up at 6:30 a.m. This ensures you get 8 hours of sleep, which is necessary for teenagers.\n\n(18)______ Don't just memorize facts. Try to understand the main ideas and connect new knowledge with what you already know. Taking notes in class is also helpful.\n\n(19)______ Physical exercise not only keeps you healthy but also improves your concentration. You can play basketball, run, or simply take a walk after school.\n\nFinally, don't forget to communicate with your parents and friends. (20)______ Sharing your feelings can help you deal with pressure and feel more supported.",
+      "stem": "(18)______",
+      "options": [
+        "A. First, keep a regular sleep schedule.",
+        "B. Then, find a quiet place to study.",
+        "C. Second, develop effective study habits.",
+        "D. Besides, take exercise regularly.",
+        "E. In this way, you can build stronger relationships."
+      ],
+      "correct_answer": "C",
+      "explanation": "考查段落衔接。空后内容讲的是不要死记硬背、要理解主旨、联系旧知识、记笔记，这些都是学习方法。C选项'第二，培养有效的学习习惯'与之匹配。注意段落结构词：前文有First，此处用Second形成顺序。A已被选用；B未在该段体现；D是运动；E是人际关系。",
+      "label": "短文填空"
     },
     {
       "id": 19,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "stem": "(18)______",
-      "options": [
-        "A. However, drinking too much coffee is bad for you.",
-        "B. Then, remember to stay hydrated.",
-        "C. Even 30 minutes of activity can make a difference.",
-        "D. This means you should avoid too much junk food like burgers and chips.",
-        "E. Going to bed early helps you wake up refreshed and ready to learn."
-      ],
-      "correct_answer": "C",
-      "explanation": "本段主题是'锻炼'，前文说'不需要跑马拉松'，C选项'即使30分钟的活动也能带来改变'承接上文，说明少量运动也有用。后文列举的步行、打篮球等活动也印证了这一点。",
-      "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Many teenagers want to stay healthy, but they don't know where to start. Here are some simple tips that can help you develop healthy habits.\n\nFirst, try to get enough sleep. Most teenagers need about 8-10 hours of sleep each night. (16)______ Without enough rest, you will feel tired and find it hard to concentrate in class.\n\nSecond, eat a balanced diet. (17)______ Instead, choose fruits, vegetables and whole grains. These foods give you energy and help your body grow strong.\n\nThird, exercise regularly. You don't need to run a marathon. (18)______ Walking to school, playing basketball, or even dancing in your room counts. The key is to move your body every day.\n\n(19)______ Drinking enough water helps your skin look good and keeps your brain working well. Try to drink at least 8 glasses of water a day.\n\nBy following these simple steps, you can improve your health and feel better every day."
+      "group_passage": "Having a good daily routine is important for middle school students. It helps us manage time better and reduces stress. Here are some suggestions for improving your school life.\n\n(17)______ Try to go to bed before 10:30 p.m. and wake up at 6:30 a.m. This ensures you get 8 hours of sleep, which is necessary for teenagers.\n\n(18)______ Don't just memorize facts. Try to understand the main ideas and connect new knowledge with what you already know. Taking notes in class is also helpful.\n\n(19)______ Physical exercise not only keeps you healthy but also improves your concentration. You can play basketball, run, or simply take a walk after school.\n\nFinally, don't forget to communicate with your parents and friends. (20)______ Sharing your feelings can help you deal with pressure and feel more supported.",
+      "stem": "(19)______",
+      "options": [
+        "A. First, keep a regular sleep schedule.",
+        "B. Then, find a quiet place to study.",
+        "C. Second, develop effective study habits.",
+        "D. Besides, take exercise regularly.",
+        "E. In this way, you can build stronger relationships."
+      ],
+      "correct_answer": "D",
+      "explanation": "考查段落衔接。空后内容讲的是体育锻炼不仅保持健康还能提高专注力，可以打篮球、跑步或散步。D选项'此外，定期锻炼'与之匹配。Besides表示补充关系，用于列举另一条建议。A、C已用；B未体现；E是人际关系。",
+      "label": "短文填空"
     },
     {
       "id": 20,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "stem": "(19)______",
-      "options": [
-        "A. However, drinking too much coffee is bad for you.",
-        "B. Then, remember to stay hydrated.",
-        "C. Even 30 minutes of activity can make a difference.",
-        "D. This means you should avoid too much junk food like burgers and chips.",
-        "E. Going to bed early helps you wake up refreshed and ready to learn."
-      ],
-      "correct_answer": "B",
-      "explanation": "后文提到'喝足够的水帮助你的皮肤看起来好并让大脑运转良好'，可知本段主题是'补水'。B选项'Then, remember to stay hydrated（保持水分充足）'作为段落主题句最合适。A选项虽然提到喝，但是关于咖啡，与后文水无关。",
-      "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Many teenagers want to stay healthy, but they don't know where to start. Here are some simple tips that can help you develop healthy habits.\n\nFirst, try to get enough sleep. Most teenagers need about 8-10 hours of sleep each night. (16)______ Without enough rest, you will feel tired and find it hard to concentrate in class.\n\nSecond, eat a balanced diet. (17)______ Instead, choose fruits, vegetables and whole grains. These foods give you energy and help your body grow strong.\n\nThird, exercise regularly. You don't need to run a marathon. (18)______ Walking to school, playing basketball, or even dancing in your room counts. The key is to move your body every day.\n\n(19)______ Drinking enough water helps your skin look good and keeps your brain working well. Try to drink at least 8 glasses of water a day.\n\nBy following these simple steps, you can improve your health and feel better every day."
+      "group_passage": "Having a good daily routine is important for middle school students. It helps us manage time better and reduces stress. Here are some suggestions for improving your school life.\n\n(17)______ Try to go to bed before 10:30 p.m. and wake up at 6:30 a.m. This ensures you get 8 hours of sleep, which is necessary for teenagers.\n\n(18)______ Don't just memorize facts. Try to understand the main ideas and connect new knowledge with what you already know. Taking notes in class is also helpful.\n\n(19)______ Physical exercise not only keeps you healthy but also improves your concentration. You can play basketball, run, or simply take a walk after school.\n\nFinally, don't forget to communicate with your parents and friends. (20)______ Sharing your feelings can help you deal with pressure and feel more supported.",
+      "stem": "(20)______",
+      "options": [
+        "A. First, keep a regular sleep schedule.",
+        "B. Then, find a quiet place to study.",
+        "C. Second, develop effective study habits.",
+        "D. Besides, take exercise regularly.",
+        "E. In this way, you can build stronger relationships."
+      ],
+      "correct_answer": "E",
+      "explanation": "考查段落衔接。空前讲与父母朋友交流，空后讲分享感受有助于应对压力。E选项'这样，你可以建立更牢固的关系'承上启下，说明交流沟通的结果。In this way指代前文的'communicate with your parents and friends'。A、C、D已用；B是干扰项（安静的学习地点未在文中提及）。",
+      "label": "短文填空"
     }
   ]
 }
