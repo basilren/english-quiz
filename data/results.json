@@ -487,60 +487,6 @@
   ],
   "errors": [
     {
-      "date": "2026-06-15",
-      "session": 1,
-      "question_id": 7,
-      "type": "vocabulary",
-      "knowledge_point": "word_meaning_context",
-      "label": "词汇题",
-      "stem": "If you are ______ with your current score, you should work harder to get a better one next time.",
-      "options": [
-        "A. exciting",
-        "B. satisfied",
-        "C. interesting",
-        "D. surprised"
-      ],
-      "correct_answer": "B",
-      "student_answer": "A",
-      "explanation": "be satisfied with是固定搭配，意为对……满意。根据后半句work harder（更努力），可推断前半句是指如果对现状满意。exciting（令人兴奋的）和interesting（有趣的）修饰物；surprised（惊讶的）与语境不符。"
-    },
-    {
-      "date": "2026-06-15",
-      "session": 1,
-      "question_id": 14,
-      "type": "reading",
-      "knowledge_point": "inference",
-      "label": "阅读-推理判断",
-      "stem": "What can we infer from Dr. Li Ming's words in Paragraph 3?",
-      "options": [
-        "A. Students should study harder to avoid eye problems.",
-        "B. Small regular breaks are beneficial for eye health.",
-        "C. Eye problems cannot be prevented by any rules.",
-        "D. Working for hours without rest improves study efficiency."
-      ],
-      "correct_answer": "B",
-      "student_answer": "D",
-      "explanation": "推理判断题。根据第三段Dr. Li的话可知，连续工作数小时不休息是有害的，而20-20-20规则虽然每次只花20秒，但长期坚持有很大作用。由此可推断，规律的小休息对眼睛有益。A选项未提及；C选项与文意相反；D选项与文意相反（harmful）。"
-    },
-    {
-      "date": "2026-06-15",
-      "session": 1,
-      "question_id": 15,
-      "type": "reading",
-      "knowledge_point": "word_guessing_context",
-      "label": "阅读理解",
-      "stem": "What does the word \"strain\" in Paragraph 2 probably mean?",
-      "options": [
-        "A. 力量",
-        "B. 疲劳",
-        "C. 视力",
-        "D. 压力"
-      ],
-      "correct_answer": "B",
-      "student_answer": "C",
-      "explanation": "词义猜测题。根据上下文，长时间看屏幕后眼睛肌肉需要放松（relax），可推断strain指眼睛疲劳。且后文第四段提到dry eyes and headaches（干眼和头痛），都是眼疲劳的症状。因此strain意为疲劳。"
-    },
-    {
       "date": "2026-06-16",
       "session": 1,
       "question_id": 14,

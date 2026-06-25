@@ -1,5 +1,5 @@
 ﻿{
-  "date": "2026-06-25",
+  "date": "2026-06-26",
   "session_number": 1,
   "questions": [
     {
@@ -7,15 +7,15 @@
       "type": "grammar",
       "knowledge_point": "passive_voice",
       "difficulty": 1,
-      "stem": "The books ______ to the library every Friday afternoon.",
+      "stem": "The new library ______ by the students last month. It looks very modern now.",
       "options": [
-        "A. return",
-        "B. are returned",
-        "C. returned",
-        "D. were returned"
+        "A. is built",
+        "B. was built",
+        "C. built",
+        "D. builds"
       ],
       "correct_answer": "B",
-      "explanation": "本题考查一般现在时的被动语态。主语The books与动词return之间是被动关系（书被归还），且时间状语every Friday afternoon表示习惯性动作，应用一般现在时的被动语态：am/is/are + 过去分词。主语是复数，故用are returned。A是主动语态；C是过去式，主动语态；D是过去时的被动语态，时态不符。",
+      "explanation": "本题考查一般过去时的被动语态。时间状语'last month'表明动作发生在过去，且图书馆是'被建造'的对象，需用被动语态。结构为：was/were + 过去分词。主语library是单数，故用was built。A选项是现在时被动，时态不符；C是主动语态过去式；D是一般现在时主动语态。",
       "label": "语法题"
     },
     {
@@ -23,47 +23,47 @@
       "type": "grammar",
       "knowledge_point": "present_perfect_vs_past_simple",
       "difficulty": 2,
-      "stem": "—Where is Lucy? I haven't seen her for days.\n—She ______ to Beijing. She ______ there three days ago.",
+      "stem": "—______ you ever ______ to the Science Museum? —Yes, I ______ there with my classmates last Sunday.",
       "options": [
-        "A. has gone; went",
-        "B. has been; went",
-        "C. went; has gone",
-        "D. has gone; has gone"
+        "A. Did; go; went",
+        "B. Have; been; went",
+        "C. Have; gone; have been",
+        "D. Do; go; went"
       ],
-      "correct_answer": "A",
-      "explanation": "本题考查现在完成时与一般过去时的区别。第一空：has gone to表示'去了某地（现在不在说话现场）'，has been to表示'去过某地（现在已经回来）'。根据语境，Lucy现在不在这里，应用has gone。第二空：three days ago是明确的过去时间状语，只能用一般过去时went。口诀：'ago用过去，完成看影响'。",
+      "correct_answer": "B",
+      "explanation": "本题考查现在完成时与一般过去时的区别。问句中的'ever'（曾经）是现在完成时的标志词，询问是否有过某种经历，用Have you been to...（去过某地）；答句中的'last Sunday'是明确的过去时间状语，需用一般过去时went。A选项第一空误用助动词Did；C选项第二空have gone表示'去了未回'，不符合语境；D选项时态完全错误。",
       "label": "语法题"
     },
     {
       "id": 3,
       "type": "grammar",
-      "knowledge_point": "relative_clause",
+      "knowledge_point": "relative_clause_who_which",
       "difficulty": 2,
-      "stem": "The student ______ won the English speech contest is from Class 8.",
+      "stem": "The girl ______ won the first prize in the English speech contest is my deskmate. She practiced very hard.",
       "options": [
-        "A. who",
-        "B. which",
-        "C. whom",
+        "A. which",
+        "B. whom",
+        "C. who",
         "D. whose"
       ],
-      "correct_answer": "A",
-      "explanation": "本题考查定语从句关系代词的选择。先行词The student指人，且在从句中作主语，应用who或that。which指物；whom指人但只能作宾语；whose表示'……的'，作定语。技巧：指人主格用who，宾格用whom，物用which，人和物都可用的that要记熟。",
+      "correct_answer": "C",
+      "explanation": "本题考查定语从句关系代词的选择。先行词是The girl（指人），且关系代词在从句中作主语（won the first prize），故用who。which用于指物；whom用于指人但在从句中作宾语；whose表示'...的'，在从句中作定语。根据句子结构，从句缺少主语，且指人，因此选who。",
       "label": "语法题"
     },
     {
       "id": 4,
       "type": "grammar",
-      "knowledge_point": "passive_voice",
+      "knowledge_point": "modal_verbs",
       "difficulty": 3,
-      "stem": "The science project ______ finished by next Friday, or we will miss the deadline.",
+      "stem": "—Is that Mr. Wang knocking at the door? —It ______ be him. He has gone to Beijing on business and won't return until next week.",
       "options": [
         "A. must",
-        "B. must be",
-        "C. can",
-        "D. need"
+        "B. might",
+        "C. can't",
+        "D. could"
       ],
-      "correct_answer": "B",
-      "explanation": "本题考查含有情态动词的被动语态。结构为：情态动词 + be + 过去分词。主语The science project与finish是被动关系，且有情态动词must，故用must be finished。A和C缺少be动词，不能构成被动；D.need作为情态动词时通常用于否定句和疑问句，且语义不符。",
+      "correct_answer": "C",
+      "explanation": "本题考查情态动词表推测的用法。根据后文'He has gone to Beijing'（他去北京出差了）可知，敲门的人'不可能'是王老师，表示有把握的否定推测用can't（不可能）。must表示肯定推测'一定是'；might和could表示'可能是'，语气较弱，均不符合语境。解题关键：根据客观事实进行逻辑推理，确定是有把握的否定判断。",
       "label": "语法题"
     },
     {
@@ -71,7 +71,7 @@
       "type": "vocabulary",
       "knowledge_point": "prefix",
       "difficulty": 1,
-      "stem": "If you add the prefix 'un-' to 'happy', you get 'unhappy', meaning 'not happy'. Similarly, if you add 'dis-' to 'agree', you get 'disagree', which means ______.",
+      "stem": "If you add the prefix 'dis-' to the word 'agree', you get a word meaning ______.",
       "options": [
         "A. agree again",
         "B. not agree",
@@ -79,111 +79,111 @@
         "D. partly agree"
       ],
       "correct_answer": "B",
-      "explanation": "本题考查否定前缀。un-和dis-都是常见的否定前缀，表示'不、非'。disagree = dis- (not) + agree，意为'不同意'。常见前缀：un- (unable), dis- (dislike), re- (reuse), im- (impossible)。",
+      "explanation": "本题考查前缀dis-的含义。dis-是常见的否定前缀，表示'不、相反'，如dislike（不喜欢）、disappear（消失）。agree意为'同意'，加dis-后disagree意为'不同意'。A选项're-'前缀表示'再次'；C和D与原词含义不符。掌握常见前缀（un-/dis-/re-/im-）是扩大词汇量的重要方法。",
       "label": "词汇题"
     },
     {
       "id": 6,
       "type": "vocabulary",
-      "knowledge_point": "phrasal_verbs",
+      "knowledge_point": "word_distinction",
       "difficulty": 2,
-      "stem": "When parents are not at home, children should learn to ______ themselves instead of depending on others.",
+      "stem": "The old man lives ______ in the countryside, but he never feels ______ because he has many hobbies.",
       "options": [
-        "A. look for",
-        "B. look after",
-        "C. look up",
-        "D. look at"
+        "A. alone; lonely",
+        "B. lonely; alone",
+        "C. alone; alone",
+        "D. lonely; lonely"
       ],
-      "correct_answer": "B",
-      "explanation": "本题考查短语动词辨析。look after意为'照顾、照料'，符合句意'学会照顾自己'。look for寻找；look up查阅（词典）、向上看；look at看。技巧：after有'跟随、在……之后'的意思，引申为'跟在身后照顾'。",
+      "correct_answer": "A",
+      "explanation": "本题考查alone与lonely的辨析。alone是副词/形容词，强调'独自一人'的客观状态；lonely是形容词，强调'孤独的、寂寞的'主观感受。第一空修饰动词lives，用alone表示'独自居住'；第二空feels后接形容词lonely表示'感到孤独'。B选项混淆了词性和语义；C和D没有体现两者的区别。",
       "label": "词汇题"
     },
     {
       "id": 7,
       "type": "vocabulary",
-      "knowledge_point": "word_meaning",
+      "knowledge_point": "phrasal_verbs",
       "difficulty": 2,
-      "stem": "The weather in Shenzhen is ______ hot in July. The temperature often reaches 35°C or higher.",
+      "stem": "We need to ______ a good idea to solve the environmental problem in our school.",
       "options": [
-        "A. quite",
-        "B. quietly",
-        "C. quick",
-        "D. quiet"
+        "A. look for",
+        "B. come up with",
+        "C. find out",
+        "D. think about"
       ],
-      "correct_answer": "A",
-      "explanation": "本题考查词义辨析。quite是副词，意为'相当、很'，修饰形容词hot。quietly安静地（副词）；quick快速的（形容词）；quiet安静的（形容词）。技巧：quite和quiet只有一个字母之差，但quite中'e'在前，可联想为'程度相当'；quiet中'et'在后，可联想为'安静的结束'。",
+      "correct_answer": "B",
+      "explanation": "本题考查动词短语辨析。come up with意为'想出、提出（主意、计划等）'，后接idea/solution/plan等，符合句意'想出一个好主意'。look for强调'寻找'具体物品；find out强调'查明、发现'真相或信息；think about意为'考虑'，但不强调'想出'的结果。根据宾语'a good idea'，come up with是最佳搭配。",
       "label": "词汇题"
     },
     {
       "id": 8,
       "type": "cloze",
-      "knowledge_point": "cloze_context",
-      "difficulty": 1,
+      "knowledge_point": "cloze_general",
+      "difficulty": 2,
       "group": "cloze_1",
-      "group_passage": "Last term, our science teacher Mr. Wang asked us to work on a project about renewable energy. My classmates and I decided to (8)______ a model of a wind turbine.\n\nAt first, we thought it would be easy. We collected some materials from home, such as plastic bottles and cardboard. However, when we started (9)______, we faced many problems. The blades of our turbine wouldn't spin properly no matter how hard we tried.\n\nJust when we wanted to give up, Mr. Wang came to help us. He (10)______ that the angle of the blades was wrong. After adjusting them carefully, our turbine finally worked! We were so excited that we cheered loudly.\n\nThis project taught us an important lesson: failure is not the end. (11)______, it is a chance to learn and improve. We also realized that teamwork is essential when facing (12)______. Without everyone's effort, we couldn't have finished the project successfully.\n\nNow, our model is displayed in the school science hall.",
+      "group_passage": "Last month, our school (8)______ an Environmental Protection Club to help students learn more about environmental issues. As an active member, I was excited to take part in our first big activity — cleaning up the city park near our school.\n\nWhen we arrived at the park early last Saturday morning, we were shocked (9)______ so much rubbish everywhere. Plastic bottles, paper bags, and food packages were scattered on the grass and under the trees. The beautiful park looked messy and unattractive.\n\nWe were quickly divided into three groups to work more efficiently. Group One was responsible (10)______ collecting recyclable waste like bottles and cans. Group Two picked up general rubbish. My group focused on educating visitors about the importance of keeping public places clean.\n\nAt first, some visitors didn't understand why we were doing this. One middle-aged man even threw a plastic bottle on the ground right after we cleaned that area. I walked over politely and (11)______ that a clean environment benefits everyone in the community. To my surprise, he immediately picked up the bottle and apologized for his behavior.\n\nBy noon, we had collected over 50 bags of rubbish. Although we felt tired and hungry, we were proud (12)______ what we had achieved. This meaningful experience taught me that small actions can make a big difference to our world.",
       "stem": "(8)______",
       "options": [
-        "A. buy",
-        "B. make",
-        "C. draw",
-        "D. find"
+        "A. sets up",
+        "B. set up",
+        "C. has set up",
+        "D. was set up"
       ],
       "correct_answer": "B",
-      "explanation": "根据上下文，老师要求做关于可再生能源的项目，后面提到收集材料（plastic bottles and cardboard），应该是'制作'一个风力涡轮机模型。make a model是固定搭配。buy（买）与收集材料制作不符；draw（画）和find（找）与后文的制作细节不符。",
+      "explanation": "本题考查动词时态。时间状语'Last month'表明动作发生在过去，应用一般过去时。set的过去式仍是set。A是一般现在时；C是现在完成时；D是被动语态，但学校主动建立俱乐部，非被动，且主语school与set up是主动关系。",
       "label": "完形填空"
     },
     {
       "id": 9,
       "type": "cloze",
-      "knowledge_point": "cloze_context",
+      "knowledge_point": "cloze_general",
       "difficulty": 2,
       "group": "cloze_1",
-      "group_passage": "Last term, our science teacher Mr. Wang asked us to work on a project about renewable energy. My classmates and I decided to (8)______ a model of a wind turbine.\n\nAt first, we thought it would be easy. We collected some materials from home, such as plastic bottles and cardboard. However, when we started (9)______, we faced many problems. The blades of our turbine wouldn't spin properly no matter how hard we tried.\n\nJust when we wanted to give up, Mr. Wang came to help us. He (10)______ that the angle of the blades was wrong. After adjusting them carefully, our turbine finally worked! We were so excited that we cheered loudly.\n\nThis project taught us an important lesson: failure is not the end. (11)______, it is a chance to learn and improve. We also realized that teamwork is essential when facing (12)______. Without everyone's effort, we couldn't have finished the project successfully.\n\nNow, our model is displayed in the school science hall.",
+      "group_passage": "Last month, our school (8)______ an Environmental Protection Club to help students learn more about environmental issues. As an active member, I was excited to take part in our first big activity — cleaning up the city park near our school.\n\nWhen we arrived at the park early last Saturday morning, we were shocked (9)______ so much rubbish everywhere. Plastic bottles, paper bags, and food packages were scattered on the grass and under the trees. The beautiful park looked messy and unattractive.\n\nWe were quickly divided into three groups to work more efficiently. Group One was responsible (10)______ collecting recyclable waste like bottles and cans. Group Two picked up general rubbish. My group focused on educating visitors about the importance of keeping public places clean.\n\nAt first, some visitors didn't understand why we were doing this. One middle-aged man even threw a plastic bottle on the ground right after we cleaned that area. I walked over politely and (11)______ that a clean environment benefits everyone in the community. To my surprise, he immediately picked up the bottle and apologized for his behavior.\n\nBy noon, we had collected over 50 bags of rubbish. Although we felt tired and hungry, we were proud (12)______ what we had achieved. This meaningful experience taught me that small actions can make a big difference to our world.",
       "stem": "(9)______",
       "options": [
-        "A. building",
-        "B. playing",
-        "C. resting",
-        "D. discussing"
+        "A. see",
+        "B. seeing",
+        "C. to see",
+        "D. seen"
       ],
-      "correct_answer": "A",
-      "explanation": "前文提到收集材料制作模型，此处应该是开始'建造/制作'。start doing sth.，building表示建造，符合语境。playing（玩）、resting（休息）与制作模型的严肃过程不符；discussing（讨论）虽然可能发生在制作前，但后文说'遇到问题'，更可能是实际动手制作时遇到的问题。",
+      "correct_answer": "C",
+      "explanation": "本题考查非谓语动词固定搭配。be shocked to do sth.是固定结构，表示'震惊地做某事/看到...而震惊'，其中动词不定式作原因状语。be shocked at/by后接名词，但此处后接句子so much rubbish，需用to see。A是动词原形；B是现在分词；D是过去分词，均不符合该固定搭配。",
       "label": "完形填空"
     },
     {
       "id": 10,
       "type": "cloze",
-      "knowledge_point": "cloze_logic",
-      "difficulty": 2,
+      "knowledge_point": "cloze_general",
+      "difficulty": 1,
       "group": "cloze_1",
-      "group_passage": "Last term, our science teacher Mr. Wang asked us to work on a project about renewable energy. My classmates and I decided to (8)______ a model of a wind turbine.\n\nAt first, we thought it would be easy. We collected some materials from home, such as plastic bottles and cardboard. However, when we started (9)______, we faced many problems. The blades of our turbine wouldn't spin properly no matter how hard we tried.\n\nJust when we wanted to give up, Mr. Wang came to help us. He (10)______ that the angle of the blades was wrong. After adjusting them carefully, our turbine finally worked! We were so excited that we cheered loudly.\n\nThis project taught us an important lesson: failure is not the end. (11)______, it is a chance to learn and improve. We also realized that teamwork is essential when facing (12)______. Without everyone's effort, we couldn't have finished the project successfully.\n\nNow, our model is displayed in the school science hall.",
+      "group_passage": "Last month, our school (8)______ an Environmental Protection Club to help students learn more about environmental issues. As an active member, I was excited to take part in our first big activity — cleaning up the city park near our school.\n\nWhen we arrived at the park early last Saturday morning, we were shocked (9)______ so much rubbish everywhere. Plastic bottles, paper bags, and food packages were scattered on the grass and under the trees. The beautiful park looked messy and unattractive.\n\nWe were quickly divided into three groups to work more efficiently. Group One was responsible (10)______ collecting recyclable waste like bottles and cans. Group Two picked up general rubbish. My group focused on educating visitors about the importance of keeping public places clean.\n\nAt first, some visitors didn't understand why we were doing this. One middle-aged man even threw a plastic bottle on the ground right after we cleaned that area. I walked over politely and (11)______ that a clean environment benefits everyone in the community. To my surprise, he immediately picked up the bottle and apologized for his behavior.\n\nBy noon, we had collected over 50 bags of rubbish. Although we felt tired and hungry, we were proud (12)______ what we had achieved. This meaningful experience taught me that small actions can make a big difference to our world.",
       "stem": "(10)______",
       "options": [
-        "A. guessed",
-        "B. promised",
-        "C. explained",
-        "D. dreamed"
+        "A. for",
+        "B. with",
+        "C. of",
+        "D. by"
       ],
-      "correct_answer": "C",
-      "explanation": "老师来帮忙，应该是'解释'问题所在（叶片角度错了）。explained（解释）符合语境。guessed（猜测）不够确定；promised（承诺）与指出问题无关；dreamed（梦想）不符合。此处体现老师指导学生解决问题的过程。",
+      "correct_answer": "A",
+      "explanation": "本题考查固定短语搭配。be responsible for是固定搭配，意为'对...负责'，后接名词或动名词。句意：第一组负责收集可回收垃圾。with、of、by均不与responsible构成此含义的搭配。",
       "label": "完形填空"
     },
     {
       "id": 11,
       "type": "cloze",
-      "knowledge_point": "cloze_logic",
+      "knowledge_point": "cloze_general",
       "difficulty": 2,
       "group": "cloze_1",
-      "group_passage": "Last term, our science teacher Mr. Wang asked us to work on a project about renewable energy. My classmates and I decided to (8)______ a model of a wind turbine.\n\nAt first, we thought it would be easy. We collected some materials from home, such as plastic bottles and cardboard. However, when we started (9)______, we faced many problems. The blades of our turbine wouldn't spin properly no matter how hard we tried.\n\nJust when we wanted to give up, Mr. Wang came to help us. He (10)______ that the angle of the blades was wrong. After adjusting them carefully, our turbine finally worked! We were so excited that we cheered loudly.\n\nThis project taught us an important lesson: failure is not the end. (11)______, it is a chance to learn and improve. We also realized that teamwork is essential when facing (12)______. Without everyone's effort, we couldn't have finished the project successfully.\n\nNow, our model is displayed in the school science hall.",
+      "group_passage": "Last month, our school (8)______ an Environmental Protection Club to help students learn more about environmental issues. As an active member, I was excited to take part in our first big activity — cleaning up the city park near our school.\n\nWhen we arrived at the park early last Saturday morning, we were shocked (9)______ so much rubbish everywhere. Plastic bottles, paper bags, and food packages were scattered on the grass and under the trees. The beautiful park looked messy and unattractive.\n\nWe were quickly divided into three groups to work more efficiently. Group One was responsible (10)______ collecting recyclable waste like bottles and cans. Group Two picked up general rubbish. My group focused on educating visitors about the importance of keeping public places clean.\n\nAt first, some visitors didn't understand why we were doing this. One middle-aged man even threw a plastic bottle on the ground right after we cleaned that area. I walked over politely and (11)______ that a clean environment benefits everyone in the community. To my surprise, he immediately picked up the bottle and apologized for his behavior.\n\nBy noon, we had collected over 50 bags of rubbish. Although we felt tired and hungry, we were proud (12)______ what we had achieved. This meaningful experience taught me that small actions can make a big difference to our world.",
       "stem": "(11)______",
       "options": [
-        "A. Instead",
-        "B. However",
-        "C. Therefore",
-        "D. Besides"
+        "A. spoke",
+        "B. told",
+        "C. explained",
+        "D. talked"
       ],
-      "correct_answer": "A",
-      "explanation": "考查逻辑关系。前句说'失败不是终点'，后句说'它是学习和提高的机会'，前后是转折替代关系，用Instead（相反、反而）。However虽然也表示转折，但通常引出对比内容；Instead强调'不是前者，而是后者'，更符合'失败不是结束，而是机会'的对比关系。Therefore因此；Besides此外。",
+      "correct_answer": "C",
+      "explanation": "本题考查动词词义辨析及用法。explain意为'解释'，后可接that引导的宾语从句，符合语境'我走过去礼貌地解释...'。speak后常接语言或作不及物动词；tell后需接双宾语（tell sb. sth.）；talk是不及物动词，后接about/with。空格后直接跟that从句，只有explained符合语法和语义。",
       "label": "完形填空"
     },
     {
@@ -192,16 +192,16 @@
       "knowledge_point": "cloze_general",
       "difficulty": 1,
       "group": "cloze_1",
-      "group_passage": "Last term, our science teacher Mr. Wang asked us to work on a project about renewable energy. My classmates and I decided to (8)______ a model of a wind turbine.\n\nAt first, we thought it would be easy. We collected some materials from home, such as plastic bottles and cardboard. However, when we started (9)______, we faced many problems. The blades of our turbine wouldn't spin properly no matter how hard we tried.\n\nJust when we wanted to give up, Mr. Wang came to help us. He (10)______ that the angle of the blades was wrong. After adjusting them carefully, our turbine finally worked! We were so excited that we cheered loudly.\n\nThis project taught us an important lesson: failure is not the end. (11)______, it is a chance to learn and improve. We also realized that teamwork is essential when facing (12)______. Without everyone's effort, we couldn't have finished the project successfully.\n\nNow, our model is displayed in the school science hall.",
+      "group_passage": "Last month, our school (8)______ an Environmental Protection Club to help students learn more about environmental issues. As an active member, I was excited to take part in our first big activity — cleaning up the city park near our school.\n\nWhen we arrived at the park early last Saturday morning, we were shocked (9)______ so much rubbish everywhere. Plastic bottles, paper bags, and food packages were scattered on the grass and under the trees. The beautiful park looked messy and unattractive.\n\nWe were quickly divided into three groups to work more efficiently. Group One was responsible (10)______ collecting recyclable waste like bottles and cans. Group Two picked up general rubbish. My group focused on educating visitors about the importance of keeping public places clean.\n\nAt first, some visitors didn't understand why we were doing this. One middle-aged man even threw a plastic bottle on the ground right after we cleaned that area. I walked over politely and (11)______ that a clean environment benefits everyone in the community. To my surprise, he immediately picked up the bottle and apologized for his behavior.\n\nBy noon, we had collected over 50 bags of rubbish. Although we felt tired and hungry, we were proud (12)______ what we had achieved. This meaningful experience taught me that small actions can make a big difference to our world.",
       "stem": "(12)______",
       "options": [
-        "A. choices",
-        "B. changes",
-        "C. challenges",
-        "D. chances"
+        "A. of",
+        "B. with",
+        "C. for",
+        "D. about"
       ],
-      "correct_answer": "C",
-      "explanation": "考查名词词义辨析。face challenges是固定搭配，意为'面对挑战'。前文提到项目制作中遇到很多困难（problems），这些都是挑战。choices选择；changes变化；chances机会。制作模型的困难应称为challenges（挑战），团队合作用来应对挑战。",
+      "correct_answer": "A",
+      "explanation": "本题考查固定搭配。be proud of是固定短语，意为'为...感到骄傲'，后接名词、代词或what从句。with、for、about均不与proud构成此固定搭配。",
       "label": "完形填空"
     },
     {
@@ -210,16 +210,16 @@
       "knowledge_point": "detail",
       "difficulty": 2,
       "group": "reading_1",
-      "group_passage": "Smart Habits for Digital Life\n\nIn today's world, digital devices have become an important part of our daily life. However, using them wisely is crucial for our health and study. Here are some tips from Dr. Chen, a scientist who studies technology's impact on teenagers.\n\nFirst, take regular breaks. Dr. Chen suggests following the \"20-20-20\" rule: every 20 minutes, look at something 20 feet away for at least 20 seconds. This helps reduce eye strain (疲劳) caused by staring at screens for too long.\n\nSecond, set a \"digital curfew\" (宵禁). Many students like to check their phones before sleeping, but the blue light from screens can make it harder to fall asleep. Dr. Chen recommends putting devices away at least one hour before bedtime. Instead, try reading a paper book or doing meditation (冥想).\n\nThird, use technology for learning. There are many educational apps that can help us study more efficiently. However, we should be careful not to get distracted by games or social media when using these tools.\n\n\"Technology is neither good nor bad,\" says Dr. Chen. \"It depends on how we use it. If we develop healthy digital habits now, we will benefit from technology throughout our lives.\"",
-      "stem": "What is the \"20-20-20\" rule mentioned in Paragraph 2?",
+      "group_passage": "Do you often stay up late to finish your homework? Many students believe that sacrificing sleep time can help them get better grades. However, recent scientific studies show that this idea is completely wrong.\n\nAccording to research from Harvard University, teenagers need at least 8-10 hours of sleep every night. During sleep, the brain processes and stores information learned during the day. Dr. Sarah Chen, a sleep expert, explains: \"When you sleep, your brain is actually working hard to organize your memories. If you don't get enough rest, your brain cannot do this job effectively.\"\n\nLack of sleep also affects your mood and health. Students who sleep less than 6 hours often feel anxious and have trouble concentrating in class. They may experience headaches and get sick more easily. One student named Mike shared his story: \"I used to stay up until midnight studying. But I felt sleepy in exams and couldn't remember answers. After I started sleeping earlier, my grades actually improved.\"\n\nSo what should you do? First, make a study schedule and finish homework during daytime. Second, avoid using smartphones before bed because the blue light makes your brain active. Finally, try to go to bed before 10:30 PM on school nights. Remember, good sleep is not a waste of time — it is an important part of successful learning.",
+      "stem": "According to the passage, how many hours of sleep do teenagers need every night?",
       "options": [
-        "A. A study method for exams",
-        "B. A rule to protect eyes",
-        "C. A way to improve sleep",
-        "D. A tool for online learning"
+        "A. Less than 6 hours",
+        "B. 6-7 hours",
+        "C. At least 8 hours",
+        "D. Only 4-5 hours"
       ],
-      "correct_answer": "B",
-      "explanation": "细节理解题。根据第二段最后一句'This helps reduce eye strain (疲劳) caused by staring at screens for too long'（这有助于减少长时间盯着屏幕造成的眼疲劳），可知这是保护眼睛的规则。A是学习方法；C是改善睡眠（对应第三段）；D是在线学习工具。定位原文关键句是解题关键。",
+      "correct_answer": "C",
+      "explanation": "本题是细节理解题。根据第二段第一句'According to research from Harvard University, teenagers need at least 8-10 hours of sleep every night.'可知，青少年每晚需要至少8-10小时睡眠，C选项'At least 8 hours'符合原文。A选项是睡眠不足的表现；B和D与原文数据不符。做细节题要准确定位关键词'teenagers need'和'sleep'。",
       "label": "阅读-细节理解"
     },
     {
@@ -228,52 +228,52 @@
       "knowledge_point": "inference",
       "difficulty": 3,
       "group": "reading_1",
-      "group_passage": "Smart Habits for Digital Life\n\nIn today's world, digital devices have become an important part of our daily life. However, using them wisely is crucial for our health and study. Here are some tips from Dr. Chen, a scientist who studies technology's impact on teenagers.\n\nFirst, take regular breaks. Dr. Chen suggests following the \"20-20-20\" rule: every 20 minutes, look at something 20 feet away for at least 20 seconds. This helps reduce eye strain (疲劳) caused by staring at screens for too long.\n\nSecond, set a \"digital curfew\" (宵禁). Many students like to check their phones before sleeping, but the blue light from screens can make it harder to fall asleep. Dr. Chen recommends putting devices away at least one hour before bedtime. Instead, try reading a paper book or doing meditation (冥想).\n\nThird, use technology for learning. There are many educational apps that can help us study more efficiently. However, we should be careful not to get distracted by games or social media when using these tools.\n\n\"Technology is neither good nor bad,\" says Dr. Chen. \"It depends on how we use it. If we develop healthy digital habits now, we will benefit from technology throughout our lives.\"",
-      "stem": "What can we infer from Dr. Chen's words in the last paragraph?",
+      "group_passage": "Do you often stay up late to finish your homework? Many students believe that sacrificing sleep time can help them get better grades. However, recent scientific studies show that this idea is completely wrong.\n\nAccording to research from Harvard University, teenagers need at least 8-10 hours of sleep every night. During sleep, the brain processes and stores information learned during the day. Dr. Sarah Chen, a sleep expert, explains: \"When you sleep, your brain is actually working hard to organize your memories. If you don't get enough rest, your brain cannot do this job effectively.\"\n\nLack of sleep also affects your mood and health. Students who sleep less than 6 hours often feel anxious and have trouble concentrating in class. They may experience headaches and get sick more easily. One student named Mike shared his story: \"I used to stay up until midnight studying. But I felt sleepy in exams and couldn't remember answers. After I started sleeping earlier, my grades actually improved.\"\n\nSo what should you do? First, make a study schedule and finish homework during daytime. Second, avoid using smartphones before bed because the blue light makes your brain active. Finally, try to go to bed before 10:30 PM on school nights. Remember, good sleep is not a waste of time — it is an important part of successful learning.",
+      "stem": "What can we infer from Mike's story in Paragraph 3?",
       "options": [
-        "A. Technology will replace traditional learning methods soon.",
-        "B. Students should avoid using digital devices completely.",
-        "C. The effect of technology depends on how users use it.",
-        "D. Only scientists know the correct way to use technology."
+        "A. He didn't like studying before.",
+        "B. He always failed his exams in the past.",
+        "C. Sleeping earlier helped him get better grades.",
+        "D. He stopped using smartphones completely."
       ],
       "correct_answer": "C",
-      "explanation": "推理判断题。根据最后一段Dr. Chen的话'Technology is neither good nor bad... It depends on how we use it'（科技本身不好也不坏，取决于我们如何使用），可推断出C选项'科技的影响取决于使用者如何使用'。A选项'取代传统学习'文中未提；B选项'完全避免使用'与文章鼓励健康使用而非禁止使用的观点相反；D选项'只有科学家知道正确方法'过于绝对，且与原文'我们都能培养健康习惯'不符。",
+      "explanation": "本题是推理判断题。根据第三段Mike的陈述'After I started sleeping earlier, my grades actually improved.'可推断出，早睡帮助他提高了成绩。A选项文中未提及他是否喜欢学习；B选项'always failed'过于绝对，原文只说'couldn't remember answers'；D选项'completely'过于绝对，且文中未提及他是否停止使用手机。推理题要基于原文信息合理推断，避免过度推理或绝对化表述。",
       "label": "阅读-推理判断"
     },
     {
       "id": 15,
       "type": "reading",
-      "knowledge_point": "word_guessing",
+      "knowledge_point": "word_guessing_context",
       "difficulty": 2,
       "group": "reading_1",
-      "group_passage": "Smart Habits for Digital Life\n\nIn today's world, digital devices have become an important part of our daily life. However, using them wisely is crucial for our health and study. Here are some tips from Dr. Chen, a scientist who studies technology's impact on teenagers.\n\nFirst, take regular breaks. Dr. Chen suggests following the \"20-20-20\" rule: every 20 minutes, look at something 20 feet away for at least 20 seconds. This helps reduce eye strain (疲劳) caused by staring at screens for too long.\n\nSecond, set a \"digital curfew\" (宵禁). Many students like to check their phones before sleeping, but the blue light from screens can make it harder to fall asleep. Dr. Chen recommends putting devices away at least one hour before bedtime. Instead, try reading a paper book or doing meditation (冥想).\n\nThird, use technology for learning. There are many educational apps that can help us study more efficiently. However, we should be careful not to get distracted by games or social media when using these tools.\n\n\"Technology is neither good nor bad,\" says Dr. Chen. \"It depends on how we use it. If we develop healthy digital habits now, we will benefit from technology throughout our lives.\"",
-      "stem": "What does the word \"distracted\" in Paragraph 4 probably mean?",
+      "group_passage": "Do you often stay up late to finish your homework? Many students believe that sacrificing sleep time can help them get better grades. However, recent scientific studies show that this idea is completely wrong.\n\nAccording to research from Harvard University, teenagers need at least 8-10 hours of sleep every night. During sleep, the brain processes and stores information learned during the day. Dr. Sarah Chen, a sleep expert, explains: \"When you sleep, your brain is actually working hard to organize your memories. If you don't get enough rest, your brain cannot do this job effectively.\"\n\nLack of sleep also affects your mood and health. Students who sleep less than 6 hours often feel anxious and have trouble concentrating in class. They may experience headaches and get sick more easily. One student named Mike shared his story: \"I used to stay up until midnight studying. But I felt sleepy in exams and couldn't remember answers. After I started sleeping earlier, my grades actually improved.\"\n\nSo what should you do? First, make a study schedule and finish homework during daytime. Second, avoid using smartphones before bed because the blue light makes your brain active. Finally, try to go to bed before 10:30 PM on school nights. Remember, good sleep is not a waste of time — it is an important part of successful learning.",
+      "stem": "What does the word 'sacrificing' in Paragraph 1 probably mean?",
       "options": [
-        "A. 受限制的",
-        "B. 受训练的",
-        "C. 分心的",
-        "D. 受保护的"
+        "A. giving up",
+        "B. enjoying",
+        "C. increasing",
+        "D. changing"
       ],
-      "correct_answer": "C",
-      "explanation": "词义猜测题。根据上下文'use technology for learning'（用科技学习）和'by games or social media'（被游戏或社交媒体），可推断distracted意为'使分心'。学习时如果不小心，就会被游戏和社交媒体分散注意力。技巧：根据上下文逻辑，学习工具与游戏/社交媒体是竞争关系，后者会干扰前者，故为'分心'。",
+      "correct_answer": "A",
+      "explanation": "本题是词义猜测题。根据上下文语境，许多学生认为'牺牲'睡眠时间能帮助取得好成绩，但实际上这是错误的。sacrifice意为'牺牲、放弃'，与give up（放弃）意思最接近。enjoy（享受）、increase（增加）、change（改变）均不符合语境。猜词题可通过同义/反义关系、上下文逻辑（此处有转折However）和构词法来解题。",
       "label": "阅读-词义猜测"
     },
     {
       "id": 16,
       "type": "reading",
-      "knowledge_point": "main_idea",
-      "difficulty": 2,
+      "knowledge_point": "main_idea_title",
+      "difficulty": 3,
       "group": "reading_1",
-      "group_passage": "Smart Habits for Digital Life\n\nIn today's world, digital devices have become an important part of our daily life. However, using them wisely is crucial for our health and study. Here are some tips from Dr. Chen, a scientist who studies technology's impact on teenagers.\n\nFirst, take regular breaks. Dr. Chen suggests following the \"20-20-20\" rule: every 20 minutes, look at something 20 feet away for at least 20 seconds. This helps reduce eye strain (疲劳) caused by staring at screens for too long.\n\nSecond, set a \"digital curfew\" (宵禁). Many students like to check their phones before sleeping, but the blue light from screens can make it harder to fall asleep. Dr. Chen recommends putting devices away at least one hour before bedtime. Instead, try reading a paper book or doing meditation (冥想).\n\nThird, use technology for learning. There are many educational apps that can help us study more efficiently. However, we should be careful not to get distracted by games or social media when using these tools.\n\n\"Technology is neither good nor bad,\" says Dr. Chen. \"It depends on how we use it. If we develop healthy digital habits now, we will benefit from technology throughout our lives.\"",
+      "group_passage": "Do you often stay up late to finish your homework? Many students believe that sacrificing sleep time can help them get better grades. However, recent scientific studies show that this idea is completely wrong.\n\nAccording to research from Harvard University, teenagers need at least 8-10 hours of sleep every night. During sleep, the brain processes and stores information learned during the day. Dr. Sarah Chen, a sleep expert, explains: \"When you sleep, your brain is actually working hard to organize your memories. If you don't get enough rest, your brain cannot do this job effectively.\"\n\nLack of sleep also affects your mood and health. Students who sleep less than 6 hours often feel anxious and have trouble concentrating in class. They may experience headaches and get sick more easily. One student named Mike shared his story: \"I used to stay up until midnight studying. But I felt sleepy in exams and couldn't remember answers. After I started sleeping earlier, my grades actually improved.\"\n\nSo what should you do? First, make a study schedule and finish homework during daytime. Second, avoid using smartphones before bed because the blue light makes your brain active. Finally, try to go to bed before 10:30 PM on school nights. Remember, good sleep is not a waste of time — it is an important part of successful learning.",
       "stem": "What is the best title for this passage?",
       "options": [
-        "A. The History of Digital Devices",
-        "B. Smart Habits for Digital Life",
-        "C. The Dangers of Using Technology",
-        "D. How to Make Digital Devices"
+        "A. How to Finish Homework Quickly",
+        "B. The Importance of Sleep for Students",
+        "C. Bad Habits of Using Smartphones",
+        "D. Harvard University's New Research"
       ],
       "correct_answer": "B",
-      "explanation": "主旨大意题。文章开头即点明主旨'using them wisely is crucial'，随后分三点介绍健康使用数字设备的建议，最后总结要培养健康习惯。B选项'数字生活的聪明习惯'准确概括全文。A选项'数字设备的历史'未提及；C选项'使用科技的危险'过于负面，文章是建议而非恐吓；D选项'如何制作数字设备'与内容无关。技巧：找首尾段主题句，关注重复出现的关键词（habits, wisely, healthy）。",
+      "explanation": "本题是主旨大意题。文章首段指出牺牲睡眠时间的错误观念，第二段讲睡眠对记忆的重要性，第三段讲睡眠不足的危害，第四段给出建议。全文围绕'学生睡眠的重要性'展开。A选项只在最后一段提及；C选项是细节而非主旨；D选项只是论据（哈佛大学研究）而非主题。最佳标题应概括全文核心内容，即睡眠对学生的重要性。",
       "label": "阅读-主旨大意"
     },
     {
@@ -282,17 +282,17 @@
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
       "group": "fill_1",
-      "group_passage": "Having a good daily routine is important for middle school students. It helps us manage time better and reduces stress. Here are some suggestions for improving your school life.\n\n(17)______ Try to go to bed before 10:30 p.m. and wake up at 6:30 a.m. This ensures you get 8 hours of sleep, which is necessary for teenagers.\n\n(18)______ Don't just memorize facts. Try to understand the main ideas and connect new knowledge with what you already know. Taking notes in class is also helpful.\n\n(19)______ Physical exercise not only keeps you healthy but also improves your concentration. You can play basketball, run, or simply take a walk after school.\n\nFinally, don't forget to communicate with your parents and friends. (20)______ Sharing your feelings can help you deal with pressure and feel more supported.",
+      "group_passage": "Many middle school students complain that they don't have enough time for both study and hobbies. (17)______ Here are some useful tips to help you manage your time better.\n\nFirst, make a to-do list every morning. Write down all the tasks you need to complete and put them in order of importance. (18)______ This way, you won't waste time deciding what to do next.\n\nSecond, find your most productive hours. Some people work best in the morning, while others focus better at night. (19)______ Use these hours for your most difficult subjects.\n\nFinally, don't forget to take short breaks. Studying for hours without rest makes you tired and less efficient. (20)______ Then you can return to your work with fresh energy.",
       "stem": "(17)______",
       "options": [
-        "A. First, keep a regular sleep schedule.",
-        "B. Then, find a quiet place to study.",
-        "C. Second, develop effective study habits.",
-        "D. Besides, take exercise regularly.",
-        "E. In this way, you can build stronger relationships."
+        "A. However, with good time management, you can do both well.",
+        "B. Complete the most important tasks first before moving to easier ones.",
+        "C. Identify when you feel most energetic and schedule accordingly.",
+        "D. For example, you can take a 10-minute walk or listen to music.",
+        "E. In addition, you should avoid spending too much time on video games."
       ],
       "correct_answer": "A",
-      "explanation": "考查段落衔接。空后内容讲的是晚上10:30前睡觉、早上6:30起床、保证8小时睡眠，这些都是关于睡眠规律的。A选项'首先，保持规律的睡眠时间表'与之匹配。B选项提到学习地点，与该段睡眠主题不符；C是学习习惯；D是锻炼；E是建立关系。注意段落结构词First, Second等的使用。",
+      "explanation": "本题考查段落衔接与逻辑关系。前句说'许多学生抱怨没有足够时间兼顾学习和爱好'，后句'以下是管理时间的好建议'，中间需要转折过渡，表示'然而，通过良好的时间管理，你可以两者都做好'。However表示转折，承接上文的complain，引出下文的解决方案。B是具体做法；C对应第二段；D对应第三段；E与上下文逻辑不符。",
       "label": "短文填空"
     },
     {
@@ -301,17 +301,17 @@
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
       "group": "fill_1",
-      "group_passage": "Having a good daily routine is important for middle school students. It helps us manage time better and reduces stress. Here are some suggestions for improving your school life.\n\n(17)______ Try to go to bed before 10:30 p.m. and wake up at 6:30 a.m. This ensures you get 8 hours of sleep, which is necessary for teenagers.\n\n(18)______ Don't just memorize facts. Try to understand the main ideas and connect new knowledge with what you already know. Taking notes in class is also helpful.\n\n(19)______ Physical exercise not only keeps you healthy but also improves your concentration. You can play basketball, run, or simply take a walk after school.\n\nFinally, don't forget to communicate with your parents and friends. (20)______ Sharing your feelings can help you deal with pressure and feel more supported.",
+      "group_passage": "Many middle school students complain that they don't have enough time for both study and hobbies. (17)______ Here are some useful tips to help you manage your time better.\n\nFirst, make a to-do list every morning. Write down all the tasks you need to complete and put them in order of importance. (18)______ This way, you won't waste time deciding what to do next.\n\nSecond, find your most productive hours. Some people work best in the morning, while others focus better at night. (19)______ Use these hours for your most difficult subjects.\n\nFinally, don't forget to take short breaks. Studying for hours without rest makes you tired and less efficient. (20)______ Then you can return to your work with fresh energy.",
       "stem": "(18)______",
       "options": [
-        "A. First, keep a regular sleep schedule.",
-        "B. Then, find a quiet place to study.",
-        "C. Second, develop effective study habits.",
-        "D. Besides, take exercise regularly.",
-        "E. In this way, you can build stronger relationships."
+        "A. However, with good time management, you can do both well.",
+        "B. Complete the most important tasks first before moving to easier ones.",
+        "C. Identify when you feel most energetic and schedule accordingly.",
+        "D. For example, you can take a 10-minute walk or listen to music.",
+        "E. In addition, you should avoid spending too much time on video games."
       ],
-      "correct_answer": "C",
-      "explanation": "考查段落衔接。空后内容讲的是不要死记硬背、要理解主旨、联系旧知识、记笔记，这些都是学习方法。C选项'第二，培养有效的学习习惯'与之匹配。注意段落结构词：前文有First，此处用Second形成顺序。A已被选用；B未在该段体现；D是运动；E是人际关系。",
+      "correct_answer": "B",
+      "explanation": "本题考查指代衔接。前句提到'按重要性排序（put them in order of importance）'，B选项'先完成最重要的任务'是对前句的具体说明，且与后句'这样你就不会浪费时间决定做什么'逻辑连贯。This way指代B选项的做法。",
       "label": "短文填空"
     },
     {
@@ -320,17 +320,17 @@
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
       "group": "fill_1",
-      "group_passage": "Having a good daily routine is important for middle school students. It helps us manage time better and reduces stress. Here are some suggestions for improving your school life.\n\n(17)______ Try to go to bed before 10:30 p.m. and wake up at 6:30 a.m. This ensures you get 8 hours of sleep, which is necessary for teenagers.\n\n(18)______ Don't just memorize facts. Try to understand the main ideas and connect new knowledge with what you already know. Taking notes in class is also helpful.\n\n(19)______ Physical exercise not only keeps you healthy but also improves your concentration. You can play basketball, run, or simply take a walk after school.\n\nFinally, don't forget to communicate with your parents and friends. (20)______ Sharing your feelings can help you deal with pressure and feel more supported.",
+      "group_passage": "Many middle school students complain that they don't have enough time for both study and hobbies. (17)______ Here are some useful tips to help you manage your time better.\n\nFirst, make a to-do list every morning. Write down all the tasks you need to complete and put them in order of importance. (18)______ This way, you won't waste time deciding what to do next.\n\nSecond, find your most productive hours. Some people work best in the morning, while others focus better at night. (19)______ Use these hours for your most difficult subjects.\n\nFinally, don't forget to take short breaks. Studying for hours without rest makes you tired and less efficient. (20)______ Then you can return to your work with fresh energy.",
       "stem": "(19)______",
       "options": [
-        "A. First, keep a regular sleep schedule.",
-        "B. Then, find a quiet place to study.",
-        "C. Second, develop effective study habits.",
-        "D. Besides, take exercise regularly.",
-        "E. In this way, you can build stronger relationships."
+        "A. However, with good time management, you can do both well.",
+        "B. Complete the most important tasks first before moving to easier ones.",
+        "C. Identify when you feel most energetic and schedule accordingly.",
+        "D. For example, you can take a 10-minute walk or listen to music.",
+        "E. In addition, you should avoid spending too much time on video games."
       ],
-      "correct_answer": "D",
-      "explanation": "考查段落衔接。空后内容讲的是体育锻炼不仅保持健康还能提高专注力，可以打篮球、跑步或散步。D选项'此外，定期锻炼'与之匹配。Besides表示补充关系，用于列举另一条建议。A、C已用；B未体现；E是人际关系。",
+      "correct_answer": "C",
+      "explanation": "本题考查主题一致性。本段主题是'find your most productive hours（找到最高效的时间段）'，C选项'确定你何时精力最旺盛并相应安排'与本段主题完全吻合，且后句'Use these hours'中的these hours指代C选项中的'when you feel most energetic'。",
       "label": "短文填空"
     },
     {
@@ -339,17 +339,17 @@
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
       "group": "fill_1",
-      "group_passage": "Having a good daily routine is important for middle school students. It helps us manage time better and reduces stress. Here are some suggestions for improving your school life.\n\n(17)______ Try to go to bed before 10:30 p.m. and wake up at 6:30 a.m. This ensures you get 8 hours of sleep, which is necessary for teenagers.\n\n(18)______ Don't just memorize facts. Try to understand the main ideas and connect new knowledge with what you already know. Taking notes in class is also helpful.\n\n(19)______ Physical exercise not only keeps you healthy but also improves your concentration. You can play basketball, run, or simply take a walk after school.\n\nFinally, don't forget to communicate with your parents and friends. (20)______ Sharing your feelings can help you deal with pressure and feel more supported.",
+      "group_passage": "Many middle school students complain that they don't have enough time for both study and hobbies. (17)______ Here are some useful tips to help you manage your time better.\n\nFirst, make a to-do list every morning. Write down all the tasks you need to complete and put them in order of importance. (18)______ This way, you won't waste time deciding what to do next.\n\nSecond, find your most productive hours. Some people work best in the morning, while others focus better at night. (19)______ Use these hours for your most difficult subjects.\n\nFinally, don't forget to take short breaks. Studying for hours without rest makes you tired and less efficient. (20)______ Then you can return to your work with fresh energy.",
       "stem": "(20)______",
       "options": [
-        "A. First, keep a regular sleep schedule.",
-        "B. Then, find a quiet place to study.",
-        "C. Second, develop effective study habits.",
-        "D. Besides, take exercise regularly.",
-        "E. In this way, you can build stronger relationships."
+        "A. However, with good time management, you can do both well.",
+        "B. Complete the most important tasks first before moving to easier ones.",
+        "C. Identify when you feel most energetic and schedule accordingly.",
+        "D. For example, you can take a 10-minute walk or listen to music.",
+        "E. In addition, you should avoid spending too much time on video games."
       ],
-      "correct_answer": "E",
-      "explanation": "考查段落衔接。空前讲与父母朋友交流，空后讲分享感受有助于应对压力。E选项'这样，你可以建立更牢固的关系'承上启下，说明交流沟通的结果。In this way指代前文的'communicate with your parents and friends'。A、C、D已用；B是干扰项（安静的学习地点未在文中提及）。",
+      "correct_answer": "D",
+      "explanation": "本题考查举例衔接。前句说'别忘了短暂休息'，D选项'例如，你可以散步10分钟或听音乐'是对'short breaks'的具体举例说明，符合'总分'结构。For example是明显的举例信号词，与上文构成例证关系。",
       "label": "短文填空"
     }
   ]
