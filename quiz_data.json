@@ -1,171 +1,171 @@
 ﻿{
-  "date": "2026-06-26",
+  "date": "2026-06-27",
   "session_number": 1,
   "questions": [
     {
       "id": 1,
       "type": "grammar",
-      "knowledge_point": "passive_voice",
-      "difficulty": 1,
-      "stem": "The new library ______ by the students last month. It looks very modern now.",
+      "knowledge_point": "present_perfect_vs_past_simple",
+      "difficulty": 2,
+      "stem": "I ______ to Beijing three years ago. I ______ there twice since then.",
       "options": [
-        "A. is built",
-        "B. was built",
-        "C. built",
-        "D. builds"
+        "A. went; have gone",
+        "B. went; have been",
+        "C. have gone; went",
+        "D. have been; went"
       ],
       "correct_answer": "B",
-      "explanation": "本题考查一般过去时的被动语态。时间状语'last month'表明动作发生在过去，且图书馆是'被建造'的对象，需用被动语态。结构为：was/were + 过去分词。主语library是单数，故用was built。A选项是现在时被动，时态不符；C是主动语态过去式；D是一般现在时主动语态。",
+      "explanation": "第一空有明确过去时间状语three years ago，必须用一般过去时went；第二空有since then（从那以后），表示从过去持续到现在的经历，用现在完成时have been。have gone to表示去了某地（人未回），have been to表示去过某地（人已回），这里说去过两次，人在此地，所以用have been。",
       "label": "语法题"
     },
     {
       "id": 2,
       "type": "grammar",
-      "knowledge_point": "present_perfect_vs_past_simple",
-      "difficulty": 2,
-      "stem": "—______ you ever ______ to the Science Museum? —Yes, I ______ there with my classmates last Sunday.",
+      "knowledge_point": "relative_clause_who_which",
+      "difficulty": 1,
+      "stem": "The girl ______ is singing on the stage is my classmate.",
       "options": [
-        "A. Did; go; went",
-        "B. Have; been; went",
-        "C. Have; gone; have been",
-        "D. Do; go; went"
+        "A. who",
+        "B. which",
+        "C. whom",
+        "D. whose"
       ],
-      "correct_answer": "B",
-      "explanation": "本题考查现在完成时与一般过去时的区别。问句中的'ever'（曾经）是现在完成时的标志词，询问是否有过某种经历，用Have you been to...（去过某地）；答句中的'last Sunday'是明确的过去时间状语，需用一般过去时went。A选项第一空误用助动词Did；C选项第二空have gone表示'去了未回'，不符合语境；D选项时态完全错误。",
+      "correct_answer": "A",
+      "explanation": "先行词是the girl（人），定语从句缺主语，用who引导。which用于先行词是物；whom用于指人但在从句中作宾语；whose表示所属关系。口诀：先行词是人作主语用who，作宾语用whom/who，先行词是物用which/that。",
       "label": "语法题"
     },
     {
       "id": 3,
       "type": "grammar",
-      "knowledge_point": "relative_clause_who_which",
+      "knowledge_point": "passive_voice",
       "difficulty": 2,
-      "stem": "The girl ______ won the first prize in the English speech contest is my deskmate. She practiced very hard.",
+      "stem": "These books ______ to the library tomorrow.",
       "options": [
-        "A. which",
-        "B. whom",
-        "C. who",
-        "D. whose"
+        "A. must return",
+        "B. must be returned",
+        "C. must returned",
+        "D. must be return"
       ],
-      "correct_answer": "C",
-      "explanation": "本题考查定语从句关系代词的选择。先行词是The girl（指人），且关系代词在从句中作主语（won the first prize），故用who。which用于指物；whom用于指人但在从句中作宾语；whose表示'...的'，在从句中作定语。根据句子结构，从句缺少主语，且指人，因此选who。",
+      "correct_answer": "B",
+      "explanation": "书是被归还的对象，必须用被动语态。情态动词must后的被动结构是must be + 过去分词。return的过去分词是returned。A是主动语态；C缺少be；D中return应该用过去分词形式。",
       "label": "语法题"
     },
     {
       "id": 4,
       "type": "grammar",
-      "knowledge_point": "modal_verbs",
+      "knowledge_point": "modal_verbs_speculation",
       "difficulty": 3,
-      "stem": "—Is that Mr. Wang knocking at the door? —It ______ be him. He has gone to Beijing on business and won't return until next week.",
+      "stem": "—Is that Mr. Wang knocking at the door?\n—It ______ be him. He has gone to Beijing for a meeting.",
       "options": [
         "A. must",
         "B. might",
         "C. can't",
-        "D. could"
+        "D. should"
       ],
       "correct_answer": "C",
-      "explanation": "本题考查情态动词表推测的用法。根据后文'He has gone to Beijing'（他去北京出差了）可知，敲门的人'不可能'是王老师，表示有把握的否定推测用can't（不可能）。must表示肯定推测'一定是'；might和could表示'可能是'，语气较弱，均不符合语境。解题关键：根据客观事实进行逻辑推理，确定是有把握的否定判断。",
+      "explanation": "根据后句He has gone to Beijing（他去北京了，人不在），可确定敲门的不可能是他。表示否定推测'不可能'用can't。must表示肯定推测'一定是'；might表示不确定的推测'可能是'；should表示'应该'。",
       "label": "语法题"
     },
     {
       "id": 5,
       "type": "vocabulary",
-      "knowledge_point": "prefix",
+      "knowledge_point": "word_formation_satisfied",
       "difficulty": 1,
-      "stem": "If you add the prefix 'dis-' to the word 'agree', you get a word meaning ______.",
+      "stem": "If you are ______ with your current score, you should work harder to get a better one.",
       "options": [
-        "A. agree again",
-        "B. not agree",
-        "C. fully agree",
-        "D. partly agree"
+        "A. satisfying",
+        "B. satisfied",
+        "C. satisfaction",
+        "D. satisfy"
       ],
       "correct_answer": "B",
-      "explanation": "本题考查前缀dis-的含义。dis-是常见的否定前缀，表示'不、相反'，如dislike（不喜欢）、disappear（消失）。agree意为'同意'，加dis-后disagree意为'不同意'。A选项're-'前缀表示'再次'；C和D与原词含义不符。掌握常见前缀（un-/dis-/re-/im-）是扩大词汇量的重要方法。",
+      "explanation": "be satisfied with是固定搭配，表示'对……感到满意'。satisfying令人满意的（修饰物）；satisfaction是名词；satisfy是动词。主语是人，表示人的感受，用-ed形容词satisfied。",
       "label": "词汇题"
     },
     {
       "id": 6,
       "type": "vocabulary",
-      "knowledge_point": "word_distinction",
+      "knowledge_point": "prefix_un_dis_re",
       "difficulty": 2,
-      "stem": "The old man lives ______ in the countryside, but he never feels ______ because he has many hobbies.",
+      "stem": "The weather was terrible, so we had to ______ our picnic plan.",
       "options": [
-        "A. alone; lonely",
-        "B. lonely; alone",
-        "C. alone; alone",
-        "D. lonely; lonely"
+        "A. cancel",
+        "B. uncancel",
+        "C. recancel",
+        "D. discover"
       ],
       "correct_answer": "A",
-      "explanation": "本题考查alone与lonely的辨析。alone是副词/形容词，强调'独自一人'的客观状态；lonely是形容词，强调'孤独的、寂寞的'主观感受。第一空修饰动词lives，用alone表示'独自居住'；第二空feels后接形容词lonely表示'感到孤独'。B选项混淆了词性和语义；C和D没有体现两者的区别。",
+      "explanation": "句意：天气很糟糕，所以我们不得不取消野餐计划。cancel（取消）符合语境。uncancel（恢复）前缀un-表示相反动作，但不符合句意；recancel（再次取消）前缀re-表示再次；discover（发现）前缀dis-加cover，与语境无关。",
       "label": "词汇题"
     },
     {
       "id": 7,
       "type": "vocabulary",
-      "knowledge_point": "phrasal_verbs",
+      "knowledge_point": "word_meaning_context",
       "difficulty": 2,
-      "stem": "We need to ______ a good idea to solve the environmental problem in our school.",
+      "stem": "We should take immediate actions to ______ the endangered animals.",
       "options": [
-        "A. look for",
-        "B. come up with",
-        "C. find out",
-        "D. think about"
+        "A. protect",
+        "B. prevent",
+        "C. prepare",
+        "D. pronounce"
       ],
-      "correct_answer": "B",
-      "explanation": "本题考查动词短语辨析。come up with意为'想出、提出（主意、计划等）'，后接idea/solution/plan等，符合句意'想出一个好主意'。look for强调'寻找'具体物品；find out强调'查明、发现'真相或信息；think about意为'考虑'，但不强调'想出'的结果。根据宾语'a good idea'，come up with是最佳搭配。",
+      "correct_answer": "A",
+      "explanation": "protect（保护）符合语境'保护濒危动物'。prevent（阻止）常与from搭配；prepare（准备）常与for搭配；pronounce（发音）。根据宾语endangered animals（濒危动物），应选择protect。",
       "label": "词汇题"
     },
     {
       "id": 8,
       "type": "cloze",
-      "knowledge_point": "cloze_general",
+      "knowledge_point": "cloze_context",
       "difficulty": 2,
       "group": "cloze_1",
-      "group_passage": "Last month, our school (8)______ an Environmental Protection Club to help students learn more about environmental issues. As an active member, I was excited to take part in our first big activity — cleaning up the city park near our school.\n\nWhen we arrived at the park early last Saturday morning, we were shocked (9)______ so much rubbish everywhere. Plastic bottles, paper bags, and food packages were scattered on the grass and under the trees. The beautiful park looked messy and unattractive.\n\nWe were quickly divided into three groups to work more efficiently. Group One was responsible (10)______ collecting recyclable waste like bottles and cans. Group Two picked up general rubbish. My group focused on educating visitors about the importance of keeping public places clean.\n\nAt first, some visitors didn't understand why we were doing this. One middle-aged man even threw a plastic bottle on the ground right after we cleaned that area. I walked over politely and (11)______ that a clean environment benefits everyone in the community. To my surprise, he immediately picked up the bottle and apologized for his behavior.\n\nBy noon, we had collected over 50 bags of rubbish. Although we felt tired and hungry, we were proud (12)______ what we had achieved. This meaningful experience taught me that small actions can make a big difference to our world.",
+      "group_passage": "Last month, our school started an environmental protection project called \"Green Campus\". The goal was to reduce waste and save energy in our daily school life.\n\nAt first, many students were not interested in it. They thought it would be too much trouble to change their habits. However, our teacher Mr. Li encouraged us by saying, \"Small actions can make a big difference.\"\n\nOne of the first changes was to use reusable bottles instead of plastic ones. My classmate Tom, who always bought bottled water, decided to (8)______ his habit. He bought a nice metal bottle and filled it with water every morning. \"It's not only good for the environment but also saves money,\" he said.\n\nWe also started a recycling program in our classroom. Every Friday afternoon, we would collect paper, bottles and other recyclable materials. At first, some students found it (9)______ to remember which bin to use. But after a few weeks, it became a natural part of our routine.\n\nThe most challenging part was saving electricity. Many of us were used to leaving the lights on when leaving the classroom. To solve this problem, we appointed \"energy monitors\" for each class. Their job was to (10)______ that all lights and computers were turned off after school.\n\nAfter two months, the results were amazing. Our school's electricity bill dropped by 20%, and we recycled over 500 kilograms of waste. More importantly, students began to (11)______ that environmental protection wasn't just a slogan—it was something we could do every day.\n\nThis project has taught us that everyone can contribute to a better world. As the famous saying goes, \"We do not inherit the earth from our ancestors; we borrow it from our children.\" I am proud to be part of this (12)______ change in our school.",
       "stem": "(8)______",
       "options": [
-        "A. sets up",
-        "B. set up",
-        "C. has set up",
-        "D. was set up"
+        "A. keep",
+        "B. change",
+        "C. form",
+        "D. follow"
       ],
       "correct_answer": "B",
-      "explanation": "本题考查动词时态。时间状语'Last month'表明动作发生在过去，应用一般过去时。set的过去式仍是set。A是一般现在时；C是现在完成时；D是被动语态，但学校主动建立俱乐部，非被动，且主语school与set up是主动关系。",
+      "explanation": "根据上下文，前文提到之前总是买瓶装水，后文说买了金属水壶，说明是决定'改变'习惯。change（改变）符合语境。keep（保持）和follow（遵循）与后文矛盾；form（形成）通常指养成新习惯，这里指改掉旧习惯。",
       "label": "完形填空"
     },
     {
       "id": 9,
       "type": "cloze",
       "knowledge_point": "cloze_general",
-      "difficulty": 2,
+      "difficulty": 1,
       "group": "cloze_1",
-      "group_passage": "Last month, our school (8)______ an Environmental Protection Club to help students learn more about environmental issues. As an active member, I was excited to take part in our first big activity — cleaning up the city park near our school.\n\nWhen we arrived at the park early last Saturday morning, we were shocked (9)______ so much rubbish everywhere. Plastic bottles, paper bags, and food packages were scattered on the grass and under the trees. The beautiful park looked messy and unattractive.\n\nWe were quickly divided into three groups to work more efficiently. Group One was responsible (10)______ collecting recyclable waste like bottles and cans. Group Two picked up general rubbish. My group focused on educating visitors about the importance of keeping public places clean.\n\nAt first, some visitors didn't understand why we were doing this. One middle-aged man even threw a plastic bottle on the ground right after we cleaned that area. I walked over politely and (11)______ that a clean environment benefits everyone in the community. To my surprise, he immediately picked up the bottle and apologized for his behavior.\n\nBy noon, we had collected over 50 bags of rubbish. Although we felt tired and hungry, we were proud (12)______ what we had achieved. This meaningful experience taught me that small actions can make a big difference to our world.",
+      "group_passage": "Last month, our school started an environmental protection project called \"Green Campus\". The goal was to reduce waste and save energy in our daily school life.\n\nAt first, many students were not interested in it. They thought it would be too much trouble to change their habits. However, our teacher Mr. Li encouraged us by saying, \"Small actions can make a big difference.\"\n\nOne of the first changes was to use reusable bottles instead of plastic ones. My classmate Tom, who always bought bottled water, decided to (8)______ his habit. He bought a nice metal bottle and filled it with water every morning. \"It's not only good for the environment but also saves money,\" he said.\n\nWe also started a recycling program in our classroom. Every Friday afternoon, we would collect paper, bottles and other recyclable materials. At first, some students found it (9)______ to remember which bin to use. But after a few weeks, it became a natural part of our routine.\n\nThe most challenging part was saving electricity. Many of us were used to leaving the lights on when leaving the classroom. To solve this problem, we appointed \"energy monitors\" for each class. Their job was to (10)______ that all lights and computers were turned off after school.\n\nAfter two months, the results were amazing. Our school's electricity bill dropped by 20%, and we recycled over 500 kilograms of waste. More importantly, students began to (11)______ that environmental protection wasn't just a slogan—it was something we could do every day.\n\nThis project has taught us that everyone can contribute to a better world. As the famous saying goes, \"We do not inherit the earth from our ancestors; we borrow it from our children.\" I am proud to be part of this (12)______ change in our school.",
       "stem": "(9)______",
       "options": [
-        "A. see",
-        "B. seeing",
-        "C. to see",
-        "D. seen"
+        "A. easy",
+        "B. difficult",
+        "C. interesting",
+        "D. necessary"
       ],
-      "correct_answer": "C",
-      "explanation": "本题考查非谓语动词固定搭配。be shocked to do sth.是固定结构，表示'震惊地做某事/看到...而震惊'，其中动词不定式作原因状语。be shocked at/by后接名词，但此处后接句子so much rubbish，需用to see。A是动词原形；B是现在分词；D是过去分词，均不符合该固定搭配。",
+      "correct_answer": "B",
+      "explanation": "根据后句But after a few weeks, it became natural（但几周后变得自然了），可推断起初觉得'困难'。difficult（困难的）与后文形成转折对比。easy（容易的）与后文矛盾；interesting（有趣的）和necessary（必要的）不符合转折逻辑。",
       "label": "完形填空"
     },
     {
       "id": 10,
       "type": "cloze",
       "knowledge_point": "cloze_general",
-      "difficulty": 1,
+      "difficulty": 2,
       "group": "cloze_1",
-      "group_passage": "Last month, our school (8)______ an Environmental Protection Club to help students learn more about environmental issues. As an active member, I was excited to take part in our first big activity — cleaning up the city park near our school.\n\nWhen we arrived at the park early last Saturday morning, we were shocked (9)______ so much rubbish everywhere. Plastic bottles, paper bags, and food packages were scattered on the grass and under the trees. The beautiful park looked messy and unattractive.\n\nWe were quickly divided into three groups to work more efficiently. Group One was responsible (10)______ collecting recyclable waste like bottles and cans. Group Two picked up general rubbish. My group focused on educating visitors about the importance of keeping public places clean.\n\nAt first, some visitors didn't understand why we were doing this. One middle-aged man even threw a plastic bottle on the ground right after we cleaned that area. I walked over politely and (11)______ that a clean environment benefits everyone in the community. To my surprise, he immediately picked up the bottle and apologized for his behavior.\n\nBy noon, we had collected over 50 bags of rubbish. Although we felt tired and hungry, we were proud (12)______ what we had achieved. This meaningful experience taught me that small actions can make a big difference to our world.",
+      "group_passage": "Last month, our school started an environmental protection project called \"Green Campus\". The goal was to reduce waste and save energy in our daily school life.\n\nAt first, many students were not interested in it. They thought it would be too much trouble to change their habits. However, our teacher Mr. Li encouraged us by saying, \"Small actions can make a big difference.\"\n\nOne of the first changes was to use reusable bottles instead of plastic ones. My classmate Tom, who always bought bottled water, decided to (8)______ his habit. He bought a nice metal bottle and filled it with water every morning. \"It's not only good for the environment but also saves money,\" he said.\n\nWe also started a recycling program in our classroom. Every Friday afternoon, we would collect paper, bottles and other recyclable materials. At first, some students found it (9)______ to remember which bin to use. But after a few weeks, it became a natural part of our routine.\n\nThe most challenging part was saving electricity. Many of us were used to leaving the lights on when leaving the classroom. To solve this problem, we appointed \"energy monitors\" for each class. Their job was to (10)______ that all lights and computers were turned off after school.\n\nAfter two months, the results were amazing. Our school's electricity bill dropped by 20%, and we recycled over 500 kilograms of waste. More importantly, students began to (11)______ that environmental protection wasn't just a slogan—it was something we could do every day.\n\nThis project has taught us that everyone can contribute to a better world. As the famous saying goes, \"We do not inherit the earth from our ancestors; we borrow it from our children.\" I am proud to be part of this (12)______ change in our school.",
       "stem": "(10)______",
       "options": [
-        "A. for",
-        "B. with",
-        "C. of",
-        "D. by"
+        "A. doubt",
+        "B. forget",
+        "C. check",
+        "D. imagine"
       ],
-      "correct_answer": "A",
-      "explanation": "本题考查固定短语搭配。be responsible for是固定搭配，意为'对...负责'，后接名词或动名词。句意：第一组负责收集可回收垃圾。with、of、by均不与responsible构成此含义的搭配。",
+      "correct_answer": "C",
+      "explanation": "节能委员的职责应该是'检查'关灯情况。check（检查）符合语境。doubt（怀疑）、forget（忘记）、imagine（想象）都不符合节能委员的职责描述。",
       "label": "完形填空"
     },
     {
@@ -174,16 +174,16 @@
       "knowledge_point": "cloze_general",
       "difficulty": 2,
       "group": "cloze_1",
-      "group_passage": "Last month, our school (8)______ an Environmental Protection Club to help students learn more about environmental issues. As an active member, I was excited to take part in our first big activity — cleaning up the city park near our school.\n\nWhen we arrived at the park early last Saturday morning, we were shocked (9)______ so much rubbish everywhere. Plastic bottles, paper bags, and food packages were scattered on the grass and under the trees. The beautiful park looked messy and unattractive.\n\nWe were quickly divided into three groups to work more efficiently. Group One was responsible (10)______ collecting recyclable waste like bottles and cans. Group Two picked up general rubbish. My group focused on educating visitors about the importance of keeping public places clean.\n\nAt first, some visitors didn't understand why we were doing this. One middle-aged man even threw a plastic bottle on the ground right after we cleaned that area. I walked over politely and (11)______ that a clean environment benefits everyone in the community. To my surprise, he immediately picked up the bottle and apologized for his behavior.\n\nBy noon, we had collected over 50 bags of rubbish. Although we felt tired and hungry, we were proud (12)______ what we had achieved. This meaningful experience taught me that small actions can make a big difference to our world.",
+      "group_passage": "Last month, our school started an environmental protection project called \"Green Campus\". The goal was to reduce waste and save energy in our daily school life.\n\nAt first, many students were not interested in it. They thought it would be too much trouble to change their habits. However, our teacher Mr. Li encouraged us by saying, \"Small actions can make a big difference.\"\n\nOne of the first changes was to use reusable bottles instead of plastic ones. My classmate Tom, who always bought bottled water, decided to (8)______ his habit. He bought a nice metal bottle and filled it with water every morning. \"It's not only good for the environment but also saves money,\" he said.\n\nWe also started a recycling program in our classroom. Every Friday afternoon, we would collect paper, bottles and other recyclable materials. At first, some students found it (9)______ to remember which bin to use. But after a few weeks, it became a natural part of our routine.\n\nThe most challenging part was saving electricity. Many of us were used to leaving the lights on when leaving the classroom. To solve this problem, we appointed \"energy monitors\" for each class. Their job was to (10)______ that all lights and computers were turned off after school.\n\nAfter two months, the results were amazing. Our school's electricity bill dropped by 20%, and we recycled over 500 kilograms of waste. More importantly, students began to (11)______ that environmental protection wasn't just a slogan—it was something we could do every day.\n\nThis project has taught us that everyone can contribute to a better world. As the famous saying goes, \"We do not inherit the earth from our ancestors; we borrow it from our children.\" I am proud to be part of this (12)______ change in our school.",
       "stem": "(11)______",
       "options": [
-        "A. spoke",
-        "B. told",
-        "C. explained",
-        "D. talked"
+        "A. realize",
+        "B. refuse",
+        "C. promise",
+        "D. regret"
       ],
-      "correct_answer": "C",
-      "explanation": "本题考查动词词义辨析及用法。explain意为'解释'，后可接that引导的宾语从句，符合语境'我走过去礼貌地解释...'。speak后常接语言或作不及物动词；tell后需接双宾语（tell sb. sth.）；talk是不及物动词，后接about/with。空格后直接跟that从句，只有explained符合语法和语义。",
+      "correct_answer": "A",
+      "explanation": "根据句意'学生们开始意识到环保不只是口号'，realize（意识到）符合语境。refuse（拒绝）、promise（承诺）、regret（后悔）都不符合此处表达认知变化的语境。",
       "label": "完形填空"
     },
     {
@@ -192,16 +192,16 @@
       "knowledge_point": "cloze_general",
       "difficulty": 1,
       "group": "cloze_1",
-      "group_passage": "Last month, our school (8)______ an Environmental Protection Club to help students learn more about environmental issues. As an active member, I was excited to take part in our first big activity — cleaning up the city park near our school.\n\nWhen we arrived at the park early last Saturday morning, we were shocked (9)______ so much rubbish everywhere. Plastic bottles, paper bags, and food packages were scattered on the grass and under the trees. The beautiful park looked messy and unattractive.\n\nWe were quickly divided into three groups to work more efficiently. Group One was responsible (10)______ collecting recyclable waste like bottles and cans. Group Two picked up general rubbish. My group focused on educating visitors about the importance of keeping public places clean.\n\nAt first, some visitors didn't understand why we were doing this. One middle-aged man even threw a plastic bottle on the ground right after we cleaned that area. I walked over politely and (11)______ that a clean environment benefits everyone in the community. To my surprise, he immediately picked up the bottle and apologized for his behavior.\n\nBy noon, we had collected over 50 bags of rubbish. Although we felt tired and hungry, we were proud (12)______ what we had achieved. This meaningful experience taught me that small actions can make a big difference to our world.",
+      "group_passage": "Last month, our school started an environmental protection project called \"Green Campus\". The goal was to reduce waste and save energy in our daily school life.\n\nAt first, many students were not interested in it. They thought it would be too much trouble to change their habits. However, our teacher Mr. Li encouraged us by saying, \"Small actions can make a big difference.\"\n\nOne of the first changes was to use reusable bottles instead of plastic ones. My classmate Tom, who always bought bottled water, decided to (8)______ his habit. He bought a nice metal bottle and filled it with water every morning. \"It's not only good for the environment but also saves money,\" he said.\n\nWe also started a recycling program in our classroom. Every Friday afternoon, we would collect paper, bottles and other recyclable materials. At first, some students found it (9)______ to remember which bin to use. But after a few weeks, it became a natural part of our routine.\n\nThe most challenging part was saving electricity. Many of us were used to leaving the lights on when leaving the classroom. To solve this problem, we appointed \"energy monitors\" for each class. Their job was to (10)______ that all lights and computers were turned off after school.\n\nAfter two months, the results were amazing. Our school's electricity bill dropped by 20%, and we recycled over 500 kilograms of waste. More importantly, students began to (11)______ that environmental protection wasn't just a slogan—it was something we could do every day.\n\nThis project has taught us that everyone can contribute to a better world. As the famous saying goes, \"We do not inherit the earth from our ancestors; we borrow it from our children.\" I am proud to be part of this (12)______ change in our school.",
       "stem": "(12)______",
       "options": [
-        "A. of",
-        "B. with",
-        "C. for",
-        "D. about"
+        "A. sudden",
+        "B. strange",
+        "C. meaningless",
+        "D. meaningful"
       ],
-      "correct_answer": "A",
-      "explanation": "本题考查固定搭配。be proud of是固定短语，意为'为...感到骄傲'，后接名词、代词或what从句。with、for、about均不与proud构成此固定搭配。",
+      "correct_answer": "D",
+      "explanation": "根据全文积极的基调，以及前文提到的环保成果，meaningful（有意义的）符合语境。sudden（突然的）与after two months矛盾；strange（奇怪的）和meaningless（无意义的）与作者自豪的态度相反。",
       "label": "完形填空"
     },
     {
@@ -210,53 +210,53 @@
       "knowledge_point": "detail",
       "difficulty": 2,
       "group": "reading_1",
-      "group_passage": "Do you often stay up late to finish your homework? Many students believe that sacrificing sleep time can help them get better grades. However, recent scientific studies show that this idea is completely wrong.\n\nAccording to research from Harvard University, teenagers need at least 8-10 hours of sleep every night. During sleep, the brain processes and stores information learned during the day. Dr. Sarah Chen, a sleep expert, explains: \"When you sleep, your brain is actually working hard to organize your memories. If you don't get enough rest, your brain cannot do this job effectively.\"\n\nLack of sleep also affects your mood and health. Students who sleep less than 6 hours often feel anxious and have trouble concentrating in class. They may experience headaches and get sick more easily. One student named Mike shared his story: \"I used to stay up until midnight studying. But I felt sleepy in exams and couldn't remember answers. After I started sleeping earlier, my grades actually improved.\"\n\nSo what should you do? First, make a study schedule and finish homework during daytime. Second, avoid using smartphones before bed because the blue light makes your brain active. Finally, try to go to bed before 10:30 PM on school nights. Remember, good sleep is not a waste of time — it is an important part of successful learning.",
-      "stem": "According to the passage, how many hours of sleep do teenagers need every night?",
+      "group_passage": "Many students sacrifice sleep to study for exams, thinking that more study time means better grades. However, recent scientific research shows that this might actually hurt academic performance.\n\nScientists at a university in the US conducted a study with 500 high school students. They found that students who slept less than 6 hours a night had trouble concentrating in class. Their test scores were 20% lower than those who slept 8 hours or more.\n\n\"Sleep is like food for the brain,\" explains Dr. Sarah Chen, a sleep expert. \"During sleep, your brain processes and stores information you learned during the day. Without enough sleep, your brain cannot do this job well.\"\n\nThe study also found an interesting rhythm in learning efficiency. Students who took short naps (15-30 minutes) after lunch performed better in afternoon classes. This is because the brain needs rest to work at its best.\n\nHowever, many teenagers struggle to get enough sleep. School schedules, homework pressure, and the use of electronic devices before bed all contribute to this problem. The blue light from phones and computers can strain your eyes and make it harder to fall asleep (strain: 使疲劳；损伤).\n\nTo solve this issue, experts suggest three things. First, establish a regular sleep schedule and stick to it even on weekends. Second, avoid using electronic devices one hour before bedtime. Third, create a comfortable sleep environment with proper temperature and darkness.\n\nRemember, sacrificing sleep for study time is like borrowing money at high interest. You might gain an hour of study time, but you lose two hours of productivity the next day. Good sleep habits are not a waste of time—they are an investment in your academic success.",
+      "stem": "What did the scientists find in the study?",
       "options": [
-        "A. Less than 6 hours",
-        "B. 6-7 hours",
-        "C. At least 8 hours",
-        "D. Only 4-5 hours"
+        "A. Students who slept less got higher scores.",
+        "B. More sleep always leads to better grades.",
+        "C. Students with less than 6 hours' sleep had lower test scores.",
+        "D. All students should sleep exactly 8 hours every night."
       ],
       "correct_answer": "C",
-      "explanation": "本题是细节理解题。根据第二段第一句'According to research from Harvard University, teenagers need at least 8-10 hours of sleep every night.'可知，青少年每晚需要至少8-10小时睡眠，C选项'At least 8 hours'符合原文。A选项是睡眠不足的表现；B和D与原文数据不符。做细节题要准确定位关键词'teenagers need'和'sleep'。",
+      "explanation": "细节定位题。根据第二段'They found that students who slept less than 6 hours a night... Their test scores were 20% lower than those who slept 8 hours or more'，可知睡眠不足6小时的学生分数更低。A与原文相反；B中always过于绝对；D中exactly 8 hours不是研究结论，研究说的是8小时或以上。",
       "label": "阅读-细节理解"
     },
     {
       "id": 14,
       "type": "reading",
-      "knowledge_point": "inference",
-      "difficulty": 3,
+      "knowledge_point": "word_guessing_context",
+      "difficulty": 2,
       "group": "reading_1",
-      "group_passage": "Do you often stay up late to finish your homework? Many students believe that sacrificing sleep time can help them get better grades. However, recent scientific studies show that this idea is completely wrong.\n\nAccording to research from Harvard University, teenagers need at least 8-10 hours of sleep every night. During sleep, the brain processes and stores information learned during the day. Dr. Sarah Chen, a sleep expert, explains: \"When you sleep, your brain is actually working hard to organize your memories. If you don't get enough rest, your brain cannot do this job effectively.\"\n\nLack of sleep also affects your mood and health. Students who sleep less than 6 hours often feel anxious and have trouble concentrating in class. They may experience headaches and get sick more easily. One student named Mike shared his story: \"I used to stay up until midnight studying. But I felt sleepy in exams and couldn't remember answers. After I started sleeping earlier, my grades actually improved.\"\n\nSo what should you do? First, make a study schedule and finish homework during daytime. Second, avoid using smartphones before bed because the blue light makes your brain active. Finally, try to go to bed before 10:30 PM on school nights. Remember, good sleep is not a waste of time — it is an important part of successful learning.",
-      "stem": "What can we infer from Mike's story in Paragraph 3?",
+      "group_passage": "Many students sacrifice sleep to study for exams, thinking that more study time means better grades. However, recent scientific research shows that this might actually hurt academic performance.\n\nScientists at a university in the US conducted a study with 500 high school students. They found that students who slept less than 6 hours a night had trouble concentrating in class. Their test scores were 20% lower than those who slept 8 hours or more.\n\n\"Sleep is like food for the brain,\" explains Dr. Sarah Chen, a sleep expert. \"During sleep, your brain processes and stores information you learned during the day. Without enough sleep, your brain cannot do this job well.\"\n\nThe study also found an interesting rhythm in learning efficiency. Students who took short naps (15-30 minutes) after lunch performed better in afternoon classes. This is because the brain needs rest to work at its best.\n\nHowever, many teenagers struggle to get enough sleep. School schedules, homework pressure, and the use of electronic devices before bed all contribute to this problem. The blue light from phones and computers can strain your eyes and make it harder to fall asleep (strain: 使疲劳；损伤).\n\nTo solve this issue, experts suggest three things. First, establish a regular sleep schedule and stick to it even on weekends. Second, avoid using electronic devices one hour before bedtime. Third, create a comfortable sleep environment with proper temperature and darkness.\n\nRemember, sacrificing sleep for study time is like borrowing money at high interest. You might gain an hour of study time, but you lose two hours of productivity the next day. Good sleep habits are not a waste of time—they are an investment in your academic success.",
+      "stem": "What does the word \"sacrificing\" in Paragraph 1 probably mean?",
       "options": [
-        "A. He didn't like studying before.",
-        "B. He always failed his exams in the past.",
-        "C. Sleeping earlier helped him get better grades.",
-        "D. He stopped using smartphones completely."
+        "A. Giving up something important to get something else.",
+        "B. Enjoying something pleasant with friends.",
+        "C. Studying hard without any rest.",
+        "D. Spending money on expensive things."
       ],
-      "correct_answer": "C",
-      "explanation": "本题是推理判断题。根据第三段Mike的陈述'After I started sleeping earlier, my grades actually improved.'可推断出，早睡帮助他提高了成绩。A选项文中未提及他是否喜欢学习；B选项'always failed'过于绝对，原文只说'couldn't remember answers'；D选项'completely'过于绝对，且文中未提及他是否停止使用手机。推理题要基于原文信息合理推断，避免过度推理或绝对化表述。",
-      "label": "阅读-推理判断"
+      "correct_answer": "A",
+      "explanation": "词义猜测题。根据上下文'sacrifice sleep to study'（为了学习而sacrifice睡眠），以及最后一段'sacrificing sleep for study time is like borrowing money at high interest'，可知sacrifice表示'牺牲、放弃'，即放弃睡眠来换取学习时间。选A。",
+      "label": "阅读-词义猜测"
     },
     {
       "id": 15,
       "type": "reading",
-      "knowledge_point": "word_guessing_context",
-      "difficulty": 2,
+      "knowledge_point": "inference",
+      "difficulty": 3,
       "group": "reading_1",
-      "group_passage": "Do you often stay up late to finish your homework? Many students believe that sacrificing sleep time can help them get better grades. However, recent scientific studies show that this idea is completely wrong.\n\nAccording to research from Harvard University, teenagers need at least 8-10 hours of sleep every night. During sleep, the brain processes and stores information learned during the day. Dr. Sarah Chen, a sleep expert, explains: \"When you sleep, your brain is actually working hard to organize your memories. If you don't get enough rest, your brain cannot do this job effectively.\"\n\nLack of sleep also affects your mood and health. Students who sleep less than 6 hours often feel anxious and have trouble concentrating in class. They may experience headaches and get sick more easily. One student named Mike shared his story: \"I used to stay up until midnight studying. But I felt sleepy in exams and couldn't remember answers. After I started sleeping earlier, my grades actually improved.\"\n\nSo what should you do? First, make a study schedule and finish homework during daytime. Second, avoid using smartphones before bed because the blue light makes your brain active. Finally, try to go to bed before 10:30 PM on school nights. Remember, good sleep is not a waste of time — it is an important part of successful learning.",
-      "stem": "What does the word 'sacrificing' in Paragraph 1 probably mean?",
+      "group_passage": "Many students sacrifice sleep to study for exams, thinking that more study time means better grades. However, recent scientific research shows that this might actually hurt academic performance.\n\nScientists at a university in the US conducted a study with 500 high school students. They found that students who slept less than 6 hours a night had trouble concentrating in class. Their test scores were 20% lower than those who slept 8 hours or more.\n\n\"Sleep is like food for the brain,\" explains Dr. Sarah Chen, a sleep expert. \"During sleep, your brain processes and stores information you learned during the day. Without enough sleep, your brain cannot do this job well.\"\n\nThe study also found an interesting rhythm in learning efficiency. Students who took short naps (15-30 minutes) after lunch performed better in afternoon classes. This is because the brain needs rest to work at its best.\n\nHowever, many teenagers struggle to get enough sleep. School schedules, homework pressure, and the use of electronic devices before bed all contribute to this problem. The blue light from phones and computers can strain your eyes and make it harder to fall asleep (strain: 使疲劳；损伤).\n\nTo solve this issue, experts suggest three things. First, establish a regular sleep schedule and stick to it even on weekends. Second, avoid using electronic devices one hour before bedtime. Third, create a comfortable sleep environment with proper temperature and darkness.\n\nRemember, sacrificing sleep for study time is like borrowing money at high interest. You might gain an hour of study time, but you lose two hours of productivity the next day. Good sleep habits are not a waste of time—they are an investment in your academic success.",
+      "stem": "What can we infer from the passage about naps?",
       "options": [
-        "A. giving up",
-        "B. enjoying",
-        "C. increasing",
-        "D. changing"
+        "A. All students must take naps to pass exams.",
+        "B. Short naps after lunch can improve learning efficiency.",
+        "C. Napping is a waste of valuable study time.",
+        "D. Students should sleep for at least one hour after lunch."
       ],
-      "correct_answer": "A",
-      "explanation": "本题是词义猜测题。根据上下文语境，许多学生认为'牺牲'睡眠时间能帮助取得好成绩，但实际上这是错误的。sacrifice意为'牺牲、放弃'，与give up（放弃）意思最接近。enjoy（享受）、increase（增加）、change（改变）均不符合语境。猜词题可通过同义/反义关系、上下文逻辑（此处有转折However）和构词法来解题。",
-      "label": "阅读-词义猜测"
+      "correct_answer": "B",
+      "explanation": "推理判断题。根据第四段'Students who took short naps (15-30 minutes) after lunch performed better in afternoon classes'，可推断出短时间午睡能提高学习效率。A中must过于绝对；C与原文相反；D中at least one hour与原文15-30 minutes矛盾。",
+      "label": "阅读-推理判断"
     },
     {
       "id": 16,
@@ -264,16 +264,16 @@
       "knowledge_point": "main_idea_title",
       "difficulty": 3,
       "group": "reading_1",
-      "group_passage": "Do you often stay up late to finish your homework? Many students believe that sacrificing sleep time can help them get better grades. However, recent scientific studies show that this idea is completely wrong.\n\nAccording to research from Harvard University, teenagers need at least 8-10 hours of sleep every night. During sleep, the brain processes and stores information learned during the day. Dr. Sarah Chen, a sleep expert, explains: \"When you sleep, your brain is actually working hard to organize your memories. If you don't get enough rest, your brain cannot do this job effectively.\"\n\nLack of sleep also affects your mood and health. Students who sleep less than 6 hours often feel anxious and have trouble concentrating in class. They may experience headaches and get sick more easily. One student named Mike shared his story: \"I used to stay up until midnight studying. But I felt sleepy in exams and couldn't remember answers. After I started sleeping earlier, my grades actually improved.\"\n\nSo what should you do? First, make a study schedule and finish homework during daytime. Second, avoid using smartphones before bed because the blue light makes your brain active. Finally, try to go to bed before 10:30 PM on school nights. Remember, good sleep is not a waste of time — it is an important part of successful learning.",
+      "group_passage": "Many students sacrifice sleep to study for exams, thinking that more study time means better grades. However, recent scientific research shows that this might actually hurt academic performance.\n\nScientists at a university in the US conducted a study with 500 high school students. They found that students who slept less than 6 hours a night had trouble concentrating in class. Their test scores were 20% lower than those who slept 8 hours or more.\n\n\"Sleep is like food for the brain,\" explains Dr. Sarah Chen, a sleep expert. \"During sleep, your brain processes and stores information you learned during the day. Without enough sleep, your brain cannot do this job well.\"\n\nThe study also found an interesting rhythm in learning efficiency. Students who took short naps (15-30 minutes) after lunch performed better in afternoon classes. This is because the brain needs rest to work at its best.\n\nHowever, many teenagers struggle to get enough sleep. School schedules, homework pressure, and the use of electronic devices before bed all contribute to this problem. The blue light from phones and computers can strain your eyes and make it harder to fall asleep (strain: 使疲劳；损伤).\n\nTo solve this issue, experts suggest three things. First, establish a regular sleep schedule and stick to it even on weekends. Second, avoid using electronic devices one hour before bedtime. Third, create a comfortable sleep environment with proper temperature and darkness.\n\nRemember, sacrificing sleep for study time is like borrowing money at high interest. You might gain an hour of study time, but you lose two hours of productivity the next day. Good sleep habits are not a waste of time—they are an investment in your academic success.",
       "stem": "What is the best title for this passage?",
       "options": [
-        "A. How to Finish Homework Quickly",
-        "B. The Importance of Sleep for Students",
-        "C. Bad Habits of Using Smartphones",
-        "D. Harvard University's New Research"
+        "A. How to Pass Exams Easily",
+        "B. The Dangers of Electronic Devices",
+        "C. Sleep: The Secret to Better Grades",
+        "D. Why Students Should Study Less"
       ],
-      "correct_answer": "B",
-      "explanation": "本题是主旨大意题。文章首段指出牺牲睡眠时间的错误观念，第二段讲睡眠对记忆的重要性，第三段讲睡眠不足的危害，第四段给出建议。全文围绕'学生睡眠的重要性'展开。A选项只在最后一段提及；C选项是细节而非主旨；D选项只是论据（哈佛大学研究）而非主题。最佳标题应概括全文核心内容，即睡眠对学生的重要性。",
+      "correct_answer": "C",
+      "explanation": "主旨大意题。文章开篇指出牺牲睡眠学习反而有害，接着用研究说明睡眠与成绩的关系，最后强调睡眠是学业成功的投资。C选项'Sleep: The Secret to Better Grades'（睡眠：取得好成绩的秘诀）最能概括全文。A过于宽泛；B只是文中一个细节；D与文章主旨不符，文章不是说少学习，而是强调睡眠的重要性。",
       "label": "阅读-主旨大意"
     },
     {
@@ -282,17 +282,17 @@
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
       "group": "fill_1",
-      "group_passage": "Many middle school students complain that they don't have enough time for both study and hobbies. (17)______ Here are some useful tips to help you manage your time better.\n\nFirst, make a to-do list every morning. Write down all the tasks you need to complete and put them in order of importance. (18)______ This way, you won't waste time deciding what to do next.\n\nSecond, find your most productive hours. Some people work best in the morning, while others focus better at night. (19)______ Use these hours for your most difficult subjects.\n\nFinally, don't forget to take short breaks. Studying for hours without rest makes you tired and less efficient. (20)______ Then you can return to your work with fresh energy.",
+      "group_passage": "Joining a school club is a great way to enrich your middle school life. Last term, I decided to join the Science Club. (17)______, I was nervous because I didn't know anyone there.\n\n(18)______, the club leader, a friendly senior student, welcomed me warmly. She told me that the club was for everyone who loved science. Our first project was to build a small robot. (19)______, I didn't know how to start. The leader paired me with Tom, who patiently taught me the basics.\n\nStep by step, I learned how to assemble the parts. (20)______, I not only made good friends but also won second prize in the school science competition. Joining the club was really a great experience.",
       "stem": "(17)______",
       "options": [
-        "A. However, with good time management, you can do both well.",
-        "B. Complete the most important tasks first before moving to easier ones.",
-        "C. Identify when you feel most energetic and schedule accordingly.",
-        "D. For example, you can take a 10-minute walk or listen to music.",
-        "E. In addition, you should avoid spending too much time on video games."
+        "A. However",
+        "B. As a result",
+        "C. Although",
+        "D. Then",
+        "E. At first"
       ],
-      "correct_answer": "A",
-      "explanation": "本题考查段落衔接与逻辑关系。前句说'许多学生抱怨没有足够时间兼顾学习和爱好'，后句'以下是管理时间的好建议'，中间需要转折过渡，表示'然而，通过良好的时间管理，你可以两者都做好'。However表示转折，承接上文的complain，引出下文的解决方案。B是具体做法；C对应第二段；D对应第三段；E与上下文逻辑不符。",
+      "correct_answer": "E",
+      "explanation": "根据后文'I was nervous'及下一段开头的转折，这里表示'起初'的感受。At first（起初，一开始）符合时间顺序和语境逻辑，与后文的转折形成对比。",
       "label": "短文填空"
     },
     {
@@ -301,17 +301,17 @@
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
       "group": "fill_1",
-      "group_passage": "Many middle school students complain that they don't have enough time for both study and hobbies. (17)______ Here are some useful tips to help you manage your time better.\n\nFirst, make a to-do list every morning. Write down all the tasks you need to complete and put them in order of importance. (18)______ This way, you won't waste time deciding what to do next.\n\nSecond, find your most productive hours. Some people work best in the morning, while others focus better at night. (19)______ Use these hours for your most difficult subjects.\n\nFinally, don't forget to take short breaks. Studying for hours without rest makes you tired and less efficient. (20)______ Then you can return to your work with fresh energy.",
+      "group_passage": "Joining a school club is a great way to enrich your middle school life. Last term, I decided to join the Science Club. (17)______, I was nervous because I didn't know anyone there.\n\n(18)______, the club leader, a friendly senior student, welcomed me warmly. She told me that the club was for everyone who loved science. Our first project was to build a small robot. (19)______, I didn't know how to start. The leader paired me with Tom, who patiently taught me the basics.\n\nStep by step, I learned how to assemble the parts. (20)______, I not only made good friends but also won second prize in the school science competition. Joining the club was really a great experience.",
       "stem": "(18)______",
       "options": [
-        "A. However, with good time management, you can do both well.",
-        "B. Complete the most important tasks first before moving to easier ones.",
-        "C. Identify when you feel most energetic and schedule accordingly.",
-        "D. For example, you can take a 10-minute walk or listen to music.",
-        "E. In addition, you should avoid spending too much time on video games."
+        "A. However",
+        "B. As a result",
+        "C. Although",
+        "D. Then",
+        "E. At first"
       ],
-      "correct_answer": "B",
-      "explanation": "本题考查指代衔接。前句提到'按重要性排序（put them in order of importance）'，B选项'先完成最重要的任务'是对前句的具体说明，且与后句'这样你就不会浪费时间决定做什么'逻辑连贯。This way指代B选项的做法。",
+      "correct_answer": "A",
+      "explanation": "前文说紧张害怕，后文说受到热烈欢迎，前后是转折关系。However（然而）表示转折，符合逻辑。注意However后常用逗号，与原文格式一致。",
       "label": "短文填空"
     },
     {
@@ -320,17 +320,17 @@
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
       "group": "fill_1",
-      "group_passage": "Many middle school students complain that they don't have enough time for both study and hobbies. (17)______ Here are some useful tips to help you manage your time better.\n\nFirst, make a to-do list every morning. Write down all the tasks you need to complete and put them in order of importance. (18)______ This way, you won't waste time deciding what to do next.\n\nSecond, find your most productive hours. Some people work best in the morning, while others focus better at night. (19)______ Use these hours for your most difficult subjects.\n\nFinally, don't forget to take short breaks. Studying for hours without rest makes you tired and less efficient. (20)______ Then you can return to your work with fresh energy.",
+      "group_passage": "Joining a school club is a great way to enrich your middle school life. Last term, I decided to join the Science Club. (17)______, I was nervous because I didn't know anyone there.\n\n(18)______, the club leader, a friendly senior student, welcomed me warmly. She told me that the club was for everyone who loved science. Our first project was to build a small robot. (19)______, I didn't know how to start. The leader paired me with Tom, who patiently taught me the basics.\n\nStep by step, I learned how to assemble the parts. (20)______, I not only made good friends but also won second prize in the school science competition. Joining the club was really a great experience.",
       "stem": "(19)______",
       "options": [
-        "A. However, with good time management, you can do both well.",
-        "B. Complete the most important tasks first before moving to easier ones.",
-        "C. Identify when you feel most energetic and schedule accordingly.",
-        "D. For example, you can take a 10-minute walk or listen to music.",
-        "E. In addition, you should avoid spending too much time on video games."
+        "A. However",
+        "B. As a result",
+        "C. Although",
+        "D. Then",
+        "E. At first"
       ],
-      "correct_answer": "C",
-      "explanation": "本题考查主题一致性。本段主题是'find your most productive hours（找到最高效的时间段）'，C选项'确定你何时精力最旺盛并相应安排'与本段主题完全吻合，且后句'Use these hours'中的these hours指代C选项中的'when you feel most energetic'。",
+      "correct_answer": "D",
+      "explanation": "此处表示时间顺序：项目开始了，然后/接着我不知道如何开始。Then（然后，接着）表示时间上的承接。后文说老师给我配对搭档，也是按时间顺序发展的。",
       "label": "短文填空"
     },
     {
@@ -339,17 +339,17 @@
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
       "group": "fill_1",
-      "group_passage": "Many middle school students complain that they don't have enough time for both study and hobbies. (17)______ Here are some useful tips to help you manage your time better.\n\nFirst, make a to-do list every morning. Write down all the tasks you need to complete and put them in order of importance. (18)______ This way, you won't waste time deciding what to do next.\n\nSecond, find your most productive hours. Some people work best in the morning, while others focus better at night. (19)______ Use these hours for your most difficult subjects.\n\nFinally, don't forget to take short breaks. Studying for hours without rest makes you tired and less efficient. (20)______ Then you can return to your work with fresh energy.",
+      "group_passage": "Joining a school club is a great way to enrich your middle school life. Last term, I decided to join the Science Club. (17)______, I was nervous because I didn't know anyone there.\n\n(18)______, the club leader, a friendly senior student, welcomed me warmly. She told me that the club was for everyone who loved science. Our first project was to build a small robot. (19)______, I didn't know how to start. The leader paired me with Tom, who patiently taught me the basics.\n\nStep by step, I learned how to assemble the parts. (20)______, I not only made good friends but also won second prize in the school science competition. Joining the club was really a great experience.",
       "stem": "(20)______",
       "options": [
-        "A. However, with good time management, you can do both well.",
-        "B. Complete the most important tasks first before moving to easier ones.",
-        "C. Identify when you feel most energetic and schedule accordingly.",
-        "D. For example, you can take a 10-minute walk or listen to music.",
-        "E. In addition, you should avoid spending too much time on video games."
+        "A. However",
+        "B. As a result",
+        "C. Although",
+        "D. Then",
+        "E. At first"
       ],
-      "correct_answer": "D",
-      "explanation": "本题考查举例衔接。前句说'别忘了短暂休息'，D选项'例如，你可以散步10分钟或听音乐'是对'short breaks'的具体举例说明，符合'总分'结构。For example是明显的举例信号词，与上文构成例证关系。",
+      "correct_answer": "B",
+      "explanation": "前文讲逐步学习组装，后文讲交到朋友并获奖，这是前文努力的结果。As a result（结果，因此）表示因果关系，总结前文带来的积极结果。",
       "label": "短文填空"
     }
   ]
