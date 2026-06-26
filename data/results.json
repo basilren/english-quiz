@@ -483,6 +483,13 @@
       "total": 20,
       "correct": 19,
       "rate": 95
+    },
+    {
+      "date": "2026-06-26",
+      "session": 1,
+      "total": 20,
+      "correct": 17,
+      "rate": 85
     }
   ],
   "errors": [
@@ -756,6 +763,60 @@
       "correct_answer": "A",
       "student_answer": "B",
       "explanation": "考查逻辑关系。前句说'失败不是终点'，后句说'它是学习和提高的机会'，前后是转折替代关系，用Instead（相反、反而）。However虽然也表示转折，但通常引出对比内容；Instead强调'不是前者，而是后者'，更符合'失败不是结束，而是机会'的对比关系。Therefore因此；Besides此外。"
+    },
+    {
+      "date": "2026-06-26",
+      "session": 1,
+      "question_id": 4,
+      "type": "grammar",
+      "knowledge_point": "modal_verbs",
+      "label": "语法题",
+      "stem": "—Is that Mr. Wang knocking at the door? —It ______ be him. He has gone to Beijing on business and won't return until next week.",
+      "options": [
+        "A. must",
+        "B. might",
+        "C. can't",
+        "D. could"
+      ],
+      "correct_answer": "C",
+      "student_answer": "B",
+      "explanation": "本题考查情态动词表推测的用法。根据后文'He has gone to Beijing'（他去北京出差了）可知，敲门的人'不可能'是王老师，表示有把握的否定推测用can't（不可能）。must表示肯定推测'一定是'；might和could表示'可能是'，语气较弱，均不符合语境。解题关键：根据客观事实进行逻辑推理，确定是有把握的否定判断。"
+    },
+    {
+      "date": "2026-06-26",
+      "session": 1,
+      "question_id": 10,
+      "type": "cloze",
+      "knowledge_point": "cloze_general",
+      "label": "完形填空",
+      "stem": "(10)______",
+      "options": [
+        "A. for",
+        "B. with",
+        "C. of",
+        "D. by"
+      ],
+      "correct_answer": "A",
+      "student_answer": "B",
+      "explanation": "本题考查固定短语搭配。be responsible for是固定搭配，意为'对...负责'，后接名词或动名词。句意：第一组负责收集可回收垃圾。with、of、by均不与responsible构成此含义的搭配。"
+    },
+    {
+      "date": "2026-06-26",
+      "session": 1,
+      "question_id": 15,
+      "type": "reading",
+      "knowledge_point": "word_guessing_context",
+      "label": "阅读理解",
+      "stem": "What does the word 'sacrificing' in Paragraph 1 probably mean?",
+      "options": [
+        "A. giving up",
+        "B. enjoying",
+        "C. increasing",
+        "D. changing"
+      ],
+      "correct_answer": "A",
+      "student_answer": "B",
+      "explanation": "本题是词义猜测题。根据上下文语境，许多学生认为'牺牲'睡眠时间能帮助取得好成绩，但实际上这是错误的。sacrifice意为'牺牲、放弃'，与give up（放弃）意思最接近。enjoy（享受）、increase（增加）、change（改变）均不符合语境。猜词题可通过同义/反义关系、上下文逻辑（此处有转折However）和构词法来解题。"
     }
   ]
 }
