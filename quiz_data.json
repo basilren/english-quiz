@@ -1,5 +1,5 @@
 ﻿{
-  "date": "2026-06-27",
+  "date": "2026-06-28",
   "session_number": 1,
   "questions": [
     {
@@ -7,350 +7,350 @@
       "type": "grammar",
       "knowledge_point": "present_perfect_vs_past_simple",
       "difficulty": 2,
-      "stem": "I ______ to Beijing three years ago. I ______ there twice since then.",
+      "stem": "I ______ my homework two hours ago, but I ______ it yet.",
       "options": [
-        "A. went; have gone",
-        "B. went; have been",
-        "C. have gone; went",
-        "D. have been; went"
+        "A. finished; haven't checked",
+        "B. have finished; didn't check",
+        "C. finished; didn't check",
+        "D. have finished; haven't checked"
       ],
-      "correct_answer": "B",
-      "explanation": "第一空有明确过去时间状语three years ago，必须用一般过去时went；第二空有since then（从那以后），表示从过去持续到现在的经历，用现在完成时have been。have gone to表示去了某地（人未回），have been to表示去过某地（人已回），这里说去过两次，人在此地，所以用have been。",
+      "correct_answer": "A",
+      "explanation": "【解析】第一空后有\"two hours ago\"（两小时前），这是一般过去时的标志词，表示过去某个具体时间发生的动作，用finished；第二空后有\"yet\"（还，尚），这是现在完成时的标志词，常用于否定句和疑问句，表示动作尚未完成，用haven't checked。干扰项D虽然第二空正确，但第一空用了现在完成时，与ago矛盾；B和C的第二空都错误。【解题技巧】口诀：ago用过去，yet用完成。看到具体过去时间（yesterday, last week, ago）选过去时；看到yet, already, since, for选现在完成时。",
       "label": "语法题"
     },
     {
       "id": 2,
       "type": "grammar",
       "knowledge_point": "relative_clause_who_which",
-      "difficulty": 1,
-      "stem": "The girl ______ is singing on the stage is my classmate.",
+      "difficulty": 2,
+      "stem": "The boy ______ is talking to our teacher is Bosco's brother.",
       "options": [
-        "A. who",
-        "B. which",
+        "A. which",
+        "B. who",
         "C. whom",
         "D. whose"
       ],
-      "correct_answer": "A",
-      "explanation": "先行词是the girl（人），定语从句缺主语，用who引导。which用于先行词是物；whom用于指人但在从句中作宾语；whose表示所属关系。口诀：先行词是人作主语用who，作宾语用whom/who，先行词是物用which/that。",
+      "correct_answer": "B",
+      "explanation": "【解析】先行词是\"The boy\"（指人），且定语从句\"______ is talking to our teacher\"中缺少主语，因此应选关系代词who。A选项which用于指物；C选项whom虽然指人，但只能在从句中作宾语；D选项whose表示\"谁的\"，在从句中作定语，后需接名词。本句从句缺主语，故排除C和D。【解题技巧】定语从句选择关系词三步法：1. 看先行词指人还是指物；2. 看从句中缺什么成分（主语、宾语、定语或状语）；3. 记住：who/that指人可作主语，whom指人作宾语，which/that指物，whose表示所属关系。",
       "label": "语法题"
     },
     {
       "id": 3,
       "type": "grammar",
       "knowledge_point": "passive_voice",
-      "difficulty": 2,
-      "stem": "These books ______ to the library tomorrow.",
+      "difficulty": 1,
+      "stem": "Many trees ______ by the students every spring.",
       "options": [
-        "A. must return",
-        "B. must be returned",
-        "C. must returned",
-        "D. must be return"
+        "A. plant",
+        "B. planted",
+        "C. are planted",
+        "D. were planted"
       ],
-      "correct_answer": "B",
-      "explanation": "书是被归还的对象，必须用被动语态。情态动词must后的被动结构是must be + 过去分词。return的过去分词是returned。A是主动语态；C缺少be；D中return应该用过去分词形式。",
+      "correct_answer": "C",
+      "explanation": "【解析】主语\"Many trees\"（许多树）是动作\"plant\"（种植）的承受者，因此需要用被动语态，结构为be+过去分词，排除A和B。时间状语\"every spring\"（每年春天）表示经常性、习惯性的动作，应用一般现在时，故选C。D选项是一般过去时的被动语态，与every spring不符。【解题技巧】被动语态判断：1. 主语是动作的承受者（被...）；2. 结构：be动词+过去分词；3. 时态看时间标志词：every day用一般现在时被动(am/is/are done)，yesterday用一般过去时被动(was/were done)。",
       "label": "语法题"
     },
     {
       "id": 4,
       "type": "grammar",
-      "knowledge_point": "modal_verbs_speculation",
+      "knowledge_point": "modal_verbs",
       "difficulty": 3,
-      "stem": "—Is that Mr. Wang knocking at the door?\n—It ______ be him. He has gone to Beijing for a meeting.",
+      "stem": "—Is that Mr. Wang knocking at the door? —It ______ be him. He has gone to Beijing.",
       "options": [
         "A. must",
-        "B. might",
+        "B. may",
         "C. can't",
-        "D. should"
+        "D. might"
       ],
       "correct_answer": "C",
-      "explanation": "根据后句He has gone to Beijing（他去北京了，人不在），可确定敲门的不可能是他。表示否定推测'不可能'用can't。must表示肯定推测'一定是'；might表示不确定的推测'可能是'；should表示'应该'。",
+      "explanation": "【解析】根据答句\"He has gone to Beijing\"（他去北京了，还没回来）可知，敲门的人\"不可能\"是王老师。表示否定推测\"不可能\"用can't。A选项must表示肯定推测\"一定是\"；B选项may和D选项might都表示\"可能\"，语气较弱，但本题根据语境是完全不可能的否定推测。【解题技巧】情态动词表推测口诀：肯定推测用must（一定是），否定推测用can't（不可能是），不确定推测用may/might/could（可能是）。注意：mustn't表示\"禁止\"，不是\"不可能\"。",
       "label": "语法题"
     },
     {
       "id": 5,
       "type": "vocabulary",
-      "knowledge_point": "word_formation_satisfied",
+      "knowledge_point": "fixed_collocation",
       "difficulty": 1,
       "stem": "If you are ______ with your current score, you should work harder to get a better one.",
       "options": [
-        "A. satisfying",
-        "B. satisfied",
-        "C. satisfaction",
-        "D. satisfy"
+        "A. strict",
+        "B. busy",
+        "C. satisfied",
+        "D. angry"
       ],
-      "correct_answer": "B",
-      "explanation": "be satisfied with是固定搭配，表示'对……感到满意'。satisfying令人满意的（修饰物）；satisfaction是名词；satisfy是动词。主语是人，表示人的感受，用-ed形容词satisfied。",
+      "correct_answer": "C",
+      "explanation": "【解析】考查固定搭配be satisfied with（对……满意）。句意：如果你满足于目前的分数，你应该更努力以取得更好的成绩。A选项strict常与with搭配，be strict with表示\"对……严格\"，但语境不符；B选项busy常与with搭配，be busy with表示\"忙于……\"；D选项angry常与with/at搭配，be angry with表示\"对……生气\"。根据后半句\"work harder\"（更努力）可推断前半句指\"如果满足于现状\"，故选C。【解题技巧】be satisfied with是中考高频短语，记住satisfied（满意的）拼写和介词with的搭配。",
       "label": "词汇题"
     },
     {
       "id": 6,
       "type": "vocabulary",
-      "knowledge_point": "prefix_un_dis_re",
+      "knowledge_point": "context_vocabulary",
       "difficulty": 2,
-      "stem": "The weather was terrible, so we had to ______ our picnic plan.",
+      "stem": "The weather report says it will be ______ tomorrow, so remember to take an umbrella with you.",
       "options": [
-        "A. cancel",
-        "B. uncancel",
-        "C. recancel",
-        "D. discover"
+        "A. sunny",
+        "B. rainy",
+        "C. snow",
+        "D. wind"
       ],
-      "correct_answer": "A",
-      "explanation": "句意：天气很糟糕，所以我们不得不取消野餐计划。cancel（取消）符合语境。uncancel（恢复）前缀un-表示相反动作，但不符合句意；recancel（再次取消）前缀re-表示再次；discover（发现）前缀dis-加cover，与语境无关。",
+      "correct_answer": "B",
+      "explanation": "【解析】根据后半句\"take an umbrella\"（带伞）可推断明天会下雨。A选项sunny（晴朗的）不需要带伞；C选项snow（雪）和D选项wind（风）都是名词，而be动词后需接形容词作表语，应为snowy和windy。B选项rainy是形容词，意为\"下雨的\"，符合语法和语境。【解题技巧】做语境词汇题要找准关键词（umbrella→rainy），同时注意词性（be动词后接形容词）。常见天气形容词：sunny, rainy, cloudy, snowy, windy。",
       "label": "词汇题"
     },
     {
       "id": 7,
       "type": "vocabulary",
-      "knowledge_point": "word_meaning_context",
+      "knowledge_point": "word_formation",
       "difficulty": 2,
-      "stem": "We should take immediate actions to ______ the endangered animals.",
+      "stem": "We should take action to protect the ______ of wild animals.",
       "options": [
-        "A. protect",
-        "B. prevent",
-        "C. prepare",
-        "D. pronounce"
+        "A. safe",
+        "B. safely",
+        "C. safety",
+        "D. save"
       ],
-      "correct_answer": "A",
-      "explanation": "protect（保护）符合语境'保护濒危动物'。prevent（阻止）常与from搭配；prepare（准备）常与for搭配；pronounce（发音）。根据宾语endangered animals（濒危动物），应选择protect。",
+      "correct_answer": "C",
+      "explanation": "【解析】定冠词the后应接名词，构成protect the safety of...（保护……的安全）。A选项safe是形容词；B选项safely是副词；D选项save是动词（拯救）或介词（除了）。只有C选项safety是名词形式。【解题技巧】词性转换口诀：the后接名词，形容词修饰名词，副词修饰动词/形容词，动词作谓语。safe（adj.）→ safety（n.）；save（v.）→ safety（n.）。常见名词后缀：-ty（safety, beauty），-th（health, wealth）。",
       "label": "词汇题"
     },
     {
       "id": 8,
       "type": "cloze",
-      "knowledge_point": "cloze_context",
-      "difficulty": 2,
-      "group": "cloze_1",
-      "group_passage": "Last month, our school started an environmental protection project called \"Green Campus\". The goal was to reduce waste and save energy in our daily school life.\n\nAt first, many students were not interested in it. They thought it would be too much trouble to change their habits. However, our teacher Mr. Li encouraged us by saying, \"Small actions can make a big difference.\"\n\nOne of the first changes was to use reusable bottles instead of plastic ones. My classmate Tom, who always bought bottled water, decided to (8)______ his habit. He bought a nice metal bottle and filled it with water every morning. \"It's not only good for the environment but also saves money,\" he said.\n\nWe also started a recycling program in our classroom. Every Friday afternoon, we would collect paper, bottles and other recyclable materials. At first, some students found it (9)______ to remember which bin to use. But after a few weeks, it became a natural part of our routine.\n\nThe most challenging part was saving electricity. Many of us were used to leaving the lights on when leaving the classroom. To solve this problem, we appointed \"energy monitors\" for each class. Their job was to (10)______ that all lights and computers were turned off after school.\n\nAfter two months, the results were amazing. Our school's electricity bill dropped by 20%, and we recycled over 500 kilograms of waste. More importantly, students began to (11)______ that environmental protection wasn't just a slogan—it was something we could do every day.\n\nThis project has taught us that everyone can contribute to a better world. As the famous saying goes, \"We do not inherit the earth from our ancestors; we borrow it from our children.\" I am proud to be part of this (12)______ change in our school.",
+      "knowledge_point": "cloze_fixed_phrase",
+      "difficulty": 1,
       "stem": "(8)______",
       "options": [
-        "A. keep",
-        "B. change",
-        "C. form",
-        "D. follow"
+        "A. part",
+        "B. place",
+        "C. seat",
+        "D. room"
       ],
-      "correct_answer": "B",
-      "explanation": "根据上下文，前文提到之前总是买瓶装水，后文说买了金属水壶，说明是决定'改变'习惯。change（改变）符合语境。keep（保持）和follow（遵循）与后文矛盾；form（形成）通常指养成新习惯，这里指改掉旧习惯。",
-      "label": "完形填空"
+      "correct_answer": "A",
+      "explanation": "【解析】考查固定搭配take part in（参加）。句意：作为学生会的一员，我很兴奋能参加这次活动。B选项take place表示\"发生\"；C选项take a seat表示\"就座\"；D选项take room表示\"占用空间\"，均不符合语境。【解题技巧】完形填空遇到动词+名词搭配时，要考虑固定短语。take part in是中考必考短语，part前不加冠词。",
+      "label": "完形填空",
+      "group": "cloze_1",
+      "group_passage": "Last month, our school organized a volunteer activity to help the elderly in a nearby community. As a member of the Student Union, I was excited to take (8)______ in it.\n\nOn Saturday morning, we (9)______ at the community center at 8:00. The elderly people were already waiting for us. We first divided ourselves into small groups. Each group was responsible for different tasks. Some students cleaned the rooms, some sang songs, (10)______ others chatted with the elderly.\n\nI was in the group (11)______ helped with cleaning. While working, I noticed an old man sitting alone in the corner. I walked over and started talking to him. He told me that his children lived far away and seldom visited him. I felt sorry for him and decided to visit him (12)______.\n\nThe activity lasted for three hours. When we left, the elderly people thanked us with warm smiles. Though I felt a little tired, I was happy because I brought joy to others. This experience taught me that giving is receiving. I hope more students can join in such meaningful activities."
     },
     {
       "id": 9,
       "type": "cloze",
-      "knowledge_point": "cloze_general",
+      "knowledge_point": "cloze_verb_distinction",
       "difficulty": 1,
-      "group": "cloze_1",
-      "group_passage": "Last month, our school started an environmental protection project called \"Green Campus\". The goal was to reduce waste and save energy in our daily school life.\n\nAt first, many students were not interested in it. They thought it would be too much trouble to change their habits. However, our teacher Mr. Li encouraged us by saying, \"Small actions can make a big difference.\"\n\nOne of the first changes was to use reusable bottles instead of plastic ones. My classmate Tom, who always bought bottled water, decided to (8)______ his habit. He bought a nice metal bottle and filled it with water every morning. \"It's not only good for the environment but also saves money,\" he said.\n\nWe also started a recycling program in our classroom. Every Friday afternoon, we would collect paper, bottles and other recyclable materials. At first, some students found it (9)______ to remember which bin to use. But after a few weeks, it became a natural part of our routine.\n\nThe most challenging part was saving electricity. Many of us were used to leaving the lights on when leaving the classroom. To solve this problem, we appointed \"energy monitors\" for each class. Their job was to (10)______ that all lights and computers were turned off after school.\n\nAfter two months, the results were amazing. Our school's electricity bill dropped by 20%, and we recycled over 500 kilograms of waste. More importantly, students began to (11)______ that environmental protection wasn't just a slogan—it was something we could do every day.\n\nThis project has taught us that everyone can contribute to a better world. As the famous saying goes, \"We do not inherit the earth from our ancestors; we borrow it from our children.\" I am proud to be part of this (12)______ change in our school.",
       "stem": "(9)______",
       "options": [
-        "A. easy",
-        "B. difficult",
-        "C. interesting",
-        "D. necessary"
+        "A. arrived",
+        "B. got",
+        "C. reached",
+        "D. came"
       ],
-      "correct_answer": "B",
-      "explanation": "根据后句But after a few weeks, it became natural（但几周后变得自然了），可推断起初觉得'困难'。difficult（困难的）与后文形成转折对比。easy（容易的）与后文矛盾；interesting（有趣的）和necessary（必要的）不符合转折逻辑。",
-      "label": "完形填空"
+      "correct_answer": "A",
+      "explanation": "【解析】考查动词辨析。空格后有介词at，arrive at+小地点（到达某地）是固定搭配。B选项got需与to搭配，get to+地点；C选项reached是及物动词，直接接地点，不需要介词；D选项came需与to搭配，come to+地点。因此只有arrived符合语法要求。【解题技巧】到达某地的三种表达：arrive in（大地点）/at（小地点）；get to+地点；reach+地点（及物动词）。注意reach和arrive的用法区别。",
+      "label": "完形填空",
+      "group": "cloze_1",
+      "group_passage": "Last month, our school organized a volunteer activity to help the elderly in a nearby community. As a member of the Student Union, I was excited to take (8)______ in it.\n\nOn Saturday morning, we (9)______ at the community center at 8:00. The elderly people were already waiting for us. We first divided ourselves into small groups. Each group was responsible for different tasks. Some students cleaned the rooms, some sang songs, (10)______ others chatted with the elderly.\n\nI was in the group (11)______ helped with cleaning. While working, I noticed an old man sitting alone in the corner. I walked over and started talking to him. He told me that his children lived far away and seldom visited him. I felt sorry for him and decided to visit him (12)______.\n\nThe activity lasted for three hours. When we left, the elderly people thanked us with warm smiles. Though I felt a little tired, I was happy because I brought joy to others. This experience taught me that giving is receiving. I hope more students can join in such meaningful activities."
     },
     {
       "id": 10,
       "type": "cloze",
-      "knowledge_point": "cloze_general",
+      "knowledge_point": "relative_clause_who_which",
       "difficulty": 2,
-      "group": "cloze_1",
-      "group_passage": "Last month, our school started an environmental protection project called \"Green Campus\". The goal was to reduce waste and save energy in our daily school life.\n\nAt first, many students were not interested in it. They thought it would be too much trouble to change their habits. However, our teacher Mr. Li encouraged us by saying, \"Small actions can make a big difference.\"\n\nOne of the first changes was to use reusable bottles instead of plastic ones. My classmate Tom, who always bought bottled water, decided to (8)______ his habit. He bought a nice metal bottle and filled it with water every morning. \"It's not only good for the environment but also saves money,\" he said.\n\nWe also started a recycling program in our classroom. Every Friday afternoon, we would collect paper, bottles and other recyclable materials. At first, some students found it (9)______ to remember which bin to use. But after a few weeks, it became a natural part of our routine.\n\nThe most challenging part was saving electricity. Many of us were used to leaving the lights on when leaving the classroom. To solve this problem, we appointed \"energy monitors\" for each class. Their job was to (10)______ that all lights and computers were turned off after school.\n\nAfter two months, the results were amazing. Our school's electricity bill dropped by 20%, and we recycled over 500 kilograms of waste. More importantly, students began to (11)______ that environmental protection wasn't just a slogan—it was something we could do every day.\n\nThis project has taught us that everyone can contribute to a better world. As the famous saying goes, \"We do not inherit the earth from our ancestors; we borrow it from our children.\" I am proud to be part of this (12)______ change in our school.",
       "stem": "(10)______",
       "options": [
-        "A. doubt",
-        "B. forget",
-        "C. check",
-        "D. imagine"
+        "A. but",
+        "B. or",
+        "C. and",
+        "D. so"
       ],
       "correct_answer": "C",
-      "explanation": "节能委员的职责应该是'检查'关灯情况。check（检查）符合语境。doubt（怀疑）、forget（忘记）、imagine（想象）都不符合节能委员的职责描述。",
-      "label": "完形填空"
+      "explanation": "【解析】考查并列连词。前文\"Some students cleaned the rooms, some sang songs\"（一些学生打扫房间，一些唱歌）与后文\"others chatted with the elderly\"（其他人陪老人聊天）是并列关系，列举不同的任务，应用and连接。A选项but表转折；B选项or表选择；D选项so表结果。【解题技巧】完形填空看到some...some...others...结构时，通常用and连接，构成\"一些……一些……还有一些……\"的并列列举结构。",
+      "label": "完形填空",
+      "group": "cloze_1",
+      "group_passage": "Last month, our school organized a volunteer activity to help the elderly in a nearby community. As a member of the Student Union, I was excited to take (8)______ in it.\n\nOn Saturday morning, we (9)______ at the community center at 8:00. The elderly people were already waiting for us. We first divided ourselves into small groups. Each group was responsible for different tasks. Some students cleaned the rooms, some sang songs, (10)______ others chatted with the elderly.\n\nI was in the group (11)______ helped with cleaning. While working, I noticed an old man sitting alone in the corner. I walked over and started talking to him. He told me that his children lived far away and seldom visited him. I felt sorry for him and decided to visit him (12)______.\n\nThe activity lasted for three hours. When we left, the elderly people thanked us with warm smiles. Though I felt a little tired, I was happy because I brought joy to others. This experience taught me that giving is receiving. I hope more students can join in such meaningful activities."
     },
     {
       "id": 11,
       "type": "cloze",
-      "knowledge_point": "cloze_general",
+      "knowledge_point": "cloze_relative_clause",
       "difficulty": 2,
-      "group": "cloze_1",
-      "group_passage": "Last month, our school started an environmental protection project called \"Green Campus\". The goal was to reduce waste and save energy in our daily school life.\n\nAt first, many students were not interested in it. They thought it would be too much trouble to change their habits. However, our teacher Mr. Li encouraged us by saying, \"Small actions can make a big difference.\"\n\nOne of the first changes was to use reusable bottles instead of plastic ones. My classmate Tom, who always bought bottled water, decided to (8)______ his habit. He bought a nice metal bottle and filled it with water every morning. \"It's not only good for the environment but also saves money,\" he said.\n\nWe also started a recycling program in our classroom. Every Friday afternoon, we would collect paper, bottles and other recyclable materials. At first, some students found it (9)______ to remember which bin to use. But after a few weeks, it became a natural part of our routine.\n\nThe most challenging part was saving electricity. Many of us were used to leaving the lights on when leaving the classroom. To solve this problem, we appointed \"energy monitors\" for each class. Their job was to (10)______ that all lights and computers were turned off after school.\n\nAfter two months, the results were amazing. Our school's electricity bill dropped by 20%, and we recycled over 500 kilograms of waste. More importantly, students began to (11)______ that environmental protection wasn't just a slogan—it was something we could do every day.\n\nThis project has taught us that everyone can contribute to a better world. As the famous saying goes, \"We do not inherit the earth from our ancestors; we borrow it from our children.\" I am proud to be part of this (12)______ change in our school.",
       "stem": "(11)______",
       "options": [
-        "A. realize",
-        "B. refuse",
-        "C. promise",
-        "D. regret"
+        "A. who",
+        "B. which",
+        "C. whom",
+        "D. what"
       ],
-      "correct_answer": "A",
-      "explanation": "根据句意'学生们开始意识到环保不只是口号'，realize（意识到）符合语境。refuse（拒绝）、promise（承诺）、regret（后悔）都不符合此处表达认知变化的语境。",
-      "label": "完形填空"
+      "correct_answer": "B",
+      "explanation": "【解析】考查定语从句关系词。先行词是\"the group\"（指物），定语从句\"______ helped with cleaning\"中缺少主语，因此用which或that。A选项who指人；C选项whom指人但只能作宾语；D选项what不能引导定语从句。【解题技巧】定语从句选关系词：先看先行词指人还是物（group指物），再看从句缺什么成分（缺主语）。指物作主语用which/that，指人作主语用who/that。",
+      "label": "完形填空",
+      "group": "cloze_1",
+      "group_passage": "Last month, our school organized a volunteer activity to help the elderly in a nearby community. As a member of the Student Union, I was excited to take (8)______ in it.\n\nOn Saturday morning, we (9)______ at the community center at 8:00. The elderly people were already waiting for us. We first divided ourselves into small groups. Each group was responsible for different tasks. Some students cleaned the rooms, some sang songs, (10)______ others chatted with the elderly.\n\nI was in the group (11)______ helped with cleaning. While working, I noticed an old man sitting alone in the corner. I walked over and started talking to him. He told me that his children lived far away and seldom visited him. I felt sorry for him and decided to visit him (12)______.\n\nThe activity lasted for three hours. When we left, the elderly people thanked us with warm smiles. Though I felt a little tired, I was happy because I brought joy to others. This experience taught me that giving is receiving. I hope more students can join in such meaningful activities."
     },
     {
       "id": 12,
       "type": "cloze",
-      "knowledge_point": "cloze_general",
-      "difficulty": 1,
-      "group": "cloze_1",
-      "group_passage": "Last month, our school started an environmental protection project called \"Green Campus\". The goal was to reduce waste and save energy in our daily school life.\n\nAt first, many students were not interested in it. They thought it would be too much trouble to change their habits. However, our teacher Mr. Li encouraged us by saying, \"Small actions can make a big difference.\"\n\nOne of the first changes was to use reusable bottles instead of plastic ones. My classmate Tom, who always bought bottled water, decided to (8)______ his habit. He bought a nice metal bottle and filled it with water every morning. \"It's not only good for the environment but also saves money,\" he said.\n\nWe also started a recycling program in our classroom. Every Friday afternoon, we would collect paper, bottles and other recyclable materials. At first, some students found it (9)______ to remember which bin to use. But after a few weeks, it became a natural part of our routine.\n\nThe most challenging part was saving electricity. Many of us were used to leaving the lights on when leaving the classroom. To solve this problem, we appointed \"energy monitors\" for each class. Their job was to (10)______ that all lights and computers were turned off after school.\n\nAfter two months, the results were amazing. Our school's electricity bill dropped by 20%, and we recycled over 500 kilograms of waste. More importantly, students began to (11)______ that environmental protection wasn't just a slogan—it was something we could do every day.\n\nThis project has taught us that everyone can contribute to a better world. As the famous saying goes, \"We do not inherit the earth from our ancestors; we borrow it from our children.\" I am proud to be part of this (12)______ change in our school.",
+      "knowledge_point": "cloze_context_logic",
+      "difficulty": 2,
       "stem": "(12)______",
       "options": [
-        "A. sudden",
-        "B. strange",
-        "C. meaningless",
-        "D. meaningful"
+        "A. usual",
+        "B. regular",
+        "C. regularly",
+        "D. usually"
       ],
-      "correct_answer": "D",
-      "explanation": "根据全文积极的基调，以及前文提到的环保成果，meaningful（有意义的）符合语境。sudden（突然的）与after two months矛盾；strange（奇怪的）和meaningless（无意义的）与作者自豪的态度相反。",
-      "label": "完形填空"
+      "correct_answer": "C",
+      "explanation": "【解析】考查副词用法。此处修饰动词visit（拜访），需要用副词。A选项usual是形容词；B选项regular是形容词；C选项regularly是副词（定期地）；D选项usually是副词（通常）。根据语境\"我决定定期拜访他\"，regularly更符合句意，强调动作的规律性。【解题技巧】形容词变副词通常加-ly（regular→regularly）。修饰动词用副词，修饰名词用形容词。根据语境：usual（通常的），regular（定期的），此处表达定期看望老人，选regularly。",
+      "label": "完形填空",
+      "group": "cloze_1",
+      "group_passage": "Last month, our school organized a volunteer activity to help the elderly in a nearby community. As a member of the Student Union, I was excited to take (8)______ in it.\n\nOn Saturday morning, we (9)______ at the community center at 8:00. The elderly people were already waiting for us. We first divided ourselves into small groups. Each group was responsible for different tasks. Some students cleaned the rooms, some sang songs, (10)______ others chatted with the elderly.\n\nI was in the group (11)______ helped with cleaning. While working, I noticed an old man sitting alone in the corner. I walked over and started talking to him. He told me that his children lived far away and seldom visited him. I felt sorry for him and decided to visit him (12)______.\n\nThe activity lasted for three hours. When we left, the elderly people thanked us with warm smiles. Though I felt a little tired, I was happy because I brought joy to others. This experience taught me that giving is receiving. I hope more students can join in such meaningful activities."
     },
     {
       "id": 13,
       "type": "reading",
       "knowledge_point": "detail",
-      "difficulty": 2,
-      "group": "reading_1",
-      "group_passage": "Many students sacrifice sleep to study for exams, thinking that more study time means better grades. However, recent scientific research shows that this might actually hurt academic performance.\n\nScientists at a university in the US conducted a study with 500 high school students. They found that students who slept less than 6 hours a night had trouble concentrating in class. Their test scores were 20% lower than those who slept 8 hours or more.\n\n\"Sleep is like food for the brain,\" explains Dr. Sarah Chen, a sleep expert. \"During sleep, your brain processes and stores information you learned during the day. Without enough sleep, your brain cannot do this job well.\"\n\nThe study also found an interesting rhythm in learning efficiency. Students who took short naps (15-30 minutes) after lunch performed better in afternoon classes. This is because the brain needs rest to work at its best.\n\nHowever, many teenagers struggle to get enough sleep. School schedules, homework pressure, and the use of electronic devices before bed all contribute to this problem. The blue light from phones and computers can strain your eyes and make it harder to fall asleep (strain: 使疲劳；损伤).\n\nTo solve this issue, experts suggest three things. First, establish a regular sleep schedule and stick to it even on weekends. Second, avoid using electronic devices one hour before bedtime. Third, create a comfortable sleep environment with proper temperature and darkness.\n\nRemember, sacrificing sleep for study time is like borrowing money at high interest. You might gain an hour of study time, but you lose two hours of productivity the next day. Good sleep habits are not a waste of time—they are an investment in your academic success.",
-      "stem": "What did the scientists find in the study?",
+      "difficulty": 1,
+      "stem": "Where did scientists first discover the PETase enzyme?",
       "options": [
-        "A. Students who slept less got higher scores.",
-        "B. More sleep always leads to better grades.",
-        "C. Students with less than 6 hours' sleep had lower test scores.",
-        "D. All students should sleep exactly 8 hours every night."
+        "A. In the ocean.",
+        "B. In a waste recycling center.",
+        "C. In a laboratory.",
+        "D. In a factory."
       ],
-      "correct_answer": "C",
-      "explanation": "细节定位题。根据第二段'They found that students who slept less than 6 hours a night... Their test scores were 20% lower than those who slept 8 hours or more'，可知睡眠不足6小时的学生分数更低。A与原文相反；B中always过于绝对；D中exactly 8 hours不是研究结论，研究说的是8小时或以上。",
-      "label": "阅读-细节理解"
+      "correct_answer": "B",
+      "explanation": "【解析】细节理解题。根据文章第二段第一句\"In 2016, researchers in Japan discovered an enzyme called PETase in a waste recycling center.\"可知，科学家是在一个废品回收中心（waste recycling center）首次发现这种酶的。A选项在海洋中是塑料垃圾最终去向；C选项实验室是后续改良的地方；D选项工厂是公司可能应用的场所。【解题技巧】细节题要找准关键词（PETase, discovered），回原文定位到具体句子，注意同义转换（first discover对应discovered...in 2016）。",
+      "label": "阅读-细节理解",
+      "group": "reading_1",
+      "group_passage": "Plastic waste has become a serious environmental problem. Every year, millions of tons of plastic end up in oceans and landfills. However, a group of scientists has found a new way to deal with this problem—using special enzymes (酶) to break down plastic quickly.\n\nIn 2016, researchers in Japan discovered an enzyme called PETase in a waste recycling center. This enzyme can break down PET plastic, which is commonly used in water bottles. Recently, scientists have improved this enzyme to work much faster. The new version can break down plastic in just a few days, while in nature, plastic takes hundreds of years to decompose.\n\nThis breakthrough has excited environmentalists around the world. \"If we can produce this enzyme on a large scale, it could revolutionize how we recycle plastic,\" said Dr. Sarah Chen, a leading researcher. However, she also pointed out that this technology is still in the early stages. More tests are needed before it can be used widely.\n\nDespite these challenges, many people are hopeful. Some companies have already shown interest in using this technology. They believe it could help reduce the \"white pollution\" that harms our planet. As one environmentalist said, \"Nature has given us a solution; we just need to use it wisely.\""
     },
     {
       "id": 14,
       "type": "reading",
-      "knowledge_point": "word_guessing_context",
-      "difficulty": 2,
-      "group": "reading_1",
-      "group_passage": "Many students sacrifice sleep to study for exams, thinking that more study time means better grades. However, recent scientific research shows that this might actually hurt academic performance.\n\nScientists at a university in the US conducted a study with 500 high school students. They found that students who slept less than 6 hours a night had trouble concentrating in class. Their test scores were 20% lower than those who slept 8 hours or more.\n\n\"Sleep is like food for the brain,\" explains Dr. Sarah Chen, a sleep expert. \"During sleep, your brain processes and stores information you learned during the day. Without enough sleep, your brain cannot do this job well.\"\n\nThe study also found an interesting rhythm in learning efficiency. Students who took short naps (15-30 minutes) after lunch performed better in afternoon classes. This is because the brain needs rest to work at its best.\n\nHowever, many teenagers struggle to get enough sleep. School schedules, homework pressure, and the use of electronic devices before bed all contribute to this problem. The blue light from phones and computers can strain your eyes and make it harder to fall asleep (strain: 使疲劳；损伤).\n\nTo solve this issue, experts suggest three things. First, establish a regular sleep schedule and stick to it even on weekends. Second, avoid using electronic devices one hour before bedtime. Third, create a comfortable sleep environment with proper temperature and darkness.\n\nRemember, sacrificing sleep for study time is like borrowing money at high interest. You might gain an hour of study time, but you lose two hours of productivity the next day. Good sleep habits are not a waste of time—they are an investment in your academic success.",
-      "stem": "What does the word \"sacrificing\" in Paragraph 1 probably mean?",
+      "knowledge_point": "inference",
+      "difficulty": 3,
+      "stem": "What can we infer from Dr. Sarah Chen's words?",
       "options": [
-        "A. Giving up something important to get something else.",
-        "B. Enjoying something pleasant with friends.",
-        "C. Studying hard without any rest.",
-        "D. Spending money on expensive things."
+        "A. The enzyme is ready for mass production now.",
+        "B. The technology needs more development.",
+        "C. Plastic pollution is no longer a problem.",
+        "D. Scientists should stop studying enzymes."
       ],
-      "correct_answer": "A",
-      "explanation": "词义猜测题。根据上下文'sacrifice sleep to study'（为了学习而sacrifice睡眠），以及最后一段'sacrificing sleep for study time is like borrowing money at high interest'，可知sacrifice表示'牺牲、放弃'，即放弃睡眠来换取学习时间。选A。",
-      "label": "阅读-词义猜测"
+      "correct_answer": "B",
+      "explanation": "【解析】推理判断题。根据第三段Dr. Sarah Chen的话\"this technology is still in the early stages. More tests are needed before it can be used widely\"（这项技术仍处于早期阶段，在广泛应用前还需要更多测试）可推断，这项技术还需要进一步发展和完善。A选项与原文\"still in the early stages\"矛盾；C选项与第一段\"serious environmental problem\"矛盾；D选项与科学家的研究行为矛盾。【解题技巧】推理题不能选原文直接陈述的，要选言下之意。关键词：early stages（早期阶段）→ needs more development（需要更多发展）；more tests needed（需要更多测试）→ not ready now（尚未准备好）。",
+      "label": "阅读-推理判断",
+      "group": "reading_1",
+      "group_passage": "Plastic waste has become a serious environmental problem. Every year, millions of tons of plastic end up in oceans and landfills. However, a group of scientists has found a new way to deal with this problem—using special enzymes (酶) to break down plastic quickly.\n\nIn 2016, researchers in Japan discovered an enzyme called PETase in a waste recycling center. This enzyme can break down PET plastic, which is commonly used in water bottles. Recently, scientists have improved this enzyme to work much faster. The new version can break down plastic in just a few days, while in nature, plastic takes hundreds of years to decompose.\n\nThis breakthrough has excited environmentalists around the world. \"If we can produce this enzyme on a large scale, it could revolutionize how we recycle plastic,\" said Dr. Sarah Chen, a leading researcher. However, she also pointed out that this technology is still in the early stages. More tests are needed before it can be used widely.\n\nDespite these challenges, many people are hopeful. Some companies have already shown interest in using this technology. They believe it could help reduce the \"white pollution\" that harms our planet. As one environmentalist said, \"Nature has given us a solution; we just need to use it wisely.\""
     },
     {
       "id": 15,
       "type": "reading",
-      "knowledge_point": "inference",
-      "difficulty": 3,
-      "group": "reading_1",
-      "group_passage": "Many students sacrifice sleep to study for exams, thinking that more study time means better grades. However, recent scientific research shows that this might actually hurt academic performance.\n\nScientists at a university in the US conducted a study with 500 high school students. They found that students who slept less than 6 hours a night had trouble concentrating in class. Their test scores were 20% lower than those who slept 8 hours or more.\n\n\"Sleep is like food for the brain,\" explains Dr. Sarah Chen, a sleep expert. \"During sleep, your brain processes and stores information you learned during the day. Without enough sleep, your brain cannot do this job well.\"\n\nThe study also found an interesting rhythm in learning efficiency. Students who took short naps (15-30 minutes) after lunch performed better in afternoon classes. This is because the brain needs rest to work at its best.\n\nHowever, many teenagers struggle to get enough sleep. School schedules, homework pressure, and the use of electronic devices before bed all contribute to this problem. The blue light from phones and computers can strain your eyes and make it harder to fall asleep (strain: 使疲劳；损伤).\n\nTo solve this issue, experts suggest three things. First, establish a regular sleep schedule and stick to it even on weekends. Second, avoid using electronic devices one hour before bedtime. Third, create a comfortable sleep environment with proper temperature and darkness.\n\nRemember, sacrificing sleep for study time is like borrowing money at high interest. You might gain an hour of study time, but you lose two hours of productivity the next day. Good sleep habits are not a waste of time—they are an investment in your academic success.",
-      "stem": "What can we infer from the passage about naps?",
+      "knowledge_point": "word_guessing_context",
+      "difficulty": 2,
+      "stem": "What does the underlined word \"decompose\" in Paragraph 2 probably mean?",
       "options": [
-        "A. All students must take naps to pass exams.",
-        "B. Short naps after lunch can improve learning efficiency.",
-        "C. Napping is a waste of valuable study time.",
-        "D. Students should sleep for at least one hour after lunch."
+        "A. 分解",
+        "B. 生产",
+        "C. 收集",
+        "D. 运输"
       ],
-      "correct_answer": "B",
-      "explanation": "推理判断题。根据第四段'Students who took short naps (15-30 minutes) after lunch performed better in afternoon classes'，可推断出短时间午睡能提高学习效率。A中must过于绝对；C与原文相反；D中at least one hour与原文15-30 minutes矛盾。",
-      "label": "阅读-推理判断"
+      "correct_answer": "A",
+      "explanation": "【解析】词义猜测题。根据第二段对比结构\"The new version can break down plastic in just a few days, while in nature, plastic takes hundreds of years to decompose\"可知，while表示对比，decompose与前面的break down（分解）意思相近。酶能在几天内break down塑料，而自然状态下需要数百年才能decompose，因此decompose意为\"分解\"。B选项produce（生产）、C选项collect（收集）、D选项transport（运输）均不符合语境。【解题技巧】词义猜测题找逻辑关系：1. 看前后是否有对比（while, but）或并列（and, or）关系；2. 找同义词或反义词线索；3. 根据上下文语境（塑料被酶分解）推断。",
+      "label": "阅读-词义猜测",
+      "group": "reading_1",
+      "group_passage": "Plastic waste has become a serious environmental problem. Every year, millions of tons of plastic end up in oceans and landfills. However, a group of scientists has found a new way to deal with this problem—using special enzymes (酶) to break down plastic quickly.\n\nIn 2016, researchers in Japan discovered an enzyme called PETase in a waste recycling center. This enzyme can break down PET plastic, which is commonly used in water bottles. Recently, scientists have improved this enzyme to work much faster. The new version can break down plastic in just a few days, while in nature, plastic takes hundreds of years to decompose.\n\nThis breakthrough has excited environmentalists around the world. \"If we can produce this enzyme on a large scale, it could revolutionize how we recycle plastic,\" said Dr. Sarah Chen, a leading researcher. However, she also pointed out that this technology is still in the early stages. More tests are needed before it can be used widely.\n\nDespite these challenges, many people are hopeful. Some companies have already shown interest in using this technology. They believe it could help reduce the \"white pollution\" that harms our planet. As one environmentalist said, \"Nature has given us a solution; we just need to use it wisely.\""
     },
     {
       "id": 16,
       "type": "reading",
       "knowledge_point": "main_idea_title",
       "difficulty": 3,
-      "group": "reading_1",
-      "group_passage": "Many students sacrifice sleep to study for exams, thinking that more study time means better grades. However, recent scientific research shows that this might actually hurt academic performance.\n\nScientists at a university in the US conducted a study with 500 high school students. They found that students who slept less than 6 hours a night had trouble concentrating in class. Their test scores were 20% lower than those who slept 8 hours or more.\n\n\"Sleep is like food for the brain,\" explains Dr. Sarah Chen, a sleep expert. \"During sleep, your brain processes and stores information you learned during the day. Without enough sleep, your brain cannot do this job well.\"\n\nThe study also found an interesting rhythm in learning efficiency. Students who took short naps (15-30 minutes) after lunch performed better in afternoon classes. This is because the brain needs rest to work at its best.\n\nHowever, many teenagers struggle to get enough sleep. School schedules, homework pressure, and the use of electronic devices before bed all contribute to this problem. The blue light from phones and computers can strain your eyes and make it harder to fall asleep (strain: 使疲劳；损伤).\n\nTo solve this issue, experts suggest three things. First, establish a regular sleep schedule and stick to it even on weekends. Second, avoid using electronic devices one hour before bedtime. Third, create a comfortable sleep environment with proper temperature and darkness.\n\nRemember, sacrificing sleep for study time is like borrowing money at high interest. You might gain an hour of study time, but you lose two hours of productivity the next day. Good sleep habits are not a waste of time—they are an investment in your academic success.",
       "stem": "What is the best title for this passage?",
       "options": [
-        "A. How to Pass Exams Easily",
-        "B. The Dangers of Electronic Devices",
-        "C. Sleep: The Secret to Better Grades",
-        "D. Why Students Should Study Less"
+        "A. The History of Plastic",
+        "B. Japanese Scientists' Discovery",
+        "C. A New Way to Recycle Plastic",
+        "D. The Dangers of White Pollution"
       ],
       "correct_answer": "C",
-      "explanation": "主旨大意题。文章开篇指出牺牲睡眠学习反而有害，接着用研究说明睡眠与成绩的关系，最后强调睡眠是学业成功的投资。C选项'Sleep: The Secret to Better Grades'（睡眠：取得好成绩的秘诀）最能概括全文。A过于宽泛；B只是文中一个细节；D与文章主旨不符，文章不是说少学习，而是强调睡眠的重要性。",
-      "label": "阅读-主旨大意"
+      "explanation": "【解析】主旨大意题。文章第一段提出问题（塑料污染），第二段介绍新方法（酶分解塑料），第三段讲技术现状，第四段讲应用前景。全文核心是介绍一种利用酶分解塑料的新型回收方式。A选项只涉及塑料历史，偏离主题；B选项只涉及日本科学家的发现，过于片面；D选项只讲白色污染的危害，是背景介绍而非主旨。C选项\"一种回收塑料的新方法\"概括全文。【解题技巧】主旨题/标题题要抓住\"高频词\"和\"首尾段\"。本文高频词：enzyme, plastic, recycle, break down。排除法：太具体的（B）、太宽泛的（D）、偏离主题的（A）都不选，选能概括主要内容的（C）。",
+      "label": "阅读-主旨大意",
+      "group": "reading_1",
+      "group_passage": "Plastic waste has become a serious environmental problem. Every year, millions of tons of plastic end up in oceans and landfills. However, a group of scientists has found a new way to deal with this problem—using special enzymes (酶) to break down plastic quickly.\n\nIn 2016, researchers in Japan discovered an enzyme called PETase in a waste recycling center. This enzyme can break down PET plastic, which is commonly used in water bottles. Recently, scientists have improved this enzyme to work much faster. The new version can break down plastic in just a few days, while in nature, plastic takes hundreds of years to decompose.\n\nThis breakthrough has excited environmentalists around the world. \"If we can produce this enzyme on a large scale, it could revolutionize how we recycle plastic,\" said Dr. Sarah Chen, a leading researcher. However, she also pointed out that this technology is still in the early stages. More tests are needed before it can be used widely.\n\nDespite these challenges, many people are hopeful. Some companies have already shown interest in using this technology. They believe it could help reduce the \"white pollution\" that harms our planet. As one environmentalist said, \"Nature has given us a solution; we just need to use it wisely.\""
     },
     {
       "id": 17,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "group": "fill_1",
-      "group_passage": "Joining a school club is a great way to enrich your middle school life. Last term, I decided to join the Science Club. (17)______, I was nervous because I didn't know anyone there.\n\n(18)______, the club leader, a friendly senior student, welcomed me warmly. She told me that the club was for everyone who loved science. Our first project was to build a small robot. (19)______, I didn't know how to start. The leader paired me with Tom, who patiently taught me the basics.\n\nStep by step, I learned how to assemble the parts. (20)______, I not only made good friends but also won second prize in the school science competition. Joining the club was really a great experience.",
       "stem": "(17)______",
       "options": [
-        "A. However",
-        "B. As a result",
-        "C. Although",
-        "D. Then",
-        "E. At first"
+        "A. However, spending all day studying is not healthy.",
+        "B. For example, you can do some stretching exercises or go for a walk.",
+        "C. As a result, you will feel more energetic and focused.",
+        "D. In addition, exercise helps reduce stress and improve sleep quality.",
+        "E. On the other hand, too much exercise may affect your study time."
       ],
-      "correct_answer": "E",
-      "explanation": "根据后文'I was nervous'及下一段开头的转折，这里表示'起初'的感受。At first（起初，一开始）符合时间顺序和语境逻辑，与后文的转折形成对比。",
-      "label": "短文填空"
+      "correct_answer": "A",
+      "explanation": "【解析】考查转折关系。前文提到\"Many students struggle to balance their study time and physical exercise\"（许多学生难以平衡学习和运动），后文应该转折指出只学习不运动的问题。A选项\"然而，整天学习并不健康\"承上启下，引出运动的必要性。B选项是举例，C选项是结果，D选项是递进，E选项是另一方面，均不适合放在开头段落的转折位置。【解题技巧】选句子填空看逻辑：However表转折（然而），For example表举例，As a result表结果，In addition表递进，On the other hand表另一方面。根据上下文逻辑关系选择。",
+      "label": "短文填空",
+      "group": "fill_1",
+      "group_passage": "Many students struggle to balance their study time and physical exercise. They often wonder how to find time for sports when they have so much homework to do. (17)______\n\nIn fact, moderate exercise can actually improve your study efficiency. When you exercise, your brain gets more oxygen and blood flow. (18)______ \n\n(19)______ Therefore, it is important to plan your time wisely. You can schedule short exercise breaks between study sessions. (20)______ \n\nRemember, a healthy body supports a healthy mind. By finding the right balance, you can achieve better results in both your studies and physical health."
     },
     {
       "id": 18,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "group": "fill_1",
-      "group_passage": "Joining a school club is a great way to enrich your middle school life. Last term, I decided to join the Science Club. (17)______, I was nervous because I didn't know anyone there.\n\n(18)______, the club leader, a friendly senior student, welcomed me warmly. She told me that the club was for everyone who loved science. Our first project was to build a small robot. (19)______, I didn't know how to start. The leader paired me with Tom, who patiently taught me the basics.\n\nStep by step, I learned how to assemble the parts. (20)______, I not only made good friends but also won second prize in the school science competition. Joining the club was really a great experience.",
       "stem": "(18)______",
       "options": [
-        "A. However",
-        "B. As a result",
-        "C. Although",
-        "D. Then",
-        "E. At first"
+        "A. However, spending all day studying is not healthy.",
+        "B. For example, you can do some stretching exercises or go for a walk.",
+        "C. As a result, you will feel more energetic and focused.",
+        "D. In addition, exercise helps reduce stress and improve sleep quality.",
+        "E. On the other hand, too much exercise may affect your study time."
       ],
-      "correct_answer": "A",
-      "explanation": "前文说紧张害怕，后文说受到热烈欢迎，前后是转折关系。However（然而）表示转折，符合逻辑。注意However后常用逗号，与原文格式一致。",
-      "label": "短文填空"
+      "correct_answer": "C",
+      "explanation": "【解析】考查因果关系。前文\"When you exercise, your brain gets more oxygen and blood flow\"（当你运动时，大脑获得更多氧气和血液流动）是原因，后文应该是结果。C选项\"因此，你会感到更有活力、更专注\"是前文带来的结果，As a result（因此）表示因果关系。【解题技巧】前因后果选As a result/Therefore/So。前文讲运动对大脑的生理好处（oxygen, blood flow），后文讲主观感受（energetic, focused），构成因果关系。",
+      "label": "短文填空",
+      "group": "fill_1",
+      "group_passage": "Many students struggle to balance their study time and physical exercise. They often wonder how to find time for sports when they have so much homework to do. (17)______\n\nIn fact, moderate exercise can actually improve your study efficiency. When you exercise, your brain gets more oxygen and blood flow. (18)______ \n\n(19)______ Therefore, it is important to plan your time wisely. You can schedule short exercise breaks between study sessions. (20)______ \n\nRemember, a healthy body supports a healthy mind. By finding the right balance, you can achieve better results in both your studies and physical health."
     },
     {
       "id": 19,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "group": "fill_1",
-      "group_passage": "Joining a school club is a great way to enrich your middle school life. Last term, I decided to join the Science Club. (17)______, I was nervous because I didn't know anyone there.\n\n(18)______, the club leader, a friendly senior student, welcomed me warmly. She told me that the club was for everyone who loved science. Our first project was to build a small robot. (19)______, I didn't know how to start. The leader paired me with Tom, who patiently taught me the basics.\n\nStep by step, I learned how to assemble the parts. (20)______, I not only made good friends but also won second prize in the school science competition. Joining the club was really a great experience.",
       "stem": "(19)______",
       "options": [
-        "A. However",
-        "B. As a result",
-        "C. Although",
-        "D. Then",
-        "E. At first"
+        "A. However, spending all day studying is not healthy.",
+        "B. For example, you can do some stretching exercises or go for a walk.",
+        "C. As a result, you will feel more energetic and focused.",
+        "D. In addition, exercise helps reduce stress and improve sleep quality.",
+        "E. On the other hand, too much exercise may affect your study time."
       ],
       "correct_answer": "D",
-      "explanation": "此处表示时间顺序：项目开始了，然后/接着我不知道如何开始。Then（然后，接着）表示时间上的承接。后文说老师给我配对搭档，也是按时间顺序发展的。",
-      "label": "短文填空"
+      "explanation": "【解析】考查递进关系。前文讲运动能提高学习效率（improve your study efficiency），本段继续讲运动的其他好处（reduce stress and improve sleep quality），是递进关系。D选项\"此外，运动有助于减轻压力和改善睡眠质量\"符合语境，In addition（此外，而且）表示递进。E选项虽然也是补充内容，但讲的是运动的负面影响，与后文\"Therefore, it is important to plan your time wisely\"（因此，明智地规划时间很重要）衔接不如D选项自然。【解题技巧】In addition/Furthermore/Moreover表递进，补充说明同类事物的另一个优点。前文讲学习效率，此处讲压力睡眠，都是运动的益处，属递进关系。",
+      "label": "短文填空",
+      "group": "fill_1",
+      "group_passage": "Many students struggle to balance their study time and physical exercise. They often wonder how to find time for sports when they have so much homework to do. (17)______\n\nIn fact, moderate exercise can actually improve your study efficiency. When you exercise, your brain gets more oxygen and blood flow. (18)______ \n\n(19)______ Therefore, it is important to plan your time wisely. You can schedule short exercise breaks between study sessions. (20)______ \n\nRemember, a healthy body supports a healthy mind. By finding the right balance, you can achieve better results in both your studies and physical health."
     },
     {
       "id": 20,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "group": "fill_1",
-      "group_passage": "Joining a school club is a great way to enrich your middle school life. Last term, I decided to join the Science Club. (17)______, I was nervous because I didn't know anyone there.\n\n(18)______, the club leader, a friendly senior student, welcomed me warmly. She told me that the club was for everyone who loved science. Our first project was to build a small robot. (19)______, I didn't know how to start. The leader paired me with Tom, who patiently taught me the basics.\n\nStep by step, I learned how to assemble the parts. (20)______, I not only made good friends but also won second prize in the school science competition. Joining the club was really a great experience.",
       "stem": "(20)______",
       "options": [
-        "A. However",
-        "B. As a result",
-        "C. Although",
-        "D. Then",
-        "E. At first"
+        "A. However, spending all day studying is not healthy.",
+        "B. For example, you can do some stretching exercises or go for a walk.",
+        "C. As a result, you will feel more energetic and focused.",
+        "D. In addition, exercise helps reduce stress and improve sleep quality.",
+        "E. On the other hand, too much exercise may affect your study time."
       ],
       "correct_answer": "B",
-      "explanation": "前文讲逐步学习组装，后文讲交到朋友并获奖，这是前文努力的结果。As a result（结果，因此）表示因果关系，总结前文带来的积极结果。",
-      "label": "短文填空"
+      "explanation": "【解析】考查举例关系。前文\"You can schedule short exercise breaks between study sessions\"（你可以在学习间隙安排短暂的运动休息）提出了建议，后文应该举例说明具体怎么做。B选项\"例如，你可以做一些拉伸运动或散步\"是对前文的举例说明，For example（例如）是标志词。【解题技巧】看到For example/For instance/such as要想到前文是总述，后文是具体例子。前文讲schedule short exercise breaks，后文讲stretching exercises or go for a walk，是具体例子。",
+      "label": "短文填空",
+      "group": "fill_1",
+      "group_passage": "Many students struggle to balance their study time and physical exercise. They often wonder how to find time for sports when they have so much homework to do. (17)______\n\nIn fact, moderate exercise can actually improve your study efficiency. When you exercise, your brain gets more oxygen and blood flow. (18)______ \n\n(19)______ Therefore, it is important to plan your time wisely. You can schedule short exercise breaks between study sessions. (20)______ \n\nRemember, a healthy body supports a healthy mind. By finding the right balance, you can achieve better results in both your studies and physical health."
     }
   ]
 }
