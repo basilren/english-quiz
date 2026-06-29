@@ -1,5 +1,5 @@
 ﻿{
-  "date": "2026-06-29",
+  "date": "2026-06-30",
   "session_number": 1,
   "questions": [
     {
@@ -7,15 +7,15 @@
       "type": "grammar",
       "knowledge_point": "present_perfect_vs_past_simple",
       "difficulty": 2,
-      "stem": "—I ______ the book yesterday. It was really interesting.\n—Great! How long ______ you ______ it?",
+      "stem": "—______ you ever ______ the Shenzhen Science Museum?\n—Yes. I ______ there last month.",
       "options": [
-        "A. bought; have; had",
-        "B. have bought; have; had",
-        "C. bought; did; buy",
-        "D. have bought; did; have"
+        "A. Did; visit; went",
+        "B. Have; visited; went",
+        "C. Have; visited; have gone",
+        "D. Did; visit; have been"
       ],
-      "correct_answer": "A",
-      "explanation": "第一空有明确过去时间状语yesterday，必须用一般过去时bought，排除B和D；第二空问\"拥有多久\"，是持续到现在的状态，用现在完成时have had，疑问句将have提前。C选项did buy强调动作，与how long（时间段）不搭配。解题技巧：看到yesterday/last week等用过去时；看到how long/for/since用现在完成时。",
+      "correct_answer": "B",
+      "explanation": "本题考查现在完成时与一般过去时的区别。第一空：ever（曾经）是现在完成时的标志词，强调过去的经历对现在的影响，应用Have...visited；第二空：last month（上个月）是明确的过去时间状语，只能用一般过去时went。A选项第一空错误，ever不与一般过去时连用；C选项第二空错误，have gone表示去了未回，且不能与last month连用；D选项第一空错误。解题技巧：记住时间标志词——ever/never/since/for用现完，yesterday/last week/...ago用过去时。",
       "label": "语法题"
     },
     {
@@ -23,15 +23,15 @@
       "type": "grammar",
       "knowledge_point": "relative_clause_who_which",
       "difficulty": 2,
-      "stem": "This is the museum ______ we visited last summer holiday.",
+      "stem": "The boy ______ is playing basketball over there is Bosco's best friend.",
       "options": [
         "A. who",
         "B. which",
-        "C. where",
-        "D. when"
+        "C. whom",
+        "D. whose"
       ],
-      "correct_answer": "B",
-      "explanation": "先行词museum是物，在定语从句中作visited的宾语，可用which/that引导，也可省略。A选项who指人；C选项where在从句中作地点状语；D选项when作时间状语。从句中visited缺少宾语，故用which。解题技巧：先行词是物，从句缺主语/宾语用which/that；先行词是地点，但从句缺状语才用where。",
+      "correct_answer": "A",
+      "explanation": "本题考查定语从句关系代词的选择。先行词The boy指人，排除B选项which（指物）；从句中缺少主语（is playing），因此用主格who。C选项whom是宾格，在从句中作宾语时使用；D选项whose表示所属关系，后需接名词。解题技巧：指人用who/whom/that，指物用which/that；从句缺主语用who/which，缺宾语用whom/which/that，缺定语用whose。",
       "label": "语法题"
     },
     {
@@ -39,15 +39,15 @@
       "type": "grammar",
       "knowledge_point": "passive_voice",
       "difficulty": 1,
-      "stem": "Our classroom ______ by the students every afternoon.",
+      "stem": "These old books ______ to the children in the mountain area next week.",
       "options": [
-        "A. cleans",
-        "B. cleaned",
-        "C. is cleaned",
-        "D. was cleaned"
+        "A. are given",
+        "B. will give",
+        "C. will be given",
+        "D. have been given"
       ],
       "correct_answer": "C",
-      "explanation": "主语classroom是动作clean的承受者，用被动语态；时间状语every afternoon表示习惯性动作，用一般现在时。A是主动语态；B缺be动词；D是过去时，与every afternoon不符。解题技巧：被动语态结构为be+done，先看主语与动词关系，再看时间状语确定时态。",
+      "explanation": "本题考查一般将来时的被动语态。主语These old books与动词give之间是被动关系（书被送），排除B选项主动语态；时间状语next week（下周）表示将来，因此用will be given。A选项是一般现在时被动，表示经常性动作；D选项是现在完成时被动，表示已经完成的动作，均与next week不符。解题技巧：被动语态结构be+done，将来时用will be done。",
       "label": "语法题"
     },
     {
@@ -58,20 +58,20 @@
       "stem": "—Is that Mr. Wang knocking at the door?\n—It ______ be him. He has gone to Beijing on business.",
       "options": [
         "A. must",
-        "B. can",
+        "B. may",
         "C. can't",
         "D. might"
       ],
       "correct_answer": "C",
-      "explanation": "根据后句\"He has gone to Beijing\"（他去北京了，不在本地），可知敲门的不可能是他，表否定推测用can't（不可能）。must be表肯定推测\"一定是\"；might be表不确定\"可能是\"；can通常不用于肯定推测。解题技巧：根据语境判断是肯定还是否定推测，肯定用must，否定用can't，不确定用may/might。",
+      "explanation": "本题考查情态动词表推测的用法。根据后句He has gone to Beijing（他去北京了，还没回来）可知，敲门的不可能是他，表示否定推测用can't（不可能）。A选项must表示肯定推测（一定是）；B和D选项may/might表示不确定的推测（可能是），均不符合语境。解题技巧：must一定，can't不可能，may/might也许；有去无回用have gone to，去过已回用have been to。",
       "label": "语法题"
     },
     {
       "id": 5,
       "type": "vocabulary",
-      "knowledge_point": "word_collocation",
+      "knowledge_point": "fixed_phrases",
       "difficulty": 1,
-      "stem": "If you are not ______ with your current score, you should work harder to get a better one.",
+      "stem": "If you are ______ with your current score, you should work harder to get better grades.",
       "options": [
         "A. exciting",
         "B. excited",
@@ -79,278 +79,278 @@
         "D. satisfying"
       ],
       "correct_answer": "C",
-      "explanation": "固定搭配be satisfied with（对……满意）。A和D修饰物；B修饰人，但be excited about表示\"对……兴奋\"，不符合句意\"对分数不满意\"。解题技巧：记住常见形容词搭配，-ed形容词修饰人，-ing形容词修饰物。",
+      "explanation": "本题考查形容词辨析及固定搭配。be satisfied with是固定搭配，意为对……满意。A选项exciting（令人兴奋的）修饰物；B选项excited（感到兴奋的）修饰人，但be excited about表示对……兴奋，与句意不符；D选项satisfying（令人满意的）修饰物。根据句意如果你满足于现状，就应该更努力，应选择satisfied。",
       "label": "词汇题"
     },
     {
       "id": 6,
       "type": "vocabulary",
-      "knowledge_point": "prefix_suffix",
+      "knowledge_point": "word_formation_ing_ed",
       "difficulty": 2,
-      "stem": "The word \"unhealthy\" means not ______.",
+      "stem": "The ______ news about the environmental protection made all of us feel ______.",
       "options": [
-        "A. health",
-        "B. healthy",
-        "C. healthily",
-        "D. healthier"
+        "A. excited; exciting",
+        "B. exciting; excited",
+        "C. exciting; exciting",
+        "D. excited; excited"
       ],
       "correct_answer": "B",
-      "explanation": "un-是形容词前缀，表示否定，加在形容词healthy前。A是名词；C是副词；D是比较级。解题技巧：前缀un-/dis-/im-通常加在形容词前构成反义词，注意词性保持一致。",
+      "explanation": "本题考查-ing形容词和-ed形容词的区别。第一空修饰news（消息），指物，用exciting（令人兴奋的）；第二空修饰us（人），表示人感到兴奋，用excited（感到兴奋的）。口诀：-ing令人……（指物），-ed感到……（指人）。类似用法：interesting/interested, surprising/surprised, boring/bored等。",
       "label": "词汇题"
     },
     {
       "id": 7,
       "type": "vocabulary",
-      "knowledge_point": "word_formation",
+      "knowledge_point": "phrasal_verbs",
       "difficulty": 2,
-      "stem": "We should take immediate ______ to solve this environmental problem.",
+      "stem": "Please ______ the lights when you leave the classroom to save electricity.",
       "options": [
-        "A. act",
-        "B. action",
-        "C. active",
-        "D. activity"
+        "A. turn on",
+        "B. turn off",
+        "C. turn up",
+        "D. turn down"
       ],
       "correct_answer": "B",
-      "explanation": "固定搭配take action（采取行动）。A是动词；C是形容词；D是\"活动\"，take activity搭配不当。解题技巧：immediate是形容词，后接名词；记住take action这一固定短语。",
+      "explanation": "本题考查动词短语辨析。turn on打开，turn off关闭，turn up调大（音量），turn down调小（音量）。根据句意离开教室时应关灯省电，应选择turn off。解题技巧：记住turn的核心短语——on开/off关/up大/down小。环保场景中常考turn off the lights/TV/computer。",
       "label": "词汇题"
     },
     {
       "id": 8,
       "type": "cloze",
       "knowledge_point": "cloze_general",
-      "difficulty": 2,
-      "group": "cloze_1",
-      "group_passage": "Plastic pollution is a serious problem for our planet. Every year, about 8 million tons of plastic waste end up in the ocean. This causes great harm to sea animals. However, a group of students in our school are trying to make a change.\n\nLast month, the Science Club started a recycling project. They 8 special bins in each classroom to collect plastic bottles. At first, many students didn't pay attention to it. They just threw bottles everywhere 9 they didn't understand the importance of recycling.\n\nThe club members didn't give up. They made colorful posters and gave short speeches during break time. They explained 10 plastic pollution was harmful and how recycling could help. Slowly, more students started to use the bins correctly.\n\nBy the end of last week, they 11 collected over 500 bottles. These bottles were sent to a local factory 12 they were processed into new products like pencil cases and rulers.",
+      "difficulty": 1,
       "stem": "(8)______",
       "options": [
-        "A. put up",
-        "B. set up",
-        "C. made up",
-        "D. picked up"
+        "A. hoped",
+        "B. encouraged",
+        "C. forced",
+        "D. refused"
       ],
       "correct_answer": "B",
-      "explanation": "set up建立，设立。句意：他们在每个教室设立特殊的垃圾桶。A张贴；C编造；D捡起。根据宾语special bins（特殊垃圾桶），应是\"设立\"。",
-      "label": "完形填空"
+      "explanation": "本题考查语境理解和固定搭配。be encouraged to do sth被鼓励做某事，符合学校活动的积极语境。A选项hoped不与to搭配使用（应为hoped that）；C选项forced（被迫）语气过重，不符合校园活动自愿参与的语境；D选项refused（被拒绝）与上下文矛盾。",
+      "label": "完形填空",
+      "group": "cloze_1",
+      "group_passage": "Last month, our school held an activity called \"Green Campus Week\". All students were (8)______ to take part in it. The purpose was to help us understand the (9)______ of environmental protection.\n\nAt the beginning, some students thought it was (10)______ to change their old habits. \"Why should I bring my own bag instead of using plastic ones?\" asked one student. However, after watching a video about ocean pollution, everyone realized how serious the problem was.\n\nDuring the week, we were (11)______ into groups to complete different tasks. My group was responsible for collecting recyclable waste. Although it was tiring, we felt proud when we saw the clean campus. Other groups made posters to remind classmates to save water and electricity.\n\nThe activity was a great (12)______. Not only did we learn practical skills, but we also understood that small actions can make a big difference to our planet."
     },
     {
       "id": 9,
       "type": "cloze",
       "knowledge_point": "cloze_general",
-      "difficulty": 1,
-      "group": "cloze_1",
-      "group_passage": "Plastic pollution is a serious problem for our planet. Every year, about 8 million tons of plastic waste end up in the ocean. This causes great harm to sea animals. However, a group of students in our school are trying to make a change.\n\nLast month, the Science Club started a recycling project. They 8 special bins in each classroom to collect plastic bottles. At first, many students didn't pay attention to it. They just threw bottles everywhere 9 they didn't understand the importance of recycling.\n\nThe club members didn't give up. They made colorful posters and gave short speeches during break time. They explained 10 plastic pollution was harmful and how recycling could help. Slowly, more students started to use the bins correctly.\n\nBy the end of last week, they 11 collected over 500 bottles. These bottles were sent to a local factory 12 they were processed into new products like pencil cases and rulers.",
+      "difficulty": 2,
       "stem": "(9)______",
       "options": [
-        "A. because",
-        "B. although",
-        "C. if",
-        "D. unless"
+        "A. difficulty",
+        "B. importance",
+        "C. possibility",
+        "D. difference"
       ],
-      "correct_answer": "A",
-      "explanation": "前后是因果关系。句意：他们到处扔瓶子，因为他们不理解回收的重要性。B虽然；C如果；D除非。",
-      "label": "完形填空"
+      "correct_answer": "B",
+      "explanation": "本题考查名词辨析和语境理解。the importance of...……的重要性，是固定搭配。根据上下文，学校举办环保活动的目的是让学生理解环保的重要性。A选项difficulty（困难）、C选项possibility（可能性）、D选项difference（差异）均不符合句意。",
+      "label": "完形填空",
+      "group": "cloze_1",
+      "group_passage": "Last month, our school held an activity called \"Green Campus Week\". All students were (8)______ to take part in it. The purpose was to help us understand the (9)______ of environmental protection.\n\nAt the beginning, some students thought it was (10)______ to change their old habits. \"Why should I bring my own bag instead of using plastic ones?\" asked one student. However, after watching a video about ocean pollution, everyone realized how serious the problem was.\n\nDuring the week, we were (11)______ into groups to complete different tasks. My group was responsible for collecting recyclable waste. Although it was tiring, we felt proud when we saw the clean campus. Other groups made posters to remind classmates to save water and electricity.\n\nThe activity was a great (12)______. Not only did we learn practical skills, but we also understood that small actions can make a big difference to our planet."
     },
     {
       "id": 10,
       "type": "cloze",
       "knowledge_point": "cloze_general",
       "difficulty": 2,
-      "group": "cloze_1",
-      "group_passage": "Plastic pollution is a serious problem for our planet. Every year, about 8 million tons of plastic waste end up in the ocean. This causes great harm to sea animals. However, a group of students in our school are trying to make a change.\n\nLast month, the Science Club started a recycling project. They 8 special bins in each classroom to collect plastic bottles. At first, many students didn't pay attention to it. They just threw bottles everywhere 9 they didn't understand the importance of recycling.\n\nThe club members didn't give up. They made colorful posters and gave short speeches during break time. They explained 10 plastic pollution was harmful and how recycling could help. Slowly, more students started to use the bins correctly.\n\nBy the end of last week, they 11 collected over 500 bottles. These bottles were sent to a local factory 12 they were processed into new products like pencil cases and rulers.",
       "stem": "(10)______",
       "options": [
-        "A. what",
-        "B. which",
-        "C. why",
-        "D. how"
+        "A. easy",
+        "B. necessary",
+        "C. difficult",
+        "D. interesting"
       ],
       "correct_answer": "C",
-      "explanation": "宾语从句连接词。根据后文\"how recycling could help\"（回收如何有帮助）的并列结构，前文应对应\"为什么塑料污染有害\"。句意：他们解释为什么塑料污染有害以及回收如何有帮助。",
-      "label": "完形填空"
+      "explanation": "本题考查形容词辨析和逻辑关系。根据下文学生的质疑Why should I...以及However后的转折（看完视频后改变了想法），可知起初学生认为改变习惯是困难的。A选项easy（容易的）与下文转折逻辑不符；B选项necessary（必要的）和D选项interesting（有趣的）与学生的抵触情绪不符。",
+      "label": "完形填空",
+      "group": "cloze_1",
+      "group_passage": "Last month, our school held an activity called \"Green Campus Week\". All students were (8)______ to take part in it. The purpose was to help us understand the (9)______ of environmental protection.\n\nAt the beginning, some students thought it was (10)______ to change their old habits. \"Why should I bring my own bag instead of using plastic ones?\" asked one student. However, after watching a video about ocean pollution, everyone realized how serious the problem was.\n\nDuring the week, we were (11)______ into groups to complete different tasks. My group was responsible for collecting recyclable waste. Although it was tiring, we felt proud when we saw the clean campus. Other groups made posters to remind classmates to save water and electricity.\n\nThe activity was a great (12)______. Not only did we learn practical skills, but we also understood that small actions can make a big difference to our planet."
     },
     {
       "id": 11,
       "type": "cloze",
       "knowledge_point": "cloze_general",
-      "difficulty": 2,
-      "group": "cloze_1",
-      "group_passage": "Plastic pollution is a serious problem for our planet. Every year, about 8 million tons of plastic waste end up in the ocean. This causes great harm to sea animals. However, a group of students in our school are trying to make a change.\n\nLast month, the Science Club started a recycling project. They 8 special bins in each classroom to collect plastic bottles. At first, many students didn't pay attention to it. They just threw bottles everywhere 9 they didn't understand the importance of recycling.\n\nThe club members didn't give up. They made colorful posters and gave short speeches during break time. They explained 10 plastic pollution was harmful and how recycling could help. Slowly, more students started to use the bins correctly.\n\nBy the end of last week, they 11 collected over 500 bottles. These bottles were sent to a local factory 12 they were processed into new products like pencil cases and rulers.",
+      "difficulty": 1,
       "stem": "(11)______",
       "options": [
-        "A. already",
-        "B. yet",
-        "C. still",
-        "D. ever"
+        "A. divided",
+        "B. put",
+        "C. cut",
+        "D. broken"
       ],
       "correct_answer": "A",
-      "explanation": "现在完成时标志词。By the end of last week（到上周末为止）是过去时间点，主句用过去完成时或一般过去时，但此处强调\"已经收集\"，用already。yet用于否定句/疑问句；still表示仍然；ever表示曾经。",
-      "label": "完形填空"
+      "explanation": "本题考查固定搭配。be divided into是固定短语，意为被分成……，符合句意我们被分成小组完成不同任务。B选项put into（放入）、C选项cut into（切成）、D选项broken into（闯入）均不符合语境。",
+      "label": "完形填空",
+      "group": "cloze_1",
+      "group_passage": "Last month, our school held an activity called \"Green Campus Week\". All students were (8)______ to take part in it. The purpose was to help us understand the (9)______ of environmental protection.\n\nAt the beginning, some students thought it was (10)______ to change their old habits. \"Why should I bring my own bag instead of using plastic ones?\" asked one student. However, after watching a video about ocean pollution, everyone realized how serious the problem was.\n\nDuring the week, we were (11)______ into groups to complete different tasks. My group was responsible for collecting recyclable waste. Although it was tiring, we felt proud when we saw the clean campus. Other groups made posters to remind classmates to save water and electricity.\n\nThe activity was a great (12)______. Not only did we learn practical skills, but we also understood that small actions can make a big difference to our planet."
     },
     {
       "id": 12,
       "type": "cloze",
       "knowledge_point": "cloze_general",
-      "difficulty": 1,
-      "group": "cloze_1",
-      "group_passage": "Plastic pollution is a serious problem for our planet. Every year, about 8 million tons of plastic waste end up in the ocean. This causes great harm to sea animals. However, a group of students in our school are trying to make a change.\n\nLast month, the Science Club started a recycling project. They 8 special bins in each classroom to collect plastic bottles. At first, many students didn't pay attention to it. They just threw bottles everywhere 9 they didn't understand the importance of recycling.\n\nThe club members didn't give up. They made colorful posters and gave short speeches during break time. They explained 10 plastic pollution was harmful and how recycling could help. Slowly, more students started to use the bins correctly.\n\nBy the end of last week, they 11 collected over 500 bottles. These bottles were sent to a local factory 12 they were processed into new products like pencil cases and rulers.",
+      "difficulty": 2,
       "stem": "(12)______",
       "options": [
-        "A. who",
-        "B. which",
-        "C. where",
-        "D. when"
+        "A. lesson",
+        "B. story",
+        "C. success",
+        "D. joke"
       ],
       "correct_answer": "C",
-      "explanation": "定语从句关系副词。先行词factory是地点，从句\"they were processed...\"主谓齐全，缺地点状语，用where（=in which）。who指人；which作主语/宾语；when指时间。",
-      "label": "完形填空"
+      "explanation": "本题考查名词辨析和语境理解。根据下文Not only did we learn...but we also understood...（我们不仅学到了……还明白了……）可知活动很成功。a great success（一件成功的事），success在此为可数名词。A选项lesson（教训、课程）虽然语法可行，但不如success能体现活动的积极成果；B和D选项与语境不符。",
+      "label": "完形填空",
+      "group": "cloze_1",
+      "group_passage": "Last month, our school held an activity called \"Green Campus Week\". All students were (8)______ to take part in it. The purpose was to help us understand the (9)______ of environmental protection.\n\nAt the beginning, some students thought it was (10)______ to change their old habits. \"Why should I bring my own bag instead of using plastic ones?\" asked one student. However, after watching a video about ocean pollution, everyone realized how serious the problem was.\n\nDuring the week, we were (11)______ into groups to complete different tasks. My group was responsible for collecting recyclable waste. Although it was tiring, we felt proud when we saw the clean campus. Other groups made posters to remind classmates to save water and electricity.\n\nThe activity was a great (12)______. Not only did we learn practical skills, but we also understood that small actions can make a big difference to our planet."
     },
     {
       "id": 13,
       "type": "reading",
       "knowledge_point": "detail",
       "difficulty": 2,
-      "group": "reading_1",
-      "group_passage": "Do you find it hard to get up early for school? For 14-year-old Zhang Wei, this was the biggest challenge last semester. He always arrived late and missed the first class. His teachers were worried, and his parents tried everything, but nothing worked.\n\nEverything changed when his father bought him a smart alarm clock. Unlike ordinary clocks, this one has wheels. When the alarm rings, the clock jumps off the table and runs around the room. Zhang Wei has to get up and catch it to turn off the noise. \"It's like playing a game every morning,\" he laughed. \"Now I'm never late.\"\n\nThe smart clock was invented by a college student two years ago. It was designed to help heavy sleepers. Besides running away, it can also record personal messages. Zhang Wei's father recorded his voice saying, \"Son, time to rise!\" This makes the wake-up call more effective.\n\nHowever, experts remind us not to rely too much on technology. Dr. Li, a sleep scientist, suggests going to bed earlier instead. \"Good sleep habits are more important than smart gadgets,\" she said. Still, for Zhang Wei, the clock has been a lifesaver. He even joined the school's morning running club recently.",
-      "stem": "What was Zhang Wei's problem last semester?",
+      "stem": "What happens when we skip breakfast according to the passage?",
       "options": [
-        "A. He couldn't finish his homework on time.",
-        "B. He always arrived late for school.",
-        "C. He had trouble sleeping at night.",
-        "D. He missed his smart clock every morning."
+        "A. Our brain gets more fuel.",
+        "B. Blood sugar levels rise quickly.",
+        "C. Blood sugar drops, making it hard to concentrate.",
+        "D. We feel more energetic in class."
       ],
-      "correct_answer": "B",
-      "explanation": "细节理解题。根据第一段\"He always arrived late and missed the first class\"可知，张伟上学期总是迟到。A选项作业问题未提及；C选项失眠错误，他是起不来；D选项理解错误。解题技巧：细节题要定位原文，找到对应句子，避免主观臆断。",
-      "label": "阅读-细节理解"
+      "correct_answer": "C",
+      "explanation": "本题考查细节理解。根据文章第二段最后一句Without breakfast, blood sugar drops, making it hard to concentrate.（不吃早餐，血糖会下降，导致难以集中注意力）可知正确答案为C。A、B、D选项均与原文意思相反。解题技巧：细节题要定位关键词skip breakfast，在原文中找到对应句子仔细比对。",
+      "label": "阅读-细节理解",
+      "group": "reading_1",
+      "group_passage": "Do you often feel sleepy in class? Many students blame their lack of sleep, but scientists say diet plays an important role too.\n\nOur brain needs constant energy to work well. This energy mainly comes from glucose, which we get from food. When we eat breakfast rich in protein and complex carbohydrates, our brain gets steady fuel. Without breakfast, blood sugar drops, making it hard to concentrate.\n\nHowever, not all foods are good for the brain. Dr. Li, a nutritionist, warns against eating too much sugary food. \"Simple sugars give quick energy, but they burn out fast,\" he explains. This is why you might feel tired an hour after drinking a soda.\n\nWater is another key factor. Even mild dehydration (脱水) can affect brain function. Studies show that students who drink enough water perform better in exams.\n\nIn conclusion, choosing the right food and staying hydrated are essential for keeping your brain active and alert."
     },
     {
       "id": 14,
       "type": "reading",
-      "knowledge_point": "word_guessing",
+      "knowledge_point": "word_guessing_context",
       "difficulty": 2,
-      "group": "reading_1",
-      "group_passage": "Do you find it hard to get up early for school? For 14-year-old Zhang Wei, this was the biggest challenge last semester. He always arrived late and missed the first class. His teachers were worried, and his parents tried everything, but nothing worked.\n\nEverything changed when his father bought him a smart alarm clock. Unlike ordinary clocks, this one has wheels. When the alarm rings, the clock jumps off the table and runs around the room. Zhang Wei has to get up and catch it to turn off the noise. \"It's like playing a game every morning,\" he laughed. \"Now I'm never late.\"\n\nThe smart clock was invented by a college student two years ago. It was designed to help heavy sleepers. Besides running away, it can also record personal messages. Zhang Wei's father recorded his voice saying, \"Son, time to rise!\" This makes the wake-up call more effective.\n\nHowever, experts remind us not to rely too much on technology. Dr. Li, a sleep scientist, suggests going to bed earlier instead. \"Good sleep habits are more important than smart gadgets,\" she said. Still, for Zhang Wei, the clock has been a lifesaver. He even joined the school's morning running club recently.",
-      "stem": "What does the word \"gadgets\" in Paragraph 4 probably mean?",
+      "stem": "What does the underlined word \"dehydration\" in Paragraph 4 probably mean?",
       "options": [
-        "A. Sleep habits",
-        "B. Electronic devices",
-        "C. Morning exercises",
-        "D. College students"
+        "A. Eating too much sugar",
+        "B. Lacking enough water",
+        "C. Sleeping too little",
+        "D. Working too hard"
       ],
       "correct_answer": "B",
-      "explanation": "词义猜测题。根据上下文，前文提到smart alarm clock（智能闹钟），此处Dr. Li说\"良好的睡眠习惯比智能gadgets更重要\"，gadgets指代前文提到的智能设备/电子产品。A睡眠习惯；C晨练；D大学生。解题技巧：通过上下文逻辑和指代关系猜测词义，注意同义词或上下义词替换。",
-      "label": "阅读-词义猜测"
+      "explanation": "本题考查词义猜测。根据第四段首句Water is another key factor.（水是另一个关键因素）以及括号内的中文注释（脱水）提示，可以推断dehydration与缺水有关。A选项吃太多糖、C选项睡太少、D选项工作太努力均与上下文关于水的讨论无关。解题技巧：利用上下文线索（water）和构词法（de-去掉，hydro水）猜测词义。",
+      "label": "阅读-词义猜测",
+      "group": "reading_1",
+      "group_passage": "Do you often feel sleepy in class? Many students blame their lack of sleep, but scientists say diet plays an important role too.\n\nOur brain needs constant energy to work well. This energy mainly comes from glucose, which we get from food. When we eat breakfast rich in protein and complex carbohydrates, our brain gets steady fuel. Without breakfast, blood sugar drops, making it hard to concentrate.\n\nHowever, not all foods are good for the brain. Dr. Li, a nutritionist, warns against eating too much sugary food. \"Simple sugars give quick energy, but they burn out fast,\" he explains. This is why you might feel tired an hour after drinking a soda.\n\nWater is another key factor. Even mild dehydration (脱水) can affect brain function. Studies show that students who drink enough water perform better in exams.\n\nIn conclusion, choosing the right food and staying hydrated are essential for keeping your brain active and alert."
     },
     {
       "id": 15,
       "type": "reading",
       "knowledge_point": "inference",
       "difficulty": 3,
-      "group": "reading_1",
-      "group_passage": "Do you find it hard to get up early for school? For 14-year-old Zhang Wei, this was the biggest challenge last semester. He always arrived late and missed the first class. His teachers were worried, and his parents tried everything, but nothing worked.\n\nEverything changed when his father bought him a smart alarm clock. Unlike ordinary clocks, this one has wheels. When the alarm rings, the clock jumps off the table and runs around the room. Zhang Wei has to get up and catch it to turn off the noise. \"It's like playing a game every morning,\" he laughed. \"Now I'm never late.\"\n\nThe smart clock was invented by a college student two years ago. It was designed to help heavy sleepers. Besides running away, it can also record personal messages. Zhang Wei's father recorded his voice saying, \"Son, time to rise!\" This makes the wake-up call more effective.\n\nHowever, experts remind us not to rely too much on technology. Dr. Li, a sleep scientist, suggests going to bed earlier instead. \"Good sleep habits are more important than smart gadgets,\" she said. Still, for Zhang Wei, the clock has been a lifesaver. He even joined the school's morning running club recently.",
-      "stem": "What can we learn from the passage?",
+      "stem": "What can we infer from Dr. Li's words in Paragraph 3?",
       "options": [
-        "A. Zhang Wei's father invented the smart clock.",
-        "B. The clock can only record voice messages.",
-        "C. Zhang Wei has developed better living habits.",
-        "D. Dr. Li thinks the smart clock is necessary for everyone."
+        "A. We should drink soda for quick energy before exams.",
+        "B. Sugary foods provide long-lasting energy for the brain.",
+        "C. Simple sugars are better than complex carbohydrates.",
+        "D. We shouldn't depend on sugary snacks for steady energy."
       ],
-      "correct_answer": "C",
-      "explanation": "推理判断题。根据最后一句\"He even joined the school's morning running club recently\"（他甚至加入了晨跑俱乐部），可推断张伟养成了更好的生活习惯。A错误，是大学生发明的；B错误，它还会跑；D错误，Dr. Li认为睡眠习惯更重要。解题技巧：推理题要基于原文但需进一步推断，注意even等语气词暗示的变化。",
-      "label": "阅读-推理判断"
+      "correct_answer": "D",
+      "explanation": "本题考查推理判断。根据第三段Dr. Li的话Simple sugars give quick energy, but they burn out fast（单糖提供能量快但消耗也快）可推知，我们不能依赖甜食来提供持续能量。A选项与文意相反；B选项burn out fast说明不能持久；C选项与第二段complex carbohydrates提供steady fuel矛盾。解题技巧：推理题要基于原文但不止于原文，理解言外之意。",
+      "label": "阅读-推理判断",
+      "group": "reading_1",
+      "group_passage": "Do you often feel sleepy in class? Many students blame their lack of sleep, but scientists say diet plays an important role too.\n\nOur brain needs constant energy to work well. This energy mainly comes from glucose, which we get from food. When we eat breakfast rich in protein and complex carbohydrates, our brain gets steady fuel. Without breakfast, blood sugar drops, making it hard to concentrate.\n\nHowever, not all foods are good for the brain. Dr. Li, a nutritionist, warns against eating too much sugary food. \"Simple sugars give quick energy, but they burn out fast,\" he explains. This is why you might feel tired an hour after drinking a soda.\n\nWater is another key factor. Even mild dehydration (脱水) can affect brain function. Studies show that students who drink enough water perform better in exams.\n\nIn conclusion, choosing the right food and staying hydrated are essential for keeping your brain active and alert."
     },
     {
       "id": 16,
       "type": "reading",
-      "knowledge_point": "main_idea",
-      "difficulty": 3,
-      "group": "reading_1",
-      "group_passage": "Do you find it hard to get up early for school? For 14-year-old Zhang Wei, this was the biggest challenge last semester. He always arrived late and missed the first class. His teachers were worried, and his parents tried everything, but nothing worked.\n\nEverything changed when his father bought him a smart alarm clock. Unlike ordinary clocks, this one has wheels. When the alarm rings, the clock jumps off the table and runs around the room. Zhang Wei has to get up and catch it to turn off the noise. \"It's like playing a game every morning,\" he laughed. \"Now I'm never late.\"\n\nThe smart clock was invented by a college student two years ago. It was designed to help heavy sleepers. Besides running away, it can also record personal messages. Zhang Wei's father recorded his voice saying, \"Son, time to rise!\" This makes the wake-up call more effective.\n\nHowever, experts remind us not to rely too much on technology. Dr. Li, a sleep scientist, suggests going to bed earlier instead. \"Good sleep habits are more important than smart gadgets,\" she said. Still, for Zhang Wei, the clock has been a lifesaver. He even joined the school's morning running club recently.",
-      "stem": "What is the best title for the passage?",
+      "knowledge_point": "main_idea_title",
+      "difficulty": 2,
+      "stem": "What is the main idea of the passage?",
       "options": [
-        "A. The History of Alarm Clocks",
-        "B. How to Sleep Well Every Night",
-        "C. A Smart Solution to a Common Problem",
-        "D. The Importance of Morning Exercise"
+        "A. Why breakfast is the most important meal of the day.",
+        "B. How diet and water intake affect our brain performance.",
+        "C. The reasons why students feel sleepy in class.",
+        "D. Ways to get more sleep at night."
       ],
-      "correct_answer": "C",
-      "explanation": "主旨大意题。文章主要讲述张伟用智能闹钟解决起床困难的问题。A选项范围过大；B选项是专家建议，非重点；D选项是结果而非主题。C选项\"一个常见问题的智能解决方案\"准确概括全文。解题技巧：标题要概括全文核心内容，既要具体又要全面，避免以偏概全。",
-      "label": "阅读-主旨大意"
+      "correct_answer": "B",
+      "explanation": "本题考查主旨大意。文章首段提出饮食对大脑很重要，第二段讲早餐，第三段讲糖分，第四段讲水，最后总结饮食和水分对保持大脑活跃的重要性。A选项只涉及第二段；C选项是引入话题的背景；D选项未提及。B选项涵盖了饮食（diet）和水分（water intake）对大脑表现（brain performance）的影响，最全面。解题技巧：主旨题要关注首尾段和各段首句，选择覆盖面最广的选项。",
+      "label": "阅读-主旨大意",
+      "group": "reading_1",
+      "group_passage": "Do you often feel sleepy in class? Many students blame their lack of sleep, but scientists say diet plays an important role too.\n\nOur brain needs constant energy to work well. This energy mainly comes from glucose, which we get from food. When we eat breakfast rich in protein and complex carbohydrates, our brain gets steady fuel. Without breakfast, blood sugar drops, making it hard to concentrate.\n\nHowever, not all foods are good for the brain. Dr. Li, a nutritionist, warns against eating too much sugary food. \"Simple sugars give quick energy, but they burn out fast,\" he explains. This is why you might feel tired an hour after drinking a soda.\n\nWater is another key factor. Even mild dehydration (脱水) can affect brain function. Studies show that students who drink enough water perform better in exams.\n\nIn conclusion, choosing the right food and staying hydrated are essential for keeping your brain active and alert."
     },
     {
       "id": 17,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "group": "fill_1",
-      "group_passage": "How can we live a greener life? Here are some simple tips that everyone can follow.\n\nFirst, reduce waste. Bring your own shopping bags instead of using plastic ones. 17 Also, try to buy products with less packaging.\n\nSecond, save energy. Turn off the lights when you leave a room. 18 Unplug chargers when you're not using them.\n\nThird, choose green transportation. 19 Walking or riding a bike is good for both your health and the environment. If you have to take a bus, try to use public transportation instead of private cars.\n\nFinally, spread the word. 20 Tell your friends and family why it's important. Together, we can make our planet a better place.",
       "stem": "(17)______",
       "options": [
-        "A. This can save electricity and reduce your bills.",
-        "B. However, don't force others to change immediately.",
-        "C. Use a reusable water bottle when you go out.",
-        "D. When possible, avoid driving short distances.",
-        "E. Talk to others about what you've learned."
+        "A. However, don't spread yourself too thin.",
+        "B. Finally, trust your own interests.",
+        "C. First, consider your hobbies and interests.",
+        "D. They can give you real feedback.",
+        "E. Next, consider your time commitment."
       ],
       "correct_answer": "C",
-      "explanation": "前文讲减少浪费，自带购物袋，此处应继续举例减少塑料使用。C选项\"出门使用可重复使用的水瓶\"承接上文，符合reduce waste的主题。",
-      "label": "短文填空"
+      "explanation": "本题考查段落衔接和逻辑顺序。空后句Think about what you love doing（思考你喜欢做什么）与C选项First, consider your hobbies and interests（首先，考虑你的爱好和兴趣）形成对应关系。同时，First与后文的Also形成顺序衔接。",
+      "label": "短文填空",
+      "group": "fill_1",
+      "group_passage": "Joining a school club is an exciting part of middle school life. However, with so many choices, how can you pick the right one? Here are some useful tips.\n\n(17)______ Think about what you love doing. If you enjoy drawing, the art club might be perfect. If you like sports, consider joining a team.\n\n(18)______ Check your schedule first. Some clubs meet three times a week, while others only once. Make sure you have enough time for both homework and club activities.\n\nAlso, talk to students who are already in the club. (19)______ Ask them about the activities and the atmosphere. Their honest opinions can help you decide.\n\n(20)______ Don't just follow your friends or choose what looks good on college applications. Pick something that truly interests you and helps you develop new skills."
     },
     {
       "id": 18,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "group": "fill_1",
-      "group_passage": "How can we live a greener life? Here are some simple tips that everyone can follow.\n\nFirst, reduce waste. Bring your own shopping bags instead of using plastic ones. 17 Also, try to buy products with less packaging.\n\nSecond, save energy. Turn off the lights when you leave a room. 18 Unplug chargers when you're not using them.\n\nThird, choose green transportation. 19 Walking or riding a bike is good for both your health and the environment. If you have to take a bus, try to use public transportation instead of private cars.\n\nFinally, spread the word. 20 Tell your friends and family why it's important. Together, we can make our planet a better place.",
       "stem": "(18)______",
       "options": [
-        "A. This can save electricity and reduce your bills.",
-        "B. However, don't force others to change immediately.",
-        "C. Use a reusable water bottle when you go out.",
-        "D. When possible, avoid driving short distances.",
-        "E. Talk to others about what you've learned."
+        "A. However, don't spread yourself too thin.",
+        "B. Finally, trust your own interests.",
+        "C. First, consider your hobbies and interests.",
+        "D. They can give you real feedback.",
+        "E. Next, consider your time commitment."
       ],
-      "correct_answer": "A",
-      "explanation": "本段主题是save energy（节约能源），前文说关灯，后文说拔掉充电器。A选项\"这能省电并减少账单\"承上启下，解释为什么要这么做。",
-      "label": "短文填空"
+      "correct_answer": "E",
+      "explanation": "本题考查段落衔接和逻辑顺序。空后句Check your schedule first（先检查你的时间表）与E选项Next, consider your time commitment（接下来，考虑你的时间投入）形成对应。Next承接上文的First，形成First...Next...Also...Finally的顺序。",
+      "label": "短文填空",
+      "group": "fill_1",
+      "group_passage": "Joining a school club is an exciting part of middle school life. However, with so many choices, how can you pick the right one? Here are some useful tips.\n\n(17)______ Think about what you love doing. If you enjoy drawing, the art club might be perfect. If you like sports, consider joining a team.\n\n(18)______ Check your schedule first. Some clubs meet three times a week, while others only once. Make sure you have enough time for both homework and club activities.\n\nAlso, talk to students who are already in the club. (19)______ Ask them about the activities and the atmosphere. Their honest opinions can help you decide.\n\n(20)______ Don't just follow your friends or choose what looks good on college applications. Pick something that truly interests you and helps you develop new skills."
     },
     {
       "id": 19,
       "type": "fill",
       "knowledge_point": "sentence_fill",
-      "difficulty": 2,
-      "group": "fill_1",
-      "group_passage": "How can we live a greener life? Here are some simple tips that everyone can follow.\n\nFirst, reduce waste. Bring your own shopping bags instead of using plastic ones. 17 Also, try to buy products with less packaging.\n\nSecond, save energy. Turn off the lights when you leave a room. 18 Unplug chargers when you're not using them.\n\nThird, choose green transportation. 19 Walking or riding a bike is good for both your health and the environment. If you have to take a bus, try to use public transportation instead of private cars.\n\nFinally, spread the word. 20 Tell your friends and family why it's important. Together, we can make our planet a better place.",
+      "difficulty": 1,
       "stem": "(19)______",
       "options": [
-        "A. This can save electricity and reduce your bills.",
-        "B. However, don't force others to change immediately.",
-        "C. Use a reusable water bottle when you go out.",
-        "D. When possible, avoid driving short distances.",
-        "E. Talk to others about what you've learned."
+        "A. However, don't spread yourself too thin.",
+        "B. Finally, trust your own interests.",
+        "C. First, consider your hobbies and interests.",
+        "D. They can give you real feedback.",
+        "E. Next, consider your time commitment."
       ],
       "correct_answer": "D",
-      "explanation": "本段主题是green transportation（绿色出行），后文讲走路或骑车。D选项\"可能的话，避免短距离驾车\"引出后文的替代方案（走路骑车）。",
-      "label": "短文填空"
+      "explanation": "本题考查代词指代和逻辑衔接。空前句提到talk to students who are already in the club（和已经在社团的学生交谈），D选项They can give you real feedback（他们能给你真实的反馈）中的They指代前文的学生，形成指代衔接。",
+      "label": "短文填空",
+      "group": "fill_1",
+      "group_passage": "Joining a school club is an exciting part of middle school life. However, with so many choices, how can you pick the right one? Here are some useful tips.\n\n(17)______ Think about what you love doing. If you enjoy drawing, the art club might be perfect. If you like sports, consider joining a team.\n\n(18)______ Check your schedule first. Some clubs meet three times a week, while others only once. Make sure you have enough time for both homework and club activities.\n\nAlso, talk to students who are already in the club. (19)______ Ask them about the activities and the atmosphere. Their honest opinions can help you decide.\n\n(20)______ Don't just follow your friends or choose what looks good on college applications. Pick something that truly interests you and helps you develop new skills."
     },
     {
       "id": 20,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "group": "fill_1",
-      "group_passage": "How can we live a greener life? Here are some simple tips that everyone can follow.\n\nFirst, reduce waste. Bring your own shopping bags instead of using plastic ones. 17 Also, try to buy products with less packaging.\n\nSecond, save energy. Turn off the lights when you leave a room. 18 Unplug chargers when you're not using them.\n\nThird, choose green transportation. 19 Walking or riding a bike is good for both your health and the environment. If you have to take a bus, try to use public transportation instead of private cars.\n\nFinally, spread the word. 20 Tell your friends and family why it's important. Together, we can make our planet a better place.",
       "stem": "(20)______",
       "options": [
-        "A. This can save electricity and reduce your bills.",
-        "B. However, don't force others to change immediately.",
-        "C. Use a reusable water bottle when you go out.",
-        "D. When possible, avoid driving short distances.",
-        "E. Talk to others about what you've learned."
+        "A. However, don't spread yourself too thin.",
+        "B. Finally, trust your own interests.",
+        "C. First, consider your hobbies and interests.",
+        "D. They can give you real feedback.",
+        "E. Next, consider your time commitment."
       ],
-      "correct_answer": "E",
-      "explanation": "本段主题是spread the word（传播理念），后文说告诉朋友家人。E选项\"和别人谈论你学到的东西\"符合主题，且与后文\"Tell your friends\"衔接自然。",
-      "label": "短文填空"
+      "correct_answer": "B",
+      "explanation": "本题考查段落衔接和总结。此处位于最后一段段首，应使用总结性过渡词。B选项Finally, trust your own interests（最后，相信你自己的兴趣）与后文Don't just follow your friends（不要只是跟随朋友）形成对比，强调自主选择的重要性。Finally也与前文的First、Next、Also形成完整的顺序结构。",
+      "label": "短文填空",
+      "group": "fill_1",
+      "group_passage": "Joining a school club is an exciting part of middle school life. However, with so many choices, how can you pick the right one? Here are some useful tips.\n\n(17)______ Think about what you love doing. If you enjoy drawing, the art club might be perfect. If you like sports, consider joining a team.\n\n(18)______ Check your schedule first. Some clubs meet three times a week, while others only once. Make sure you have enough time for both homework and club activities.\n\nAlso, talk to students who are already in the club. (19)______ Ask them about the activities and the atmosphere. Their honest opinions can help you decide.\n\n(20)______ Don't just follow your friends or choose what looks good on college applications. Pick something that truly interests you and helps you develop new skills."
     }
   ]
 }
