@@ -1,5 +1,5 @@
 ﻿{
-  "date": "2026-06-30",
+  "date": "2026-07-01",
   "session_number": 1,
   "questions": [
     {
@@ -7,15 +7,15 @@
       "type": "grammar",
       "knowledge_point": "present_perfect_vs_past_simple",
       "difficulty": 2,
-      "stem": "—______ you ever ______ the Shenzhen Science Museum?\n—Yes. I ______ there last month.",
+      "stem": "—______ you ever ______ to the Shenzhen Science Museum?\n—Yes, I ______ there with my classmates last Sunday.",
       "options": [
-        "A. Did; visit; went",
-        "B. Have; visited; went",
-        "C. Have; visited; have gone",
-        "D. Did; visit; have been"
+        "A. Did; go; went",
+        "B. Have; been; went",
+        "C. Have; gone; went",
+        "D. Did; go; have gone"
       ],
       "correct_answer": "B",
-      "explanation": "本题考查现在完成时与一般过去时的区别。第一空：ever（曾经）是现在完成时的标志词，强调过去的经历对现在的影响，应用Have...visited；第二空：last month（上个月）是明确的过去时间状语，只能用一般过去时went。A选项第一空错误，ever不与一般过去时连用；C选项第二空错误，have gone表示去了未回，且不能与last month连用；D选项第一空错误。解题技巧：记住时间标志词——ever/never/since/for用现完，yesterday/last week/...ago用过去时。",
+      "explanation": "第一空和第二空考查现在完成时have been to（去过某地，已回来），ever是现在完成时的标志词；第三空有明确的过去时间状语last Sunday，必须用一般过去时went。A和D选项第一空用Did，但后面有ever，通常与现在完成时连用；C选项have gone to表示去了某地（未回），与答句不符。",
       "label": "语法题"
     },
     {
@@ -23,15 +23,15 @@
       "type": "grammar",
       "knowledge_point": "relative_clause_who_which",
       "difficulty": 2,
-      "stem": "The boy ______ is playing basketball over there is Bosco's best friend.",
+      "stem": "The book ______ is lying on the desk is about environmental protection.",
       "options": [
         "A. who",
-        "B. which",
-        "C. whom",
+        "B. whom",
+        "C. which",
         "D. whose"
       ],
-      "correct_answer": "A",
-      "explanation": "本题考查定语从句关系代词的选择。先行词The boy指人，排除B选项which（指物）；从句中缺少主语（is playing），因此用主格who。C选项whom是宾格，在从句中作宾语时使用；D选项whose表示所属关系，后需接名词。解题技巧：指人用who/whom/that，指物用which/that；从句缺主语用who/which，缺宾语用whom/which/that，缺定语用whose。",
+      "correct_answer": "C",
+      "explanation": "先行词是the book（物），定语从句中缺少主语，关系代词要用which或that。A选项who用于指人；B选项whom用于指人且在从句中作宾语；D选项whose表示所属关系，后需接名词。解题技巧：先行词是物，从句缺主语，选which/that。",
       "label": "语法题"
     },
     {
@@ -39,15 +39,15 @@
       "type": "grammar",
       "knowledge_point": "passive_voice",
       "difficulty": 1,
-      "stem": "These old books ______ to the children in the mountain area next week.",
+      "stem": "These old textbooks ______ to the children in rural areas next week.",
       "options": [
-        "A. are given",
-        "B. will give",
-        "C. will be given",
-        "D. have been given"
+        "A. are sent",
+        "B. were sent",
+        "C. will send",
+        "D. will be sent"
       ],
-      "correct_answer": "C",
-      "explanation": "本题考查一般将来时的被动语态。主语These old books与动词give之间是被动关系（书被送），排除B选项主动语态；时间状语next week（下周）表示将来，因此用will be given。A选项是一般现在时被动，表示经常性动作；D选项是现在完成时被动，表示已经完成的动作，均与next week不符。解题技巧：被动语态结构be+done，将来时用will be done。",
+      "correct_answer": "D",
+      "explanation": "主语textbooks和动词send之间是被动关系（书被送），时间状语next week表示将来，所以用一般将来时的被动语态will be sent。A是一般现在时被动；B是一般过去时被动；C是主动语态。解题技巧：看到next week选将来时，主语是物选被动。",
       "label": "语法题"
     },
     {
@@ -58,44 +58,44 @@
       "stem": "—Is that Mr. Wang knocking at the door?\n—It ______ be him. He has gone to Beijing on business.",
       "options": [
         "A. must",
-        "B. may",
+        "B. might",
         "C. can't",
-        "D. might"
+        "D. should"
       ],
       "correct_answer": "C",
-      "explanation": "本题考查情态动词表推测的用法。根据后句He has gone to Beijing（他去北京了，还没回来）可知，敲门的不可能是他，表示否定推测用can't（不可能）。A选项must表示肯定推测（一定是）；B和D选项may/might表示不确定的推测（可能是），均不符合语境。解题技巧：must一定，can't不可能，may/might也许；有去无回用have gone to，去过已回用have been to。",
+      "explanation": "根据答句He has gone to Beijing（他去北京了，还没回来），可知敲门的不可能是他。can't表示不可能（否定推测），符合语境。must be表示一定是；might be表示可能是；should be表示应该是。解题技巧：看到has gone to（去某地未回），用can't表示不可能。",
       "label": "语法题"
     },
     {
       "id": 5,
       "type": "vocabulary",
-      "knowledge_point": "fixed_phrases",
+      "knowledge_point": "word_meaning_context",
       "difficulty": 1,
-      "stem": "If you are ______ with your current score, you should work harder to get better grades.",
+      "stem": "If you are not ______ with your current score, you should work harder to get a better one.",
       "options": [
-        "A. exciting",
-        "B. excited",
-        "C. satisfied",
-        "D. satisfying"
+        "A. strict",
+        "B. satisfied",
+        "C. angry",
+        "D. patient"
       ],
-      "correct_answer": "C",
-      "explanation": "本题考查形容词辨析及固定搭配。be satisfied with是固定搭配，意为对……满意。A选项exciting（令人兴奋的）修饰物；B选项excited（感到兴奋的）修饰人，但be excited about表示对……兴奋，与句意不符；D选项satisfying（令人满意的）修饰物。根据句意如果你满足于现状，就应该更努力，应选择satisfied。",
+      "correct_answer": "B",
+      "explanation": "be satisfied with是固定搭配，表示对……满意。句意：如果你不满意现在的分数，你应该更努力。A选项strict常与with搭配，但表示对……严格；C选项angry常与at/about搭配；D选项patient常与with搭配，表示对……有耐心。",
       "label": "词汇题"
     },
     {
       "id": 6,
       "type": "vocabulary",
-      "knowledge_point": "word_formation_ing_ed",
+      "knowledge_point": "word_formation_prefix_suffix",
       "difficulty": 2,
-      "stem": "The ______ news about the environmental protection made all of us feel ______.",
+      "stem": "The ______ of the old factory will cost a lot of money and time.",
       "options": [
-        "A. excited; exciting",
-        "B. exciting; excited",
-        "C. exciting; exciting",
-        "D. excited; excited"
+        "A. construction",
+        "B. instruction",
+        "C. introduction",
+        "D. production"
       ],
-      "correct_answer": "B",
-      "explanation": "本题考查-ing形容词和-ed形容词的区别。第一空修饰news（消息），指物，用exciting（令人兴奋的）；第二空修饰us（人），表示人感到兴奋，用excited（感到兴奋的）。口诀：-ing令人……（指物），-ed感到……（指人）。类似用法：interesting/interested, surprising/surprised, boring/bored等。",
+      "correct_answer": "A",
+      "explanation": "construction（建造）由construct+ion构成，符合句意工厂建造。B选项instruction（指导）；C选项introduction（介绍）；D选项production（生产）。通过词根记忆：struct表示建造，con-表示一起，construction就是建造。",
       "label": "词汇题"
     },
     {
@@ -103,52 +103,52 @@
       "type": "vocabulary",
       "knowledge_point": "phrasal_verbs",
       "difficulty": 2,
-      "stem": "Please ______ the lights when you leave the classroom to save electricity.",
+      "stem": "We should ______ our best to reduce plastic waste in daily life.",
       "options": [
-        "A. turn on",
-        "B. turn off",
-        "C. turn up",
-        "D. turn down"
+        "A. try",
+        "B. make",
+        "C. do",
+        "D. take"
       ],
-      "correct_answer": "B",
-      "explanation": "本题考查动词短语辨析。turn on打开，turn off关闭，turn up调大（音量），turn down调小（音量）。根据句意离开教室时应关灯省电，应选择turn off。解题技巧：记住turn的核心短语——on开/off关/up大/down小。环保场景中常考turn off the lights/TV/computer。",
+      "correct_answer": "A",
+      "explanation": "try one's best to do sth.是固定搭配，表示尽某人最大努力做某事。B选项make常与progress/mistake搭配；C选项do常与homework/exercise搭配；D选项take常与action/care搭配。",
       "label": "词汇题"
     },
     {
       "id": 8,
       "type": "cloze",
       "knowledge_point": "cloze_general",
-      "difficulty": 1,
+      "difficulty": 2,
       "stem": "(8)______",
       "options": [
-        "A. hoped",
-        "B. encouraged",
-        "C. forced",
-        "D. refused"
+        "A. because",
+        "B. although",
+        "C. if",
+        "D. unless"
       ],
-      "correct_answer": "B",
-      "explanation": "本题考查语境理解和固定搭配。be encouraged to do sth被鼓励做某事，符合学校活动的积极语境。A选项hoped不与to搭配使用（应为hoped that）；C选项forced（被迫）语气过重，不符合校园活动自愿参与的语境；D选项refused（被拒绝）与上下文矛盾。",
+      "correct_answer": "A",
+      "explanation": "前后句是因果关系：他们认为这是浪费时间，因为他们有太多作业要做。because引导原因状语从句。although表示让步；if表示条件；unless表示除非。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school held an activity called \"Green Campus Week\". All students were (8)______ to take part in it. The purpose was to help us understand the (9)______ of environmental protection.\n\nAt the beginning, some students thought it was (10)______ to change their old habits. \"Why should I bring my own bag instead of using plastic ones?\" asked one student. However, after watching a video about ocean pollution, everyone realized how serious the problem was.\n\nDuring the week, we were (11)______ into groups to complete different tasks. My group was responsible for collecting recyclable waste. Although it was tiring, we felt proud when we saw the clean campus. Other groups made posters to remind classmates to save water and electricity.\n\nThe activity was a great (12)______. Not only did we learn practical skills, but we also understood that small actions can make a big difference to our planet."
+      "group_passage": "Last month, our school started a recycling project. The purpose was to help students understand the importance of protecting the environment.\n\nAt first, many students were not interested in it. They thought it was a waste of time (8)______ they had too much homework to do. However, after the teacher explained how pollution affects our daily life, more and more students joined in.\n\nWe collected plastic bottles and waste paper in special boxes. Every Friday afternoon, volunteers would (9)______ them to the recycling center. Although the work was tiring, we felt proud when we saw the (10)______ of our efforts. The money we got from selling the recyclables was used to buy books for children in rural areas.\n\nThis experience has taught us that even small actions can make a big (11)______. Now, I always think twice before throwing things away. I have learned to (12)______ things instead of buying new ones whenever possible."
     },
     {
       "id": 9,
       "type": "cloze",
       "knowledge_point": "cloze_general",
-      "difficulty": 2,
+      "difficulty": 1,
       "stem": "(9)______",
       "options": [
-        "A. difficulty",
-        "B. importance",
-        "C. possibility",
-        "D. difference"
+        "A. send",
+        "B. take",
+        "C. bring",
+        "D. carry"
       ],
       "correct_answer": "B",
-      "explanation": "本题考查名词辨析和语境理解。the importance of...……的重要性，是固定搭配。根据上下文，学校举办环保活动的目的是让学生理解环保的重要性。A选项difficulty（困难）、C选项possibility（可能性）、D选项difference（差异）均不符合句意。",
+      "explanation": "take...to...表示把……带到……（从说话者所在地带走）。句意：每周五下午，志愿者会把它们带到回收中心。send强调邮寄或派人送；bring表示带来（朝说话者方向）；carry强调搬运重物，不涉及方向。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school held an activity called \"Green Campus Week\". All students were (8)______ to take part in it. The purpose was to help us understand the (9)______ of environmental protection.\n\nAt the beginning, some students thought it was (10)______ to change their old habits. \"Why should I bring my own bag instead of using plastic ones?\" asked one student. However, after watching a video about ocean pollution, everyone realized how serious the problem was.\n\nDuring the week, we were (11)______ into groups to complete different tasks. My group was responsible for collecting recyclable waste. Although it was tiring, we felt proud when we saw the clean campus. Other groups made posters to remind classmates to save water and electricity.\n\nThe activity was a great (12)______. Not only did we learn practical skills, but we also understood that small actions can make a big difference to our planet."
+      "group_passage": "Last month, our school started a recycling project. The purpose was to help students understand the importance of protecting the environment.\n\nAt first, many students were not interested in it. They thought it was a waste of time (8)______ they had too much homework to do. However, after the teacher explained how pollution affects our daily life, more and more students joined in.\n\nWe collected plastic bottles and waste paper in special boxes. Every Friday afternoon, volunteers would (9)______ them to the recycling center. Although the work was tiring, we felt proud when we saw the (10)______ of our efforts. The money we got from selling the recyclables was used to buy books for children in rural areas.\n\nThis experience has taught us that even small actions can make a big (11)______. Now, I always think twice before throwing things away. I have learned to (12)______ things instead of buying new ones whenever possible."
     },
     {
       "id": 10,
@@ -157,124 +157,124 @@
       "difficulty": 2,
       "stem": "(10)______",
       "options": [
-        "A. easy",
-        "B. necessary",
-        "C. difficult",
-        "D. interesting"
+        "A. result",
+        "B. reason",
+        "C. cause",
+        "D. problem"
       ],
-      "correct_answer": "C",
-      "explanation": "本题考查形容词辨析和逻辑关系。根据下文学生的质疑Why should I...以及However后的转折（看完视频后改变了想法），可知起初学生认为改变习惯是困难的。A选项easy（容易的）与下文转折逻辑不符；B选项necessary（必要的）和D选项interesting（有趣的）与学生的抵触情绪不符。",
+      "correct_answer": "A",
+      "explanation": "the result of表示……的结果。句意：尽管工作很累，但当我们看到努力的结果时感到自豪。reason和cause都表示原因；problem表示问题，均不符合语境。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school held an activity called \"Green Campus Week\". All students were (8)______ to take part in it. The purpose was to help us understand the (9)______ of environmental protection.\n\nAt the beginning, some students thought it was (10)______ to change their old habits. \"Why should I bring my own bag instead of using plastic ones?\" asked one student. However, after watching a video about ocean pollution, everyone realized how serious the problem was.\n\nDuring the week, we were (11)______ into groups to complete different tasks. My group was responsible for collecting recyclable waste. Although it was tiring, we felt proud when we saw the clean campus. Other groups made posters to remind classmates to save water and electricity.\n\nThe activity was a great (12)______. Not only did we learn practical skills, but we also understood that small actions can make a big difference to our planet."
+      "group_passage": "Last month, our school started a recycling project. The purpose was to help students understand the importance of protecting the environment.\n\nAt first, many students were not interested in it. They thought it was a waste of time (8)______ they had too much homework to do. However, after the teacher explained how pollution affects our daily life, more and more students joined in.\n\nWe collected plastic bottles and waste paper in special boxes. Every Friday afternoon, volunteers would (9)______ them to the recycling center. Although the work was tiring, we felt proud when we saw the (10)______ of our efforts. The money we got from selling the recyclables was used to buy books for children in rural areas.\n\nThis experience has taught us that even small actions can make a big (11)______. Now, I always think twice before throwing things away. I have learned to (12)______ things instead of buying new ones whenever possible."
     },
     {
       "id": 11,
       "type": "cloze",
       "knowledge_point": "cloze_general",
-      "difficulty": 1,
+      "difficulty": 2,
       "stem": "(11)______",
       "options": [
-        "A. divided",
-        "B. put",
-        "C. cut",
-        "D. broken"
+        "A. decision",
+        "B. difference",
+        "C. difficulty",
+        "D. discussion"
       ],
-      "correct_answer": "A",
-      "explanation": "本题考查固定搭配。be divided into是固定短语，意为被分成……，符合句意我们被分成小组完成不同任务。B选项put into（放入）、C选项cut into（切成）、D选项broken into（闯入）均不符合语境。",
+      "correct_answer": "B",
+      "explanation": "make a big difference是固定搭配，表示产生重大影响。句意：这次经历教会我们，即使是小行动也能产生大影响。decision（决定）；difficulty（困难）；discussion（讨论）均不与make构成此搭配。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school held an activity called \"Green Campus Week\". All students were (8)______ to take part in it. The purpose was to help us understand the (9)______ of environmental protection.\n\nAt the beginning, some students thought it was (10)______ to change their old habits. \"Why should I bring my own bag instead of using plastic ones?\" asked one student. However, after watching a video about ocean pollution, everyone realized how serious the problem was.\n\nDuring the week, we were (11)______ into groups to complete different tasks. My group was responsible for collecting recyclable waste. Although it was tiring, we felt proud when we saw the clean campus. Other groups made posters to remind classmates to save water and electricity.\n\nThe activity was a great (12)______. Not only did we learn practical skills, but we also understood that small actions can make a big difference to our planet."
+      "group_passage": "Last month, our school started a recycling project. The purpose was to help students understand the importance of protecting the environment.\n\nAt first, many students were not interested in it. They thought it was a waste of time (8)______ they had too much homework to do. However, after the teacher explained how pollution affects our daily life, more and more students joined in.\n\nWe collected plastic bottles and waste paper in special boxes. Every Friday afternoon, volunteers would (9)______ them to the recycling center. Although the work was tiring, we felt proud when we saw the (10)______ of our efforts. The money we got from selling the recyclables was used to buy books for children in rural areas.\n\nThis experience has taught us that even small actions can make a big (11)______. Now, I always think twice before throwing things away. I have learned to (12)______ things instead of buying new ones whenever possible."
     },
     {
       "id": 12,
       "type": "cloze",
       "knowledge_point": "cloze_general",
-      "difficulty": 2,
+      "difficulty": 1,
       "stem": "(12)______",
       "options": [
-        "A. lesson",
-        "B. story",
-        "C. success",
-        "D. joke"
+        "A. reuse",
+        "B. reduce",
+        "C. recycle",
+        "D. repair"
       ],
-      "correct_answer": "C",
-      "explanation": "本题考查名词辨析和语境理解。根据下文Not only did we learn...but we also understood...（我们不仅学到了……还明白了……）可知活动很成功。a great success（一件成功的事），success在此为可数名词。A选项lesson（教训、课程）虽然语法可行，但不如success能体现活动的积极成果；B和D选项与语境不符。",
+      "correct_answer": "A",
+      "explanation": "reuse表示重复使用，与instead of buying new ones（而不是买新的）形成对比。reduce（减少）；recycle（回收）；repair（修理），虽然都与环保相关，但这里强调重复使用旧物而非购买新品。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school held an activity called \"Green Campus Week\". All students were (8)______ to take part in it. The purpose was to help us understand the (9)______ of environmental protection.\n\nAt the beginning, some students thought it was (10)______ to change their old habits. \"Why should I bring my own bag instead of using plastic ones?\" asked one student. However, after watching a video about ocean pollution, everyone realized how serious the problem was.\n\nDuring the week, we were (11)______ into groups to complete different tasks. My group was responsible for collecting recyclable waste. Although it was tiring, we felt proud when we saw the clean campus. Other groups made posters to remind classmates to save water and electricity.\n\nThe activity was a great (12)______. Not only did we learn practical skills, but we also understood that small actions can make a big difference to our planet."
+      "group_passage": "Last month, our school started a recycling project. The purpose was to help students understand the importance of protecting the environment.\n\nAt first, many students were not interested in it. They thought it was a waste of time (8)______ they had too much homework to do. However, after the teacher explained how pollution affects our daily life, more and more students joined in.\n\nWe collected plastic bottles and waste paper in special boxes. Every Friday afternoon, volunteers would (9)______ them to the recycling center. Although the work was tiring, we felt proud when we saw the (10)______ of our efforts. The money we got from selling the recyclables was used to buy books for children in rural areas.\n\nThis experience has taught us that even small actions can make a big (11)______. Now, I always think twice before throwing things away. I have learned to (12)______ things instead of buying new ones whenever possible."
     },
     {
       "id": 13,
       "type": "reading",
       "knowledge_point": "detail",
       "difficulty": 2,
-      "stem": "What happens when we skip breakfast according to the passage?",
+      "stem": "What did the scientists find about reading in the research?",
       "options": [
-        "A. Our brain gets more fuel.",
-        "B. Blood sugar levels rise quickly.",
-        "C. Blood sugar drops, making it hard to concentrate.",
-        "D. We feel more energetic in class."
+        "A. Reading can improve memory immediately.",
+        "B. Reading fiction increases brain connectivity.",
+        "C. Reading is less useful than watching videos.",
+        "D. Reading only benefits language learning."
       ],
-      "correct_answer": "C",
-      "explanation": "本题考查细节理解。根据文章第二段最后一句Without breakfast, blood sugar drops, making it hard to concentrate.（不吃早餐，血糖会下降，导致难以集中注意力）可知正确答案为C。A、B、D选项均与原文意思相反。解题技巧：细节题要定位关键词skip breakfast，在原文中找到对应句子仔细比对。",
+      "correct_answer": "B",
+      "explanation": "根据文章第二段A study...showed that people who read regularly...had increased connectivity in the left temporal cortex可知，科学家发现阅读能增加大脑颞叶皮层的连接性。A选项improve memory immediately（立即改善记忆）文中未提；C选项与原文相反；D选项only过于绝对。",
       "label": "阅读-细节理解",
       "group": "reading_1",
-      "group_passage": "Do you often feel sleepy in class? Many students blame their lack of sleep, but scientists say diet plays an important role too.\n\nOur brain needs constant energy to work well. This energy mainly comes from glucose, which we get from food. When we eat breakfast rich in protein and complex carbohydrates, our brain gets steady fuel. Without breakfast, blood sugar drops, making it hard to concentrate.\n\nHowever, not all foods are good for the brain. Dr. Li, a nutritionist, warns against eating too much sugary food. \"Simple sugars give quick energy, but they burn out fast,\" he explains. This is why you might feel tired an hour after drinking a soda.\n\nWater is another key factor. Even mild dehydration (脱水) can affect brain function. Studies show that students who drink enough water perform better in exams.\n\nIn conclusion, choosing the right food and staying hydrated are essential for keeping your brain active and alert."
+      "group_passage": "Reading is not just a hobby; it is a powerful tool that can change our brains. Scientists have found that reading books, especially fiction, can improve our empathy and emotional intelligence.\n\nWhen we read a story, our brains do not just process words. They create mental images and simulate the experiences of the characters. A study conducted by researchers at a university showed that people who read regularly for six months had increased connectivity in the left temporal cortex, an area associated with language and intelligence.\n\nHowever, many teenagers today prefer watching videos or playing games to reading. They argue that these activities are more exciting. While digital entertainment has its value, it does not provide the same depth of thinking that reading offers. Reading requires active imagination, whereas watching videos is a more passive activity.\n\nTo encourage reading, some schools have started \"reading challenges\" where students compete to read the most books. The word \"challenge\" here does not mean something difficult or stressful. Rather, it refers to a friendly competition that motivates students to discover the joy of books.\n\nWhether you prefer science fiction, history, or biography, the key is to read regularly. Just 30 minutes of reading before bed can significantly improve your sleep quality and vocabulary."
     },
     {
       "id": 14,
       "type": "reading",
-      "knowledge_point": "word_guessing_context",
-      "difficulty": 2,
-      "stem": "What does the underlined word \"dehydration\" in Paragraph 4 probably mean?",
+      "knowledge_point": "inference",
+      "difficulty": 3,
+      "stem": "What can we infer about digital entertainment from the passage?",
       "options": [
-        "A. Eating too much sugar",
-        "B. Lacking enough water",
-        "C. Sleeping too little",
-        "D. Working too hard"
+        "A. It is completely harmful to teenagers.",
+        "B. It requires more imagination than reading.",
+        "C. It offers a different kind of thinking depth.",
+        "D. It is more passive compared to reading."
       ],
-      "correct_answer": "B",
-      "explanation": "本题考查词义猜测。根据第四段首句Water is another key factor.（水是另一个关键因素）以及括号内的中文注释（脱水）提示，可以推断dehydration与缺水有关。A选项吃太多糖、C选项睡太少、D选项工作太努力均与上下文关于水的讨论无关。解题技巧：利用上下文线索（water）和构词法（de-去掉，hydro水）猜测词义。",
-      "label": "阅读-词义猜测",
+      "correct_answer": "D",
+      "explanation": "根据第三段Reading requires active imagination, whereas watching videos is a more passive activity可知，看数字娱乐比阅读更被动。A选项completely harmful过于绝对；B选项与原文相反；C选项different kind of thinking depth文中未提，文中说it does not provide the same depth of thinking。",
+      "label": "阅读-推理判断",
       "group": "reading_1",
-      "group_passage": "Do you often feel sleepy in class? Many students blame their lack of sleep, but scientists say diet plays an important role too.\n\nOur brain needs constant energy to work well. This energy mainly comes from glucose, which we get from food. When we eat breakfast rich in protein and complex carbohydrates, our brain gets steady fuel. Without breakfast, blood sugar drops, making it hard to concentrate.\n\nHowever, not all foods are good for the brain. Dr. Li, a nutritionist, warns against eating too much sugary food. \"Simple sugars give quick energy, but they burn out fast,\" he explains. This is why you might feel tired an hour after drinking a soda.\n\nWater is another key factor. Even mild dehydration (脱水) can affect brain function. Studies show that students who drink enough water perform better in exams.\n\nIn conclusion, choosing the right food and staying hydrated are essential for keeping your brain active and alert."
+      "group_passage": "Reading is not just a hobby; it is a powerful tool that can change our brains. Scientists have found that reading books, especially fiction, can improve our empathy and emotional intelligence.\n\nWhen we read a story, our brains do not just process words. They create mental images and simulate the experiences of the characters. A study conducted by researchers at a university showed that people who read regularly for six months had increased connectivity in the left temporal cortex, an area associated with language and intelligence.\n\nHowever, many teenagers today prefer watching videos or playing games to reading. They argue that these activities are more exciting. While digital entertainment has its difficult or stressful. Rather, it refers to a friendly competition that motivates students to discover the joy of books.\n\nWhether you prefer science fiction, history, or biography, the key is to read regularly. Just 30 minutes of reading before bed can significantly improve your sleep quality and vocabulary."
     },
     {
       "id": 15,
       "type": "reading",
-      "knowledge_point": "inference",
-      "difficulty": 3,
-      "stem": "What can we infer from Dr. Li's words in Paragraph 3?",
+      "knowledge_point": "word_guessing",
+      "difficulty": 2,
+      "stem": "What does the word \"challenge\" in Paragraph 4 probably mean?",
       "options": [
-        "A. We should drink soda for quick energy before exams.",
-        "B. Sugary foods provide long-lasting energy for the brain.",
-        "C. Simple sugars are better than complex carbohydrates.",
-        "D. We shouldn't depend on sugary snacks for steady energy."
+        "A. A difficult problem to solve.",
+        "B. A friendly competition.",
+        "C. A stressful examination.",
+        "D. A physical exercise."
       ],
-      "correct_answer": "D",
-      "explanation": "本题考查推理判断。根据第三段Dr. Li的话Simple sugars give quick energy, but they burn out fast（单糖提供能量快但消耗也快）可推知，我们不能依赖甜食来提供持续能量。A选项与文意相反；B选项burn out fast说明不能持久；C选项与第二段complex carbohydrates提供steady fuel矛盾。解题技巧：推理题要基于原文但不止于原文，理解言外之意。",
-      "label": "阅读-推理判断",
+      "correct_answer": "B",
+      "explanation": "根据第四段The word \"challenge\" here does not mean something difficult or stressful. Rather, it refers to a friendly competition可知，challenge在这里指友好竞赛。Rather表示转折，后面的内容就是对challenge的解释。A和C是通常含义，但文中明确说does not mean something difficult or stressful；D未提及。",
+      "label": "阅读-词义猜测",
       "group": "reading_1",
-      "group_passage": "Do you often feel sleepy in class? Many students blame their lack of sleep, but scientists say diet plays an important role too.\n\nOur brain needs constant energy to work well. This energy mainly comes from glucose, which we get from food. When we eat breakfast rich in protein and complex carbohydrates, our brain gets steady fuel. Without breakfast, blood sugar drops, making it hard to concentrate.\n\nHowever, not all foods are good for the brain. Dr. Li, a nutritionist, warns against eating too much sugary food. \"Simple sugars give quick energy, but they burn out fast,\" he explains. This is why you might feel tired an hour after drinking a soda.\n\nWater is another key factor. Even mild dehydration (脱水) can affect brain function. Studies show that students who drink enough water perform better in exams.\n\nIn conclusion, choosing the right food and staying hydrated are essential for keeping your brain active and alert."
+      "group_passage": "Reading is not just a hobby; it is a powerful tool that can change our brains. Scientists have found that reading books, especially fiction, can improve our empathy and emotional intelligence.\n\nWhen we read a story, our brains do not just process words. They create mental images and simulate the experiences of the characters. A study conducted by researchers at a university showed that people who read regularly for six months had increased connectivity in the left temporal cortex, an area associated with language and intelligence.\n\nHowever, many teenagers today prefer watching videos or playing games to reading. They argue that these activities are more exciting. While digital entertainment has its value, it does not provide the same depth of thinking that reading offers. Reading requires active imagination, whereas watching videos is a more passive activity.\n\nTo encourage reading, some schools have started \"reading challenges\" where students compete to read the most books. The word \"challenge\" here does not mean something difficult or stressful. Rather, it refers to a friendly competition that motivates students to discover the joy of books.\n\nWhether you prefer science fiction, history, or biography, the key is to read regularly. Just 30 minutes of reading before bed can significantly improve your sleep quality and vocabulary."
     },
     {
       "id": 16,
       "type": "reading",
-      "knowledge_point": "main_idea_title",
-      "difficulty": 2,
-      "stem": "What is the main idea of the passage?",
+      "knowledge_point": "main_idea",
+      "difficulty": 3,
+      "stem": "What is the best title for the passage?",
       "options": [
-        "A. Why breakfast is the most important meal of the day.",
-        "B. How diet and water intake affect our brain performance.",
-        "C. The reasons why students feel sleepy in class.",
-        "D. Ways to get more sleep at night."
+        "A. How to Improve Memory",
+        "B. The Disadvantages of Digital Entertainment",
+        "C. The Power of Reading",
+        "D. Ways to Start Reading Challenges"
       ],
-      "correct_answer": "B",
-      "explanation": "本题考查主旨大意。文章首段提出饮食对大脑很重要，第二段讲早餐，第三段讲糖分，第四段讲水，最后总结饮食和水分对保持大脑活跃的重要性。A选项只涉及第二段；C选项是引入话题的背景；D选项未提及。B选项涵盖了饮食（diet）和水分（water intake）对大脑表现（brain performance）的影响，最全面。解题技巧：主旨题要关注首尾段和各段首句，选择覆盖面最广的选项。",
+      "correct_answer": "C",
+      "explanation": "文章第一段点明主旨reading is a powerful tool，第二段讲阅读对大脑的影响，第三段对比阅读与数字娱乐，第四段讲阅读挑战，第五段总结阅读的好处。全文围绕阅读的力量展开。A选项只涉及细节；B选项只是对比部分；D选项只涉及第四段。",
       "label": "阅读-主旨大意",
       "group": "reading_1",
-      "group_passage": "Do you often feel sleepy in class? Many students blame their lack of sleep, but scientists say diet plays an important role too.\n\nOur brain needs constant energy to work well. This energy mainly comes from glucose, which we get from food. When we eat breakfast rich in protein and complex carbohydrates, our brain gets steady fuel. Without breakfast, blood sugar drops, making it hard to concentrate.\n\nHowever, not all foods are good for the brain. Dr. Li, a nutritionist, warns against eating too much sugary food. \"Simple sugars give quick energy, but they burn out fast,\" he explains. This is why you might feel tired an hour after drinking a soda.\n\nWater is another key factor. Even mild dehydration (脱水) can affect brain function. Studies show that students who drink enough water perform better in exams.\n\nIn conclusion, choosing the right food and staying hydrated are essential for keeping your brain active and alert."
+      "group_passage": "Reading is not just a hobby; it is a powerful tool that can change our brains. Scientists have found that reading books, especially fiction, can improve our empathy and emotional intelligence.\n\nWhen we read a story, our brains do not just process words. They create mental images and simulate the experiences of the characters. A study conducted by researchers at a university showed that people who read regularly for six months had increased connectivity in the left temporal cortex, an area associated with language and intelligence.\n\nHowever, many teenagers today prefer watching videos or playing games to reading. They argue that these activities are more exciting. While digital entertainment has its value, it does not provide the same depth of thinking that reading offers. Reading requires active imagination, whereas watching videos is a more passive activity.\n\nTo encourage reading, some schools have started \"reading challenges\" where students compete to read the most books. The word \"challenge\" here does not mean something difficult or stressful. Rather, it refers to a friendly competition that motivates students to discover the joy of books.\n\nWhether you prefer science fiction, history, or biography, the key is to read regularly. Just 30 minutes of reading before bed can significantly improve your sleep quality and vocabulary."
     },
     {
       "id": 17,
@@ -283,17 +283,17 @@
       "difficulty": 2,
       "stem": "(17)______",
       "options": [
-        "A. However, don't spread yourself too thin.",
-        "B. Finally, trust your own interests.",
-        "C. First, consider your hobbies and interests.",
-        "D. They can give you real feedback.",
-        "E. Next, consider your time commitment."
+        "A. However",
+        "B. Then",
+        "C. On the other hand",
+        "D. Therefore",
+        "E. In addition"
       ],
-      "correct_answer": "C",
-      "explanation": "本题考查段落衔接和逻辑顺序。空后句Think about what you love doing（思考你喜欢做什么）与C选项First, consider your hobbies and interests（首先，考虑你的爱好和兴趣）形成对应关系。同时，First与后文的Also形成顺序衔接。",
+      "correct_answer": "A",
+      "explanation": "前文说很多学生发现难以平衡学业和爱好，后文说通过良好的时间管理两者都可能实现，前后是转折关系，用However（然而）。Then表顺承；On the other hand表另一方面；Therefore表结果；In addition表递进。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Joining a school club is an exciting part of middle school life. However, with so many choices, how can you pick the right one? Here are some useful tips.\n\n(17)______ Think about what you love doing. If you enjoy drawing, the art club might be perfect. If you like sports, consider joining a team.\n\n(18)______ Check your schedule first. Some clubs meet three times a week, while others only once. Make sure you have enough time for both homework and club activities.\n\nAlso, talk to students who are already in the club. (19)______ Ask them about the activities and the atmosphere. Their honest opinions can help you decide.\n\n(20)______ Don't just follow your friends or choose what looks good on college applications. Pick something that truly interests you and helps you develop new skills."
+      "group_passage": "Many students find it hard to balance their schoolwork and hobbies. They often feel stressed when they cannot finish homework but still want to practice their hobbies. (17)______, it is possible to do both with good time management.\n\nFirst, you need to make a schedule. Write down all your homework and assign specific times for each subject. (18)______, you will know exactly how much free time you have left for hobbies.\n\nSecond, choose hobbies that can be done in short periods. For example, reading or drawing can be done for just 20 minutes. (19)______, playing basketball or football usually requires more time and teammates.\n\nFinally, remember that hobbies are important for your mental health. (20)______, you should not feel guilty about spending time on them. In fact, taking breaks can help you study better when you return to your books."
     },
     {
       "id": 18,
@@ -302,36 +302,36 @@
       "difficulty": 2,
       "stem": "(18)______",
       "options": [
-        "A. However, don't spread yourself too thin.",
-        "B. Finally, trust your own interests.",
-        "C. First, consider your hobbies and interests.",
-        "D. They can give you real feedback.",
-        "E. Next, consider your time commitment."
+        "A. However",
+        "B. Then",
+        "C. On the other hand",
+        "D. Therefore",
+        "E. In addition"
       ],
-      "correct_answer": "E",
-      "explanation": "本题考查段落衔接和逻辑顺序。空后句Check your schedule first（先检查你的时间表）与E选项Next, consider your time commitment（接下来，考虑你的时间投入）形成对应。Next承接上文的First，形成First...Next...Also...Finally的顺序。",
+      "correct_answer": "B",
+      "explanation": "前文讲制定计划、写下作业、分配时间，后文讲你就会知道有多少空闲时间，这是顺承关系，用Then（然后）。However表转折；On the other hand表对比；Therefore表结果（因果关系）；In addition表递进。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Joining a school club is an exciting part of middle school life. However, with so many choices, how can you pick the right one? Here are some useful tips.\n\n(17)______ Think about what you love doing. If you enjoy drawing, the art club might be perfect. If you like sports, consider joining a team.\n\n(18)______ Check your schedule first. Some clubs meet three times a week, while others only once. Make sure you have enough time for both homework and club activities.\n\nAlso, talk to students who are already in the club. (19)______ Ask them about the activities and the atmosphere. Their honest opinions can help you decide.\n\n(20)______ Don't just follow your friends or choose what looks good on college applications. Pick something that truly interests you and helps you develop new skills."
+      "group_passage": "Many students find it hard to balance their schoolwork and hobbies. They often feel stressed when they cannot finish homework but still want to practice their hobbies. (17)______, it is possible to do both with good time management.\n\nFirst, you need to make a schedule. Write down all your homework and assign specific times for each subject. (18)______, you will know exactly how much free time you have left for hobbies.\n\nSecond, choose hobbies that can be done in short periods. For example, reading or drawing can be done for just 20 minutes. (19)______, playing basketball or football usually requires more time and teammates.\n\nFinally, remember that hobbies are important for your mental health. (20)______, you should not feel guilty about spending time on them. In fact, taking breaks can help you study better when you return to your books."
     },
     {
       "id": 19,
       "type": "fill",
       "knowledge_point": "sentence_fill",
-      "difficulty": 1,
+      "difficulty": 2,
       "stem": "(19)______",
       "options": [
-        "A. However, don't spread yourself too thin.",
-        "B. Finally, trust your own interests.",
-        "C. First, consider your hobbies and interests.",
-        "D. They can give you real feedback.",
-        "E. Next, consider your time commitment."
+        "A. However",
+        "B. Then",
+        "C. On the other hand",
+        "D. Therefore",
+        "E. In addition"
       ],
-      "correct_answer": "D",
-      "explanation": "本题考查代词指代和逻辑衔接。空前句提到talk to students who are already in the club（和已经在社团的学生交谈），D选项They can give you real feedback（他们能给你真实的反馈）中的They指代前文的学生，形成指代衔接。",
+      "correct_answer": "C",
+      "explanation": "前文举例阅读或绘画可以短时间完成，后文说打篮球或踢足球通常需要更多时间和队友，前后是对比关系，用On the other hand（另一方面）。However表转折；Then表顺承；Therefore表结果；In addition表递进。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Joining a school club is an exciting part of middle school life. However, with so many choices, how can you pick the right one? Here are some useful tips.\n\n(17)______ Think about what you love doing. If you enjoy drawing, the art club might be perfect. If you like sports, consider joining a team.\n\n(18)______ Check your schedule first. Some clubs meet three times a week, while others only once. Make sure you have enough time for both homework and club activities.\n\nAlso, talk to students who are already in the club. (19)______ Ask them about the activities and the atmosphere. Their honest opinions can help you decide.\n\n(20)______ Don't just follow your friends or choose what looks good on college applications. Pick something that truly interests you and helps you develop new skills."
+      "group_passage": "Many students find it hard to balance their schoolwork and hobbies. They often feel stressed when they cannot finish homework but still want to practice their hobbies. (17)______, it is possible to do both with good time management.\n\nFirst, you need to make a schedule. Write down all your homework and assign specific times for each subject. (18)______, you will know exactly how much free time you have left for hobbies.\n\nSecond, choose hobbies that can be done in short periods. For example, reading or drawing can be done for just 20 minutes. (19)______, playing basketball or football usually requires more time and teammates.\n\nFinally, remember that hobbies are important for your mental health. (20)______, you should not feel guilty about spending time on them. In fact, taking breaks can help you study better when you return to your books."
     },
     {
       "id": 20,
@@ -340,17 +340,17 @@
       "difficulty": 2,
       "stem": "(20)______",
       "options": [
-        "A. However, don't spread yourself too thin.",
-        "B. Finally, trust your own interests.",
-        "C. First, consider your hobbies and interests.",
-        "D. They can give you real feedback.",
-        "E. Next, consider your time commitment."
+        "A. However",
+        "B. Then",
+        "C. On the other hand",
+        "D. Therefore",
+        "E. In addition"
       ],
-      "correct_answer": "B",
-      "explanation": "本题考查段落衔接和总结。此处位于最后一段段首，应使用总结性过渡词。B选项Finally, trust your own interests（最后，相信你自己的兴趣）与后文Don't just follow your friends（不要只是跟随朋友）形成对比，强调自主选择的重要性。Finally也与前文的First、Next、Also形成完整的顺序结构。",
+      "correct_answer": "D",
+      "explanation": "前文说爱好对心理健康很重要，后文说你不应该为此感到内疚，前后是因果关系，用Therefore（因此）。However表转折；Then表顺承；On the other hand表对比；In addition表递进。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Joining a school club is an exciting part of middle school life. However, with so many choices, how can you pick the right one? Here are some useful tips.\n\n(17)______ Think about what you love doing. If you enjoy drawing, the art club might be perfect. If you like sports, consider joining a team.\n\n(18)______ Check your schedule first. Some clubs meet three times a week, while others only once. Make sure you have enough time for both homework and club activities.\n\nAlso, talk to students who are already in the club. (19)______ Ask them about the activities and the atmosphere. Their honest opinions can help you decide.\n\n(20)______ Don't just follow your friends or choose what looks good on college applications. Pick something that truly interests you and helps you develop new skills."
+      "group_passage": "Many students find it hard to balance their schoolwork and hobbies. They often feel stressed when they cannot finish homework but still want to practice their hobbies. (17)______, it is possible to do both with good time management.\n\nFirst, you need to make a schedule. Write down all your homework and assign specific times for each subject. (18)______, you will know exactly how much free time you have left for hobbies.\n\nSecond, choose hobbies that can be done in short periods. For example, reading or drawing can be done for just 20 minutes. (19)______, playing basketball or football usually requires more time and teammates.\n\nFinally, remember that hobbies are important for your mental health. (20)______, you should not feel guilty about spending time on them. In fact, taking breaks can help you study better when you return to your books."
     }
   ]
 }
