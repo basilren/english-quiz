@@ -1,5 +1,5 @@
 ﻿{
-  "date": "2026-07-01",
+  "date": "2026-07-02",
   "session_number": 1,
   "questions": [
     {
@@ -7,15 +7,15 @@
       "type": "grammar",
       "knowledge_point": "present_perfect_vs_past_simple",
       "difficulty": 2,
-      "stem": "—______ you ever ______ to the Shenzhen Science Museum?\n—Yes, I ______ there with my classmates last Sunday.",
+      "stem": "—______ you ever ______ to the Shenzhen Science Museum?\n—Yes, I ______ there last month.",
       "options": [
         "A. Did; go; went",
         "B. Have; been; went",
         "C. Have; gone; went",
-        "D. Did; go; have gone"
+        "D. Do; go; have gone"
       ],
       "correct_answer": "B",
-      "explanation": "第一空和第二空考查现在完成时have been to（去过某地，已回来），ever是现在完成时的标志词；第三空有明确的过去时间状语last Sunday，必须用一般过去时went。A和D选项第一空用Did，但后面有ever，通常与现在完成时连用；C选项have gone to表示去了某地（未回），与答句不符。",
+      "explanation": "考查现在完成时与一般过去时的区别。第一空根据'ever'和语境表示\"曾经去过\"，用现在完成时have been to；第二空有明确过去时间状语'last month'，必须用一般过去时went。不选A是因为第一空用Did则ever位置不对且语义不符；不选C是因为have gone to表示\"去了某地(未回)\"，与答句矛盾；不选D是因为时态混乱。解题技巧：看到ever/never用现在完成时，看到yesterday/last week/ago用一般过去时。",
       "label": "语法题"
     },
     {
@@ -23,15 +23,15 @@
       "type": "grammar",
       "knowledge_point": "relative_clause_who_which",
       "difficulty": 2,
-      "stem": "The book ______ is lying on the desk is about environmental protection.",
+      "stem": "The boy ______ is reading a book under the tree is my classmate.",
       "options": [
         "A. who",
-        "B. whom",
-        "C. which",
+        "B. which",
+        "C. whom",
         "D. whose"
       ],
-      "correct_answer": "C",
-      "explanation": "先行词是the book（物），定语从句中缺少主语，关系代词要用which或that。A选项who用于指人；B选项whom用于指人且在从句中作宾语；D选项whose表示所属关系，后需接名词。解题技巧：先行词是物，从句缺主语，选which/that。",
+      "correct_answer": "A",
+      "explanation": "考查定语从句关系代词的选择。先行词是The boy(人)，且关系代词在从句中作主语，故用who。不选B是因为which用于指物；不选C是因为whom在从句中作宾语；不选D是因为whose表示\"谁的\"，在从句中作定语。解题口诀：先行词是人作主语用who，作宾语用whom/who/that；先行词是物用which/that。",
       "label": "语法题"
     },
     {
@@ -39,15 +39,15 @@
       "type": "grammar",
       "knowledge_point": "passive_voice",
       "difficulty": 1,
-      "stem": "These old textbooks ______ to the children in rural areas next week.",
+      "stem": "Many trees ______ by the students in our school every spring.",
       "options": [
-        "A. are sent",
-        "B. were sent",
-        "C. will send",
-        "D. will be sent"
+        "A. plant",
+        "B. are planted",
+        "C. planted",
+        "D. were planted"
       ],
-      "correct_answer": "D",
-      "explanation": "主语textbooks和动词send之间是被动关系（书被送），时间状语next week表示将来，所以用一般将来时的被动语态will be sent。A是一般现在时被动；B是一般过去时被动；C是主动语态。解题技巧：看到next week选将来时，主语是物选被动。",
+      "correct_answer": "B",
+      "explanation": "考查一般现在时的被动语态。主语Many trees与plant是被动关系(树被种植)，且时间状语是every spring(每年春天)，表示经常性动作，用一般现在时被动语态are planted。不选A是语态错误；不选C是缺少be动词且时态不对；不选D是时态错误(过去时)。被动语态结构：be + done，注意时间状语决定be的时态。",
       "label": "语法题"
     },
     {
@@ -63,294 +63,294 @@
         "D. should"
       ],
       "correct_answer": "C",
-      "explanation": "根据答句He has gone to Beijing（他去北京了，还没回来），可知敲门的不可能是他。can't表示不可能（否定推测），符合语境。must be表示一定是；might be表示可能是；should be表示应该是。解题技巧：看到has gone to（去某地未回），用can't表示不可能。",
+      "explanation": "考查情态动词表推测。根据后句\"He has gone to Beijing\"(他去北京出差了，还没回来)，可知前句表示\"不可能是他\"，否定推测用can't。不选A是因为must表示肯定推测\"一定是\"；不选B是因为might表示可能性较小的推测\"可能是\"，但此处是明确否定；不选D是因为should表示\"应该\"。口诀：肯定推测用must，否定推测用can't，不确定用may/might。",
       "label": "语法题"
     },
     {
       "id": 5,
       "type": "vocabulary",
-      "knowledge_point": "word_meaning_context",
+      "knowledge_point": "word_collocations",
       "difficulty": 1,
-      "stem": "If you are not ______ with your current score, you should work harder to get a better one.",
+      "stem": "If you are ______ with your current score, you should work harder to get a better one.",
       "options": [
-        "A. strict",
-        "B. satisfied",
-        "C. angry",
-        "D. patient"
+        "A. exciting",
+        "B. interested",
+        "C. satisfied",
+        "D. bored"
       ],
-      "correct_answer": "B",
-      "explanation": "be satisfied with是固定搭配，表示对……满意。句意：如果你不满意现在的分数，你应该更努力。A选项strict常与with搭配，但表示对……严格；C选项angry常与at/about搭配；D选项patient常与with搭配，表示对……有耐心。",
+      "correct_answer": "C",
+      "explanation": "考查形容词固定搭配。be satisfied with是固定搭配，意为\"对……满意\"。句意：如果你满足于目前的分数，你应该更努力以取得更好的成绩。不选A是因为exciting修饰物，且不与with搭配；不选B是因为be interested in表示\"对……感兴趣\"；不选D是因为be bored with表示\"对……感到厌烦\"，与后句\"应该更努力\"逻辑不符。",
       "label": "词汇题"
     },
     {
       "id": 6,
       "type": "vocabulary",
-      "knowledge_point": "word_formation_prefix_suffix",
+      "knowledge_point": "word_meaning",
       "difficulty": 2,
-      "stem": "The ______ of the old factory will cost a lot of money and time.",
+      "stem": "The new technology can help us ______ information more quickly from the Internet.",
       "options": [
-        "A. construction",
-        "B. instruction",
-        "C. introduction",
-        "D. production"
+        "A. achieve",
+        "B. search",
+        "C. invent",
+        "D. discover"
       ],
-      "correct_answer": "A",
-      "explanation": "construction（建造）由construct+ion构成，符合句意工厂建造。B选项instruction（指导）；C选项introduction（介绍）；D选项production（生产）。通过词根记忆：struct表示建造，con-表示一起，construction就是建造。",
+      "correct_answer": "B",
+      "explanation": "考查动词词义辨析。search information表示\"搜索信息\"，符合句意\"新技术可以帮助我们更快速地从互联网上搜索信息\"。不选A是因为achieve表示\"实现、达到\"(目标、梦想)；不选C是因为invent表示\"发明\"(创造新事物)；不选D是因为discover表示\"发现\"(原本存在但未被认知的事物)。解题技巧：注意动词与宾语的搭配习惯。",
       "label": "词汇题"
     },
     {
       "id": 7,
       "type": "vocabulary",
-      "knowledge_point": "phrasal_verbs",
+      "knowledge_point": "word_formation",
       "difficulty": 2,
-      "stem": "We should ______ our best to reduce plastic waste in daily life.",
+      "stem": "The ______ of this experiment is to test how plants grow in different lights.",
       "options": [
-        "A. try",
-        "B. make",
-        "C. do",
-        "D. take"
+        "A. propose",
+        "B. purpose",
+        "C. proper",
+        "D. probably"
       ],
-      "correct_answer": "A",
-      "explanation": "try one's best to do sth.是固定搭配，表示尽某人最大努力做某事。B选项make常与progress/mistake搭配；C选项do常与homework/exercise搭配；D选项take常与action/care搭配。",
+      "correct_answer": "B",
+      "explanation": "考查词性转换与词形辨析。定冠词The后需接名词，purpose是名词，意为\"目的\"，the purpose of...表示\"……的目的\"。不选A是因为propose是动词(提议)；不选C是因为proper是形容词(恰当的)；不选D是因为probably是副词(可能地)。句意：这个实验的目的是测试植物在不同光照下如何生长。",
       "label": "词汇题"
     },
     {
       "id": 8,
       "type": "cloze",
       "knowledge_point": "cloze_general",
-      "difficulty": 2,
-      "stem": "(8)______",
+      "difficulty": 1,
+      "group": "cloze_1",
+      "group_passage": "Last month, our school organized an activity called \"Green Campus Week\". All the students were asked to take part in it. The goal was to help us understand the (1)______ of environmental protection.\n\nOn Monday morning, our teacher Mr. Li gave us a speech about how to (2)______ energy in daily life. He told us that small actions could make a big difference. For example, turning off the lights when leaving the classroom and using both (3)______ of the paper.\n\nDuring the week, each class had to design a poster about recycling. My group decided to create one about sorting waste. We spent three days collecting information and drawing pictures. At first, we had different ideas and couldn't (4)______ with each other. However, after several discussions, we finally reached an agreement.\n\nOn Friday afternoon, there was a competition in the school hall. All the posters were displayed on the walls. To our surprise, our poster won the first prize. When we stood on the stage, we felt very proud. This activity taught us that teamwork and (5)______ are very important. It also made us realize that protecting the environment is everyone's responsibility.",
+      "stem": "(1)______",
       "options": [
-        "A. because",
-        "B. although",
-        "C. if",
-        "D. unless"
+        "A. importance",
+        "B. different",
+        "C. difficult",
+        "D. interesting"
       ],
       "correct_answer": "A",
-      "explanation": "前后句是因果关系：他们认为这是浪费时间，因为他们有太多作业要做。because引导原因状语从句。although表示让步；if表示条件；unless表示除非。",
-      "label": "完形填空",
-      "group": "cloze_1",
-      "group_passage": "Last month, our school started a recycling project. The purpose was to help students understand the importance of protecting the environment.\n\nAt first, many students were not interested in it. They thought it was a waste of time (8)______ they had too much homework to do. However, after the teacher explained how pollution affects our daily life, more and more students joined in.\n\nWe collected plastic bottles and waste paper in special boxes. Every Friday afternoon, volunteers would (9)______ them to the recycling center. Although the work was tiring, we felt proud when we saw the (10)______ of our efforts. The money we got from selling the recyclables was used to buy books for children in rural areas.\n\nThis experience has taught us that even small actions can make a big (11)______. Now, I always think twice before throwing things away. I have learned to (12)______ things instead of buying new ones whenever possible."
+      "explanation": "考查名词辨析与上下文理解。根据句意\"帮助我们理解环境保护的______\"，importance(重要性)符合语境。不选B是因为different是形容词；不选C是因为difficult是形容词且语义不符；不选D是因为interesting虽可作名词但语义不如importance贴切。解题技巧：根据冠词the判断需填名词，再结合主题\"环保活动\"确定是\"重要性\"。",
+      "label": "完形填空"
     },
     {
       "id": 9,
       "type": "cloze",
       "knowledge_point": "cloze_general",
-      "difficulty": 1,
-      "stem": "(9)______",
+      "difficulty": 2,
+      "group": "cloze_1",
+      "group_passage": "Last month, our school organized an activity called \"Green Campus Week\". All the students were asked to take part in it. The goal was to help us understand the (1)______ of environmental protection.\n\nOn Monday morning, our teacher Mr. Li gave us a speech about how to (2)______ energy in daily life. He told us that small actions could make a big difference. For example, turning off the lights when leaving the classroom and using both (3)______ of the paper.\n\nDuring the week, each class had to design a poster about recycling. My group decided to create one about sorting waste. We spent three days collecting information and drawing pictures. At first, we had different ideas and couldn't (4)______ with each other. However, after several discussions, we finally reached an agreement.\n\nOn Friday afternoon, there was a competition in the school hall. All the posters were displayed on the walls. To our surprise, our poster won the first prize. When we stood on the stage, we felt very proud. This activity taught us that teamwork and (5)______ are very important. It also made us realize that protecting the environment is everyone's responsibility.",
+      "stem": "(2)______",
       "options": [
-        "A. send",
-        "B. take",
-        "C. bring",
-        "D. carry"
+        "A. waste",
+        "B. save",
+        "C. use",
+        "D. produce"
       ],
       "correct_answer": "B",
-      "explanation": "take...to...表示把……带到……（从说话者所在地带走）。句意：每周五下午，志愿者会把它们带到回收中心。send强调邮寄或派人送；bring表示带来（朝说话者方向）；carry强调搬运重物，不涉及方向。",
-      "label": "完形填空",
-      "group": "cloze_1",
-      "group_passage": "Last month, our school started a recycling project. The purpose was to help students understand the importance of protecting the environment.\n\nAt first, many students were not interested in it. They thought it was a waste of time (8)______ they had too much homework to do. However, after the teacher explained how pollution affects our daily life, more and more students joined in.\n\nWe collected plastic bottles and waste paper in special boxes. Every Friday afternoon, volunteers would (9)______ them to the recycling center. Although the work was tiring, we felt proud when we saw the (10)______ of our efforts. The money we got from selling the recyclables was used to buy books for children in rural areas.\n\nThis experience has taught us that even small actions can make a big (11)______. Now, I always think twice before throwing things away. I have learned to (12)______ things instead of buying new ones whenever possible."
+      "explanation": "考查动词辨析与语境推理。根据后文举例\"turning off the lights(关灯)\"和\"using both sides of paper(双面用纸)\"，这些都是节约能源的行为，故选save(节约)。不选A是因为waste(浪费)与环保主题相反；不选C是因为use过于中性；不选D是因为produce(产生)与语境不符。固定搭配save energy表示\"节约能源\"。",
+      "label": "完形填空"
     },
     {
       "id": 10,
       "type": "cloze",
       "knowledge_point": "cloze_general",
-      "difficulty": 2,
-      "stem": "(10)______",
+      "difficulty": 1,
+      "group": "cloze_1",
+      "group_passage": "Last month, our school organized an activity called \"Green Campus Week\". All the students were asked to take part in it. The goal was to help us understand the (1)______ of environmental protection.\n\nOn Monday morning, our teacher Mr. Li gave us a speech about how to (2)______ energy in daily life. He told us that small actions could make a big difference. For example, turning off the lights when leaving the classroom and using both (3)______ of the paper.\n\nDuring the week, each class had to design a poster about recycling. My group decided to create one about sorting waste. We spent three days collecting information and drawing pictures. At first, we had different ideas and couldn't (4)______ with each other. However, after several discussions, we finally reached an agreement.\n\nOn Friday afternoon, there was a competition in the school hall. All the posters were displayed on the walls. To our surprise, our poster won the first prize. When we stood on the stage, we felt very proud. This activity taught us that teamwork and (5)______ are very important. It also made us realize that protecting the environment is everyone's responsibility.",
+      "stem": "(3)______",
       "options": [
-        "A. result",
-        "B. reason",
-        "C. cause",
-        "D. problem"
+        "A. sides",
+        "B. lines",
+        "C. pages",
+        "D. books"
       ],
       "correct_answer": "A",
-      "explanation": "the result of表示……的结果。句意：尽管工作很累，但当我们看到努力的结果时感到自豪。reason和cause都表示原因；problem表示问题，均不符合语境。",
-      "label": "完形填空",
-      "group": "cloze_1",
-      "group_passage": "Last month, our school started a recycling project. The purpose was to help students understand the importance of protecting the environment.\n\nAt first, many students were not interested in it. They thought it was a waste of time (8)______ they had too much homework to do. However, after the teacher explained how pollution affects our daily life, more and more students joined in.\n\nWe collected plastic bottles and waste paper in special boxes. Every Friday afternoon, volunteers would (9)______ them to the recycling center. Although the work was tiring, we felt proud when we saw the (10)______ of our efforts. The money we got from selling the recyclables was used to buy books for children in rural areas.\n\nThis experience has taught us that even small actions can make a big (11)______. Now, I always think twice before throwing things away. I have learned to (12)______ things instead of buying new ones whenever possible."
+      "explanation": "考查名词辨析与常识。use both sides of the paper是固定表达，意为\"双面用纸\"，side表示\"面、边\"。不选B是因为lines(线条)；不选C是因为pages(页)，both pages指两页纸，而both sides指一张纸的两面；不选D是因为books(书)与节约用纸的语境不符。",
+      "label": "完形填空"
     },
     {
       "id": 11,
       "type": "cloze",
       "knowledge_point": "cloze_general",
       "difficulty": 2,
-      "stem": "(11)______",
-      "options": [
-        "A. decision",
-        "B. difference",
-        "C. difficulty",
-        "D. discussion"
-      ],
-      "correct_answer": "B",
-      "explanation": "make a big difference是固定搭配，表示产生重大影响。句意：这次经历教会我们，即使是小行动也能产生大影响。decision（决定）；difficulty（困难）；discussion（讨论）均不与make构成此搭配。",
-      "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school started a recycling project. The purpose was to help students understand the importance of protecting the environment.\n\nAt first, many students were not interested in it. They thought it was a waste of time (8)______ they had too much homework to do. However, after the teacher explained how pollution affects our daily life, more and more students joined in.\n\nWe collected plastic bottles and waste paper in special boxes. Every Friday afternoon, volunteers would (9)______ them to the recycling center. Although the work was tiring, we felt proud when we saw the (10)______ of our efforts. The money we got from selling the recyclables was used to buy books for children in rural areas.\n\nThis experience has taught us that even small actions can make a big (11)______. Now, I always think twice before throwing things away. I have learned to (12)______ things instead of buying new ones whenever possible."
+      "group_passage": "Last month, our school organized an activity called \"Green Campus Week\". All the students were asked to take part in it. The goal was to help us understand the (1)______ of environmental protection.\n\nOn Monday morning, our teacher Mr. Li gave us a speech about how to (2)______ energy in daily life. He told us that small actions could make a big difference. For example, turning off the lights when leaving the classroom and using both (3)______ of the paper.\n\nDuring the week, each class had to design a poster about recycling. My group decided to create one about sorting waste. We spent three days collecting information and drawing pictures. At first, we had different ideas and couldn't (4)______ with each other. However, after several discussions, we finally reached an agreement.\n\nOn Friday afternoon, there was a competition in the school hall. All the posters were displayed on the walls. To our surprise, our poster won the first prize. When we stood on the stage, we felt very proud. This activity taught us that teamwork and (5)______ are very important. It also made us realize that protecting the environment is everyone's responsibility.",
+      "stem": "(4)______",
+      "options": [
+        "A. help",
+        "B. play",
+        "C. agree",
+        "D. talk"
+      ],
+      "correct_answer": "C",
+      "explanation": "考查动词短语与逻辑关系。根据前句\"we had different ideas(我们有不同想法)\"可知我们无法达成一致，agree with sb.表示\"同意某人\"。不选A是因为help with(帮助)；不选B是因为play with(和……玩)；不选D是因为talk with(和……交谈)，后文提到\"reached an agreement(达成一致)\"，提示此处是agree。",
+      "label": "完形填空"
     },
     {
       "id": 12,
       "type": "cloze",
       "knowledge_point": "cloze_general",
-      "difficulty": 1,
-      "stem": "(12)______",
-      "options": [
-        "A. reuse",
-        "B. reduce",
-        "C. recycle",
-        "D. repair"
-      ],
-      "correct_answer": "A",
-      "explanation": "reuse表示重复使用，与instead of buying new ones（而不是买新的）形成对比。reduce（减少）；recycle（回收）；repair（修理），虽然都与环保相关，但这里强调重复使用旧物而非购买新品。",
-      "label": "完形填空",
+      "difficulty": 2,
       "group": "cloze_1",
-      "group_passage": "Last month, our school started a recycling project. The purpose was to help students understand the importance of protecting the environment.\n\nAt first, many students were not interested in it. They thought it was a waste of time (8)______ they had too much homework to do. However, after the teacher explained how pollution affects our daily life, more and more students joined in.\n\nWe collected plastic bottles and waste paper in special boxes. Every Friday afternoon, volunteers would (9)______ them to the recycling center. Although the work was tiring, we felt proud when we saw the (10)______ of our efforts. The money we got from selling the recyclables was used to buy books for children in rural areas.\n\nThis experience has taught us that even small actions can make a big (11)______. Now, I always think twice before throwing things away. I have learned to (12)______ things instead of buying new ones whenever possible."
+      "group_passage": "Last month, our school organized an activity called \"Green Campus Week\". All the students were asked to take part in it. The goal was to help us understand the (1)______ of environmental protection.\n\nOn Monday morning, our teacher Mr. Li gave us a speech about how to (2)______ energy in daily life. He told us that small actions could make a big difference. For example, turning off the lights when leaving the classroom and using both (3)______ of the paper.\n\nDuring the week, each class had to design a poster about recycling. My group decided to create one about sorting waste. We spent three days collecting information and drawing pictures. At first, we had different ideas and couldn't (4)______ with each other. However, after several discussions, we finally reached an agreement.\n\nOn Friday afternoon, there was a competition in the school hall. All the posters were displayed on the walls. To our surprise, our poster won the first prize. When we stood on the stage, we felt very proud. This activity taught us that teamwork and (5)______ are very important. It also made us realize that protecting the environment is everyone's responsibility.",
+      "stem": "(5)______",
+      "options": [
+        "A. competition",
+        "B. creativity",
+        "C. difficulty",
+        "D. pollution"
+      ],
+      "correct_answer": "B",
+      "explanation": "考查名词辨析与主旨理解。文章讲述设计海报获奖的经历，需要团队合作和创造力，creativity(创造力)符合语境。不选A是因为competition(竞争)虽然提到但不是学到的重要内容；不选C是因为difficulty(困难)是负面词汇；不选D是因为pollution(污染)与主题无关。解题技巧：根据前文\"design a poster\"和\"drawing pictures\"推断需要创造力。",
+      "label": "完形填空"
     },
     {
       "id": 13,
       "type": "reading",
       "knowledge_point": "detail",
       "difficulty": 2,
-      "stem": "What did the scientists find about reading in the research?",
+      "group": "reading_1",
+      "group_passage": "Do you know that plants can \"talk\" to each other? Scientists have found that plants communicate with each other through their roots and chemical signals (化学信号).\n\nIn a recent study, researchers grew corn plants in different pots. Some pots were connected through their root systems, while others were separated. When one plant was attacked by insects, it sent out special chemicals. Surprisingly, the nearby plants that were connected started to produce chemicals to protect themselves, even though they were not attacked.\n\nThis discovery shows that plants have a complex communication network underground. They can share information about dangers, such as insect attacks or dry weather. When a plant is in trouble, it releases chemicals into the soil. These chemicals travel through the root connections and warn neighboring plants.\n\nHowever, this communication only works when plants are connected through their roots or when they are close enough for chemicals to travel through the air. If the plants are too far apart, they cannot receive the signals.\n\nScientists hope to use this knowledge to help farmers grow healthier crops. If we understand how plants communicate, we might be able to help them defend themselves better against pests and diseases. This could reduce the need for pesticides (杀虫剂) and make farming more environmentally friendly.",
+      "stem": "What did the researchers find in their study about corn plants?",
       "options": [
-        "A. Reading can improve memory immediately.",
-        "B. Reading fiction increases brain connectivity.",
-        "C. Reading is less useful than watching videos.",
-        "D. Reading only benefits language learning."
+        "A. Plants can only communicate through air.",
+        "B. Connected plants can share warning signals when attacked.",
+        "C. Corn plants cannot produce protective chemicals.",
+        "D. All plants can talk to each other regardless of distance."
       ],
       "correct_answer": "B",
-      "explanation": "根据文章第二段A study...showed that people who read regularly...had increased connectivity in the left temporal cortex可知，科学家发现阅读能增加大脑颞叶皮层的连接性。A选项improve memory immediately（立即改善记忆）文中未提；C选项与原文相反；D选项only过于绝对。",
-      "label": "阅读-细节理解",
-      "group": "reading_1",
-      "group_passage": "Reading is not just a hobby; it is a powerful tool that can change our brains. Scientists have found that reading books, especially fiction, can improve our empathy and emotional intelligence.\n\nWhen we read a story, our brains do not just process words. They create mental images and simulate the experiences of the characters. A study conducted by researchers at a university showed that people who read regularly for six months had increased connectivity in the left temporal cortex, an area associated with language and intelligence.\n\nHowever, many teenagers today prefer watching videos or playing games to reading. They argue that these activities are more exciting. While digital entertainment has its value, it does not provide the same depth of thinking that reading offers. Reading requires active imagination, whereas watching videos is a more passive activity.\n\nTo encourage reading, some schools have started \"reading challenges\" where students compete to read the most books. The word \"challenge\" here does not mean something difficult or stressful. Rather, it refers to a friendly competition that motivates students to discover the joy of books.\n\nWhether you prefer science fiction, history, or biography, the key is to read regularly. Just 30 minutes of reading before bed can significantly improve your sleep quality and vocabulary."
+      "explanation": "考查细节理解。根据第二段\"When one plant was attacked...the nearby plants that were connected started to produce chemicals to protect themselves\"可知，被连接的植物在受到攻击时可以分享警告信号。不选A是因为文章提到通过roots和chemicals两种方式；不选C与原文\"produce chemicals to protect themselves\"矛盾；不选D是因为最后一段提到\"If the plants are too far apart, they cannot receive the signals\"。解题技巧：定位关键词\"researchers\"和\"corn plants\"到第二段，寻找实验结果。",
+      "label": "阅读-细节理解"
     },
     {
       "id": 14,
       "type": "reading",
-      "knowledge_point": "inference",
-      "difficulty": 3,
-      "stem": "What can we infer about digital entertainment from the passage?",
-      "options": [
-        "A. It is completely harmful to teenagers.",
-        "B. It requires more imagination than reading.",
-        "C. It offers a different kind of thinking depth.",
-        "D. It is more passive compared to reading."
-      ],
-      "correct_answer": "D",
-      "explanation": "根据第三段Reading requires active imagination, whereas watching videos is a more passive activity可知，看数字娱乐比阅读更被动。A选项completely harmful过于绝对；B选项与原文相反；C选项different kind of thinking depth文中未提，文中说it does not provide the same depth of thinking。",
-      "label": "阅读-推理判断",
+      "knowledge_point": "word_guessing_context",
+      "difficulty": 2,
       "group": "reading_1",
-      "group_passage": "Reading is not just a hobby; it is a powerful tool that can change our brains. Scientists have found that reading books, especially fiction, can improve our empathy and emotional intelligence.\n\nWhen we read a story, our brains do not just process words. They create mental images and simulate the experiences of the characters. A study conducted by researchers at a university showed that people who read regularly for six months had increased connectivity in the left temporal cortex, an area associated with language and intelligence.\n\nHowever, many teenagers today prefer watching videos or playing games to reading. They argue that these activities are more exciting. While digital entertainment has its difficult or stressful. Rather, it refers to a friendly competition that motivates students to discover the joy of books.\n\nWhether you prefer science fiction, history, or biography, the key is to read regularly. Just 30 minutes of reading before bed can significantly improve your sleep quality and vocabulary."
+      "group_passage": "Do you know that plants can \"talk\" to each other? Scientists have found that plants communicate with each other through their roots and chemical signals (化学信号).\n\nIn a recent study, researchers grew corn plants in different pots. Some pots were connected through their root systems, while others were separated. When one plant was attacked by insects, it sent out special chemicals. Surprisingly, the nearby plants that were connected started to produce chemicals to protect themselves, even though they were not attacked.\n\nThis discovery shows that plants have a complex communication network underground. They can share information about dangers, such as insect attacks or dry weather. When a plant is in trouble, it releases chemicals into the soil. These chemicals travel through the root connections and warn neighboring plants.\n\nHowever, this communication only works when plants are connected through their roots or when they are close enough for chemicals to travel through the air. If the plants are too far apart, they cannot receive the signals.\n\nScientists hope to use this knowledge to help farmers grow healthier crops. If we understand how plants communicate, we might be able to help them defend themselves better against pests and diseases. This could reduce the need for pesticides (杀虫剂) and make farming more environmentally friendly.",
+      "stem": "What does the word \"complex\" in Paragraph 3 probably mean?",
+      "options": [
+        "A. Simple and easy",
+        "B. Complicated and detailed",
+        "C. Short and clear",
+        "D. Modern and advanced"
+      ],
+      "correct_answer": "B",
+      "explanation": "考查词义猜测。根据上下文，植物通过根系和化学信号传递信息，可以分享关于危险的信息，这说明其交流网络是\"复杂的\"。complex意为\"复杂的\"，与complicated同义。不选A是因为simple是反义词；不选C与语境不符；不选D是因为modern(现代的)不是该词的核心含义。解题技巧：通过构词法(com-前缀表\"共同\"，plex表\"编织\")和上下文逻辑(能传递多种信息说明系统复杂)推断词义。",
+      "label": "阅读-词义猜测"
     },
     {
       "id": 15,
       "type": "reading",
-      "knowledge_point": "word_guessing",
-      "difficulty": 2,
-      "stem": "What does the word \"challenge\" in Paragraph 4 probably mean?",
-      "options": [
-        "A. A difficult problem to solve.",
-        "B. A friendly competition.",
-        "C. A stressful examination.",
-        "D. A physical exercise."
-      ],
-      "correct_answer": "B",
-      "explanation": "根据第四段The word \"challenge\" here does not mean something difficult or stressful. Rather, it refers to a friendly competition可知，challenge在这里指友好竞赛。Rather表示转折，后面的内容就是对challenge的解释。A和C是通常含义，但文中明确说does not mean something difficult or stressful；D未提及。",
-      "label": "阅读-词义猜测",
+      "knowledge_point": "inference",
+      "difficulty": 3,
       "group": "reading_1",
-      "group_passage": "Reading is not just a hobby; it is a powerful tool that can change our brains. Scientists have found that reading books, especially fiction, can improve our empathy and emotional intelligence.\n\nWhen we read a story, our brains do not just process words. They create mental images and simulate the experiences of the characters. A study conducted by researchers at a university showed that people who read regularly for six months had increased connectivity in the left temporal cortex, an area associated with language and intelligence.\n\nHowever, many teenagers today prefer watching videos or playing games to reading. They argue that these activities are more exciting. While digital entertainment has its value, it does not provide the same depth of thinking that reading offers. Reading requires active imagination, whereas watching videos is a more passive activity.\n\nTo encourage reading, some schools have started \"reading challenges\" where students compete to read the most books. The word \"challenge\" here does not mean something difficult or stressful. Rather, it refers to a friendly competition that motivates students to discover the joy of books.\n\nWhether you prefer science fiction, history, or biography, the key is to read regularly. Just 30 minutes of reading before bed can significantly improve your sleep quality and vocabulary."
+      "group_passage": "Do you know that plants can \"talk\" to each other? Scientists have found that plants communicate with each other through their roots and chemical signals (化学信号).\n\nIn a recent study, researchers grew corn plants in different pots. Some pots were connected through their root systems, while others were separated. When one plant was attacked by insects, it sent out special chemicals. Surprisingly, the nearby plants that were connected started to produce chemicals to protect themselves, even though they were not attacked.\n\nThis discovery shows that plants have a complex communication network underground. They can share information about dangers, such as insect attacks or dry weather. When a plant is in trouble, it releases chemicals into the soil. These chemicals travel through the root connections and warn neighboring plants.\n\nHowever, this communication only works when plants are connected through their roots or when they are close enough for chemicals to travel through the air. If the plants are too far apart, they cannot receive the signals.\n\nScientists hope to use this knowledge to help farmers grow healthier crops. If we understand how plants communicate, we might be able to help them defend themselves better against pests and diseases. This could reduce the need for pesticides (杀虫剂) and make farming more environmentally friendly.",
+      "stem": "What can we infer from the passage?",
+      "options": [
+        "A. Farmers should grow plants closer together.",
+        "B. Pesticides are the best way to protect plants.",
+        "C. Understanding plant communication may help reduce pesticide use.",
+        "D. Plants can communicate with animals as well."
+      ],
+      "correct_answer": "C",
+      "explanation": "考查推理判断。根据最后一段\"This could reduce the need for pesticides\"可知，理解植物交流可能有助于减少杀虫剂的使用。不选A是因为文章未明确建议种得更近，只是说距离影响交流；不选B与文章主旨相反(文章说可以减少农药使用)；不选D是因为文章只提到植物之间的交流。推理题技巧：基于原文信息合理推断，不能过度推断，也不能与原文矛盾。",
+      "label": "阅读-推理判断"
     },
     {
       "id": 16,
       "type": "reading",
-      "knowledge_point": "main_idea",
-      "difficulty": 3,
-      "stem": "What is the best title for the passage?",
+      "knowledge_point": "main_idea_title",
+      "difficulty": 2,
+      "group": "reading_1",
+      "group_passage": "Do you know that plants can \"talk\" to each other? Scientists have found that plants communicate with each other through their roots and chemical signals (化学信号).\n\nIn a recent study, researchers grew corn plants in different pots. Some pots were connected through their root systems, while others were separated. When one plant was attacked by insects, it sent out special chemicals. Surprisingly, the nearby plants that were connected started to produce chemicals to protect themselves, even though they were not attacked.\n\nThis discovery shows that plants have a complex communication network underground. They can share information about dangers, such as insect attacks or dry weather. When a plant is in trouble, it releases chemicals into the soil. These chemicals travel through the root connections and warn neighboring plants.\n\nHowever, this communication only works when plants are connected through their roots or when they are close enough for chemicals to travel through the air. If the plants are too far apart, they cannot receive the signals.\n\nScientists hope to use this knowledge to help farmers grow healthier crops. If we understand how plants communicate, we might be able to help them defend themselves better against pests and diseases. This could reduce the need for pesticides (杀虫剂) and make farming more environmentally friendly.",
+      "stem": "What is the best title for this passage?",
       "options": [
-        "A. How to Improve Memory",
-        "B. The Disadvantages of Digital Entertainment",
-        "C. The Power of Reading",
-        "D. Ways to Start Reading Challenges"
+        "A. How to Grow Corn Plants",
+        "B. The Life of Insects",
+        "C. The Secret Language of Plants",
+        "D. Chemical Signals in the Soil"
       ],
       "correct_answer": "C",
-      "explanation": "文章第一段点明主旨reading is a powerful tool，第二段讲阅读对大脑的影响，第三段对比阅读与数字娱乐，第四段讲阅读挑战，第五段总结阅读的好处。全文围绕阅读的力量展开。A选项只涉及细节；B选项只是对比部分；D选项只涉及第四段。",
-      "label": "阅读-主旨大意",
-      "group": "reading_1",
-      "group_passage": "Reading is not just a hobby; it is a powerful tool that can change our brains. Scientists have found that reading books, especially fiction, can improve our empathy and emotional intelligence.\n\nWhen we read a story, our brains do not just process words. They create mental images and simulate the experiences of the characters. A study conducted by researchers at a university showed that people who read regularly for six months had increased connectivity in the left temporal cortex, an area associated with language and intelligence.\n\nHowever, many teenagers today prefer watching videos or playing games to reading. They argue that these activities are more exciting. While digital entertainment has its value, it does not provide the same depth of thinking that reading offers. Reading requires active imagination, whereas watching videos is a more passive activity.\n\nTo encourage reading, some schools have started \"reading challenges\" where students compete to read the most books. The word \"challenge\" here does not mean something difficult or stressful. Rather, it refers to a friendly competition that motivates students to discover the joy of books.\n\nWhether you prefer science fiction, history, or biography, the key is to read regularly. Just 30 minutes of reading before bed can significantly improve your sleep quality and vocabulary."
+      "explanation": "考查主旨大意与最佳标题。文章主要介绍植物之间如何通过化学信号和根系进行交流，C项\"植物的秘密语言\"最能概括全文。不选A是因为种玉米只是实验例子；不选B是因为昆虫只是攻击者，不是主题；不选D是因为化学信号只是交流方式，不是文章中心。解题技巧：最佳标题应涵盖全文核心内容，既不过宽也不过窄，通常关注首尾段和反复出现的关键词(\"communicate\"\"talk\"\"signals\")。",
+      "label": "阅读-主旨大意"
     },
     {
       "id": 17,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
+      "group": "fill_1",
+      "group_passage": "Learning to manage time well is an important skill for middle school students. Many students feel stressed because they have too much homework and too many after-school activities. (17)______ Here are some useful tips to help you.\n\nFirst, make a to-do list every morning. Write down all the things you need to do that day. (18)______ This helps you focus on the most important tasks first.\n\nSecond, avoid spending too much time on your phone. Social media and games can easily take away your attention. (19)______ You can use apps that limit your screen time.\n\nFinally, don't forget to take breaks. Studying for too long without rest makes you tired and less efficient. (20)______ A short walk or some exercise can help you refresh your mind.\n\nWith good time management, you will find that you have more free time to do the things you enjoy.",
       "stem": "(17)______",
       "options": [
-        "A. However",
-        "B. Then",
-        "C. On the other hand",
-        "D. Therefore",
-        "E. In addition"
+        "A. However, this is not the only solution.",
+        "B. Then, decide which ones are the most urgent.",
+        "C. As a result, you may fall behind with your studies.",
+        "D. If you don't control your time well, you will feel even more stressed.",
+        "E. Take a five-minute break every hour to relax your eyes and brain."
       ],
-      "correct_answer": "A",
-      "explanation": "前文说很多学生发现难以平衡学业和爱好，后文说通过良好的时间管理两者都可能实现，前后是转折关系，用However（然而）。Then表顺承；On the other hand表另一方面；Therefore表结果；In addition表递进。",
-      "label": "短文填空",
-      "group": "fill_1",
-      "group_passage": "Many students find it hard to balance their schoolwork and hobbies. They often feel stressed when they cannot finish homework but still want to practice their hobbies. (17)______, it is possible to do both with good time management.\n\nFirst, you need to make a schedule. Write down all your homework and assign specific times for each subject. (18)______, you will know exactly how much free time you have left for hobbies.\n\nSecond, choose hobbies that can be done in short periods. For example, reading or drawing can be done for just 20 minutes. (19)______, playing basketball or football usually requires more time and teammates.\n\nFinally, remember that hobbies are important for your mental health. (20)______, you should not feel guilty about spending time on them. In fact, taking breaks can help you study better when you return to your books."
+      "correct_answer": "D",
+      "explanation": "考查句子衔接与逻辑关系。前文提到学生感到压力，后文给出建议，此处需要承上启下的过渡句，指出不管理时间的后果。D项\"如果你不能很好地控制时间，你会感到更有压力\"符合逻辑。不选A是因为前文未提及其他解决方案；不选B、C、E与前后文逻辑不符。解题技巧：关注上下文逻辑关系(此处为因果关系/引出问题-解决方案)。",
+      "label": "短文填空"
     },
     {
       "id": 18,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
+      "group": "fill_1",
+      "group_passage": "Learning to manage time well is an important skill for middle school students. Many students feel stressed because they have too much homework and too many after-school activities. (17)______ Here are some useful tips to help you.\n\nFirst, make a to-do list every morning. Write down all the things you need to do that day. (18)______ This helps you focus on the most important tasks first.\n\nSecond, avoid spending too much time on your phone. Social media and games can easily take away your attention. (19)______ You can use apps that limit your screen time.\n\nFinally, don't forget to take breaks. Studying for too long without rest makes you tired and less efficient. (20)______ A short walk or some exercise can help you refresh your mind.\n\nWith good time management, you will find that you have more free time to do the things you enjoy.",
       "stem": "(18)______",
       "options": [
-        "A. However",
-        "B. Then",
-        "C. On the other hand",
-        "D. Therefore",
-        "E. In addition"
+        "A. However, this is not the only solution.",
+        "B. Then, decide which ones are the most urgent.",
+        "C. As a result, you may fall behind with your studies.",
+        "D. If you don't control your time well, you will feel even more stressed.",
+        "E. Take a five-minute break every hour to relax your eyes and brain."
       ],
       "correct_answer": "B",
-      "explanation": "前文讲制定计划、写下作业、分配时间，后文讲你就会知道有多少空闲时间，这是顺承关系，用Then（然后）。However表转折；On the other hand表对比；Therefore表结果（因果关系）；In addition表递进。",
-      "label": "短文填空",
-      "group": "fill_1",
-      "group_passage": "Many students find it hard to balance their schoolwork and hobbies. They often feel stressed when they cannot finish homework but still want to practice their hobbies. (17)______, it is possible to do both with good time management.\n\nFirst, you need to make a schedule. Write down all your homework and assign specific times for each subject. (18)______, you will know exactly how much free time you have left for hobbies.\n\nSecond, choose hobbies that can be done in short periods. For example, reading or drawing can be done for just 20 minutes. (19)______, playing basketball or football usually requires more time and teammates.\n\nFinally, remember that hobbies are important for your mental health. (20)______, you should not feel guilty about spending time on them. In fact, taking breaks can help you study better when you return to your books."
+      "explanation": "考查句子衔接与指代关系。前文说\"写下所有要做的事情\"，后文说\"这有助于你首先关注最重要的任务\"，因此此处应填入决定优先级的内容。B项\"然后，决定哪些是最紧急的\"符合逻辑，ones指代前文的things。不选A、C、D、E是因为与\"列清单\"和\"重要任务\"的语境不符。解题技巧：注意代词指代(ones)和动作顺序(First...Then...)。",
+      "label": "短文填空"
     },
     {
       "id": 19,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
+      "group": "fill_1",
+      "group_passage": "Learning to manage time well is an important skill for middle school students. Many students feel stressed because they have too much homework and too many after-school activities. (17)______ Here are some useful tips to help you.\n\nFirst, make a to-do list every morning. Write down all the things you need to do that day. (18)______ This helps you focus on the most important tasks first.\n\nSecond, avoid spending too much time on your phone. Social media and games can easily take away your attention. (19)______ You can use apps that limit your screen time.\n\nFinally, don't forget to take breaks. Studying for too long without rest makes you tired and less efficient. (20)______ A short walk or some exercise can help you refresh your mind.\n\nWith good time management, you will find that you have more free time to do the things you enjoy.",
       "stem": "(19)______",
       "options": [
-        "A. However",
-        "B. Then",
-        "C. On the other hand",
-        "D. Therefore",
-        "E. In addition"
+        "A. However, this is not the only solution.",
+        "B. Then, decide which ones are the most urgent.",
+        "C. As a result, you may fall behind with your studies.",
+        "D. If you don't control your time well, you will feel even more stressed.",
+        "E. Take a five-minute break every hour to relax your eyes and brain."
       ],
       "correct_answer": "C",
-      "explanation": "前文举例阅读或绘画可以短时间完成，后文说打篮球或踢足球通常需要更多时间和队友，前后是对比关系，用On the other hand（另一方面）。However表转折；Then表顺承；Therefore表结果；In addition表递进。",
-      "label": "短文填空",
-      "group": "fill_1",
-      "group_passage": "Many students find it hard to balance their schoolwork and hobbies. They often feel stressed when they cannot finish homework but still want to practice their hobbies. (17)______, it is possible to do both with good time management.\n\nFirst, you need to make a schedule. Write down all your homework and assign specific times for each subject. (18)______, you will know exactly how much free time you have left for hobbies.\n\nSecond, choose hobbies that can be done in short periods. For example, reading or drawing can be done for just 20 minutes. (19)______, playing basketball or football usually requires more time and teammates.\n\nFinally, remember that hobbies are important for your mental health. (20)______, you should not feel guilty about spending time on them. In fact, taking breaks can help you study better when you return to your books."
+      "explanation": "考查句子衔接与因果关系。前文说\"社交媒体和游戏容易分散注意力\"，此处应说明后果。C项\"结果，你可能会在学业上落后\"符合因果逻辑。不选A是因为此处不是转折；不选B是动作顺序不符；不选D是话题重复；不选E是该段未讲休息。解题技巧：识别逻辑信号词，此处as a result承接前文的负面行为。",
+      "label": "短文填空"
     },
     {
       "id": 20,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
+      "group": "fill_1",
+      "group_passage": "Learning to manage time well is an important skill for middle school students. Many students feel stressed because they have too much homework and too many after-school activities. (17)______ Here are some useful tips to help you.\n\nFirst, make a to-do list every morning. Write down all the things you need to do that day. (18)______ This helps you focus on the most important tasks first.\n\nSecond, avoid spending too much time on your phone. Social media and games can easily take away your attention. (19)______ You can use apps that limit your screen time.\n\nFinally, don't forget to take breaks. Studying for too long without rest makes you tired and less efficient. (20)______ A short walk or some exercise can help you refresh your mind.\n\nWith good time management, you will find that you have more free time to do the things you enjoy.",
       "stem": "(20)______",
       "options": [
-        "A. However",
-        "B. Then",
-        "C. On the other hand",
-        "D. Therefore",
-        "E. In addition"
+        "A. However, this is not the only solution.",
+        "B. Then, decide which ones are the most urgent.",
+        "C. As a result, you may fall behind with your studies.",
+        "D. If you don't control your time well, you will feel even more stressed.",
+        "E. Take a five-minute break every hour to relax your eyes and brain."
       ],
-      "correct_answer": "D",
-      "explanation": "前文说爱好对心理健康很重要，后文说你不应该为此感到内疚，前后是因果关系，用Therefore（因此）。However表转折；Then表顺承；On the other hand表对比；In addition表递进。",
-      "label": "短文填空",
-      "group": "fill_1",
-      "group_passage": "Many students find it hard to balance their schoolwork and hobbies. They often feel stressed when they cannot finish homework but still want to practice their hobbies. (17)______, it is possible to do both with good time management.\n\nFirst, you need to make a schedule. Write down all your homework and assign specific times for each subject. (18)______, you will know exactly how much free time you have left for hobbies.\n\nSecond, choose hobbies that can be done in short periods. For example, reading or drawing can be done for just 20 minutes. (19)______, playing basketball or football usually requires more time and teammates.\n\nFinally, remember that hobbies are important for your mental health. (20)______, you should not feel guilty about spending time on them. In fact, taking breaks can help you study better when you return to your books."
+      "correct_answer": "E",
+      "explanation": "考查句子衔接与段落主题一致性。该段主题是\"休息\"，E项\"每小时休息五分钟来放松眼睛和大脑\"符合段落主旨。不选A、B、C、D是因为都与\"休息\"主题无关。解题技巧：选句填空必须保持段落主题一致性，该段关键词是\"take breaks\"，只有E项涉及休息。",
+      "label": "短文填空"
     }
   ]
 }
