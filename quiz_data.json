@@ -1,61 +1,61 @@
 ﻿{
-  "date": "2026-07-02",
+  "date": "2026-07-03",
   "session_number": 1,
   "questions": [
     {
       "id": 1,
       "type": "grammar",
-      "knowledge_point": "present_perfect_vs_past_simple",
-      "difficulty": 2,
-      "stem": "—______ you ever ______ to the Shenzhen Science Museum?\n—Yes, I ______ there last month.",
+      "knowledge_point": "passive_voice",
+      "difficulty": 1,
+      "stem": "The book ______ by many students in our school every year.",
       "options": [
-        "A. Did; go; went",
-        "B. Have; been; went",
-        "C. Have; gone; went",
-        "D. Do; go; have gone"
+        "A. is read",
+        "B. reads",
+        "C. read",
+        "D. was read"
       ],
-      "correct_answer": "B",
-      "explanation": "考查现在完成时与一般过去时的区别。第一空根据'ever'和语境表示\"曾经去过\"，用现在完成时have been to；第二空有明确过去时间状语'last month'，必须用一般过去时went。不选A是因为第一空用Did则ever位置不对且语义不符；不选C是因为have gone to表示\"去了某地(未回)\"，与答句矛盾；不选D是因为时态混乱。解题技巧：看到ever/never用现在完成时，看到yesterday/last week/ago用一般过去时。",
+      "correct_answer": "A",
+      "explanation": "本题考查一般现在时的被动语态。主语The book是动作read的承受者，应用被动语态（be+过去分词）。由every year可知用一般现在时，主语是单数，所以用is read。B是主动语态第三人称单数；C是主动语态原形；D是一般过去时被动语态，与every year时间状语不符。解题技巧：看到by短语首先考虑被动语态，再根据时间状语确定时态。",
       "label": "语法题"
     },
     {
       "id": 2,
       "type": "grammar",
-      "knowledge_point": "relative_clause_who_which",
+      "knowledge_point": "present_perfect_vs_past_simple",
       "difficulty": 2,
-      "stem": "The boy ______ is reading a book under the tree is my classmate.",
+      "stem": "—______ you ______ your homework yet? —Yes, I ______ it an hour ago.",
       "options": [
-        "A. who",
-        "B. which",
-        "C. whom",
-        "D. whose"
+        "A. Did; finish; finished",
+        "B. Have; finished; finished",
+        "C. Have; finished; have finished",
+        "D. Did; finish; have finished"
       ],
-      "correct_answer": "A",
-      "explanation": "考查定语从句关系代词的选择。先行词是The boy(人)，且关系代词在从句中作主语，故用who。不选B是因为which用于指物；不选C是因为whom在从句中作宾语；不选D是因为whose表示\"谁的\"，在从句中作定语。解题口诀：先行词是人作主语用who，作宾语用whom/who/that；先行词是物用which/that。",
+      "correct_answer": "B",
+      "explanation": "本题考查现在完成时与一般过去时的区别。yet是现在完成时的标志词，问句应用Have you finished；ago是一般过去时的标志词，答句应用finished。A项第一空错误，did与yet不搭配；C项第二空错误，ago不能与现在完成时连用；D项两个空都错误。解题技巧：yet/ever/never/already常与现在完成时连用；ago/yesterday/last week与一般过去时连用。",
       "label": "语法题"
     },
     {
       "id": 3,
       "type": "grammar",
-      "knowledge_point": "passive_voice",
-      "difficulty": 1,
-      "stem": "Many trees ______ by the students in our school every spring.",
+      "knowledge_point": "relative_clause_who_which",
+      "difficulty": 2,
+      "stem": "This is the school ______ I studied three years ago.",
       "options": [
-        "A. plant",
-        "B. are planted",
-        "C. planted",
-        "D. were planted"
+        "A. which",
+        "B. who",
+        "C. where",
+        "D. when"
       ],
-      "correct_answer": "B",
-      "explanation": "考查一般现在时的被动语态。主语Many trees与plant是被动关系(树被种植)，且时间状语是every spring(每年春天)，表示经常性动作，用一般现在时被动语态are planted。不选A是语态错误；不选C是缺少be动词且时态不对；不选D是时态错误(过去时)。被动语态结构：be + done，注意时间状语决定be的时态。",
+      "correct_answer": "C",
+      "explanation": "本题考查定语从句关系词的选择。先行词是the school（地点），从句I studied three years ago中缺少地点状语（in the school），应用where引导。A项which在从句中作主语或宾语，但study不及物时不需要宾语；B项who指人；D项when指时间。解题技巧：看先行词是人还是物，再看从句缺什么成分——缺主语/宾语用which/that，缺状语用where/when。",
       "label": "语法题"
     },
     {
       "id": 4,
       "type": "grammar",
-      "knowledge_point": "modal_verbs_speculation",
+      "knowledge_point": "modal_verbs",
       "difficulty": 3,
-      "stem": "—Is that Mr. Wang knocking at the door?\n—It ______ be him. He has gone to Beijing on business.",
+      "stem": "—Is that Mr. Wang knocking at the door? —It ______ be him. He has gone to Beijing for a meeting.",
       "options": [
         "A. must",
         "B. might",
@@ -63,55 +63,55 @@
         "D. should"
       ],
       "correct_answer": "C",
-      "explanation": "考查情态动词表推测。根据后句\"He has gone to Beijing\"(他去北京出差了，还没回来)，可知前句表示\"不可能是他\"，否定推测用can't。不选A是因为must表示肯定推测\"一定是\"；不选B是因为might表示可能性较小的推测\"可能是\"，但此处是明确否定；不选D是因为should表示\"应该\"。口诀：肯定推测用must，否定推测用can't，不确定用may/might。",
+      "explanation": "本题考查情态动词表推测。由He has gone to Beijing可知他去北京了（还没回来），所以不可能是他敲门。否定推测用can't（不可能）。A项must表示肯定推测'一定是'，与语境矛盾；B项might表示'可能是'，语气不确定，但语境是确定不是；D项should表示'应该'，不表推测。解题技巧：must表肯定推测'一定是'，can't表否定推测'不可能是'，might表不确定'可能是'，根据语境证据选择。",
       "label": "语法题"
     },
     {
       "id": 5,
       "type": "vocabulary",
-      "knowledge_point": "word_collocations",
+      "knowledge_point": "word_formation",
       "difficulty": 1,
-      "stem": "If you are ______ with your current score, you should work harder to get a better one.",
+      "stem": "It is ______ to see so many changes in my hometown.",
       "options": [
-        "A. exciting",
-        "B. interested",
-        "C. satisfied",
-        "D. bored"
+        "A. excite",
+        "B. excited",
+        "C. exciting",
+        "D. excitement"
       ],
       "correct_answer": "C",
-      "explanation": "考查形容词固定搭配。be satisfied with是固定搭配，意为\"对……满意\"。句意：如果你满足于目前的分数，你应该更努力以取得更好的成绩。不选A是因为exciting修饰物，且不与with搭配；不选B是因为be interested in表示\"对……感兴趣\"；不选D是因为be bored with表示\"对……感到厌烦\"，与后句\"应该更努力\"逻辑不符。",
+      "explanation": "本题考查词性转换及形容词辨析。be动词后接形容词作表语，排除A（动词）和D（名词）。exciting表示'令人兴奋的'，修饰事物；excited表示'感到兴奋的'，修饰人。本句主语是It，指代'看到家乡变化'这件事，应用exciting。解题技巧：-ing形容词修饰事物（令人...的），-ed形容词修饰人（感到...的）。",
       "label": "词汇题"
     },
     {
       "id": 6,
       "type": "vocabulary",
-      "knowledge_point": "word_meaning",
+      "knowledge_point": "word_meaning_context",
       "difficulty": 2,
-      "stem": "The new technology can help us ______ information more quickly from the Internet.",
+      "stem": "If you are ______ with your current score, you should work harder to get a better one.",
       "options": [
-        "A. achieve",
-        "B. search",
-        "C. invent",
-        "D. discover"
+        "A. exciting",
+        "B. excited",
+        "C. satisfied",
+        "D. satisfying"
       ],
-      "correct_answer": "B",
-      "explanation": "考查动词词义辨析。search information表示\"搜索信息\"，符合句意\"新技术可以帮助我们更快速地从互联网上搜索信息\"。不选A是因为achieve表示\"实现、达到\"(目标、梦想)；不选C是因为invent表示\"发明\"(创造新事物)；不选D是因为discover表示\"发现\"(原本存在但未被认知的事物)。解题技巧：注意动词与宾语的搭配习惯。",
+      "correct_answer": "C",
+      "explanation": "本题考查形容词词义辨析及搭配。be satisfied with是固定搭配，意为'对...满意'。根据句意'如果你满足于当前分数，就应该更努力'符合逻辑。A和D通常不修饰人；B项excited应与about/with连用，但'对分数感到兴奋'与后文'应该更努力'逻辑矛盾。解题技巧：根据后文'work harder'可推断前文是'满足现状'，satisfied符合语境。",
       "label": "词汇题"
     },
     {
       "id": 7,
       "type": "vocabulary",
-      "knowledge_point": "word_formation",
+      "knowledge_point": "phrasal_verbs",
       "difficulty": 2,
-      "stem": "The ______ of this experiment is to test how plants grow in different lights.",
+      "stem": "We should ______ old clothes instead of throwing them away.",
       "options": [
-        "A. propose",
-        "B. purpose",
-        "C. proper",
-        "D. probably"
+        "A. put on",
+        "B. take off",
+        "C. give away",
+        "D. try on"
       ],
-      "correct_answer": "B",
-      "explanation": "考查词性转换与词形辨析。定冠词The后需接名词，purpose是名词，意为\"目的\"，the purpose of...表示\"……的目的\"。不选A是因为propose是动词(提议)；不选C是因为proper是形容词(恰当的)；不选D是因为probably是副词(可能地)。句意：这个实验的目的是测试植物在不同光照下如何生长。",
+      "correct_answer": "C",
+      "explanation": "本题考查动词短语辨析。give away表示'捐赠，赠送'，符合句意'我们应该把旧衣服捐出去而不是扔掉'。A项put on（穿上）；B项take off（脱下，起飞）；D项try on（试穿）均与'instead of throwing them away'的环保语境不符。解题技巧：根据语境'不扔掉'推断是'捐赠'，give away有'无偿给予他人'的含义。",
       "label": "词汇题"
     },
     {
@@ -119,238 +119,238 @@
       "type": "cloze",
       "knowledge_point": "cloze_general",
       "difficulty": 1,
-      "group": "cloze_1",
-      "group_passage": "Last month, our school organized an activity called \"Green Campus Week\". All the students were asked to take part in it. The goal was to help us understand the (1)______ of environmental protection.\n\nOn Monday morning, our teacher Mr. Li gave us a speech about how to (2)______ energy in daily life. He told us that small actions could make a big difference. For example, turning off the lights when leaving the classroom and using both (3)______ of the paper.\n\nDuring the week, each class had to design a poster about recycling. My group decided to create one about sorting waste. We spent three days collecting information and drawing pictures. At first, we had different ideas and couldn't (4)______ with each other. However, after several discussions, we finally reached an agreement.\n\nOn Friday afternoon, there was a competition in the school hall. All the posters were displayed on the walls. To our surprise, our poster won the first prize. When we stood on the stage, we felt very proud. This activity taught us that teamwork and (5)______ are very important. It also made us realize that protecting the environment is everyone's responsibility.",
-      "stem": "(1)______",
+      "stem": "(8)______",
       "options": [
-        "A. importance",
-        "B. different",
-        "C. difficult",
-        "D. interesting"
+        "A. on",
+        "B. in",
+        "C. at",
+        "D. for"
       ],
-      "correct_answer": "A",
-      "explanation": "考查名词辨析与上下文理解。根据句意\"帮助我们理解环境保护的______\"，importance(重要性)符合语境。不选B是因为different是形容词；不选C是因为difficult是形容词且语义不符；不选D是因为interesting虽可作名词但语义不如importance贴切。解题技巧：根据冠词the判断需填名词，再结合主题\"环保活动\"确定是\"重要性\"。",
-      "label": "完形填空"
+      "correct_answer": "B",
+      "explanation": "本题考查固定搭配。be interested in是固定短语，意为'对...感兴趣'。其他介词与interested搭配不当。",
+      "label": "完形填空",
+      "group": "cloze_1",
+      "group_passage": "Last month, our school started a recycling project to help protect the environment. The project encouraged students to collect recyclable materials like plastic bottles and old newspapers.\n\nAt first, many students were not interested (8)______ it. They thought it was boring and (9)______ too much time. However, after our science teacher Mr. Li explained (10)______ recycling could save energy and reduce pollution, more and more students joined in.\n\nMy classmate Tom and I decided to work together. We put a big box in our classroom and asked everyone to put their empty bottles in it. Every Friday afternoon, we (11)______ the bottles to the recycling center near our school. Although it was tiring, we felt proud when we saw the box (12)______ of bottles.\n\nBy the end of the month, our class had collected over 500 bottles! The headmaster praised us in the morning meeting and said we were excellent role models for other students. This experience taught me that small actions can make a big difference to our environment."
     },
     {
       "id": 9,
       "type": "cloze",
       "knowledge_point": "cloze_general",
       "difficulty": 2,
-      "group": "cloze_1",
-      "group_passage": "Last month, our school organized an activity called \"Green Campus Week\". All the students were asked to take part in it. The goal was to help us understand the (1)______ of environmental protection.\n\nOn Monday morning, our teacher Mr. Li gave us a speech about how to (2)______ energy in daily life. He told us that small actions could make a big difference. For example, turning off the lights when leaving the classroom and using both (3)______ of the paper.\n\nDuring the week, each class had to design a poster about recycling. My group decided to create one about sorting waste. We spent three days collecting information and drawing pictures. At first, we had different ideas and couldn't (4)______ with each other. However, after several discussions, we finally reached an agreement.\n\nOn Friday afternoon, there was a competition in the school hall. All the posters were displayed on the walls. To our surprise, our poster won the first prize. When we stood on the stage, we felt very proud. This activity taught us that teamwork and (5)______ are very important. It also made us realize that protecting the environment is everyone's responsibility.",
-      "stem": "(2)______",
+      "stem": "(9)______",
       "options": [
-        "A. waste",
-        "B. save",
-        "C. use",
-        "D. produce"
+        "A. spent",
+        "B. cost",
+        "C. took",
+        "D. paid"
       ],
-      "correct_answer": "B",
-      "explanation": "考查动词辨析与语境推理。根据后文举例\"turning off the lights(关灯)\"和\"using both sides of paper(双面用纸)\"，这些都是节约能源的行为，故选save(节约)。不选A是因为waste(浪费)与环保主题相反；不选C是因为use过于中性；不选D是因为produce(产生)与语境不符。固定搭配save energy表示\"节约能源\"。",
-      "label": "完形填空"
+      "correct_answer": "C",
+      "explanation": "本题考查动词辨析。主语是it（指代recycling），表示'花费时间'用take，结构为it takes/took time。spend的主语是人（sb spends time）；cost通常指花费金钱，主语是物；pay指支付金钱。此处it took too much time符合语法和语境。",
+      "label": "完形填空",
+      "group": "cloze_1",
+      "group_passage": "Last month, our school started a recycling project to help protect the environment. The project encouraged students to collect recyclable materials like plastic bottles and old newspapers.\n\nAt first, many students were not interested (8)______ it. They thought it was boring and (9)______ too much time. However, after our science teacher Mr. Li explained (10)______ recycling could save energy and reduce pollution, more and more students joined in.\n\nMy classmate Tom and I decided to work together. We put a big box in our classroom and asked everyone to put their empty bottles in it. Every Friday afternoon, we (11)______ the bottles to the recycling center near our school. Although it was tiring, we felt proud when we saw the box (12)______ of bottles.\n\nBy the end of the month, our class had collected over 500 bottles! The headmaster praised us in the morning meeting and said we were excellent role models for other students. This experience taught me that small actions can make a big difference to our environment."
     },
     {
       "id": 10,
       "type": "cloze",
       "knowledge_point": "cloze_general",
-      "difficulty": 1,
-      "group": "cloze_1",
-      "group_passage": "Last month, our school organized an activity called \"Green Campus Week\". All the students were asked to take part in it. The goal was to help us understand the (1)______ of environmental protection.\n\nOn Monday morning, our teacher Mr. Li gave us a speech about how to (2)______ energy in daily life. He told us that small actions could make a big difference. For example, turning off the lights when leaving the classroom and using both (3)______ of the paper.\n\nDuring the week, each class had to design a poster about recycling. My group decided to create one about sorting waste. We spent three days collecting information and drawing pictures. At first, we had different ideas and couldn't (4)______ with each other. However, after several discussions, we finally reached an agreement.\n\nOn Friday afternoon, there was a competition in the school hall. All the posters were displayed on the walls. To our surprise, our poster won the first prize. When we stood on the stage, we felt very proud. This activity taught us that teamwork and (5)______ are very important. It also made us realize that protecting the environment is everyone's responsibility.",
-      "stem": "(3)______",
+      "difficulty": 2,
+      "stem": "(10)______",
       "options": [
-        "A. sides",
-        "B. lines",
-        "C. pages",
-        "D. books"
+        "A. why",
+        "B. how",
+        "C. when",
+        "D. where"
       ],
-      "correct_answer": "A",
-      "explanation": "考查名词辨析与常识。use both sides of the paper是固定表达，意为\"双面用纸\"，side表示\"面、边\"。不选B是因为lines(线条)；不选C是因为pages(页)，both pages指两页纸，而both sides指一张纸的两面；不选D是因为books(书)与节约用纸的语境不符。",
-      "label": "完形填空"
+      "correct_answer": "B",
+      "explanation": "本题考查宾语从句连接词。根据句意'李老师解释回收'如何'节约能源和减少污染'，应用how表示方式。why表示原因（为什么），when表示时间（何时），where表示地点（何地），均不符合语境逻辑。",
+      "label": "完形填空",
+      "group": "cloze_1",
+      "group_passage": "Last month, our school started a recycling project to help protect the environment. The project encouraged students to collect recyclable materials like plastic bottles and old newspapers.\n\nAt first, many students were not interested (8)______ it. They thought it was boring and (9)______ too much time. However, after our science teacher Mr. Li explained (10)______ recycling could save energy and reduce pollution, more and more students joined in.\n\nMy classmate Tom and I decided to work together. We put a big box in our classroom and asked everyone to put their empty bottles in it. Every Friday afternoon, we (11)______ the bottles to the recycling center near our school. Although it was tiring, we felt proud when we saw the box (12)______ of bottles.\n\nBy the end of the month, our class had collected over 500 bottles! The headmaster praised us in the morning meeting and said we were excellent role models for other students. This experience taught me that small actions can make a big difference to our environment."
     },
     {
       "id": 11,
       "type": "cloze",
       "knowledge_point": "cloze_general",
-      "difficulty": 2,
-      "group": "cloze_1",
-      "group_passage": "Last month, our school organized an activity called \"Green Campus Week\". All the students were asked to take part in it. The goal was to help us understand the (1)______ of environmental protection.\n\nOn Monday morning, our teacher Mr. Li gave us a speech about how to (2)______ energy in daily life. He told us that small actions could make a big difference. For example, turning off the lights when leaving the classroom and using both (3)______ of the paper.\n\nDuring the week, each class had to design a poster about recycling. My group decided to create one about sorting waste. We spent three days collecting information and drawing pictures. At first, we had different ideas and couldn't (4)______ with each other. However, after several discussions, we finally reached an agreement.\n\nOn Friday afternoon, there was a competition in the school hall. All the posters were displayed on the walls. To our surprise, our poster won the first prize. When we stood on the stage, we felt very proud. This activity taught us that teamwork and (5)______ are very important. It also made us realize that protecting the environment is everyone's responsibility.",
-      "stem": "(4)______",
+      "difficulty": 1,
+      "stem": "(11)______",
       "options": [
-        "A. help",
-        "B. play",
-        "C. agree",
-        "D. talk"
+        "A. took",
+        "B. bring",
+        "C. carried",
+        "D. sent"
       ],
-      "correct_answer": "C",
-      "explanation": "考查动词短语与逻辑关系。根据前句\"we had different ideas(我们有不同想法)\"可知我们无法达成一致，agree with sb.表示\"同意某人\"。不选A是因为help with(帮助)；不选B是因为play with(和……玩)；不选D是因为talk with(和……交谈)，后文提到\"reached an agreement(达成一致)\"，提示此处是agree。",
-      "label": "完形填空"
+      "correct_answer": "A",
+      "explanation": "本题考查动词时态和词义。文章整体使用一般过去时（started, encouraged, thought等），此处应用过去式took。take...to...表示'把...带到...'。B项bring是原形且方向相反（bring表示带来）；C项carried侧重'搬运'重物，但此处只是带瓶子去回收站；D项sent表示'邮寄，发送'，不符合语境。",
+      "label": "完形填空",
+      "group": "cloze_1",
+      "group_passage": "Last month, our school started a recycling project to help protect the environment. The project encouraged students to collect recyclable materials like plastic bottles and old newspapers.\n\nAt first, many students were not interested (8)______ it. They thought it was boring and (9)______ too much time. However, after our science teacher Mr. Li explained (10)______ recycling could save energy and reduce pollution, more and more students joined in.\n\nMy classmate Tom and I decided to work together. We put a big box in our classroom and asked everyone to put their empty bottles in it. Every Friday afternoon, we (11)______ the bottles to the recycling center near our school. Although it was tiring, we felt proud when we saw the box (12)______ of bottles.\n\nBy the end of the month, our class had collected over 500 bottles! The headmaster praised us in the morning meeting and said we were excellent role models for other students. This experience taught me that small actions can make a big difference to our environment."
     },
     {
       "id": 12,
       "type": "cloze",
       "knowledge_point": "cloze_general",
       "difficulty": 2,
-      "group": "cloze_1",
-      "group_passage": "Last month, our school organized an activity called \"Green Campus Week\". All the students were asked to take part in it. The goal was to help us understand the (1)______ of environmental protection.\n\nOn Monday morning, our teacher Mr. Li gave us a speech about how to (2)______ energy in daily life. He told us that small actions could make a big difference. For example, turning off the lights when leaving the classroom and using both (3)______ of the paper.\n\nDuring the week, each class had to design a poster about recycling. My group decided to create one about sorting waste. We spent three days collecting information and drawing pictures. At first, we had different ideas and couldn't (4)______ with each other. However, after several discussions, we finally reached an agreement.\n\nOn Friday afternoon, there was a competition in the school hall. All the posters were displayed on the walls. To our surprise, our poster won the first prize. When we stood on the stage, we felt very proud. This activity taught us that teamwork and (5)______ are very important. It also made us realize that protecting the environment is everyone's responsibility.",
-      "stem": "(5)______",
+      "stem": "(12)______",
       "options": [
-        "A. competition",
-        "B. creativity",
-        "C. difficulty",
-        "D. pollution"
+        "A. full",
+        "B. filled",
+        "C. fill",
+        "D. filling"
       ],
-      "correct_answer": "B",
-      "explanation": "考查名词辨析与主旨理解。文章讲述设计海报获奖的经历，需要团队合作和创造力，creativity(创造力)符合语境。不选A是因为competition(竞争)虽然提到但不是学到的重要内容；不选C是因为difficulty(困难)是负面词汇；不选D是因为pollution(污染)与主题无关。解题技巧：根据前文\"design a poster\"和\"drawing pictures\"推断需要创造力。",
-      "label": "完形填空"
+      "correct_answer": "A",
+      "explanation": "本题考查固定搭配。full of是固定短语，意为'充满...'，此处作后置定语修饰box，相当于which was full of bottles。filled需与with搭配（filled with）；fill是动词原形；filling是现在分词，表示主动，但box是被装满，逻辑不符。",
+      "label": "完形填空",
+      "group": "cloze_1",
+      "group_passage": "Last month, our school started a recycling project to help protect the environment. The project encouraged students to collect recyclable materials like plastic bottles and old newspapers.\n\nAt first, many students were not interested (8)______ it. They thought it was boring and (9)______ too much time. However, after our science teacher Mr. Li explained (10)______ recycling could save energy and reduce pollution, more and more students joined in.\n\nMy classmate Tom and I decided to work together. We put a big box in our classroom and asked everyone to put their empty bottles in it. Every Friday afternoon, we (11)______ the bottles to the recycling center near our school. Although it was tiring, we felt proud when we saw the box (12)______ of bottles.\n\nBy the end of the month, our class had collected over 500 bottles! The headmaster praised us in the morning meeting and said we were excellent role models for other students. This experience taught me that small actions can make a big difference to our environment."
     },
     {
       "id": 13,
       "type": "reading",
       "knowledge_point": "detail",
       "difficulty": 2,
-      "group": "reading_1",
-      "group_passage": "Do you know that plants can \"talk\" to each other? Scientists have found that plants communicate with each other through their roots and chemical signals (化学信号).\n\nIn a recent study, researchers grew corn plants in different pots. Some pots were connected through their root systems, while others were separated. When one plant was attacked by insects, it sent out special chemicals. Surprisingly, the nearby plants that were connected started to produce chemicals to protect themselves, even though they were not attacked.\n\nThis discovery shows that plants have a complex communication network underground. They can share information about dangers, such as insect attacks or dry weather. When a plant is in trouble, it releases chemicals into the soil. These chemicals travel through the root connections and warn neighboring plants.\n\nHowever, this communication only works when plants are connected through their roots or when they are close enough for chemicals to travel through the air. If the plants are too far apart, they cannot receive the signals.\n\nScientists hope to use this knowledge to help farmers grow healthier crops. If we understand how plants communicate, we might be able to help them defend themselves better against pests and diseases. This could reduce the need for pesticides (杀虫剂) and make farming more environmentally friendly.",
-      "stem": "What did the researchers find in their study about corn plants?",
+      "stem": "What did the scientists find in the experiment mentioned in Paragraph 2?",
       "options": [
-        "A. Plants can only communicate through air.",
-        "B. Connected plants can share warning signals when attacked.",
-        "C. Corn plants cannot produce protective chemicals.",
-        "D. All plants can talk to each other regardless of distance."
+        "A. Sleeping less helps students study better.",
+        "B. Students who slept well remembered 40% more information.",
+        "C. The second group slept for eight hours after studying.",
+        "D. Both groups remembered the same amount of information."
       ],
       "correct_answer": "B",
-      "explanation": "考查细节理解。根据第二段\"When one plant was attacked...the nearby plants that were connected started to produce chemicals to protect themselves\"可知，被连接的植物在受到攻击时可以分享警告信号。不选A是因为文章提到通过roots和chemicals两种方式；不选C与原文\"produce chemicals to protect themselves\"矛盾；不选D是因为最后一段提到\"If the plants are too far apart, they cannot receive the signals\"。解题技巧：定位关键词\"researchers\"和\"corn plants\"到第二段，寻找实验结果。",
-      "label": "阅读-细节理解"
+      "explanation": "本题考查细节理解。根据第二段'They found that the students who slept well remembered 40% more than those who didn't sleep'可知，睡眠好的学生比没睡觉的学生多记住40%的信息。A项与原文意思相反；C项错误，第二组是stayed awake all night（熬夜）；D项与原文矛盾。解题技巧：细节题要精准定位原文，注意数字和比较级。",
+      "label": "阅读-细节理解",
+      "group": "reading_1",
+      "group_passage": "Do you often stay up late to finish your homework? Many students think sleeping less gives them more time to study. However, new research shows that good sleep is actually very important for learning and memory.\n\nScientists at a university did an experiment with two groups of students. The first group slept for eight hours after studying new information, while the second group stayed awake all night. The next day, the scientists tested both groups. They found that the students who slept well remembered 40% more than those who didn't sleep.\n\nWhy does sleep help with memory? During sleep, our brains work to organize and store the information we learned during the day. It's like saving files on a computer. If you don't sleep enough, your brain doesn't have time to complete this task.\n\nDr. Smith, a sleep expert, suggests that students should form good sleeping habits. \"Going to bed and waking up at the same time every day helps your body clock work better,\" he says. He also recommends avoiding screen time before bed because the blue light from phones and computers makes it harder to fall asleep.\n\nSo, if you want to do better in school, don't sacrifice your sleep for extra study time. A good night's sleep might be the secret weapon for your academic success."
     },
     {
       "id": 14,
       "type": "reading",
-      "knowledge_point": "word_guessing_context",
-      "difficulty": 2,
-      "group": "reading_1",
-      "group_passage": "Do you know that plants can \"talk\" to each other? Scientists have found that plants communicate with each other through their roots and chemical signals (化学信号).\n\nIn a recent study, researchers grew corn plants in different pots. Some pots were connected through their root systems, while others were separated. When one plant was attacked by insects, it sent out special chemicals. Surprisingly, the nearby plants that were connected started to produce chemicals to protect themselves, even though they were not attacked.\n\nThis discovery shows that plants have a complex communication network underground. They can share information about dangers, such as insect attacks or dry weather. When a plant is in trouble, it releases chemicals into the soil. These chemicals travel through the root connections and warn neighboring plants.\n\nHowever, this communication only works when plants are connected through their roots or when they are close enough for chemicals to travel through the air. If the plants are too far apart, they cannot receive the signals.\n\nScientists hope to use this knowledge to help farmers grow healthier crops. If we understand how plants communicate, we might be able to help them defend themselves better against pests and diseases. This could reduce the need for pesticides (杀虫剂) and make farming more environmentally friendly.",
-      "stem": "What does the word \"complex\" in Paragraph 3 probably mean?",
+      "knowledge_point": "inference",
+      "difficulty": 3,
+      "stem": "What can we infer from Dr. Smith's suggestions in Paragraph 4?",
       "options": [
-        "A. Simple and easy",
-        "B. Complicated and detailed",
-        "C. Short and clear",
-        "D. Modern and advanced"
+        "A. Students should use computers more before bed.",
+        "B. Irregular sleep patterns don't affect study.",
+        "C. Blue light helps people fall asleep quickly.",
+        "D. Regular sleep schedule is good for health and study."
       ],
-      "correct_answer": "B",
-      "explanation": "考查词义猜测。根据上下文，植物通过根系和化学信号传递信息，可以分享关于危险的信息，这说明其交流网络是\"复杂的\"。complex意为\"复杂的\"，与complicated同义。不选A是因为simple是反义词；不选C与语境不符；不选D是因为modern(现代的)不是该词的核心含义。解题技巧：通过构词法(com-前缀表\"共同\"，plex表\"编织\")和上下文逻辑(能传递多种信息说明系统复杂)推断词义。",
-      "label": "阅读-词义猜测"
+      "correct_answer": "D",
+      "explanation": "本题考查推理判断。根据第四段Dr. Smith建议'每天在同一时间睡觉和起床有助于生物钟更好地工作'以及避免睡前看屏幕，可推断规律的作息对健康和学习有益。A项与原文'avoiding screen time'相反；B项与'helps your body clock work better'矛盾；C项与'makes it harder to fall asleep'相反。解题技巧：推理题要基于原文信息合理推断，不能选与原文矛盾的选项。",
+      "label": "阅读-推理判断",
+      "group": "reading_1",
+      "group_passage": "Do you often stay up late to finish your homework? Many students think sleeping less gives them more time to study. However, new research shows that good sleep is actually very important for learning and memory.\n\nScientists at a university did an experiment with two groups of students. The first group slept for eight hours after studying new information, while the second group stayed awake all night. The next day, the scientists tested both groups. They found that the students who slept well remembered 40% more than those who didn't sleep.\n\nWhy does sleep help with memory? During sleep, our brains work to organize and store the information we learned during the day. It's like saving files on a computer. If you don't sleep enough, your brain doesn't have time to complete this task.\n\nDr. Smith, a sleep expert, suggests that students should form good sleeping habits. \"Going to bed and waking up at the same time every day helps your body clock work better,\" he says. He also recommends avoiding screen time before bed because the blue light from phones and computers makes it harder to fall asleep.\n\nSo, if you want to do better in school, don't sacrifice your sleep for extra study time. A good night's sleep might be the secret weapon for your academic success."
     },
     {
       "id": 15,
       "type": "reading",
-      "knowledge_point": "inference",
-      "difficulty": 3,
-      "group": "reading_1",
-      "group_passage": "Do you know that plants can \"talk\" to each other? Scientists have found that plants communicate with each other through their roots and chemical signals (化学信号).\n\nIn a recent study, researchers grew corn plants in different pots. Some pots were connected through their root systems, while others were separated. When one plant was attacked by insects, it sent out special chemicals. Surprisingly, the nearby plants that were connected started to produce chemicals to protect themselves, even though they were not attacked.\n\nThis discovery shows that plants have a complex communication network underground. They can share information about dangers, such as insect attacks or dry weather. When a plant is in trouble, it releases chemicals into the soil. These chemicals travel through the root connections and warn neighboring plants.\n\nHowever, this communication only works when plants are connected through their roots or when they are close enough for chemicals to travel through the air. If the plants are too far apart, they cannot receive the signals.\n\nScientists hope to use this knowledge to help farmers grow healthier crops. If we understand how plants communicate, we might be able to help them defend themselves better against pests and diseases. This could reduce the need for pesticides (杀虫剂) and make farming more environmentally friendly.",
-      "stem": "What can we infer from the passage?",
+      "knowledge_point": "word_guessing_context",
+      "difficulty": 2,
+      "stem": "What does the word \"sacrifice\" in the last paragraph probably mean?",
       "options": [
-        "A. Farmers should grow plants closer together.",
-        "B. Pesticides are the best way to protect plants.",
-        "C. Understanding plant communication may help reduce pesticide use.",
-        "D. Plants can communicate with animals as well."
+        "A. To give up something important for something else",
+        "B. To share something with others",
+        "C. To protect something carefully",
+        "D. To increase the amount of something"
       ],
-      "correct_answer": "C",
-      "explanation": "考查推理判断。根据最后一段\"This could reduce the need for pesticides\"可知，理解植物交流可能有助于减少杀虫剂的使用。不选A是因为文章未明确建议种得更近，只是说距离影响交流；不选B与文章主旨相反(文章说可以减少农药使用)；不选D是因为文章只提到植物之间的交流。推理题技巧：基于原文信息合理推断，不能过度推断，也不能与原文矛盾。",
-      "label": "阅读-推理判断"
+      "correct_answer": "A",
+      "explanation": "本题考查词义猜测。根据上下文'不要为了额外的学习时间而sacrifice睡眠'，结合前文强调睡眠重要性，可知sacrifice意为'牺牲'，即放弃某物以换取另一物。B项'分享'、C项'保护'、D项'增加'均不符合语境。解题技巧：通过上下文逻辑（sleep与extra study time的取舍关系）猜测词义，注意转折词but/however。",
+      "label": "阅读-词义猜测",
+      "group": "reading_1",
+      "group_passage": "Do you often stay up late to finish your homework? Many students think sleeping less gives them more time to study. However, new research shows that good sleep is actually very important for learning and memory.\n\nScientists at a university did an experiment with two groups of students. The first group slept for eight hours after studying new information, while the second group stayed awake all night. The next day, the scientists tested both groups. They found that the students who slept well remembered 40% more than those who didn't sleep.\n\nWhy does sleep help with memory? During sleep, our brains work to organize and store the information we learned during the day. It's like saving files on a computer. If you don't sleep enough, your brain doesn't have time to complete this task.\n\nDr. Smith, a sleep expert, suggests that students should form good sleeping habits. \"Going to bed and waking up at the same time every day helps your body clock work better,\" he says. He also recommends avoiding screen time before bed because the blue light from phones and computers makes it harder to fall asleep.\n\nSo, if you want to do better in school, don't sacrifice your sleep for extra study time. A good night's sleep might be the secret weapon for your academic success."
     },
     {
       "id": 16,
       "type": "reading",
       "knowledge_point": "main_idea_title",
-      "difficulty": 2,
-      "group": "reading_1",
-      "group_passage": "Do you know that plants can \"talk\" to each other? Scientists have found that plants communicate with each other through their roots and chemical signals (化学信号).\n\nIn a recent study, researchers grew corn plants in different pots. Some pots were connected through their root systems, while others were separated. When one plant was attacked by insects, it sent out special chemicals. Surprisingly, the nearby plants that were connected started to produce chemicals to protect themselves, even though they were not attacked.\n\nThis discovery shows that plants have a complex communication network underground. They can share information about dangers, such as insect attacks or dry weather. When a plant is in trouble, it releases chemicals into the soil. These chemicals travel through the root connections and warn neighboring plants.\n\nHowever, this communication only works when plants are connected through their roots or when they are close enough for chemicals to travel through the air. If the plants are too far apart, they cannot receive the signals.\n\nScientists hope to use this knowledge to help farmers grow healthier crops. If we understand how plants communicate, we might be able to help them defend themselves better against pests and diseases. This could reduce the need for pesticides (杀虫剂) and make farming more environmentally friendly.",
+      "difficulty": 3,
       "stem": "What is the best title for this passage?",
       "options": [
-        "A. How to Grow Corn Plants",
-        "B. The Life of Insects",
-        "C. The Secret Language of Plants",
-        "D. Chemical Signals in the Soil"
+        "A. How to Finish Homework Quickly",
+        "B. The Bad Effects of Staying Up Late",
+        "C. Sleep: The Secret to Better Learning",
+        "D. Why Students Need Less Sleep"
       ],
       "correct_answer": "C",
-      "explanation": "考查主旨大意与最佳标题。文章主要介绍植物之间如何通过化学信号和根系进行交流，C项\"植物的秘密语言\"最能概括全文。不选A是因为种玉米只是实验例子；不选B是因为昆虫只是攻击者，不是主题；不选D是因为化学信号只是交流方式，不是文章中心。解题技巧：最佳标题应涵盖全文核心内容，既不过宽也不过窄，通常关注首尾段和反复出现的关键词(\"communicate\"\"talk\"\"signals\")。",
-      "label": "阅读-主旨大意"
+      "explanation": "本题考查主旨大意/最佳标题。文章开篇指出睡眠对学习记忆的重要性，通过实验说明睡眠好的学生记忆更好，解释原因并给出建议，最后总结睡眠是学业成功的秘密武器。C项准确概括全文核心。A项仅在开头提及，非重点；B项只涉及熬夜的负面影响，片面；D项与原文观点相反。解题技巧：最佳标题应覆盖全文主要内容，出现频率高的关键词（sleep/memory/learning）应体现在标题中。",
+      "label": "阅读-主旨大意",
+      "group": "reading_1",
+      "group_passage": "Do you often stay up late to finish your homework? Many students think sleeping less gives them more time to study. However, new research shows that good sleep is actually very important for learning and memory.\n\nScientists at a university did an experiment with two groups of students. The first group slept for eight hours after studying new information, while the second group stayed awake all night. The next day, the scientists tested both groups. They found that the students who slept well remembered 40% more than those who didn't sleep.\n\nWhy does sleep help with memory? During sleep, our brains work to organize and store the information we learned during the day. It's like saving files on a computer. If you don't sleep enough, your brain doesn't have time to complete this task.\n\nDr. Smith, a sleep expert, suggests that students should form good sleeping habits. \"Going to bed and waking up at the same time every day helps your body clock work better,\" he says. He also recommends avoiding screen time before bed because the blue light from phones and computers makes it harder to fall asleep.\n\nSo, if you want to do better in school, don't sacrifice your sleep for extra study time. A good night's sleep might be the secret weapon for your academic success."
     },
     {
       "id": 17,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "group": "fill_1",
-      "group_passage": "Learning to manage time well is an important skill for middle school students. Many students feel stressed because they have too much homework and too many after-school activities. (17)______ Here are some useful tips to help you.\n\nFirst, make a to-do list every morning. Write down all the things you need to do that day. (18)______ This helps you focus on the most important tasks first.\n\nSecond, avoid spending too much time on your phone. Social media and games can easily take away your attention. (19)______ You can use apps that limit your screen time.\n\nFinally, don't forget to take breaks. Studying for too long without rest makes you tired and less efficient. (20)______ A short walk or some exercise can help you refresh your mind.\n\nWith good time management, you will find that you have more free time to do the things you enjoy.",
       "stem": "(17)______",
       "options": [
-        "A. However, this is not the only solution.",
-        "B. Then, decide which ones are the most urgent.",
-        "C. As a result, you may fall behind with your studies.",
-        "D. If you don't control your time well, you will feel even more stressed.",
-        "E. Take a five-minute break every hour to relax your eyes and brain."
+        "A. First, save energy at home.",
+        "B. This not only reduces air pollution but also saves money.",
+        "C. Third, reuse things instead of throwing them away.",
+        "D. Single-use plastics are a major source of pollution.",
+        "E. However, it is difficult to change our habits."
       ],
-      "correct_answer": "D",
-      "explanation": "考查句子衔接与逻辑关系。前文提到学生感到压力，后文给出建议，此处需要承上启下的过渡句，指出不管理时间的后果。D项\"如果你不能很好地控制时间，你会感到更有压力\"符合逻辑。不选A是因为前文未提及其他解决方案；不选B、C、E与前后文逻辑不符。解题技巧：关注上下文逻辑关系(此处为因果关系/引出问题-解决方案)。",
-      "label": "短文填空"
+      "correct_answer": "A",
+      "explanation": "本题考查段落主题句及连接词。后文出现For example列举关灯、拔掉插头等节约用电的例子，且下一段以Second开头，可知此处应是First引出的第一点建议。A项'首先，在家节约能源'符合逻辑。",
+      "label": "短文填空",
+      "group": "fill_1",
+      "group_passage": "Many people want to live a greener life, but they don't know where to start. Here are some simple ways to help protect the environment.\n\n(17)______ For example, turn off the lights when you leave a room and unplug electronic devices when they are not in use. This can save a lot of electricity.\n\nSecond, reduce waste by using reusable bags and bottles. (18)______ Plastic bags and bottles take hundreds of years to break down in nature. By using reusable items, we can create less trash.\n\n(19)______ Many old items can be given a second life. For instance, you can turn old clothes into cleaning rags or use glass jars to store food.\n\nFinally, try to walk or ride a bike instead of taking a car for short distances. (20)______ It also helps you stay fit and healthy."
     },
     {
       "id": 18,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "group": "fill_1",
-      "group_passage": "Learning to manage time well is an important skill for middle school students. Many students feel stressed because they have too much homework and too many after-school activities. (17)______ Here are some useful tips to help you.\n\nFirst, make a to-do list every morning. Write down all the things you need to do that day. (18)______ This helps you focus on the most important tasks first.\n\nSecond, avoid spending too much time on your phone. Social media and games can easily take away your attention. (19)______ You can use apps that limit your screen time.\n\nFinally, don't forget to take breaks. Studying for too long without rest makes you tired and less efficient. (20)______ A short walk or some exercise can help you refresh your mind.\n\nWith good time management, you will find that you have more free time to do the things you enjoy.",
       "stem": "(18)______",
       "options": [
-        "A. However, this is not the only solution.",
-        "B. Then, decide which ones are the most urgent.",
-        "C. As a result, you may fall behind with your studies.",
-        "D. If you don't control your time well, you will feel even more stressed.",
-        "E. Take a five-minute break every hour to relax your eyes and brain."
+        "A. First, save energy at home.",
+        "B. This not only reduces air pollution but also saves money.",
+        "C. Third, reuse things instead of throwing them away.",
+        "D. Single-use plastics are a major source of pollution.",
+        "E. However, it is difficult to change our habits."
       ],
-      "correct_answer": "B",
-      "explanation": "考查句子衔接与指代关系。前文说\"写下所有要做的事情\"，后文说\"这有助于你首先关注最重要的任务\"，因此此处应填入决定优先级的内容。B项\"然后，决定哪些是最紧急的\"符合逻辑，ones指代前文的things。不选A、C、D、E是因为与\"列清单\"和\"重要任务\"的语境不符。解题技巧：注意代词指代(ones)和动作顺序(First...Then...)。",
-      "label": "短文填空"
+      "correct_answer": "D",
+      "explanation": "本题考查逻辑关系及代词指代。后文'塑料袋和瓶子需要数百年才能在大自然中分解'是对前文的解释说明，D项'一次性塑料是主要的污染源'引出后文对塑料危害的解释，且Single-use plastics与前文reusable bags形成对比。",
+      "label": "短文填空",
+      "group": "fill_1",
+      "group_passage": "Many people want to live a greener life, but they don't know where to start. Here are some simple ways to help protect the environment.\n\n(17)______ For example, turn off the lights when you leave a room and unplug electronic devices when they are not in use. This can save a lot of electricity.\n\nSecond, reduce waste by using reusable bags and bottles. (18)______ Plastic bags and bottles take hundreds of years to break down in nature. By using reusable items, we can create less trash.\n\n(19)______ Many old items can be given a second life. For instance, you can turn old clothes into cleaning rags or use glass jars to store food.\n\nFinally, try to walk or ride a bike instead of taking a car for short distances. (20)______ It also helps you stay fit and healthy."
     },
     {
       "id": 19,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "group": "fill_1",
-      "group_passage": "Learning to manage time well is an important skill for middle school students. Many students feel stressed because they have too much homework and too many after-school activities. (17)______ Here are some useful tips to help you.\n\nFirst, make a to-do list every morning. Write down all the things you need to do that day. (18)______ This helps you focus on the most important tasks first.\n\nSecond, avoid spending too much time on your phone. Social media and games can easily take away your attention. (19)______ You can use apps that limit your screen time.\n\nFinally, don't forget to take breaks. Studying for too long without rest makes you tired and less efficient. (20)______ A short walk or some exercise can help you refresh your mind.\n\nWith good time management, you will find that you have more free time to do the things you enjoy.",
       "stem": "(19)______",
       "options": [
-        "A. However, this is not the only solution.",
-        "B. Then, decide which ones are the most urgent.",
-        "C. As a result, you may fall behind with your studies.",
-        "D. If you don't control your time well, you will feel even more stressed.",
-        "E. Take a five-minute break every hour to relax your eyes and brain."
+        "A. First, save energy at home.",
+        "B. This not only reduces air pollution but also saves money.",
+        "C. Third, reuse things instead of throwing them away.",
+        "D. Single-use plastics are a major source of pollution.",
+        "E. However, it is difficult to change our habits."
       ],
       "correct_answer": "C",
-      "explanation": "考查句子衔接与因果关系。前文说\"社交媒体和游戏容易分散注意力\"，此处应说明后果。C项\"结果，你可能会在学业上落后\"符合因果逻辑。不选A是因为此处不是转折；不选B是动作顺序不符；不选D是话题重复；不选E是该段未讲休息。解题技巧：识别逻辑信号词，此处as a result承接前文的负面行为。",
-      "label": "短文填空"
+      "explanation": "本题考查顺序连接词。前文有First、Second，后文有Finally，此处应是Third引出的第三点建议。后文'给旧物品第二次生命'对应C项'reuse things（重复使用物品）'。",
+      "label": "短文填空",
+      "group": "fill_1",
+      "group_passage": "Many people want to live a greener life, but they don't know where to start. Here are some simple ways to help protect the environment.\n\n(17)______ For example, turn off the lights when you leave a room and unplug electronic devices when they are not in use. This can save a lot of electricity.\n\nSecond, reduce waste by using reusable bags and bottles. (18)______ Plastic bags and bottles take hundreds of years to break down in nature. By using reusable items, we can create less trash.\n\n(19)______ Many old items can be given a second life. For instance, you can turn old clothes into cleaning rags or use glass jars to store food.\n\nFinally, try to walk or ride a bike instead of taking a car for short distances. (20)______ It also helps you stay fit and healthy."
     },
     {
       "id": 20,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "group": "fill_1",
-      "group_passage": "Learning to manage time well is an important skill for middle school students. Many students feel stressed because they have too much homework and too many after-school activities. (17)______ Here are some useful tips to help you.\n\nFirst, make a to-do list every morning. Write down all the things you need to do that day. (18)______ This helps you focus on the most important tasks first.\n\nSecond, avoid spending too much time on your phone. Social media and games can easily take away your attention. (19)______ You can use apps that limit your screen time.\n\nFinally, don't forget to take breaks. Studying for too long without rest makes you tired and less efficient. (20)______ A short walk or some exercise can help you refresh your mind.\n\nWith good time management, you will find that you have more free time to do the things you enjoy.",
       "stem": "(20)______",
       "options": [
-        "A. However, this is not the only solution.",
-        "B. Then, decide which ones are the most urgent.",
-        "C. As a result, you may fall behind with your studies.",
-        "D. If you don't control your time well, you will feel even more stressed.",
-        "E. Take a five-minute break every hour to relax your eyes and brain."
+        "A. First, save energy at home.",
+        "B. This not only reduces air pollution but also saves money.",
+        "C. Third, reuse things instead of throwing them away.",
+        "D. Single-use plastics are a major source of pollution.",
+        "E. However, it is difficult to change our habits."
       ],
-      "correct_answer": "E",
-      "explanation": "考查句子衔接与段落主题一致性。该段主题是\"休息\"，E项\"每小时休息五分钟来放松眼睛和大脑\"符合段落主旨。不选A、B、C、D是因为都与\"休息\"主题无关。解题技巧：选句填空必须保持段落主题一致性，该段关键词是\"take breaks\"，只有E项涉及休息。",
-      "label": "短文填空"
+      "correct_answer": "B",
+      "explanation": "本题考查递进关系。后文'It also helps...'（还有助于...）中的also表明前文应有类似的not only结构，形成not only...also...的递进关系。B项'这不仅减少空气污染还能省钱'与后文'还有助于保持健康'构成并列的好处。",
+      "label": "短文填空",
+      "group": "fill_1",
+      "group_passage": "Many people want to live a greener life, but they don't know where to start. Here are some simple ways to help protect the environment.\n\n(17)______ For example, turn off the lights when you leave a room and unplug electronic devices when they are not in use. This can save a lot of electricity.\n\nSecond, reduce waste by using reusable bags and bottles. (18)______ Plastic bags and bottles take hundreds of years to break down in nature. By using reusable items, we can create less trash.\n\n(19)______ Many old items can be given a second life. For instance, you can turn old clothes into cleaning rags or use glass jars to store food.\n\nFinally, try to walk or ride a bike instead of taking a car for short distances. (20)______ It also helps you stay fit and healthy."
     }
   ]
 }
