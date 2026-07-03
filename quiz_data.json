@@ -1,53 +1,53 @@
 ﻿{
-  "date": "2026-07-03",
+  "date": "2026-07-04",
   "session_number": 1,
   "questions": [
     {
       "id": 1,
       "type": "grammar",
-      "knowledge_point": "passive_voice",
-      "difficulty": 1,
-      "stem": "The book ______ by many students in our school every year.",
+      "knowledge_point": "present_perfect_vs_past_simple",
+      "difficulty": 2,
+      "stem": "—________ you ever ________ to the new science museum?\n—Yes, I ________ there with my classmates last Friday.",
       "options": [
-        "A. is read",
-        "B. reads",
-        "C. read",
-        "D. was read"
+        "A. Did; go; have gone",
+        "B. Have; gone; went",
+        "C. Have; been; went",
+        "D. Did; go; went"
       ],
-      "correct_answer": "A",
-      "explanation": "本题考查一般现在时的被动语态。主语The book是动作read的承受者，应用被动语态（be+过去分词）。由every year可知用一般现在时，主语是单数，所以用is read。B是主动语态第三人称单数；C是主动语态原形；D是一般过去时被动语态，与every year时间状语不符。解题技巧：看到by短语首先考虑被动语态，再根据时间状语确定时态。",
+      "correct_answer": "C",
+      "explanation": "本题考查现在完成时与一般过去时的区别。\n现在完成时（have been to）表示\"曾经去过某地（已回来）\"，强调经历；一般过去时（went）表示\"过去某个具体时间发生的动作\"，与last Friday这一过去时间状语连用。\nA选项第一空错误，ever是现在完成时标志词；B选项第二空have gone to表示\"去了某地（未回）\"，与答句逻辑矛盾；D选项第一空错误，ever不与一般过去时连用。\n解题技巧：看到ever/never/just/already/yet等词用现在完成时；看到yesterday/last week/in 2020等具体过去时间用一般过去时。",
       "label": "语法题"
     },
     {
       "id": 2,
       "type": "grammar",
-      "knowledge_point": "present_perfect_vs_past_simple",
+      "knowledge_point": "relative_clause_who_which",
       "difficulty": 2,
-      "stem": "—______ you ______ your homework yet? —Yes, I ______ it an hour ago.",
+      "stem": "The student ________ won the first prize in the English speech contest is from Class 3.",
       "options": [
-        "A. Did; finish; finished",
-        "B. Have; finished; finished",
-        "C. Have; finished; have finished",
-        "D. Did; finish; have finished"
+        "A. which",
+        "B. who",
+        "C. whom",
+        "D. whose"
       ],
       "correct_answer": "B",
-      "explanation": "本题考查现在完成时与一般过去时的区别。yet是现在完成时的标志词，问句应用Have you finished；ago是一般过去时的标志词，答句应用finished。A项第一空错误，did与yet不搭配；C项第二空错误，ago不能与现在完成时连用；D项两个空都错误。解题技巧：yet/ever/never/already常与现在完成时连用；ago/yesterday/last week与一般过去时连用。",
+      "explanation": "本题考查定语从句关系代词的用法。\n先行词是The student（指人），且关系代词在从句中作主语，应使用who。\nA选项which用于指物；C选项whom用于指人但作宾语；D选项whose表示\"……的\"，在从句中作定语。\n解题技巧：指人用who/whom/that，指物用which/that；作主语用who/which，作宾语用whom/who/which，作定语用whose。",
       "label": "语法题"
     },
     {
       "id": 3,
       "type": "grammar",
-      "knowledge_point": "relative_clause_who_which",
-      "difficulty": 2,
-      "stem": "This is the school ______ I studied three years ago.",
+      "knowledge_point": "passive_voice",
+      "difficulty": 1,
+      "stem": "These old books ________ to the school library by the graduates yesterday afternoon.",
       "options": [
-        "A. which",
-        "B. who",
-        "C. where",
-        "D. when"
+        "A. returned",
+        "B. were returned",
+        "C. have returned",
+        "D. are returned"
       ],
-      "correct_answer": "C",
-      "explanation": "本题考查定语从句关系词的选择。先行词是the school（地点），从句I studied three years ago中缺少地点状语（in the school），应用where引导。A项which在从句中作主语或宾语，但study不及物时不需要宾语；B项who指人；D项when指时间。解题技巧：看先行词是人还是物，再看从句缺什么成分——缺主语/宾语用which/that，缺状语用where/when。",
+      "correct_answer": "B",
+      "explanation": "本题考查一般过去时的被动语态。\n主语These old books与return是被动关系（书被归还），时间状语yesterday afternoon表示过去，因此用一般过去时的被动语态were returned。\nA选项是主动语态；C选项是现在完成时主动语态；D选项是一般现在时被动语态，时态不符。\n解题技巧：被动语态基本结构为\"be+过去分词\"，根据时间状语确定be动词的时态。",
       "label": "语法题"
     },
     {
@@ -55,47 +55,47 @@
       "type": "grammar",
       "knowledge_point": "modal_verbs",
       "difficulty": 3,
-      "stem": "—Is that Mr. Wang knocking at the door? —It ______ be him. He has gone to Beijing for a meeting.",
+      "stem": "—Listen! Someone is knocking at the door. Is it Tom?\n—It ________ be him. He has gone to Shanghai on business.",
       "options": [
         "A. must",
-        "B. might",
-        "C. can't",
-        "D. should"
+        "B. may",
+        "C. might",
+        "D. can't"
       ],
-      "correct_answer": "C",
-      "explanation": "本题考查情态动词表推测。由He has gone to Beijing可知他去北京了（还没回来），所以不可能是他敲门。否定推测用can't（不可能）。A项must表示肯定推测'一定是'，与语境矛盾；B项might表示'可能是'，语气不确定，但语境是确定不是；D项should表示'应该'，不表推测。解题技巧：must表肯定推测'一定是'，can't表否定推测'不可能是'，might表不确定'可能是'，根据语境证据选择。",
+      "correct_answer": "D",
+      "explanation": "本题考查情态动词表推测的用法。\n根据后句\"He has gone to Shanghai\"（他去上海出差了，还没回来），可推断\"不可能是他\"。can't表示\"不可能\"，用于否定推测。\nA选项must表示\"一定是\"，与句意相反；B、C选项may/might表示\"可能是\"，把握性较弱，但此处是确定性的否定排除。\n解题技巧：must be（一定是），can't be（不可能是），may/might be（可能是）。根据后文给出的确定信息选择相应的推测语气。",
       "label": "语法题"
     },
     {
       "id": 5,
       "type": "vocabulary",
-      "knowledge_point": "word_formation",
-      "difficulty": 1,
-      "stem": "It is ______ to see so many changes in my hometown.",
+      "knowledge_point": "word_meaning",
+      "difficulty": 2,
+      "stem": "To protect the environment, we should find ways to ________ waste into useful things instead of throwing it away.",
       "options": [
-        "A. excite",
-        "B. excited",
-        "C. exciting",
-        "D. excitement"
+        "A. recycle",
+        "B. reduce",
+        "C. reuse",
+        "D. repeat"
       ],
-      "correct_answer": "C",
-      "explanation": "本题考查词性转换及形容词辨析。be动词后接形容词作表语，排除A（动词）和D（名词）。exciting表示'令人兴奋的'，修饰事物；excited表示'感到兴奋的'，修饰人。本句主语是It，指代'看到家乡变化'这件事，应用exciting。解题技巧：-ing形容词修饰事物（令人...的），-ed形容词修饰人（感到...的）。",
+      "correct_answer": "A",
+      "explanation": "本题考查词义辨析。\nrecycle表示\"回收利用\"，符合句意\"把废物变成有用的东西\"。\nB选项reduce意为\"减少\"；C选项reuse意为\"重复使用\"，但通常指直接使用而不经过加工转变；D选项repeat意为\"重复\"。\n解题技巧：根据语境\"into useful things\"（转变成有用的东西）判断是\"回收加工\"的过程，而非简单的减少或重复使用。",
       "label": "词汇题"
     },
     {
       "id": 6,
       "type": "vocabulary",
-      "knowledge_point": "word_meaning_context",
-      "difficulty": 2,
-      "stem": "If you are ______ with your current score, you should work harder to get a better one.",
+      "knowledge_point": "prefix_suffix",
+      "difficulty": 1,
+      "stem": "It is ________ to stay up late playing computer games. It is bad for your health.",
       "options": [
-        "A. exciting",
-        "B. excited",
-        "C. satisfied",
-        "D. satisfying"
+        "A. healthy",
+        "B. unhealthy",
+        "C. healthful",
+        "D. healthless"
       ],
-      "correct_answer": "C",
-      "explanation": "本题考查形容词词义辨析及搭配。be satisfied with是固定搭配，意为'对...满意'。根据句意'如果你满足于当前分数，就应该更努力'符合逻辑。A和D通常不修饰人；B项excited应与about/with连用，但'对分数感到兴奋'与后文'应该更努力'逻辑矛盾。解题技巧：根据后文'work harder'可推断前文是'满足现状'，satisfied符合语境。",
+      "correct_answer": "B",
+      "explanation": "本题考查形容词词义及构词法。\n根据后句\"bad for your health\"可知此处应填\"不健康的\"。un-是否定前缀，unhealthy表示\"不健康的\"。\nA选项意为\"健康的\"，与句意相反；C选项healthful较正式，意为\"有益健康的\"；D选项healthless不是标准英语词汇。\n解题技巧：un-是常见否定前缀（unhappy, unhealthy, unfair），根据上下文逻辑（熬夜玩游戏=不健康）选择带否定前缀的词。",
       "label": "词汇题"
     },
     {
@@ -103,52 +103,52 @@
       "type": "vocabulary",
       "knowledge_point": "phrasal_verbs",
       "difficulty": 2,
-      "stem": "We should ______ old clothes instead of throwing them away.",
+      "stem": "We need to ________ some good ideas to solve the problem of plastic pollution.",
       "options": [
-        "A. put on",
-        "B. take off",
-        "C. give away",
-        "D. try on"
+        "A. come up with",
+        "B. catch up with",
+        "C. keep up with",
+        "D. put up with"
       ],
-      "correct_answer": "C",
-      "explanation": "本题考查动词短语辨析。give away表示'捐赠，赠送'，符合句意'我们应该把旧衣服捐出去而不是扔掉'。A项put on（穿上）；B项take off（脱下，起飞）；D项try on（试穿）均与'instead of throwing them away'的环保语境不符。解题技巧：根据语境'不扔掉'推断是'捐赠'，give away有'无偿给予他人'的含义。",
+      "correct_answer": "A",
+      "explanation": "本题考查动词短语辨析。\ncome up with意为\"想出（主意、办法等）\"，符合句意\"想出好主意\"。\nB选项catch up with意为\"追上，赶上\"；C选项keep up with意为\"跟上，保持同步\"；D选项put up with意为\"忍受，容忍\"。\n解题技巧：come up with与ideas/plans/solutions搭配，表示\"提出、想出\"。记住up with类短语的差异：come up with（想出），keep up with（跟上），put up with（忍受）。",
       "label": "词汇题"
     },
     {
       "id": 8,
       "type": "cloze",
       "knowledge_point": "cloze_general",
-      "difficulty": 1,
+      "difficulty": 2,
       "stem": "(8)______",
       "options": [
-        "A. on",
-        "B. in",
-        "C. at",
-        "D. for"
+        "A. However",
+        "B. Instead",
+        "C. Therefore",
+        "D. Besides"
       ],
       "correct_answer": "B",
-      "explanation": "本题考查固定搭配。be interested in是固定短语，意为'对...感兴趣'。其他介词与interested搭配不当。",
+      "explanation": "本题考查逻辑关系与副词辨析。\n前文讲\"人们过去把垃圾扔进海里\"，后文讲\"现在他们开始分类回收\"，前后是对比转折关系，且强调\"取而代之\"的做法，用Instead（相反，取而代之）。\nA选项However表示转折，但通常用逗号隔开，且侧重\"然而\"；C选项Therefore表示因果；D选项Besides表示递进。\n解题技巧：关注上下文逻辑关系，看到\"过去……现在……\"的对比结构，且后文是替代前文的做法，选Instead。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school started a recycling project to help protect the environment. The project encouraged students to collect recyclable materials like plastic bottles and old newspapers.\n\nAt first, many students were not interested (8)______ it. They thought it was boring and (9)______ too much time. However, after our science teacher Mr. Li explained (10)______ recycling could save energy and reduce pollution, more and more students joined in.\n\nMy classmate Tom and I decided to work together. We put a big box in our classroom and asked everyone to put their empty bottles in it. Every Friday afternoon, we (11)______ the bottles to the recycling center near our school. Although it was tiring, we felt proud when we saw the box (12)______ of bottles.\n\nBy the end of the month, our class had collected over 500 bottles! The headmaster praised us in the morning meeting and said we were excellent role models for other students. This experience taught me that small actions can make a big difference to our environment."
+      "group_passage": "Last year, our school started an environmental protection project called \"Green Campus\". The goal was to reduce waste and save energy in our daily school life.\n\nIn the past, students used to throw all kinds of rubbish into the same bin without thinking. (8)______, now we have four different colored bins in every classroom. They are for paper, plastic, food waste, and other waste. At first, many students thought it was troublesome to sort the waste. (9)______, as time went by, we realized it was not that difficult.\n\nOur science teacher, Mr. Li, played an important role in this project. He often told us interesting stories about how recycled materials could be (10)______ into new products. For example, old newspapers could become exercise books again. This made us understand the importance of recycling.\n\nThe most exciting part was the \"DIY Workshop\" held last month. Students brought old clothes and bottles from home. With the help of volunteers, we (11)______ them into beautiful pencil cases and shopping bags. Everyone felt proud when they saw their handmade items.\n\nNow, the \"Green Campus\" project has become a great success. Not only has it helped us develop good habits, (12)______ it has also raised our awareness of environmental protection. We hope more schools can join us to make the earth a better place."
     },
     {
       "id": 9,
       "type": "cloze",
       "knowledge_point": "cloze_general",
-      "difficulty": 2,
+      "difficulty": 1,
       "stem": "(9)______",
       "options": [
-        "A. spent",
-        "B. cost",
-        "C. took",
-        "D. paid"
+        "A. And",
+        "B. But",
+        "C. Or",
+        "D. So"
       ],
-      "correct_answer": "C",
-      "explanation": "本题考查动词辨析。主语是it（指代recycling），表示'花费时间'用take，结构为it takes/took time。spend的主语是人（sb spends time）；cost通常指花费金钱，主语是物；pay指支付金钱。此处it took too much time符合语法和语境。",
+      "correct_answer": "B",
+      "explanation": "本题考查转折连词的用法。\n前文说\"起初许多学生认为分类麻烦\"，后文说\"随着时间推移，我们意识到并不难\"，前后是明显的转折关系，用But连接。\nA选项And表示并列或递进；C选项Or表示选择；D选项So表示结果。\n解题技巧：看到\"At first...（起初）\"和后面的对比（意识到并不难），判断为转折关系，选择But。注意However和But的区别：However后面通常有逗号，且多用于句首或句中；But直接连接句子，无逗号。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school started a recycling project to help protect the environment. The project encouraged students to collect recyclable materials like plastic bottles and old newspapers.\n\nAt first, many students were not interested (8)______ it. They thought it was boring and (9)______ too much time. However, after our science teacher Mr. Li explained (10)______ recycling could save energy and reduce pollution, more and more students joined in.\n\nMy classmate Tom and I decided to work together. We put a big box in our classroom and asked everyone to put their empty bottles in it. Every Friday afternoon, we (11)______ the bottles to the recycling center near our school. Although it was tiring, we felt proud when we saw the box (12)______ of bottles.\n\nBy the end of the month, our class had collected over 500 bottles! The headmaster praised us in the morning meeting and said we were excellent role models for other students. This experience taught me that small actions can make a big difference to our environment."
+      "group_passage": "Last year, our school started an environmental protection project called \"Green Campus\". The goal was to reduce waste and save energy in our daily school life.\n\nIn the past, students used to throw all kinds of rubbish into the same bin without thinking. (8)______, now we have four different colored bins in every classroom. They are for paper, plastic, food waste, and other waste. At first, many students thought it was troublesome to sort the waste. (9)______, as time went by, we realized it was not that difficult.\n\nOur science teacher, Mr. Li, played an important role in this project. He often told us interesting stories about how recycled materials could be (10)______ into new products. For example, old newspapers could become exercise books again. This made us understand the importance of recycling.\n\nThe most exciting part was the \"DIY Workshop\" held last month. Students brought old clothes and bottles from home. With the help of volunteers, we (11)______ them into beautiful pencil cases and shopping bags. Everyone felt proud when they saw their handmade items.\n\nNow, the \"Green Campus\" project has become a great success. Not only has it helped us develop good habits, (12)______ it has also raised our awareness of environmental protection. We hope more schools can join us to make the earth a better place."
     },
     {
       "id": 10,
@@ -157,124 +157,124 @@
       "difficulty": 2,
       "stem": "(10)______",
       "options": [
-        "A. why",
-        "B. how",
-        "C. when",
-        "D. where"
+        "A. divided",
+        "B. changed",
+        "C. thrown",
+        "D. collected"
       ],
       "correct_answer": "B",
-      "explanation": "本题考查宾语从句连接词。根据句意'李老师解释回收'如何'节约能源和减少污染'，应用how表示方式。why表示原因（为什么），when表示时间（何时），where表示地点（何地），均不符合语境逻辑。",
+      "explanation": "本题考查动词词义辨析及固定搭配。\nchange...into...是固定搭配，意为\"把……变成……\"，符合句意\"回收材料如何被变成新产品\"。\nA选项divided常与into搭配，但意为\"把……分成\"；C选项thrown into意为\"扔进\"；D选项collected不与into搭配表示\"变成\"。\n解题技巧：关注动词与into的搭配，change into（变成），divide into（分成）。根据语境\"old newspapers could become exercise books\"判断是\"转变\"的过程。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school started a recycling project to help protect the environment. The project encouraged students to collect recyclable materials like plastic bottles and old newspapers.\n\nAt first, many students were not interested (8)______ it. They thought it was boring and (9)______ too much time. However, after our science teacher Mr. Li explained (10)______ recycling could save energy and reduce pollution, more and more students joined in.\n\nMy classmate Tom and I decided to work together. We put a big box in our classroom and asked everyone to put their empty bottles in it. Every Friday afternoon, we (11)______ the bottles to the recycling center near our school. Although it was tiring, we felt proud when we saw the box (12)______ of bottles.\n\nBy the end of the month, our class had collected over 500 bottles! The headmaster praised us in the morning meeting and said we were excellent role models for other students. This experience taught me that small actions can make a big difference to our environment."
+      "group_passage": "Last year, our school started an environmental protection project called \"Green Campus\". The goal was to reduce waste and save energy in our daily school life.\n\nIn the past, students used to throw all kinds of rubbish into the same bin without thinking. (8)______, now we have four different colored bins in every classroom. They are for paper, plastic, food waste, and other waste. At first, many students thought it was troublesome to sort the waste. (9)______, as time went by, we realized it was not that difficult.\n\nOur science teacher, Mr. Li, played an important role in this project. He often told us interesting stories about how recycled materials could be (10)______ into new products. For example, old newspapers could become exercise books again. This made us understand the importance of recycling.\n\nThe most exciting part was the \"DIY Workshop\" held last month. Students brought old clothes and bottles from home. With the help of volunteers, we (11)______ them into beautiful pencil cases and shopping bags. Everyone felt proud when they saw their handmade items.\n\nNow, the \"Green Campus\" project has become a great success. Not only has it helped us develop good habits, (12)______ it has also raised our awareness of environmental protection. We hope more schools can join us to make the earth a better place."
     },
     {
       "id": 11,
       "type": "cloze",
       "knowledge_point": "cloze_general",
-      "difficulty": 1,
+      "difficulty": 2,
       "stem": "(11)______",
       "options": [
-        "A. took",
-        "B. bring",
-        "C. carried",
-        "D. sent"
+        "A. turned",
+        "B. bought",
+        "C. found",
+        "D. cut"
       ],
       "correct_answer": "A",
-      "explanation": "本题考查动词时态和词义。文章整体使用一般过去时（started, encouraged, thought等），此处应用过去式took。take...to...表示'把...带到...'。B项bring是原形且方向相反（bring表示带来）；C项carried侧重'搬运'重物，但此处只是带瓶子去回收站；D项sent表示'邮寄，发送'，不符合语境。",
+      "explanation": "本题考查动词短语搭配。\nturn...into...是固定短语，意为\"把……变成……\"，与上文的\"change into\"同义复现，符合句意\"把旧衣服和瓶子变成漂亮的笔袋和购物袋\"。\nB选项bought（买）、C选项found（发现）、D选项cut（切割）均不能与into构成\"转变\"含义的搭配。\n解题技巧：完形填空注重上下文呼应，上文提到\"change into new products\"，此处是具体例子，因此选择同义词turn into。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school started a recycling project to help protect the environment. The project encouraged students to collect recyclable materials like plastic bottles and old newspapers.\n\nAt first, many students were not interested (8)______ it. They thought it was boring and (9)______ too much time. However, after our science teacher Mr. Li explained (10)______ recycling could save energy and reduce pollution, more and more students joined in.\n\nMy classmate Tom and I decided to work together. We put a big box in our classroom and asked everyone to put their empty bottles in it. Every Friday afternoon, we (11)______ the bottles to the recycling center near our school. Although it was tiring, we felt proud when we saw the box (12)______ of bottles.\n\nBy the end of the month, our class had collected over 500 bottles! The headmaster praised us in the morning meeting and said we were excellent role models for other students. This experience taught me that small actions can make a big difference to our environment."
+      "group_passage": "Last year, our school started an environmental protection project called \"Green Campus\". The goal was to reduce waste and save energy in our daily school life.\n\nIn the past, students used to throw all kinds of rubbish into the same bin without thinking. (8)______, now we have four different colored bins in every classroom. They are for paper, plastic, food waste, and other waste. At first, many students thought it was troublesome to sort the waste. (9)______, as time went by, we realized it was not that difficult.\n\nOur science teacher, Mr. Li, played an important role in this project. He often told us interesting stories about how recycled materials could be (10)______ into new products. For example, old newspapers could become exercise books again. This made us understand the importance of recycling.\n\nThe most exciting part was the \"DIY Workshop\" held last month. Students brought old clothes and bottles from home. With the help of volunteers, we (11)______ them into beautiful pencil cases and shopping bags. Everyone felt proud when they saw their handmade items.\n\nNow, the \"Green Campus\" project has become a great success. Not only has it helped us develop good habits, (12)______ it has also raised our awareness of environmental protection. We hope more schools can join us to make the earth a better place."
     },
     {
       "id": 12,
       "type": "cloze",
       "knowledge_point": "cloze_general",
-      "difficulty": 2,
+      "difficulty": 1,
       "stem": "(12)______",
       "options": [
-        "A. full",
-        "B. filled",
-        "C. fill",
-        "D. filling"
+        "A. and",
+        "B. but",
+        "C. or",
+        "D. so"
       ],
-      "correct_answer": "A",
-      "explanation": "本题考查固定搭配。full of是固定短语，意为'充满...'，此处作后置定语修饰box，相当于which was full of bottles。filled需与with搭配（filled with）；fill是动词原形；filling是现在分词，表示主动，但box是被装满，逻辑不符。",
+      "correct_answer": "B",
+      "explanation": "本题考查固定句型搭配。\nnot only...but (also)...是固定句型，意为\"不但……而且……\"，符合句意\"不但帮助我们养成好习惯，而且提高了环保意识\"。\nA选项and不能与not only构成固定搭配；C选项or表示选择；D选项so表示结果。\n解题技巧：记住固定搭配not only...but also...，其中also可以省略。这是中考常见句型，表示递进关系。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school started a recycling project to help protect the environment. The project encouraged students to collect recyclable materials like plastic bottles and old newspapers.\n\nAt first, many students were not interested (8)______ it. They thought it was boring and (9)______ too much time. However, after our science teacher Mr. Li explained (10)______ recycling could save energy and reduce pollution, more and more students joined in.\n\nMy classmate Tom and I decided to work together. We put a big box in our classroom and asked everyone to put their empty bottles in it. Every Friday afternoon, we (11)______ the bottles to the recycling center near our school. Although it was tiring, we felt proud when we saw the box (12)______ of bottles.\n\nBy the end of the month, our class had collected over 500 bottles! The headmaster praised us in the morning meeting and said we were excellent role models for other students. This experience taught me that small actions can make a big difference to our environment."
+      "group_passage": "Last year, our school started an environmental protection project called \"Green Campus\". The goal was to reduce waste and save energy in our daily school life.\n\nIn the past, students used to throw all kinds of rubbish into the same bin without thinking. (8)______, now we have four different colored bins in every classroom. They are for paper, plastic, food waste, and other waste. At first, many students thought it was troublesome to sort the waste. (9)______, as time went by, we realized it was not that difficult.\n\nOur science teacher, Mr. Li, played an important role in this project. He often told us interesting stories about how recycled materials could be (10)______ into new products. For example, old newspapers could become exercise books again. This made us understand the importance of recycling.\n\nThe most exciting part was the \"DIY Workshop\" held last month. Students brought old clothes and bottles from home. With the help of volunteers, we (11)______ them into beautiful pencil cases and shopping bags. Everyone felt proud when they saw their handmade items.\n\nNow, the \"Green Campus\" project has become a great success. Not only has it helped us develop good habits, (12)______ it has also raised our awareness of environmental protection. We hope more schools can join us to make the earth a better place."
     },
     {
       "id": 13,
       "type": "reading",
       "knowledge_point": "detail",
-      "difficulty": 2,
-      "stem": "What did the scientists find in the experiment mentioned in Paragraph 2?",
+      "difficulty": 1,
+      "stem": "What problem did Dr. Chen's team try to solve?",
       "options": [
-        "A. Sleeping less helps students study better.",
-        "B. Students who slept well remembered 40% more information.",
-        "C. The second group slept for eight hours after studying.",
-        "D. Both groups remembered the same amount of information."
+        "A. People spent too much time on phones.",
+        "B. Traditional batteries were too expensive.",
+        "C. Electronic waste caused serious pollution.",
+        "D. Phones were easily damaged by water."
       ],
-      "correct_answer": "B",
-      "explanation": "本题考查细节理解。根据第二段'They found that the students who slept well remembered 40% more than those who didn't sleep'可知，睡眠好的学生比没睡觉的学生多记住40%的信息。A项与原文意思相反；C项错误，第二组是stayed awake all night（熬夜）；D项与原文矛盾。解题技巧：细节题要精准定位原文，注意数字和比较级。",
+      "correct_answer": "C",
+      "explanation": "本题考查细节理解。\n根据文章第一段\"Every year, millions of phones are thrown away, causing serious environmental problems. Dr. Chen and his team wanted to change this situation.\"可知，Dr. Chen的团队试图解决电子垃圾（废弃手机）造成的污染问题。\nA选项是人们使用手机时间长短，文中未提及；B选项传统电池价格，文中未提及；D选项手机防水问题，这是后文提到的材料特性，不是问题本身。\n解题技巧：细节题要精准定位关键词（Dr. Chen's team），在原文中找到对应句子，注意同义替换（change this situation指代解决前文提到的污染问题）。",
       "label": "阅读-细节理解",
       "group": "reading_1",
-      "group_passage": "Do you often stay up late to finish your homework? Many students think sleeping less gives them more time to study. However, new research shows that good sleep is actually very important for learning and memory.\n\nScientists at a university did an experiment with two groups of students. The first group slept for eight hours after studying new information, while the second group stayed awake all night. The next day, the scientists tested both groups. They found that the students who slept well remembered 40% more than those who didn't sleep.\n\nWhy does sleep help with memory? During sleep, our brains work to organize and store the information we learned during the day. It's like saving files on a computer. If you don't sleep enough, your brain doesn't have time to complete this task.\n\nDr. Smith, a sleep expert, suggests that students should form good sleeping habits. \"Going to bed and waking up at the same time every day helps your body clock work better,\" he says. He also recommends avoiding screen time before bed because the blue light from phones and computers makes it harder to fall asleep.\n\nSo, if you want to do better in school, don't sacrifice your sleep for extra study time. A good night's sleep might be the secret weapon for your academic success."
+      "group_passage": "Every year, millions of phones are thrown away, causing serious environmental problems. These old phones contain harmful chemicals that can pollute the soil and water. Dr. Chen and his team wanted to change this situation.\n\nAfter five years of research, they developed a new kind of phone case made from plant fibers (纤维). Unlike plastic cases that take hundreds of years to break down, these plant-based cases can decompose (分解) naturally in just two years. \"It's like returning the material to nature,\" said Dr. Chen.\n\nWhat's more surprising is that the case can actually help plants grow. When buried in soil, it releases nutrients (养分) that make the earth more fertile. The team has tested this with tomato plants, and the results were amazing. The plants grew 20% faster than those in normal soil.\n\nThe only disadvantage is that the case costs 30% more than plastic ones. However, Dr. Chen believes that as more people buy them, the price will drop. \"We are not just making a phone case,\" he said. \"We are sacrificing a little money today to save our planet tomorrow.\"\n\nSeveral phone companies have already shown interest in this invention. If everything goes well, these eco-friendly cases will be available in stores next spring."
     },
     {
       "id": 14,
       "type": "reading",
       "knowledge_point": "inference",
       "difficulty": 3,
-      "stem": "What can we infer from Dr. Smith's suggestions in Paragraph 4?",
+      "stem": "What can we infer from the passage about the phone case?",
       "options": [
-        "A. Students should use computers more before bed.",
-        "B. Irregular sleep patterns don't affect study.",
-        "C. Blue light helps people fall asleep quickly.",
-        "D. Regular sleep schedule is good for health and study."
+        "A. It is already sold in many shops.",
+        "B. It will never become cheaper.",
+        "C. It can completely replace plastic cases now.",
+        "D. It may become popular if the price goes down."
       ],
       "correct_answer": "D",
-      "explanation": "本题考查推理判断。根据第四段Dr. Smith建议'每天在同一时间睡觉和起床有助于生物钟更好地工作'以及避免睡前看屏幕，可推断规律的作息对健康和学习有益。A项与原文'avoiding screen time'相反；B项与'helps your body clock work better'矛盾；C项与'makes it harder to fall asleep'相反。解题技巧：推理题要基于原文信息合理推断，不能选与原文矛盾的选项。",
+      "explanation": "本题考查推理判断。\n根据最后一段\"If everything goes well, these eco-friendly cases will be available in stores next spring\"（明年春天才会上市）可排除A；根据第四段\"as more people buy them, the price will drop\"（买的人越多价格会下降）可排除B；根据第四段\"The only disadvantage is that the case costs 30% more\"可知目前成本较高，难以完全替代塑料，排除C。\nD选项正确，因为文章提到\"as more people buy them, the price will drop\"，可推断出如果价格下降，会吸引更多人购买，从而变得流行。\n解题技巧：推理题要基于原文信息合理推断，不能选原文直接陈述的事实（如A是原文直接说的明年才上市），也不能过度推断（如C的completely）。关注条件状语从句（if）表达的可能性。",
       "label": "阅读-推理判断",
       "group": "reading_1",
-      "group_passage": "Do you often stay up late to finish your homework? Many students think sleeping less gives them more time to study. However, new research shows that good sleep is actually very important for learning and memory.\n\nScientists at a university did an experiment with two groups of students. The first group slept for eight hours after studying new information, while the second group stayed awake all night. The next day, the scientists tested both groups. They found that the students who slept well remembered 40% more than those who didn't sleep.\n\nWhy does sleep help with memory? During sleep, our brains work to organize and store the information we learned during the day. It's like saving files on a computer. If you don't sleep enough, your brain doesn't have time to complete this task.\n\nDr. Smith, a sleep expert, suggests that students should form good sleeping habits. \"Going to bed and waking up at the same time every day helps your body clock work better,\" he says. He also recommends avoiding screen time before bed because the blue light from phones and computers makes it harder to fall asleep.\n\nSo, if you want to do better in school, don't sacrifice your sleep for extra study time. A good night's sleep might be the secret weapon for your academic success."
+      "group_passage": "Every year, millions of phones are thrown away, causing serious environmental problems. These old phones contain harmful chemicals that can pollute the soil and water. Dr. Chen and his team wanted to change this situation.\n\nAfter five years of research, they developed a new kind of phone case made from plant fibers (纤维). Unlike plastic cases that take hundreds of years to break down, these plant-based cases can decompose (分解) naturally in just two years. \"It's like returning the material to nature,\" said Dr. Chen.\n\nWhat's more surprising is that the case can actually help plants grow. When buried in soil, it releases nutrients (养分) that make the earth more fertile. The team has tested this with tomato plants, and the results were amazing. The plants grew 20% faster than those in normal soil.\n\nThe only disadvantage is that the case costs 30% more than plastic ones. However, Dr. Chen believes that as more people buy them, the price will drop. \"We are not just making a phone case,\" he said. \"We are sacrificing a little money today to save our planet tomorrow.\"\n\nSeveral phone companies have already shown interest in this invention. If everything goes well, these eco-friendly cases will be available in stores next spring."
     },
     {
       "id": 15,
       "type": "reading",
-      "knowledge_point": "word_guessing_context",
+      "knowledge_point": "word_guessing",
       "difficulty": 2,
-      "stem": "What does the word \"sacrifice\" in the last paragraph probably mean?",
+      "stem": "What does the underlined word \"sacrificing\" in the last paragraph probably mean?",
       "options": [
-        "A. To give up something important for something else",
-        "B. To share something with others",
-        "C. To protect something carefully",
-        "D. To increase the amount of something"
+        "A. Giving up something valuable for a better purpose.",
+        "B. Spending a lot of money on useless things.",
+        "C. Saving money for future use.",
+        "D. Asking others to pay for the cost."
       ],
       "correct_answer": "A",
-      "explanation": "本题考查词义猜测。根据上下文'不要为了额外的学习时间而sacrifice睡眠'，结合前文强调睡眠重要性，可知sacrifice意为'牺牲'，即放弃某物以换取另一物。B项'分享'、C项'保护'、D项'增加'均不符合语境。解题技巧：通过上下文逻辑（sleep与extra study time的取舍关系）猜测词义，注意转折词but/however。",
+      "explanation": "本题考查词义猜测。\n根据上下文\"We are sacrificing a little money today to save our planet tomorrow\"，今天牺牲一点钱（多付30%成本），明天拯救地球，是为了更好的目的而放弃眼前利益。\nB选项\"花在无用事物上\"与拯救地球矛盾；C选项\"存钱\"与\"花钱\"相反；D选项\"让别人付钱\"文中未提及。\n解题技巧：通过上下文逻辑关系猜测词义，sacrifice意为\"牺牲、献出\"，指为了更重要的目标（save our planet）而放弃某些东西（a little money）。",
       "label": "阅读-词义猜测",
       "group": "reading_1",
-      "group_passage": "Do you often stay up late to finish your homework? Many students think sleeping less gives them more time to study. However, new research shows that good sleep is actually very important for learning and memory.\n\nScientists at a university did an experiment with two groups of students. The first group slept for eight hours after studying new information, while the second group stayed awake all night. The next day, the scientists tested both groups. They found that the students who slept well remembered 40% more than those who didn't sleep.\n\nWhy does sleep help with memory? During sleep, our brains work to organize and store the information we learned during the day. It's like saving files on a computer. If you don't sleep enough, your brain doesn't have time to complete this task.\n\nDr. Smith, a sleep expert, suggests that students should form good sleeping habits. \"Going to bed and waking up at the same time every day helps your body clock work better,\" he says. He also recommends avoiding screen time before bed because the blue light from phones and computers makes it harder to fall asleep.\n\nSo, if you want to do better in school, don't sacrifice your sleep for extra study time. A good night's sleep might be the secret weapon for your academic success."
+      "group_passage": "Every year, millions of phones are thrown away, causing serious environmental problems. These old phones contain harmful chemicals that can pollute the soil and water. Dr. Chen and his team wanted to change this situation.\n\nAfter five years of research, they developed a new kind of phone case made from plant fibers (纤维). Unlike plastic cases that take hundreds of years to break down, these plant-based cases can decompose (分解) naturally in just two years. \"It's like returning the material to nature,\" said Dr. Chen.\n\nWhat's more surprising is that the case can actually help plants grow. When buried in soil, it releases nutrients (养分) that make the earth more fertile. The team has tested this with tomato plants, and the results were amazing. The plants grew 20% faster than those in normal soil.\n\nThe only disadvantage is that the case costs 30% more than plastic ones. However, Dr. Chen believes that as more people buy them, the price will drop. \"We are not just making a phone case,\" he said. \"We are sacrificing a little money today to save our planet tomorrow.\"\n\nSeveral phone companies have already shown interest in this invention. If everything goes well, these eco-friendly cases will be available in stores next spring."
     },
     {
       "id": 16,
       "type": "reading",
-      "knowledge_point": "main_idea_title",
+      "knowledge_point": "main_idea",
       "difficulty": 3,
-      "stem": "What is the best title for this passage?",
+      "stem": "What is the best title for the passage?",
       "options": [
-        "A. How to Finish Homework Quickly",
-        "B. The Bad Effects of Staying Up Late",
-        "C. Sleep: The Secret to Better Learning",
-        "D. Why Students Need Less Sleep"
+        "A. The History of Mobile Phones",
+        "B. A New Green Phone Case",
+        "C. How to Plant Tomatoes",
+        "D. The Harm of Electronic Waste"
       ],
-      "correct_answer": "C",
-      "explanation": "本题考查主旨大意/最佳标题。文章开篇指出睡眠对学习记忆的重要性，通过实验说明睡眠好的学生记忆更好，解释原因并给出建议，最后总结睡眠是学业成功的秘密武器。C项准确概括全文核心。A项仅在开头提及，非重点；B项只涉及熬夜的负面影响，片面；D项与原文观点相反。解题技巧：最佳标题应覆盖全文主要内容，出现频率高的关键词（sleep/memory/learning）应体现在标题中。",
+      "correct_answer": "B",
+      "explanation": "本题考查主旨大意/最佳标题。\n文章主要介绍Dr. Chen团队研发的一种新型环保手机壳，包括其材料、优点（可分解、滋养土壤）、缺点（价格较高）以及市场前景。\nA选项\"手机历史\"只是背景；C选项\"如何种番茄\"只是实验细节；D选项\"电子垃圾的危害\"只是开头引子。B选项\"一种新型绿色手机壳\"概括了全文核心内容。\n解题技巧：最佳标题要涵盖全文核心话题，不能过大（如D只涉及第一段），也不能过小（如C只涉及第三段），要准确反映文章说明对象及其特征（new, green/eco-friendly）。",
       "label": "阅读-主旨大意",
       "group": "reading_1",
-      "group_passage": "Do you often stay up late to finish your homework? Many students think sleeping less gives them more time to study. However, new research shows that good sleep is actually very important for learning and memory.\n\nScientists at a university did an experiment with two groups of students. The first group slept for eight hours after studying new information, while the second group stayed awake all night. The next day, the scientists tested both groups. They found that the students who slept well remembered 40% more than those who didn't sleep.\n\nWhy does sleep help with memory? During sleep, our brains work to organize and store the information we learned during the day. It's like saving files on a computer. If you don't sleep enough, your brain doesn't have time to complete this task.\n\nDr. Smith, a sleep expert, suggests that students should form good sleeping habits. \"Going to bed and waking up at the same time every day helps your body clock work better,\" he says. He also recommends avoiding screen time before bed because the blue light from phones and computers makes it harder to fall asleep.\n\nSo, if you want to do better in school, don't sacrifice your sleep for extra study time. A good night's sleep might be the secret weapon for your academic success."
+      "group_passage": "Every year, millions of phones are thrown away, causing serious environmental problems. These old phones contain harmful chemicals that can pollute the soil and water. Dr. Chen and his team wanted to change this situation.\n\nAfter five years of research, they developed a new kind of phone case made from plant fibers (纤维). Unlike plastic cases that take hundreds of years to break down, these plant-based cases can decompose (分解) naturally in just two years. \"It's like returning the material to nature,\" said Dr. Chen.\n\nWhat's more surprising is that the case can actually help plants grow. When buried in soil, it releases nutrients (养分) that make the earth more fertile. The team has tested this with tomato plants, and the results were amazing. The plants grew 20% faster than those in normal soil.\n\nThe only disadvantage is that the case costs 30% more than plastic ones. However, Dr. Chen believes that as more people buy them, the price will drop. \"We are not just making a phone case,\" he said. \"We are sacrificing a little money today to save our planet tomorrow.\"\n\nSeveral phone companies have already shown interest in this invention. If everything goes well, these eco-friendly cases will be available in stores next spring."
     },
     {
       "id": 17,
@@ -283,17 +283,17 @@
       "difficulty": 2,
       "stem": "(17)______",
       "options": [
-        "A. First, save energy at home.",
-        "B. This not only reduces air pollution but also saves money.",
-        "C. Third, reuse things instead of throwing them away.",
-        "D. Single-use plastics are a major source of pollution.",
-        "E. However, it is difficult to change our habits."
+        "A. First of all, make a study plan and stick to it.",
+        "B. However, don't forget to leave some time for rest.",
+        "C. As a result, you will feel stressed and tired all the time.",
+        "D. On the other hand, doing sports can help you study better.",
+        "E. Then, try to use your free time wisely."
       ],
       "correct_answer": "A",
-      "explanation": "本题考查段落主题句及连接词。后文出现For example列举关灯、拔掉插头等节约用电的例子，且下一段以Second开头，可知此处应是First引出的第一点建议。A项'首先，在家节约能源'符合逻辑。",
+      "explanation": "本题考查段落主题句与逻辑顺序。\n空格后第二段开始讲\"Second\"（第二），说明此处应是\"第一\"。A选项\"First of all\"（首先）符合顺序逻辑，引出制定学习计划这一首要建议。\nB选项However表转折，用于对比；C选项As a result表结果；D选项On the other hand表并列对比；E选项Then表承接（然后），通常不用于段首总起。\n解题技巧：关注后文的\"Second\"，反推前文应为\"First\"或\"First of all\"，形成\"首先……其次……\"的逻辑链条。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Many people want to live a greener life, but they don't know where to start. Here are some simple ways to help protect the environment.\n\n(17)______ For example, turn off the lights when you leave a room and unplug electronic devices when they are not in use. This can save a lot of electricity.\n\nSecond, reduce waste by using reusable bags and bottles. (18)______ Plastic bags and bottles take hundreds of years to break down in nature. By using reusable items, we can create less trash.\n\n(19)______ Many old items can be given a second life. For instance, you can turn old clothes into cleaning rags or use glass jars to store food.\n\nFinally, try to walk or ride a bike instead of taking a car for short distances. (20)______ It also helps you stay fit and healthy."
+      "group_passage": "Many students find it hard to balance study and after-school activities. They often feel stressed because they have too much homework but also want to join clubs or play sports. Here are some tips to help you manage your time better.\n\n(17)______ Write down what you need to do each day and check the list when you finish. This helps you stay organized and avoid wasting time.\n\n(18)______ For example, you can review English words while waiting for the bus, or read a book during lunch break. Small pieces of time add up to big progress.\n\n(19)______ You don't need to study for five hours without stopping. Taking short breaks every 45 minutes can improve your concentration and memory.\n\n(20)______ Physical exercise not only keeps you healthy but also makes your brain more active. So find a sport you enjoy and do it regularly.\n\nRemember, balancing study and play is important for your growth. Use these tips and you will enjoy a colorful school life."
     },
     {
       "id": 18,
@@ -302,17 +302,17 @@
       "difficulty": 2,
       "stem": "(18)______",
       "options": [
-        "A. First, save energy at home.",
-        "B. This not only reduces air pollution but also saves money.",
-        "C. Third, reuse things instead of throwing them away.",
-        "D. Single-use plastics are a major source of pollution.",
-        "E. However, it is difficult to change our habits."
+        "A. First of all, make a study plan and stick to it.",
+        "B. However, don't forget to leave some time for rest.",
+        "C. As a result, you will feel stressed and tired all the time.",
+        "D. On the other hand, doing sports can help you study better.",
+        "E. Then, try to use your free time wisely."
       ],
-      "correct_answer": "D",
-      "explanation": "本题考查逻辑关系及代词指代。后文'塑料袋和瓶子需要数百年才能在大自然中分解'是对前文的解释说明，D项'一次性塑料是主要的污染源'引出后文对塑料危害的解释，且Single-use plastics与前文reusable bags形成对比。",
+      "correct_answer": "E",
+      "explanation": "本题考查过渡句与例证关系。\n空格后\"For example\"举例说明如何利用碎片时间（等车时背单词、午餐时读书），因此空格处应提出\"利用空闲时间\"的建议。E选项\"Then, try to use your free time wisely\"（然后，试着明智地利用空闲时间）符合语境。\nA选项是第一条建议（已用于17题）；B选项讲休息；C选项是负面结果；D选项讲运动（与后文运动建议重复）。\n解题技巧：关注\"For example\"信号词，前文应为总述观点，后文为具体例子。Then表示顺序上的\"接下来\"，承接前文的First of all。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Many people want to live a greener life, but they don't know where to start. Here are some simple ways to help protect the environment.\n\n(17)______ For example, turn off the lights when you leave a room and unplug electronic devices when they are not in use. This can save a lot of electricity.\n\nSecond, reduce waste by using reusable bags and bottles. (18)______ Plastic bags and bottles take hundreds of years to break down in nature. By using reusable items, we can create less trash.\n\n(19)______ Many old items can be given a second life. For instance, you can turn old clothes into cleaning rags or use glass jars to store food.\n\nFinally, try to walk or ride a bike instead of taking a car for short distances. (20)______ It also helps you stay fit and healthy."
+      "group_passage": "Many students find it hard to balance study and after-school activities. They often feel stressed because they have too much homework but also want to join clubs or play sports. Here are some tips to help you manage your time better.\n\n(17)______ Write down what you need to do each day and check the list when you finish. This helps you stay organized and avoid wasting time.\n\n(18)______ For example, you can review English words while waiting for the bus, or read a book during lunch break. Small pieces of time add up to big progress.\n\n(19)______ You don't need to study for five hours without stopping. Taking short breaks every 45 minutes can improve your concentration and memory.\n\n(20)______ Physical exercise not only keeps you healthy but also makes your brain more active. So find a sport you enjoy and do it regularly.\n\nRemember, balancing study and play is important for your growth. Use these tips and you will enjoy a colorful school life."
     },
     {
       "id": 19,
@@ -321,17 +321,17 @@
       "difficulty": 2,
       "stem": "(19)______",
       "options": [
-        "A. First, save energy at home.",
-        "B. This not only reduces air pollution but also saves money.",
-        "C. Third, reuse things instead of throwing them away.",
-        "D. Single-use plastics are a major source of pollution.",
-        "E. However, it is difficult to change our habits."
+        "A. First of all, make a study plan and stick to it.",
+        "B. However, don't forget to leave some time for rest.",
+        "C. As a result, you will feel stressed and tired all the time.",
+        "D. On the other hand, doing sports can help you study better.",
+        "E. Then, try to use your free time wisely."
       ],
-      "correct_answer": "C",
-      "explanation": "本题考查顺序连接词。前文有First、Second，后文有Finally，此处应是Third引出的第三点建议。后文'给旧物品第二次生命'对应C项'reuse things（重复使用物品）'。",
+      "correct_answer": "B",
+      "explanation": "本题考查转折与补充建议。\n空格后讲\"不需要连续学习五小时\"\"每45分钟休息可以提高专注力\"，因此空格处应建议\"休息/放松\"。B选项\"However, don't forget to leave some time for rest\"（然而，别忘了留些时间休息）符合语境，与前文的紧张学习形成转折。\nA、E已使用；C选项是负面结果，与后文积极建议不符；D选项讲运动，与休息不同。\n解题技巧：However表示语义转折，前文讲如何利用时间学习，此处转折讲也要休息，形成\"学习-休息\"的平衡建议。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Many people want to live a greener life, but they don't know where to start. Here are some simple ways to help protect the environment.\n\n(17)______ For example, turn off the lights when you leave a room and unplug electronic devices when they are not in use. This can save a lot of electricity.\n\nSecond, reduce waste by using reusable bags and bottles. (18)______ Plastic bags and bottles take hundreds of years to break down in nature. By using reusable items, we can create less trash.\n\n(19)______ Many old items can be given a second life. For instance, you can turn old clothes into cleaning rags or use glass jars to store food.\n\nFinally, try to walk or ride a bike instead of taking a car for short distances. (20)______ It also helps you stay fit and healthy."
+      "group_passage": "Many students find it hard to balance study and after-school activities. They often feel stressed because they have too much homework but also want to join clubs or play sports. Here are some tips to help you manage your time better.\n\n(17)______ Write down what you need to do each day and check the list when you finish. This helps you stay organized and avoid wasting time.\n\n(18)______ For example, you can review English words while waiting for the bus, or read a book during lunch break. Small pieces of time add up to big progress.\n\n(19)______ You don't need to study for five hours without stopping. Taking short breaks every 45 minutes can improve your concentration and memory.\n\n(20)______ Physical exercise not only keeps you healthy but also makes your brain more active. So find a sport you enjoy and do it regularly.\n\nRemember, balancing study and play is important for your growth. Use these tips and you will enjoy a colorful school life."
     },
     {
       "id": 20,
@@ -340,17 +340,17 @@
       "difficulty": 2,
       "stem": "(20)______",
       "options": [
-        "A. First, save energy at home.",
-        "B. This not only reduces air pollution but also saves money.",
-        "C. Third, reuse things instead of throwing them away.",
-        "D. Single-use plastics are a major source of pollution.",
-        "E. However, it is difficult to change our habits."
+        "A. First of all, make a study plan and stick to it.",
+        "B. However, don't forget to leave some time for rest.",
+        "C. As a result, you will feel stressed and tired all the time.",
+        "D. On the other hand, doing sports can help you study better.",
+        "E. Then, try to use your free time wisely."
       ],
-      "correct_answer": "B",
-      "explanation": "本题考查递进关系。后文'It also helps...'（还有助于...）中的also表明前文应有类似的not only结构，形成not only...also...的递进关系。B项'这不仅减少空气污染还能省钱'与后文'还有助于保持健康'构成并列的好处。",
+      "correct_answer": "D",
+      "explanation": "本题考查并列建议与主题一致性。\n空格后内容讲\"体育锻炼不仅保持健康还能让大脑更活跃\"\"找一项喜欢的运动定期做\"，因此空格处应提出\"运动\"建议。D选项\"On the other hand, doing sports can help you study better\"（另一方面，做运动能帮助你学得更好）符合语境。\nOn the other hand用于引出并列的另一方面建议（前文讲学习计划和休息，此处讲运动），形成全面平衡的建议体系。\n解题技巧：关注后文关键词\"Physical exercise\"，与D选项中的\"doing sports\"完全对应，属于\"总-分\"结构。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Many people want to live a greener life, but they don't know where to start. Here are some simple ways to help protect the environment.\n\n(17)______ For example, turn off the lights when you leave a room and unplug electronic devices when they are not in use. This can save a lot of electricity.\n\nSecond, reduce waste by using reusable bags and bottles. (18)______ Plastic bags and bottles take hundreds of years to break down in nature. By using reusable items, we can create less trash.\n\n(19)______ Many old items can be given a second life. For instance, you can turn old clothes into cleaning rags or use glass jars to store food.\n\nFinally, try to walk or ride a bike instead of taking a car for short distances. (20)______ It also helps you stay fit and healthy."
+      "group_passage": "Many students find it hard to balance study and after-school activities. They often feel stressed because they have too much homework but also want to join clubs or play sports. Here are some tips to help you manage your time better.\n\n(17)______ Write down what you need to do each day and check the list when you finish. This helps you stay organized and avoid wasting time.\n\n(18)______ For example, you can review English words while waiting for the bus, or read a book during lunch break. Small pieces of time add up to big progress.\n\n(19)______ You don't need to study for five hours without stopping. Taking short breaks every 45 minutes can improve your concentration and memory.\n\n(20)______ Physical exercise not only keeps you healthy but also makes your brain more active. So find a sport you enjoy and do it regularly.\n\nRemember, balancing study and play is important for your growth. Use these tips and you will enjoy a colorful school life."
     }
   ]
 }
