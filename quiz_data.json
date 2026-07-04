@@ -1,5 +1,5 @@
 ﻿{
-  "date": "2026-07-04",
+  "date": "2026-07-05",
   "session_number": 1,
   "questions": [
     {
@@ -7,15 +7,15 @@
       "type": "grammar",
       "knowledge_point": "present_perfect_vs_past_simple",
       "difficulty": 2,
-      "stem": "—________ you ever ________ to the new science museum?\n—Yes, I ________ there with my classmates last Friday.",
+      "stem": "—______ you ______ your homework yet?\n—Yes, I ______ it an hour ago.",
       "options": [
-        "A. Did; go; have gone",
-        "B. Have; gone; went",
-        "C. Have; been; went",
-        "D. Did; go; went"
+        "A. Did; finish; finished",
+        "B. Have; finished; finished",
+        "C. Have; finished; have finished",
+        "D. Do; finish; finished"
       ],
-      "correct_answer": "C",
-      "explanation": "本题考查现在完成时与一般过去时的区别。\n现在完成时（have been to）表示\"曾经去过某地（已回来）\"，强调经历；一般过去时（went）表示\"过去某个具体时间发生的动作\"，与last Friday这一过去时间状语连用。\nA选项第一空错误，ever是现在完成时标志词；B选项第二空have gone to表示\"去了某地（未回）\"，与答句逻辑矛盾；D选项第一空错误，ever不与一般过去时连用。\n解题技巧：看到ever/never/just/already/yet等词用现在完成时；看到yesterday/last week/in 2020等具体过去时间用一般过去时。",
+      "correct_answer": "B",
+      "explanation": "这道题考查现在完成时与一般过去时的区别。问句中的 yet 是现在完成时的标志词，表示\"已经\"，用于询问动作是否完成，因此第一、二空用 Have finished；答句中的 an hour ago 是明确的过去时间状语，表示动作发生在过去某个具体时间，因此第三空用一般过去时 finished。A 选项 Did finish 是过去时，但 yet 通常不与过去时连用；C 选项 have finished 与 ago 矛盾；D 选项 Do finish 是一般现在时，不符合语境。",
       "label": "语法题"
     },
     {
@@ -23,15 +23,15 @@
       "type": "grammar",
       "knowledge_point": "relative_clause_who_which",
       "difficulty": 2,
-      "stem": "The student ________ won the first prize in the English speech contest is from Class 3.",
+      "stem": "The boy ______ is standing under the tree is my classmate.",
       "options": [
-        "A. which",
-        "B. who",
+        "A. who",
+        "B. which",
         "C. whom",
         "D. whose"
       ],
-      "correct_answer": "B",
-      "explanation": "本题考查定语从句关系代词的用法。\n先行词是The student（指人），且关系代词在从句中作主语，应使用who。\nA选项which用于指物；C选项whom用于指人但作宾语；D选项whose表示\"……的\"，在从句中作定语。\n解题技巧：指人用who/whom/that，指物用which/that；作主语用who/which，作宾语用whom/who/which，作定语用whose。",
+      "correct_answer": "A",
+      "explanation": "这道题考查定语从句关系代词的选择。先行词是 The boy（人），且关系代词在从句中作主语（is standing），因此用 who。which 用于指物；whom 用于指人但作宾语；whose 表示\"...的\"，在从句中作定语。从句中缺少主语，且指人，故选 A。",
       "label": "语法题"
     },
     {
@@ -39,98 +39,98 @@
       "type": "grammar",
       "knowledge_point": "passive_voice",
       "difficulty": 1,
-      "stem": "These old books ________ to the school library by the graduates yesterday afternoon.",
+      "stem": "These books ______ to the library tomorrow.",
       "options": [
-        "A. returned",
-        "B. were returned",
-        "C. have returned",
-        "D. are returned"
+        "A. will return",
+        "B. will be returned",
+        "C. are returning",
+        "D. returned"
       ],
       "correct_answer": "B",
-      "explanation": "本题考查一般过去时的被动语态。\n主语These old books与return是被动关系（书被归还），时间状语yesterday afternoon表示过去，因此用一般过去时的被动语态were returned。\nA选项是主动语态；C选项是现在完成时主动语态；D选项是一般现在时被动语态，时态不符。\n解题技巧：被动语态基本结构为\"be+过去分词\"，根据时间状语确定be动词的时态。",
+      "explanation": "这道题考查一般将来时的被动语态。主语 These books 与动词 return 之间是被动关系（书被归还），时间状语 tomorrow 表示将来，因此用 will be returned。A 选项是主动语态；C 选项是现在进行时；D 选项是一般过去时，均不符合语境。被动语态基本结构：be + 过去分词。",
       "label": "语法题"
     },
     {
       "id": 4,
       "type": "grammar",
-      "knowledge_point": "modal_verbs",
+      "knowledge_point": "modal_verbs_speculation",
       "difficulty": 3,
-      "stem": "—Listen! Someone is knocking at the door. Is it Tom?\n—It ________ be him. He has gone to Shanghai on business.",
+      "stem": "—Is that Mr. Wang knocking at the door?\n—It ______ be him. He has gone to Beijing on business.",
       "options": [
         "A. must",
-        "B. may",
-        "C. might",
-        "D. can't"
+        "B. might",
+        "C. can't",
+        "D. should"
       ],
-      "correct_answer": "D",
-      "explanation": "本题考查情态动词表推测的用法。\n根据后句\"He has gone to Shanghai\"（他去上海出差了，还没回来），可推断\"不可能是他\"。can't表示\"不可能\"，用于否定推测。\nA选项must表示\"一定是\"，与句意相反；B、C选项may/might表示\"可能是\"，把握性较弱，但此处是确定性的否定排除。\n解题技巧：must be（一定是），can't be（不可能是），may/might be（可能是）。根据后文给出的确定信息选择相应的推测语气。",
+      "correct_answer": "C",
+      "explanation": "这道题考查情态动词表推测的用法。根据后文\"He has gone to Beijing\"（他去北京出差了，现在不在这里），可知敲门的人\"不可能\"是他。can't 表示\"不可能\"，用于否定推测；must 表示\"一定\"，用于肯定推测；might 表示\"可能\"，可能性较小；should 表示\"应该\"。根据语境，这里需要否定推测，故选 C。",
       "label": "语法题"
     },
     {
       "id": 5,
       "type": "vocabulary",
-      "knowledge_point": "word_meaning",
-      "difficulty": 2,
-      "stem": "To protect the environment, we should find ways to ________ waste into useful things instead of throwing it away.",
+      "knowledge_point": "phrasal_verbs",
+      "difficulty": 1,
+      "stem": "We need to ______ a good plan for the school trip.",
       "options": [
-        "A. recycle",
-        "B. reduce",
-        "C. reuse",
-        "D. repeat"
+        "A. come up with",
+        "B. come up",
+        "C. come out",
+        "D. come on"
       ],
       "correct_answer": "A",
-      "explanation": "本题考查词义辨析。\nrecycle表示\"回收利用\"，符合句意\"把废物变成有用的东西\"。\nB选项reduce意为\"减少\"；C选项reuse意为\"重复使用\"，但通常指直接使用而不经过加工转变；D选项repeat意为\"重复\"。\n解题技巧：根据语境\"into useful things\"（转变成有用的东西）判断是\"回收加工\"的过程，而非简单的减少或重复使用。",
+      "explanation": "这道题考查动词短语辨析。come up with 意为\"提出，想出（主意、计划等）\"；come up 意为\"走近，被提出\"；come out 意为\"出版，开花\"；come on 意为\"快点，加油\"。根据宾语 a good plan（一个好计划），应选 come up with。",
       "label": "词汇题"
     },
     {
       "id": 6,
       "type": "vocabulary",
-      "knowledge_point": "prefix_suffix",
-      "difficulty": 1,
-      "stem": "It is ________ to stay up late playing computer games. It is bad for your health.",
+      "knowledge_point": "prefixes_suffixes",
+      "difficulty": 2,
+      "stem": "The word \"______\" means not happy.",
       "options": [
-        "A. healthy",
-        "B. unhealthy",
-        "C. healthful",
-        "D. healthless"
+        "A. unfair",
+        "B. unhappy",
+        "C. unable",
+        "D. unhealthy"
       ],
       "correct_answer": "B",
-      "explanation": "本题考查形容词词义及构词法。\n根据后句\"bad for your health\"可知此处应填\"不健康的\"。un-是否定前缀，unhealthy表示\"不健康的\"。\nA选项意为\"健康的\"，与句意相反；C选项healthful较正式，意为\"有益健康的\"；D选项healthless不是标准英语词汇。\n解题技巧：un-是常见否定前缀（unhappy, unhealthy, unfair），根据上下文逻辑（熬夜玩游戏=不健康）选择带否定前缀的词。",
+      "explanation": "这道题考查前缀 un- 的含义。un- 表示\"不，非\"，加在形容词前构成反义词。根据题干\"not happy\"（不高兴），对应单词是 unhappy。unfair 表示\"不公平的\"；unable 表示\"不能的\"；unhealthy 表示\"不健康的\"。",
       "label": "词汇题"
     },
     {
       "id": 7,
       "type": "vocabulary",
-      "knowledge_point": "phrasal_verbs",
+      "knowledge_point": "word_meaning",
       "difficulty": 2,
-      "stem": "We need to ________ some good ideas to solve the problem of plastic pollution.",
+      "stem": "The old photo ______ me of my happy childhood.",
       "options": [
-        "A. come up with",
-        "B. catch up with",
-        "C. keep up with",
-        "D. put up with"
+        "A. reminds",
+        "B. remembers",
+        "C. reviews",
+        "D. returns"
       ],
       "correct_answer": "A",
-      "explanation": "本题考查动词短语辨析。\ncome up with意为\"想出（主意、办法等）\"，符合句意\"想出好主意\"。\nB选项catch up with意为\"追上，赶上\"；C选项keep up with意为\"跟上，保持同步\"；D选项put up with意为\"忍受，容忍\"。\n解题技巧：come up with与ideas/plans/solutions搭配，表示\"提出、想出\"。记住up with类短语的差异：come up with（想出），keep up with（跟上），put up with（忍受）。",
+      "explanation": "这道题考查固定搭配。remind sb. of sth. 是固定短语，意为\"使某人想起某事\"。remember 是及物动词，直接接宾语，不与 of 连用表示\"想起\"；review 意为\"复习，回顾\"；return 意为\"返回\"。根据句意\"这张老照片使我想起快乐的童年\"，应选 reminds。",
       "label": "词汇题"
     },
     {
       "id": 8,
       "type": "cloze",
       "knowledge_point": "cloze_general",
-      "difficulty": 2,
+      "difficulty": 1,
       "stem": "(8)______",
       "options": [
-        "A. However",
-        "B. Instead",
-        "C. Therefore",
-        "D. Besides"
+        "A. give",
+        "B. pick",
+        "C. take",
+        "D. turn"
       ],
       "correct_answer": "B",
-      "explanation": "本题考查逻辑关系与副词辨析。\n前文讲\"人们过去把垃圾扔进海里\"，后文讲\"现在他们开始分类回收\"，前后是对比转折关系，且强调\"取而代之\"的做法，用Instead（相反，取而代之）。\nA选项However表示转折，但通常用逗号隔开，且侧重\"然而\"；C选项Therefore表示因果；D选项Besides表示递进。\n解题技巧：关注上下文逻辑关系，看到\"过去……现在……\"的对比结构，且后文是替代前文的做法，选Instead。",
+      "explanation": "这道题考查动词短语搭配。pick up 是固定短语，意为\"捡起\"，符合上下文\"捡垃圾\"的语境。give up 意为\"放弃\"；take up 意为\"占据，开始从事\"；turn up 意为\"调大（音量），出现\"。根据宾语 rubbish，应选 pick up。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last year, our school started an environmental protection project called \"Green Campus\". The goal was to reduce waste and save energy in our daily school life.\n\nIn the past, students used to throw all kinds of rubbish into the same bin without thinking. (8)______, now we have four different colored bins in every classroom. They are for paper, plastic, food waste, and other waste. At first, many students thought it was troublesome to sort the waste. (9)______, as time went by, we realized it was not that difficult.\n\nOur science teacher, Mr. Li, played an important role in this project. He often told us interesting stories about how recycled materials could be (10)______ into new products. For example, old newspapers could become exercise books again. This made us understand the importance of recycling.\n\nThe most exciting part was the \"DIY Workshop\" held last month. Students brought old clothes and bottles from home. With the help of volunteers, we (11)______ them into beautiful pencil cases and shopping bags. Everyone felt proud when they saw their handmade items.\n\nNow, the \"Green Campus\" project has become a great success. Not only has it helped us develop good habits, (12)______ it has also raised our awareness of environmental protection. We hope more schools can join us to make the earth a better place."
+      "group_passage": "Last Friday, our school organized an activity called \"Clean Campus, Green Future\". All the students were asked to take part in it. In the morning, we gathered on the playground. Our teacher told us that we should work in groups to (8)______ up rubbish and plant some trees around the school.\n\nI was grouped with three classmates. We first went to the garden behind the teaching building. To our surprise, there was (9)______ rubbish there, such as plastic bottles and paper. We spent about two hours cleaning it up. Although we felt tired, we were happy to see the garden become (10)______ again.\n\nIn the afternoon, we planted five young trees near the school gate. Our teacher explained that trees could help (11)______ air pollution and make our environment better. When we finished all the work, everyone felt a strong sense of achievement. This activity taught us that protecting the environment is not just a (12)______, but something we should do in our daily life."
     },
     {
       "id": 9,
@@ -139,16 +139,16 @@
       "difficulty": 1,
       "stem": "(9)______",
       "options": [
-        "A. And",
-        "B. But",
-        "C. Or",
-        "D. So"
+        "A. few",
+        "B. little",
+        "C. many",
+        "D. lots of"
       ],
-      "correct_answer": "B",
-      "explanation": "本题考查转折连词的用法。\n前文说\"起初许多学生认为分类麻烦\"，后文说\"随着时间推移，我们意识到并不难\"，前后是明显的转折关系，用But连接。\nA选项And表示并列或递进；C选项Or表示选择；D选项So表示结果。\n解题技巧：看到\"At first...（起初）\"和后面的对比（意识到并不难），判断为转折关系，选择But。注意However和But的区别：However后面通常有逗号，且多用于句首或句中；But直接连接句子，无逗号。",
+      "correct_answer": "D",
+      "explanation": "这道题考查限定词的用法。rubbish 是不可数名词，few 和 many 修饰可数名词，故排除 A 和 C；little 表示\"几乎没有\"，含否定意义，但下文提到\"such as plastic bottles and paper\"，说明有很多垃圾，因此选 lots of，既可修饰可数名词也可修饰不可数名词，表示\"许多\"。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last year, our school started an environmental protection project called \"Green Campus\". The goal was to reduce waste and save energy in our daily school life.\n\nIn the past, students used to throw all kinds of rubbish into the same bin without thinking. (8)______, now we have four different colored bins in every classroom. They are for paper, plastic, food waste, and other waste. At first, many students thought it was troublesome to sort the waste. (9)______, as time went by, we realized it was not that difficult.\n\nOur science teacher, Mr. Li, played an important role in this project. He often told us interesting stories about how recycled materials could be (10)______ into new products. For example, old newspapers could become exercise books again. This made us understand the importance of recycling.\n\nThe most exciting part was the \"DIY Workshop\" held last month. Students brought old clothes and bottles from home. With the help of volunteers, we (11)______ them into beautiful pencil cases and shopping bags. Everyone felt proud when they saw their handmade items.\n\nNow, the \"Green Campus\" project has become a great success. Not only has it helped us develop good habits, (12)______ it has also raised our awareness of environmental protection. We hope more schools can join us to make the earth a better place."
+      "group_passage": "Last Friday, our school organized an activity called \"Clean Campus, Green Future\". All the students were asked to take part in it. In the morning, we gathered on the playground. Our teacher told us that we should work in groups to (8)______ up rubbish and plant some trees around the school.\n\nI was grouped with three classmates. We first went to the garden behind the teaching building. To our surprise, there was (9)______ rubbish there, such as plastic bottles and paper. We spent about two hours cleaning it up. Although we felt tired, we were happy to see the garden become (10)______ again.\n\nIn the afternoon, we planted five young trees near the school gate. Our teacher explained that trees could help (11)______ air pollution and make our environment better. When we finished all the work, everyone felt a strong sense of achievement. This activity taught us that protecting the environment is not just a (12)______, but something we should do in our daily life."
     },
     {
       "id": 10,
@@ -157,16 +157,16 @@
       "difficulty": 2,
       "stem": "(10)______",
       "options": [
-        "A. divided",
-        "B. changed",
-        "C. thrown",
-        "D. collected"
+        "A. dirty",
+        "B. clean",
+        "C. noisy",
+        "D. quiet"
       ],
       "correct_answer": "B",
-      "explanation": "本题考查动词词义辨析及固定搭配。\nchange...into...是固定搭配，意为\"把……变成……\"，符合句意\"回收材料如何被变成新产品\"。\nA选项divided常与into搭配，但意为\"把……分成\"；C选项thrown into意为\"扔进\"；D选项collected不与into搭配表示\"变成\"。\n解题技巧：关注动词与into的搭配，change into（变成），divide into（分成）。根据语境\"old newspapers could become exercise books\"判断是\"转变\"的过程。",
+      "explanation": "这道题考查语境理解。前文提到\"spent about two hours cleaning it up\"（花了两小时打扫），且由 Although 引导让步状语从句\"虽然我们很累\"，可推断主句应为\"但看到花园变干净了我们很高兴\"。clean 意为\"干净的\"，符合语境。dirty 意为\"脏的\"，与语境相反；noisy 意为\"吵闹的\"；quiet 意为\"安静的\"，均与打扫后的结果无关。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last year, our school started an environmental protection project called \"Green Campus\". The goal was to reduce waste and save energy in our daily school life.\n\nIn the past, students used to throw all kinds of rubbish into the same bin without thinking. (8)______, now we have four different colored bins in every classroom. They are for paper, plastic, food waste, and other waste. At first, many students thought it was troublesome to sort the waste. (9)______, as time went by, we realized it was not that difficult.\n\nOur science teacher, Mr. Li, played an important role in this project. He often told us interesting stories about how recycled materials could be (10)______ into new products. For example, old newspapers could become exercise books again. This made us understand the importance of recycling.\n\nThe most exciting part was the \"DIY Workshop\" held last month. Students brought old clothes and bottles from home. With the help of volunteers, we (11)______ them into beautiful pencil cases and shopping bags. Everyone felt proud when they saw their handmade items.\n\nNow, the \"Green Campus\" project has become a great success. Not only has it helped us develop good habits, (12)______ it has also raised our awareness of environmental protection. We hope more schools can join us to make the earth a better place."
+      "group_passage": "Last Friday, our school organized an activity called \"Clean Campus, Green Future\". All the students were asked to take part in it. In the morning, we gathered on the playground. Our teacher told us that we should work in groups to (8)______ up rubbish and plant some trees around the school.\n\nI was grouped with three classmates. We first went to the garden behind the teaching building. To our surprise, there was (9)______ rubbish there, such as plastic bottles and paper. We spent about two hours cleaning it up. Although we felt tired, we were happy to see the garden become (10)______ again.\n\nIn the afternoon, we planted five young trees near the school gate. Our teacher explained that trees could help (11)______ air pollution and make our environment better. When we finished all the work, everyone felt a strong sense of achievement. This activity taught us that protecting the environment is not just a (12)______, but something we should do in our daily life."
     },
     {
       "id": 11,
@@ -175,106 +175,106 @@
       "difficulty": 2,
       "stem": "(11)______",
       "options": [
-        "A. turned",
-        "B. bought",
-        "C. found",
-        "D. cut"
+        "A. increase",
+        "B. produce",
+        "C. reduce",
+        "D. protect"
       ],
-      "correct_answer": "A",
-      "explanation": "本题考查动词短语搭配。\nturn...into...是固定短语，意为\"把……变成……\"，与上文的\"change into\"同义复现，符合句意\"把旧衣服和瓶子变成漂亮的笔袋和购物袋\"。\nB选项bought（买）、C选项found（发现）、D选项cut（切割）均不能与into构成\"转变\"含义的搭配。\n解题技巧：完形填空注重上下文呼应，上文提到\"change into new products\"，此处是具体例子，因此选择同义词turn into。",
+      "correct_answer": "C",
+      "explanation": "这道题考查词义辨析和语境理解。根据常识和下文\"make our environment better\"（让我们的环境更好），可知树木可以帮助\"减少\"空气污染。reduce 意为\"减少\"；increase 意为\"增加\"，与语境相反；produce 意为\"产生\"；protect 意为\"保护\"，通常直接接宾语表示保护某物，不与 pollution 搭配表示减少污染。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last year, our school started an environmental protection project called \"Green Campus\". The goal was to reduce waste and save energy in our daily school life.\n\nIn the past, students used to throw all kinds of rubbish into the same bin without thinking. (8)______, now we have four different colored bins in every classroom. They are for paper, plastic, food waste, and other waste. At first, many students thought it was troublesome to sort the waste. (9)______, as time went by, we realized it was not that difficult.\n\nOur science teacher, Mr. Li, played an important role in this project. He often told us interesting stories about how recycled materials could be (10)______ into new products. For example, old newspapers could become exercise books again. This made us understand the importance of recycling.\n\nThe most exciting part was the \"DIY Workshop\" held last month. Students brought old clothes and bottles from home. With the help of volunteers, we (11)______ them into beautiful pencil cases and shopping bags. Everyone felt proud when they saw their handmade items.\n\nNow, the \"Green Campus\" project has become a great success. Not only has it helped us develop good habits, (12)______ it has also raised our awareness of environmental protection. We hope more schools can join us to make the earth a better place."
+      "group_passage": "Last Friday, our school organized an activity called \"Clean Campus, Green Future\". All the students were asked to take part in it. In the morning, we gathered on the playground. Our teacher told us that we should work in groups to (8)______ up rubbish and plant some trees around the school.\n\nI was grouped with three classmates. We first went to the garden behind the teaching building. To our surprise, there was (9)______ rubbish there, such as plastic bottles and paper. We spent about two hours cleaning it up. Although we felt tired, we were happy to see the garden become (10)______ again.\n\nIn the afternoon, we planted five young trees near the school gate. Our teacher explained that trees could help (11)______ air pollution and make our environment better. When we finished all the work, everyone felt a strong sense of achievement. This activity taught us that protecting the environment is not just a (12)______, but something we should do in our daily life."
     },
     {
       "id": 12,
       "type": "cloze",
       "knowledge_point": "cloze_general",
-      "difficulty": 1,
+      "difficulty": 2,
       "stem": "(12)______",
       "options": [
-        "A. and",
-        "B. but",
-        "C. or",
-        "D. so"
+        "A. story",
+        "B. joke",
+        "C. slogan",
+        "D. game"
       ],
-      "correct_answer": "B",
-      "explanation": "本题考查固定句型搭配。\nnot only...but (also)...是固定句型，意为\"不但……而且……\"，符合句意\"不但帮助我们养成好习惯，而且提高了环保意识\"。\nA选项and不能与not only构成固定搭配；C选项or表示选择；D选项so表示结果。\n解题技巧：记住固定搭配not only...but also...，其中also可以省略。这是中考常见句型，表示递进关系。",
+      "correct_answer": "C",
+      "explanation": "这道题考查名词词义辨析和语境理解。slogan 意为\"口号\"，符合句意\"保护环境不只是一个口号，而是我们日常生活中应该做的事情\"。story 意为\"故事\"；joke 意为\"玩笑\"；game 意为\"游戏\"。根据语境，强调环保不是停留在口头说说（口号），而是实际行动，因此选 slogan。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last year, our school started an environmental protection project called \"Green Campus\". The goal was to reduce waste and save energy in our daily school life.\n\nIn the past, students used to throw all kinds of rubbish into the same bin without thinking. (8)______, now we have four different colored bins in every classroom. They are for paper, plastic, food waste, and other waste. At first, many students thought it was troublesome to sort the waste. (9)______, as time went by, we realized it was not that difficult.\n\nOur science teacher, Mr. Li, played an important role in this project. He often told us interesting stories about how recycled materials could be (10)______ into new products. For example, old newspapers could become exercise books again. This made us understand the importance of recycling.\n\nThe most exciting part was the \"DIY Workshop\" held last month. Students brought old clothes and bottles from home. With the help of volunteers, we (11)______ them into beautiful pencil cases and shopping bags. Everyone felt proud when they saw their handmade items.\n\nNow, the \"Green Campus\" project has become a great success. Not only has it helped us develop good habits, (12)______ it has also raised our awareness of environmental protection. We hope more schools can join us to make the earth a better place."
+      "group_passage": "Last Friday, our school organized an activity called \"Clean Campus, Green Future\". All the students were asked to take part in it. In the morning, we gathered on the playground. Our teacher told us that we should work in groups to (8)______ up rubbish and plant some trees around the school.\n\nI was grouped with three classmates. We first went to the garden behind the teaching building. To our surprise, there was (9)______ rubbish there, such as plastic bottles and paper. We spent about two hours cleaning it up. Although we felt tired, we were happy to see the garden become (10)______ again.\n\nIn the afternoon, we planted five young trees near the school gate. Our teacher explained that trees could help (11)______ air pollution and make our environment better. When we finished all the work, everyone felt a strong sense of achievement. This activity taught us that protecting the environment is not just a (12)______, but something we should do in our daily life."
     },
     {
       "id": 13,
       "type": "reading",
       "knowledge_point": "detail",
-      "difficulty": 1,
-      "stem": "What problem did Dr. Chen's team try to solve?",
+      "difficulty": 2,
+      "stem": "What can stop our body from producing melatonin according to the passage?",
       "options": [
-        "A. People spent too much time on phones.",
-        "B. Traditional batteries were too expensive.",
-        "C. Electronic waste caused serious pollution.",
-        "D. Phones were easily damaged by water."
+        "A. Reading books",
+        "B. Blue light from screens",
+        "C. Listening to calm music",
+        "D. Doing light exercise"
       ],
-      "correct_answer": "C",
-      "explanation": "本题考查细节理解。\n根据文章第一段\"Every year, millions of phones are thrown away, causing serious environmental problems. Dr. Chen and his team wanted to change this situation.\"可知，Dr. Chen的团队试图解决电子垃圾（废弃手机）造成的污染问题。\nA选项是人们使用手机时间长短，文中未提及；B选项传统电池价格，文中未提及；D选项手机防水问题，这是后文提到的材料特性，不是问题本身。\n解题技巧：细节题要精准定位关键词（Dr. Chen's team），在原文中找到对应句子，注意同义替换（change this situation指代解决前文提到的污染问题）。",
+      "correct_answer": "B",
+      "explanation": "这道题考查细节理解。根据第二段第一句\"the blue light from screens can affect our sleep quality\"和第二句\"When we look at phones or computers at night... This stops our body from producing melatonin\"，可知是屏幕发出的蓝光（blue light from screens）阻止身体产生褪黑素。A、C、D 选项都是文章中提到的有助于睡眠的活动，而非阻止产生褪黑素的因素。",
       "label": "阅读-细节理解",
       "group": "reading_1",
-      "group_passage": "Every year, millions of phones are thrown away, causing serious environmental problems. These old phones contain harmful chemicals that can pollute the soil and water. Dr. Chen and his team wanted to change this situation.\n\nAfter five years of research, they developed a new kind of phone case made from plant fibers (纤维). Unlike plastic cases that take hundreds of years to break down, these plant-based cases can decompose (分解) naturally in just two years. \"It's like returning the material to nature,\" said Dr. Chen.\n\nWhat's more surprising is that the case can actually help plants grow. When buried in soil, it releases nutrients (养分) that make the earth more fertile. The team has tested this with tomato plants, and the results were amazing. The plants grew 20% faster than those in normal soil.\n\nThe only disadvantage is that the case costs 30% more than plastic ones. However, Dr. Chen believes that as more people buy them, the price will drop. \"We are not just making a phone case,\" he said. \"We are sacrificing a little money today to save our planet tomorrow.\"\n\nSeveral phone companies have already shown interest in this invention. If everything goes well, these eco-friendly cases will be available in stores next spring."
+      "group_passage": "Do you often use your smartphone before going to bed? Many teenagers have this habit, but scientists say it may be harmful to our health.\n\nA recent study shows that the blue light from screens can affect our sleep quality. When we look at phones or computers at night, our brains think it is still daytime. This stops our body from producing melatonin (褪黑素), a chemical that helps us sleep. As a result, we may find it hard to fall asleep or have a deep sleep.\n\nDr. Li, a sleep expert, suggests that we should stop using electronic devices (电子设备) at least one hour before bedtime. Instead, we can read books, listen to calm music, or do some light exercise. These activities help our body and mind relax and prepare for sleep.\n\nHowever, breaking the habit is not easy. Some students say they need to check messages or finish homework online. If you really have to use your phone, try to lower the screen brightness or use the night mode. This can reduce the amount of blue light.\n\nGood sleep is important for teenagers because it helps with memory and learning. By changing our bedtime habits, we can sleep better and feel more energetic during the day."
     },
     {
       "id": 14,
       "type": "reading",
-      "knowledge_point": "inference",
-      "difficulty": 3,
-      "stem": "What can we infer from the passage about the phone case?",
+      "knowledge_point": "word_guessing_context",
+      "difficulty": 2,
+      "stem": "What does the word \"devices\" in Paragraph 3 probably mean?",
       "options": [
-        "A. It is already sold in many shops.",
-        "B. It will never become cheaper.",
-        "C. It can completely replace plastic cases now.",
-        "D. It may become popular if the price goes down."
+        "A. 药物",
+        "B. 设备/装置",
+        "C. 饮料",
+        "D. 食品"
       ],
-      "correct_answer": "D",
-      "explanation": "本题考查推理判断。\n根据最后一段\"If everything goes well, these eco-friendly cases will be available in stores next spring\"（明年春天才会上市）可排除A；根据第四段\"as more people buy them, the price will drop\"（买的人越多价格会下降）可排除B；根据第四段\"The only disadvantage is that the case costs 30% more\"可知目前成本较高，难以完全替代塑料，排除C。\nD选项正确，因为文章提到\"as more people buy them, the price will drop\"，可推断出如果价格下降，会吸引更多人购买，从而变得流行。\n解题技巧：推理题要基于原文信息合理推断，不能选原文直接陈述的事实（如A是原文直接说的明年才上市），也不能过度推断（如C的completely）。关注条件状语从句（if）表达的可能性。",
-      "label": "阅读-推理判断",
+      "correct_answer": "B",
+      "explanation": "这道题考查词义猜测。根据第三段上下文\"stop using electronic devices\"以及前文提到的\"phones or computers\"，可以推断 devices 指的是电子设备。下文还提到\"If you really have to use your phone...\"，进一步验证 devices 与手机、电脑等同属电子设备。因此选 B。",
+      "label": "阅读-词义猜测",
       "group": "reading_1",
-      "group_passage": "Every year, millions of phones are thrown away, causing serious environmental problems. These old phones contain harmful chemicals that can pollute the soil and water. Dr. Chen and his team wanted to change this situation.\n\nAfter five years of research, they developed a new kind of phone case made from plant fibers (纤维). Unlike plastic cases that take hundreds of years to break down, these plant-based cases can decompose (分解) naturally in just two years. \"It's like returning the material to nature,\" said Dr. Chen.\n\nWhat's more surprising is that the case can actually help plants grow. When buried in soil, it releases nutrients (养分) that make the earth more fertile. The team has tested this with tomato plants, and the results were amazing. The plants grew 20% faster than those in normal soil.\n\nThe only disadvantage is that the case costs 30% more than plastic ones. However, Dr. Chen believes that as more people buy them, the price will drop. \"We are not just making a phone case,\" he said. \"We are sacrificing a little money today to save our planet tomorrow.\"\n\nSeveral phone companies have already shown interest in this invention. If everything goes well, these eco-friendly cases will be available in stores next spring."
+      "group_passage": "Do you often use your smartphone before going to bed? Many teenagers have this habit, but scientists say it may be harmful to our health.\n\nA recent study shows that the blue light from screens can affect our sleep quality. When we look at phones or computers at night, our brains think it is still daytime. This stops our body from producing melatonin (褪黑素), a chemical that helps us sleep. As a result, we may find it hard to fall asleep or have a deep sleep.\n\nDr. Li, a sleep expert, suggests that we should stop using electronic devices (电子设备) at least one hour before bedtime. Instead, we can read books, listen to calm music, or do some light exercise. These activities help our body and mind relax and prepare for sleep.\n\nHowever, breaking the habit is not easy. Some students say they need to check messages or finish homework online. If you really have to use your phone, try to lower the screen brightness or use the night mode. This can reduce the amount of blue light.\n\nGood sleep is important for teenagers because it helps with memory and learning. By changing our bedtime habits, we can sleep better and feel more energetic during the day."
     },
     {
       "id": 15,
       "type": "reading",
-      "knowledge_point": "word_guessing",
-      "difficulty": 2,
-      "stem": "What does the underlined word \"sacrificing\" in the last paragraph probably mean?",
+      "knowledge_point": "inference",
+      "difficulty": 3,
+      "stem": "What can we infer from the passage?",
       "options": [
-        "A. Giving up something valuable for a better purpose.",
-        "B. Spending a lot of money on useless things.",
-        "C. Saving money for future use.",
-        "D. Asking others to pay for the cost."
+        "A. All teenagers should throw away their phones.",
+        "B. Using night mode can help reduce blue light.",
+        "C. Melatonin makes us stay awake.",
+        "D. Homework should never be done online."
       ],
-      "correct_answer": "A",
-      "explanation": "本题考查词义猜测。\n根据上下文\"We are sacrificing a little money today to save our planet tomorrow\"，今天牺牲一点钱（多付30%成本），明天拯救地球，是为了更好的目的而放弃眼前利益。\nB选项\"花在无用事物上\"与拯救地球矛盾；C选项\"存钱\"与\"花钱\"相反；D选项\"让别人付钱\"文中未提及。\n解题技巧：通过上下文逻辑关系猜测词义，sacrifice意为\"牺牲、献出\"，指为了更重要的目标（save our planet）而放弃某些东西（a little money）。",
-      "label": "阅读-词义猜测",
+      "correct_answer": "B",
+      "explanation": "这道题考查推理判断。根据第四段最后两句\"If you really have to use your phone, try to lower the screen brightness or use the night mode. This can reduce the amount of blue light\"，可推断使用夜间模式（night mode）有助于减少蓝光，因此 B 正确。A 选项\"扔掉手机\"过于绝对，文章只是建议睡前不用；C 选项与原文相反，melatonin 是帮助睡眠的；D 选项\"绝不应该在线做作业\"过于绝对，文章只是说如果有必要使用，可以采取降低亮度等措施。",
+      "label": "阅读-推理判断",
       "group": "reading_1",
-      "group_passage": "Every year, millions of phones are thrown away, causing serious environmental problems. These old phones contain harmful chemicals that can pollute the soil and water. Dr. Chen and his team wanted to change this situation.\n\nAfter five years of research, they developed a new kind of phone case made from plant fibers (纤维). Unlike plastic cases that take hundreds of years to break down, these plant-based cases can decompose (分解) naturally in just two years. \"It's like returning the material to nature,\" said Dr. Chen.\n\nWhat's more surprising is that the case can actually help plants grow. When buried in soil, it releases nutrients (养分) that make the earth more fertile. The team has tested this with tomato plants, and the results were amazing. The plants grew 20% faster than those in normal soil.\n\nThe only disadvantage is that the case costs 30% more than plastic ones. However, Dr. Chen believes that as more people buy them, the price will drop. \"We are not just making a phone case,\" he said. \"We are sacrificing a little money today to save our planet tomorrow.\"\n\nSeveral phone companies have already shown interest in this invention. If everything goes well, these eco-friendly cases will be available in stores next spring."
+      "group_passage": "Do you often use your smartphone before going to bed? Many teenagers have this habit, but scientists say it may be harmful to our health.\n\nA recent study shows that the blue light from screens can affect our sleep quality. When we look at phones or computers at night, our brains think it is still daytime. This stops our body from producing melatonin (褪黑素), a chemical that helps us sleep. As a result, we may find it hard to fall asleep or have a deep sleep.\n\nDr. Li, a sleep expert, suggests that we should stop using electronic devices (电子设备) at least one hour before bedtime. Instead, we can read books, listen to calm music, or do some light exercise. These activities help our body and mind relax and prepare for sleep.\n\nHowever, breaking the habit is not easy. Some students say they need to check messages or finish homework online. If you really have to use your phone, try to lower the screen brightness or use the night mode. This can reduce the amount of blue light.\n\nGood sleep is important for teenagers because it helps with memory and learning. By changing our bedtime habits, we can sleep better and feel more energetic during the day."
     },
     {
       "id": 16,
       "type": "reading",
-      "knowledge_point": "main_idea",
+      "knowledge_point": "main_idea_title",
       "difficulty": 3,
-      "stem": "What is the best title for the passage?",
+      "stem": "What is the main idea of the passage?",
       "options": [
-        "A. The History of Mobile Phones",
-        "B. A New Green Phone Case",
-        "C. How to Plant Tomatoes",
-        "D. The Harm of Electronic Waste"
+        "A. How to use smartphones wisely.",
+        "B. The importance of melatonin for sleep.",
+        "C. Why we shouldn't use phones before bed and how to improve sleep.",
+        "D. Different ways to do homework online."
       ],
-      "correct_answer": "B",
-      "explanation": "本题考查主旨大意/最佳标题。\n文章主要介绍Dr. Chen团队研发的一种新型环保手机壳，包括其材料、优点（可分解、滋养土壤）、缺点（价格较高）以及市场前景。\nA选项\"手机历史\"只是背景；C选项\"如何种番茄\"只是实验细节；D选项\"电子垃圾的危害\"只是开头引子。B选项\"一种新型绿色手机壳\"概括了全文核心内容。\n解题技巧：最佳标题要涵盖全文核心话题，不能过大（如D只涉及第一段），也不能过小（如C只涉及第三段），要准确反映文章说明对象及其特征（new, green/eco-friendly）。",
+      "correct_answer": "C",
+      "explanation": "这道题考查主旨大意。文章第一段提出问题：睡前使用手机可能有害健康；第二段解释原因（蓝光影响褪黑素）；第三、四段给出建议（如何改善睡眠）；第五段总结良好睡眠的重要性。因此主旨是\"为什么不应该在睡前使用手机以及如何改善睡眠\"。A 选项过于宽泛；B 选项只是文章的一个细节；D 选项与文章主旨无关。",
       "label": "阅读-主旨大意",
       "group": "reading_1",
-      "group_passage": "Every year, millions of phones are thrown away, causing serious environmental problems. These old phones contain harmful chemicals that can pollute the soil and water. Dr. Chen and his team wanted to change this situation.\n\nAfter five years of research, they developed a new kind of phone case made from plant fibers (纤维). Unlike plastic cases that take hundreds of years to break down, these plant-based cases can decompose (分解) naturally in just two years. \"It's like returning the material to nature,\" said Dr. Chen.\n\nWhat's more surprising is that the case can actually help plants grow. When buried in soil, it releases nutrients (养分) that make the earth more fertile. The team has tested this with tomato plants, and the results were amazing. The plants grew 20% faster than those in normal soil.\n\nThe only disadvantage is that the case costs 30% more than plastic ones. However, Dr. Chen believes that as more people buy them, the price will drop. \"We are not just making a phone case,\" he said. \"We are sacrificing a little money today to save our planet tomorrow.\"\n\nSeveral phone companies have already shown interest in this invention. If everything goes well, these eco-friendly cases will be available in stores next spring."
+      "group_passage": "Do you often use your smartphone before going to bed? Many teenagers have this habit, but scientists say it may be harmful to our health.\n\nA recent study shows that the blue light from screens can affect our sleep quality. When we look at phones or computers at night, our brains think it is still daytime. This stops our body from producing melatonin (褪黑素), a chemical that helps us sleep. As a result, we may find it hard to fall asleep or have a deep sleep.\n\nDr. Li, a sleep expert, suggests that we should stop using electronic devices (电子设备) at least one hour before bedtime. Instead, we can read books, listen to calm music, or do some light exercise. These activities help our body and mind relax and prepare for sleep.\n\nHowever, breaking the habit is not easy. Some students say they need to check messages or finish homework online. If you really have to use your phone, try to lower the screen brightness or use the night mode. This can reduce the amount of blue light.\n\nGood sleep is important for teenagers because it helps with memory and learning. By changing our bedtime habits, we can sleep better and feel more energetic during the day."
     },
     {
       "id": 17,
@@ -283,17 +283,17 @@
       "difficulty": 2,
       "stem": "(17)______",
       "options": [
-        "A. First of all, make a study plan and stick to it.",
-        "B. However, don't forget to leave some time for rest.",
-        "C. As a result, you will feel stressed and tired all the time.",
-        "D. On the other hand, doing sports can help you study better.",
-        "E. Then, try to use your free time wisely."
+        "A. However, it is possible to do both well with good planning.",
+        "B. As a result, they often feel tired and unhappy.",
+        "C. Then, follow your plan strictly.",
+        "D. In addition, try to finish your homework during breaks between classes.",
+        "E. Hobbies can actually help you study better if you arrange them properly."
       ],
       "correct_answer": "A",
-      "explanation": "本题考查段落主题句与逻辑顺序。\n空格后第二段开始讲\"Second\"（第二），说明此处应是\"第一\"。A选项\"First of all\"（首先）符合顺序逻辑，引出制定学习计划这一首要建议。\nB选项However表转折，用于对比；C选项As a result表结果；D选项On the other hand表并列对比；E选项Then表承接（然后），通常不用于段首总起。\n解题技巧：关注后文的\"Second\"，反推前文应为\"First\"或\"First of all\"，形成\"首先……其次……\"的逻辑链条。",
+      "explanation": "这道题考查段落衔接。前文提到\"很多学生难以平衡学业和爱好，感到压力\"，后文\"Here are some useful tips\"（以下是一些有用的建议），说明此处需要转折，表示\"然而，通过良好的规划，两者都可以做好\"，起到承上启下的作用。However 表示转折，符合逻辑。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Many students find it hard to balance study and after-school activities. They often feel stressed because they have too much homework but also want to join clubs or play sports. Here are some tips to help you manage your time better.\n\n(17)______ Write down what you need to do each day and check the list when you finish. This helps you stay organized and avoid wasting time.\n\n(18)______ For example, you can review English words while waiting for the bus, or read a book during lunch break. Small pieces of time add up to big progress.\n\n(19)______ You don't need to study for five hours without stopping. Taking short breaks every 45 minutes can improve your concentration and memory.\n\n(20)______ Physical exercise not only keeps you healthy but also makes your brain more active. So find a sport you enjoy and do it regularly.\n\nRemember, balancing study and play is important for your growth. Use these tips and you will enjoy a colorful school life."
+      "group_passage": "Many students have trouble balancing their schoolwork and hobbies. They often feel stressed because they don't know how to manage their time well. (17)______ Here are some useful tips to help you.\n\nFirst, make a timetable. Write down all your tasks and decide which ones are the most important. (18)______ This way, you won't waste time on less important things.\n\nSecond, use your free time wisely. For example, if you take the bus to school, you can review your notes or read a book. (19)______ These short periods of time can be very useful.\n\nFinally, don't give up your hobbies completely. (20)______ You can still enjoy them for a short time every day or on weekends. This helps you relax and study better.\n\nRemember, finding the right balance takes time and practice."
     },
     {
       "id": 18,
@@ -302,17 +302,17 @@
       "difficulty": 2,
       "stem": "(18)______",
       "options": [
-        "A. First of all, make a study plan and stick to it.",
-        "B. However, don't forget to leave some time for rest.",
-        "C. As a result, you will feel stressed and tired all the time.",
-        "D. On the other hand, doing sports can help you study better.",
-        "E. Then, try to use your free time wisely."
+        "A. However, it is possible to do both well with good planning.",
+        "B. As a result, they often feel tired and unhappy.",
+        "C. Then, follow your plan strictly.",
+        "D. In addition, try to finish your homework during breaks between classes.",
+        "E. Hobbies can actually help you study better if you arrange them properly."
       ],
-      "correct_answer": "E",
-      "explanation": "本题考查过渡句与例证关系。\n空格后\"For example\"举例说明如何利用碎片时间（等车时背单词、午餐时读书），因此空格处应提出\"利用空闲时间\"的建议。E选项\"Then, try to use your free time wisely\"（然后，试着明智地利用空闲时间）符合语境。\nA选项是第一条建议（已用于17题）；B选项讲休息；C选项是负面结果；D选项讲运动（与后文运动建议重复）。\n解题技巧：关注\"For example\"信号词，前文应为总述观点，后文为具体例子。Then表示顺序上的\"接下来\"，承接前文的First of all。",
+      "correct_answer": "C",
+      "explanation": "这道题考查逻辑关系。前文提到\"制定时间表，写下所有任务并决定哪些最重要\"，后文\"这样你就不会在不重要的事情上浪费时间\"，说明此处需要\"然后，严格执行你的计划\"，Then 表示顺承关系，符合制作计划后的行动步骤。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Many students find it hard to balance study and after-school activities. They often feel stressed because they have too much homework but also want to join clubs or play sports. Here are some tips to help you manage your time better.\n\n(17)______ Write down what you need to do each day and check the list when you finish. This helps you stay organized and avoid wasting time.\n\n(18)______ For example, you can review English words while waiting for the bus, or read a book during lunch break. Small pieces of time add up to big progress.\n\n(19)______ You don't need to study for five hours without stopping. Taking short breaks every 45 minutes can improve your concentration and memory.\n\n(20)______ Physical exercise not only keeps you healthy but also makes your brain more active. So find a sport you enjoy and do it regularly.\n\nRemember, balancing study and play is important for your growth. Use these tips and you will enjoy a colorful school life."
+      "group_passage": "Many students have trouble balancing their schoolwork and hobbies. They often feel stressed because they don't know how to manage their time well. (17)______ Here are some useful tips to help you.\n\nFirst, make a timetable. Write down all your tasks and decide which ones are the most important. (18)______ This way, you won't waste time on less important things.\n\nSecond, use your free time wisely. For example, if you take the bus to school, you can review your notes or read a book. (19)______ These short periods of time can be very useful.\n\nFinally, don't give up your hobbies completely. (20)______ You can still enjoy them for a short time every day or on weekends. This helps you relax and study better.\n\nRemember, finding the right balance takes time and practice."
     },
     {
       "id": 19,
@@ -321,17 +321,17 @@
       "difficulty": 2,
       "stem": "(19)______",
       "options": [
-        "A. First of all, make a study plan and stick to it.",
-        "B. However, don't forget to leave some time for rest.",
-        "C. As a result, you will feel stressed and tired all the time.",
-        "D. On the other hand, doing sports can help you study better.",
-        "E. Then, try to use your free time wisely."
+        "A. However, it is possible to do both well with good planning.",
+        "B. As a result, they often feel tired and unhappy.",
+        "C. Then, follow your plan strictly.",
+        "D. In addition, try to finish your homework during breaks between classes.",
+        "E. Hobbies can actually help you study better if you arrange them properly."
       ],
-      "correct_answer": "B",
-      "explanation": "本题考查转折与补充建议。\n空格后讲\"不需要连续学习五小时\"\"每45分钟休息可以提高专注力\"，因此空格处应建议\"休息/放松\"。B选项\"However, don't forget to leave some time for rest\"（然而，别忘了留些时间休息）符合语境，与前文的紧张学习形成转折。\nA、E已使用；C选项是负面结果，与后文积极建议不符；D选项讲运动，与休息不同。\n解题技巧：However表示语义转折，前文讲如何利用时间学习，此处转折讲也要休息，形成\"学习-休息\"的平衡建议。",
+      "correct_answer": "D",
+      "explanation": "这道题考查递进关系。前文举例说明如何利用空闲时间（在公交车上复习），此处需要另一个利用时间的例子，\"此外，试着在课间休息时完成作业\"，In addition 表示递进，补充说明另一种利用碎片时间的方法，与下文\"这些短暂的时间段可能非常有用\"衔接自然。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Many students find it hard to balance study and after-school activities. They often feel stressed because they have too much homework but also want to join clubs or play sports. Here are some tips to help you manage your time better.\n\n(17)______ Write down what you need to do each day and check the list when you finish. This helps you stay organized and avoid wasting time.\n\n(18)______ For example, you can review English words while waiting for the bus, or read a book during lunch break. Small pieces of time add up to big progress.\n\n(19)______ You don't need to study for five hours without stopping. Taking short breaks every 45 minutes can improve your concentration and memory.\n\n(20)______ Physical exercise not only keeps you healthy but also makes your brain more active. So find a sport you enjoy and do it regularly.\n\nRemember, balancing study and play is important for your growth. Use these tips and you will enjoy a colorful school life."
+      "group_passage": "Many students have trouble balancing their schoolwork and hobbies. They often feel stressed because they don't know how to manage their time well. (17)______ Here are some useful tips to help you.\n\nFirst, make a timetable. Write down all your tasks and decide which ones are the most important. (18)______ This way, you won't waste time on less important things.\n\nSecond, use your free time wisely. For example, if you take the bus to school, you can review your notes or read a book. (19)______ These short periods of time can be very useful.\n\nFinally, don't give up your hobbies completely. (20)______ You can still enjoy them for a short time every day or on weekends. This helps you relax and study better.\n\nRemember, finding the right balance takes time and practice."
     },
     {
       "id": 20,
@@ -340,17 +340,17 @@
       "difficulty": 2,
       "stem": "(20)______",
       "options": [
-        "A. First of all, make a study plan and stick to it.",
-        "B. However, don't forget to leave some time for rest.",
-        "C. As a result, you will feel stressed and tired all the time.",
-        "D. On the other hand, doing sports can help you study better.",
-        "E. Then, try to use your free time wisely."
+        "A. However, it is possible to do both well with good planning.",
+        "B. As a result, they often feel tired and unhappy.",
+        "C. Then, follow your plan strictly.",
+        "D. In addition, try to finish your homework during breaks between classes.",
+        "E. Hobbies can actually help you study better if you arrange them properly."
       ],
-      "correct_answer": "D",
-      "explanation": "本题考查并列建议与主题一致性。\n空格后内容讲\"体育锻炼不仅保持健康还能让大脑更活跃\"\"找一项喜欢的运动定期做\"，因此空格处应提出\"运动\"建议。D选项\"On the other hand, doing sports can help you study better\"（另一方面，做运动能帮助你学得更好）符合语境。\nOn the other hand用于引出并列的另一方面建议（前文讲学习计划和休息，此处讲运动），形成全面平衡的建议体系。\n解题技巧：关注后文关键词\"Physical exercise\"，与D选项中的\"doing sports\"完全对应，属于\"总-分\"结构。",
+      "correct_answer": "E",
+      "explanation": "这道题考查段落主题句。本段主题是\"不要完全放弃爱好\"，此处需要解释原因或说明爱好的好处，\"如果安排得当，爱好实际上可以帮助你更好地学习\"，既呼应了主题，又引出了下文\"你可以每天短时间或在周末享受它们\"。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Many students find it hard to balance study and after-school activities. They often feel stressed because they have too much homework but also want to join clubs or play sports. Here are some tips to help you manage your time better.\n\n(17)______ Write down what you need to do each day and check the list when you finish. This helps you stay organized and avoid wasting time.\n\n(18)______ For example, you can review English words while waiting for the bus, or read a book during lunch break. Small pieces of time add up to big progress.\n\n(19)______ You don't need to study for five hours without stopping. Taking short breaks every 45 minutes can improve your concentration and memory.\n\n(20)______ Physical exercise not only keeps you healthy but also makes your brain more active. So find a sport you enjoy and do it regularly.\n\nRemember, balancing study and play is important for your growth. Use these tips and you will enjoy a colorful school life."
+      "group_passage": "Many students have trouble balancing their schoolwork and hobbies. They often feel stressed because they don't know how to manage their time well. (17)______ Here are some useful tips to help you.\n\nFirst, make a timetable. Write down all your tasks and decide which ones are the most important. (18)______ This way, you won't waste time on less important things.\n\nSecond, use your free time wisely. For example, if you take the bus to school, you can review your notes or read a book. (19)______ These short periods of time can be very useful.\n\nFinally, don't give up your hobbies completely. (20)______ You can still enjoy them for a short time every day or on weekends. This helps you relax and study better.\n\nRemember, finding the right balance takes time and practice."
     }
   ]
 }
