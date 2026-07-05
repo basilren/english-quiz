@@ -494,24 +494,6 @@
   ],
   "errors": [
     {
-      "date": "2026-06-25",
-      "session": 1,
-      "question_id": 11,
-      "type": "cloze",
-      "knowledge_point": "cloze_logic",
-      "label": "完形填空",
-      "stem": "(11)______",
-      "options": [
-        "A. Instead",
-        "B. However",
-        "C. Therefore",
-        "D. Besides"
-      ],
-      "correct_answer": "A",
-      "student_answer": "B",
-      "explanation": "考查逻辑关系。前句说'失败不是终点'，后句说'它是学习和提高的机会'，前后是转折替代关系，用Instead（相反、反而）。However虽然也表示转折，但通常引出对比内容；Instead强调'不是前者，而是后者'，更符合'失败不是结束，而是机会'的对比关系。Therefore因此；Besides此外。"
-    },
-    {
       "date": "2026-06-26",
       "session": 1,
       "question_id": 4,
