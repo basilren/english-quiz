@@ -1,5 +1,5 @@
 ﻿{
-  "date": "2026-07-06",
+  "date": "2026-07-07",
   "session_number": 1,
   "questions": [
     {
@@ -7,15 +7,15 @@
       "type": "grammar",
       "knowledge_point": "present_perfect_vs_past_simple",
       "difficulty": 2,
-      "stem": "—______ you ______ your homework yet? —Yes, I ______ it an hour ago.",
+      "stem": "Lily ______ the novel last month, and she ______ it three times so far.",
       "options": [
-        "A. Did; finish; finished",
-        "B. Have; finished; finished",
-        "C. Have; finished; have finished",
-        "D. Did; finish; have finished"
+        "A. bought; has read",
+        "B. has bought; read",
+        "C. bought; read",
+        "D. has bought; has read"
       ],
-      "correct_answer": "B",
-      "explanation": "【解析】第一空根据yet（已经，常用于疑问句）可知用现在完成时Have...finished；第二空根据an hour ago（一小时前）这一具体过去时间状语，必须用一般过去时finished。A选项第一空错误，yet不与一般过去时连用；C选项第二空错误，ago提示过去时；D选项两空都错。",
+      "correct_answer": "A",
+      "explanation": "这道题考查现在完成时与一般过去时的区别。last month（上个月）是具体的过去时间状语，必须用一般过去时bought；so far（到目前为止）是现在完成时的标志词，且three times表示动作重复的次数，用现在完成时has read。B选项has bought错误，因为buy是瞬间动词，不能与last month连用表示过去购买的动作；C选项第二个read缺少完成时态；D选项两个都用完成时，但bought不能用完成时与last month搭配。",
       "label": "语法题"
     },
     {
@@ -23,7 +23,7 @@
       "type": "grammar",
       "knowledge_point": "relative_clause_who_which",
       "difficulty": 2,
-      "stem": "The boy ______ is playing basketball over there is my classmate Bosco.",
+      "stem": "The student ______ won the English speech contest is from Class 3.",
       "options": [
         "A. who",
         "B. which",
@@ -31,7 +31,7 @@
         "D. whose"
       ],
       "correct_answer": "A",
-      "explanation": "【解析】先行词The boy指人，且在定语从句中作主语（is playing basketball），故用who。which指物，排除B；whom指人但作宾语，排除C；whose表示所属关系，后需接名词，排除D。口诀：先行词是人作主语用who，作宾语用who/whom，表所属用whose；指物用which/that。",
+      "explanation": "这道题考查定语从句关系代词的选择。先行词是The student（指人），且关系代词在从句中作主语（won的主语），因此用who。B选项which用于指物；C选项whom用于指人但作宾语；D选项whose表示所属关系（谁的）。口诀：先行词指人作主语用who，作宾语用whom/who，指物用which/that。",
       "label": "语法题"
     },
     {
@@ -39,79 +39,79 @@
       "type": "grammar",
       "knowledge_point": "passive_voice",
       "difficulty": 1,
-      "stem": "The new library ______ in our school last year.",
+      "stem": "The new bridge near our school ______ by the workers last year.",
       "options": [
-        "A. builds",
-        "B. built",
-        "C. was built",
-        "D. is built"
+        "A. is built",
+        "B. was built",
+        "C. built",
+        "D. builds"
       ],
-      "correct_answer": "C",
-      "explanation": "【解析】主语The new library与build是被动关系（图书馆被建），且时间状语last year提示一般过去时，故用一般过去时的被动语态was built。A是主动语态一般现在时；B是主动语态一般过去时；D是被动语态一般现在时，时态不符。",
+      "correct_answer": "B",
+      "explanation": "这道题考查一般过去时的被动语态。last year（去年）表明是过去时间，bridge（桥）是被建造的，因此用一般过去时的被动语态was built（主语是单数）。A选项is built是一般现在时被动，时态不符；C选项built是主动语态过去式，但bridge不能自己建造自己；D选项builds是主动语态第三人称单数，同样逻辑错误。被动语态结构：be + 过去分词，注意时态变化。",
       "label": "语法题"
     },
     {
       "id": 4,
       "type": "grammar",
-      "knowledge_point": "modal_verbs_speculation",
+      "knowledge_point": "object_clause",
       "difficulty": 3,
-      "stem": "—Is that Mr. Wang knocking at the door? —It ______ be him. He has gone to Beijing on business.",
+      "stem": "Could you please tell me ______? I'd like to send a package.",
       "options": [
-        "A. must",
-        "B. might",
-        "C. can't",
-        "D. should"
+        "A. where is the nearest post office",
+        "B. where the nearest post office is",
+        "C. where was the nearest post office",
+        "D. where does the nearest post office"
       ],
-      "correct_answer": "C",
-      "explanation": "【解析】根据后句He has gone to Beijing（他去北京了，还没回来）可知，敲门的不可能是他。can't表示否定推测'不可能'；must表示肯定推测'一定是'；might表示可能性较小的推测'也许'；should表示'应该'。本题考查否定推测，选can't。这是你的易错点，注意has gone to表示去了未回。",
+      "correct_answer": "B",
+      "explanation": "这道题考查宾语从句的语序。宾语从句必须使用陈述语序（主语+谓语），不能用疑问语序。A和D都是疑问语序（is/does在主语前），C也是疑问语序且时态错误（was）。B选项where the nearest post office is是陈述语序（the nearest post office是主语，is是谓语），且时态与主句Could you...（委婉请求，实际是现在时）相符。",
       "label": "语法题"
     },
     {
       "id": 5,
       "type": "vocabulary",
-      "knowledge_point": "word_guessing_context",
-      "difficulty": 2,
-      "stem": "The word 'sacrificing' in the sentence 'Parents are always sacrificing their own hobbies to spend more time with their children' probably means ______.",
+      "knowledge_point": "word_meaning",
+      "difficulty": 1,
+      "stem": "These old photos bring back sweet ______ to my grandmother.",
       "options": [
-        "A. giving up",
-        "B. taking up",
-        "C. looking up",
-        "D. putting up"
+        "A. memory",
+        "B. memories",
+        "C. moment",
+        "D. moments"
       ],
-      "correct_answer": "A",
-      "explanation": "【解析】根据上下文，父母为了陪孩子而放弃自己的爱好，sacrifice意为'牺牲、放弃'。give up放弃；take up开始从事/占据；look up查阅；put up张贴/举起。这是你的薄弱点，做词义猜测题要结合上下文逻辑，看到'为了...而...'通常是取舍关系。",
+      "correct_answer": "B",
+      "explanation": "这道题考查名词复数及词义辨析。photos是复数，对应的回忆也应该是复数memories（memories是memory的复数形式）。moment表示时刻，不符合句意（照片带回的是回忆，不是时刻）。A和C是单数形式，与these old photos不匹配。固定搭配bring back memories（勾起回忆）。",
       "label": "词汇题"
     },
     {
       "id": 6,
       "type": "vocabulary",
-      "knowledge_point": "prefix_suffix",
-      "difficulty": 1,
-      "stem": "What does the prefix 'dis-' mean in words like 'dislike' and 'disagree'?",
+      "knowledge_point": "phrasal_verbs",
+      "difficulty": 2,
+      "stem": "Please ______ the lights when you leave the classroom to save electricity.",
       "options": [
-        "A. very",
-        "B. not or opposite of",
-        "C. again",
-        "D. full of"
+        "A. turn on",
+        "B. turn off",
+        "C. turn up",
+        "D. turn down"
       ],
       "correct_answer": "B",
-      "explanation": "【解析】dis-是常见否定前缀，表示'不、相反'。dislike不喜欢=not like；disagree不同意=not agree。un-也表示否定（unhappy）；re-表示再次（rewrite）；-ful表示充满（careful）。",
+      "explanation": "这道题考查动词短语辨析。turn off表示关闭（电器、水源等），符合句意离开教室关灯。turn on是打开；turn up是调大（音量）或出现；turn down是调小（音量）或拒绝。根据save electricity（节约用电）的语境，应该是关灯。",
       "label": "词汇题"
     },
     {
       "id": 7,
       "type": "vocabulary",
-      "knowledge_point": "phrasal_verbs",
+      "knowledge_point": "word_formation",
       "difficulty": 2,
-      "stem": "As a good student, you should ______ your younger sister when your parents are busy.",
+      "stem": "It is ______ to play computer games for five hours without a break. (health)",
       "options": [
-        "A. look for",
-        "B. look after",
-        "C. look up",
-        "D. look at"
+        "A. health",
+        "B. healthy",
+        "C. unhealthy",
+        "D. unhealthily"
       ],
-      "correct_answer": "B",
-      "explanation": "【解析】look after照顾，照看；look for寻找；look up查阅/抬头看；look at看。根据句意'父母忙时照顾妹妹'，选B。注意区分look短语：after跟在后面→照顾；for为了找→寻找；up向上→查阅；at在某点→看。",
+      "correct_answer": "C",
+      "explanation": "这道题考查词性转换和构词法。It is + 形容词 + to do sth.是固定句型，需要形容词。health是名词；unhealthily是副词；healthy是形容词健康的，但句意五小时不休息玩游戏应该是不健康的，因此用unhealthy（un-前缀表示否定）。",
       "label": "词汇题"
     },
     {
@@ -119,238 +119,228 @@
       "type": "cloze",
       "knowledge_point": "cloze_general",
       "difficulty": 2,
+      "group": "cloze_1",
+      "group_passage": "Last month, our school launched an innovative environmental protection project named \"Zero Waste Classroom\". The primary objective was to significantly reduce daily waste production and help students develop awareness of environmental sustainability through hands-on practical activities.\n\nEvery student was required to bring reusable lunch boxes, metal spoons, and personal water bottles instead of relying on disposable plastic containers. At first, some students found it (8)______ to consistently remember bringing their own tableware every morning. They frequently left them at home and had to awkwardly borrow from classmates. However, after persisting diligently for approximately two weeks, this practice gradually transformed into a beneficial daily (9)______ that contributed positively to both personal health and environmental conservation.\n\nThe highlight of the entire project was undoubtedly the intense inter-class recycling competition held during the final week. All students enthusiastically participated by collecting various recyclable materials including plastic bottles, cardboard, and waste paper. Through collective teamwork and dedication, my class successfully gathered over 200 kilograms of recyclable materials, (10)______ ultimately won us the prestigious first prize and a beautiful \"Green Class\" banner.\n\nThrough this deeply meaningful project, we truly understood that seemingly small daily actions can indeed make a big (11)______ to the health of our planet. Nowadays, I consistently carry an eco-friendly cloth bag when going shopping and strictly refuse all forms of single-use plastics. I firmly believe that if every individual tries their best to protect our precious environment, we will undoubtedly enjoy a (12)______ and more sustainable future for generations to come.",
       "stem": "(8)______",
       "options": [
-        "A. However",
-        "B. Therefore",
-        "C. Besides",
-        "D. Instead"
+        "A. easy",
+        "B. difficult",
+        "C. interesting",
+        "D. boring"
       ],
-      "correct_answer": "A",
-      "explanation": "【解析】前文说'起初学生觉得难'，后文说'一周后情况改善'，前后是转折关系，用However然而。Therefore因此（因果）；Besides此外（递进）；Instead代替（选择）。完形填空要注意上下文逻辑关系词。",
-      "label": "完形填空",
-      "group": "cloze_1",
-      "group_passage": "Last month, our school started a green project called \"Zero Waste Classroom\". The goal was to help students understand the importance of environmental protection.\n\nIn the beginning, many students found it hard to change their habits. They used to throw everything into one bin. (8)______, after a week of training, things began to improve. Students learned to separate waste into different groups.\n\nMy classmate Tom took the lead. He designed a poster showing how to sort garbage. His creative idea (9)______ by our teacher and won first prize. \"Small actions can make a big difference,\" Tom said.\n\nBy the end of the month, we had collected 200 kilos of recyclable materials. The money from selling these items (10)______ to buy books for children in rural areas. Everyone felt proud of our achievement.\n\nThis project taught us that protecting the environment is not just a slogan. It requires everyone's (11)______ and daily effort. Now, our \"Zero Waste\" habit has become part of our school life.\n\nThe project was so successful that other schools in our city want to (12)______ our example. We hope more people will join us to make our city greener."
+      "correct_answer": "B",
+      "explanation": "根据上下文语境，后文提到\"They frequently left them at home\"（他们经常忘在家里），说明一开始记住带餐具是困难的，因此选difficult。A选项easy与后文矛盾；C选项interesting和D选项boring在文中没有情感线索支持。",
+      "label": "完形填空"
     },
     {
       "id": 9,
       "type": "cloze",
-      "knowledge_point": "passive_voice",
-      "difficulty": 1,
+      "knowledge_point": "cloze_general",
+      "difficulty": 2,
+      "group": "cloze_1",
       "stem": "(9)______",
       "options": [
-        "A. praised",
-        "B. was praised",
-        "C. praises",
-        "D. is praising"
+        "A. habit",
+        "B. hobby",
+        "C. rule",
+        "D. game"
       ],
-      "correct_answer": "B",
-      "explanation": "【解析】主语His creative idea（他的创意）与praise（表扬）是被动关系，且事件发生在过去（last month），用一般过去时被动语态was praised。A是主动语态过去式；C是主动语态现在时；D是主动语态进行时。",
-      "label": "完形填空",
-      "group": "cloze_1",
-      "group_passage": "Last month, our school started a green project called \"Zero Waste Classroom\". The goal was to help students understand the importance of environmental protection.\n\nIn the beginning, many students found it hard to change their habits. They used to throw everything into one bin. (8)______, after a week of training, things began to improve. Students learned to separate waste into different groups.\n\nMy classmate Tom took the lead. He designed a poster showing how to sort garbage. His creative idea (9)______ by our teacher and won first prize. \"Small actions can make a big difference,\" Tom said.\n\nBy the end of the month, we had collected 200 kilos of recyclable materials. The money from selling these items (10)______ to buy books for children in rural areas. Everyone felt proud of our achievement.\n\nThis project taught us that protecting the environment is not just a slogan. It requires everyone's (11)______ and daily effort. Now, our \"Zero Waste\" habit has become part of our school life.\n\nThe project was so successful that other schools in our city want to (12)______ our example. We hope more people will join us to make our city greener."
+      "correct_answer": "A",
+      "explanation": "考查固定搭配和语境理解。前文提到\"persisting diligently for approximately two weeks\"（坚持两周），形成了习惯，habit（习惯）符合语境。hobby是爱好（用于娱乐），rule是规则，game是游戏。daily habit是固定搭配，表示日常习惯。",
+      "label": "完形填空"
     },
     {
       "id": 10,
       "type": "cloze",
-      "knowledge_point": "passive_voice",
-      "difficulty": 2,
+      "knowledge_point": "relative_clause_who_which",
+      "difficulty": 1,
+      "group": "cloze_1",
       "stem": "(10)______",
       "options": [
-        "A. used",
-        "B. was used",
-        "C. uses",
-        "D. is using"
+        "A. that",
+        "B. what",
+        "C. which",
+        "D. who"
       ],
-      "correct_answer": "B",
-      "explanation": "【解析】主语The money与use是被动关系（钱被用来...），且动作发生在过去（last month），用一般过去时被动语态was used。be used to do sth被用来做某事。",
-      "label": "完形填空",
-      "group": "cloze_1",
-      "group_passage": "Last month, our school started a green project called \"Zero Waste Classroom\". The goal was to help students understand the importance of environmental protection.\n\nIn the beginning, many students found it hard to change their habits. They used to throw everything into one bin. (8)______, after a week of training, things began to improve. Students learned to separate waste into different groups.\n\nMy classmate Tom took the lead. He designed a poster showing how to sort garbage. His creative idea (9)______ by our teacher and won first prize. \"Small actions can make a big difference,\" Tom said.\n\nBy the end of the month, we had collected 200 kilos of recyclable materials. The money from selling these items (10)______ to buy books for children in rural areas. Everyone felt proud of our achievement.\n\nThis project taught us that protecting the environment is not just a slogan. It requires everyone's (11)______ and daily effort. Now, our \"Zero Waste\" habit has become part of our school life.\n\nThe project was so successful that other schools in our city want to (12)______ our example. We hope more people will join us to make our city greener."
+      "correct_answer": "C",
+      "explanation": "考查非限制性定语从句。此处修饰前面整个句子\"my class successfully gathered over 200 kilograms of recyclable materials\"，且从句前有逗号隔开，是非限制性定语从句，用which引导（指代前面整件事）。that不能用于非限制性定语从句；what不引导定语从句；who指人。",
+      "label": "完形填空"
     },
     {
       "id": 11,
       "type": "cloze",
-      "knowledge_point": "word_form",
+      "knowledge_point": "cloze_general",
       "difficulty": 2,
+      "group": "cloze_1",
       "stem": "(11)______",
       "options": [
-        "A. participation",
-        "B. participate",
-        "C. participating",
-        "D. participated"
+        "A. decision",
+        "B. mistake",
+        "C. difference",
+        "D. progress"
       ],
-      "correct_answer": "A",
-      "explanation": "【解析】everyone's（所有人的）是名词所有格，后需接名词participation（参与）。participate是动词；participating是现在分词；participated是过去式。require one's participation需要某人的参与。",
-      "label": "完形填空",
-      "group": "cloze_1",
-      "group_passage": "Last month, our school started a green project called \"Zero Waste Classroom\". The goal was to help students understand the importance of environmental protection.\n\nIn the beginning, many students found it hard to change their habits. They used to throw everything into one bin. (8)______, after a week of training, things began to improve. Students learned to separate waste into different groups.\n\nMy classmate Tom took the lead. He designed a poster showing how to sort garbage. His creative idea (9)______ by our teacher and won first prize. \"Small actions can make a big difference,\" Tom said.\n\nBy the end of the month, we had collected 200 kilos of recyclable materials. The money from selling these items (10)______ to buy books for children in rural areas. Everyone felt proud of our achievement.\n\nThis project taught us that protecting the environment is not just a slogan. It requires everyone's (11)______ and daily effort. Now, our \"Zero Waste\" habit has become part of our school life.\n\nThe project was so successful that other schools in our city want to (12)______ our example. We hope more people will join us to make our city greener."
+      "correct_answer": "C",
+      "explanation": "考查固定短语。make a difference是固定搭配，表示有影响、起作用。句意：小小的日常行动确实能对地球健康产生重大影响。make a decision（做决定）、make a mistake（犯错误）、make progress（取得进步）均不符合句意。",
+      "label": "完形填空"
     },
     {
       "id": 12,
       "type": "cloze",
       "knowledge_point": "cloze_general",
       "difficulty": 1,
+      "group": "cloze_1",
       "stem": "(12)______",
       "options": [
-        "A. follow",
-        "B. following",
-        "C. followed",
-        "D. follows"
+        "A. worse",
+        "B. better",
+        "C. busier",
+        "D. quieter"
       ],
-      "correct_answer": "A",
-      "explanation": "【解析】want to do sth想要做某事，to后接动词原形follow。follow one's example学习某人的榜样/效仿某人。",
-      "label": "完形填空",
-      "group": "cloze_1",
-      "group_passage": "Last month, our school started a green project called \"Zero Waste Classroom\". The goal was to help students understand the importance of environmental protection.\n\nIn the beginning, many students found it hard to change their habits. They used to throw everything into one bin. (8)______, after a week of training, things began to improve. Students learned to separate waste into different groups.\n\nMy classmate Tom took the lead. He designed a poster showing how to sort garbage. His creative idea (9)______ by our teacher and won first prize. \"Small actions can make a big difference,\" Tom said.\n\nBy the end of the month, we had collected 200 kilos of recyclable materials. The money from selling these items (10)______ to buy books for children in rural areas. Everyone felt proud of our achievement.\n\nThis project taught us that protecting the environment is not just a slogan. It requires everyone's (11)______ and daily effort. Now, our \"Zero Waste\" habit has become part of our school life.\n\nThe project was so successful that other schools in our city want to (12)______ our example. We hope more people will join us to make our city greener."
+      "correct_answer": "B",
+      "explanation": "考查形容词比较级和语境逻辑。前文提到\"if everyone tries their best to protect our precious environment\"（如果每个人尽力保护环境），结果应该是更好（better）的未来。worse（更糟）与文意相反；busier（更忙）和quieter（更安静）与环保主题关联不大。",
+      "label": "完形填空"
     },
     {
       "id": 13,
       "type": "reading",
       "knowledge_point": "detail",
       "difficulty": 2,
-      "stem": "According to the passage, how many hours do teenagers spend on their smartphones daily on average?",
+      "group": "reading_1",
+      "group_passage": "Many teenagers today struggle to maintain healthy sleep habits due to heavy academic pressure and the temptation of digital devices. However, scientific research consistently demonstrates that adequate sleep is absolutely crucial for adolescent development and academic performance. A comprehensive study conducted by the National Sleep Foundation reveals that students who regularly sleep less than seven hours per night frequently experience significant difficulty concentrating during morning classes and show reduced problem-solving abilities.\n\nDr. Li Ming, a renowned sleep specialist at Beijing Hospital, provides an interesting explanation regarding memory consolidation. He describes the sleeping brain as a sophisticated computer system that systematically processes and stores information absorbed throughout the day. \"Think of sleep as pressing the save button on your computer,\" he illustrates. \"Without sufficient high-quality sleep, students may unfortunately forget approximately forty percent of the knowledge they studied previously, regardless of how hard they worked.\"\n\nHowever, achieving good sleep involves more than merely spending long hours in bed. The actual quality of sleep matters tremendously and depends on multiple environmental and behavioral factors. Experts recommend maintaining bedrooms at cool temperatures with minimal lighting, strictly avoiding electronic screens for at least one hour before bedtime, and eliminating caffeine consumption after four o'clock in the afternoon. These practices help the brain produce melatonin naturally.\n\nInterestingly, the article also mentions that incorporating a short power nap after lunch can significantly enhance memory retention and afternoon alertness. But timing is essential—ideal naps should last between twenty to thirty minutes maximum. Sleeping longer during daytime hours might actually leave you feeling groggy (昏昏沉沉的) and disoriented rather than refreshed and energized.",
+      "stem": "According to the passage, students who don't get enough sleep may forget about ______ of what they studied.",
       "options": [
-        "A. 2 hours.",
-        "B. 5 hours.",
-        "C. 7 hours.",
-        "D. 10 hours."
+        "A. 20%",
+        "B. 30%",
+        "C. 40%",
+        "D. 50%"
       ],
       "correct_answer": "C",
-      "explanation": "【解析】细节理解题。根据第一段第二句'A recent study shows that teenagers spend an average of 7 hours daily on their smartphones.'可知是7小时。注意average表示平均数，daily表示每天。做细节题要快速定位关键词，准确找到原文对应句。",
-      "label": "阅读-细节理解",
-      "group": "reading_1",
-      "group_passage": "Do you know how much time you spend on your phone every day? A recent study shows that teenagers spend an average of 7 hours daily on their smartphones. This has raised concerns among parents and educators.\n\nDr. Li, a scientist from Shenzhen University, conducted an experiment with 100 middle school students. Half of them were asked to reduce their screen time to 2 hours a day for two weeks, while the other half continued their normal usage.\n\nThe results were surprising. The group with limited screen time reported better sleep quality and higher concentration in class. \"When I stopped checking my phone every few minutes, I found more time for reading and sports,\" said one participant.\n\nHowever, completely banning (禁止) phones isn't the solution. \"Technology is not the enemy,\" Dr. Li explained. \"It's about finding a balance. We need to teach students to use phones as tools rather than letting them control our lives.\"\n\nThe study suggests setting specific \"phone-free\" periods, such as during meals and before bedtime. Schools and families should work together to help teenagers develop healthy digital habits."
+      "explanation": "细节理解题。根据第二段最后一句\"students may unfortunately forget approximately forty percent of the knowledge they studied previously\"（学生可能会忘记大约40%之前学过的知识），明确提到40%。解题技巧：细节题要找准关键词（forget/percent），回原文定位具体数字。",
+      "label": "阅读-细节理解"
     },
     {
       "id": 14,
       "type": "reading",
       "knowledge_point": "inference",
       "difficulty": 3,
-      "stem": "What can we infer from Dr. Li's experiment?",
-      "options": [
-        "A. All students hate using smartphones.",
-        "B. Reducing screen time has positive effects on students.",
-        "C. Smartphones should be banned at all schools.",
-        "D. Students don't need technology for learning."
-      ],
-      "correct_answer": "B",
-      "explanation": "【解析】推理判断题。根据第三段'The group with limited screen time reported better sleep quality and higher concentration in class'（减少屏幕时间的组报告睡眠质量更好、课堂注意力更集中）可推断出减少屏幕时间有积极影响。A说所有学生都讨厌手机，过于绝对；C说应该禁止手机，与第四段'completely banning phones isn't the solution'矛盾；D说学生不需要科技，与文意相反。推理题要基于原文信息合理推断，不能过度推理或与原文矛盾。",
-      "label": "阅读-推理判断",
       "group": "reading_1",
-      "group_passage": "Do you know how much time you spend on your phone every day? A recent study shows that teenagers spend an average of 7 hours daily on their smartphones. This has raised concerns among parents and educators.\n\nDr. Li, a scientist from Shenzhen University, conducted an experiment with 100 middle school students. Half of them were asked to reduce their screen time to 2 hours a day for two weeks, while the other half continued their normal usage.\n\nThe results were surprising. The group with limited screen time reported better sleep quality and higher concentration in class. \"When I stopped checking my phone every few minutes, I found more time for reading and sports,\" said one participant.\n\nHowever, completely banning (禁止) phones isn't the solution. \"Technology is not the enemy,\" Dr. Li explained. \"It's about finding a balance. We need to teach students to use phones as tools rather than letting them control our lives.\"\n\nThe study suggests setting specific \"phone-free\" periods, such as during meals and before bedtime. Schools and families should work together to help teenagers develop healthy digital habits."
+      "stem": "What can we infer from the passage?",
+      "options": [
+        "A. Students should completely avoid using digital devices.",
+        "B. Taking long naps during the day is beneficial for health.",
+        "C. Sleep quality is equally important as sleep quantity.",
+        "D. Teenagers need less sleep than adults to function well."
+      ],
+      "correct_answer": "C",
+      "explanation": "推理判断题。根据第三段第一、二句\"achieving good sleep involves more than merely spending long hours in bed. The actual quality of sleep matters tremendously\"（获得良好睡眠不仅仅是长时间躺在床上，睡眠质量同样极其重要），可推断出睡眠质量与睡眠时间同等重要。A选项completely avoid过于绝对；B选项与最后一段\"Sleeping longer during daytime hours might actually leave you feeling groggy\"矛盾；D选项文中未提及且与科学常识相反。",
+      "label": "阅读-推理判断"
     },
     {
       "id": 15,
       "type": "reading",
       "knowledge_point": "word_guessing",
       "difficulty": 2,
-      "stem": "What does the word 'banning' in Paragraph 4 probably mean?",
+      "group": "reading_1",
+      "stem": "What does the underlined word \"crucial\" in Paragraph 1 probably mean?",
       "options": [
-        "A. allowing",
-        "B. forbidding",
-        "C. buying",
-        "D. making"
+        "A. difficult",
+        "B. important",
+        "C. boring",
+        "D. dangerous"
       ],
       "correct_answer": "B",
-      "explanation": "【解析】词义猜测题。根据后句'Technology is not the enemy'（科技不是敌人）和'finding a balance'（寻找平衡）可知，前文说'完全禁止手机不是解决办法'，banning意为禁止=forbidding。A允许；C购买；D制作。做词义猜测题要看上下文逻辑关系，后文解释前文，通过'isn't the solution'和'enemy'可猜出是负面行为即禁止。这是你的薄弱点，要加强练习。",
-      "label": "阅读-词义猜测",
-      "group": "reading_1",
-      "group_passage": "Do you know how much time you spend on your phone every day? A recent study shows that teenagers spend an average of 7 hours daily on their smartphones. This has raised concerns among parents and educators.\n\nDr. Li, a scientist from Shenzhen University, conducted an experiment with 100 middle school students. Half of them were asked to reduce their screen time to 2 hours a day for two weeks, while the other half continued their normal usage.\n\nThe results were surprising. The group with limited screen time reported better sleep quality and higher concentration in class. \"When I stopped checking my phone every few minutes, I found more time for reading and sports,\" said one participant.\n\nHowever, completely banning (禁止) phones isn't the solution. \"Technology is not the enemy,\" Dr. Li explained. \"It's about finding a balance. We need to teach students to use phones as tools rather than letting them control our lives.\"\n\nThe study suggests setting specific \"phone-free\" periods, such as during meals and before bedtime. Schools and families should work together to help teenagers develop healthy digital habits."
+      "explanation": "词义猜测题。根据上下文，后文提到睡眠不足会导致注意力不集中、解决问题能力下降，且第二段详细说明睡眠对记忆巩固的作用，因此crucial应表示重要的（important）。difficult（困难的）、boring（无聊的）、dangerous（危险的）均不符合语境。解题技巧：通过下文对睡眠重要性的详细阐述来反推词义。",
+      "label": "阅读-词义猜测"
     },
     {
       "id": 16,
       "type": "reading",
-      "knowledge_point": "main_idea",
-      "difficulty": 2,
+      "knowledge_point": "main_idea_title",
+      "difficulty": 3,
+      "group": "reading_1",
       "stem": "What is the best title for this passage?",
       "options": [
-        "A. The History of Mobile Phones",
-        "B. How to Repair Your Smartphone",
-        "C. Finding Balance in Digital Life",
-        "D. The Danger of Reading Books"
+        "A. How to Use Computers Wisely",
+        "B. The Importance of Sleep for Teenagers",
+        "C. Ways to Improve Memory Quickly",
+        "D. Why We Should Avoid Caffeine"
       ],
-      "correct_answer": "C",
-      "explanation": "【解析】主旨大意题。文章先指出青少年使用手机时间过长的问题，再通过实验证明减少屏幕时间的好处，最后提出'寻找平衡'的解决方案，强调合理使用而非完全禁止。C选项'在数字生活中寻找平衡'最能概括全文。A手机历史，文中未提；B修理手机，偏离主题；D阅读的危险，与文章相反。主旨题要抓住首尾段和每段主题句，注意高频出现的概念（balance, screen time, habits）。这是你的薄弱点，建议多做标题归纳练习。",
-      "label": "阅读-主旨大意",
-      "group": "reading_1",
-      "group_passage": "Do you know how much time you spend on your phone every day? A recent study shows that teenagers spend an average of 7 hours daily on their smartphones. This has raised concerns among parents and educators.\n\nDr. Li, a scientist from Shenzhen University, conducted an experiment with 100 middle school students. Half of them were asked to reduce their screen time to 2 hours a day for two weeks, while the other half continued their normal usage.\n\nThe results were surprising. The group with limited screen time reported better sleep quality and higher concentration in class. \"When I stopped checking my phone every few minutes, I found more time for reading and sports,\" said one participant.\n\nHowever, completely banning (禁止) phones isn't the solution. \"Technology is not the enemy,\" Dr. Li explained. \"It's about finding a balance. We need to teach students to use phones as tools rather than letting them control our lives.\"\n\nThe study suggests setting specific \"phone-free\" periods, such as during meals and before bedtime. Schools and families should work together to help teenagers develop healthy digital habits."
+      "correct_answer": "B",
+      "explanation": "主旨大意题。文章首段提出睡眠对青少年至关重要，第二段讲睡眠与记忆的关系，第三段讲睡眠质量，第四段讲午睡，全文围绕青少年睡眠的重要性展开。A选项只涉及第二段的比喻；C选项只是睡眠作用的一部分；D选项只是第三段的细节。解题技巧：最佳标题应涵盖全文主要内容，而不是某个细节。",
+      "label": "阅读-主旨大意"
     },
     {
       "id": 17,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
+      "group": "fill_1",
+      "group_passage": "Joining extracurricular clubs represents an excellent opportunity to enrich your middle school experience and develop new friendships. However, many eighth-grade students often feel genuinely confused about maintaining an appropriate balance between club activities and academic responsibilities. Here are several practical strategies to help you navigate this challenge successfully.\n\n(17)______ Before committing to any specific organization, take time to reflect deeply on your genuine personal interests and passions. If you possess a strong love for music and singing, joining the school choir might prove absolutely perfect for you. Conversely, for those fascinated by science and technology, the robotics club would likely be an ideal choice matching your curiosity.\n\nNext, develop effective time management skills by creating a structured weekly schedule and adhering to it consistently. (18)______ Always remember that your academic performance and schoolwork should permanently remain your top priority throughout the semester.\n\n(19)______ Never hesitate to approach senior students or club leaders for valuable practical advice. These experienced individuals have successfully navigated the challenges of balancing studies with activities. Additionally, you can always consult with your teachers or school counselor if you ever feel overwhelmed by competing demands.\n\nFinally, cultivate the ability to decline additional commitments when necessary. (20)______ It is completely acceptable to occasionally skip a non-essential club meeting when facing important examinations or deadlines. Ultimately, the quality of your participation matters significantly more than the sheer quantity of clubs listed on your resume.",
       "stem": "(17)______",
       "options": [
-        "A. However, don't let hobbies take over your study time.",
-        "B. As a result, you will get better grades immediately.",
-        "C. Planning ahead is very important.",
-        "D. In addition, use your spare time wisely.",
-        "E. Finally, communicate with your parents about your plans."
+        "A. However, don't let hobbies affect your grades negatively.",
+        "B. First, choose clubs based on your personal interests.",
+        "C. As a result, you will become popular in school quickly.",
+        "D. Then, seek help from experienced senior students.",
+        "E. On the other hand, taking part in too many clubs is tiring."
       ],
-      "correct_answer": "C",
-      "explanation": "【解析】选句填空题。后文'First, make a weekly schedule'（首先制定周计划）讲的是具体规划，C选项'提前计划很重要'作为主题句引出下文。注意first提示这是第一条建议，前面需要总起句。做选句填空要看段落结构和连接词，此处是总分结构。",
-      "label": "短文填空",
-      "group": "fill_1",
-      "group_passage": "Many students struggle to balance their studies and hobbies. Here are some tips to help you manage your time better.\n\n(17)______. First, make a weekly schedule. Write down all your homework and exam dates. Then, look for free slots where you can enjoy your hobbies.\n\n(18)______. If you love playing basketball but have a test tomorrow, study first and play later. This way, you can enjoy your hobby without worry.\n\n(19)______. Use short breaks between classes to relax. Even 10 minutes of drawing or listening to music can help you feel refreshed.\n\n(20)______. Tell your family about your schedule so they can support you. Remember, balance is key to a healthy school life."
+      "correct_answer": "B",
+      "explanation": "考查段落衔接和逻辑顺序。后文出现\"Before committing to any specific organization\"（在加入任何组织之前），且提到根据兴趣选择（music/robotics），且下一段开头是Next，因此此处应是First引出的第一条建议。B选项First, choose clubs based on your personal interests（首先，基于个人兴趣选择社团）符合逻辑。",
+      "label": "短文填空"
     },
     {
       "id": 18,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
+      "group": "fill_1",
       "stem": "(18)______",
       "options": [
-        "A. However, don't let hobbies take over your study time.",
-        "B. As a result, you will get better grades immediately.",
-        "C. Planning ahead is very important.",
-        "D. In addition, use your spare time wisely.",
-        "E. Finally, communicate with your parents about your plans."
+        "A. However, don't let hobbies affect your grades negatively.",
+        "B. First, choose clubs based on your personal interests.",
+        "C. As a result, you will become popular in school quickly.",
+        "D. Then, seek help from experienced senior students.",
+        "E. On the other hand, taking part in too many clubs is tiring."
       ],
       "correct_answer": "A",
-      "explanation": "【解析】选句填空题。后文举例'如果明天有考试，先学习后打球'，强调不能让爱好影响学习，A选项'然而，不要让爱好占据学习时间'符合逻辑。However表示转折，引出与上文'找空闲时间'相对的内容，即要分清主次。",
-      "label": "短文填空",
-      "group": "fill_1",
-      "group_passage": "Many students struggle to balance their studies and hobbies. Here are some tips to help you manage your time better.\n\n(17)______. First, make a weekly schedule. Write down all your homework and exam dates. Then, look for free slots where you can enjoy your hobbies.\n\n(18)______. If you love playing basketball but have a test tomorrow, study first and play later. This way, you can enjoy your hobby without worry.\n\n(19)______. Use short breaks between classes to relax. Even 10 minutes of drawing or listening to music can help you feel refreshed.\n\n(20)______. Tell your family about your schedule so they can support you. Remember, balance is key to a healthy school life."
+      "explanation": "考查转折关系。前文讲制定时间表坚持执行，后文讲\"学业应该永远是首要任务\"，中间需要转折过渡，提醒不要因为社团影响成绩。A选项However, don't let hobbies affect your grades negatively（然而，不要让爱好负面影响你的成绩）起到转折提醒作用，连接前后逻辑。",
+      "label": "短文填空"
     },
     {
       "id": 19,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
+      "group": "fill_1",
       "stem": "(19)______",
       "options": [
-        "A. However, don't let hobbies take over your study time.",
-        "B. As a result, you will get better grades immediately.",
-        "C. Planning ahead is very important.",
-        "D. In addition, use your spare time wisely.",
-        "E. Finally, communicate with your parents about your plans."
+        "A. However, don't let hobbies affect your grades negatively.",
+        "B. First, choose clubs based on your personal interests.",
+        "C. As a result, you will become popular in school quickly.",
+        "D. Then, seek help from experienced senior students.",
+        "E. On the other hand, taking part in too many clubs is tiring."
       ],
       "correct_answer": "D",
-      "explanation": "【解析】选句填空题。后文讲'利用课间10分钟休息'，D选项'此外，明智利用碎片时间'与之对应。In addition表示递进，补充另一个建议。注意spare time与short breaks的对应关系。",
-      "label": "短文填空",
-      "group": "fill_1",
-      "group_passage": "Many students struggle to balance their studies and hobbies. Here are some tips to help you manage your time better.\n\n(17)______. First, make a weekly schedule. Write down all your homework and exam dates. Then, look for free slots where you can enjoy your hobbies.\n\n(18)______. If you love playing basketball but have a test tomorrow, study first and play later. This way, you can enjoy your hobby without worry.\n\n(19)______. Use short breaks between classes to relax. Even 10 minutes of drawing or listening to music can help you feel refreshed.\n\n(20)______. Tell your family about your schedule so they can support you. Remember, balance is key to a healthy school life."
+      "explanation": "考查段落主题句和顺序衔接。前文有First... Next...，此处应是Then...（然后/接下来）引出的第三条建议。后文提到\"approach senior students or club leaders for advice\"（向学长或社团领导寻求建议），与D选项Then, seek help from experienced senior students（然后，向有经验的学长寻求帮助）完全对应。",
+      "label": "短文填空"
     },
     {
       "id": 20,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
+      "group": "fill_1",
       "stem": "(20)______",
       "options": [
-        "A. However, don't let hobbies take over your study time.",
-        "B. As a result, you will get better grades immediately.",
-        "C. Planning ahead is very important.",
-        "D. In addition, use your spare time wisely.",
-        "E. Finally, communicate with your parents about your plans."
+        "A. However, don't let hobbies affect your grades negatively.",
+        "B. First, choose clubs based on your personal interests.",
+        "C. As a result, you will become popular in school quickly.",
+        "D. Then, seek help from experienced senior students.",
+        "E. On the other hand, taking part in too many clubs is tiring."
       ],
       "correct_answer": "E",
-      "explanation": "【解析】选句填空题。后文'Tell your family'（告诉家人）与E选项'与父母沟通你的计划'完全对应。Finally表示最后一点建议，与前面的First形成呼应。做选句填空要注意连接词（first, however, in addition, finally）和代词指代（your family=your parents）。",
-      "label": "短文填空",
-      "group": "fill_1",
-      "group_passage": "Many students struggle to balance their studies and hobbies. Here are some tips to help you manage your time better.\n\n(17)______. First, make a weekly schedule. Write down all your homework and exam dates. Then, look for free slots where you can enjoy your hobbies.\n\n(18)______. If you love playing basketball but have a test tomorrow, study first and play later. This way, you can enjoy your hobby without worry.\n\n(19)______. Use short breaks between classes to relax. Even 10 minutes of drawing or listening to music can help you feel refreshed.\n\n(20)______. Tell your family about your schedule so they can support you. Remember, balance is key to a healthy school life."
+      "explanation": "考查解释说明关系。前文提到\"learn to say no when necessary\"（必要时学会拒绝），后文解释偶尔跳过不重要的会议是可以的，因此中间需要说明为什么要拒绝/说不。E选项On the other hand, taking part in too many clubs is tiring（另一方面，参加太多社团很累）解释了为什么要学会拒绝，因为太多社团会让人疲惫，从而引出后文可以偶尔缺席的建议。",
+      "label": "短文填空"
     }
   ]
 }
