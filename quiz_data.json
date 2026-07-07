@@ -1,5 +1,5 @@
 ﻿{
-  "date": "2026-07-07",
+  "date": "2026-07-08",
   "session_number": 1,
   "questions": [
     {
@@ -7,15 +7,15 @@
       "type": "grammar",
       "knowledge_point": "present_perfect_vs_past_simple",
       "difficulty": 2,
-      "stem": "Lily ______ the novel last month, and she ______ it three times so far.",
+      "stem": "—Why are you so worried?\n—Because I ______ my keys. I ______ them in my office yesterday.",
       "options": [
-        "A. bought; has read",
-        "B. has bought; read",
-        "C. bought; read",
-        "D. has bought; has read"
+        "A. have lost; left",
+        "B. lost; have left",
+        "C. have lost; have left",
+        "D. lost; left"
       ],
       "correct_answer": "A",
-      "explanation": "这道题考查现在完成时与一般过去时的区别。last month（上个月）是具体的过去时间状语，必须用一般过去时bought；so far（到目前为止）是现在完成时的标志词，且three times表示动作重复的次数，用现在完成时has read。B选项has bought错误，因为buy是瞬间动词，不能与last month连用表示过去购买的动作；C选项第二个read缺少完成时态；D选项两个都用完成时，但bought不能用完成时与last month搭配。",
+      "explanation": "选A。第一空强调过去的动作对现在造成的影响（现在钥匙丢了，所以担心），用现在完成时have lost；第二空有明确时间状语yesterday，用一般过去时left。解题技巧：看时间标志词，yesterday/ago用过去时，强调对现在的影响用现在完成时。",
       "label": "语法题"
     },
     {
@@ -23,15 +23,15 @@
       "type": "grammar",
       "knowledge_point": "relative_clause_who_which",
       "difficulty": 2,
-      "stem": "The student ______ won the English speech contest is from Class 3.",
+      "stem": "The book ______ cover is red belongs to my sister.",
       "options": [
         "A. who",
         "B. which",
-        "C. whom",
-        "D. whose"
+        "C. whose",
+        "D. that"
       ],
-      "correct_answer": "A",
-      "explanation": "这道题考查定语从句关系代词的选择。先行词是The student（指人），且关系代词在从句中作主语（won的主语），因此用who。B选项which用于指物；C选项whom用于指人但作宾语；D选项whose表示所属关系（谁的）。口诀：先行词指人作主语用who，作宾语用whom/who，指物用which/that。",
+      "correct_answer": "C",
+      "explanation": "选C。先行词是the book，从句中cover（封面）与book是所属关系，表示'书的封面'，所以用whose作定语。who指人作主语/宾语；which/that指物作主语/宾语；whose既可指人也可指物，在从句中作定语表示所属。口诀：'谁的'就用whose。",
       "label": "语法题"
     },
     {
@@ -39,31 +39,31 @@
       "type": "grammar",
       "knowledge_point": "passive_voice",
       "difficulty": 1,
-      "stem": "The new bridge near our school ______ by the workers last year.",
+      "stem": "The problem ______ at the meeting tomorrow. Everyone should be prepared.",
       "options": [
-        "A. is built",
-        "B. was built",
-        "C. built",
-        "D. builds"
+        "A. will discuss",
+        "B. will be discussed",
+        "C. is discussing",
+        "D. discusses"
       ],
       "correct_answer": "B",
-      "explanation": "这道题考查一般过去时的被动语态。last year（去年）表明是过去时间，bridge（桥）是被建造的，因此用一般过去时的被动语态was built（主语是单数）。A选项is built是一般现在时被动，时态不符；C选项built是主动语态过去式，但bridge不能自己建造自己；D选项builds是主动语态第三人称单数，同样逻辑错误。被动语态结构：be + 过去分词，注意时态变化。",
+      "explanation": "选B。主语the problem（问题）与动词discuss（讨论）是被动关系，问题被讨论，所以用被动语态。时间状语tomorrow表明用一般将来时，一般将来时的被动结构是will be + 过去分词。A是主动语态；C是现在进行时主动；D是一般现在时主动。",
       "label": "语法题"
     },
     {
       "id": 4,
       "type": "grammar",
-      "knowledge_point": "object_clause",
+      "knowledge_point": "present_perfect_vs_past_simple",
       "difficulty": 3,
-      "stem": "Could you please tell me ______? I'd like to send a package.",
+      "stem": "—______ you ______ the film yet?\n—Yes, I ______ it with my parents last weekend.",
       "options": [
-        "A. where is the nearest post office",
-        "B. where the nearest post office is",
-        "C. where was the nearest post office",
-        "D. where does the nearest post office"
+        "A. Did; see; saw",
+        "B. Have; seen; saw",
+        "C. Have; seen; have seen",
+        "D. Did; see; have seen"
       ],
       "correct_answer": "B",
-      "explanation": "这道题考查宾语从句的语序。宾语从句必须使用陈述语序（主语+谓语），不能用疑问语序。A和D都是疑问语序（is/does在主语前），C也是疑问语序且时态错误（was）。B选项where the nearest post office is是陈述语序（the nearest post office是主语，is是谓语），且时态与主句Could you...（委婉请求，实际是现在时）相符。",
+      "explanation": "选B。第一空：yet是现在完成时的标志词，表示'已经'，用于疑问句和否定句，结构为Have/Has + 主语 + 过去分词；第二空：last weekend是明确的过去时间状语，用一般过去时saw。易错点：很多同学看到'看电影'这个动作完成了，第二空也误用完成时，但要注意ago/yesterday/last week等明确过去时间必须用一般过去时。",
       "label": "语法题"
     },
     {
@@ -71,31 +71,31 @@
       "type": "vocabulary",
       "knowledge_point": "word_meaning",
       "difficulty": 1,
-      "stem": "These old photos bring back sweet ______ to my grandmother.",
+      "stem": "We should take action to ______ the environment for our future generations.",
       "options": [
-        "A. memory",
-        "B. memories",
-        "C. moment",
-        "D. moments"
+        "A. pollute",
+        "B. protect",
+        "C. destroy",
+        "D. damage"
       ],
       "correct_answer": "B",
-      "explanation": "这道题考查名词复数及词义辨析。photos是复数，对应的回忆也应该是复数memories（memories是memory的复数形式）。moment表示时刻，不符合句意（照片带回的是回忆，不是时刻）。A和C是单数形式，与these old photos不匹配。固定搭配bring back memories（勾起回忆）。",
+      "explanation": "选B。根据句意'为了我们的后代，我们应该采取行动______环境'，应该是'保护'环境。protect保护；pollute污染；destroy破坏；damage损坏。A、C、D都是负面含义，与语境不符。",
       "label": "词汇题"
     },
     {
       "id": 6,
       "type": "vocabulary",
-      "knowledge_point": "phrasal_verbs",
+      "knowledge_point": "prefix_suffix",
       "difficulty": 2,
-      "stem": "Please ______ the lights when you leave the classroom to save electricity.",
+      "stem": "The ______ news made everyone ______. We all felt excited.",
       "options": [
-        "A. turn on",
-        "B. turn off",
-        "C. turn up",
-        "D. turn down"
+        "A. happy; happily",
+        "B. happily; happy",
+        "C. unhappy; happy",
+        "D. happy; happy"
       ],
-      "correct_answer": "B",
-      "explanation": "这道题考查动词短语辨析。turn off表示关闭（电器、水源等），符合句意离开教室关灯。turn on是打开；turn up是调大（音量）或出现；turn down是调小（音量）或拒绝。根据save electricity（节约用电）的语境，应该是关灯。",
+      "correct_answer": "D",
+      "explanation": "选D。第一空修饰名词news，用形容词happy；第二空考查make sb. + 形容词（使某人...），用happy。unhappy（不开心的）与后文excited矛盾。副词happily不能修饰名词也不能作make的宾补。技巧：make/keep/find + sb. + adj. 结构中必须用形容词。",
       "label": "词汇题"
     },
     {
@@ -103,244 +103,254 @@
       "type": "vocabulary",
       "knowledge_point": "word_formation",
       "difficulty": 2,
-      "stem": "It is ______ to play computer games for five hours without a break. (health)",
+      "stem": "It's ______ for us to finish the work in two hours. We need at least four hours.",
       "options": [
-        "A. health",
-        "B. healthy",
-        "C. unhealthy",
-        "D. unhealthily"
+        "A. possible",
+        "B. impossible",
+        "C. possibly",
+        "D. impossibly"
       ],
-      "correct_answer": "C",
-      "explanation": "这道题考查词性转换和构词法。It is + 形容词 + to do sth.是固定句型，需要形容词。health是名词；unhealthily是副词；healthy是形容词健康的，但句意五小时不休息玩游戏应该是不健康的，因此用unhealthy（un-前缀表示否定）。",
+      "correct_answer": "B",
+      "explanation": "选B。根据后文'我们需要至少四小时'，可知两小时内完成是'不可能的'。impossible（形容词）不可能的；possible可能的；possibly（副词）可能地；impossibly（副词）不可能地。句型It's + adj. + for sb. to do sth. 中必须用形容词，排除C、D。根据语境选B。",
       "label": "词汇题"
     },
     {
       "id": 8,
       "type": "cloze",
       "knowledge_point": "cloze_general",
-      "difficulty": 2,
-      "group": "cloze_1",
-      "group_passage": "Last month, our school launched an innovative environmental protection project named \"Zero Waste Classroom\". The primary objective was to significantly reduce daily waste production and help students develop awareness of environmental sustainability through hands-on practical activities.\n\nEvery student was required to bring reusable lunch boxes, metal spoons, and personal water bottles instead of relying on disposable plastic containers. At first, some students found it (8)______ to consistently remember bringing their own tableware every morning. They frequently left them at home and had to awkwardly borrow from classmates. However, after persisting diligently for approximately two weeks, this practice gradually transformed into a beneficial daily (9)______ that contributed positively to both personal health and environmental conservation.\n\nThe highlight of the entire project was undoubtedly the intense inter-class recycling competition held during the final week. All students enthusiastically participated by collecting various recyclable materials including plastic bottles, cardboard, and waste paper. Through collective teamwork and dedication, my class successfully gathered over 200 kilograms of recyclable materials, (10)______ ultimately won us the prestigious first prize and a beautiful \"Green Class\" banner.\n\nThrough this deeply meaningful project, we truly understood that seemingly small daily actions can indeed make a big (11)______ to the health of our planet. Nowadays, I consistently carry an eco-friendly cloth bag when going shopping and strictly refuse all forms of single-use plastics. I firmly believe that if every individual tries their best to protect our precious environment, we will undoubtedly enjoy a (12)______ and more sustainable future for generations to come.",
+      "difficulty": 1,
       "stem": "(8)______",
       "options": [
-        "A. easy",
-        "B. difficult",
-        "C. interesting",
-        "D. boring"
+        "A. do",
+        "B. make",
+        "C. take",
+        "D. give"
       ],
-      "correct_answer": "B",
-      "explanation": "根据上下文语境，后文提到\"They frequently left them at home\"（他们经常忘在家里），说明一开始记住带餐具是困难的，因此选difficult。A选项easy与后文矛盾；C选项interesting和D选项boring在文中没有情感线索支持。",
-      "label": "完形填空"
+      "correct_answer": "A",
+      "explanation": "选A。固定搭配do a survey（做调查）。make制作；take拿走；give给。完形填空中要注意动词与名词的固定搭配。",
+      "label": "完形填空",
+      "group": "cloze_1",
+      "group_passage": "Last month, our class had a science project about environmental protection. Everyone was excited because we could work in groups and choose our own topics. My group decided to (8)______ a survey about plastic waste in our school.\n\nWe started by (9)______ some questions for the survey. It was not easy because we needed to make sure the questions were clear and easy to understand. After that, we spent three days (10)______ out the questionnaires to students in different grades.\n\nWhen we collected all the data, we were surprised. Over 60% of students used plastic bottles every day, but only 20% of them would (11)______ these bottles for other uses. Most students just threw them away. This result made us think deeply about our daily habits.\n\nFinally, we made a poster to show our findings and gave a presentation in class. Our teacher was very (12)______ with our work. She said we had done a meaningful job. Through this project, we not only learned about science but also realized the importance of protecting our environment."
     },
     {
       "id": 9,
       "type": "cloze",
       "knowledge_point": "cloze_general",
       "difficulty": 2,
-      "group": "cloze_1",
       "stem": "(9)______",
       "options": [
-        "A. habit",
-        "B. hobby",
-        "C. rule",
-        "D. game"
+        "A. writing",
+        "B. finding",
+        "C. reading",
+        "D. answering"
       ],
       "correct_answer": "A",
-      "explanation": "考查固定搭配和语境理解。前文提到\"persisting diligently for approximately two weeks\"（坚持两周），形成了习惯，habit（习惯）符合语境。hobby是爱好（用于娱乐），rule是规则，game是游戏。daily habit是固定搭配，表示日常习惯。",
-      "label": "完形填空"
+      "explanation": "选A。根据上下文，做调查首先要'写'问题。write写；find找到；read读；answer回答。by是介词，后接动名词形式。从逻辑上看，设计调查问卷需要先编写问题。",
+      "label": "完形填空",
+      "group": "cloze_1",
+      "group_passage": "Last month, our class had a science project about environmental protection. Everyone was excited because we could work in groups and choose our own topics. My group decided to (8)______ a survey about plastic waste in our school.\n\nWe started by (9)______ some questions for the survey. It was not easy because we needed to make sure the questions were clear and easy to understand. After that, we spent three days (10)______ out the questionnaires to students in different grades.\n\nWhen we collected all the data, we were surprised. Over 60% of students used plastic bottles every day, but only 20% of them would (11)______ these bottles for other uses. Most students just threw them away. This result made us think deeply about our daily habits.\n\nFinally, we made a poster to show our findings and gave a presentation in class. Our teacher was very (12)______ with our work. She said we had done a meaningful job. Through this project, we not only learned about science but also realized the importance of protecting our environment."
     },
     {
       "id": 10,
       "type": "cloze",
-      "knowledge_point": "relative_clause_who_which",
-      "difficulty": 1,
-      "group": "cloze_1",
+      "knowledge_point": "cloze_general",
+      "difficulty": 2,
       "stem": "(10)______",
       "options": [
-        "A. that",
-        "B. what",
-        "C. which",
-        "D. who"
+        "A. giving",
+        "B. handing",
+        "C. taking",
+        "D. putting"
       ],
-      "correct_answer": "C",
-      "explanation": "考查非限制性定语从句。此处修饰前面整个句子\"my class successfully gathered over 200 kilograms of recyclable materials\"，且从句前有逗号隔开，是非限制性定语从句，用which引导（指代前面整件事）。that不能用于非限制性定语从句；what不引导定语从句；who指人。",
-      "label": "完形填空"
+      "correct_answer": "B",
+      "explanation": "选B。固定搭配hand out（分发）。give out也有分发意思，但hand out更常用于分发传单、问卷等；take out拿出；put out扑灭。根据宾语questionnaires（问卷），选handing最恰当。",
+      "label": "完形填空",
+      "group": "cloze_1",
+      "group_passage": "Last month, our class had a science project about environmental protection. Everyone was excited because we could work in groups and choose our own topics. My group decided to (8)______ a survey about plastic waste in our school.\n\nWe started by (9)______ some questions for the survey. It was not easy because we needed to make sure the questions were clear and easy to understand. After that, we spent three days (10)______ out the questionnaires to students in different grades.\n\nWhen we collected all the data, we were surprised. Over 60% of students used plastic bottles every day, but only 20% of them would (11)______ these bottles for other uses. Most students just threw them away. This result made us think deeply about our daily habits.\n\nFinally, we made a poster to show our findings and gave a presentation in class. Our teacher was very (12)______ with our work. She said we had done a meaningful job. Through this project, we not only learned about science but also realized the importance of protecting our environment."
     },
     {
       "id": 11,
       "type": "cloze",
       "knowledge_point": "cloze_general",
       "difficulty": 2,
-      "group": "cloze_1",
       "stem": "(11)______",
       "options": [
-        "A. decision",
-        "B. mistake",
-        "C. difference",
-        "D. progress"
+        "A. reuse",
+        "B. reduce",
+        "C. recycle",
+        "D. repair"
       ],
-      "correct_answer": "C",
-      "explanation": "考查固定短语。make a difference是固定搭配，表示有影响、起作用。句意：小小的日常行动确实能对地球健康产生重大影响。make a decision（做决定）、make a mistake（犯错误）、make progress（取得进步）均不符合句意。",
-      "label": "完形填空"
+      "correct_answer": "A",
+      "explanation": "选A。根据上下文'只有20%的学生会______这些瓶子做其他用途'，reuse（重新使用）符合语境，指将瓶子用于其他用途。reduce减少；recycle回收（通常指送到回收站）；repair修理。后文提到'大多数学生直接扔掉'，与之对比的是'重新使用'。",
+      "label": "完形填空",
+      "group": "cloze_1",
+      "group_passage": "Last month, our class had a science project about environmental protection. Everyone was excited because we could work in groups and choose our own topics. My group decided to (8)______ a survey about plastic waste in our school.\n\nWe started by (9)______ some questions for the survey. It was not easy because we needed to make sure the questions were clear and easy to understand. After that, we spent three days (10)______ out the questionnaires to students in different grades.\n\nWhen we collected all the data, we were surprised. Over 60% of students used plastic bottles every day, but only 20% of them would (11)______ these bottles for other uses. Most students just threw them away. This result made us think deeply about our daily habits.\n\nFinally, we made a poster to show our findings and gave a presentation in class. Our teacher was very (12)______ with our work. She said we had done a meaningful job. Through this project, we not only learned about science but also realized the importance of protecting our environment."
     },
     {
       "id": 12,
       "type": "cloze",
       "knowledge_point": "cloze_general",
       "difficulty": 1,
-      "group": "cloze_1",
       "stem": "(12)______",
       "options": [
-        "A. worse",
-        "B. better",
-        "C. busier",
-        "D. quieter"
+        "A. angry",
+        "B. pleased",
+        "C. sad",
+        "D. worried"
       ],
       "correct_answer": "B",
-      "explanation": "考查形容词比较级和语境逻辑。前文提到\"if everyone tries their best to protect our precious environment\"（如果每个人尽力保护环境），结果应该是更好（better）的未来。worse（更糟）与文意相反；busier（更忙）和quieter（更安静）与环保主题关联不大。",
-      "label": "完形填空"
+      "explanation": "选B。固定搭配be pleased with（对...满意）。根据后文'她说我们做了有意义的工作'，可知老师很'满意'。angry生气的；sad伤心的；worried担心的，均与语境不符。",
+      "label": "完形填空",
+      "group": "cloze_1",
+      "group_passage": "Last month, our class had a science project about environmental protection. Everyone was excited because we could work in groups and choose our own topics. My group decided to (8)______ a survey about plastic waste in our school.\n\nWe started by (9)______ some questions for the survey. It was not easy because we needed to make sure the questions were clear and easy to understand. After that, we spent three days (10)______ out the questionnaires to students in different grades.\n\nWhen we collected all the data, we were surprised. Over 60% of students used plastic bottles every day, but only 20% of them would (11)______ these bottles for other uses. Most students just threw them away. This result made us think deeply about our daily habits.\n\nFinally, we made a poster to show our findings and gave a presentation in class. Our teacher was very (12)______ with our work. She said we had done a meaningful job. Through this project, we not only learned about science but also realized the importance of protecting our environment."
     },
     {
       "id": 13,
       "type": "reading",
       "knowledge_point": "detail",
       "difficulty": 2,
-      "group": "reading_1",
-      "group_passage": "Many teenagers today struggle to maintain healthy sleep habits due to heavy academic pressure and the temptation of digital devices. However, scientific research consistently demonstrates that adequate sleep is absolutely crucial for adolescent development and academic performance. A comprehensive study conducted by the National Sleep Foundation reveals that students who regularly sleep less than seven hours per night frequently experience significant difficulty concentrating during morning classes and show reduced problem-solving abilities.\n\nDr. Li Ming, a renowned sleep specialist at Beijing Hospital, provides an interesting explanation regarding memory consolidation. He describes the sleeping brain as a sophisticated computer system that systematically processes and stores information absorbed throughout the day. \"Think of sleep as pressing the save button on your computer,\" he illustrates. \"Without sufficient high-quality sleep, students may unfortunately forget approximately forty percent of the knowledge they studied previously, regardless of how hard they worked.\"\n\nHowever, achieving good sleep involves more than merely spending long hours in bed. The actual quality of sleep matters tremendously and depends on multiple environmental and behavioral factors. Experts recommend maintaining bedrooms at cool temperatures with minimal lighting, strictly avoiding electronic screens for at least one hour before bedtime, and eliminating caffeine consumption after four o'clock in the afternoon. These practices help the brain produce melatonin naturally.\n\nInterestingly, the article also mentions that incorporating a short power nap after lunch can significantly enhance memory retention and afternoon alertness. But timing is essential—ideal naps should last between twenty to thirty minutes maximum. Sleeping longer during daytime hours might actually leave you feeling groggy (昏昏沉沉的) and disoriented rather than refreshed and energized.",
-      "stem": "According to the passage, students who don't get enough sleep may forget about ______ of what they studied.",
+      "stem": "Where have the scientists sent the special books according to the passage?",
       "options": [
-        "A. 20%",
-        "B. 30%",
-        "C. 40%",
-        "D. 50%"
+        "A. Europe and America",
+        "B. Africa and Asia",
+        "C. Australia and Europe",
+        "D. Asia and America"
       ],
-      "correct_answer": "C",
-      "explanation": "细节理解题。根据第二段最后一句\"students may unfortunately forget approximately forty percent of the knowledge they studied previously\"（学生可能会忘记大约40%之前学过的知识），明确提到40%。解题技巧：细节题要找准关键词（forget/percent），回原文定位具体数字。",
-      "label": "阅读-细节理解"
+      "correct_answer": "B",
+      "explanation": "选B。细节理解题。根据文章第三段第一句'The team has already sent hundreds of these books to Africa and Asia.'可知，这些书被送往了非洲和亚洲。细节题要准确定位原文，找到关键句。",
+      "label": "阅读-细节理解",
+      "group": "reading_1",
+      "group_passage": "Clean water is important for everyone, but in some poor areas, people still don't have enough clean water to drink. Recently, a group of young scientists from Australia have invented a special book that can turn dirty water into clean water.\n\nEach page of this book is a special filter (过滤器). When dirty water passes through the page, 99% of the bacteria (细菌) will be killed. The book not only provides safe drinking water but also teaches people about sanitation (卫生) and health.\n\nDr. Smith, the lead researcher, explained how it works. \"The pages are coated with silver nanoparticles (纳米颗粒),\" he said. \"These particles can kill bacteria effectively. One book can provide clean water for one person for about four years.\"\n\nThe team has already sent hundreds of these books to Africa and Asia. Local people are happy to use them. \"Before we had this book, many children got sick because of dirty water,\" said a village leader in Kenya. \"Now the situation has improved a lot.\"\n\nHowever, the scientists say this is just the first step. They are working hard to make the books cheaper so that more people can afford them. They hope that one day, everyone in the world will have access to clean water."
     },
     {
       "id": 14,
       "type": "reading",
       "knowledge_point": "inference",
       "difficulty": 3,
-      "group": "reading_1",
-      "stem": "What can we infer from the passage?",
+      "stem": "What can we infer from the last paragraph?",
       "options": [
-        "A. Students should completely avoid using digital devices.",
-        "B. Taking long naps during the day is beneficial for health.",
-        "C. Sleep quality is equally important as sleep quantity.",
-        "D. Teenagers need less sleep than adults to function well."
+        "A. The book is quite expensive now.",
+        "B. The scientists have stopped their research.",
+        "C. People in Kenya don't like the book.",
+        "D. Silver nanoparticles are harmful to humans."
       ],
-      "correct_answer": "C",
-      "explanation": "推理判断题。根据第三段第一、二句\"achieving good sleep involves more than merely spending long hours in bed. The actual quality of sleep matters tremendously\"（获得良好睡眠不仅仅是长时间躺在床上，睡眠质量同样极其重要），可推断出睡眠质量与睡眠时间同等重要。A选项completely avoid过于绝对；B选项与最后一段\"Sleeping longer during daytime hours might actually leave you feeling groggy\"矛盾；D选项文中未提及且与科学常识相反。",
-      "label": "阅读-推理判断"
+      "correct_answer": "A",
+      "explanation": "选A。推理判断题。最后一段提到'他们正在努力使书更便宜（make the books cheaper）'，可推断出现在书比较贵。B项与原文'这只是第一步'矛盾；C项与'当地人乐于使用'矛盾；D项文中未提及且与'提供安全饮用水'矛盾。推理题要基于原文信息，不能主观臆断。",
+      "label": "阅读-推理判断",
+      "group": "reading_1",
+      "group_passage": "Clean water is important for everyone, but in some poor areas, people still don't have enough clean water to drink. Recently, a group of young scientists from Australia have invented a special book that can turn dirty water into clean water.\n\nEach page of this book is a special filter (过滤器). When dirty water passes through the page, 99% of the bacteria (细菌) will be killed. The book not only provides safe drinking water but also teaches people about sanitation (卫生) and health.\n\nDr. Smith, the lead researcher, explained how it works. \"The pages are coated with silver nanoparticles (纳米颗粒),\" he said. \"These particles can kill bacteria effectively. One book can provide clean water for one person for about four years.\"\n\nThe team has already sent hundreds of these books to Africa and Asia. Local people are happy to use them. \"Before we had this book, many children got sick because of dirty water,\" said a village leader in Kenya. \"Now the situation has improved a lot.\"\n\nHowever, the scientists say this is just the first step. They are working hard to make the books cheaper so that more people can afford them. They hope that one day, everyone in the world will have access to clean water."
     },
     {
       "id": 15,
       "type": "reading",
       "knowledge_point": "word_guessing",
       "difficulty": 2,
-      "group": "reading_1",
-      "stem": "What does the underlined word \"crucial\" in Paragraph 1 probably mean?",
+      "stem": "The underlined word \"afford\" in the last paragraph probably means ______.",
       "options": [
-        "A. difficult",
-        "B. important",
-        "C. boring",
-        "D. dangerous"
+        "A. 制作",
+        "B. 负担得起",
+        "C. 喜欢",
+        "D. 发现"
       ],
       "correct_answer": "B",
-      "explanation": "词义猜测题。根据上下文，后文提到睡眠不足会导致注意力不集中、解决问题能力下降，且第二段详细说明睡眠对记忆巩固的作用，因此crucial应表示重要的（important）。difficult（困难的）、boring（无聊的）、dangerous（危险的）均不符合语境。解题技巧：通过下文对睡眠重要性的详细阐述来反推词义。",
-      "label": "阅读-词义猜测"
+      "explanation": "选B。词义猜测题。根据上下文'他们正努力使书更便宜，以便更多人能afford它们'，可猜测afford意为'负担得起'。前文的cheaper（更便宜）是重要线索。词义猜测题要注意前后文的因果、转折、递进等逻辑关系。",
+      "label": "阅读-词义猜测",
+      "group": "reading_1",
+      "group_passage": "Clean water is important for everyone, but in some poor areas, people still don't have enough clean water to drink. Recently, a group of young scientists from Australia have invented a special book that can turn dirty water into clean water.\n\nEach page of this book is a special filter (过滤器). When dirty water passes through the page, 99% of the bacteria (细菌) will be killed. The book not only provides safe drinking water but also teaches people about sanitation (卫生) and health.\n\nDr. Smith, the lead researcher, explained how it works. \"The pages are coated with silver nanoparticles (纳米颗粒),\" he said. \"These particles can kill bacteria effectively. One book can provide clean water for one person for about four years.\"\n\nThe team has already sent hundreds of these books to Africa and Asia. Local people are happy to use them. \"Before we had this book, many children got sick because of dirty water,\" said a village leader in Kenya. \"Now the situation has improved a lot.\"\n\nHowever, the scientists say this is just the first step. They are working hard to make the books cheaper so that more people can afford them. They hope that one day, everyone in the world will have access to clean water."
     },
     {
       "id": 16,
       "type": "reading",
-      "knowledge_point": "main_idea_title",
+      "knowledge_point": "main_idea",
       "difficulty": 3,
-      "group": "reading_1",
       "stem": "What is the best title for this passage?",
       "options": [
-        "A. How to Use Computers Wisely",
-        "B. The Importance of Sleep for Teenagers",
-        "C. Ways to Improve Memory Quickly",
-        "D. Why We Should Avoid Caffeine"
+        "A. The Importance of Clean Water",
+        "B. How to Kill Bacteria in Water",
+        "C. A Special Book for Clean Water",
+        "D. Life in Poor Areas"
       ],
-      "correct_answer": "B",
-      "explanation": "主旨大意题。文章首段提出睡眠对青少年至关重要，第二段讲睡眠与记忆的关系，第三段讲睡眠质量，第四段讲午睡，全文围绕青少年睡眠的重要性展开。A选项只涉及第二段的比喻；C选项只是睡眠作用的一部分；D选项只是第三段的细节。解题技巧：最佳标题应涵盖全文主要内容，而不是某个细节。",
-      "label": "阅读-主旨大意"
+      "correct_answer": "C",
+      "explanation": "选C。主旨大意题。文章主要介绍了一种能将脏水变干净的书，包括其原理、使用效果和未来发展。A项只提到水的重要性，是背景信息；B项只涉及杀菌，是细节；D项范围太广。主旨题要抓住文章核心话题，通常是高频出现的名词或概念。",
+      "label": "阅读-主旨大意",
+      "group": "reading_1",
+      "group_passage": "Clean water is important for everyone, but in some poor areas, people still don't have enough clean water to drink. Recently, a group of young scientists from Australia have invented a special book that can turn dirty water into clean water.\n\nEach page of this book is a special filter (过滤器). When dirty water passes through the page, 99% of the bacteria (细菌) will be killed. The book not only provides safe drinking water but also teaches people about sanitation (卫生) and health.\n\nDr. Smith, the lead researcher, explained how it works. \"The pages are coated with silver nanoparticles (纳米颗粒),\" he said. \"These particles can kill bacteria effectively. One book can provide clean water for one person for about four years.\"\n\nThe team has already sent hundreds of these books to Africa and Asia. Local people are happy to use them. \"Before we had this book, many children got sick because of dirty water,\" said a village leader in Kenya. \"Now the situation has improved a lot.\"\n\nHowever, the scientists say this is just the first step. They are working hard to make the books cheaper so that more people can afford them. They hope that one day, everyone in the world will have access to clean water."
     },
     {
       "id": 17,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "group": "fill_1",
-      "group_passage": "Joining extracurricular clubs represents an excellent opportunity to enrich your middle school experience and develop new friendships. However, many eighth-grade students often feel genuinely confused about maintaining an appropriate balance between club activities and academic responsibilities. Here are several practical strategies to help you navigate this challenge successfully.\n\n(17)______ Before committing to any specific organization, take time to reflect deeply on your genuine personal interests and passions. If you possess a strong love for music and singing, joining the school choir might prove absolutely perfect for you. Conversely, for those fascinated by science and technology, the robotics club would likely be an ideal choice matching your curiosity.\n\nNext, develop effective time management skills by creating a structured weekly schedule and adhering to it consistently. (18)______ Always remember that your academic performance and schoolwork should permanently remain your top priority throughout the semester.\n\n(19)______ Never hesitate to approach senior students or club leaders for valuable practical advice. These experienced individuals have successfully navigated the challenges of balancing studies with activities. Additionally, you can always consult with your teachers or school counselor if you ever feel overwhelmed by competing demands.\n\nFinally, cultivate the ability to decline additional commitments when necessary. (20)______ It is completely acceptable to occasionally skip a non-essential club meeting when facing important examinations or deadlines. Ultimately, the quality of your participation matters significantly more than the sheer quantity of clubs listed on your resume.",
       "stem": "(17)______",
       "options": [
-        "A. However, don't let hobbies affect your grades negatively.",
-        "B. First, choose clubs based on your personal interests.",
-        "C. As a result, you will become popular in school quickly.",
-        "D. Then, seek help from experienced senior students.",
-        "E. On the other hand, taking part in too many clubs is tiring."
+        "A. However, many students don't have enough time to sleep.",
+        "B. In addition, keep a good mood.",
+        "C. Try to avoid eating too much sugar and fat.",
+        "D. As a result, you will have more energy to study.",
+        "E. It helps you stay active and strong."
       ],
-      "correct_answer": "B",
-      "explanation": "考查段落衔接和逻辑顺序。后文出现\"Before committing to any specific organization\"（在加入任何组织之前），且提到根据兴趣选择（music/robotics），且下一段开头是Next，因此此处应是First引出的第一条建议。B选项First, choose clubs based on your personal interests（首先，基于个人兴趣选择社团）符合逻辑。",
-      "label": "短文填空"
+      "correct_answer": "C",
+      "explanation": "选C。前文讲'均衡饮食'，后文说'应该多吃蔬菜水果而不是垃圾食品'，因此此处应填与饮食相关的句子。C项'尽量避免吃太多糖和脂肪'承上启下，符合逻辑。选句填空要注意上下文的主题一致性。",
+      "label": "短文填空",
+      "group": "fill_1",
+      "group_passage": "It's important for us to keep healthy. Here are some useful tips for you.\n\nFirst, eat a balanced diet. (17)______ You should eat more vegetables and fruit instead of junk food. Remember that breakfast is the most important meal of the day.\n\nSecond, exercise regularly. (18)______ You don't need to do intense exercise. Walking, swimming, or playing basketball for 30 minutes every day is enough.\n\nThird, get enough sleep. Teenagers need at least 8 hours of sleep every night. (19)______ If you stay up late often, you will feel tired and can't concentrate in class.\n\n(20)______ Try to smile every day and stay positive when facing difficulties. Good mental health is also part of a healthy lifestyle."
     },
     {
       "id": 18,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "group": "fill_1",
       "stem": "(18)______",
       "options": [
-        "A. However, don't let hobbies affect your grades negatively.",
-        "B. First, choose clubs based on your personal interests.",
-        "C. As a result, you will become popular in school quickly.",
-        "D. Then, seek help from experienced senior students.",
-        "E. On the other hand, taking part in too many clubs is tiring."
+        "A. However, many students don't have enough time to sleep.",
+        "B. In addition, keep a good mood.",
+        "C. Try to avoid eating too much sugar and fat.",
+        "D. As a result, you will have more energy to study.",
+        "E. It helps you stay active and strong."
       ],
-      "correct_answer": "A",
-      "explanation": "考查转折关系。前文讲制定时间表坚持执行，后文讲\"学业应该永远是首要任务\"，中间需要转折过渡，提醒不要因为社团影响成绩。A选项However, don't let hobbies affect your grades negatively（然而，不要让爱好负面影响你的成绩）起到转折提醒作用，连接前后逻辑。",
-      "label": "短文填空"
+      "correct_answer": "E",
+      "explanation": "选E。本段主题是'exercise regularly（定期锻炼）'，E项'它帮助你保持活跃和强壮'中的It指代exercise，解释了锻炼的好处，与后文'你不需要做剧烈运动'衔接自然。",
+      "label": "短文填空",
+      "group": "fill_1",
+      "group_passage": "It's important for us to keep healthy. Here are some useful tips for you.\n\nFirst, eat a balanced diet. (17)______ You should eat more vegetables and fruit instead of junk food. Remember that breakfast is the most important meal of the day.\n\nSecond, exercise regularly. (18)______ You don't need to do intense exercise. Walking, swimming, or playing basketball for 30 minutes every day is enough.\n\nThird, get enough sleep. Teenagers need at least 8 hours of sleep every night. (19)______ If you stay up late often, you will feel tired and can't concentrate in class.\n\n(20)______ Try to smile every day and stay positive when facing difficulties. Good mental health is also part of a healthy lifestyle."
     },
     {
       "id": 19,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "group": "fill_1",
       "stem": "(19)______",
       "options": [
-        "A. However, don't let hobbies affect your grades negatively.",
-        "B. First, choose clubs based on your personal interests.",
-        "C. As a result, you will become popular in school quickly.",
-        "D. Then, seek help from experienced senior students.",
-        "E. On the other hand, taking part in too many clubs is tiring."
+        "A. However, many students don't have enough time to sleep.",
+        "B. In addition, keep a good mood.",
+        "C. Try to avoid eating too much sugar and fat.",
+        "D. As a result, you will have more energy to study.",
+        "E. It helps you stay active and strong."
       ],
-      "correct_answer": "D",
-      "explanation": "考查段落主题句和顺序衔接。前文有First... Next...，此处应是Then...（然后/接下来）引出的第三条建议。后文提到\"approach senior students or club leaders for advice\"（向学长或社团领导寻求建议），与D选项Then, seek help from experienced senior students（然后，向有经验的学长寻求帮助）完全对应。",
-      "label": "短文填空"
+      "correct_answer": "A",
+      "explanation": "选A。前文说'青少年每晚需要至少8小时睡眠'，后文说'如果你经常熬夜，你会感到疲惫'，A项'然而，许多学生没有足够的睡眠时间'起到转折过渡作用，However表示转折，引出睡眠不足的问题。",
+      "label": "短文填空",
+      "group": "fill_1",
+      "group_passage": "It's important for us to keep healthy. Here are some useful tips for you.\n\nFirst, eat a balanced diet. (17)______ You should eat more vegetables and fruit instead of junk food. Remember that breakfast is the most important meal of the day.\n\nSecond, exercise regularly. (18)______ You don't need to do intense exercise. Walking, swimming, or playing basketball for 30 minutes every day is enough.\n\nThird, get enough sleep. Teenagers need at least 8 hours of sleep every night. (19)______ If you stay up late often, you will feel tired and can't concentrate in class.\n\n(20)______ Try to smile every day and stay positive when facing difficulties. Good mental health is also part of a healthy lifestyle."
     },
     {
       "id": 20,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "group": "fill_1",
       "stem": "(20)______",
       "options": [
-        "A. However, don't let hobbies affect your grades negatively.",
-        "B. First, choose clubs based on your personal interests.",
-        "C. As a result, you will become popular in school quickly.",
-        "D. Then, seek help from experienced senior students.",
-        "E. On the other hand, taking part in too many clubs is tiring."
+        "A. However, many students don't have enough time to sleep.",
+        "B. In addition, keep a good mood.",
+        "C. Try to avoid eating too much sugar and fat.",
+        "D. As a result, you will have more energy to study.",
+        "E. It helps you stay active and strong."
       ],
-      "correct_answer": "E",
-      "explanation": "考查解释说明关系。前文提到\"learn to say no when necessary\"（必要时学会拒绝），后文解释偶尔跳过不重要的会议是可以的，因此中间需要说明为什么要拒绝/说不。E选项On the other hand, taking part in too many clubs is tiring（另一方面，参加太多社团很累）解释了为什么要学会拒绝，因为太多社团会让人疲惫，从而引出后文可以偶尔缺席的建议。",
-      "label": "短文填空"
+      "correct_answer": "B",
+      "explanation": "选B。前文讲了饮食、运动、睡眠三个方面，本段讲的是'smile every day and stay positive（保持积极）'，即心理健康。B项'In addition, keep a good mood（此外，保持好心情）'作为段落主题句，引出心理健康的内容。In addition表示递进，补充新的建议。",
+      "label": "短文填空",
+      "group": "fill_1",
+      "group_passage": "It's important for us to keep healthy. Here are some useful tips for you.\n\nFirst, eat a balanced diet. (17)______ You should eat more vegetables and fruit instead of junk food. Remember that breakfast is the most important meal of the day.\n\nSecond, exercise regularly. (18)______ You don't need to do intense exercise. Walking, swimming, or playing basketball for 30 minutes every day is enough.\n\nThird, get enough sleep. Teenagers need at least 8 hours of sleep every night. (19)______ If you stay up late often, you will feel tired and can't concentrate in class.\n\n(20)______ Try to smile every day and stay positive when facing difficulties. Good mental health is also part of a healthy lifestyle."
     }
   ]
 }
