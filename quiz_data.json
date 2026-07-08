@@ -1,21 +1,21 @@
 ﻿{
-  "date": "2026-07-08",
+  "date": "2026-07-09",
   "session_number": 1,
   "questions": [
     {
       "id": 1,
       "type": "grammar",
       "knowledge_point": "present_perfect_vs_past_simple",
-      "difficulty": 2,
-      "stem": "—Why are you so worried?\n—Because I ______ my keys. I ______ them in my office yesterday.",
+      "difficulty": 1,
+      "stem": "—I ________ the Great Wall twice. It's amazing.\n—Really? When ________ you ________ there last time?",
       "options": [
-        "A. have lost; left",
-        "B. lost; have left",
-        "C. have lost; have left",
-        "D. lost; left"
+        "A. have visited; did; go",
+        "B. visited; have; gone",
+        "C. have visited; have; gone",
+        "D. visited; did; went"
       ],
       "correct_answer": "A",
-      "explanation": "选A。第一空强调过去的动作对现在造成的影响（现在钥匙丢了，所以担心），用现在完成时have lost；第二空有明确时间状语yesterday，用一般过去时left。解题技巧：看时间标志词，yesterday/ago用过去时，强调对现在的影响用现在完成时。",
+      "explanation": "选A。第一空'twice'（两次）是现在完成时的标志词，表示过去动作对现在的影响，用have visited；第二空'last time'（上次）是一般过去时的标志，疑问句需借助助动词did，后面动词用原形go。B项第二空时态错误；C项第二空不应使用现在完成时；D项第一空缺少助动词have。",
       "label": "语法题"
     },
     {
@@ -23,31 +23,31 @@
       "type": "grammar",
       "knowledge_point": "relative_clause_who_which",
       "difficulty": 2,
-      "stem": "The book ______ cover is red belongs to my sister.",
+      "stem": "This is the scientist ________ discovered the new species in the Amazon forest.",
       "options": [
         "A. who",
         "B. which",
-        "C. whose",
-        "D. that"
+        "C. whom",
+        "D. whose"
       ],
-      "correct_answer": "C",
-      "explanation": "选C。先行词是the book，从句中cover（封面）与book是所属关系，表示'书的封面'，所以用whose作定语。who指人作主语/宾语；which/that指物作主语/宾语；whose既可指人也可指物，在从句中作定语表示所属。口诀：'谁的'就用whose。",
+      "correct_answer": "A",
+      "explanation": "选A。定语从句先行词是'the scientist'（科学家），指人，且在从句中作主语，关系代词用who。B项which指物；C项whom指人但只能作宾语；D项whose表示'谁的'，在从句中作定语。口诀：先行词是人作主语用who，作宾语用whom/who，作定语用whose。",
       "label": "语法题"
     },
     {
       "id": 3,
       "type": "grammar",
       "knowledge_point": "passive_voice",
-      "difficulty": 1,
-      "stem": "The problem ______ at the meeting tomorrow. Everyone should be prepared.",
+      "difficulty": 2,
+      "stem": "The old library ________ by the local government last year, and it looks brand new now.",
       "options": [
-        "A. will discuss",
-        "B. will be discussed",
-        "C. is discussing",
-        "D. discusses"
+        "A. is repaired",
+        "B. was repaired",
+        "C. repaired",
+        "D. has repaired"
       ],
       "correct_answer": "B",
-      "explanation": "选B。主语the problem（问题）与动词discuss（讨论）是被动关系，问题被讨论，所以用被动语态。时间状语tomorrow表明用一般将来时，一般将来时的被动结构是will be + 过去分词。A是主动语态；C是现在进行时主动；D是一般现在时主动。",
+      "explanation": "选B。主语'The old library'与动词'repair'是被动关系，需用被动语态；时间状语'last year'表明是一般过去时，因此用一般过去时的被动语态was repaired。A项是一般现在时被动，时态不符；C、D项不是被动语态。被动语态结构：be动词+过去分词。",
       "label": "语法题"
     },
     {
@@ -55,100 +55,100 @@
       "type": "grammar",
       "knowledge_point": "present_perfect_vs_past_simple",
       "difficulty": 3,
-      "stem": "—______ you ______ the film yet?\n—Yes, I ______ it with my parents last weekend.",
+      "stem": "—______ you ________ your homework yet?\n—Yes, I ________ it an hour ago.",
       "options": [
-        "A. Did; see; saw",
-        "B. Have; seen; saw",
-        "C. Have; seen; have seen",
-        "D. Did; see; have seen"
+        "A. Did; finish; finished",
+        "B. Have; finished; finished",
+        "C. Have; finished; have finished",
+        "D. Did; finish; have finished"
       ],
       "correct_answer": "B",
-      "explanation": "选B。第一空：yet是现在完成时的标志词，表示'已经'，用于疑问句和否定句，结构为Have/Has + 主语 + 过去分词；第二空：last weekend是明确的过去时间状语，用一般过去时saw。易错点：很多同学看到'看电影'这个动作完成了，第二空也误用完成时，但要注意ago/yesterday/last week等明确过去时间必须用一般过去时。",
+      "explanation": "选B。第一空'yet'（还，已经）是现在完成时的标志词，用于疑问句，结构为Have+主语+过去分词；第二空'an hour ago'（一小时前）是一般过去时的标志，用finished。A项第一空时态错误；C项第二空时态错误；D项两项时态都错误。解题关键：识别时间标志词yet和ago。",
       "label": "语法题"
     },
     {
       "id": 5,
       "type": "vocabulary",
-      "knowledge_point": "word_meaning",
+      "knowledge_point": "word_formation",
       "difficulty": 1,
-      "stem": "We should take action to ______ the environment for our future generations.",
+      "stem": "It was ________ (fair) for the teacher to give different scores to the same answer. Everyone should be treated equally.",
       "options": [
-        "A. pollute",
-        "B. protect",
-        "C. destroy",
-        "D. damage"
+        "A. unfair",
+        "B. fairness",
+        "C. fairly",
+        "D. unfairness"
       ],
-      "correct_answer": "B",
-      "explanation": "选B。根据句意'为了我们的后代，我们应该采取行动______环境'，应该是'保护'环境。protect保护；pollute污染；destroy破坏；damage损坏。A、C、D都是负面含义，与语境不符。",
+      "correct_answer": "A",
+      "explanation": "选A。根据句意'老师对相同答案给不同分数是不公平的'，需要形容词作表语，unfair（不公平的）符合。B项fairness是名词'公平'；C项fairly是副词'公平地'；D项unfairness是名词'不公平'。前缀un-表示否定，加在fair形容词前构成unfair。",
       "label": "词汇题"
     },
     {
       "id": 6,
       "type": "vocabulary",
-      "knowledge_point": "prefix_suffix",
+      "knowledge_point": "phrasal_verbs",
       "difficulty": 2,
-      "stem": "The ______ news made everyone ______. We all felt excited.",
+      "stem": "We need to ________ a better plan to solve the environmental problems in our community.",
       "options": [
-        "A. happy; happily",
-        "B. happily; happy",
-        "C. unhappy; happy",
-        "D. happy; happy"
+        "A. come up with",
+        "B. come up",
+        "C. come out",
+        "D. come across"
       ],
-      "correct_answer": "D",
-      "explanation": "选D。第一空修饰名词news，用形容词happy；第二空考查make sb. + 形容词（使某人...），用happy。unhappy（不开心的）与后文excited矛盾。副词happily不能修饰名词也不能作make的宾补。技巧：make/keep/find + sb. + adj. 结构中必须用形容词。",
+      "correct_answer": "A",
+      "explanation": "选A。come up with意为'想出，提出（计划、主意等）'，符合句意'想出更好的计划'。B项come up意为'走近，被提出'（主语通常是物）；C项come out意为'出版，出现，结果是'；D项come across意为'偶然遇到'。come up with是固定搭配，宾语是plan/idea/solution时常用。",
       "label": "词汇题"
     },
     {
       "id": 7,
       "type": "vocabulary",
-      "knowledge_point": "word_formation",
+      "knowledge_point": "word_meaning",
       "difficulty": 2,
-      "stem": "It's ______ for us to finish the work in two hours. We need at least four hours.",
+      "stem": "The instructions on the medicine bottle were so ________ that even a child could understand how to take the pills.",
       "options": [
-        "A. possible",
-        "B. impossible",
-        "C. possibly",
-        "D. impossibly"
+        "A. clear",
+        "B. difficult",
+        "C. boring",
+        "D. similar"
       ],
-      "correct_answer": "B",
-      "explanation": "选B。根据后文'我们需要至少四小时'，可知两小时内完成是'不可能的'。impossible（形容词）不可能的；possible可能的；possibly（副词）可能地；impossibly（副词）不可能地。句型It's + adj. + for sb. to do sth. 中必须用形容词，排除C、D。根据语境选B。",
+      "correct_answer": "A",
+      "explanation": "选A。根据后半句'即使小孩也能理解如何服药'，说明说明书写得'清楚'（clear）。B项difficult（困难的）与句意相反；C项boring（无聊的）和D项similar（相似的）不符合语境逻辑。通过后半句的结果推断前半句的形容词含义。",
       "label": "词汇题"
     },
     {
       "id": 8,
       "type": "cloze",
       "knowledge_point": "cloze_general",
-      "difficulty": 1,
+      "difficulty": 2,
       "stem": "(8)______",
       "options": [
-        "A. do",
-        "B. make",
-        "C. take",
-        "D. give"
+        "A. aims",
+        "B. fails",
+        "C. forgets",
+        "D. refuses"
       ],
       "correct_answer": "A",
-      "explanation": "选A。固定搭配do a survey（做调查）。make制作；take拿走；give给。完形填空中要注意动词与名词的固定搭配。",
+      "explanation": "选A。根据上下文，项目'旨在'（aims）让学校更环保，aim to do sth是固定搭配，意为'旨在做某事'。B项fails（失败）、C项forgets（忘记）、D项refuses（拒绝）均不符合语境。注意主语The project是第三人称单数，动词用aims。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our class had a science project about environmental protection. Everyone was excited because we could work in groups and choose our own topics. My group decided to (8)______ a survey about plastic waste in our school.\n\nWe started by (9)______ some questions for the survey. It was not easy because we needed to make sure the questions were clear and easy to understand. After that, we spent three days (10)______ out the questionnaires to students in different grades.\n\nWhen we collected all the data, we were surprised. Over 60% of students used plastic bottles every day, but only 20% of them would (11)______ these bottles for other uses. Most students just threw them away. This result made us think deeply about our daily habits.\n\nFinally, we made a poster to show our findings and gave a presentation in class. Our teacher was very (12)______ with our work. She said we had done a meaningful job. Through this project, we not only learned about science but also realized the importance of protecting our environment."
+      "group_passage": "Last month, our school started a new \"Green Campus\" project. As a member of the Environmental Club, I was excited to take part in it. The goal is to reduce waste and teach students about environmental protection.\n\nThe project (8)______ to make our school more eco-friendly by changing small daily habits. First, we (9)______ to collect plastic bottles in every classroom. We placed special bins in the hallways and explained the plan during morning assemblies. At first, some students didn't understand why we were doing this. They thought it was (10)______ and unnecessary to separate trash. However, after we explained that these bottles would be recycled into new products like clothing and furniture, they became more interested and started helping.\n\nEvery Friday afternoon, we (11)______ the bottles to a recycling center near our school. The workers there always praise us for our hard work and dedication. So far, we (12)______ over 500 kilograms of plastic from going into landfills. We are proud that we can help protect the environment through these small but meaningful actions. Our teachers say we are making a real difference."
     },
     {
       "id": 9,
       "type": "cloze",
       "knowledge_point": "cloze_general",
-      "difficulty": 2,
+      "difficulty": 1,
       "stem": "(9)______",
       "options": [
-        "A. writing",
-        "B. finding",
-        "C. reading",
-        "D. answering"
+        "A. decided",
+        "B. remembered",
+        "C. continued",
+        "D. regretted"
       ],
       "correct_answer": "A",
-      "explanation": "选A。根据上下文，做调查首先要'写'问题。write写；find找到；read读；answer回答。by是介词，后接动名词形式。从逻辑上看，设计调查问卷需要先编写问题。",
+      "explanation": "选A。decide to do sth意为'决定做某事'，符合句意'我们决定在每个教室收集塑料瓶'。B项remembered（记得）、C项continued（继续）、D项regretted（后悔）均不符合语境。这是叙述过去发生的事情，用一般过去时decided。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our class had a science project about environmental protection. Everyone was excited because we could work in groups and choose our own topics. My group decided to (8)______ a survey about plastic waste in our school.\n\nWe started by (9)______ some questions for the survey. It was not easy because we needed to make sure the questions were clear and easy to understand. After that, we spent three days (10)______ out the questionnaires to students in different grades.\n\nWhen we collected all the data, we were surprised. Over 60% of students used plastic bottles every day, but only 20% of them would (11)______ these bottles for other uses. Most students just threw them away. This result made us think deeply about our daily habits.\n\nFinally, we made a poster to show our findings and gave a presentation in class. Our teacher was very (12)______ with our work. She said we had done a meaningful job. Through this project, we not only learned about science but also realized the importance of protecting our environment."
+      "group_passage": "Last month, our school started a new \"Green Campus\" project. As a member of the Environmental Club, I was excited to take part in it. The goal is to reduce waste and teach students about environmental protection.\n\nThe project (8)______ to make our school more eco-friendly by changing small daily habits. First, we (9)______ to collect plastic bottles in every classroom. We placed special bins in the hallways and explained the plan during morning assemblies. At first, some students didn't understand why we were doing this. They thought it was (10)______ and unnecessary to separate trash. However, after we explained that these bottles would be recycled into new products like clothing and furniture, they became more interested and started helping.\n\nEvery Friday afternoon, we (11)______ the bottles to a recycling center near our school. The workers there always praise us for our hard work and dedication. So far, we (12)______ over 500 kilograms of plastic from going into landfills. We are proud that we can help protect the environment through these small but meaningful actions. Our teachers say we are making a real difference."
     },
     {
       "id": 10,
@@ -157,124 +157,124 @@
       "difficulty": 2,
       "stem": "(10)______",
       "options": [
-        "A. giving",
-        "B. handing",
-        "C. taking",
-        "D. putting"
+        "A. boring",
+        "B. dangerous",
+        "C. expensive",
+        "D. traditional"
       ],
-      "correct_answer": "B",
-      "explanation": "选B。固定搭配hand out（分发）。give out也有分发意思，但hand out更常用于分发传单、问卷等；take out拿出；put out扑灭。根据宾语questionnaires（问卷），选handing最恰当。",
+      "correct_answer": "A",
+      "explanation": "选A。根据and后的unnecessary（不必要的）可知，空格处应填同类负面形容词。boring（无聊的）符合'他们认为垃圾分类既无聊又不必要'。B项dangerous（危险的）、C项expensive（昂贵的）、D项traditional（传统的）均与'分类垃圾'的语境不符。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our class had a science project about environmental protection. Everyone was excited because we could work in groups and choose our own topics. My group decided to (8)______ a survey about plastic waste in our school.\n\nWe started by (9)______ some questions for the survey. It was not easy because we needed to make sure the questions were clear and easy to understand. After that, we spent three days (10)______ out the questionnaires to students in different grades.\n\nWhen we collected all the data, we were surprised. Over 60% of students used plastic bottles every day, but only 20% of them would (11)______ these bottles for other uses. Most students just threw them away. This result made us think deeply about our daily habits.\n\nFinally, we made a poster to show our findings and gave a presentation in class. Our teacher was very (12)______ with our work. She said we had done a meaningful job. Through this project, we not only learned about science but also realized the importance of protecting our environment."
+      "group_passage": "Last month, our school started a new \"Green Campus\" project. As a member of the Environmental Club, I was excited to take part in it. The goal is to reduce waste and teach students about environmental protection.\n\nThe project (8)______ to make our school more eco-friendly by changing small daily habits. First, we (9)______ to collect plastic bottles in every classroom. We placed special bins in the hallways and explained the plan during morning assemblies. At first, some students didn't understand why we were doing this. They thought it was (10)______ and unnecessary to separate trash. However, after we explained that these bottles would be recycled into new products like clothing and furniture, they became more interested and started helping.\n\nEvery Friday afternoon, we (11)______ the bottles to a recycling center near our school. The workers there always praise us for our hard work and dedication. So far, we (12)______ over 500 kilograms of plastic from going into landfills. We are proud that we can help protect the environment through these small but meaningful actions. Our teachers say we are making a real difference."
     },
     {
       "id": 11,
       "type": "cloze",
       "knowledge_point": "cloze_general",
-      "difficulty": 2,
+      "difficulty": 1,
       "stem": "(11)______",
       "options": [
-        "A. reuse",
-        "B. reduce",
-        "C. recycle",
-        "D. repair"
+        "A. take",
+        "B. sell",
+        "C. lend",
+        "D. show"
       ],
       "correct_answer": "A",
-      "explanation": "选A。根据上下文'只有20%的学生会______这些瓶子做其他用途'，reuse（重新使用）符合语境，指将瓶子用于其他用途。reduce减少；recycle回收（通常指送到回收站）；repair修理。后文提到'大多数学生直接扔掉'，与之对比的是'重新使用'。",
+      "explanation": "选A。take...to...意为'把……带到……'，符合句意'我们把瓶子带到回收中心'。B项sell（卖）不符合语境（学生是收集后送去回收，不是售卖）；C项lend（借出）、D项show（展示）搭配不当。take sth to sp是常用搭配。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our class had a science project about environmental protection. Everyone was excited because we could work in groups and choose our own topics. My group decided to (8)______ a survey about plastic waste in our school.\n\nWe started by (9)______ some questions for the survey. It was not easy because we needed to make sure the questions were clear and easy to understand. After that, we spent three days (10)______ out the questionnaires to students in different grades.\n\nWhen we collected all the data, we were surprised. Over 60% of students used plastic bottles every day, but only 20% of them would (11)______ these bottles for other uses. Most students just threw them away. This result made us think deeply about our daily habits.\n\nFinally, we made a poster to show our findings and gave a presentation in class. Our teacher was very (12)______ with our work. She said we had done a meaningful job. Through this project, we not only learned about science but also realized the importance of protecting our environment."
+      "group_passage": "Last month, our school started a new \"Green Campus\" project. As a member of the Environmental Club, I was excited to take part in it. The goal is to reduce waste and teach students about environmental protection.\n\nThe project (8)______ to make our school more eco-friendly by changing small daily habits. First, we (9)______ to collect plastic bottles in every classroom. We placed special bins in the hallways and explained the plan during morning assemblies. At first, some students didn't understand why we were doing this. They thought it was (10)______ and unnecessary to separate trash. However, after we explained that these bottles would be recycled into new products like clothing and furniture, they became more interested and started helping.\n\nEvery Friday afternoon, we (11)______ the bottles to a recycling center near our school. The workers there always praise us for our hard work and dedication. So far, we (12)______ over 500 kilograms of plastic from going into landfills. We are proud that we can help protect the environment through these small but meaningful actions. Our teachers say we are making a real difference."
     },
     {
       "id": 12,
       "type": "cloze",
-      "knowledge_point": "cloze_general",
-      "difficulty": 1,
+      "knowledge_point": "present_perfect",
+      "difficulty": 2,
       "stem": "(12)______",
       "options": [
-        "A. angry",
-        "B. pleased",
-        "C. sad",
-        "D. worried"
+        "A. collected",
+        "B. have collected",
+        "C. had collected",
+        "D. were collecting"
       ],
       "correct_answer": "B",
-      "explanation": "选B。固定搭配be pleased with（对...满意）。根据后文'她说我们做了有意义的工作'，可知老师很'满意'。angry生气的；sad伤心的；worried担心的，均与语境不符。",
+      "explanation": "选B。so far（到目前为止）是现在完成时的标志词，表示从过去持续到现在的动作，用have collected。A项是一般过去时，仅表示过去动作；C项是过去完成时，需有过去时间作为参照；D项是过去进行时，表示过去正在进行的动作。注意主语we是第一人称复数，用have。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our class had a science project about environmental protection. Everyone was excited because we could work in groups and choose our own topics. My group decided to (8)______ a survey about plastic waste in our school.\n\nWe started by (9)______ some questions for the survey. It was not easy because we needed to make sure the questions were clear and easy to understand. After that, we spent three days (10)______ out the questionnaires to students in different grades.\n\nWhen we collected all the data, we were surprised. Over 60% of students used plastic bottles every day, but only 20% of them would (11)______ these bottles for other uses. Most students just threw them away. This result made us think deeply about our daily habits.\n\nFinally, we made a poster to show our findings and gave a presentation in class. Our teacher was very (12)______ with our work. She said we had done a meaningful job. Through this project, we not only learned about science but also realized the importance of protecting our environment."
+      "group_passage": "Last month, our school started a new \"Green Campus\" project. As a member of the Environmental Club, I was excited to take part in it. The goal is to reduce waste and teach students about environmental protection.\n\nThe project (8)______ to make our school more eco-friendly by changing small daily habits. First, we (9)______ to collect plastic bottles in every classroom. We placed special bins in the hallways and explained the plan during morning assemblies. At first, some students didn't understand why we were doing this. They thought it was (10)______ and unnecessary to separate trash. However, after we explained that these bottles would be recycled into new products like clothing and furniture, they became more interested and started helping.\n\nEvery Friday afternoon, we (11)______ the bottles to a recycling center near our school. The workers there always praise us for our hard work and dedication. So far, we (12)______ over 500 kilograms of plastic from going into landfills. We are proud that we can help protect the environment through these small but meaningful actions. Our teachers say we are making a real difference."
     },
     {
       "id": 13,
       "type": "reading",
       "knowledge_point": "detail",
       "difficulty": 2,
-      "stem": "Where have the scientists sent the special books according to the passage?",
+      "stem": "When was bioplastic first developed according to the passage?",
       "options": [
-        "A. Europe and America",
-        "B. Africa and Asia",
-        "C. Australia and Europe",
-        "D. Asia and America"
+        "A. In the 1980s.",
+        "B. In the 1990s.",
+        "C. In the 2000s.",
+        "D. Last year."
       ],
       "correct_answer": "B",
-      "explanation": "选B。细节理解题。根据文章第三段第一句'The team has already sent hundreds of these books to Africa and Asia.'可知，这些书被送往了非洲和亚洲。细节题要准确定位原文，找到关键句。",
+      "explanation": "选B。细节理解题。根据文章第二段第一句'Scientists first developed bioplastic in the 1990s'（科学家们在20世纪90年代首次开发出生物塑料），可知答案是20世纪90年代。A、C、D项时间与原文不符。细节题解题技巧：根据题干关键词'first developed'定位到原文找对应信息。",
       "label": "阅读-细节理解",
       "group": "reading_1",
-      "group_passage": "Clean water is important for everyone, but in some poor areas, people still don't have enough clean water to drink. Recently, a group of young scientists from Australia have invented a special book that can turn dirty water into clean water.\n\nEach page of this book is a special filter (过滤器). When dirty water passes through the page, 99% of the bacteria (细菌) will be killed. The book not only provides safe drinking water but also teaches people about sanitation (卫生) and health.\n\nDr. Smith, the lead researcher, explained how it works. \"The pages are coated with silver nanoparticles (纳米颗粒),\" he said. \"These particles can kill bacteria effectively. One book can provide clean water for one person for about four years.\"\n\nThe team has already sent hundreds of these books to Africa and Asia. Local people are happy to use them. \"Before we had this book, many children got sick because of dirty water,\" said a village leader in Kenya. \"Now the situation has improved a lot.\"\n\nHowever, the scientists say this is just the first step. They are working hard to make the books cheaper so that more people can afford them. They hope that one day, everyone in the world will have access to clean water."
+      "group_passage": "Have you ever heard of \"bioplastic\"? It is a new kind of material that looks like plastic but is made from plants like corn or sugarcane. Unlike traditional plastic, which comes from oil and takes hundreds of years to break down, bioplastic can decompose (分解) in just a few months under the right conditions.\n\nScientists first developed bioplastic in the 1990s, but it was too expensive for widespread use. Now, with advanced technology, the production cost has dropped significantly. Many food companies are starting to use it for packaging sandwiches, drinks, and snacks. Some supermarkets have even replaced their plastic bags with bioplastic ones.\n\nHowever, bioplastic is not a perfect solution. It needs specific industrial conditions to decompose properly. If it ends up in the ocean or buried deep in a landfill (垃圾填埋场) without oxygen, it might not break down as quickly as expected. Also, growing crops specifically for bioplastic production requires a lot of water and agricultural land, which could otherwise be used for food production.\n\nDespite these challenges, many environmental experts believe bioplastic is still a better choice than traditional plastic for certain uses. \"We need to reduce our overall plastic consumption,\" says Dr. Green, a leading environmental scientist. \"But for products that require packaging, bioplastic represents a positive step toward sustainability.\""
     },
     {
       "id": 14,
       "type": "reading",
-      "knowledge_point": "inference",
-      "difficulty": 3,
-      "stem": "What can we infer from the last paragraph?",
+      "knowledge_point": "word_guessing_context",
+      "difficulty": 2,
+      "stem": "The underlined word \"decompose\" in Paragraph 1 probably means ________.",
       "options": [
-        "A. The book is quite expensive now.",
-        "B. The scientists have stopped their research.",
-        "C. People in Kenya don't like the book.",
-        "D. Silver nanoparticles are harmful to humans."
+        "A. 生产",
+        "B. 溶解",
+        "C. 分解",
+        "D. 回收"
       ],
-      "correct_answer": "A",
-      "explanation": "选A。推理判断题。最后一段提到'他们正在努力使书更便宜（make the books cheaper）'，可推断出现在书比较贵。B项与原文'这只是第一步'矛盾；C项与'当地人乐于使用'矛盾；D项文中未提及且与'提供安全饮用水'矛盾。推理题要基于原文信息，不能主观臆断。",
-      "label": "阅读-推理判断",
+      "correct_answer": "C",
+      "explanation": "选C。词义猜测题。根据第一段对比'traditional plastic...takes hundreds of years to break down'（传统塑料需要数百年才能break down）和'bioplastic can decompose in just a few months'，可知decompose与break down（分解）意思相近，因此选'分解'。A项produce（生产）、B项dissolve（溶解，通常指液体中溶解）、D项recycle（回收）均不符合语境。通过对比结构和同义词替换可推断词义。",
+      "label": "阅读-词义猜测",
       "group": "reading_1",
-      "group_passage": "Clean water is important for everyone, but in some poor areas, people still don't have enough clean water to drink. Recently, a group of young scientists from Australia have invented a special book that can turn dirty water into clean water.\n\nEach page of this book is a special filter (过滤器). When dirty water passes through the page, 99% of the bacteria (细菌) will be killed. The book not only provides safe drinking water but also teaches people about sanitation (卫生) and health.\n\nDr. Smith, the lead researcher, explained how it works. \"The pages are coated with silver nanoparticles (纳米颗粒),\" he said. \"These particles can kill bacteria effectively. One book can provide clean water for one person for about four years.\"\n\nThe team has already sent hundreds of these books to Africa and Asia. Local people are happy to use them. \"Before we had this book, many children got sick because of dirty water,\" said a village leader in Kenya. \"Now the situation has improved a lot.\"\n\nHowever, the scientists say this is just the first step. They are working hard to make the books cheaper so that more people can afford them. They hope that one day, everyone in the world will have access to clean water."
+      "group_passage": "Have you ever heard of \"bioplastic\"? It is a new kind of material that looks like plastic but is made from plants like corn or sugarcane. Unlike traditional plastic, which comes from oil and takes hundreds of years to break down, bioplastic can decompose (分解) in just a few months under the right conditions.\n\nScientists first developed bioplastic in the 1990s, but it was too expensive for widespread use. Now, with advanced technology, the production cost has dropped significantly. Many food companies are starting to use it for packaging sandwiches, drinks, and snacks. Some supermarkets have even replaced their plastic bags with bioplastic ones.\n\nHowever, bioplastic is not a perfect solution. It needs specific industrial conditions to decompose properly. If it ends up in the ocean or buried deep in a landfill (垃圾填埋场) without oxygen, it might not break down as quickly as expected. Also, growing crops specifically for bioplastic production requires a lot of water and agricultural land, which could otherwise be used for food production.\n\nDespite these challenges, many environmental experts believe bioplastic is still a better choice than traditional plastic for certain uses. \"We need to reduce our overall plastic consumption,\" says Dr. Green, a leading environmental scientist. \"But for products that require packaging, bioplastic represents a positive step toward sustainability.\""
     },
     {
       "id": 15,
       "type": "reading",
-      "knowledge_point": "word_guessing",
-      "difficulty": 2,
-      "stem": "The underlined word \"afford\" in the last paragraph probably means ______.",
+      "knowledge_point": "inference",
+      "difficulty": 3,
+      "stem": "What can we infer from Dr. Green's words in the last paragraph?",
       "options": [
-        "A. 制作",
-        "B. 负担得起",
-        "C. 喜欢",
-        "D. 发现"
+        "A. We should stop using all plastics immediately.",
+        "B. Bioplastic is the perfect solution to pollution.",
+        "C. Reducing plastic use is important, but bioplastic helps.",
+        "D. Traditional plastic is better than bioplastic."
       ],
-      "correct_answer": "B",
-      "explanation": "选B。词义猜测题。根据上下文'他们正努力使书更便宜，以便更多人能afford它们'，可猜测afford意为'负担得起'。前文的cheaper（更便宜）是重要线索。词义猜测题要注意前后文的因果、转折、递进等逻辑关系。",
-      "label": "阅读-词义猜测",
+      "correct_answer": "C",
+      "explanation": "选C。推理判断题。根据最后一段Dr. Green的话'We need to reduce our overall plastic consumption'（我们需要减少整体塑料消费）和'bioplastic represents a positive step'（生物塑料代表积极的一步），可推断出'减少塑料使用很重要，但生物塑料有帮助'。A项'立即停止使用所有塑料'过于绝对；B项'完美解决方案'与原文'not a perfect solution'矛盾；D项与原文观点相反。推理题需根据原文信息合理推断，不能过度推断。",
+      "label": "阅读-推理判断",
       "group": "reading_1",
-      "group_passage": "Clean water is important for everyone, but in some poor areas, people still don't have enough clean water to drink. Recently, a group of young scientists from Australia have invented a special book that can turn dirty water into clean water.\n\nEach page of this book is a special filter (过滤器). When dirty water passes through the page, 99% of the bacteria (细菌) will be killed. The book not only provides safe drinking water but also teaches people about sanitation (卫生) and health.\n\nDr. Smith, the lead researcher, explained how it works. \"The pages are coated with silver nanoparticles (纳米颗粒),\" he said. \"These particles can kill bacteria effectively. One book can provide clean water for one person for about four years.\"\n\nThe team has already sent hundreds of these books to Africa and Asia. Local people are happy to use them. \"Before we had this book, many children got sick because of dirty water,\" said a village leader in Kenya. \"Now the situation has improved a lot.\"\n\nHowever, the scientists say this is just the first step. They are working hard to make the books cheaper so that more people can afford them. They hope that one day, everyone in the world will have access to clean water."
+      "group_passage": "Have you ever heard of \"bioplastic\"? It is a new kind of material that looks like plastic but is made from plants like corn or sugarcane. Unlike traditional plastic, which comes from oil and takes hundreds of years to break down, bioplastic can decompose (分解) in just a few months under the right conditions.\n\nScientists first developed bioplastic in the 1990s, but it was too expensive for widespread use. Now, with advanced technology, the production cost has dropped significantly. Many food companies are starting to use it for packaging sandwiches, drinks, and snacks. Some supermarkets have even replaced their plastic bags with bioplastic ones.\n\nHowever, bioplastic is not a perfect solution. It needs specific industrial conditions to decompose properly. If it ends up in the ocean or buried deep in a landfill (垃圾填埋场) without oxygen, it might not break down as quickly as expected. Also, growing crops specifically for bioplastic production requires a lot of water and agricultural land, which could otherwise be used for food production.\n\nDespite these challenges, many environmental experts believe bioplastic is still a better choice than traditional plastic for certain uses. \"We need to reduce our overall plastic consumption,\" says Dr. Green, a leading environmental scientist. \"But for products that require packaging, bioplastic represents a positive step toward sustainability.\""
     },
     {
       "id": 16,
       "type": "reading",
-      "knowledge_point": "main_idea",
+      "knowledge_point": "main_idea_title",
       "difficulty": 3,
-      "stem": "What is the best title for this passage?",
+      "stem": "What is the best title for the passage?",
       "options": [
-        "A. The Importance of Clean Water",
-        "B. How to Kill Bacteria in Water",
-        "C. A Special Book for Clean Water",
-        "D. Life in Poor Areas"
+        "A. The History of Plastic",
+        "B. A New Material Called Bioplastic",
+        "C. How to Save the Ocean",
+        "D. The Life of an Environmental Scientist"
       ],
-      "correct_answer": "C",
-      "explanation": "选C。主旨大意题。文章主要介绍了一种能将脏水变干净的书，包括其原理、使用效果和未来发展。A项只提到水的重要性，是背景信息；B项只涉及杀菌，是细节；D项范围太广。主旨题要抓住文章核心话题，通常是高频出现的名词或概念。",
+      "correct_answer": "B",
+      "explanation": "选B。主旨大意题。文章围绕生物塑料（bioplastic）展开，介绍了它的定义、历史、优点和缺点，因此'A New Material Called Bioplastic'最能概括全文。A项'塑料的历史'过于宽泛，文章只涉及生物塑料；C项'如何拯救海洋'只是文章提及的一个方面；D项'环境科学家的生活'偏离主题。标题要准确概括文章核心内容，通常主题词会在文中多次出现。",
       "label": "阅读-主旨大意",
       "group": "reading_1",
-      "group_passage": "Clean water is important for everyone, but in some poor areas, people still don't have enough clean water to drink. Recently, a group of young scientists from Australia have invented a special book that can turn dirty water into clean water.\n\nEach page of this book is a special filter (过滤器). When dirty water passes through the page, 99% of the bacteria (细菌) will be killed. The book not only provides safe drinking water but also teaches people about sanitation (卫生) and health.\n\nDr. Smith, the lead researcher, explained how it works. \"The pages are coated with silver nanoparticles (纳米颗粒),\" he said. \"These particles can kill bacteria effectively. One book can provide clean water for one person for about four years.\"\n\nThe team has already sent hundreds of these books to Africa and Asia. Local people are happy to use them. \"Before we had this book, many children got sick because of dirty water,\" said a village leader in Kenya. \"Now the situation has improved a lot.\"\n\nHowever, the scientists say this is just the first step. They are working hard to make the books cheaper so that more people can afford them. They hope that one day, everyone in the world will have access to clean water."
+      "group_passage": "Have you ever heard of \"bioplastic\"? It is a new kind of material that looks like plastic but is made from plants like corn or sugarcane. Unlike traditional plastic, which comes from oil and takes hundreds of years to break down, bioplastic can decompose (分解) in just a few months under the right conditions.\n\nScientists first developed bioplastic in the 1990s, but it was too expensive for widespread use. Now, with advanced technology, the production cost has dropped significantly. Many food companies are starting to use it for packaging sandwiches, drinks, and snacks. Some supermarkets have even replaced their plastic bags with bioplastic ones.\n\nHowever, bioplastic is not a perfect solution. It needs specific industrial conditions to decompose properly. If it ends up in the ocean or buried deep in a landfill (垃圾填埋场) without oxygen, it might not break down as quickly as expected. Also, growing crops specifically for bioplastic production requires a lot of water and agricultural land, which could otherwise be used for food production.\n\nDespite these challenges, many environmental experts believe bioplastic is still a better choice than traditional plastic for certain uses. \"We need to reduce our overall plastic consumption,\" says Dr. Green, a leading environmental scientist. \"But for products that require packaging, bioplastic represents a positive step toward sustainability.\""
     },
     {
       "id": 17,
@@ -283,17 +283,17 @@
       "difficulty": 2,
       "stem": "(17)______",
       "options": [
-        "A. However, many students don't have enough time to sleep.",
-        "B. In addition, keep a good mood.",
-        "C. Try to avoid eating too much sugar and fat.",
-        "D. As a result, you will have more energy to study.",
-        "E. It helps you stay active and strong."
+        "A. First, find books you enjoy.",
+        "B. Second, make it a daily routine.",
+        "C. However, reading too fast is not good.",
+        "D. Remove any distractions around you.",
+        "E. Finally, share what you've read with others."
       ],
-      "correct_answer": "C",
-      "explanation": "选C。前文讲'均衡饮食'，后文说'应该多吃蔬菜水果而不是垃圾食品'，因此此处应填与饮食相关的句子。C项'尽量避免吃太多糖和脂肪'承上启下，符合逻辑。选句填空要注意上下文的主题一致性。",
+      "correct_answer": "A",
+      "explanation": "选A。根据后文'Choose books that match your interests'（选择符合你兴趣的书）可知，本段建议'首先，找到你喜欢的书'。A项'First, find books you enjoy'与之对应。B项是第二步建议；D项是关于环境的建议；C、E项与此处语境不符。选句子填空要注意段落主题一致性。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "It's important for us to keep healthy. Here are some useful tips for you.\n\nFirst, eat a balanced diet. (17)______ You should eat more vegetables and fruit instead of junk food. Remember that breakfast is the most important meal of the day.\n\nSecond, exercise regularly. (18)______ You don't need to do intense exercise. Walking, swimming, or playing basketball for 30 minutes every day is enough.\n\nThird, get enough sleep. Teenagers need at least 8 hours of sleep every night. (19)______ If you stay up late often, you will feel tired and can't concentrate in class.\n\n(20)______ Try to smile every day and stay positive when facing difficulties. Good mental health is also part of a healthy lifestyle."
+      "group_passage": "Reading is an important part of our daily life and schoolwork. However, many middle school students find it difficult to form a good reading habit in their busy schedules. Here are some practical tips to help you become a better reader.\n\n(17)______ Don't force yourself to read classic novels if you prefer science fiction or comics. Choosing books that match your personal interests is the first step to enjoying reading. When you read something you like, time passes quickly.\n\n(18)______ Set aside at least 20 minutes each day for reading, no matter how busy you are. It could be before breakfast, during lunch break, or before bedtime. Consistency matters more than reading for three hours once a month. Making reading a regular part of your routine helps develop a lasting habit.\n\nAlso, find a quiet and comfortable place to read. (19)______ Turn off your phone notifications or put your electronic devices in another room. A peaceful environment allows you to focus deeply on the story or information in the book without interruptions.\n\n(20)______ After finishing an interesting book, try writing a short review or discussing the plot with classmates. Sharing your thoughts not only improves your understanding but also makes reading a more social and enjoyable activity. You might discover new perspectives from others."
     },
     {
       "id": 18,
@@ -302,17 +302,17 @@
       "difficulty": 2,
       "stem": "(18)______",
       "options": [
-        "A. However, many students don't have enough time to sleep.",
-        "B. In addition, keep a good mood.",
-        "C. Try to avoid eating too much sugar and fat.",
-        "D. As a result, you will have more energy to study.",
-        "E. It helps you stay active and strong."
+        "A. First, find books you enjoy.",
+        "B. Second, make it a daily routine.",
+        "C. However, reading too fast is not good.",
+        "D. Remove any distractions around you.",
+        "E. Finally, share what you've read with others."
       ],
-      "correct_answer": "E",
-      "explanation": "选E。本段主题是'exercise regularly（定期锻炼）'，E项'它帮助你保持活跃和强壮'中的It指代exercise，解释了锻炼的好处，与后文'你不需要做剧烈运动'衔接自然。",
+      "correct_answer": "B",
+      "explanation": "选B。根据后文'Set aside 20 minutes each day'（每天留出20分钟）和'Consistency matters'（坚持很重要）可知，本段建议'第二，养成日常习惯'。B项'Second, make it a daily routine'与之对应。A项已用于第一空；D项是干扰项；C、E项不符合此处逻辑。注意表示顺序的连接词First, Second, Finally等。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "It's important for us to keep healthy. Here are some useful tips for you.\n\nFirst, eat a balanced diet. (17)______ You should eat more vegetables and fruit instead of junk food. Remember that breakfast is the most important meal of the day.\n\nSecond, exercise regularly. (18)______ You don't need to do intense exercise. Walking, swimming, or playing basketball for 30 minutes every day is enough.\n\nThird, get enough sleep. Teenagers need at least 8 hours of sleep every night. (19)______ If you stay up late often, you will feel tired and can't concentrate in class.\n\n(20)______ Try to smile every day and stay positive when facing difficulties. Good mental health is also part of a healthy lifestyle."
+      "group_passage": "Reading is an important part of our daily life and schoolwork. However, many middle school students find it difficult to form a good reading habit in their busy schedules. Here are some practical tips to help you become a better reader.\n\n(17)______ Don't force yourself to read classic novels if you prefer science fiction or comics. Choosing books that match your personal interests is the first step to enjoying reading. When you read something you like, time passes quickly.\n\n(18)______ Set aside at least 20 minutes each day for reading, no matter how busy you are. It could be before breakfast, during lunch break, or before bedtime. Consistency matters more than reading for three hours once a month. Making reading a regular part of your routine helps develop a lasting habit.\n\nAlso, find a quiet and comfortable place to read. (19)______ Turn off your phone notifications or put your electronic devices in another room. A peaceful environment allows you to focus deeply on the story or information in the book without interruptions.\n\n(20)______ After finishing an interesting book, try writing a short review or discussing the plot with classmates. Sharing your thoughts not only improves your understanding but also makes reading a more social and enjoyable activity. You might discover new perspectives from others."
     },
     {
       "id": 19,
@@ -321,17 +321,17 @@
       "difficulty": 2,
       "stem": "(19)______",
       "options": [
-        "A. However, many students don't have enough time to sleep.",
-        "B. In addition, keep a good mood.",
-        "C. Try to avoid eating too much sugar and fat.",
-        "D. As a result, you will have more energy to study.",
-        "E. It helps you stay active and strong."
+        "A. First, find books you enjoy.",
+        "B. Second, make it a daily routine.",
+        "C. However, reading too fast is not good.",
+        "D. Remove any distractions around you.",
+        "E. Finally, share what you've read with others."
       ],
-      "correct_answer": "A",
-      "explanation": "选A。前文说'青少年每晚需要至少8小时睡眠'，后文说'如果你经常熬夜，你会感到疲惫'，A项'然而，许多学生没有足够的睡眠时间'起到转折过渡作用，However表示转折，引出睡眠不足的问题。",
+      "correct_answer": "D",
+      "explanation": "选D。根据后文'Turn off your phone...put your electronic devices in another room'（关掉手机……把电子设备放在另一个房间）可知，本句建议'移除周围的干扰'。D项'Remove any distractions around you'与之对应。distractions（干扰物）与后文的手机、电子设备对应。A、B项已使用；E项是最后一步；C项与语境无关。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "It's important for us to keep healthy. Here are some useful tips for you.\n\nFirst, eat a balanced diet. (17)______ You should eat more vegetables and fruit instead of junk food. Remember that breakfast is the most important meal of the day.\n\nSecond, exercise regularly. (18)______ You don't need to do intense exercise. Walking, swimming, or playing basketball for 30 minutes every day is enough.\n\nThird, get enough sleep. Teenagers need at least 8 hours of sleep every night. (19)______ If you stay up late often, you will feel tired and can't concentrate in class.\n\n(20)______ Try to smile every day and stay positive when facing difficulties. Good mental health is also part of a healthy lifestyle."
+      "group_passage": "Reading is an important part of our daily life and schoolwork. However, many middle school students find it difficult to form a good reading habit in their busy schedules. Here are some practical tips to help you become a better reader.\n\n(17)______ Don't force yourself to read classic novels if you prefer science fiction or comics. Choosing books that match your personal interests is the first step to enjoying reading. When you read something you like, time passes quickly.\n\n(18)______ Set aside at least 20 minutes each day for reading, no matter how busy you are. It could be before breakfast, during lunch break, or before bedtime. Consistency matters more than reading for three hours once a month. Making reading a regular part of your routine helps develop a lasting habit.\n\nAlso, find a quiet and comfortable place to read. (19)______ Turn off your phone notifications or put your electronic devices in another room. A peaceful environment allows you to focus deeply on the story or information in the book without interruptions.\n\n(20)______ After finishing an interesting book, try writing a short review or discussing the plot with classmates. Sharing your thoughts not only improves your understanding but also makes reading a more social and enjoyable activity. You might discover new perspectives from others."
     },
     {
       "id": 20,
@@ -340,17 +340,17 @@
       "difficulty": 2,
       "stem": "(20)______",
       "options": [
-        "A. However, many students don't have enough time to sleep.",
-        "B. In addition, keep a good mood.",
-        "C. Try to avoid eating too much sugar and fat.",
-        "D. As a result, you will have more energy to study.",
-        "E. It helps you stay active and strong."
+        "A. First, find books you enjoy.",
+        "B. Second, make it a daily routine.",
+        "C. However, reading too fast is not good.",
+        "D. Remove any distractions around you.",
+        "E. Finally, share what you've read with others."
       ],
-      "correct_answer": "B",
-      "explanation": "选B。前文讲了饮食、运动、睡眠三个方面，本段讲的是'smile every day and stay positive（保持积极）'，即心理健康。B项'In addition, keep a good mood（此外，保持好心情）'作为段落主题句，引出心理健康的内容。In addition表示递进，补充新的建议。",
+      "correct_answer": "E",
+      "explanation": "选E。根据后文'write down your thoughts or discuss it with friends'（写下想法或与朋友讨论）和'Sharing your thoughts'（分享你的想法）可知，本段建议'最后，与他人分享你读过的内容'。E项'Finally, share what you've read with others'与之对应。注意Finally表示顺序的终结。A、B、D项已使用；C项与分享无关。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "It's important for us to keep healthy. Here are some useful tips for you.\n\nFirst, eat a balanced diet. (17)______ You should eat more vegetables and fruit instead of junk food. Remember that breakfast is the most important meal of the day.\n\nSecond, exercise regularly. (18)______ You don't need to do intense exercise. Walking, swimming, or playing basketball for 30 minutes every day is enough.\n\nThird, get enough sleep. Teenagers need at least 8 hours of sleep every night. (19)______ If you stay up late often, you will feel tired and can't concentrate in class.\n\n(20)______ Try to smile every day and stay positive when facing difficulties. Good mental health is also part of a healthy lifestyle."
+      "group_passage": "Reading is an important part of our daily life and schoolwork. However, many middle school students find it difficult to form a good reading habit in their busy schedules. Here are some practical tips to help you become a better reader.\n\n(17)______ Don't force yourself to read classic novels if you prefer science fiction or comics. Choosing books that match your personal interests is the first step to enjoying reading. When you read something you like, time passes quickly.\n\n(18)______ Set aside at least 20 minutes each day for reading, no matter how busy you are. It could be before breakfast, during lunch break, or before bedtime. Consistency matters more than reading for three hours once a month. Making reading a regular part of your routine helps develop a lasting habit.\n\nAlso, find a quiet and comfortable place to read. (19)______ Turn off your phone notifications or put your electronic devices in another room. A peaceful environment allows you to focus deeply on the story or information in the book without interruptions.\n\n(20)______ After finishing an interesting book, try writing a short review or discussing the plot with classmates. Sharing your thoughts not only improves your understanding but also makes reading a more social and enjoyable activity. You might discover new perspectives from others."
     }
   ]
 }
