@@ -1,5 +1,5 @@
 ﻿{
-  "date": "2026-07-09",
+  "date": "2026-07-10",
   "session_number": 1,
   "questions": [
     {
@@ -7,15 +7,15 @@
       "type": "grammar",
       "knowledge_point": "present_perfect_vs_past_simple",
       "difficulty": 1,
-      "stem": "—I ________ the Great Wall twice. It's amazing.\n—Really? When ________ you ________ there last time?",
+      "stem": "I ______ the book already. It was really interesting.",
       "options": [
-        "A. have visited; did; go",
-        "B. visited; have; gone",
-        "C. have visited; have; gone",
-        "D. visited; did; went"
+        "A. read",
+        "B. have read",
+        "C. am reading",
+        "D. will read"
       ],
-      "correct_answer": "A",
-      "explanation": "选A。第一空'twice'（两次）是现在完成时的标志词，表示过去动作对现在的影响，用have visited；第二空'last time'（上次）是一般过去时的标志，疑问句需借助助动词did，后面动词用原形go。B项第二空时态错误；C项第二空不应使用现在完成时；D项第一空缺少助动词have。",
+      "correct_answer": "B",
+      "explanation": "本题考查现在完成时与一般过去时的区别。句中的already（已经）是现在完成时的典型时间标志词，强调过去发生的动作对现在造成的影响或结果（已经读完了）。一般过去时只表示过去某个时间点发生的动作，不与already连用；现在进行时表示正在进行的动作；一般将来时表示将要发生的动作。解题技巧：看到already/yet/just/ever/never等词，优先考虑现在完成时（have/has + 过去分词）。",
       "label": "语法题"
     },
     {
@@ -23,7 +23,7 @@
       "type": "grammar",
       "knowledge_point": "relative_clause_who_which",
       "difficulty": 2,
-      "stem": "This is the scientist ________ discovered the new species in the Amazon forest.",
+      "stem": "The girl ______ won the singing competition is my classmate.",
       "options": [
         "A. who",
         "B. which",
@@ -31,7 +31,7 @@
         "D. whose"
       ],
       "correct_answer": "A",
-      "explanation": "选A。定语从句先行词是'the scientist'（科学家），指人，且在从句中作主语，关系代词用who。B项which指物；C项whom指人但只能作宾语；D项whose表示'谁的'，在从句中作定语。口诀：先行词是人作主语用who，作宾语用whom/who，作定语用whose。",
+      "explanation": "本题考查定语从句关系代词的选择。先行词是the girl（指人），且关系代词在从句中作主语（won的主语），因此用who。which用于指物；whom用于指人但在从句中作宾语；whose表示'……的'，在从句中作定语。解题技巧：指人作主语用who，指人作宾语用whom/who，指物用which/that，表所属用whose。",
       "label": "语法题"
     },
     {
@@ -39,47 +39,47 @@
       "type": "grammar",
       "knowledge_point": "passive_voice",
       "difficulty": 2,
-      "stem": "The old library ________ by the local government last year, and it looks brand new now.",
+      "stem": "Many trees ______ by the students in our school last spring.",
       "options": [
-        "A. is repaired",
-        "B. was repaired",
-        "C. repaired",
-        "D. has repaired"
+        "A. plant",
+        "B. planted",
+        "C. were planted",
+        "D. are planted"
       ],
-      "correct_answer": "B",
-      "explanation": "选B。主语'The old library'与动词'repair'是被动关系，需用被动语态；时间状语'last year'表明是一般过去时，因此用一般过去时的被动语态was repaired。A项是一般现在时被动，时态不符；C、D项不是被动语态。被动语态结构：be动词+过去分词。",
+      "correct_answer": "C",
+      "explanation": "本题考查被动语态的时态。主语Many trees与动词plant之间是被动关系（树被种植），时间状语last spring表明是一般过去时，因此用一般过去时的被动语态were planted。A是主动语态原形；B是主动语态过去式；D是一般现在时被动语态，时态不符。解题技巧：被动语态基本结构为'be + 过去分词'，确定时态看时间状语，确定单复数看主语。",
       "label": "语法题"
     },
     {
       "id": 4,
       "type": "grammar",
-      "knowledge_point": "present_perfect_vs_past_simple",
+      "knowledge_point": "object_clause",
       "difficulty": 3,
-      "stem": "—______ you ________ your homework yet?\n—Yes, I ________ it an hour ago.",
+      "stem": "Could you tell me ______?",
       "options": [
-        "A. Did; finish; finished",
-        "B. Have; finished; finished",
-        "C. Have; finished; have finished",
-        "D. Did; finish; have finished"
+        "A. where is the nearest bookstore",
+        "B. where the nearest bookstore is",
+        "C. where does the nearest bookstore lie",
+        "D. where the nearest bookstore was"
       ],
       "correct_answer": "B",
-      "explanation": "选B。第一空'yet'（还，已经）是现在完成时的标志词，用于疑问句，结构为Have+主语+过去分词；第二空'an hour ago'（一小时前）是一般过去时的标志，用finished。A项第一空时态错误；C项第二空时态错误；D项两项时态都错误。解题关键：识别时间标志词yet和ago。",
+      "explanation": "本题考查宾语从句的语序和时态。宾语从句必须使用陈述句语序（主语+谓语），排除A和C（疑问句语序）。主句Could you tell me是委婉请求，并非过去时，因此从句用现在时is，不用过去时was。解题技巧：宾语从句三要素——陈述语序、时态呼应（主过从过，主现从任）、连接词选择。",
       "label": "语法题"
     },
     {
       "id": 5,
       "type": "vocabulary",
-      "knowledge_point": "word_formation",
+      "knowledge_point": "context_logic",
       "difficulty": 1,
-      "stem": "It was ________ (fair) for the teacher to give different scores to the same answer. Everyone should be treated equally.",
+      "stem": "It's raining heavily outside. Please take an umbrella with you, ______ you'll get wet.",
       "options": [
-        "A. unfair",
-        "B. fairness",
-        "C. fairly",
-        "D. unfairness"
+        "A. and",
+        "B. or",
+        "C. but",
+        "D. so"
       ],
-      "correct_answer": "A",
-      "explanation": "选A。根据句意'老师对相同答案给不同分数是不公平的'，需要形容词作表语，unfair（不公平的）符合。B项fairness是名词'公平'；C项fairly是副词'公平地'；D项unfairness是名词'不公平'。前缀un-表示否定，加在fair形容词前构成unfair。",
+      "correct_answer": "B",
+      "explanation": "本题考查连词在语境中的逻辑关系。根据句意'外面雨下得很大，请带上雨伞，______你会淋湿的'，前后是转折条件关系，or在此处意为'否则，不然'。and表并列/顺承；but表转折；so表结果。解题技巧：'祈使句 + or + 陈述句'表示'……否则……'，'祈使句 + and + 陈述句'表示'……那么……'。",
       "label": "词汇题"
     },
     {
@@ -87,194 +87,194 @@
       "type": "vocabulary",
       "knowledge_point": "phrasal_verbs",
       "difficulty": 2,
-      "stem": "We need to ________ a better plan to solve the environmental problems in our community.",
+      "stem": "We need to ______ a good solution to the environmental problem.",
       "options": [
         "A. come up with",
-        "B. come up",
-        "C. come out",
-        "D. come across"
+        "B. come out",
+        "C. come across",
+        "D. come true"
       ],
       "correct_answer": "A",
-      "explanation": "选A。come up with意为'想出，提出（计划、主意等）'，符合句意'想出更好的计划'。B项come up意为'走近，被提出'（主语通常是物）；C项come out意为'出版，出现，结果是'；D项come across意为'偶然遇到'。come up with是固定搭配，宾语是plan/idea/solution时常用。",
+      "explanation": "本题考查动词短语辨析。come up with意为'想出，提出（方案、主意等）'；come out意为'出版，出现，开花'；come across意为'偶然遇见/发现'；come true意为'实现'。根据宾语solution（解决方案），应选择'想出方案'。解题技巧：记住come的常见短语——come up with提出，come out出来/出版，come across偶遇，come from来自，come back回来。",
       "label": "词汇题"
     },
     {
       "id": 7,
       "type": "vocabulary",
-      "knowledge_point": "word_meaning",
+      "knowledge_point": "word_formation",
       "difficulty": 2,
-      "stem": "The instructions on the medicine bottle were so ________ that even a child could understand how to take the pills.",
+      "stem": "The ______ news made all of us very ______.",
       "options": [
-        "A. clear",
-        "B. difficult",
-        "C. boring",
-        "D. similar"
+        "A. excited; exciting",
+        "B. exciting; excited",
+        "C. exciting; exciting",
+        "D. excited; excited"
       ],
-      "correct_answer": "A",
-      "explanation": "选A。根据后半句'即使小孩也能理解如何服药'，说明说明书写得'清楚'（clear）。B项difficult（困难的）与句意相反；C项boring（无聊的）和D项similar（相似的）不符合语境逻辑。通过后半句的结果推断前半句的形容词含义。",
+      "correct_answer": "B",
+      "explanation": "本题考查-ing形容词与-ed形容词的用法区别。exciting意为'令人兴奋的'，用于修饰事物（news）；excited意为'感到兴奋的'，用于修饰人（us）。口诀：'-ing形容物，-ed形容人'，即'物令ing，人感ed'。",
       "label": "词汇题"
     },
     {
       "id": 8,
       "type": "cloze",
-      "knowledge_point": "cloze_general",
-      "difficulty": 2,
+      "knowledge_point": "cloze_collocation",
+      "difficulty": 1,
       "stem": "(8)______",
       "options": [
-        "A. aims",
-        "B. fails",
-        "C. forgets",
-        "D. refuses"
+        "A. take",
+        "B. make",
+        "C. have",
+        "D. get"
       ],
       "correct_answer": "A",
-      "explanation": "选A。根据上下文，项目'旨在'（aims）让学校更环保，aim to do sth是固定搭配，意为'旨在做某事'。B项fails（失败）、C项forgets（忘记）、D项refuses（拒绝）均不符合语境。注意主语The project是第三人称单数，动词用aims。",
+      "explanation": "本题考查固定搭配。take part in是固定短语，意为'参加'。make、have、get与part in均不能构成此搭配。解题技巧：记住常见搭配——take part in参加（活动），join加入（组织/人），attend出席（会议/课程）。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school started a new \"Green Campus\" project. As a member of the Environmental Club, I was excited to take part in it. The goal is to reduce waste and teach students about environmental protection.\n\nThe project (8)______ to make our school more eco-friendly by changing small daily habits. First, we (9)______ to collect plastic bottles in every classroom. We placed special bins in the hallways and explained the plan during morning assemblies. At first, some students didn't understand why we were doing this. They thought it was (10)______ and unnecessary to separate trash. However, after we explained that these bottles would be recycled into new products like clothing and furniture, they became more interested and started helping.\n\nEvery Friday afternoon, we (11)______ the bottles to a recycling center near our school. The workers there always praise us for our hard work and dedication. So far, we (12)______ over 500 kilograms of plastic from going into landfills. We are proud that we can help protect the environment through these small but meaningful actions. Our teachers say we are making a real difference."
+      "group_passage": "Last month, our school organized a meaningful environmental protection activity. All the students in Grade 8 were asked to (8)______ part in it. The activity aimed to make us understand the (9)______ of protecting our environment and taking care of our city.\n\nOn that sunny Saturday morning, we gathered at the school gate at 8 o'clock. Then we walked to a nearby community park together. When we arrived, our teacher divided us into several groups and assigned different tasks to each group. Some students were responsible for picking up rubbish on the ground, (10)______ others were asked to water the young trees and flowers. I was in the group responsible for putting up warning signs around the park. The signs said \"No (11)______\" and \"Keep Off the Grass\". We also handed out leaflets to visitors to tell them the importance of keeping the park clean.\n\nAlthough we felt tired after the whole day's work, we were very happy and proud. Through this practical activity, we not only learned how to work together as a team but also realized that everyone should (12)______ an active role in making our hometown a better place. It was truly an unforgettable experience for all of us."
     },
     {
       "id": 9,
       "type": "cloze",
-      "knowledge_point": "cloze_general",
-      "difficulty": 1,
+      "knowledge_point": "cloze_context",
+      "difficulty": 2,
       "stem": "(9)______",
       "options": [
-        "A. decided",
-        "B. remembered",
-        "C. continued",
-        "D. regretted"
+        "A. importance",
+        "B. different",
+        "C. difficult",
+        "D. interesting"
       ],
       "correct_answer": "A",
-      "explanation": "选A。decide to do sth意为'决定做某事'，符合句意'我们决定在每个教室收集塑料瓶'。B项remembered（记得）、C项continued（继续）、D项regretted（后悔）均不符合语境。这是叙述过去发生的事情，用一般过去时decided。",
+      "explanation": "本题考查语境理解与词性辨析。定冠词the后需接名词，构成'the + n. + of'结构。importance（重要性）是名词，符合句意'保护环境的重要性'。different（不同的）、difficult（困难的）是形容词；interesting（有趣的）虽是形容词，但语义不符。解题技巧：看到'the ___ of'结构，空格处通常填名词。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school started a new \"Green Campus\" project. As a member of the Environmental Club, I was excited to take part in it. The goal is to reduce waste and teach students about environmental protection.\n\nThe project (8)______ to make our school more eco-friendly by changing small daily habits. First, we (9)______ to collect plastic bottles in every classroom. We placed special bins in the hallways and explained the plan during morning assemblies. At first, some students didn't understand why we were doing this. They thought it was (10)______ and unnecessary to separate trash. However, after we explained that these bottles would be recycled into new products like clothing and furniture, they became more interested and started helping.\n\nEvery Friday afternoon, we (11)______ the bottles to a recycling center near our school. The workers there always praise us for our hard work and dedication. So far, we (12)______ over 500 kilograms of plastic from going into landfills. We are proud that we can help protect the environment through these small but meaningful actions. Our teachers say we are making a real difference."
+      "group_passage": "Last month, our school organized a meaningful environmental protection activity. All the students in Grade 8 were asked to (8)______ part in it. The activity aimed to make us understand the (9)______ of protecting our environment and taking care of our city.\n\nOn that sunny Saturday morning, we gathered at the school gate at 8 o'clock. Then we walked to a nearby community park together. When we arrived, our teacher divided us into several groups and assigned different tasks to each group. Some students were responsible for picking up rubbish on the ground, (10)______ others were asked to water the young trees and flowers. I was in the group responsible for putting up warning signs around the park. The signs said \"No (11)______\" and \"Keep Off the Grass\". We also handed out leaflets to visitors to tell them the importance of keeping the park clean.\n\nAlthough we felt tired after the whole day's work, we were very happy and proud. Through this practical activity, we not only learned how to work together as a team but also realized that everyone should (12)______ an active role in making our hometown a better place. It was truly an unforgettable experience for all of us."
     },
     {
       "id": 10,
       "type": "cloze",
-      "knowledge_point": "cloze_general",
+      "knowledge_point": "cloze_logic",
       "difficulty": 2,
       "stem": "(10)______",
       "options": [
-        "A. boring",
-        "B. dangerous",
-        "C. expensive",
-        "D. traditional"
+        "A. because",
+        "B. while",
+        "C. if",
+        "D. unless"
       ],
-      "correct_answer": "A",
-      "explanation": "选A。根据and后的unnecessary（不必要的）可知，空格处应填同类负面形容词。boring（无聊的）符合'他们认为垃圾分类既无聊又不必要'。B项dangerous（危险的）、C项expensive（昂贵的）、D项traditional（传统的）均与'分类垃圾'的语境不符。",
+      "correct_answer": "B",
+      "explanation": "本题考查逻辑关系与连词用法。while在此处表示对比关系，意为'而，然而'，连接两个并列分句'Some students...'和'others...'，表示两组人同时做不同的事情。because表原因；if表条件；unless表'除非'。解题技巧：while除了'当……时候'，还可表对比，相当于'but'，用于连接两个相反或不同的情况。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school started a new \"Green Campus\" project. As a member of the Environmental Club, I was excited to take part in it. The goal is to reduce waste and teach students about environmental protection.\n\nThe project (8)______ to make our school more eco-friendly by changing small daily habits. First, we (9)______ to collect plastic bottles in every classroom. We placed special bins in the hallways and explained the plan during morning assemblies. At first, some students didn't understand why we were doing this. They thought it was (10)______ and unnecessary to separate trash. However, after we explained that these bottles would be recycled into new products like clothing and furniture, they became more interested and started helping.\n\nEvery Friday afternoon, we (11)______ the bottles to a recycling center near our school. The workers there always praise us for our hard work and dedication. So far, we (12)______ over 500 kilograms of plastic from going into landfills. We are proud that we can help protect the environment through these small but meaningful actions. Our teachers say we are making a real difference."
+      "group_passage": "Last month, our school organized a meaningful environmental protection activity. All the students in Grade 8 were asked to (8)______ part in it. The activity aimed to make us understand the (9)______ of protecting our environment and taking care of our city.\n\nOn that sunny Saturday morning, we gathered at the school gate at 8 o'clock. Then we walked to a nearby community park together. When we arrived, our teacher divided us into several groups and assigned different tasks to each group. Some students were responsible for picking up rubbish on the ground, (10)______ others were asked to water the young trees and flowers. I was in the group responsible for putting up warning signs around the park. The signs said \"No (11)______\" and \"Keep Off the Grass\". We also handed out leaflets to visitors to tell them the importance of keeping the park clean.\n\nAlthough we felt tired after the whole day's work, we were very happy and proud. Through this practical activity, we not only learned how to work together as a team but also realized that everyone should (12)______ an active role in making our hometown a better place. It was truly an unforgettable experience for all of us."
     },
     {
       "id": 11,
       "type": "cloze",
-      "knowledge_point": "cloze_general",
-      "difficulty": 1,
+      "knowledge_point": "cloze_sign_expression",
+      "difficulty": 2,
       "stem": "(11)______",
       "options": [
-        "A. take",
-        "B. sell",
-        "C. lend",
-        "D. show"
+        "A. littering",
+        "B. to litter",
+        "C. litter",
+        "D. littered"
       ],
       "correct_answer": "A",
-      "explanation": "选A。take...to...意为'把……带到……'，符合句意'我们把瓶子带到回收中心'。B项sell（卖）不符合语境（学生是收集后送去回收，不是售卖）；C项lend（借出）、D项show（展示）搭配不当。take sth to sp是常用搭配。",
+      "explanation": "本题考查标识语的固定表达。'No + 动名词'是标识语的常用结构，表示'禁止做某事'，No littering意为'禁止乱扔垃圾'。类似表达：No smoking（禁止吸烟）、No parking（禁止停车）。解题技巧：标识语中No后接动名词（doing），不接不定式或原形。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school started a new \"Green Campus\" project. As a member of the Environmental Club, I was excited to take part in it. The goal is to reduce waste and teach students about environmental protection.\n\nThe project (8)______ to make our school more eco-friendly by changing small daily habits. First, we (9)______ to collect plastic bottles in every classroom. We placed special bins in the hallways and explained the plan during morning assemblies. At first, some students didn't understand why we were doing this. They thought it was (10)______ and unnecessary to separate trash. However, after we explained that these bottles would be recycled into new products like clothing and furniture, they became more interested and started helping.\n\nEvery Friday afternoon, we (11)______ the bottles to a recycling center near our school. The workers there always praise us for our hard work and dedication. So far, we (12)______ over 500 kilograms of plastic from going into landfills. We are proud that we can help protect the environment through these small but meaningful actions. Our teachers say we are making a real difference."
+      "group_passage": "Last month, our school organized a meaningful environmental protection activity. All the students in Grade 8 were asked to (8)______ part in it. The activity aimed to make us understand the (9)______ of protecting our environment and taking care of our city.\n\nOn that sunny Saturday morning, we gathered at the school gate at 8 o'clock. Then we walked to a nearby community park together. When we arrived, our teacher divided us into several groups and assigned different tasks to each group. Some students were responsible for picking up rubbish on the ground, (10)______ others were asked to water the young trees and flowers. I was in the group responsible for putting up warning signs around the park. The signs said \"No (11)______\" and \"Keep Off the Grass\". We also handed out leaflets to visitors to tell them the importance of keeping the park clean.\n\nAlthough we felt tired after the whole day's work, we were very happy and proud. Through this practical activity, we not only learned how to work together as a team but also realized that everyone should (12)______ an active role in making our hometown a better place. It was truly an unforgettable experience for all of us."
     },
     {
       "id": 12,
       "type": "cloze",
-      "knowledge_point": "present_perfect",
-      "difficulty": 2,
+      "knowledge_point": "cloze_collocation",
+      "difficulty": 1,
       "stem": "(12)______",
       "options": [
-        "A. collected",
-        "B. have collected",
-        "C. had collected",
-        "D. were collecting"
+        "A. make",
+        "B. take",
+        "C. play",
+        "D. do"
       ],
-      "correct_answer": "B",
-      "explanation": "选B。so far（到目前为止）是现在完成时的标志词，表示从过去持续到现在的动作，用have collected。A项是一般过去时，仅表示过去动作；C项是过去完成时，需有过去时间作为参照；D项是过去进行时，表示过去正在进行的动作。注意主语we是第一人称复数，用have。",
+      "correct_answer": "C",
+      "explanation": "本题考查固定搭配。play a role in...是固定短语，意为'在……中起作用/扮演角色'，也可说play a part in。句意为'每个人都应该在让家乡变得更美好方面发挥作用'。take part in参加（活动）；make制造；do做。解题技巧：记住固定搭配——play a role/part in发挥作用，take part in参加。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school started a new \"Green Campus\" project. As a member of the Environmental Club, I was excited to take part in it. The goal is to reduce waste and teach students about environmental protection.\n\nThe project (8)______ to make our school more eco-friendly by changing small daily habits. First, we (9)______ to collect plastic bottles in every classroom. We placed special bins in the hallways and explained the plan during morning assemblies. At first, some students didn't understand why we were doing this. They thought it was (10)______ and unnecessary to separate trash. However, after we explained that these bottles would be recycled into new products like clothing and furniture, they became more interested and started helping.\n\nEvery Friday afternoon, we (11)______ the bottles to a recycling center near our school. The workers there always praise us for our hard work and dedication. So far, we (12)______ over 500 kilograms of plastic from going into landfills. We are proud that we can help protect the environment through these small but meaningful actions. Our teachers say we are making a real difference."
+      "group_passage": "Last month, our school organized a meaningful environmental protection activity. All the students in Grade 8 were asked to (8)______ part in it. The activity aimed to make us understand the (9)______ of protecting our environment and taking care of our city.\n\nOn that sunny Saturday morning, we gathered at the school gate at 8 o'clock. Then we walked to a nearby community park together. When we arrived, our teacher divided us into several groups and assigned different tasks to each group. Some students were responsible for picking up rubbish on the ground, (10)______ others were asked to water the young trees and flowers. I was in the group responsible for putting up warning signs around the park. The signs said \"No (11)______\" and \"Keep Off the Grass\". We also handed out leaflets to visitors to tell them the importance of keeping the park clean.\n\nAlthough we felt tired after the whole day's work, we were very happy and proud. Through this practical activity, we not only learned how to work together as a team but also realized that everyone should (12)______ an active role in making our hometown a better place. It was truly an unforgettable experience for all of us."
     },
     {
       "id": 13,
       "type": "reading",
       "knowledge_point": "detail",
       "difficulty": 2,
-      "stem": "When was bioplastic first developed according to the passage?",
+      "stem": "How many hours of sleep do teenagers need every night according to the passage?",
       "options": [
-        "A. In the 1980s.",
-        "B. In the 1990s.",
-        "C. In the 2000s.",
-        "D. Last year."
+        "A. 6-7 hours",
+        "B. 7-8 hours",
+        "C. 8-10 hours",
+        "D. 10-12 hours"
       ],
-      "correct_answer": "B",
-      "explanation": "选B。细节理解题。根据文章第二段第一句'Scientists first developed bioplastic in the 1990s'（科学家们在20世纪90年代首次开发出生物塑料），可知答案是20世纪90年代。A、C、D项时间与原文不符。细节题解题技巧：根据题干关键词'first developed'定位到原文找对应信息。",
+      "correct_answer": "C",
+      "explanation": "本题为细节理解题。根据文章第二段最后一句'For teenagers, experts recommend getting about 8 to 10 hours of sleep every night...'可知，青少年每晚需要8-10小时睡眠。解题技巧：细节题采用'关键词定位法'，在题干中找关键词（teenagers/hours of sleep），快速回原文定位相关句子，仔细比对选项与原文的同义表达。",
       "label": "阅读-细节理解",
       "group": "reading_1",
-      "group_passage": "Have you ever heard of \"bioplastic\"? It is a new kind of material that looks like plastic but is made from plants like corn or sugarcane. Unlike traditional plastic, which comes from oil and takes hundreds of years to break down, bioplastic can decompose (分解) in just a few months under the right conditions.\n\nScientists first developed bioplastic in the 1990s, but it was too expensive for widespread use. Now, with advanced technology, the production cost has dropped significantly. Many food companies are starting to use it for packaging sandwiches, drinks, and snacks. Some supermarkets have even replaced their plastic bags with bioplastic ones.\n\nHowever, bioplastic is not a perfect solution. It needs specific industrial conditions to decompose properly. If it ends up in the ocean or buried deep in a landfill (垃圾填埋场) without oxygen, it might not break down as quickly as expected. Also, growing crops specifically for bioplastic production requires a lot of water and agricultural land, which could otherwise be used for food production.\n\nDespite these challenges, many environmental experts believe bioplastic is still a better choice than traditional plastic for certain uses. \"We need to reduce our overall plastic consumption,\" says Dr. Green, a leading environmental scientist. \"But for products that require packaging, bioplastic represents a positive step toward sustainability.\""
+      "group_passage": "Do you know how to keep your brain healthy and active? Many people hold the mistaken belief that only elderly people need to worry about their brain health. However, according to scientific research, we should start taking good care of our brains from a young age. The habits we form during our teenage years can have a lasting impact on our cognitive function throughout life.\n\nFirst and foremost, getting sufficient sleep is essential for brain health. Studies demonstrate that sleep helps the brain remove waste products that accumulate during the day. For teenagers, experts recommend getting about 8 to 10 hours of sleep every night to ensure optimal brain performance.\n\nSecond, engaging in regular physical exercise is beneficial for the brain. When you participate in activities such as running or playing basketball, your heart pumps more oxygen-rich blood to your brain. This helps improve memory, concentration, and mental clarity.\n\nThird, maintaining a healthy diet matters significantly too. Foods rich in omega-3 fatty acids, such as fish and walnuts, are particularly good for brain function. Additionally, colorful fruits contain antioxidants that protect brain cells.\n\nAnother way to keep your brain sharp is to learn new things. You could learn a new language, play a musical instrument, or try a new sport. These activities create new neural connections in your brain.\n\nFinally, maintaining strong social connections is important for brain health. Having meaningful conversations with friends exercises your brain and reduces stress."
     },
     {
       "id": 14,
       "type": "reading",
-      "knowledge_point": "word_guessing_context",
-      "difficulty": 2,
-      "stem": "The underlined word \"decompose\" in Paragraph 1 probably means ________.",
+      "knowledge_point": "inference",
+      "difficulty": 3,
+      "stem": "What can we infer from the passage?",
       "options": [
-        "A. 生产",
-        "B. 溶解",
-        "C. 分解",
-        "D. 回收"
+        "A. Only old people need to care about brain health.",
+        "B. Learning new things is useless for teenagers.",
+        "C. Exercise can help improve brain function.",
+        "D. We should avoid talking with others to protect the brain."
       ],
       "correct_answer": "C",
-      "explanation": "选C。词义猜测题。根据第一段对比'traditional plastic...takes hundreds of years to break down'（传统塑料需要数百年才能break down）和'bioplastic can decompose in just a few months'，可知decompose与break down（分解）意思相近，因此选'分解'。A项produce（生产）、B项dissolve（溶解，通常指液体中溶解）、D项recycle（回收）均不符合语境。通过对比结构和同义词替换可推断词义。",
-      "label": "阅读-词义猜测",
+      "explanation": "本题为推理判断题。A项与第一段'Many people hold the mistaken belief...'相悖；B项与第五段内容相悖；D项与最后一段'maintaining strong social connections is important'相悖。C项可由第三段'This helps improve memory, concentration, and mental clarity'推断得出，运动能改善大脑功能。解题技巧：推理题要基于原文信息进行合理推断，不能选与原文明确矛盾的选项，也不能选原文未提及的过度推断。",
+      "label": "阅读-推理判断",
       "group": "reading_1",
-      "group_passage": "Have you ever heard of \"bioplastic\"? It is a new kind of material that looks like plastic but is made from plants like corn or sugarcane. Unlike traditional plastic, which comes from oil and takes hundreds of years to break down, bioplastic can decompose (分解) in just a few months under the right conditions.\n\nScientists first developed bioplastic in the 1990s, but it was too expensive for widespread use. Now, with advanced technology, the production cost has dropped significantly. Many food companies are starting to use it for packaging sandwiches, drinks, and snacks. Some supermarkets have even replaced their plastic bags with bioplastic ones.\n\nHowever, bioplastic is not a perfect solution. It needs specific industrial conditions to decompose properly. If it ends up in the ocean or buried deep in a landfill (垃圾填埋场) without oxygen, it might not break down as quickly as expected. Also, growing crops specifically for bioplastic production requires a lot of water and agricultural land, which could otherwise be used for food production.\n\nDespite these challenges, many environmental experts believe bioplastic is still a better choice than traditional plastic for certain uses. \"We need to reduce our overall plastic consumption,\" says Dr. Green, a leading environmental scientist. \"But for products that require packaging, bioplastic represents a positive step toward sustainability.\""
+      "group_passage": "Do you know how to keep your brain healthy and active? Many people hold the mistaken belief that only elderly people need to worry about their brain health. However, according to scientific research, we should start taking good care of our brains from a young age. The habits we form during our teenage years can have a lasting impact on our cognitive function throughout life.\n\nFirst and foremost, getting sufficient sleep is essential for brain health. Studies demonstrate that sleep helps the brain remove waste products that accumulate during the day. For teenagers, experts recommend getting about 8 to 10 hours of sleep every night to ensure optimal brain performance.\n\nSecond, engaging in regular physical exercise is beneficial for the brain. When you participate in activities such as running or playing basketball, your heart pumps more oxygen-rich blood to your brain. This helps improve memory, concentration, and mental clarity.\n\nThird, maintaining a healthy diet matters significantly too. Foods rich in omega-3 fatty acids, such as fish and walnuts, are particularly good for brain function. Additionally, colorful fruits contain antioxidants that protect brain cells.\n\nAnother way to keep your brain sharp is to learn new things. You could learn a new language, play a musical instrument, or try a new sport. These activities create new neural connections in your brain.\n\nFinally, maintaining strong social connections is important for brain health. Having meaningful conversations with friends exercises your brain and reduces stress."
     },
     {
       "id": 15,
       "type": "reading",
-      "knowledge_point": "inference",
-      "difficulty": 3,
-      "stem": "What can we infer from Dr. Green's words in the last paragraph?",
+      "knowledge_point": "word_guessing",
+      "difficulty": 2,
+      "stem": "The underlined word 'remove' in Paragraph 2 probably means ______.",
       "options": [
-        "A. We should stop using all plastics immediately.",
-        "B. Bioplastic is the perfect solution to pollution.",
-        "C. Reducing plastic use is important, but bioplastic helps.",
-        "D. Traditional plastic is better than bioplastic."
+        "A. produce",
+        "B. take away",
+        "C. increase",
+        "D. create"
       ],
-      "correct_answer": "C",
-      "explanation": "选C。推理判断题。根据最后一段Dr. Green的话'We need to reduce our overall plastic consumption'（我们需要减少整体塑料消费）和'bioplastic represents a positive step'（生物塑料代表积极的一步），可推断出'减少塑料使用很重要，但生物塑料有帮助'。A项'立即停止使用所有塑料'过于绝对；B项'完美解决方案'与原文'not a perfect solution'矛盾；D项与原文观点相反。推理题需根据原文信息合理推断，不能过度推断。",
-      "label": "阅读-推理判断",
+      "correct_answer": "B",
+      "explanation": "本题为词义猜测题。根据上下文'睡眠帮助大脑______白天积累的废物'，结合逻辑，应该是'清除、带走'废物。remove意为'移除，去掉'，与take away同义。produce生产；increase增加；create创造，均不符合语境。解题技巧：词义猜测可通过上下文逻辑（废物需要被清除）、同义词/反义词、构词法（re-再+move移动）或代入法验证。",
+      "label": "阅读-词义猜测",
       "group": "reading_1",
-      "group_passage": "Have you ever heard of \"bioplastic\"? It is a new kind of material that looks like plastic but is made from plants like corn or sugarcane. Unlike traditional plastic, which comes from oil and takes hundreds of years to break down, bioplastic can decompose (分解) in just a few months under the right conditions.\n\nScientists first developed bioplastic in the 1990s, but it was too expensive for widespread use. Now, with advanced technology, the production cost has dropped significantly. Many food companies are starting to use it for packaging sandwiches, drinks, and snacks. Some supermarkets have even replaced their plastic bags with bioplastic ones.\n\nHowever, bioplastic is not a perfect solution. It needs specific industrial conditions to decompose properly. If it ends up in the ocean or buried deep in a landfill (垃圾填埋场) without oxygen, it might not break down as quickly as expected. Also, growing crops specifically for bioplastic production requires a lot of water and agricultural land, which could otherwise be used for food production.\n\nDespite these challenges, many environmental experts believe bioplastic is still a better choice than traditional plastic for certain uses. \"We need to reduce our overall plastic consumption,\" says Dr. Green, a leading environmental scientist. \"But for products that require packaging, bioplastic represents a positive step toward sustainability.\""
+      "group_passage": "Do you know how to keep your brain healthy and active? Many people hold the mistaken belief that only elderly people need to worry about their brain health. However, according to scientific research, we should start taking good care of our brains from a young age. The habits we form during our teenage years can have a lasting impact on our cognitive function throughout life.\n\nFirst and foremost, getting sufficient sleep is essential for brain health. Studies demonstrate that sleep helps the brain remove waste products that accumulate during the day. For teenagers, experts recommend getting about 8 to 10 hours of sleep every night to ensure optimal brain performance.\n\nSecond, engaging in regular physical exercise is beneficial for the brain. When you participate in activities such as running or playing basketball, your heart pumps more oxygen-rich blood to your brain. This helps improve memory, concentration, and mental clarity.\n\nThird, maintaining a healthy diet matters significantly too. Foods rich in omega-3 fatty acids, such as fish and walnuts, are particularly good for brain function. Additionally, colorful fruits contain antioxidants that protect brain cells.\n\nAnother way to keep your brain sharp is to learn new things. You could learn a new language, play a musical instrument, or try a new sport. These activities create new neural connections in your brain.\n\nFinally, maintaining strong social connections is important for brain health. Having meaningful conversations with friends exercises your brain and reduces stress."
     },
     {
       "id": 16,
       "type": "reading",
-      "knowledge_point": "main_idea_title",
+      "knowledge_point": "main_idea",
       "difficulty": 3,
-      "stem": "What is the best title for the passage?",
+      "stem": "What is the best title for this passage?",
       "options": [
-        "A. The History of Plastic",
-        "B. A New Material Called Bioplastic",
-        "C. How to Save the Ocean",
-        "D. The Life of an Environmental Scientist"
+        "A. How to Sleep Well",
+        "B. The Importance of Exercise",
+        "C. Ways to Keep Your Brain Healthy",
+        "D. Healthy Food for Teenagers"
       ],
-      "correct_answer": "B",
-      "explanation": "选B。主旨大意题。文章围绕生物塑料（bioplastic）展开，介绍了它的定义、历史、优点和缺点，因此'A New Material Called Bioplastic'最能概括全文。A项'塑料的历史'过于宽泛，文章只涉及生物塑料；C项'如何拯救海洋'只是文章提及的一个方面；D项'环境科学家的生活'偏离主题。标题要准确概括文章核心内容，通常主题词会在文中多次出现。",
+      "correct_answer": "C",
+      "explanation": "本题考查主旨大意/最佳标题。文章首句'Do you know how to keep your brain healthy and active?'即点明主题，随后从睡眠、运动、饮食、学习新事物、社交五个方面介绍保持大脑健康的方法。A、B、D仅涉及其中一个方面，过于片面。C项'保持大脑健康的方法'概括全文。解题技巧：最佳标题要能概括全文主要内容，不能太大（如Health）也不能太片面（只涉及某一段），通常首段或尾段会出现主题句。",
       "label": "阅读-主旨大意",
       "group": "reading_1",
-      "group_passage": "Have you ever heard of \"bioplastic\"? It is a new kind of material that looks like plastic but is made from plants like corn or sugarcane. Unlike traditional plastic, which comes from oil and takes hundreds of years to break down, bioplastic can decompose (分解) in just a few months under the right conditions.\n\nScientists first developed bioplastic in the 1990s, but it was too expensive for widespread use. Now, with advanced technology, the production cost has dropped significantly. Many food companies are starting to use it for packaging sandwiches, drinks, and snacks. Some supermarkets have even replaced their plastic bags with bioplastic ones.\n\nHowever, bioplastic is not a perfect solution. It needs specific industrial conditions to decompose properly. If it ends up in the ocean or buried deep in a landfill (垃圾填埋场) without oxygen, it might not break down as quickly as expected. Also, growing crops specifically for bioplastic production requires a lot of water and agricultural land, which could otherwise be used for food production.\n\nDespite these challenges, many environmental experts believe bioplastic is still a better choice than traditional plastic for certain uses. \"We need to reduce our overall plastic consumption,\" says Dr. Green, a leading environmental scientist. \"But for products that require packaging, bioplastic represents a positive step toward sustainability.\""
+      "group_passage": "Do you know how to keep your brain healthy and active? Many people hold the mistaken belief that only elderly people need to worry about their brain health. However, according to scientific research, we should start taking good care of our brains from a young age. The habits we form during our teenage years can have a lasting impact on our cognitive function throughout life.\n\nFirst and foremost, getting sufficient sleep is essential for brain health. Studies demonstrate that sleep helps the brain remove waste products that accumulate during the day. For teenagers, experts recommend getting about 8 to 10 hours of sleep every night to ensure optimal brain performance.\n\nSecond, engaging in regular physical exercise is beneficial for the brain. When you participate in activities such as running or playing basketball, your heart pumps more oxygen-rich blood to your brain. This helps improve memory, concentration, and mental clarity.\n\nThird, maintaining a healthy diet matters significantly too. Foods rich in omega-3 fatty acids, such as fish and walnuts, are particularly good for brain function. Additionally, colorful fruits contain antioxidants that protect brain cells.\n\nAnother way to keep your brain sharp is to learn new things. You could learn a new language, play a musical instrument, or try a new sport. These activities create new neural connections in your brain.\n\nFinally, maintaining strong social connections is important for brain health. Having meaningful conversations with friends exercises your brain and reduces stress."
     },
     {
       "id": 17,
@@ -283,17 +283,17 @@
       "difficulty": 2,
       "stem": "(17)______",
       "options": [
-        "A. First, find books you enjoy.",
-        "B. Second, make it a daily routine.",
-        "C. However, reading too fast is not good.",
-        "D. Remove any distractions around you.",
-        "E. Finally, share what you've read with others."
+        "A. However, academic performance is not everything.",
+        "B. In addition, building good relationships with classmates is essential.",
+        "C. They can make your school life more colorful.",
+        "D. To begin with, developing good study habits is very important.",
+        "E. Finally, don't forget to look after your health."
       ],
-      "correct_answer": "A",
-      "explanation": "选A。根据后文'Choose books that match your interests'（选择符合你兴趣的书）可知，本段建议'首先，找到你喜欢的书'。A项'First, find books you enjoy'与之对应。B项是第二步建议；D项是关于环境的建议；C、E项与此处语境不符。选句子填空要注意段落主题一致性。",
+      "correct_answer": "D",
+      "explanation": "本题考查段落主旨句与连接词。空后内容'First...Second...'讲的是上课认真听讲、做笔记、按时完成作业等学习习惯，因此选D'首先，养成良好的学习习惯非常重要'。To begin with与First呼应，符合'总-分'结构。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Reading is an important part of our daily life and schoolwork. However, many middle school students find it difficult to form a good reading habit in their busy schedules. Here are some practical tips to help you become a better reader.\n\n(17)______ Don't force yourself to read classic novels if you prefer science fiction or comics. Choosing books that match your personal interests is the first step to enjoying reading. When you read something you like, time passes quickly.\n\n(18)______ Set aside at least 20 minutes each day for reading, no matter how busy you are. It could be before breakfast, during lunch break, or before bedtime. Consistency matters more than reading for three hours once a month. Making reading a regular part of your routine helps develop a lasting habit.\n\nAlso, find a quiet and comfortable place to read. (19)______ Turn off your phone notifications or put your electronic devices in another room. A peaceful environment allows you to focus deeply on the story or information in the book without interruptions.\n\n(20)______ After finishing an interesting book, try writing a short review or discussing the plot with classmates. Sharing your thoughts not only improves your understanding but also makes reading a more social and enjoyable activity. You might discover new perspectives from others."
+      "group_passage": "Being a good student is not only about getting good grades in exams. It also means developing good habits, maintaining a positive attitude, and growing as a well-rounded person. Here are some practical tips that can help you become a better student.\n\n(17)______ First, listen carefully in class and pay attention to what teachers say. Taking clear and organized notes can help you remember important points and review them later. Second, finish your homework on time and take it seriously. If you have any questions or difficulties, don't hesitate to ask your teachers or classmates for help immediately.\n\n(18)______ Getting on well with others is extremely important in school life. Try to be friendly, understanding, and helpful to those around you. When your classmates are in trouble or facing difficulties, be willing to give them a hand and offer your support sincerely.\n\nBesides, it's necessary to take part in various after-school activities. (19)______ You can join clubs based on your personal interests, such as the science club, the art club, or the sports team. These activities can help you develop your hobbies, discover new talents, and make friends who share similar interests.\n\n(20)______ Remember to eat healthily, get enough sleep, and exercise regularly. Physical health is the foundation of everything. Only with a strong and healthy body can you have enough energy to study better and achieve your goals."
     },
     {
       "id": 18,
@@ -302,17 +302,17 @@
       "difficulty": 2,
       "stem": "(18)______",
       "options": [
-        "A. First, find books you enjoy.",
-        "B. Second, make it a daily routine.",
-        "C. However, reading too fast is not good.",
-        "D. Remove any distractions around you.",
-        "E. Finally, share what you've read with others."
+        "A. However, academic performance is not everything.",
+        "B. In addition, building good relationships with classmates is essential.",
+        "C. They can make your school life more colorful.",
+        "D. To begin with, developing good study habits is very important.",
+        "E. Finally, don't forget to look after your health."
       ],
       "correct_answer": "B",
-      "explanation": "选B。根据后文'Set aside 20 minutes each day'（每天留出20分钟）和'Consistency matters'（坚持很重要）可知，本段建议'第二，养成日常习惯'。B项'Second, make it a daily routine'与之对应。A项已用于第一空；D项是干扰项；C、E项不符合此处逻辑。注意表示顺序的连接词First, Second, Finally等。",
+      "explanation": "本题考查段落衔接。空后内容讲的是'与同学相处融洽很重要'，与B项'此外，与同学建立良好关系至关重要'完全对应。In addition表示递进，引出第二个建议（第一点讲学习习惯，第二点讲人际关系）。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Reading is an important part of our daily life and schoolwork. However, many middle school students find it difficult to form a good reading habit in their busy schedules. Here are some practical tips to help you become a better reader.\n\n(17)______ Don't force yourself to read classic novels if you prefer science fiction or comics. Choosing books that match your personal interests is the first step to enjoying reading. When you read something you like, time passes quickly.\n\n(18)______ Set aside at least 20 minutes each day for reading, no matter how busy you are. It could be before breakfast, during lunch break, or before bedtime. Consistency matters more than reading for three hours once a month. Making reading a regular part of your routine helps develop a lasting habit.\n\nAlso, find a quiet and comfortable place to read. (19)______ Turn off your phone notifications or put your electronic devices in another room. A peaceful environment allows you to focus deeply on the story or information in the book without interruptions.\n\n(20)______ After finishing an interesting book, try writing a short review or discussing the plot with classmates. Sharing your thoughts not only improves your understanding but also makes reading a more social and enjoyable activity. You might discover new perspectives from others."
+      "group_passage": "Being a good student is not only about getting good grades in exams. It also means developing good habits, maintaining a positive attitude, and growing as a well-rounded person. Here are some practical tips that can help you become a better student.\n\n(17)______ First, listen carefully in class and pay attention to what teachers say. Taking clear and organized notes can help you remember important points and review them later. Second, finish your homework on time and take it seriously. If you have any questions or difficulties, don't hesitate to ask your teachers or classmates for help immediately.\n\n(18)______ Getting on well with others is extremely important in school life. Try to be friendly, understanding, and helpful to those around you. When your classmates are in trouble or facing difficulties, be willing to give them a hand and offer your support sincerely.\n\nBesides, it's necessary to take part in various after-school activities. (19)______ You can join clubs based on your personal interests, such as the science club, the art club, or the sports team. These activities can help you develop your hobbies, discover new talents, and make friends who share similar interests.\n\n(20)______ Remember to eat healthily, get enough sleep, and exercise regularly. Physical health is the foundation of everything. Only with a strong and healthy body can you have enough energy to study better and achieve your goals."
     },
     {
       "id": 19,
@@ -321,17 +321,17 @@
       "difficulty": 2,
       "stem": "(19)______",
       "options": [
-        "A. First, find books you enjoy.",
-        "B. Second, make it a daily routine.",
-        "C. However, reading too fast is not good.",
-        "D. Remove any distractions around you.",
-        "E. Finally, share what you've read with others."
+        "A. However, academic performance is not everything.",
+        "B. In addition, building good relationships with classmates is essential.",
+        "C. They can make your school life more colorful.",
+        "D. To begin with, developing good study habits is very important.",
+        "E. Finally, don't forget to look after your health."
       ],
-      "correct_answer": "D",
-      "explanation": "选D。根据后文'Turn off your phone...put your electronic devices in another room'（关掉手机……把电子设备放在另一个房间）可知，本句建议'移除周围的干扰'。D项'Remove any distractions around you'与之对应。distractions（干扰物）与后文的手机、电子设备对应。A、B项已使用；E项是最后一步；C项与语境无关。",
+      "correct_answer": "C",
+      "explanation": "本题考查代词指代与逻辑衔接。空前提到'参加课外活动'，C项'它们能让你的学校生活更加丰富多彩'中的They指代前文的after-school activities，说明参加活动的好处，承接自然。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Reading is an important part of our daily life and schoolwork. However, many middle school students find it difficult to form a good reading habit in their busy schedules. Here are some practical tips to help you become a better reader.\n\n(17)______ Don't force yourself to read classic novels if you prefer science fiction or comics. Choosing books that match your personal interests is the first step to enjoying reading. When you read something you like, time passes quickly.\n\n(18)______ Set aside at least 20 minutes each day for reading, no matter how busy you are. It could be before breakfast, during lunch break, or before bedtime. Consistency matters more than reading for three hours once a month. Making reading a regular part of your routine helps develop a lasting habit.\n\nAlso, find a quiet and comfortable place to read. (19)______ Turn off your phone notifications or put your electronic devices in another room. A peaceful environment allows you to focus deeply on the story or information in the book without interruptions.\n\n(20)______ After finishing an interesting book, try writing a short review or discussing the plot with classmates. Sharing your thoughts not only improves your understanding but also makes reading a more social and enjoyable activity. You might discover new perspectives from others."
+      "group_passage": "Being a good student is not only about getting good grades in exams. It also means developing good habits, maintaining a positive attitude, and growing as a well-rounded person. Here are some practical tips that can help you become a better student.\n\n(17)______ First, listen carefully in class and pay attention to what teachers say. Taking clear and organized notes can help you remember important points and review them later. Second, finish your homework on time and take it seriously. If you have any questions or difficulties, don't hesitate to ask your teachers or classmates for help immediately.\n\n(18)______ Getting on well with others is extremely important in school life. Try to be friendly, understanding, and helpful to those around you. When your classmates are in trouble or facing difficulties, be willing to give them a hand and offer your support sincerely.\n\nBesides, it's necessary to take part in various after-school activities. (19)______ You can join clubs based on your personal interests, such as the science club, the art club, or the sports team. These activities can help you develop your hobbies, discover new talents, and make friends who share similar interests.\n\n(20)______ Remember to eat healthily, get enough sleep, and exercise regularly. Physical health is the foundation of everything. Only with a strong and healthy body can you have enough energy to study better and achieve your goals."
     },
     {
       "id": 20,
@@ -340,17 +340,17 @@
       "difficulty": 2,
       "stem": "(20)______",
       "options": [
-        "A. First, find books you enjoy.",
-        "B. Second, make it a daily routine.",
-        "C. However, reading too fast is not good.",
-        "D. Remove any distractions around you.",
-        "E. Finally, share what you've read with others."
+        "A. However, academic performance is not everything.",
+        "B. In addition, building good relationships with classmates is essential.",
+        "C. They can make your school life more colorful.",
+        "D. To begin with, developing good study habits is very important.",
+        "E. Finally, don't forget to look after your health."
       ],
       "correct_answer": "E",
-      "explanation": "选E。根据后文'write down your thoughts or discuss it with friends'（写下想法或与朋友讨论）和'Sharing your thoughts'（分享你的想法）可知，本段建议'最后，与他人分享你读过的内容'。E项'Finally, share what you've read with others'与之对应。注意Finally表示顺序的终结。A、B、D项已使用；C项与分享无关。",
+      "explanation": "本题考查段落衔接与顺序。文章结构为'总-分'，分述部分按'First...Second...Besides...Finally...'排列。此处为最后一段，应选E'最后，不要忘记照顾好自己的健康'。空后内容'健康饮食、充足睡眠、规律锻炼'均与健康相关。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Reading is an important part of our daily life and schoolwork. However, many middle school students find it difficult to form a good reading habit in their busy schedules. Here are some practical tips to help you become a better reader.\n\n(17)______ Don't force yourself to read classic novels if you prefer science fiction or comics. Choosing books that match your personal interests is the first step to enjoying reading. When you read something you like, time passes quickly.\n\n(18)______ Set aside at least 20 minutes each day for reading, no matter how busy you are. It could be before breakfast, during lunch break, or before bedtime. Consistency matters more than reading for three hours once a month. Making reading a regular part of your routine helps develop a lasting habit.\n\nAlso, find a quiet and comfortable place to read. (19)______ Turn off your phone notifications or put your electronic devices in another room. A peaceful environment allows you to focus deeply on the story or information in the book without interruptions.\n\n(20)______ After finishing an interesting book, try writing a short review or discussing the plot with classmates. Sharing your thoughts not only improves your understanding but also makes reading a more social and enjoyable activity. You might discover new perspectives from others."
+      "group_passage": "Being a good student is not only about getting good grades in exams. It also means developing good habits, maintaining a positive attitude, and growing as a well-rounded person. Here are some practical tips that can help you become a better student.\n\n(17)______ First, listen carefully in class and pay attention to what teachers say. Taking clear and organized notes can help you remember important points and review them later. Second, finish your homework on time and take it seriously. If you have any questions or difficulties, don't hesitate to ask your teachers or classmates for help immediately.\n\n(18)______ Getting on well with others is extremely important in school life. Try to be friendly, understanding, and helpful to those around you. When your classmates are in trouble or facing difficulties, be willing to give them a hand and offer your support sincerely.\n\nBesides, it's necessary to take part in various after-school activities. (19)______ You can join clubs based on your personal interests, such as the science club, the art club, or the sports team. These activities can help you develop your hobbies, discover new talents, and make friends who share similar interests.\n\n(20)______ Remember to eat healthily, get enough sleep, and exercise regularly. Physical health is the foundation of everything. Only with a strong and healthy body can you have enough energy to study better and achieve your goals."
     }
   ]
 }
