@@ -1,21 +1,21 @@
 ﻿{
-  "date": "2026-07-10",
+  "date": "2026-07-11",
   "session_number": 1,
   "questions": [
     {
       "id": 1,
       "type": "grammar",
       "knowledge_point": "present_perfect_vs_past_simple",
-      "difficulty": 1,
-      "stem": "I ______ the book already. It was really interesting.",
+      "difficulty": 2,
+      "stem": "—______ you ______ your homework yet? —Yes, I ______ it an hour ago.",
       "options": [
-        "A. read",
-        "B. have read",
-        "C. am reading",
-        "D. will read"
+        "A. Did; finish; finished",
+        "B. Have; finished; finished",
+        "C. Have; finished; have finished",
+        "D. Did; finish; have finished"
       ],
       "correct_answer": "B",
-      "explanation": "本题考查现在完成时与一般过去时的区别。句中的already（已经）是现在完成时的典型时间标志词，强调过去发生的动作对现在造成的影响或结果（已经读完了）。一般过去时只表示过去某个时间点发生的动作，不与already连用；现在进行时表示正在进行的动作；一般将来时表示将要发生的动作。解题技巧：看到already/yet/just/ever/never等词，优先考虑现在完成时（have/has + 过去分词）。",
+      "explanation": "【解析】第一空：yet（已经/还）是现在完成时的标志词，用于疑问句和否定句，结构为Have/Has+主语+done，故用Have; finished。第二空：an hour ago（一小时前）是一般过去时的标志词，表示过去某个时间点发生的动作，故用finished。【技巧】时态标志词记忆口诀：yet/already/ever/never/since/for用现完；yesterday/last week/ago用过去。",
       "label": "语法题"
     },
     {
@@ -23,7 +23,7 @@
       "type": "grammar",
       "knowledge_point": "relative_clause_who_which",
       "difficulty": 2,
-      "stem": "The girl ______ won the singing competition is my classmate.",
+      "stem": "The boy ______ is playing basketball over there is my classmate.",
       "options": [
         "A. who",
         "B. which",
@@ -31,55 +31,55 @@
         "D. whose"
       ],
       "correct_answer": "A",
-      "explanation": "本题考查定语从句关系代词的选择。先行词是the girl（指人），且关系代词在从句中作主语（won的主语），因此用who。which用于指物；whom用于指人但在从句中作宾语；whose表示'……的'，在从句中作定语。解题技巧：指人作主语用who，指人作宾语用whom/who，指物用which/that，表所属用whose。",
+      "explanation": "【解析】本题考查定语从句关系词。先行词The boy指人，且在定语从句______ is playing basketball中作主语，故用who。B选项which指物；C选项whom指人但作宾语；D选项whose表示所属关系（……的）。【技巧】定语从句关系词选择：指人主语用who，指人宾语用whom/who，指物用which/that，表示所属用whose。",
       "label": "语法题"
     },
     {
       "id": 3,
       "type": "grammar",
       "knowledge_point": "passive_voice",
-      "difficulty": 2,
-      "stem": "Many trees ______ by the students in our school last spring.",
+      "difficulty": 1,
+      "stem": "The book ______ by many students in our class every day.",
       "options": [
-        "A. plant",
-        "B. planted",
-        "C. were planted",
-        "D. are planted"
+        "A. is read",
+        "B. reads",
+        "C. was read",
+        "D. reading"
       ],
-      "correct_answer": "C",
-      "explanation": "本题考查被动语态的时态。主语Many trees与动词plant之间是被动关系（树被种植），时间状语last spring表明是一般过去时，因此用一般过去时的被动语态were planted。A是主动语态原形；B是主动语态过去式；D是一般现在时被动语态，时态不符。解题技巧：被动语态基本结构为'be + 过去分词'，确定时态看时间状语，确定单复数看主语。",
+      "correct_answer": "A",
+      "explanation": "【解析】every day（每天）表示一般现在时，主语The book与read之间是被动关系（书被读），故用一般现在时的被动语态is read。B选项是主动语态；C选项是过去时被动，与every day时间不符；D选项是现在分词，不能作谓语。【技巧】被动语态结构：be+过去分词，时态体现在be动词上（am/is/are/was/were）。",
       "label": "语法题"
     },
     {
       "id": 4,
       "type": "grammar",
-      "knowledge_point": "object_clause",
+      "knowledge_point": "present_perfect_vs_past_simple",
       "difficulty": 3,
-      "stem": "Could you tell me ______?",
+      "stem": "I ______ the book twice, but I ______ it to the library yesterday afternoon.",
       "options": [
-        "A. where is the nearest bookstore",
-        "B. where the nearest bookstore is",
-        "C. where does the nearest bookstore lie",
-        "D. where the nearest bookstore was"
+        "A. have read; returned",
+        "B. read; have returned",
+        "C. have read; have returned",
+        "D. read; returned"
       ],
-      "correct_answer": "B",
-      "explanation": "本题考查宾语从句的语序和时态。宾语从句必须使用陈述句语序（主语+谓语），排除A和C（疑问句语序）。主句Could you tell me是委婉请求，并非过去时，因此从句用现在时is，不用过去时was。解题技巧：宾语从句三要素——陈述语序、时态呼应（主过从过，主现从任）、连接词选择。",
+      "correct_answer": "A",
+      "explanation": "【解析】第一空：twice（两次）表示动作发生的次数，是经历，用现在完成时have read；第二空：yesterday afternoon（昨天下午）是明确的过去时间状语，用一般过去时returned。【技巧】现在完成时强调\"经历/影响/持续\"，一般过去时强调\"过去某时发生的动作\"。有具体过去时间（yesterday/last year/ago）必须用一般过去时。",
       "label": "语法题"
     },
     {
       "id": 5,
       "type": "vocabulary",
-      "knowledge_point": "context_logic",
+      "knowledge_point": "word_meaning",
       "difficulty": 1,
-      "stem": "It's raining heavily outside. Please take an umbrella with you, ______ you'll get wet.",
+      "stem": "It's ______ to walk in the park on such a sunny and warm day.",
       "options": [
-        "A. and",
-        "B. or",
-        "C. but",
-        "D. so"
+        "A. boring",
+        "B. pleasant",
+        "C. terrible",
+        "D. difficult"
       ],
       "correct_answer": "B",
-      "explanation": "本题考查连词在语境中的逻辑关系。根据句意'外面雨下得很大，请带上雨伞，______你会淋湿的'，前后是转折条件关系，or在此处意为'否则，不然'。and表并列/顺承；but表转折；so表结果。解题技巧：'祈使句 + or + 陈述句'表示'……否则……'，'祈使句 + and + 陈述句'表示'……那么……'。",
+      "explanation": "【解析】根据语境sunny and warm day（晴朗温暖的日子），在公园散步应该是\"愉快的\"。pleasant意为\"令人愉快的\"；boring（无聊的）、terrible（糟糕的）、difficult（困难的）均与语境不符。【技巧】语境猜词法：根据上下文描述的积极场景选择积极词汇。",
       "label": "词汇题"
     },
     {
@@ -87,270 +87,264 @@
       "type": "vocabulary",
       "knowledge_point": "phrasal_verbs",
       "difficulty": 2,
-      "stem": "We need to ______ a good solution to the environmental problem.",
+      "stem": "As students, we should ______ our best to protect the environment.",
       "options": [
-        "A. come up with",
-        "B. come out",
-        "C. come across",
-        "D. come true"
+        "A. try",
+        "B. make",
+        "C. do",
+        "D. take"
       ],
       "correct_answer": "A",
-      "explanation": "本题考查动词短语辨析。come up with意为'想出，提出（方案、主意等）'；come out意为'出版，出现，开花'；come across意为'偶然遇见/发现'；come true意为'实现'。根据宾语solution（解决方案），应选择'想出方案'。解题技巧：记住come的常见短语——come up with提出，come out出来/出版，come across偶遇，come from来自，come back回来。",
+      "explanation": "【解析】固定搭配try one's best to do sth.意为\"尽某人最大努力做某事\"。其他选项：make one's way（前进），do one's homework（做作业），take one's time（慢慢来），均不符合语境。【技巧】积累常见动词短语：try one's best, do one's best（也可表示尽力，但本题选项有try优先选try）。",
       "label": "词汇题"
     },
     {
       "id": 7,
       "type": "vocabulary",
-      "knowledge_point": "word_formation",
+      "knowledge_point": "word_meaning",
       "difficulty": 2,
-      "stem": "The ______ news made all of us very ______.",
+      "stem": "The ______ of this school activity is to raise students' awareness of environmental protection.",
       "options": [
-        "A. excited; exciting",
-        "B. exciting; excited",
-        "C. exciting; exciting",
-        "D. excited; excited"
+        "A. purpose",
+        "B. opinion",
+        "C. result",
+        "D. method"
       ],
-      "correct_answer": "B",
-      "explanation": "本题考查-ing形容词与-ed形容词的用法区别。exciting意为'令人兴奋的'，用于修饰事物（news）；excited意为'感到兴奋的'，用于修饰人（us）。口诀：'-ing形容物，-ed形容人'，即'物令ing，人感ed'。",
+      "correct_answer": "A",
+      "explanation": "【解析】purpose意为\"目的\"，与后面的to raise...（为了提高……）构成逻辑搭配，表示活动的目的。opinion（观点）、result（结果）、method（方法）均不符合句意。【技巧】注意名词与后置定语的搭配：the purpose of...is to do...（……的目的是为了……）。",
       "label": "词汇题"
     },
     {
       "id": 8,
       "type": "cloze",
-      "knowledge_point": "cloze_collocation",
+      "knowledge_point": "cloze_general",
       "difficulty": 1,
-      "stem": "(8)______",
+      "stem": "(8)___",
       "options": [
-        "A. take",
-        "B. make",
-        "C. have",
-        "D. get"
+        "A. because",
+        "B. instead",
+        "C. ahead",
+        "D. out"
       ],
-      "correct_answer": "A",
-      "explanation": "本题考查固定搭配。take part in是固定短语，意为'参加'。make、have、get与part in均不能构成此搭配。解题技巧：记住常见搭配——take part in参加（活动），join加入（组织/人），attend出席（会议/课程）。",
-      "label": "完形填空",
+      "correct_answer": "B",
       "group": "cloze_1",
-      "group_passage": "Last month, our school organized a meaningful environmental protection activity. All the students in Grade 8 were asked to (8)______ part in it. The activity aimed to make us understand the (9)______ of protecting our environment and taking care of our city.\n\nOn that sunny Saturday morning, we gathered at the school gate at 8 o'clock. Then we walked to a nearby community park together. When we arrived, our teacher divided us into several groups and assigned different tasks to each group. Some students were responsible for picking up rubbish on the ground, (10)______ others were asked to water the young trees and flowers. I was in the group responsible for putting up warning signs around the park. The signs said \"No (11)______\" and \"Keep Off the Grass\". We also handed out leaflets to visitors to tell them the importance of keeping the park clean.\n\nAlthough we felt tired after the whole day's work, we were very happy and proud. Through this practical activity, we not only learned how to work together as a team but also realized that everyone should (12)______ an active role in making our hometown a better place. It was truly an unforgettable experience for all of us."
+      "group_passage": "Last month, our school organized an interesting activity called \"Green School Week\". The aim was to help students understand the importance of environmental protection.\n\nDuring the week, we were asked to do several things. First, we needed to bring our own water bottles (8) of buying plastic ones. Second, we had to collect waste paper and bottles for recycling. Many students found it (9) to take part in these activities.\n\nOn the last day, our class held a sharing meeting. We talked about (10) we had learned from the activity. Some students said they realized how serious the pollution problem was. Others (11) to keep doing green things in daily life.\n\nThe activity not only taught us knowledge about the environment, but also helped us develop good habits. I believe small actions can make a big (12) to our world.",
+      "explanation": "【解析】考查固定搭配instead of（代替，而不是）。句意：我们需要带自己的水瓶，而不是购买塑料瓶。instead of是介词短语，后接动名词buying符合语法。其他选项：because of（因为），ahead of（在……之前），out of（出于/在……外）。【技巧】完形填空注意固定搭配，instead of是中考高频考点，表示对比转折关系。",
+      "label": "完形填空"
     },
     {
       "id": 9,
       "type": "cloze",
-      "knowledge_point": "cloze_context",
+      "knowledge_point": "cloze_general",
       "difficulty": 2,
-      "stem": "(9)______",
+      "stem": "(9)___",
       "options": [
-        "A. importance",
-        "B. different",
-        "C. difficult",
-        "D. interesting"
+        "A. boring",
+        "B. useless",
+        "C. meaningful",
+        "D. difficult"
       ],
-      "correct_answer": "A",
-      "explanation": "本题考查语境理解与词性辨析。定冠词the后需接名词，构成'the + n. + of'结构。importance（重要性）是名词，符合句意'保护环境的重要性'。different（不同的）、difficult（困难的）是形容词；interesting（有趣的）虽是形容词，但语义不符。解题技巧：看到'the ___ of'结构，空格处通常填名词。",
-      "label": "完形填空",
+      "correct_answer": "C",
       "group": "cloze_1",
-      "group_passage": "Last month, our school organized a meaningful environmental protection activity. All the students in Grade 8 were asked to (8)______ part in it. The activity aimed to make us understand the (9)______ of protecting our environment and taking care of our city.\n\nOn that sunny Saturday morning, we gathered at the school gate at 8 o'clock. Then we walked to a nearby community park together. When we arrived, our teacher divided us into several groups and assigned different tasks to each group. Some students were responsible for picking up rubbish on the ground, (10)______ others were asked to water the young trees and flowers. I was in the group responsible for putting up warning signs around the park. The signs said \"No (11)______\" and \"Keep Off the Grass\". We also handed out leaflets to visitors to tell them the importance of keeping the park clean.\n\nAlthough we felt tired after the whole day's work, we were very happy and proud. Through this practical activity, we not only learned how to work together as a team but also realized that everyone should (12)______ an active role in making our hometown a better place. It was truly an unforgettable experience for all of us."
+      "group_passage": "Last month, our school organized an interesting activity called \"Green School Week\". The aim was to help students understand the importance of environmental protection.\n\nDuring the week, we were asked to do several things. First, we needed to bring our own water bottles (8) of buying plastic ones. Second, we had to collect waste paper and bottles for recycling. Many students found it (9) to take part in these activities.\n\nOn the last day, our class held a sharing meeting. We talked about (10) we had learned from the activity. Some students said they realized how serious the pollution problem was. Others (11) to keep doing green things in daily life.\n\nThe activity not only taught us knowledge about the environment, but also helped us develop good habits. I believe small actions can make a big (12) to our world.",
+      "explanation": "【解析】考查语境推理。前文提到活动目的是帮助学生理解环保的重要性，且学生参与了回收等活动，因此应该是觉得\"有意义的\"（meaningful）。boring（无聊的）、useless（无用的）与文章积极基调不符；difficult（困难的）在下文没有体现。【技巧】完形填空要把握全文情感基调，本文是积极正面的环保活动，应选褒义词。",
+      "label": "完形填空"
     },
     {
       "id": 10,
       "type": "cloze",
-      "knowledge_point": "cloze_logic",
+      "knowledge_point": "object_clause",
       "difficulty": 2,
-      "stem": "(10)______",
+      "stem": "(10)___",
       "options": [
-        "A. because",
-        "B. while",
-        "C. if",
-        "D. unless"
+        "A. what",
+        "B. that",
+        "C. which",
+        "D. where"
       ],
-      "correct_answer": "B",
-      "explanation": "本题考查逻辑关系与连词用法。while在此处表示对比关系，意为'而，然而'，连接两个并列分句'Some students...'和'others...'，表示两组人同时做不同的事情。because表原因；if表条件；unless表'除非'。解题技巧：while除了'当……时候'，还可表对比，相当于'but'，用于连接两个相反或不同的情况。",
-      "label": "完形填空",
+      "correct_answer": "A",
       "group": "cloze_1",
-      "group_passage": "Last month, our school organized a meaningful environmental protection activity. All the students in Grade 8 were asked to (8)______ part in it. The activity aimed to make us understand the (9)______ of protecting our environment and taking care of our city.\n\nOn that sunny Saturday morning, we gathered at the school gate at 8 o'clock. Then we walked to a nearby community park together. When we arrived, our teacher divided us into several groups and assigned different tasks to each group. Some students were responsible for picking up rubbish on the ground, (10)______ others were asked to water the young trees and flowers. I was in the group responsible for putting up warning signs around the park. The signs said \"No (11)______\" and \"Keep Off the Grass\". We also handed out leaflets to visitors to tell them the importance of keeping the park clean.\n\nAlthough we felt tired after the whole day's work, we were very happy and proud. Through this practical activity, we not only learned how to work together as a team but also realized that everyone should (12)______ an active role in making our hometown a better place. It was truly an unforgettable experience for all of us."
+      "group_passage": "Last month, our school organized an interesting activity called \"Green School Week\". The aim was to help students understand the importance of environmental protection.\n\nDuring the week, we were asked to do several things. First, we needed to bring our own water bottles (8) of buying plastic ones. Second, we had to collect waste paper and bottles for recycling. Many students found it (9) to take part in these activities.\n\nOn the last day, our class held a sharing meeting. We talked about (10) we had learned from the activity. Some students said they realized how serious the pollution problem was. Others (11) to keep doing green things in daily life.\n\nThe activity not only taught us knowledge about the environment, but also helped us develop good habits. I believe small actions can make a big (12) to our world.",
+      "explanation": "【解析】考查宾语从句连接词。空格处引导宾语从句作talked about的宾语，且在从句中作learned的宾语（学到的东西），故用what。that在宾语从句中不充当成分；which表示\"哪一个\"（有选择范围）；where作地点状语。【技巧】宾语从句缺主语/宾语/表语时用what；缺地点状语用where；不缺成分用that；是否用if/whether。",
+      "label": "完形填空"
     },
     {
       "id": 11,
       "type": "cloze",
-      "knowledge_point": "cloze_sign_expression",
+      "knowledge_point": "cloze_general",
       "difficulty": 2,
-      "stem": "(11)______",
+      "stem": "(11)___",
       "options": [
-        "A. littering",
-        "B. to litter",
-        "C. litter",
-        "D. littered"
+        "A. hoped",
+        "B. promised",
+        "C. refused",
+        "D. forgot"
       ],
-      "correct_answer": "A",
-      "explanation": "本题考查标识语的固定表达。'No + 动名词'是标识语的常用结构，表示'禁止做某事'，No littering意为'禁止乱扔垃圾'。类似表达：No smoking（禁止吸烟）、No parking（禁止停车）。解题技巧：标识语中No后接动名词（doing），不接不定式或原形。",
-      "label": "完形填空",
+      "correct_answer": "B",
       "group": "cloze_1",
-      "group_passage": "Last month, our school organized a meaningful environmental protection activity. All the students in Grade 8 were asked to (8)______ part in it. The activity aimed to make us understand the (9)______ of protecting our environment and taking care of our city.\n\nOn that sunny Saturday morning, we gathered at the school gate at 8 o'clock. Then we walked to a nearby community park together. When we arrived, our teacher divided us into several groups and assigned different tasks to each group. Some students were responsible for picking up rubbish on the ground, (10)______ others were asked to water the young trees and flowers. I was in the group responsible for putting up warning signs around the park. The signs said \"No (11)______\" and \"Keep Off the Grass\". We also handed out leaflets to visitors to tell them the importance of keeping the park clean.\n\nAlthough we felt tired after the whole day's work, we were very happy and proud. Through this practical activity, we not only learned how to work together as a team but also realized that everyone should (12)______ an active role in making our hometown a better place. It was truly an unforgettable experience for all of us."
+      "group_passage": "Last month, our school organized an interesting activity called \"Green School Week\". The aim was to help students understand the importance of environmental protection.\n\nDuring the week, we were asked to do several things. First, we needed to bring our own water bottles (8) of buying plastic ones. Second, we had to collect waste paper and bottles for recycling. Many students found it (9) to take part in these activities.\n\nOn the last day, our class held a sharing meeting. We talked about (10) we had learned from the activity. Some students said they realized how serious the pollution problem was. Others (11) to keep doing green things in daily life.\n\nThe activity not only taught us knowledge about the environment, but also helped us develop good habits. I believe small actions can make a big (12) to our world.",
+      "explanation": "【解析】考查语境推理。前文提到学生们意识到污染问题的严重性，因此其他人\"承诺\"（promised）在日常生活中继续做环保事情符合逻辑。hope to do（希望做）虽语法正确，但promise更能体现决心；refused（拒绝）和forgot（忘记）与语境相反。【技巧】注意上下文逻辑关系，前文\"realized how serious\"提示后文应该是积极行动。",
+      "label": "完形填空"
     },
     {
       "id": 12,
       "type": "cloze",
-      "knowledge_point": "cloze_collocation",
+      "knowledge_point": "cloze_general",
       "difficulty": 1,
-      "stem": "(12)______",
+      "stem": "(12)___",
       "options": [
-        "A. make",
-        "B. take",
-        "C. play",
-        "D. do"
+        "A. problem",
+        "B. decision",
+        "C. difference",
+        "D. plan"
       ],
       "correct_answer": "C",
-      "explanation": "本题考查固定搭配。play a role in...是固定短语，意为'在……中起作用/扮演角色'，也可说play a part in。句意为'每个人都应该在让家乡变得更美好方面发挥作用'。take part in参加（活动）；make制造；do做。解题技巧：记住固定搭配——play a role/part in发挥作用，take part in参加。",
-      "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school organized a meaningful environmental protection activity. All the students in Grade 8 were asked to (8)______ part in it. The activity aimed to make us understand the (9)______ of protecting our environment and taking care of our city.\n\nOn that sunny Saturday morning, we gathered at the school gate at 8 o'clock. Then we walked to a nearby community park together. When we arrived, our teacher divided us into several groups and assigned different tasks to each group. Some students were responsible for picking up rubbish on the ground, (10)______ others were asked to water the young trees and flowers. I was in the group responsible for putting up warning signs around the park. The signs said \"No (11)______\" and \"Keep Off the Grass\". We also handed out leaflets to visitors to tell them the importance of keeping the park clean.\n\nAlthough we felt tired after the whole day's work, we were very happy and proud. Through this practical activity, we not only learned how to work together as a team but also realized that everyone should (12)______ an active role in making our hometown a better place. It was truly an unforgettable experience for all of us."
+      "group_passage": "Last month, our school organized an interesting activity called \"Green School Week\". The aim was to help students understand the importance of environmental protection.\n\nDuring the week, we were asked to do several things. First, we needed to bring our own water bottles (8) of buying plastic ones. Second, we had to collect waste paper and bottles for recycling. Many students found it (9) to take part in these activities.\n\nOn the last day, our class held a sharing meeting. We talked about (10) we had learned from the activity. Some students said they realized how serious the pollution problem was. Others (11) to keep doing green things in daily life.\n\nThe activity not only taught us knowledge about the environment, but also helped us develop good habits. I believe small actions can make a big (12) to our world.",
+      "explanation": "【解析】考查固定搭配make a difference（产生影响，有所作为）。句意：我相信小小的行动可以给我们的世界带来很大影响。其他选项：make a problem（制造问题），make a decision（做决定），make a plan（制定计划），均不符合语境。【技巧】积累中考高频短语make a difference，常考搭配为make a difference to...（对……产生影响）。",
+      "label": "完形填空"
     },
     {
       "id": 13,
       "type": "reading",
       "knowledge_point": "detail",
-      "difficulty": 2,
-      "stem": "How many hours of sleep do teenagers need every night according to the passage?",
+      "difficulty": 1,
+      "stem": "What will the smart pot do when the soil becomes too dry?",
       "options": [
-        "A. 6-7 hours",
-        "B. 7-8 hours",
-        "C. 8-10 hours",
-        "D. 10-12 hours"
+        "A. Send a message to the user's phone.",
+        "B. Add water to the soil by itself.",
+        "C. Show the temperature on the screen.",
+        "D. Connect to the smartphone immediately."
       ],
-      "correct_answer": "C",
-      "explanation": "本题为细节理解题。根据文章第二段最后一句'For teenagers, experts recommend getting about 8 to 10 hours of sleep every night...'可知，青少年每晚需要8-10小时睡眠。解题技巧：细节题采用'关键词定位法'，在题干中找关键词（teenagers/hours of sleep），快速回原文定位相关句子，仔细比对选项与原文的同义表达。",
-      "label": "阅读-细节理解",
+      "correct_answer": "B",
       "group": "reading_1",
-      "group_passage": "Do you know how to keep your brain healthy and active? Many people hold the mistaken belief that only elderly people need to worry about their brain health. However, according to scientific research, we should start taking good care of our brains from a young age. The habits we form during our teenage years can have a lasting impact on our cognitive function throughout life.\n\nFirst and foremost, getting sufficient sleep is essential for brain health. Studies demonstrate that sleep helps the brain remove waste products that accumulate during the day. For teenagers, experts recommend getting about 8 to 10 hours of sleep every night to ensure optimal brain performance.\n\nSecond, engaging in regular physical exercise is beneficial for the brain. When you participate in activities such as running or playing basketball, your heart pumps more oxygen-rich blood to your brain. This helps improve memory, concentration, and mental clarity.\n\nThird, maintaining a healthy diet matters significantly too. Foods rich in omega-3 fatty acids, such as fish and walnuts, are particularly good for brain function. Additionally, colorful fruits contain antioxidants that protect brain cells.\n\nAnother way to keep your brain sharp is to learn new things. You could learn a new language, play a musical instrument, or try a new sport. These activities create new neural connections in your brain.\n\nFinally, maintaining strong social connections is important for brain health. Having meaningful conversations with friends exercises your brain and reduces stress."
+      "group_passage": "Do you often forget to water your plants when you go on vacation? A new smart pot might solve this problem for you.\n\nThis special pot, invented by a group of high school students in Shenzhen, can take care of plants automatically. It has sensors (传感器) that can check the soil condition. When the soil becomes too dry, the pot will add water by itself. It also has a small screen to show how your plant is doing.\n\nWhat's more, the pot can connect to your smartphone through an app. Even when you are far away from home, you can still know if your plants need help. The app will send you messages about the temperature, light, and water level.\n\nThe inventors said they created this product because they noticed many people love plants but don't have enough time to care for them. \"We hope our smart pot can help more people enjoy gardening without worry,\" said Li Ming, the team leader.\n\nThe smart pot has won several awards in science competitions. It will be available in the market next year at a price of about 200 yuan.",
+      "explanation": "【解析】细节理解题。根据第二段第四句\"When the soil becomes too dry, the pot will add water by itself.\"（当土壤变得太干时，花盆会自动加水。）可知答案为B。A选项是手机App的功能；C选项屏幕显示的是植物状况而非温度；D选项连接手机是持续状态，不是在土壤干时发生的动作。【技巧】细节题要准确定位原文，注意题干关键词soil becomes dry对应原文原句。",
+      "label": "阅读-细节理解"
     },
     {
       "id": 14,
       "type": "reading",
-      "knowledge_point": "inference",
-      "difficulty": 3,
-      "stem": "What can we infer from the passage?",
+      "knowledge_point": "word_guessing_context",
+      "difficulty": 2,
+      "stem": "The underlined word \"available\" in the last paragraph probably means ______.",
       "options": [
-        "A. Only old people need to care about brain health.",
-        "B. Learning new things is useless for teenagers.",
-        "C. Exercise can help improve brain function.",
-        "D. We should avoid talking with others to protect the brain."
+        "A. easy to find",
+        "B. ready for use",
+        "C. very expensive",
+        "D. quite popular"
       ],
-      "correct_answer": "C",
-      "explanation": "本题为推理判断题。A项与第一段'Many people hold the mistaken belief...'相悖；B项与第五段内容相悖；D项与最后一段'maintaining strong social connections is important'相悖。C项可由第三段'This helps improve memory, concentration, and mental clarity'推断得出，运动能改善大脑功能。解题技巧：推理题要基于原文信息进行合理推断，不能选与原文明确矛盾的选项，也不能选原文未提及的过度推断。",
-      "label": "阅读-推理判断",
-      "group": "reading_1",
-      "group_passage": "Do you know how to keep your brain healthy and active? Many people hold the mistaken belief that only elderly people need to worry about their brain health. However, according to scientific research, we should start taking good care of our brains from a young age. The habits we form during our teenage years can have a lasting impact on our cognitive function throughout life.\n\nFirst and foremost, getting sufficient sleep is essential for brain health. Studies demonstrate that sleep helps the brain remove waste products that accumulate during the day. For teenagers, experts recommend getting about 8 to 10 hours of sleep every night to ensure optimal brain performance.\n\nSecond, engaging in regular physical exercise is beneficial for the brain. When you participate in activities such as running or playing basketball, your heart pumps more oxygen-rich blood to your brain. This helps improve memory, concentration, and mental clarity.\n\nThird, maintaining a healthy diet matters significantly too. Foods rich in omega-3 fatty acids, such as fish and walnuts, are particularly good for brain function. Additionally, colorful fruits contain antioxidants that protect brain cells.\n\nAnother way to keep your brain sharp is to learn new things. You could learn a new language, play a musical instrument, or try a new sport. These activities create new neural connections in your brain.\n\nFinally, maintaining strong social connections is important for brain health. Having meaningful conversations with friends exercises your brain and reduces stress."
+      "correct_answer": "B",
+      "explanation": "【解析】词义猜测题。根据最后一段\"It will be available in the market next year at a price of about 200 yuan.\"（它将于明年在市场上available，价格约200元。）可知，available指\"可获得的，可买到的\"，即ready for use/purchase（可供使用/购买）。A选项（容易找到）不准确；C选项（昂贵）与词义无关；D选项（流行）是available之后可能产生的结果而非词义本身。【技巧】词义猜测题根据上下文逻辑，产品发明后进入市场供人购买，即\"可供使用的\"。",
+      "label": "阅读-词义猜测"
     },
     {
       "id": 15,
       "type": "reading",
-      "knowledge_point": "word_guessing",
+      "knowledge_point": "inference",
       "difficulty": 2,
-      "stem": "The underlined word 'remove' in Paragraph 2 probably means ______.",
+      "stem": "What can we learn from the passage?",
       "options": [
-        "A. produce",
-        "B. take away",
-        "C. increase",
-        "D. create"
+        "A. The smart pot is too expensive for students.",
+        "B. Li Ming invented the smart pot all by himself.",
+        "C. The smart pot can only be used in Shenzhen.",
+        "D. The inventors created the product based on people's needs."
       ],
-      "correct_answer": "B",
-      "explanation": "本题为词义猜测题。根据上下文'睡眠帮助大脑______白天积累的废物'，结合逻辑，应该是'清除、带走'废物。remove意为'移除，去掉'，与take away同义。produce生产；increase增加；create创造，均不符合语境。解题技巧：词义猜测可通过上下文逻辑（废物需要被清除）、同义词/反义词、构词法（re-再+move移动）或代入法验证。",
-      "label": "阅读-词义猜测",
-      "group": "reading_1",
-      "group_passage": "Do you know how to keep your brain healthy and active? Many people hold the mistaken belief that only elderly people need to worry about their brain health. However, according to scientific research, we should start taking good care of our brains from a young age. The habits we form during our teenage years can have a lasting impact on our cognitive function throughout life.\n\nFirst and foremost, getting sufficient sleep is essential for brain health. Studies demonstrate that sleep helps the brain remove waste products that accumulate during the day. For teenagers, experts recommend getting about 8 to 10 hours of sleep every night to ensure optimal brain performance.\n\nSecond, engaging in regular physical exercise is beneficial for the brain. When you participate in activities such as running or playing basketball, your heart pumps more oxygen-rich blood to your brain. This helps improve memory, concentration, and mental clarity.\n\nThird, maintaining a healthy diet matters significantly too. Foods rich in omega-3 fatty acids, such as fish and walnuts, are particularly good for brain function. Additionally, colorful fruits contain antioxidants that protect brain cells.\n\nAnother way to keep your brain sharp is to learn new things. You could learn a new language, play a musical instrument, or try a new sport. These activities create new neural connections in your brain.\n\nFinally, maintaining strong social connections is important for brain health. Having meaningful conversations with friends exercises your brain and reduces stress."
+      "correct_answer": "D",
+      "explanation": "【解析】推理判断题。根据第四段第一句\"The inventors said they created this product because they noticed many people love plants but don't have enough time to care for them.\"（发明者说他们创造这个产品是因为他们注意到很多人喜欢植物但没有足够时间照顾。）可推断出，发明者是根据人们的需求创造产品的，故选D。A选项200元是否太贵文中未评价；B选项与第一段\"a group of high school students\"（一群学生）矛盾；C选项文中未提及地域限制。【技巧】推理题要基于原文信息进行合理推断，不能过度推断或选择文中未提及的信息。",
+      "label": "阅读-推理判断"
     },
     {
       "id": 16,
       "type": "reading",
-      "knowledge_point": "main_idea",
+      "knowledge_point": "main_idea_title",
       "difficulty": 3,
-      "stem": "What is the best title for this passage?",
+      "stem": "What is the best title for the passage?",
       "options": [
-        "A. How to Sleep Well",
-        "B. The Importance of Exercise",
-        "C. Ways to Keep Your Brain Healthy",
-        "D. Healthy Food for Teenagers"
+        "A. How to Water Plants Properly",
+        "B. High School Students in Shenzhen",
+        "C. A Smart Pot for Plant Lovers",
+        "D. Gardening as a Popular Hobby"
       ],
       "correct_answer": "C",
-      "explanation": "本题考查主旨大意/最佳标题。文章首句'Do you know how to keep your brain healthy and active?'即点明主题，随后从睡眠、运动、饮食、学习新事物、社交五个方面介绍保持大脑健康的方法。A、B、D仅涉及其中一个方面，过于片面。C项'保持大脑健康的方法'概括全文。解题技巧：最佳标题要能概括全文主要内容，不能太大（如Health）也不能太片面（只涉及某一段），通常首段或尾段会出现主题句。",
-      "label": "阅读-主旨大意",
-      "group": "reading_1",
-      "group_passage": "Do you know how to keep your brain healthy and active? Many people hold the mistaken belief that only elderly people need to worry about their brain health. However, according to scientific research, we should start taking good care of our brains from a young age. The habits we form during our teenage years can have a lasting impact on our cognitive function throughout life.\n\nFirst and foremost, getting sufficient sleep is essential for brain health. Studies demonstrate that sleep helps the brain remove waste products that accumulate during the day. For teenagers, experts recommend getting about 8 to 10 hours of sleep every night to ensure optimal brain performance.\n\nSecond, engaging in regular physical exercise is beneficial for the brain. When you participate in activities such as running or playing basketball, your heart pumps more oxygen-rich blood to your brain. This helps improve memory, concentration, and mental clarity.\n\nThird, maintaining a healthy diet matters significantly too. Foods rich in omega-3 fatty acids, such as fish and walnuts, are particularly good for brain function. Additionally, colorful fruits contain antioxidants that protect brain cells.\n\nAnother way to keep your brain sharp is to learn new things. You could learn a new language, play a musical instrument, or try a new sport. These activities create new neural connections in your brain.\n\nFinally, maintaining strong social connections is important for brain health. Having meaningful conversations with friends exercises your brain and reduces stress."
+      "explanation": "【解析】主旨大意题。全文围绕\"智能花盆\"（smart pot）展开，介绍其功能、发明背景、发明者意图等。A选项（如何正确浇水）只是引出问题的一个细节；B选项（深圳高中生）只是发明者身份；D选项（园艺作为流行爱好）是背景信息。C选项（为植物爱好者设计的智能花盆）最能概括全文主旨。【技巧】主旨题/标题题要抓住全文核心话题，通常是反复出现的关键词（本文是smart pot），并涵盖文章主要内容。",
+      "label": "阅读-主旨大意"
     },
     {
       "id": 17,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "stem": "(17)______",
+      "stem": "(17)___",
       "options": [
-        "A. However, academic performance is not everything.",
-        "B. In addition, building good relationships with classmates is essential.",
-        "C. They can make your school life more colorful.",
-        "D. To begin with, developing good study habits is very important.",
-        "E. Finally, don't forget to look after your health."
+        "A. However, it's not impossible to solve this problem.",
+        "B. This helps you see how much free time you actually have.",
+        "C. For example, finish your homework first.",
+        "D. Everyone has their own way of balancing things.",
+        "E. In addition, you can ask teachers for help."
       ],
-      "correct_answer": "D",
-      "explanation": "本题考查段落主旨句与连接词。空后内容'First...Second...'讲的是上课认真听讲、做笔记、按时完成作业等学习习惯，因此选D'首先，养成良好的学习习惯非常重要'。To begin with与First呼应，符合'总-分'结构。",
-      "label": "短文填空",
+      "correct_answer": "A",
       "group": "fill_1",
-      "group_passage": "Being a good student is not only about getting good grades in exams. It also means developing good habits, maintaining a positive attitude, and growing as a well-rounded person. Here are some practical tips that can help you become a better student.\n\n(17)______ First, listen carefully in class and pay attention to what teachers say. Taking clear and organized notes can help you remember important points and review them later. Second, finish your homework on time and take it seriously. If you have any questions or difficulties, don't hesitate to ask your teachers or classmates for help immediately.\n\n(18)______ Getting on well with others is extremely important in school life. Try to be friendly, understanding, and helpful to those around you. When your classmates are in trouble or facing difficulties, be willing to give them a hand and offer your support sincerely.\n\nBesides, it's necessary to take part in various after-school activities. (19)______ You can join clubs based on your personal interests, such as the science club, the art club, or the sports team. These activities can help you develop your hobbies, discover new talents, and make friends who share similar interests.\n\n(20)______ Remember to eat healthily, get enough sleep, and exercise regularly. Physical health is the foundation of everything. Only with a strong and healthy body can you have enough energy to study better and achieve your goals."
+      "group_passage": "Many students have trouble balancing their schoolwork and hobbies. They often feel stressed when they can't find enough time for both. (17) ______ Here are some useful tips.\n\nFirst, make a schedule. Write down all your tasks and activities for the week. (18) ______ This way, you won't forget important things.\n\nSecond, learn to focus. When you study, put away your phone and other distractions. (19) ______ Then you can enjoy your hobbies without worry.\n\nFinally, remember that quality matters more than quantity. It's better to spend one hour fully enjoying your hobby than three hours worrying about homework while doing it. (20) ______ Just try your best and find what works for you.",
+      "explanation": "【解析】考查段落衔接与逻辑关系。前文说\"很多学生难以平衡学业和爱好，感到压力\"，后文说\"这里有一些有用的建议\"，因此中间需要转折过渡，表示\"然而，解决这个问题并非不可能\"。However表示转折，承上启下引出解决方案。【技巧】选句填空要注意空格前后的逻辑关系，前文讲问题，后文讲解决方法，中间用转折词However过渡。",
+      "label": "短文填空"
     },
     {
       "id": 18,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "stem": "(18)______",
+      "stem": "(18)___",
       "options": [
-        "A. However, academic performance is not everything.",
-        "B. In addition, building good relationships with classmates is essential.",
-        "C. They can make your school life more colorful.",
-        "D. To begin with, developing good study habits is very important.",
-        "E. Finally, don't forget to look after your health."
+        "A. However, it's not impossible to solve this problem.",
+        "B. This helps you see how much free time you actually have.",
+        "C. For example, finish your homework first.",
+        "D. Everyone has their own way of balancing things.",
+        "E. In addition, you can ask teachers for help."
       ],
       "correct_answer": "B",
-      "explanation": "本题考查段落衔接。空后内容讲的是'与同学相处融洽很重要'，与B项'此外，与同学建立良好关系至关重要'完全对应。In addition表示递进，引出第二个建议（第一点讲学习习惯，第二点讲人际关系）。",
-      "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Being a good student is not only about getting good grades in exams. It also means developing good habits, maintaining a positive attitude, and growing as a well-rounded person. Here are some practical tips that can help you become a better student.\n\n(17)______ First, listen carefully in class and pay attention to what teachers say. Taking clear and organized notes can help you remember important points and review them later. Second, finish your homework on time and take it seriously. If you have any questions or difficulties, don't hesitate to ask your teachers or classmates for help immediately.\n\n(18)______ Getting on well with others is extremely important in school life. Try to be friendly, understanding, and helpful to those around you. When your classmates are in trouble or facing difficulties, be willing to give them a hand and offer your support sincerely.\n\nBesides, it's necessary to take part in various after-school activities. (19)______ You can join clubs based on your personal interests, such as the science club, the art club, or the sports team. These activities can help you develop your hobbies, discover new talents, and make friends who share similar interests.\n\n(20)______ Remember to eat healthily, get enough sleep, and exercise regularly. Physical health is the foundation of everything. Only with a strong and healthy body can you have enough energy to study better and achieve your goals."
+      "group_passage": "Many students have trouble balancing their schoolwork and hobbies. They often feel stressed when they can't find enough time for both. (17) ______ Here are some useful tips.\n\nFirst, make a schedule. Write down all your tasks and activities for the week. (18) ______ This way, you won't forget important things.\n\nSecond, learn to focus. When you study, put away your phone and other distractions. (19) ______ Then you can enjoy your hobbies without worry.\n\nFinally, remember that quality matters more than quantity. It's better to spend one hour fully enjoying your hobby than three hours worrying about homework while doing it. (20) ______ Just try your best and find what works for you.",
+      "explanation": "【解析】考查指代关系与逻辑衔接。前文说\"制定时间表，写下所有任务和活动\"，后文说\"这样你就不会忘记重要的事情\"，因此空格处应解释制定时间表的好处。This指代前文\"制定时间表并写下任务\"这件事，说明这样做能帮助你看到实际有多少空闲时间。【技巧】注意代词指代，This helps...中的This通常指代前文提到的做法。",
+      "label": "短文填空"
     },
     {
       "id": 19,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "stem": "(19)______",
+      "stem": "(19)___",
       "options": [
-        "A. However, academic performance is not everything.",
-        "B. In addition, building good relationships with classmates is essential.",
-        "C. They can make your school life more colorful.",
-        "D. To begin with, developing good study habits is very important.",
-        "E. Finally, don't forget to look after your health."
+        "A. However, it's not impossible to solve this problem.",
+        "B. This helps you see how much free time you actually have.",
+        "C. For example, finish your homework first.",
+        "C. For example, finish your homework first.",
+        "E. In addition, you can ask teachers for help."
       ],
       "correct_answer": "C",
-      "explanation": "本题考查代词指代与逻辑衔接。空前提到'参加课外活动'，C项'它们能让你的学校生活更加丰富多彩'中的They指代前文的after-school activities，说明参加活动的好处，承接自然。",
-      "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Being a good student is not only about getting good grades in exams. It also means developing good habits, maintaining a positive attitude, and growing as a well-rounded person. Here are some practical tips that can help you become a better student.\n\n(17)______ First, listen carefully in class and pay attention to what teachers say. Taking clear and organized notes can help you remember important points and review them later. Second, finish your homework on time and take it seriously. If you have any questions or difficulties, don't hesitate to ask your teachers or classmates for help immediately.\n\n(18)______ Getting on well with others is extremely important in school life. Try to be friendly, understanding, and helpful to those around you. When your classmates are in trouble or facing difficulties, be willing to give them a hand and offer your support sincerely.\n\nBesides, it's necessary to take part in various after-school activities. (19)______ You can join clubs based on your personal interests, such as the science club, the art club, or the sports team. These activities can help you develop your hobbies, discover new talents, and make friends who share similar interests.\n\n(20)______ Remember to eat healthily, get enough sleep, and exercise regularly. Physical health is the foundation of everything. Only with a strong and healthy body can you have enough energy to study better and achieve your goals."
+      "group_passage": "Many students have trouble balancing their schoolwork and hobbies. They often feel stressed when they can't find enough time for both. (17) ______ Here are some useful tips.\n\nFirst, make a schedule. Write down all your tasks and activities for the week. (18) ______ This way, you won't forget important things.\n\nSecond, learn to focus. When you study, put away your phone and other distractions. (19) ______ Then you can enjoy your hobbies without worry.\n\nFinally, remember that quality matters more than quantity. It's better to spend one hour fully enjoying your hobby than three hours worrying about homework while doing it. (20) ______ Just try your best and find what works for you.",
+      "explanation": "【解析】考查举例说明与逻辑顺序。本段主题是learn to focus（学会专注）并远离干扰，后文说\"然后你可以无忧无虑地享受爱好\"，因此空格处应该是具体的建议——先完成作业。For example引出具体例子，finish your homework first与enjoy your hobbies形成先后逻辑关系。【技巧】注意逻辑顺序词Then（然后），提示前文应该有\"先……\"的动作。",
+      "label": "短文填空"
     },
     {
       "id": 20,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "stem": "(20)______",
+      "stem": "(20)___",
       "options": [
-        "A. However, academic performance is not everything.",
-        "B. In addition, building good relationships with classmates is essential.",
-        "C. They can make your school life more colorful.",
-        "D. To begin with, developing good study habits is very important.",
-        "E. Finally, don't forget to look after your health."
+        "A. However, it's not impossible to solve this problem.",
+        "B. This helps you see how much free time you actually have.",
+        "C. For example, finish your homework first.",
+        "D. Everyone has their own way of balancing things.",
+        "E. In addition, you can ask teachers for help."
       ],
-      "correct_answer": "E",
-      "explanation": "本题考查段落衔接与顺序。文章结构为'总-分'，分述部分按'First...Second...Besides...Finally...'排列。此处为最后一段，应选E'最后，不要忘记照顾好自己的健康'。空后内容'健康饮食、充足睡眠、规律锻炼'均与健康相关。",
-      "label": "短文填空",
+      "correct_answer": "D",
       "group": "fill_1",
-      "group_passage": "Being a good student is not only about getting good grades in exams. It also means developing good habits, maintaining a positive attitude, and growing as a well-rounded person. Here are some practical tips that can help you become a better student.\n\n(17)______ First, listen carefully in class and pay attention to what teachers say. Taking clear and organized notes can help you remember important points and review them later. Second, finish your homework on time and take it seriously. If you have any questions or difficulties, don't hesitate to ask your teachers or classmates for help immediately.\n\n(18)______ Getting on well with others is extremely important in school life. Try to be friendly, understanding, and helpful to those around you. When your classmates are in trouble or facing difficulties, be willing to give them a hand and offer your support sincerely.\n\nBesides, it's necessary to take part in various after-school activities. (19)______ You can join clubs based on your personal interests, such as the science club, the art club, or the sports team. These activities can help you develop your hobbies, discover new talents, and make friends who share similar interests.\n\n(20)______ Remember to eat healthily, get enough sleep, and exercise regularly. Physical health is the foundation of everything. Only with a strong and healthy body can you have enough energy to study better and achieve your goals."
+      "group_passage": "Many students have trouble balancing their schoolwork and hobbies. They often feel stressed when they can't find enough time for both. (17) ______ Here are some useful tips.\n\nFirst, make a schedule. Write down all your tasks and activities for the week. (18) ______ This way, you won't forget important things.\n\nSecond, learn to focus. When you study, put away your phone and other distractions. (19) ______ Then you can enjoy your hobbies without worry.\n\nFinally, remember that quality matters more than quantity. It's better to spend one hour fully enjoying your hobby than three hours worrying about homework while doing it. (20) ______ Just try your best and find what works for you.",
+      "explanation": "【解析】考查总结归纳。前文讲平衡学业和爱好的方法，后文说\"尽你最大努力找到适合你的方法\"，因此空格处应表示\"每个人都有自己的平衡方式\"。Everyone has their own way...与后文find what works for you（找到适合你的）形成呼应。【技巧】选句填空注意首尾呼应，后文的find what works for you暗示前文应提到\"每个人方式不同\"。",
+      "label": "短文填空"
     }
   ]
 }
