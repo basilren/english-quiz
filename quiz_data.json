@@ -1,5 +1,5 @@
 ﻿{
-  "date": "2026-07-11",
+  "date": "2026-07-12",
   "session_number": 1,
   "questions": [
     {
@@ -7,55 +7,7 @@
       "type": "grammar",
       "knowledge_point": "present_perfect_vs_past_simple",
       "difficulty": 2,
-      "stem": "—______ you ______ your homework yet? —Yes, I ______ it an hour ago.",
-      "options": [
-        "A. Did; finish; finished",
-        "B. Have; finished; finished",
-        "C. Have; finished; have finished",
-        "D. Did; finish; have finished"
-      ],
-      "correct_answer": "B",
-      "explanation": "【解析】第一空：yet（已经/还）是现在完成时的标志词，用于疑问句和否定句，结构为Have/Has+主语+done，故用Have; finished。第二空：an hour ago（一小时前）是一般过去时的标志词，表示过去某个时间点发生的动作，故用finished。【技巧】时态标志词记忆口诀：yet/already/ever/never/since/for用现完；yesterday/last week/ago用过去。",
-      "label": "语法题"
-    },
-    {
-      "id": 2,
-      "type": "grammar",
-      "knowledge_point": "relative_clause_who_which",
-      "difficulty": 2,
-      "stem": "The boy ______ is playing basketball over there is my classmate.",
-      "options": [
-        "A. who",
-        "B. which",
-        "C. whom",
-        "D. whose"
-      ],
-      "correct_answer": "A",
-      "explanation": "【解析】本题考查定语从句关系词。先行词The boy指人，且在定语从句______ is playing basketball中作主语，故用who。B选项which指物；C选项whom指人但作宾语；D选项whose表示所属关系（……的）。【技巧】定语从句关系词选择：指人主语用who，指人宾语用whom/who，指物用which/that，表示所属用whose。",
-      "label": "语法题"
-    },
-    {
-      "id": 3,
-      "type": "grammar",
-      "knowledge_point": "passive_voice",
-      "difficulty": 1,
-      "stem": "The book ______ by many students in our class every day.",
-      "options": [
-        "A. is read",
-        "B. reads",
-        "C. was read",
-        "D. reading"
-      ],
-      "correct_answer": "A",
-      "explanation": "【解析】every day（每天）表示一般现在时，主语The book与read之间是被动关系（书被读），故用一般现在时的被动语态is read。B选项是主动语态；C选项是过去时被动，与every day时间不符；D选项是现在分词，不能作谓语。【技巧】被动语态结构：be+过去分词，时态体现在be动词上（am/is/are/was/were）。",
-      "label": "语法题"
-    },
-    {
-      "id": 4,
-      "type": "grammar",
-      "knowledge_point": "present_perfect_vs_past_simple",
-      "difficulty": 3,
-      "stem": "I ______ the book twice, but I ______ it to the library yesterday afternoon.",
+      "stem": "—I ______ the book already, so I ______ it to the library yesterday.\n—Great! Now you can borrow a new one.",
       "options": [
         "A. have read; returned",
         "B. read; have returned",
@@ -63,7 +15,55 @@
         "D. read; returned"
       ],
       "correct_answer": "A",
-      "explanation": "【解析】第一空：twice（两次）表示动作发生的次数，是经历，用现在完成时have read；第二空：yesterday afternoon（昨天下午）是明确的过去时间状语，用一般过去时returned。【技巧】现在完成时强调\"经历/影响/持续\"，一般过去时强调\"过去某时发生的动作\"。有具体过去时间（yesterday/last year/ago）必须用一般过去时。",
+      "explanation": "【解析】第一空后有already（已经），是现在完成时的标志词，强调过去动作对现在的影响（已经读完了），用have read；第二空后有yesterday（昨天），是明确的过去时间状语，只能用一般过去时returned。【技巧】口诀：already/ever/never用现完，yesterday/last week用过去。",
+      "label": "语法题"
+    },
+    {
+      "id": 2,
+      "type": "grammar",
+      "knowledge_point": "relative_clause_who_which",
+      "difficulty": 2,
+      "stem": "The boy ______ is standing under the tree is my classmate who won the first prize.",
+      "options": [
+        "A. who",
+        "B. which",
+        "C. whom",
+        "D. whose"
+      ],
+      "correct_answer": "A",
+      "explanation": "【解析】定语从句修饰先行词the boy（人），且关系词在从句中作主语，故用who。which指物；whom指人但只能作宾语；whose表示\"谁的\"，在从句中作定语。【技巧】先行词是人且作主语，关系代词用who；先行词是物，用which/that。",
+      "label": "语法题"
+    },
+    {
+      "id": 3,
+      "type": "grammar",
+      "knowledge_point": "passive_voice",
+      "difficulty": 1,
+      "stem": "The new bridge near our school ______ by the workers last year.",
+      "options": [
+        "A. is built",
+        "B. was built",
+        "C. built",
+        "D. has built"
+      ],
+      "correct_answer": "B",
+      "explanation": "【解析】主语the bridge与build是被动关系（桥被建造），时间状语last year表示过去，故用一般过去时的被动语态was built。A是现在时被动；C是主动语态；D是现在完成时主动语态。【技巧】被动语态结构：be + 过去分词，时态看be动词变化。",
+      "label": "语法题"
+    },
+    {
+      "id": 4,
+      "type": "grammar",
+      "knowledge_point": "noun_clause_if_whether",
+      "difficulty": 3,
+      "stem": "I don't know ______ he will come to the party or not. Let's call him to confirm.",
+      "options": [
+        "A. if",
+        "B. whether",
+        "C. that",
+        "D. what"
+      ],
+      "correct_answer": "B",
+      "explanation": "【解析】宾语从句中有or not时，通常只用whether（whether...or not是固定搭配），if不能与or not直接连用。that引导陈述句宾从；what在从句中需充当成分（主语/宾语），而本句不缺成分。【技巧】whether vs if：有or not选whether；介词后、不定式前、主语从句表语从句同位语从句都用whether。",
       "label": "语法题"
     },
     {
@@ -71,137 +71,137 @@
       "type": "vocabulary",
       "knowledge_point": "word_meaning",
       "difficulty": 1,
-      "stem": "It's ______ to walk in the park on such a sunny and warm day.",
+      "stem": "The weather is ______ today. Let's go for a picnic in the park.",
       "options": [
-        "A. boring",
-        "B. pleasant",
-        "C. terrible",
-        "D. difficult"
+        "A. terrible",
+        "B. awful",
+        "C. pleasant",
+        "D. boring"
       ],
-      "correct_answer": "B",
-      "explanation": "【解析】根据语境sunny and warm day（晴朗温暖的日子），在公园散步应该是\"愉快的\"。pleasant意为\"令人愉快的\"；boring（无聊的）、terrible（糟糕的）、difficult（困难的）均与语境不符。【技巧】语境猜词法：根据上下文描述的积极场景选择积极词汇。",
+      "correct_answer": "C",
+      "explanation": "【解析】pleasant意为\"宜人的、舒适的\"，符合后句\"去野餐\"的语境。terrible（糟糕的）、awful（极坏的）与语境相反；boring（无聊的）通常形容事物无趣，不形容天气。【技巧】根据上下文逻辑选择：去野餐→天气好→pleasant。",
       "label": "词汇题"
     },
     {
       "id": 6,
       "type": "vocabulary",
-      "knowledge_point": "phrasal_verbs",
+      "knowledge_point": "prefix_suffix",
       "difficulty": 2,
-      "stem": "As students, we should ______ our best to protect the environment.",
+      "stem": "The ______ news made everyone ______.",
       "options": [
-        "A. try",
-        "B. make",
-        "C. do",
-        "D. take"
+        "A. excited; excited",
+        "B. exciting; exciting",
+        "C. exciting; excited",
+        "D. excited; exciting"
       ],
-      "correct_answer": "A",
-      "explanation": "【解析】固定搭配try one's best to do sth.意为\"尽某人最大努力做某事\"。其他选项：make one's way（前进），do one's homework（做作业），take one's time（慢慢来），均不符合语境。【技巧】积累常见动词短语：try one's best, do one's best（也可表示尽力，但本题选项有try优先选try）。",
+      "correct_answer": "C",
+      "explanation": "【解析】-ing形容词（exciting）修饰物，表示\"令人...的\"；-ed形容词（excited）修饰人，表示\"感到...的\"。第一空修饰news（消息），用exciting；第二空修饰everyone（人），用excited。【技巧】口诀：\"令人\"-ing，\"感到\"-ed；物用-ing，人用-ed。",
       "label": "词汇题"
     },
     {
       "id": 7,
       "type": "vocabulary",
-      "knowledge_point": "word_meaning",
+      "knowledge_point": "phrasal_verbs",
       "difficulty": 2,
-      "stem": "The ______ of this school activity is to raise students' awareness of environmental protection.",
+      "stem": "As the monitor, you should learn how to ______ the problems between classmates.",
       "options": [
-        "A. purpose",
-        "B. opinion",
-        "C. result",
-        "D. method"
+        "A. look for",
+        "B. deal with",
+        "C. take off",
+        "D. put on"
       ],
-      "correct_answer": "A",
-      "explanation": "【解析】purpose意为\"目的\"，与后面的to raise...（为了提高……）构成逻辑搭配，表示活动的目的。opinion（观点）、result（结果）、method（方法）均不符合句意。【技巧】注意名词与后置定语的搭配：the purpose of...is to do...（……的目的是为了……）。",
+      "correct_answer": "B",
+      "explanation": "【解析】deal with意为\"处理、应对\"，符合语境\"处理同学间的问题\"。look for（寻找）；take off（起飞/脱下）；put on（穿上/上演）。【技巧】problem通常与solve/deal with搭配；look for强调寻找过程，find强调找到结果。",
       "label": "词汇题"
     },
     {
       "id": 8,
       "type": "cloze",
       "knowledge_point": "cloze_general",
-      "difficulty": 1,
-      "stem": "(8)___",
-      "options": [
-        "A. because",
-        "B. instead",
-        "C. ahead",
-        "D. out"
-      ],
-      "correct_answer": "B",
+      "difficulty": 2,
       "group": "cloze_1",
-      "group_passage": "Last month, our school organized an interesting activity called \"Green School Week\". The aim was to help students understand the importance of environmental protection.\n\nDuring the week, we were asked to do several things. First, we needed to bring our own water bottles (8) of buying plastic ones. Second, we had to collect waste paper and bottles for recycling. Many students found it (9) to take part in these activities.\n\nOn the last day, our class held a sharing meeting. We talked about (10) we had learned from the activity. Some students said they realized how serious the pollution problem was. Others (11) to keep doing green things in daily life.\n\nThe activity not only taught us knowledge about the environment, but also helped us develop good habits. I believe small actions can make a big (12) to our world.",
-      "explanation": "【解析】考查固定搭配instead of（代替，而不是）。句意：我们需要带自己的水瓶，而不是购买塑料瓶。instead of是介词短语，后接动名词buying符合语法。其他选项：because of（因为），ahead of（在……之前），out of（出于/在……外）。【技巧】完形填空注意固定搭配，instead of是中考高频考点，表示对比转折关系。",
+      "group_passage": "Last month, our school started a recycling project. The purpose was to help students understand the importance of protecting the environment. Every class was asked to collect waste paper and plastic bottles.\n\nAt first, many students thought it was (8)______. They didn't want to spend time on it. However, our teacher explained that small actions could make a big (9)______. Slowly, we began to change our minds.\n\nMy classmate Tom came up with a good (10)______. He suggested setting up different bins for different types of waste. This made the sorting work much (11)______. By the end of the month, we had collected over 500 kilos of recyclable materials. Everyone felt proud when we saw the (12)______ of our hard work.",
+      "stem": "(8)______",
+      "options": [
+        "A. interesting",
+        "B. necessary",
+        "C. boring",
+        "D. important"
+      ],
+      "correct_answer": "C",
+      "explanation": "【解析】根据后句\"They didn't want to spend time on it\"（不想花时间）可知，学生们一开始认为这件事\"无聊/枯燥\"，选boring。interesting（有趣的）、necessary（必要的）、important（重要的）都与\"不想做\"的态度相反。【技巧】完形填空要注意上下文情感态度的一致性，后文的However表示转折，说明前文态度消极。",
       "label": "完形填空"
     },
     {
       "id": 9,
       "type": "cloze",
       "knowledge_point": "cloze_general",
-      "difficulty": 2,
-      "stem": "(9)___",
-      "options": [
-        "A. boring",
-        "B. useless",
-        "C. meaningful",
-        "D. difficult"
-      ],
-      "correct_answer": "C",
+      "difficulty": 1,
       "group": "cloze_1",
-      "group_passage": "Last month, our school organized an interesting activity called \"Green School Week\". The aim was to help students understand the importance of environmental protection.\n\nDuring the week, we were asked to do several things. First, we needed to bring our own water bottles (8) of buying plastic ones. Second, we had to collect waste paper and bottles for recycling. Many students found it (9) to take part in these activities.\n\nOn the last day, our class held a sharing meeting. We talked about (10) we had learned from the activity. Some students said they realized how serious the pollution problem was. Others (11) to keep doing green things in daily life.\n\nThe activity not only taught us knowledge about the environment, but also helped us develop good habits. I believe small actions can make a big (12) to our world.",
-      "explanation": "【解析】考查语境推理。前文提到活动目的是帮助学生理解环保的重要性，且学生参与了回收等活动，因此应该是觉得\"有意义的\"（meaningful）。boring（无聊的）、useless（无用的）与文章积极基调不符；difficult（困难的）在下文没有体现。【技巧】完形填空要把握全文情感基调，本文是积极正面的环保活动，应选褒义词。",
+      "group_passage": "Last month, our school started a recycling project. The purpose was to help students understand the importance of protecting the environment. Every class was asked to collect waste paper and plastic bottles.\n\nAt first, many students thought it was (8)______. They didn't want to spend time on it. However, our teacher explained that small actions could make a big (9)______. Slowly, we began to change our minds.\n\nMy classmate Tom came up with a good (10)______. He suggested setting up different bins for different types of waste. This made the sorting work much (11)______. By the end of the month, we had collected over 500 kilos of recyclable materials. Everyone felt proud when we saw the (12)______ of our hard work.",
+      "stem": "(9)______",
+      "options": [
+        "A. mistake",
+        "B. difference",
+        "C. decision",
+        "D. difficulty"
+      ],
+      "correct_answer": "B",
+      "explanation": "【解析】固定搭配make a difference意为\"有影响、起作用\"。老师解释小行动也能产生大影响，说服学生参与。make a mistake（犯错误）；make a decision（做决定）；make a difficulty（制造困难）都不符合语境。【技巧】积累常考固定搭配：make a difference（有影响）、make progress（取得进步）、make sense（有意义）。",
       "label": "完形填空"
     },
     {
       "id": 10,
       "type": "cloze",
-      "knowledge_point": "object_clause",
+      "knowledge_point": "cloze_general",
       "difficulty": 2,
-      "stem": "(10)___",
+      "group": "cloze_1",
+      "group_passage": "Last month, our school started a recycling project. The purpose was to help students understand the importance of protecting the environment. Every class was asked to collect waste paper and plastic bottles.\n\nAt first, many students thought it was (8)______. They didn't want to spend time on it. However, our teacher explained that small actions could make a big (9)______. Slowly, we began to change our minds.\n\nMy classmate Tom came up with a good (10)______. He suggested setting up different bins for different types of waste. This made the sorting work much (11)______. By the end of the month, we had collected over 500 kilos of recyclable materials. Everyone felt proud when we saw the (12)______ of our hard work.",
+      "stem": "(10)______",
       "options": [
-        "A. what",
-        "B. that",
-        "C. which",
-        "D. where"
+        "A. idea",
+        "B. excuse",
+        "C. example",
+        "D. opinion"
       ],
       "correct_answer": "A",
-      "group": "cloze_1",
-      "group_passage": "Last month, our school organized an interesting activity called \"Green School Week\". The aim was to help students understand the importance of environmental protection.\n\nDuring the week, we were asked to do several things. First, we needed to bring our own water bottles (8) of buying plastic ones. Second, we had to collect waste paper and bottles for recycling. Many students found it (9) to take part in these activities.\n\nOn the last day, our class held a sharing meeting. We talked about (10) we had learned from the activity. Some students said they realized how serious the pollution problem was. Others (11) to keep doing green things in daily life.\n\nThe activity not only taught us knowledge about the environment, but also helped us develop good habits. I believe small actions can make a big (12) to our world.",
-      "explanation": "【解析】考查宾语从句连接词。空格处引导宾语从句作talked about的宾语，且在从句中作learned的宾语（学到的东西），故用what。that在宾语从句中不充当成分；which表示\"哪一个\"（有选择范围）；where作地点状语。【技巧】宾语从句缺主语/宾语/表语时用what；缺地点状语用where；不缺成分用that；是否用if/whether。",
+      "explanation": "【解析】come up with an idea是固定搭配，意为\"想出一个主意\"。后文\"suggested setting up different bins\"（建议设置不同垃圾桶）具体说明了这个主意。excuse（借口）；example（例子）；opinion（观点）。【技巧】come up with常与idea/plan/solution搭配；excuse通常与make/give搭配。",
       "label": "完形填空"
     },
     {
       "id": 11,
       "type": "cloze",
       "knowledge_point": "cloze_general",
-      "difficulty": 2,
-      "stem": "(11)___",
-      "options": [
-        "A. hoped",
-        "B. promised",
-        "C. refused",
-        "D. forgot"
-      ],
-      "correct_answer": "B",
+      "difficulty": 1,
       "group": "cloze_1",
-      "group_passage": "Last month, our school organized an interesting activity called \"Green School Week\". The aim was to help students understand the importance of environmental protection.\n\nDuring the week, we were asked to do several things. First, we needed to bring our own water bottles (8) of buying plastic ones. Second, we had to collect waste paper and bottles for recycling. Many students found it (9) to take part in these activities.\n\nOn the last day, our class held a sharing meeting. We talked about (10) we had learned from the activity. Some students said they realized how serious the pollution problem was. Others (11) to keep doing green things in daily life.\n\nThe activity not only taught us knowledge about the environment, but also helped us develop good habits. I believe small actions can make a big (12) to our world.",
-      "explanation": "【解析】考查语境推理。前文提到学生们意识到污染问题的严重性，因此其他人\"承诺\"（promised）在日常生活中继续做环保事情符合逻辑。hope to do（希望做）虽语法正确，但promise更能体现决心；refused（拒绝）和forgot（忘记）与语境相反。【技巧】注意上下文逻辑关系，前文\"realized how serious\"提示后文应该是积极行动。",
+      "group_passage": "Last month, our school started a recycling project. The purpose was to help students understand the importance of protecting the environment. Every class was asked to collect waste paper and plastic bottles.\n\nAt first, many students thought it was (8)______. They didn't want to spend time on it. However, our teacher explained that small actions could make a big (9)______. Slowly, we began to change our minds.\n\nMy classmate Tom came up with a good (10)______. He suggested setting up different bins for different types of waste. This made the sorting work much (11)______. By the end of the month, we had collected over 500 kilos of recyclable materials. Everyone felt proud when we saw the (12)______ of our hard work.",
+      "stem": "(11)______",
+      "options": [
+        "A. harder",
+        "B. slower",
+        "C. faster",
+        "D. easier"
+      ],
+      "correct_answer": "D",
+      "explanation": "【解析】设置不同垃圾桶分类，应该是让分类工作\"更容易\"（easier），而不是更难或更慢。faster（更快）通常形容速度，不形容工作难度。【技巧】上下文逻辑：good idea→积极结果→easier。注意much修饰比较级，表示\"...得多\"。",
       "label": "完形填空"
     },
     {
       "id": 12,
       "type": "cloze",
       "knowledge_point": "cloze_general",
-      "difficulty": 1,
-      "stem": "(12)___",
-      "options": [
-        "A. problem",
-        "B. decision",
-        "C. difference",
-        "D. plan"
-      ],
-      "correct_answer": "C",
+      "difficulty": 2,
       "group": "cloze_1",
-      "group_passage": "Last month, our school organized an interesting activity called \"Green School Week\". The aim was to help students understand the importance of environmental protection.\n\nDuring the week, we were asked to do several things. First, we needed to bring our own water bottles (8) of buying plastic ones. Second, we had to collect waste paper and bottles for recycling. Many students found it (9) to take part in these activities.\n\nOn the last day, our class held a sharing meeting. We talked about (10) we had learned from the activity. Some students said they realized how serious the pollution problem was. Others (11) to keep doing green things in daily life.\n\nThe activity not only taught us knowledge about the environment, but also helped us develop good habits. I believe small actions can make a big (12) to our world.",
-      "explanation": "【解析】考查固定搭配make a difference（产生影响，有所作为）。句意：我相信小小的行动可以给我们的世界带来很大影响。其他选项：make a problem（制造问题），make a decision（做决定），make a plan（制定计划），均不符合语境。【技巧】积累中考高频短语make a difference，常考搭配为make a difference to...（对……产生影响）。",
+      "group_passage": "Last month, our school started a recycling project. The purpose was to help students understand the importance of protecting the environment. Every class was asked to collect waste paper and plastic bottles.\n\nAt first, many students thought it was (8)______. They didn't want to spend time on it. However, our teacher explained that small actions could make a big (9)______. Slowly, we began to change our minds.\n\nMy classmate Tom came up with a good (10)______. He suggested setting up different bins for different types of waste. This made the sorting work much (11)______. By the end of the month, we had collected over 500 kilos of recyclable materials. Everyone felt proud when we saw the (12)______ of our hard work.",
+      "stem": "(12)______",
+      "options": [
+        "A. reason",
+        "B. result",
+        "C. cause",
+        "D. problem"
+      ],
+      "correct_answer": "B",
+      "explanation": "【解析】result意为\"结果\"，see the result of our hard work表示\"看到我们努力的结果\"，与前文\"收集了500多公斤可回收物\"对应。reason（原因）；cause（起因）；problem（问题）。【技巧】result表示结果（中性/积极），consequence常指后果（消极），outcome指最终 outcome。",
       "label": "完形填空"
     },
     {
@@ -209,65 +209,71 @@
       "type": "reading",
       "knowledge_point": "detail",
       "difficulty": 1,
-      "stem": "What will the smart pot do when the soil becomes too dry?",
+      "group": "reading_1",
+      "group_passage": "Smart homes are becoming more popular in modern cities. A smart home uses technology to make life easier and more comfortable. For example, you can control the lights, temperature, and even the refrigerator with your smartphone (智能手机).\n\nOne amazing feature is the smart assistant. It can understand your voice commands. If you say \"It's hot in here,\" the assistant will automatically turn on the air conditioner. Some systems can even learn your habits. They know when you usually get up, so they prepare your coffee and open the curtains at the right time.\n\nHowever, smart homes also have challenges. The equipment is expensive, and not everyone can afford it. Also, some people worry about privacy. If hackers (黑客) break into the system, they might control your home or steal your personal information.\n\nDespite these concerns, experts believe smart homes will become common in the future. As technology improves and costs drop, more families will enjoy the convenience of smart living.",
+      "stem": "What can people use to control devices in a smart home according to the passage?",
       "options": [
-        "A. Send a message to the user's phone.",
-        "B. Add water to the soil by itself.",
-        "C. Show the temperature on the screen.",
-        "D. Connect to the smartphone immediately."
+        "A. A computer.",
+        "B. A smartphone.",
+        "C. A television.",
+        "D. A radio."
       ],
       "correct_answer": "B",
-      "group": "reading_1",
-      "group_passage": "Do you often forget to water your plants when you go on vacation? A new smart pot might solve this problem for you.\n\nThis special pot, invented by a group of high school students in Shenzhen, can take care of plants automatically. It has sensors (传感器) that can check the soil condition. When the soil becomes too dry, the pot will add water by itself. It also has a small screen to show how your plant is doing.\n\nWhat's more, the pot can connect to your smartphone through an app. Even when you are far away from home, you can still know if your plants need help. The app will send you messages about the temperature, light, and water level.\n\nThe inventors said they created this product because they noticed many people love plants but don't have enough time to care for them. \"We hope our smart pot can help more people enjoy gardening without worry,\" said Li Ming, the team leader.\n\nThe smart pot has won several awards in science competitions. It will be available in the market next year at a price of about 200 yuan.",
-      "explanation": "【解析】细节理解题。根据第二段第四句\"When the soil becomes too dry, the pot will add water by itself.\"（当土壤变得太干时，花盆会自动加水。）可知答案为B。A选项是手机App的功能；C选项屏幕显示的是植物状况而非温度；D选项连接手机是持续状态，不是在土壤干时发生的动作。【技巧】细节题要准确定位原文，注意题干关键词soil becomes dry对应原文原句。",
+      "explanation": "【解析】细节理解题。根据第一段最后一句\"you can control the lights, temperature, and even the refrigerator with your smartphone\"可知，人们可以用智能手机控制智能家居设备。【技巧】细节题要找准定位句，通常出现在文章开头或段落首句，注意题干关键词control devices对应原文control the lights...",
       "label": "阅读-细节理解"
     },
     {
       "id": 14,
       "type": "reading",
-      "knowledge_point": "word_guessing_context",
-      "difficulty": 2,
-      "stem": "The underlined word \"available\" in the last paragraph probably means ______.",
+      "knowledge_point": "inference",
+      "difficulty": 3,
+      "group": "reading_1",
+      "group_passage": "Smart homes are becoming more popular in modern cities. A smart home uses technology to make life easier and more comfortable. For example, you can control the lights, temperature, and even the refrigerator with your smartphone (智能手机).\n\nOne amazing feature is the smart assistant. It can understand your voice commands. If you say \"It's hot in here,\" the assistant will automatically turn on the air conditioner. Some systems can even learn your habits. They know when you usually get up, so they prepare your coffee and open the curtains at the right time.\n\nHowever, smart homes also have challenges. The equipment is expensive, and not everyone can afford it. Also, some people worry about privacy. If hackers (黑客) break into the system, they might control your home or steal your personal information.\n\nDespite these concerns, experts believe smart homes will become common in the future. As technology improves and costs drop, more families will enjoy the convenience of smart living.",
+      "stem": "What can we infer from the passage about smart assistants?",
       "options": [
-        "A. easy to find",
-        "B. ready for use",
-        "C. very expensive",
-        "D. quite popular"
+        "A. They can only understand simple words.",
+        "B. They never make mistakes.",
+        "C. They can adapt to users' lifestyles.",
+        "D. They are difficult to install."
       ],
-      "correct_answer": "B",
-      "explanation": "【解析】词义猜测题。根据最后一段\"It will be available in the market next year at a price of about 200 yuan.\"（它将于明年在市场上available，价格约200元。）可知，available指\"可获得的，可买到的\"，即ready for use/purchase（可供使用/购买）。A选项（容易找到）不准确；C选项（昂贵）与词义无关；D选项（流行）是available之后可能产生的结果而非词义本身。【技巧】词义猜测题根据上下文逻辑，产品发明后进入市场供人购买，即\"可供使用的\"。",
-      "label": "阅读-词义猜测"
+      "correct_answer": "C",
+      "explanation": "【解析】推理判断题。根据第二段\"Some systems can even learn your habits. They know when you usually get up...\"可知，智能助手能学习用户习惯，即适应用户的生活方式（adapt to users' lifestyles）。A、B选项过于绝对；D选项文中未提及。【技巧】推理题要基于原文信息合理推断，不能过度推断，也不能选择文中明确陈述的内容（那是细节题）。",
+      "label": "阅读-推理判断"
     },
     {
       "id": 15,
       "type": "reading",
-      "knowledge_point": "inference",
+      "knowledge_point": "word_guessing",
       "difficulty": 2,
-      "stem": "What can we learn from the passage?",
+      "group": "reading_1",
+      "group_passage": "Smart homes are becoming more popular in modern cities. A smart home uses technology to make life easier and more comfortable. For example, you can control the lights, temperature, and even the refrigerator with your smartphone (智能手机).\n\nOne amazing feature is the smart assistant. It can understand your voice commands. If you say \"It's hot in here,\" the assistant will automatically turn on the air conditioner. Some systems can even learn your habits. They know when you usually get up, so they prepare your coffee and open the curtains at the right time.\n\nHowever, smart homes also have challenges. The equipment is expensive, and not everyone can afford it. Also, some people worry about privacy. If hackers (黑客) break into the system, they might control your home or steal your personal information.\n\nDespite these concerns, experts believe smart homes will become common in the future. As technology improves and costs drop, more families will enjoy the convenience of smart living.",
+      "stem": "The underlined word \"hackers\" in Paragraph 3 probably means ______.",
       "options": [
-        "A. The smart pot is too expensive for students.",
-        "B. Li Ming invented the smart pot all by himself.",
-        "C. The smart pot can only be used in Shenzhen.",
-        "D. The inventors created the product based on people's needs."
+        "A. 专家",
+        "B. 黑客",
+        "C. 工程师",
+        "D. 用户"
       ],
-      "correct_answer": "D",
-      "explanation": "【解析】推理判断题。根据第四段第一句\"The inventors said they created this product because they noticed many people love plants but don't have enough time to care for them.\"（发明者说他们创造这个产品是因为他们注意到很多人喜欢植物但没有足够时间照顾。）可推断出，发明者是根据人们的需求创造产品的，故选D。A选项200元是否太贵文中未评价；B选项与第一段\"a group of high school students\"（一群学生）矛盾；C选项文中未提及地域限制。【技巧】推理题要基于原文信息进行合理推断，不能过度推断或选择文中未提及的信息。",
-      "label": "阅读-推理判断"
+      "correct_answer": "B",
+      "explanation": "【解析】词义猜测题。根据后文\"break into the system, they might control your home or steal your personal information\"（入侵系统、控制家居、窃取信息）可知，hackers指非法入侵计算机系统的\"黑客\"。括号内已给出中文释义\"黑客\"，也可根据上下文推断。【技巧】词义猜测要通过上下文逻辑：break into（闯入）+ steal（偷窃）→ 非法入侵者→黑客。",
+      "label": "阅读-词义猜测"
     },
     {
       "id": 16,
       "type": "reading",
-      "knowledge_point": "main_idea_title",
+      "knowledge_point": "main_idea",
       "difficulty": 3,
+      "group": "reading_1",
+      "group_passage": "Smart homes are becoming more popular in modern cities. A smart home uses technology to make life easier and more comfortable. For example, you can control the lights, temperature, and even the refrigerator with your smartphone (智能手机).\n\nOne amazing feature is the smart assistant. It can understand your voice commands. If you say \"It's hot in here,\" the assistant will automatically turn on the air conditioner. Some systems can even learn your habits. They know when you usually get up, so they prepare your coffee and open the curtains at the right time.\n\nHowever, smart homes also have challenges. The equipment is expensive, and not everyone can afford it. Also, some people worry about privacy. If hackers (黑客) break into the system, they might control your home or steal your personal information.\n\nDespite these concerns, experts believe smart homes will become common in the future. As technology improves and costs drop, more families will enjoy the convenience of smart living.",
       "stem": "What is the best title for the passage?",
       "options": [
-        "A. How to Water Plants Properly",
-        "B. High School Students in Shenzhen",
-        "C. A Smart Pot for Plant Lovers",
-        "D. Gardening as a Popular Hobby"
+        "A. The History of Smartphones",
+        "B. How to Save Money at Home",
+        "C. Smart Homes: Convenience and Challenges",
+        "D. The Importance of Privacy Protection"
       ],
       "correct_answer": "C",
-      "explanation": "【解析】主旨大意题。全文围绕\"智能花盆\"（smart pot）展开，介绍其功能、发明背景、发明者意图等。A选项（如何正确浇水）只是引出问题的一个细节；B选项（深圳高中生）只是发明者身份；D选项（园艺作为流行爱好）是背景信息。C选项（为植物爱好者设计的智能花盆）最能概括全文主旨。【技巧】主旨题/标题题要抓住全文核心话题，通常是反复出现的关键词（本文是smart pot），并涵盖文章主要内容。",
+      "explanation": "【解析】主旨大意题。文章第一段介绍智能家居的便利（convenience），第三段讲挑战（challenges：昂贵、隐私问题），最后展望未来。C选项全面概括了文章两方面内容。A选项只提到智能手机（只是例子）；B选项未提及；D选项只涉及隐私部分，以偏概全。【技巧】主旨题要覆盖全文主要内容，警惕以偏概全的选项（只讲文章某一部分）。",
       "label": "阅读-主旨大意"
     },
     {
@@ -275,18 +281,18 @@
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "stem": "(17)___",
-      "options": [
-        "A. However, it's not impossible to solve this problem.",
-        "B. This helps you see how much free time you actually have.",
-        "C. For example, finish your homework first.",
-        "D. Everyone has their own way of balancing things.",
-        "E. In addition, you can ask teachers for help."
-      ],
-      "correct_answer": "A",
       "group": "fill_1",
-      "group_passage": "Many students have trouble balancing their schoolwork and hobbies. They often feel stressed when they can't find enough time for both. (17) ______ Here are some useful tips.\n\nFirst, make a schedule. Write down all your tasks and activities for the week. (18) ______ This way, you won't forget important things.\n\nSecond, learn to focus. When you study, put away your phone and other distractions. (19) ______ Then you can enjoy your hobbies without worry.\n\nFinally, remember that quality matters more than quantity. It's better to spend one hour fully enjoying your hobby than three hours worrying about homework while doing it. (20) ______ Just try your best and find what works for you.",
-      "explanation": "【解析】考查段落衔接与逻辑关系。前文说\"很多学生难以平衡学业和爱好，感到压力\"，后文说\"这里有一些有用的建议\"，因此中间需要转折过渡，表示\"然而，解决这个问题并非不可能\"。However表示转折，承上启下引出解决方案。【技巧】选句填空要注意空格前后的逻辑关系，前文讲问题，后文讲解决方法，中间用转折词However过渡。",
+      "group_passage": "Many middle school students feel stressed because they have too much homework and too little time. (17)______ Here are some useful tips to help you manage your time better.\n\nFirst, make a to-do list every morning. Write down all the tasks you need to complete. (18)______ This helps you focus on the most important things first.\n\nSecond, avoid distractions while studying. Put away your phone and find a quiet place. (19)______ If you study for 45 minutes, take a 5-minute break to stretch or drink water.\n\nFinally, don't forget to review your day before bed. Think about what you accomplished and what you can improve tomorrow. (20)______ Remember, good time management is a skill that takes practice.",
+      "stem": "(17)______",
+      "options": [
+        "A. However, taking short breaks can actually improve your focus.",
+        "B. As a result, you will become more efficient day by day.",
+        "C. Then, mark the most urgent ones with a star.",
+        "D. In addition, try to finish easy tasks quickly.",
+        "E. This is a common problem for teenagers."
+      ],
+      "correct_answer": "E",
+      "explanation": "【解析】前文提到\"压力大、时间少\"，E选项\"This is a common problem for teenagers\"（这是青少年的普遍问题）承接上文，This指代前文情况，并引出下文的解决建议。其他选项都涉及具体建议，不适合放在文章开头的总述位置。【技巧】首段末句通常起承上启下作用，要总结前文现象并引出后文建议。",
       "label": "短文填空"
     },
     {
@@ -294,18 +300,18 @@
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "stem": "(18)___",
-      "options": [
-        "A. However, it's not impossible to solve this problem.",
-        "B. This helps you see how much free time you actually have.",
-        "C. For example, finish your homework first.",
-        "D. Everyone has their own way of balancing things.",
-        "E. In addition, you can ask teachers for help."
-      ],
-      "correct_answer": "B",
       "group": "fill_1",
-      "group_passage": "Many students have trouble balancing their schoolwork and hobbies. They often feel stressed when they can't find enough time for both. (17) ______ Here are some useful tips.\n\nFirst, make a schedule. Write down all your tasks and activities for the week. (18) ______ This way, you won't forget important things.\n\nSecond, learn to focus. When you study, put away your phone and other distractions. (19) ______ Then you can enjoy your hobbies without worry.\n\nFinally, remember that quality matters more than quantity. It's better to spend one hour fully enjoying your hobby than three hours worrying about homework while doing it. (20) ______ Just try your best and find what works for you.",
-      "explanation": "【解析】考查指代关系与逻辑衔接。前文说\"制定时间表，写下所有任务和活动\"，后文说\"这样你就不会忘记重要的事情\"，因此空格处应解释制定时间表的好处。This指代前文\"制定时间表并写下任务\"这件事，说明这样做能帮助你看到实际有多少空闲时间。【技巧】注意代词指代，This helps...中的This通常指代前文提到的做法。",
+      "group_passage": "Many middle school students feel stressed because they have too much homework and too little time. (17)______ Here are some useful tips to help you manage your time better.\n\nFirst, make a to-do list every morning. Write down all the tasks you need to complete. (18)______ This helps you focus on the most important things first.\n\nSecond, avoid distractions while studying. Put away your phone and find a quiet place. (19)______ If you study for 45 minutes, take a 5-minute break to stretch or drink water.\n\nFinally, don't forget to review your day before bed. Think about what you accomplished and what you can improve tomorrow. (20)______ Remember, good time management is a skill that takes practice.",
+      "stem": "(18)______",
+      "options": [
+        "A. However, taking short breaks can actually improve your focus.",
+        "B. As a result, you will become more efficient day by day.",
+        "C. Then, mark the most urgent ones with a star.",
+        "D. In addition, try to finish easy tasks quickly.",
+        "E. This is a common problem for teenagers."
+      ],
+      "correct_answer": "C",
+      "explanation": "【解析】前文讲\"写下所有任务\"，后文讲\"帮助你首先关注最重要的事\"，C选项\"Then, mark the most urgent ones with a star\"（然后，给最紧急的任务标星）承上启下，Then表示顺序，mark urgent与focus on most important对应。【技巧】注意连接词Then表示步骤顺序，与First呼应。",
       "label": "短文填空"
     },
     {
@@ -313,18 +319,18 @@
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "stem": "(19)___",
-      "options": [
-        "A. However, it's not impossible to solve this problem.",
-        "B. This helps you see how much free time you actually have.",
-        "C. For example, finish your homework first.",
-        "C. For example, finish your homework first.",
-        "E. In addition, you can ask teachers for help."
-      ],
-      "correct_answer": "C",
       "group": "fill_1",
-      "group_passage": "Many students have trouble balancing their schoolwork and hobbies. They often feel stressed when they can't find enough time for both. (17) ______ Here are some useful tips.\n\nFirst, make a schedule. Write down all your tasks and activities for the week. (18) ______ This way, you won't forget important things.\n\nSecond, learn to focus. When you study, put away your phone and other distractions. (19) ______ Then you can enjoy your hobbies without worry.\n\nFinally, remember that quality matters more than quantity. It's better to spend one hour fully enjoying your hobby than three hours worrying about homework while doing it. (20) ______ Just try your best and find what works for you.",
-      "explanation": "【解析】考查举例说明与逻辑顺序。本段主题是learn to focus（学会专注）并远离干扰，后文说\"然后你可以无忧无虑地享受爱好\"，因此空格处应该是具体的建议——先完成作业。For example引出具体例子，finish your homework first与enjoy your hobbies形成先后逻辑关系。【技巧】注意逻辑顺序词Then（然后），提示前文应该有\"先……\"的动作。",
+      "group_passage": "Many middle school students feel stressed because they have too much homework and too little time. (17)______ Here are some useful tips to help you manage your time better.\n\nFirst, make a to-do list every morning. Write down all the tasks you need to complete. (18)______ This helps you focus on the most important things first.\n\nSecond, avoid distractions while studying. Put away your phone and find a quiet place. (19)______ If you study for 45 minutes, take a 5-minute break to stretch or drink water.\n\nFinally, don't forget to review your day before bed. Think about what you accomplished and what you can improve tomorrow. (20)______ Remember, good time management is a skill that takes practice.",
+      "stem": "(19)______",
+      "options": [
+        "A. However, taking short breaks can actually improve your focus.",
+        "B. As a result, you will become more efficient day by day.",
+        "C. Then, mark the most urgent ones with a star.",
+        "D. In addition, try to finish easy tasks quickly.",
+        "E. This is a common problem for teenagers."
+      ],
+      "correct_answer": "A",
+      "explanation": "【解析】前文讲\"避免干扰、专注学习\"，后文讲\"学习45分钟后休息5分钟\"，A选项\"However, taking short breaks can actually improve your focus\"（然而，短暂休息实际上能提高专注力）承上启下，However转折引出休息的重要性，与后文take a 5-minute break对应。【技巧】However表示转折，前文讲专注，此处转折讲休息，逻辑通顺。",
       "label": "短文填空"
     },
     {
@@ -332,18 +338,18 @@
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "stem": "(20)___",
-      "options": [
-        "A. However, it's not impossible to solve this problem.",
-        "B. This helps you see how much free time you actually have.",
-        "C. For example, finish your homework first.",
-        "D. Everyone has their own way of balancing things.",
-        "E. In addition, you can ask teachers for help."
-      ],
-      "correct_answer": "D",
       "group": "fill_1",
-      "group_passage": "Many students have trouble balancing their schoolwork and hobbies. They often feel stressed when they can't find enough time for both. (17) ______ Here are some useful tips.\n\nFirst, make a schedule. Write down all your tasks and activities for the week. (18) ______ This way, you won't forget important things.\n\nSecond, learn to focus. When you study, put away your phone and other distractions. (19) ______ Then you can enjoy your hobbies without worry.\n\nFinally, remember that quality matters more than quantity. It's better to spend one hour fully enjoying your hobby than three hours worrying about homework while doing it. (20) ______ Just try your best and find what works for you.",
-      "explanation": "【解析】考查总结归纳。前文讲平衡学业和爱好的方法，后文说\"尽你最大努力找到适合你的方法\"，因此空格处应表示\"每个人都有自己的平衡方式\"。Everyone has their own way...与后文find what works for you（找到适合你的）形成呼应。【技巧】选句填空注意首尾呼应，后文的find what works for you暗示前文应提到\"每个人方式不同\"。",
+      "group_passage": "Many middle school students feel stressed because they have too much homework and too little time. (17)______ Here are some useful tips to help you manage your time better.\n\nFirst, make a to-do list every morning. Write down all the tasks you need to complete. (18)______ This helps you focus on the most important things first.\n\nSecond, avoid distractions while studying. Put away your phone and find a quiet place. (19)______ If you study for 45 minutes, take a 5-minute break to stretch or drink water.\n\nFinally, don't forget to review your day before bed. Think about what you accomplished and what you can improve tomorrow. (20)______ Remember, good time management is a skill that takes practice.",
+      "stem": "(20)______",
+      "options": [
+        "A. However, taking short breaks can actually improve your focus.",
+        "B. As a result, you will become more efficient day by day.",
+        "C. Then, mark the most urgent ones with a star.",
+        "D. In addition, try to finish easy tasks quickly.",
+        "E. This is a common problem for teenagers."
+      ],
+      "correct_answer": "B",
+      "explanation": "【解析】前文讲\"回顾一天、思考改进\"，B选项\"As a result, you will become more efficient day by day\"（结果，你会一天天变得更高效）表示结果，总结前文做法带来的好处，与后文\"时间管理需要练习\"衔接自然。【技巧】As a result表示因果关系，用于总结前文措施带来的积极结果，适合放在段落结尾。",
       "label": "短文填空"
     }
   ]
