@@ -1,5 +1,5 @@
 ﻿{
-  "date": "2026-07-13",
+  "date": "2026-07-14",
   "session_number": 1,
   "questions": [
     {
@@ -7,15 +7,15 @@
       "type": "grammar",
       "knowledge_point": "present_perfect_vs_past_simple",
       "difficulty": 2,
-      "stem": "—I _______ the film twice. It's really interesting.\n—Really? When did you see it last time?",
+      "stem": "I ______ the book last week, but I haven't finished reading it yet.",
       "options": [
-        "A. saw",
-        "B. have seen",
-        "C. see",
-        "D. am seeing"
+        "A. bought",
+        "B. have bought",
+        "C. buy",
+        "D. had bought"
       ],
-      "correct_answer": "B",
-      "explanation": "本题考查现在完成时与一般过去时的区别。现在完成时（have seen）表示过去发生的动作对现在造成的影响或结果（已经看过两次，了解内容），而一般过去时（saw）只表示过去某个具体时间发生的动作。答句询问\"上次什么时候看的\"，暗示问句强调\"到目前为止看过两次\"这个经历，应用现在完成时。选项C是一般现在时，D是现在进行时，均不符合语境。解题技巧：看到\"twice/ever/never/so far\"等标志词，或强调对现在的影响时，用现在完成时；看到\"yesterday/last week/just now\"等具体时间状语时，用一般过去时。",
+      "correct_answer": "A",
+      "explanation": "选A。last week是明确的过去时间状语，必须用一般过去时；bought是瞬间动词，不能与现在完成时连用表示持续状态。B选项have bought虽然强调对现在的影响，但last week这一具体过去时间状语禁止与现在完成时连用；C是一般现在时，不符合时间背景；D是过去完成时，需要另一个过去动作作为参照点，此处没有。",
       "label": "语法题"
     },
     {
@@ -23,15 +23,15 @@
       "type": "grammar",
       "knowledge_point": "relative_clause_who_which",
       "difficulty": 2,
-      "stem": "This is the book _______ I bought yesterday. It is about environmental protection.",
+      "stem": "The boy ______ is playing basketball over there is my new classmate.",
       "options": [
         "A. who",
         "B. which",
         "C. whom",
-        "D. whose"
+        "D. what"
       ],
-      "correct_answer": "B",
-      "explanation": "本题考查定语从句关系代词的选择。先行词是\"the book\"（物），在从句中作宾语，应使用which或that。who/whom用于指人，whose表示\"...的\"（所有格）。此处指物，故选B。选项A指人（主格），C指人（宾格），D表示所属关系，均不符合。解题技巧：定语从句选择关系词时，先看先行词是人还是物，再看在从句中充当什么成分（主语、宾语、定语）。物用which/that，人用who/whom/that，所有格用whose。",
+      "correct_answer": "A",
+      "explanation": "选A。先行词the boy指人，定语从句中缺少主语，故用关系代词who。B选项which用于指物；C选项whom用于指人但在从句中作宾语；D选项what不能引导定语从句。口诀：指人用who/whom/that，指物用which/that，缺主语用who/which，缺宾语用whom/which/可省略。",
       "label": "语法题"
     },
     {
@@ -39,318 +39,318 @@
       "type": "grammar",
       "knowledge_point": "passive_voice",
       "difficulty": 1,
-      "stem": "The new bridge _______ by the workers last year. It is very convenient for us to cross the river now.",
+      "stem": "The letter ______ in English yesterday morning.",
       "options": [
-        "A. was built",
-        "B. built",
-        "C. is built",
-        "D. builds"
+        "A. writes",
+        "B. wrote",
+        "C. was written",
+        "D. is written"
       ],
-      "correct_answer": "A",
-      "explanation": "本题考查一般过去时的被动语态。主语\"The new bridge\"是动作\"build\"的承受者，需用被动语态（be+done）。时间状语\"last year\"表明是一般过去时，因此用was/were+过去分词。主语是单数，故选A（was built）。选项B是主动语态过去式，C是一般现在时被动，D是主动语态第三人称单数，均错误。解题技巧：被动语态基本结构为\"be+过去分词\"，判断时态看时间状语，判断单复数看主语。",
+      "correct_answer": "C",
+      "explanation": "选C。yesterday表明是过去时，letter与write是被动关系（信被写），故用一般过去时的被动语态was written。A是一般现在时主动；B是一般过去时主动；D是一般现在时被动，时态不符。被动语态结构：be + 过去分词，时态看be动词。",
       "label": "语法题"
     },
     {
       "id": 4,
       "type": "grammar",
-      "knowledge_point": "modal_verbs_speculation",
+      "knowledge_point": "modal_verbs",
       "difficulty": 3,
-      "stem": "You _______ be tired after working for 12 hours without a rest. Go to bed early tonight.",
+      "stem": "Look at the dark clouds in the sky. It ______ rain heavily soon.",
       "options": [
         "A. must",
-        "B. can't",
-        "C. might",
-        "D. need"
+        "B. might",
+        "C. can't",
+        "D. shouldn't"
       ],
       "correct_answer": "A",
-      "explanation": "本题考查情态动词表推测的用法。根据语境\"工作12小时没休息\"，可以非常肯定地推测\"你一定很累\"。must表示肯定推测（一定是），can't表示否定推测（不可能是），might表示不确定推测（可能是），need表示需要（不表推测）。此处是肯定且有依据的推测，故选A。解题技巧：肯定推测用must（一定），否定推测用can't（不可能），不确定用might/may/could（可能）。",
+      "explanation": "选A。must表肯定推测，意为'一定、肯定会'，根据乌云密布的迹象，下雨的可能性极大。B选项might表示'可能'，但可能性较小（约30%），与乌云密布的强证据不符；C选项can't表示'不可能'，与语境相反；D选项shouldn't表示'不应该'，不用于天气推测。口诀：must肯定，can't否定，might不确定。",
       "label": "语法题"
     },
     {
       "id": 5,
       "type": "vocabulary",
-      "knowledge_point": "phrasal_verbs",
-      "difficulty": 1,
-      "stem": "Please _______ the lights when you leave the classroom to save electricity.",
+      "knowledge_point": "word_meaning",
+      "difficulty": 2,
+      "stem": "We need to ______ a good solution to this difficult problem before Friday.",
       "options": [
-        "A. turn on",
-        "B. turn off",
-        "C. turn up",
-        "D. turn down"
+        "A. look for",
+        "B. find out",
+        "C. come up with",
+        "D. get on"
       ],
-      "correct_answer": "B",
-      "explanation": "本题考查动词短语辨析。turn on打开（电器），turn off关闭（电器），turn up调大（音量），turn down调小（音量）。根据语境\"离开教室\"和\"节约用电\"，应该\"关灯\"，故选B。解题技巧：记住turn短语的常见含义，结合生活常识（离开要关灯省电）进行判断。",
+      "correct_answer": "C",
+      "explanation": "选C。come up with意为'想出、提出（主意、计划、解决方案等）'，与solution搭配恰当。A选项look for强调寻找的动作，不强调结果；B选项find out意为'查明、弄清楚（真相、事实）'；D选项get on意为'上车'或'进展'。固定搭配：come up with an idea/solution/plan。",
       "label": "词汇题"
     },
     {
       "id": 6,
       "type": "vocabulary",
-      "knowledge_point": "prefixes",
-      "difficulty": 2,
-      "stem": "The news sounds _______. I can't believe it is true.",
+      "knowledge_point": "phrasal_verbs",
+      "difficulty": 1,
+      "stem": "It's getting cold outside. Please ______ your coat before you go out.",
       "options": [
-        "A. believable",
-        "B. unbelievable",
-        "C. believed",
-        "D. believing"
+        "A. put on",
+        "B. put off",
+        "C. put up",
+        "D. put away"
       ],
-      "correct_answer": "B",
-      "explanation": "本题考查词性转换及前缀用法。根据后句\"无法相信是真的\"，可知消息\"难以置信\"。un-是否定前缀，unbelievable意为\"难以置信的\"。选项A（可信的）与句意相反，C（被相信的，过去分词）和D（令人相信的，现在分词）是动词分词形式，不能作系动词sound的表语。解题技巧：后缀-able构成形容词，前缀un-表示否定；系动词sound/look/feel后接形容词。",
+      "correct_answer": "A",
+      "explanation": "选A。put on意为'穿上'，与coat搭配表示穿衣服。B选项put off意为'推迟'；C选项put up意为'张贴、搭建、举起'；D选项put away意为'把...收起来、放好'。put短语辨析：on穿戴，off取消/推迟，up举起/张贴，away收起。",
       "label": "词汇题"
     },
     {
       "id": 7,
       "type": "vocabulary",
-      "knowledge_point": "fixed_collocations",
+      "knowledge_point": "prefix_suffix",
       "difficulty": 2,
-      "stem": "As students, we should _______ our best to protect the environment in our daily life.",
+      "stem": "The weather forecast says it will be ______ tomorrow. Don't forget to take an umbrella.",
       "options": [
-        "A. try",
-        "B. do",
-        "C. make",
-        "D. take"
+        "A. sunny",
+        "B. rainy",
+        "C. rainless",
+        "D. rainful"
       ],
-      "correct_answer": "A",
-      "explanation": "本题考查固定搭配。try one's best to do sth. 是固定短语，意为\"尽某人最大努力做某事\"。do/make/take不与best构成此搭配。故选A。解题技巧：记住常见固定搭配：try one's best（尽某人最大努力），do one's homework（做作业），make friends（交朋友），take action（采取行动）。",
+      "correct_answer": "B",
+      "explanation": "选B。rainy是形容词，意为'下雨的'，由名词rain加后缀-y构成。A选项sunny（晴朗的）与后文带伞矛盾；C选项rainless（无雨的）由rain+less（无...的）构成，与语境相反；D选项rainful不是标准英语词汇。后缀-y加在名词后构成形容词：cloud→cloudy, sun→sunny, rain→rainy。",
       "label": "词汇题"
     },
     {
       "id": 8,
       "type": "cloze",
       "knowledge_point": "cloze_general",
-      "difficulty": 1,
-      "group": "cloze_1",
-      "group_passage": "Many students think protecting the environment is only the government's job. However, we can also do something to help at school. Last month, our school started a \"Green Campus\" project.\n\nThe project encourages students to reduce waste. For example, we should use both sides of paper when doing homework. Also, we bring our own water bottles instead of buying plastic ones.\n\nI have joined the school's recycling club. Every Friday afternoon, we collect waste paper and bottles from each classroom. At first, some students didn't understand why we were doing this. But after we explained the importance of recycling, they began to support us.\n\nSo far, we have collected over 500 kilos of waste paper. The money from selling it will be used to buy books for children in poor areas.\n\nThrough this project, I have learned that small actions can make a big difference. Protecting the environment starts with small steps in our daily life.",
+      "difficulty": 2,
       "stem": "(8)___",
       "options": [
-        "A. in",
-        "B. at",
-        "C. on",
-        "D. to"
+        "A. interesting",
+        "B. boring",
+        "C. important",
+        "D. exciting"
       ],
       "correct_answer": "B",
-      "explanation": "本题考查介词固定搭配。at school是固定搭配，意为\"在学校\"。in school强调在校学习的状态，at school强调地点。此处指\"在学校\"这个地点，故选B。选项C（on）和D（to）不与school构成此搭配。",
-      "label": "完形填空"
+      "explanation": "选B。根据前文'many students didn't take it seriously'（不认真对待）和'just another'（只是另一个...），可推断学生认为这是'boring（无聊的）'活动。A、D选项为积极词汇，与'didn't take it seriously'态度不符；C选项important与just another（暗含'老一套、没什么特别'）语气矛盾。",
+      "label": "完形填空",
+      "group": "cloze_1",
+      "group_passage": "Last month, our school started an interesting project called \"Green Campus\". The goal was to make students realize the importance of protecting the environment.\n\nAt first, many students didn't take it seriously. They thought it was just another (8)___ school activity. However, everything changed when our science teacher, Mr. Zhang, showed us some shocking photos of polluted rivers near our city. We could see dead fish and dirty water. It really opened our (9)___.\n\nAfter that, students became very active. My classmates and I decided to work on waste sorting. We made colorful posters and (10)___ them up around the school. We also set up special bins for different kinds of rubbish. To our surprise, most students started to use them correctly within a week.\n\nThe project has taught us that small actions can make a big difference. Now, our school is much (11)___ than before. I feel proud to be part of this (12)___."
     },
     {
       "id": 9,
       "type": "cloze",
       "knowledge_point": "cloze_general",
       "difficulty": 2,
-      "group": "cloze_1",
-      "group_passage": "Many students think protecting the environment is only the government's job. However, we can also do something to help at school. Last month, our school started a \"Green Campus\" project.\n\nThe project encourages students to reduce waste. For example, we should use both sides of paper when doing homework. Also, we bring our own water bottles instead of buying plastic ones.\n\nI have joined the school's recycling club. Every Friday afternoon, we collect waste paper and bottles from each classroom. At first, some students didn't understand why we were doing this. But after we explained the importance of recycling, they began to support us.\n\nSo far, we have collected over 500 kilos of waste paper. The money from selling it will be used to buy books for children in poor areas.\n\nThrough this project, I have learned that small actions can make a big difference. Protecting the environment starts with small steps in our daily life.",
       "stem": "(9)___",
       "options": [
-        "A. reduce",
-        "B. reuse",
-        "C. recycle",
-        "D. increase"
+        "A. eyes",
+        "B. ears",
+        "C. hearts",
+        "D. mouths"
       ],
       "correct_answer": "A",
-      "explanation": "本题考查语境推理。根据下文\"use both sides of paper\"（双面用纸）和\"bring our own water bottles\"（自带水杯）可知，这些都是\"减少\"废弃物的例子。reduce减少，reuse重复使用，recycle回收，increase增加。根据语境，项目鼓励学生\"减少\"浪费，故选A。",
-      "label": "完形填空"
+      "explanation": "选A。固定搭配open one's eyes意为'使某人大开眼界、使认清事实'，符合语境'看到污染照片后醒悟'。B选项ears（耳朵）常与open搭配表示'侧耳倾听'，但此处是视觉体验；C选项hearts（心）常与open搭配表示'敞开心扉'；D选项mouths（嘴）无此搭配。",
+      "label": "完形填空",
+      "group": "cloze_1",
+      "group_passage": "Last month, our school started an interesting project called \"Green Campus\". The goal was to make students realize the importance of protecting the environment.\n\nAt first, many students didn't take it seriously. They thought it was just another (8)___ school activity. However, everything changed when our science teacher, Mr. Zhang, showed us some shocking photos of polluted rivers near our city. We could see dead fish and dirty water. It really opened our (9)___.\n\nAfter that, students became very active. My classmates and I decided to work on waste sorting. We made colorful posters and (10)___ them up around the school. We also set up special bins for different kinds of rubbish. To our surprise, most students started to use them correctly within a week.\n\nThe project has taught us that small actions can make a big difference. Now, our school is much (11)___ than before. I feel proud to be part of this (12)___."
     },
     {
       "id": 10,
       "type": "cloze",
       "knowledge_point": "cloze_general",
-      "difficulty": 2,
-      "group": "cloze_1",
-      "group_passage": "Many students think protecting the environment is only the government's job. However, we can also do something to help at school. Last month, our school started a \"Green Campus\" project.\n\nThe project encourages students to reduce waste. For example, we should use both sides of paper when doing homework. Also, we bring our own water bottles instead of buying plastic ones.\n\nI have joined the school's recycling club. Every Friday afternoon, we collect waste paper and bottles from each classroom. At first, some students didn't understand why we were doing this. But after we explained the importance of recycling, they began to support us.\n\nSo far, we have collected over 500 kilos of waste paper. The money from selling it will be used to buy books for children in poor areas.\n\nThrough this project, I have learned that small actions can make a big difference. Protecting the environment starts with small steps in our daily life.",
+      "difficulty": 1,
       "stem": "(10)___",
       "options": [
-        "A. instead",
-        "B. because",
-        "C. afraid",
-        "D. full"
+        "A. put",
+        "B. took",
+        "C. gave",
+        "D. turned"
       ],
       "correct_answer": "A",
-      "explanation": "本题考查固定搭配。instead of是固定短语，意为\"代替，而不是\"，后接名词或动名词。此处指\"自带水杯而不是买塑料瓶\"。because of因为，afraid of害怕，full of充满，均不符合语境。故选A。",
-      "label": "完形填空"
+      "explanation": "选A。固定搭配put up意为'张贴'，与posters（海报）搭配恰当。B选项took up意为'开始从事、占据（时间/空间）'；C选项gave up意为'放弃'；D选项turned up意为'调大（音量）、出现'。put up有'张贴、搭建、举起'等含义，是中考高频短语。",
+      "label": "完形填空",
+      "group": "cloze_1",
+      "group_passage": "Last month, our school started an interesting project called \"Green Campus\". The goal was to make students realize the importance of protecting the environment.\n\nAt first, many students didn't take it seriously. They thought it was just another (8)___ school activity. However, everything changed when our science teacher, Mr. Zhang, showed us some shocking photos of polluted rivers near our city. We could see dead fish and dirty water. It really opened our (9)___.\n\nAfter that, students became very active. My classmates and I decided to work on waste sorting. We made colorful posters and (10)___ them up around the school. We also set up special bins for different kinds of rubbish. To our surprise, most students started to use them correctly within a week.\n\nThe project has taught us that small actions can make a big difference. Now, our school is much (11)___ than before. I feel proud to be part of this (12)___."
     },
     {
       "id": 11,
       "type": "cloze",
       "knowledge_point": "cloze_general",
-      "difficulty": 1,
-      "group": "cloze_1",
-      "group_passage": "Many students think protecting the environment is only the government's job. However, we can also do something to help at school. Last month, our school started a \"Green Campus\" project.\n\nThe project encourages students to reduce waste. For example, we should use both sides of paper when doing homework. Also, we bring our own water bottles instead of buying plastic ones.\n\nI have joined the school's recycling club. Every Friday afternoon, we collect waste paper and bottles from each classroom. At first, some students didn't understand why we were doing this. But after we explained the importance of recycling, they began to support us.\n\nSo far, we have collected over 500 kilos of waste paper. The money from selling it will be used to buy books for children in poor areas.\n\nThrough this project, I have learned that small actions can make a big difference. Protecting the environment starts with small steps in our daily life.",
+      "difficulty": 2,
       "stem": "(11)___",
       "options": [
-        "A. know",
-        "B. understand",
-        "C. think",
-        "D. agree"
+        "A. clean",
+        "B. cleaner",
+        "C. cleanest",
+        "D. the cleanest"
       ],
       "correct_answer": "B",
-      "explanation": "本题考查语境推理。根据下文\"But after we explained...\"（但当我们解释后）可知，起初有些学生不\"理解\"我们为什么这么做。understand理解，明白，符合语境。know知道，think认为，agree同意，都不如understand贴切。故选B。",
-      "label": "完形填空"
+      "explanation": "选B。than是比较级标志词，much修饰比较级加强程度，故用cleaner（更干净的）。A是原级；C、D是最高级，用于三者及以上比较。比较级常见标志词：than, much, even, far, a lot, a little等。",
+      "label": "完形填空",
+      "group": "cloze_1",
+      "group_passage": "Last month, our school started an interesting project called \"Green Campus\". The goal was to make students realize the importance of protecting the environment.\n\nAt first, many students didn't take it seriously. They thought it was just another (8)___ school activity. However, everything changed when our science teacher, Mr. Zhang, showed us some shocking photos of polluted rivers near our city. We could see dead fish and dirty water. It really opened our (9)___.\n\nAfter that, students became very active. My classmates and I decided to work on waste sorting. We made colorful posters and (10)___ them up around the school. We also set up special bins for different kinds of rubbish. To our surprise, most students started to use them correctly within a week.\n\nThe project has taught us that small actions can make a big difference. Now, our school is much (11)___ than before. I feel proud to be part of this (12)___."
     },
     {
       "id": 12,
       "type": "cloze",
       "knowledge_point": "cloze_general",
-      "difficulty": 2,
-      "group": "cloze_1",
-      "group_passage": "Many students think protecting the environment is only the government's job. However, we can also do something to help at school. Last month, our school started a \"Green Campus\" project.\n\nThe project encourages students to reduce waste. For example, we should use both sides of paper when doing homework. Also, we bring our own water bottles instead of buying plastic ones.\n\nI have joined the school's recycling club. Every Friday afternoon, we collect waste paper and bottles from each classroom. At first, some students didn't understand why we were doing this. But after we explained the importance of recycling, they began to support us.\n\nSo far, we have collected over 500 kilos of waste paper. The money from selling it will be used to buy books for children in poor areas.\n\nThrough this project, I have learned that small actions can make a big difference. Protecting the environment starts with small steps in our daily life.",
+      "difficulty": 1,
       "stem": "(12)___",
       "options": [
-        "A. used",
-        "B. spent",
-        "C. taken",
-        "D. paid"
+        "A. change",
+        "B. lesson",
+        "C. game",
+        "D. problem"
       ],
       "correct_answer": "A",
-      "explanation": "本题考查被动语态及固定搭配。be used to do sth. 被用来做某事。spend的主语通常是人，结构为spend money on sth.；take通常用于it takes sb. time to do sth.；pay的主语也是人，结构为pay money for sth.。此处主语是money，且表示\"被用来买书\"，故选A。",
-      "label": "完形填空"
+      "explanation": "选A。前文提到'our school is much cleaner than before'（学校比以前干净），说明发生了'change（变化）'，作者为参与这一改变而自豪。B选项lesson（课程、教训）虽可搭配，但不如change贴合全文'校园变绿、环境改善'的主题；C选项game（游戏）与文意不符；D选项problem（问题）与proud（自豪）情感色彩矛盾。",
+      "label": "完形填空",
+      "group": "cloze_1",
+      "group_passage": "Last month, our school started an interesting project called \"Green Campus\". The goal was to make students realize the importance of protecting the environment.\n\nAt first, many students didn't take it seriously. They thought it was just another (8)___ school activity. However, everything changed when our science teacher, Mr. Zhang, showed us some shocking photos of polluted rivers near our city. We could see dead fish and dirty water. It really opened our (9)___.\n\nAfter that, students became very active. My classmates and I decided to work on waste sorting. We made colorful posters and (10)___ them up around the school. We also set up special bins for different kinds of rubbish. To our surprise, most students started to use them correctly within a week.\n\nThe project has taught us that small actions can make a big difference. Now, our school is much (11)___ than before. I feel proud to be part of this (12)___."
     },
     {
       "id": 13,
       "type": "reading",
       "knowledge_point": "detail",
       "difficulty": 1,
-      "group": "reading_1",
-      "group_passage": "Do you often feel sleepy in class? Many students don't get enough sleep because they stay up late playing computer games or doing homework. Scientists say teenagers need about 8 to 10 hours of sleep every night.\n\nSleep is important for our health. During sleep, our bodies grow and our brains rest. If we don't sleep well, we may have trouble remembering things. Also, lack of sleep can make us feel stressed and unhappy.\n\nTo sleep better, we should form good habits. First, don't drink coffee or tea in the evening. Second, stay away from screens at least one hour before bedtime. The blue light from phones and computers makes it hard for us to fall asleep. Finally, try to go to bed at the same time every night, even on weekends.\n\nA good night's sleep helps us stay active during the day. It also improves our memory and helps us do better in exams. So, put down your phone and go to bed early tonight!",
-      "stem": "How many hours of sleep do teenagers need every night according to the passage?",
+      "stem": "What did the students put the third piece of apple into?",
       "options": [
-        "A. About 6 to 7 hours.",
-        "B. About 8 to 10 hours.",
-        "C. About 10 to 12 hours.",
-        "D. About 7 to 8 hours."
+        "A. Plain water",
+        "B. Lemon juice",
+        "C. Salt water",
+        "D. Nothing"
       ],
       "correct_answer": "B",
-      "explanation": "本题是细节理解题。根据文章第一段最后一句\"Scientists say teenagers need about 8 to 10 hours of sleep every night.\"（科学家说青少年每晚需要大约8到10小时的睡眠），可直接找到答案B。解题技巧：细节题通常能在原文中找到原句或同义句，做题时要根据关键词（如teenagers/hours of sleep）快速定位到相关段落。",
-      "label": "阅读-细节理解"
+      "explanation": "选B。根据第三段'Then we treated the other three pieces differently. We put the second piece into plain water, the third into lemon juice...'可知，第三片苹果放入了柠檬汁中。细节题解题技巧：找准题干关键词（third piece），快速定位原文对应句，避免被其他干扰项（如第二片放清水、第四片放盐水的信息）迷惑。",
+      "label": "阅读-细节理解",
+      "group": "reading_1",
+      "group_passage": "Have you ever wondered why apples turn brown after you cut them? Last week, our biology teacher showed us the answer through a simple but interesting experiment.\n\nFirst, we cut an apple into four pieces. We left the first piece on the table as the \"control group\". Then we treated the other three pieces differently. We put the second piece into plain water, the third into lemon juice, and the fourth into salt water. After 30 minutes, we checked the results.\n\nThe piece on the table had turned completely brown. The one in plain water was slightly brown. Surprisingly, the piece in lemon juice stayed almost white and fresh-looking. The salt water piece was less brown than the control but darker than the lemon juice one.\n\nOur teacher explained that when apples are cut, they meet oxygen in the air. This causes a chemical reaction called oxidation (氧化). Lemon juice contains vitamin C, which can slow down this reaction. That's why many people put lemon juice on cut fruits to keep them fresh.\n\nThis experiment made us understand that science is not just in textbooks but also in our daily lives. By observing carefully and asking questions, we can discover many interesting secrets around us."
     },
     {
       "id": 14,
       "type": "reading",
-      "knowledge_point": "inference",
-      "difficulty": 3,
-      "group": "reading_1",
-      "group_passage": "Do you often feel sleepy in class? Many students don't get enough sleep because they stay up late playing computer games or doing homework. Scientists say teenagers need about 8 to 10 hours of sleep every night.\n\nSleep is important for our health. During sleep, our bodies grow and our brains rest. If we don't sleep well, we may have trouble remembering things. Also, lack of sleep can make us feel stressed and unhappy.\n\nTo sleep better, we should form good habits. First, don't drink coffee or tea in the evening. Second, stay away from screens at least one hour before bedtime. The blue light from phones and computers makes it hard for us to fall asleep. Finally, try to go to bed at the same time every night, even on weekends.\n\nA good night's sleep helps us stay active during the day. It also improves our memory and helps us do better in exams. So, put down your phone and go to bed early tonight!",
-      "stem": "What can we learn from the passage?",
+      "knowledge_point": "word_guessing",
+      "difficulty": 2,
+      "stem": "The underlined word 'oxidation' in Paragraph 4 probably means ______.",
       "options": [
-        "A. Sleep is not important for students' study.",
-        "B. We should use phones right before sleep.",
-        "C. Lack of sleep affects memory and mood.",
-        "D. Teenagers need less sleep than adults."
+        "A. 氧化",
+        "B. 融化",
+        "C. 蒸发",
+        "D. 凝固"
       ],
-      "correct_answer": "C",
-      "explanation": "本题是推理判断题。根据第二段\"If we don't sleep well, we may have trouble remembering things. Also, lack of sleep can make us feel stressed and unhappy.\"（如果我们睡不好，可能记不住东西。缺乏睡眠也会让我们感到压力大和不开心），可推断出缺乏睡眠会影响记忆力和情绪，故选C。选项A与文章主旨相反，B与第三段\"stay away from screens\"矛盾，D文章未提及且与科学常识相反。解题技巧：推理题需要根据原文信息进行合理推断，不能选原文明确表述的（那是细节题），也不能选与原文矛盾或未提及的。",
-      "label": "阅读-推理判断"
+      "correct_answer": "A",
+      "explanation": "选A。根据上下文线索：1）前文提到'apples turn brown'（苹果变褐）；2）'meet oxygen in the air'（接触空气中的氧气）；3）'chemical reaction'（化学反应）；4）后文提到lemon juice can slow down this reaction（柠檬汁能减缓这一反应）。结合化学常识，水果切开接触氧气变褐是氧化反应。词义猜测题技巧：关注同位语、定语从句、举例、因果关系等线索，利用构词法（oxygen氧气→oxide氧化物→oxidation氧化）。",
+      "label": "阅读-词义猜测",
+      "group": "reading_1",
+      "group_passage": "Have you ever wondered why apples turn brown after you cut them? Last week, our biology teacher showed us the answer through a simple but interesting experiment.\n\nFirst, we cut an apple into four pieces. We left the first piece on the table as the \"control group\". Then we treated the other three pieces differently. We put the second piece into plain water, the third into lemon juice, and the fourth into salt water. After 30 minutes, we checked the results.\n\nThe piece on the table had turned completely brown. The one in plain water was slightly brown. Surprisingly, the piece in lemon juice stayed almost white and fresh-looking. The salt water piece was less brown than the control but darker than the lemon juice one.\n\nOur teacher explained that when apples are cut, they meet oxygen in the air. This causes a chemical reaction called oxidation (氧化). Lemon juice contains vitamin C, which can slow down this reaction. That's why many people put lemon juice on cut fruits to keep them fresh.\n\nThis experiment made us understand that science is not just in textbooks but also in our daily lives. By observing carefully and asking questions, we can discover many interesting secrets around us."
     },
     {
       "id": 15,
       "type": "reading",
-      "knowledge_point": "word_guessing",
-      "difficulty": 2,
-      "group": "reading_1",
-      "group_passage": "Do you often feel sleepy in class? Many students don't get enough sleep because they stay up late playing computer games or doing homework. Scientists say teenagers need about 8 to 10 hours of sleep every night.\n\nSleep is important for our health. During sleep, our bodies grow and our brains rest. If we don't sleep well, we may have trouble remembering things. Also, lack of sleep can make us feel stressed and unhappy.\n\nTo sleep better, we should form good habits. First, don't drink coffee or tea in the evening. Second, stay away from screens at least one hour before bedtime. The blue light from phones and computers makes it hard for us to fall asleep. Finally, try to go to bed at the same time every night, even on weekends.\n\nA good night's sleep helps us stay active during the day. It also improves our memory and helps us do better in exams. So, put down your phone and go to bed early tonight!",
-      "stem": "What does the phrase \"lack of sleep\" in Paragraph 2 mean?",
+      "knowledge_point": "inference",
+      "difficulty": 3,
+      "stem": "Why did the teacher do this experiment according to the passage?",
       "options": [
-        "A. 睡眠过多",
-        "B. 缺乏睡眠",
-        "C. 睡眠质量好",
-        "D. 睡眠时间充足"
+        "A. To teach students how to cut apples skillfully",
+        "B. To show students that science is around us in daily life",
+        "C. To tell students to eat more lemons for vitamin C",
+        "D. To test which liquid is the best drink for people"
       ],
       "correct_answer": "B",
-      "explanation": "本题是词义猜测题。根据上下文，第二段讲睡眠的重要性，\"lack of sleep\"与\"feel stressed and unhappy\"（感到压力和不开心）相关联。根据构词法，lack意为\"缺乏\"，且前文提到\"don't get enough sleep\"（睡眠不足），可推测lack of sleep意为\"缺乏睡眠\"。故选B。解题技巧：词义猜测可通过上下文逻辑关系（因果、转折）、同义/反义关系、构词法（前缀后缀）或生活常识来判断。",
-      "label": "阅读-词义猜测"
+      "explanation": "选B。根据最后一段'This experiment made us understand that science is not just in textbooks but also in our daily lives'（这个实验让我们明白科学不仅在课本中，也在我们的日常生活中），可推断老师做实验的目的是展示科学就在身边。A选项'如何切苹果'只是实验手段而非目的；C选项'多吃柠檬'偏离主题；D选项'测试哪种饮料最好'曲解文意。推理题技巧：区分事实与观点，关注作者评价性语言（如made us understand that...）。",
+      "label": "阅读-推理判断",
+      "group": "reading_1",
+      "group_passage": "Have you ever wondered why apples turn brown after you cut them? Last week, our biology teacher showed us the answer through a simple but interesting experiment.\n\nFirst, we cut an apple into four pieces. We left the first piece on the table as the \"control group\". Then we treated the other three pieces differently. We put the second piece into plain water, the third into lemon juice, and the fourth into salt water. After 30 minutes, we checked the results.\n\nThe piece on the table had turned completely brown. The one in plain water was slightly brown. Surprisingly, the piece in lemon juice stayed almost white and fresh-looking. The salt water piece was less brown than the control but darker than the lemon juice one.\n\nOur teacher explained that when apples are cut, they meet oxygen in the air. This causes a chemical reaction called oxidation (氧化). Lemon juice contains vitamin C, which can slow down this reaction. That's why many people put lemon juice on cut fruits to keep them fresh.\n\nThis experiment made us understand that science is not just in textbooks but also in our daily lives. By observing carefully and asking questions, we can discover many interesting secrets around us."
     },
     {
       "id": 16,
       "type": "reading",
       "knowledge_point": "main_idea",
-      "difficulty": 3,
-      "group": "reading_1",
-      "group_passage": "Do you often feel sleepy in class? Many students don't get enough sleep because they stay up late playing computer games or doing homework. Scientists say teenagers need about 8 to 10 hours of sleep every night.\n\nSleep is important for our health. During sleep, our bodies grow and our brains rest. If we don't sleep well, we may have trouble remembering things. Also, lack of sleep can make us feel stressed and unhappy.\n\nTo sleep better, we should form good habits. First, don't drink coffee or tea in the evening. Second, stay away from screens at least one hour before bedtime. The blue light from phones and computers makes it hard for us to fall asleep. Finally, try to go to bed at the same time every night, even on weekends.\n\nA good night's sleep helps us stay active during the day. It also improves our memory and helps us do better in exams. So, put down your phone and go to bed early tonight!",
-      "stem": "What is the best title for the passage?",
+      "difficulty": 2,
+      "stem": "What is the best title for this passage?",
       "options": [
-        "A. How to Study Better",
-        "B. The Importance of Sleep",
-        "C. Bad Habits Before Bed",
-        "D. Teenagers' Daily Life"
+        "A. How to Cut an Apple Properly",
+        "B. The History of Apples in China",
+        "C. An Interesting Science Experiment",
+        "D. Why We Should Eat More Fresh Apples"
       ],
-      "correct_answer": "B",
-      "explanation": "本题是主旨大意题。文章第一段讲青少年需要充足睡眠，第二段讲睡眠的重要性（对健康、记忆力的影响），第三段讲如何改善睡眠，第四段总结睡眠的好处。全文围绕\"睡眠的重要性\"展开，故选B。选项A（如何更好学习）只在最后一句提及，C（睡前的坏习惯）只在第三段提及，D（青少年的日常生活）范围过大，均不能概括全文。解题技巧：主旨题要通读全文，找出高频词和主题句（通常在首段或尾段），选择能覆盖全文内容的标题，避免以偏概全。",
-      "label": "阅读-主旨大意"
+      "correct_answer": "C",
+      "explanation": "选C。全文围绕课堂上做的'苹果氧化对比实验'展开，从实验步骤、现象观察到原理分析，因此'An Interesting Science Experiment'最能概括主旨。A选项'如何切苹果'只是实验细节；B选项'苹果历史'文中未提；D选项'为什么应多吃苹果'偏离主题。主旨题技巧：寻找高频词（experiment出现多次），排除以偏概全和偏离主题的选项，标题应涵盖全文核心内容。",
+      "label": "阅读-主旨大意",
+      "group": "reading_1",
+      "group_passage": "Have you ever wondered why apples turn brown after you cut them? Last week, our biology teacher showed us the answer through a simple but interesting experiment.\n\nFirst, we cut an apple into four pieces. We left the first piece on the table as the \"control group\". Then we treated the other three pieces differently. We put the second piece into plain water, the third into lemon juice, and the fourth into salt water. After 30 minutes, we checked the results.\n\nThe piece on the table had turned completely brown. The one in plain water was slightly brown. Surprisingly, the piece in lemon juice stayed almost white and fresh-looking. The salt water piece was less brown than the control but darker than the lemon juice one.\n\nOur teacher explained that when apples are cut, they meet oxygen in the air. This causes a chemical reaction called oxidation (氧化). Lemon juice contains vitamin C, which can slow down this reaction. That's why many people put lemon juice on cut fruits to keep them fresh.\n\nThis experiment made us understand that science is not just in textbooks but also in our daily lives. By observing carefully and asking questions, we can discover many interesting secrets around us."
     },
     {
       "id": 17,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "group": "fill_1",
-      "group_passage": "Joining a school club is a great way to make friends and learn new skills. Here are some tips for choosing the right club.\n\n(17)__________ Think about what you enjoy doing. If you like singing, join the music club. If you enjoy sports, try the basketball team.\n\n(18)__________ Don't choose a club just because your friends are in it. Make sure you really like the activity yourself.\n\n(19)__________ Some clubs meet every day, while others only meet once a week. Choose one that fits your schedule.\n\n(20)__________ Remember, the most important thing is to have fun and learn something new.",
       "stem": "(17)___",
       "options": [
-        "A. However, make sure you have time for your homework.",
-        "B. First, consider your interests.",
-        "C. In addition, check the meeting time.",
-        "D. On the other hand, don't just follow your friends.",
-        "E. Finally, enjoy your time in the club."
+        "A. You can review a few English words or read a book instead.",
+        "B. However, having hobbies is actually good for your study.",
+        "C. But this problem can be solved with good time management.",
+        "D. Put the hardest tasks on days when you have less homework.",
+        "E. In addition, you should give up all your hobbies to focus on study."
       ],
-      "correct_answer": "B",
-      "explanation": "本题考查段落衔接与逻辑关系。根据下文\"Think about what you enjoy doing\"（考虑你喜欢做什么）可知，本段讲的是\"首先，考虑你的兴趣\"。First与下文形成顺序关系，consider your interests与enjoy doing对应。故选B。",
-      "label": "短文填空"
+      "correct_answer": "C",
+      "explanation": "选C。前文提出'难以平衡学习与爱好'的问题，后文紧接着'Here are some useful tips'（以下是一些实用建议），因此此处需要承上启下的过渡句，C选项'但这个问题可以通过良好的时间管理得到解决'既回应了前文的problem，又引出下文的解决方案。A是具体建议，应在提出方法后使用；B转折太突兀；D是具体计划建议；E与文章主旨（平衡而非放弃）相悖。",
+      "label": "短文填空",
+      "group": "fill_1",
+      "group_passage": "Many middle school students have trouble balancing study and hobbies. They often feel stressed when they can't finish homework but want to play basketball or paint. (17)___ Here are some useful tips.\n\nFirst, make a plan every Sunday evening. Write down all the important tasks for the week. (18)___ This way, you won't forget anything important.\n\nSecond, use your free time wisely. For example, if you have 15 minutes before dinner, don't just watch short videos. (19)___ Small pieces of time can add up to big progress.\n\n(20)___ Hobbies are not a waste of time. They help you relax and bring you joy. When you feel happy, you can study better.\n\nRemember, balance is the key to a healthy school life."
     },
     {
       "id": 18,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "group": "fill_1",
-      "group_passage": "Joining a school club is a great way to make friends and learn new skills. Here are some tips for choosing the right club.\n\n(17)__________ Think about what you enjoy doing. If you like singing, join the music club. If you enjoy sports, try the basketball team.\n\n(18)__________ Don't choose a club just because your friends are in it. Make sure you really like the activity yourself.\n\n(19)__________ Some clubs meet every day, while others only meet once a week. Choose one that fits your schedule.\n\n(20)__________ Remember, the most important thing is to have fun and learn something new.",
       "stem": "(18)___",
       "options": [
-        "A. However, make sure you have time for your homework.",
-        "B. First, consider your interests.",
-        "C. In addition, check the meeting time.",
-        "D. On the other hand, don't just follow your friends.",
-        "E. Finally, enjoy your time in the club."
+        "A. You can review a few English words or read a book instead.",
+        "B. However, having hobbies is actually good for your study.",
+        "C. But this problem can be solved with good time management.",
+        "D. Put the hardest tasks on days when you have less homework.",
+        "E. In addition, you should give up all your hobbies to focus on study."
       ],
       "correct_answer": "D",
-      "explanation": "本题考查段落衔接与逻辑关系。根据下文\"Don't choose a club just because your friends are in it\"（不要因为朋友参加就选那个社团）可知，本段讲的是\"另一方面，不要只是跟随朋友\"。On the other hand表示另一方面，引出相反或补充的建议，don't follow your friends与下文对应。故选D。",
-      "label": "短文填空"
+      "explanation": "选D。前文提到'Write down all the important tasks'（写下所有重要任务），D选项'把最难的任务放在作业较少的日子'是对'制定计划'的具体展开，符合逻辑递进关系。A是碎片时间利用建议，应在第二点使用；B、C与上下文话题不符；E观点错误。选句子填空技巧：关注指代关系、逻辑连接词（first, second, however, therefore等）和词汇复现。",
+      "label": "短文填空",
+      "group": "fill_1",
+      "group_passage": "Many middle school students have trouble balancing study and hobbies. They often feel stressed when they can't finish homework but want to play basketball or paint. (17)___ Here are some useful tips.\n\nFirst, make a plan every Sunday evening. Write down all the important tasks for the week. (18)___ This way, you won't forget anything important.\n\nSecond, use your free time wisely. For example, if you have 15 minutes before dinner, don't just watch short videos. (19)___ Small pieces of time can add up to big progress.\n\n(20)___ Hobbies are not a waste of time. They help you relax and bring you joy. When you feel happy, you can study better.\n\nRemember, balance is the key to a healthy school life."
     },
     {
       "id": 19,
       "type": "fill",
       "knowledge_point": "sentence_fill",
-      "difficulty": 2,
-      "group": "fill_1",
-      "group_passage": "Joining a school club is a great way to make friends and learn new skills. Here are some tips for choosing the right club.\n\n(17)__________ Think about what you enjoy doing. If you like singing, join the music club. If you enjoy sports, try the basketball team.\n\n(18)__________ Don't choose a club just because your friends are in it. Make sure you really like the activity yourself.\n\n(19)__________ Some clubs meet every day, while others only meet once a week. Choose one that fits your schedule.\n\n(20)__________ Remember, the most important thing is to have fun and learn something new.",
+      "difficulty": 1,
       "stem": "(19)___",
       "options": [
-        "A. However, make sure you have time for your homework.",
-        "B. First, consider your interests.",
-        "C. In addition, check the meeting time.",
-        "D. On the other hand, don't just follow your friends.",
-        "E. Finally, enjoy your time in the club."
+        "A. You can review a few English words or read a book instead.",
+        "B. However, having hobbies is actually good for your study.",
+        "C. But this problem can be solved with good time management.",
+        "D. Put the hardest tasks on days when you have less homework.",
+        "E. In addition, you should give up all your hobbies to focus on study."
       ],
-      "correct_answer": "C",
-      "explanation": "本题考查段落衔接与逻辑关系。根据下文\"Some clubs meet every day, while others only meet once a week\"（有些社团每天见面，有些一周一次）可知，本段讲的是\"此外，检查会议时间\"。In addition表示补充，check the meeting time与meet every day/once a week对应。故选C。",
-      "label": "短文填空"
+      "correct_answer": "A",
+      "explanation": "选A。前文说'不要只看短视频'，A选项'你可以改为复习几个英语单词或读一本书'是具体的替代建议，与'利用碎片时间'的主题一致。B、C、D与'15分钟碎片时间'的语境不符；E观点错误。注意instead一词表示替代前文提到的'watch short videos'。",
+      "label": "短文填空",
+      "group": "fill_1",
+      "group_passage": "Many middle school students have trouble balancing study and hobbies. They often feel stressed when they can't finish homework but want to play basketball or paint. (17)___ Here are some useful tips.\n\nFirst, make a plan every Sunday evening. Write down all the important tasks for the week. (18)___ This way, you won't forget anything important.\n\nSecond, use your free time wisely. For example, if you have 15 minutes before dinner, don't just watch short videos. (19)___ Small pieces of time can add up to big progress.\n\n(20)___ Hobbies are not a waste of time. They help you relax and bring you joy. When you feel happy, you can study better.\n\nRemember, balance is the key to a healthy school life."
     },
     {
       "id": 20,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "group": "fill_1",
-      "group_passage": "Joining a school club is a great way to make friends and learn new skills. Here are some tips for choosing the right club.\n\n(17)__________ Think about what you enjoy doing. If you like singing, join the music club. If you enjoy sports, try the basketball team.\n\n(18)__________ Don't choose a club just because your friends are in it. Make sure you really like the activity yourself.\n\n(19)__________ Some clubs meet every day, while others only meet once a week. Choose one that fits your schedule.\n\n(20)__________ Remember, the most important thing is to have fun and learn something new.",
       "stem": "(20)___",
       "options": [
-        "A. However, make sure you have time for your homework.",
-        "B. First, consider your interests.",
-        "C. In addition, check the meeting time.",
-        "D. On the other hand, don't just follow your friends.",
-        "E. Finally, enjoy your time in the club."
+        "A. You can review a few English words or read a book instead.",
+        "B. However, having hobbies is actually good for your study.",
+        "C. But this problem can be solved with good time management.",
+        "D. Put the hardest tasks on days when you have less homework.",
+        "E. In addition, you should give up all your hobbies to focus on study."
       ],
-      "correct_answer": "E",
-      "explanation": "本题考查段落衔接与逻辑关系。根据位置（最后一段）和内容\"have fun\"（玩得开心）可知，本段是总结性建议\"最后，享受你在社团的时光\"。Finally表示顺序上的最后，enjoy与have fun对应。故选E。",
-      "label": "短文填空"
+      "correct_answer": "B",
+      "explanation": "选B。后文说'Hobbies are not a waste of time'（爱好不是浪费时间），B选项'然而，拥有爱好实际上对你的学习有好处'作为段落主题句，引出对爱好价值的论述。However表示转折，针对前文可能暗示的'要利用所有时间学习'进行修正。A、C、D与'hobbies'主题不符；E与后文'not a waste of time'直接矛盾。",
+      "label": "短文填空",
+      "group": "fill_1",
+      "group_passage": "Many middle school students have trouble balancing study and hobbies. They often feel stressed when they can't finish homework but want to play basketball or paint. (17)___ Here are some useful tips.\n\nFirst, make a plan every Sunday evening. Write down all the important tasks for the week. (18)___ This way, you won't forget anything important.\n\nSecond, use your free time wisely. For example, if you have 15 minutes before dinner, don't just watch short videos. (19)___ Small pieces of time can add up to big progress.\n\n(20)___ Hobbies are not a waste of time. They help you relax and bring you joy. When you feel happy, you can study better.\n\nRemember, balance is the key to a healthy school life."
     }
   ]
 }
