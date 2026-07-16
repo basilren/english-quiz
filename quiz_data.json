@@ -1,29 +1,13 @@
 ﻿{
-  "date": "2026-07-16",
+  "date": "2026-07-17",
   "session_number": 1,
   "questions": [
     {
       "id": 1,
       "type": "grammar",
-      "knowledge_point": "present_perfect_vs_past_simple",
-      "difficulty": 2,
-      "stem": "—I can't find my key. ______ you ______ it anywhere?\n—Yes. I saw it on the sofa half an hour ago, but I'm not sure if it is still there.",
-      "options": [
-        "A. Did; see",
-        "B. Have; seen",
-        "C. Do; see",
-        "D. Were; seeing"
-      ],
-      "correct_answer": "B",
-      "explanation": "这道题考查现在完成时和一般过去时的区别。现在完成时(Have you seen...)强调过去动作对现在的影响（钥匙现在找不到，问是否见过，与现在有关）；而一般过去时(Did you see...)只强调过去某个具体时间发生的动作。答句中虽然提到了half an hour ago，但问句关心的是\"到目前为止是否见过\"，与现在找不到钥匙的情况相关，因此用现在完成时。解题技巧：看到与现在有联系的语境（找不到钥匙），优先考虑现在完成时。",
-      "label": "语法题"
-    },
-    {
-      "id": 2,
-      "type": "grammar",
-      "knowledge_point": "relative_clause",
-      "difficulty": 2,
-      "stem": "The girl ______ won the first prize in the English speech contest is from Class 3.",
+      "knowledge_point": "relative_clause_who_which",
+      "difficulty": 1,
+      "stem": "The boy _____ won the first prize in the English speech contest is my deskmate.",
       "options": [
         "A. who",
         "B. which",
@@ -31,87 +15,103 @@
         "D. whose"
       ],
       "correct_answer": "A",
-      "explanation": "这道题考查定语从句关系代词的选择。先行词是The girl（指人），且在从句中作主语（won the first prize），因此用who。which用于指物；whom用于指人但在从句中作宾语；whose表示所属关系（...的）。从句中缺少主语，所以选who。解题口诀：指人主格用who，宾格whom，所属whose；指物用which，that可替人替物。",
+      "explanation": "选A。先行词'the boy'指人，在定语从句中作主语，所以用who。which用于指物；whom用于指人但作宾语；whose表示'……的'，后需接名词。解题口诀：人物主who宾whom，物品which皆可通。",
+      "label": "语法题"
+    },
+    {
+      "id": 2,
+      "type": "grammar",
+      "knowledge_point": "present_perfect_vs_past_simple",
+      "difficulty": 2,
+      "stem": "—I _____ my homework already, so I can go out with you now.\n—Great! Let's go to the park.",
+      "options": [
+        "A. finished",
+        "B. have finished",
+        "C. finish",
+        "D. am finishing"
+      ],
+      "correct_answer": "B",
+      "explanation": "选B。句中有already（已经），这是现在完成时的标志性时间状语，强调过去动作对现在的影响（现在可以出去玩了）。A是一般过去时，单纯陈述过去事实，不与already连用；C是一般现在时；D是现在进行时。解题技巧：看到already/yet/just/since/for等词，优先考虑现在完成时have/has done。",
       "label": "语法题"
     },
     {
       "id": 3,
       "type": "grammar",
       "knowledge_point": "passive_voice",
-      "difficulty": 1,
-      "stem": "These old houses ______ by the government next year to make room for a new park.",
+      "difficulty": 2,
+      "stem": "These used books _____ to the school library every Friday afternoon.",
       "options": [
-        "A. will pull down",
-        "B. will be pulled down",
-        "C. are pulling down",
-        "D. pulled down"
+        "A. return",
+        "B. returned",
+        "C. are returned",
+        "D. were returned"
       ],
-      "correct_answer": "B",
-      "explanation": "这道题考查一般将来时的被动语态。主语These old houses（旧房子）是动作pull down（拆除）的承受者，因此要用被动语态；时间状语next year表示将来，所以用一般将来时的被动语态will be pulled down。选项A是主动语态，C是现在进行时主动语态，D是一般过去时主动语态，均不符合。解题技巧：看到by+动作执行者，立即考虑被动语态；结构为will be done。",
+      "correct_answer": "C",
+      "explanation": "选C。主语'books'与动词'return'是被动关系（书被归还），且时间状语'every Friday'表示经常性动作，用一般现在时被动语态am/is/are done。D是一般过去时被动，用于过去特定时间；A是主动语态；B是过去式或过去分词，不能单独作谓语。解题技巧：先看主谓关系（被动用be done），再看时间状语（every day用一般现在时）。",
       "label": "语法题"
     },
     {
       "id": 4,
       "type": "grammar",
-      "knowledge_point": "object_clause",
+      "knowledge_point": "modal_verbs_speculation",
       "difficulty": 3,
-      "stem": "—Could you please tell me ______?\n—Sure. It's about 10 minutes' walk from here.",
+      "stem": "The lights in the classroom are still on. Someone _____ be there preparing for tomorrow's exam.",
       "options": [
-        "A. how far is the museum",
-        "B. how far the museum is",
-        "C. where is the museum",
-        "D. how can I get to the museum"
+        "A. must",
+        "B. can't",
+        "C. might",
+        "D. mustn't"
       ],
-      "correct_answer": "B",
-      "explanation": "这道题考查宾语从句的语序。宾语从句必须使用陈述句语序（主语+谓语），而不能用疑问句语序。选项A、C、D都是疑问句语序（is the museum, is the museum, can I），只有B是陈述句语序（the museum is）。根据答句\"步行约10分钟\"，问的是距离，用how far。解题技巧：宾语从句三要素：连接词+陈述语序+时态呼应。检查方法：把从句部分单独拿出来看是否是完整陈述句。",
+      "correct_answer": "A",
+      "explanation": "选A。根据前句'灯还亮着'，可做出肯定推测'一定有人在那里'。must表示肯定推测（一定是）；can't表示否定推测（不可能）；might表示不确定推测（可能）；mustn't表示禁止（不许）。解题技巧：推测语气分三级——must一定（肯定），might或许（不确定），can't不可能（否定）。mustn't不是推测，是禁止。",
       "label": "语法题"
     },
     {
       "id": 5,
       "type": "vocabulary",
-      "knowledge_point": "word_guessing_context",
-      "difficulty": 2,
-      "stem": "The math problem was so challenging that only three students in our class worked it out. The underlined word \"challenging\" probably means ______.",
+      "knowledge_point": "word_meaning",
+      "difficulty": 1,
+      "stem": "Please _____ your dictionary to class tomorrow. We will need it for the reading test.",
       "options": [
-        "A. easy and interesting",
-        "B. difficult and testing",
-        "C. boring and long",
-        "D. short and simple"
+        "A. take",
+        "B. bring",
+        "C. carry",
+        "D. fetch"
       ],
       "correct_answer": "B",
-      "explanation": "这道题考查通过上下文猜测词义。关键线索是后半句\"only three students... worked it out（只有三名学生做出来）\"，说明这道题很难。challenging意为\"有挑战性的\"，即困难且考验人的。选项A（简单有趣）和D（简短简单）与语境相反；C（无聊冗长）没有体现。解题技巧：利用因果关系（so...that...）和对比关系（only three students暗示难度）来猜测词义。",
+      "explanation": "选B。bring表示'带来'（从别处带到说话人所在处）；take表示'带走'（从说话人处带到别处）；carry强调'搬运'（负重）；fetch强调'去取来'（往返）。老师让学生明天把字典带到教室来，是朝说话人方向移动，用bring。",
       "label": "词汇题"
     },
     {
       "id": 6,
       "type": "vocabulary",
       "knowledge_point": "phrasal_verbs",
-      "difficulty": 1,
-      "stem": "We should ______ our old books and clothes to the children in poor areas instead of throwing them away.",
+      "difficulty": 2,
+      "stem": "If you don't know the meaning of this word, you can _____ it _____ in the dictionary.",
       "options": [
-        "A. give away",
-        "B. give up",
-        "C. give in",
-        "D. give out"
+        "A. look; after",
+        "B. look; for",
+        "C. look; up",
+        "D. look; out"
       ],
-      "correct_answer": "A",
-      "explanation": "这道题考查动词短语辨析。give away意为\"捐赠，赠送\"；give up意为\"放弃\"；give in意为\"屈服，让步\"；give out意为\"分发，耗尽\"。根据句意\"把旧书旧衣服____给贫困地区的孩子们\"，应该是\"捐赠\"的意思。解题技巧：记住常见give短语的核心含义：away（离开/送走）→赠送；up（向上/结束）→放弃；in（进入）→屈服；out（出去）→分发。",
+      "correct_answer": "C",
+      "explanation": "选C。look up表示'查阅（词典、资料）'；look after表示'照顾'；look for表示'寻找'；look out表示'小心'。在词典中查单词用look up。这是固定搭配，需要记忆。",
       "label": "词汇题"
     },
     {
       "id": 7,
       "type": "vocabulary",
-      "knowledge_point": "prefix_suffix",
+      "knowledge_point": "word_formation",
       "difficulty": 2,
-      "stem": "If you add the prefix \"im-\" to the word \"possible\", you get a word meaning ______.",
+      "stem": "It was very _____ of you to leave the door unlocked when you went out. (care)",
       "options": [
-        "A. very possible",
-        "B. not possible",
-        "C. possibly",
-        "D. full of possibility"
+        "A. careful",
+        "B. careless",
+        "C. carefully",
+        "D. care"
       ],
       "correct_answer": "B",
-      "explanation": "这道题考查前缀的构词法。im-是否定前缀，加在possible（可能的）前面构成impossible，意为\"不可能的\"。选项A意为\"非常可能\"，C是副词\"可能地\"，D意为\"充满可能性\"。解题技巧：初中常见否定前缀：un-（happy→unhappy）、dis-（like→dislike）、im-（polite→impolite）、in-（correct→incorrect）、ir-（regular→irregular）。",
+      "explanation": "选B。根据句意'出门不锁门'可知是'粗心的'。careless（形容词）= care + less（否定后缀，表示'无……的'）；careful（细心的）；carefully（副词）；care（名词/动词）。句型It was + adj. + of sb. to do sth.，需要形容词，且根据语境选否定含义。",
       "label": "词汇题"
     },
     {
@@ -119,238 +119,238 @@
       "type": "cloze",
       "knowledge_point": "cloze_general",
       "difficulty": 1,
-      "stem": "(8)_______",
+      "stem": "(8)_____",
       "options": [
-        "A. First",
-        "B. Finally",
-        "C. However",
-        "D. Therefore"
+        "A. made",
+        "B. bought",
+        "C. found",
+        "D. drew"
       ],
       "correct_answer": "A",
-      "explanation": "这道题考查逻辑关系和语境理解。根据下文\"Another tip\"（另一个建议）和文章结构，这里应该是第一个建议，所以用First（首先）。Finally表示最后，However表示转折，Therefore表示结果，均不符合此处列举第一条建议的语境。解题技巧：关注文章结构信号词，如first, then, next, finally等表示顺序；also, another表示并列补充。",
+      "explanation": "选A。make a box表示'制作一个盒子'，符合语境'我们为纸张制作了一个特殊的回收箱'。buy（买）与下文学生亲手参与制作的语境不符；find（发现）和draw（画）不能与box构成合理搭配。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school started a green project called \"Zero Waste Classroom\". The project aims to help students understand the importance of environmental protection.\n\n(8)_______, we were asked to bring reusable bottles instead of plastic ones. At first, many students found it (9)_______ to remember bringing their bottles every day. However, after two weeks, it became a good habit.\n\nThe most exciting part was the recycling competition. Each class had to collect waste paper and bottles. The class (10)_______ collected the most would win a prize. My classmates and I worked hard together. We put a special box at the back of the classroom and encouraged everyone to use it.\n\nBy the end of the month, we were surprised to find that we had produced 60% less waste than before. This experience taught us that small actions can make a big (11)_______. \n\nNow, the \"Zero Waste\" idea has spread to other schools in our city. We feel proud that we are helping to create a better (12)_______ for future generations."
+      "group_passage": "Last month, our school started a green project called \"Zero Waste Classroom\". The goal was to reduce waste and teach students about environmental protection.\n\nIn our class, we (8)_____ a special recycling box for paper. Every day, students would put used paper into it instead of throwing it away. At first, some classmates thought it was (9)_____ and didn't want to participate. However, after our teacher explained how many trees could be saved, they changed their minds.\n\nBy the end of the month, we (10)_____ over 50 kilograms of paper. The school also organized a competition between classes to see who could collect the most recyclables. Our class didn't win first place, but we learned a valuable (11)_____ about working together to protect the environment.\n\nNow, the recycling habit has become part of our daily (12)_____. We plan to continue this project next term and hope more students will join us."
     },
     {
       "id": 9,
       "type": "cloze",
       "knowledge_point": "cloze_general",
       "difficulty": 2,
-      "stem": "(9)_______",
+      "stem": "(9)_____",
       "options": [
-        "A. easy",
-        "B. difficult",
-        "C. interesting",
-        "D. relaxing"
+        "A. difficult",
+        "B. important",
+        "C. boring",
+        "D. interesting"
       ],
-      "correct_answer": "B",
-      "explanation": "这道题考查形容词辨析和语境推理。根据下文\"However, after two weeks, it became a good habit（然而两周后成了好习惯）\"的转折关系，可以推断起初应该是\"困难的\"。如果一开始就很easy（容易），就不需要However转折了。interesting（有趣的）和relaxing（放松的）也不符合语境。解题技巧：利用转折词However判断前后语义相反，后面是\"became a good habit\"，前面应该是\"不容易/困难\"。",
+      "correct_answer": "C",
+      "explanation": "选C。根据下文'didn't want to participate（不想参与）'可知，起初同学觉得这件事'无聊'。difficult（困难的）虽然也可能导致不想参与，但下文提到老师解释后他们改变了想法，说明之前是认识问题（觉得环保无聊）而非能力问题；important和interesting与'didn't want to participate'逻辑矛盾。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school started a green project called \"Zero Waste Classroom\". The project aims to help students understand the importance of environmental protection.\n\n(8)_______, we were asked to bring reusable bottles instead of plastic ones. At first, many students found it (9)_______ to remember bringing their bottles every day. However, after two weeks, it became a good habit.\n\nThe most exciting part was the recycling competition. Each class had to collect waste paper and bottles. The class (10)_______ collected the most would win a prize. My classmates and I worked hard together. We put a special box at the back of the classroom and encouraged everyone to use it.\n\nBy the end of the month, we were surprised to find that we had produced 60% less waste than before. This experience taught us that small actions can make a big (11)_______. \n\nNow, the \"Zero Waste\" idea has spread to other schools in our city. We feel proud that we are helping to create a better (12)_______ for future generations."
+      "group_passage": "Last month, our school started a green project called \"Zero Waste Classroom\". The goal was to reduce waste and teach students about environmental protection.\n\nIn our class, we (8)_____ a special recycling box for paper. Every day, students would put used paper into it instead of throwing it away. At first, some classmates thought it was (9)_____ and didn't want to participate. However, after our teacher explained how many trees could be saved, they changed their minds.\n\nBy the end of the month, we (10)_____ over 50 kilograms of paper. The school also organized a competition between classes to see who could collect the most recyclables. Our class didn't win first place, but we learned a valuable (11)_____ about working together to protect the environment.\n\nNow, the recycling habit has become part of our daily (12)_____. We plan to continue this project next term and hope more students will join us."
     },
     {
       "id": 10,
       "type": "cloze",
-      "knowledge_point": "relative_clause_who_which",
+      "knowledge_point": "cloze_general",
       "difficulty": 2,
-      "stem": "(10)_______",
+      "stem": "(10)_____",
       "options": [
-        "A. who",
-        "B. which",
-        "C. that",
-        "D. / (不填)"
+        "A. collected",
+        "B. produced",
+        "C. wasted",
+        "D. burned"
       ],
-      "correct_answer": "C",
-      "explanation": "这道题考查定语从句关系代词。先行词是The class（班级），指物，后面从句collected the most缺少主语。虽然which也可以指物，但先行词被最高级the most修饰时，关系代词通常只用that不用which。who用于指人，不填的情况只适用于关系代词作宾语时可省略，但这里作主语不能省略。解题技巧：定语从句中，先行词被最高级修饰时，关系代词用that；先行词既有人又有物时，也用that。",
+      "correct_answer": "A",
+      "explanation": "选A。collect表示'收集'，符合回收项目的语境（收集废纸）。produce（生产）、waste（浪费）、burn（燃烧）都与环保回收的主题相悖。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school started a green project called \"Zero Waste Classroom\". The project aims to help students understand the importance of environmental protection.\n\n(8)_______, we were asked to bring reusable bottles instead of plastic ones. At first, many students found it (9)_______ to remember bringing their bottles every day. However, after two weeks, it became a good habit.\n\nThe most exciting part was the recycling competition. Each class had to collect waste paper and bottles. The class (10)_______ collected the most would win a prize. My classmates and I worked hard together. We put a special box at the back of the classroom and encouraged everyone to use it.\n\nBy the end of the month, we were surprised to find that we had produced 60% less waste than before. This experience taught us that small actions can make a big (11)_______. \n\nNow, the \"Zero Waste\" idea has spread to other schools in our city. We feel proud that we are helping to create a better (12)_______ for future generations."
+      "group_passage": "Last month, our school started a green project called \"Zero Waste Classroom\". The goal was to reduce waste and teach students about environmental protection.\n\nIn our class, we (8)_____ a special recycling box for paper. Every day, students would put used paper into it instead of throwing it away. At first, some classmates thought it was (9)_____ and didn't want to participate. However, after our teacher explained how many trees could be saved, they changed their minds.\n\nBy the end of the month, we (10)_____ over 50 kilograms of paper. The school also organized a competition between classes to see who could collect the most recyclables. Our class didn't win first place, but we learned a valuable (11)_____ about working together to protect the environment.\n\nNow, the recycling habit has become part of our daily (12)_____. We plan to continue this project next term and hope more students will join us."
     },
     {
       "id": 11,
       "type": "cloze",
       "knowledge_point": "cloze_general",
-      "difficulty": 2,
-      "stem": "(11)_______",
+      "difficulty": 1,
+      "stem": "(11)_____",
       "options": [
-        "A. decision",
-        "B. mistake",
-        "C. difference",
-        "D. problem"
+        "A. lesson",
+        "B. skill",
+        "C. time",
+        "D. story"
       ],
-      "correct_answer": "C",
-      "explanation": "这道题考查固定搭配。make a big difference是固定短语，意为\"产生很大影响，意义重大\"。句意：这次经历告诉我们，微小的行动也能产生巨大影响。make a decision（做决定）、make a mistake（犯错误）、make a problem（制造问题）都不符合语境。解题技巧：积累常见make搭配：make a difference（有影响）、make progress（取得进步）、make sense（有意义）、make sure（确保）。",
+      "correct_answer": "A",
+      "explanation": "选A。learn a lesson是固定搭配，表示'学到一课/得到教训/获得启示'。learn a skill（学习技能）虽可搭配，但下文'about working together'是抽象的启示而非具体技能；learn a time搭配不当；story（故事）不符合语境。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school started a green project called \"Zero Waste Classroom\". The project aims to help students understand the importance of environmental protection.\n\n(8)_______, we were asked to bring reusable bottles instead of plastic ones. At first, many students found it (9)_______ to remember bringing their bottles every day. However, after two weeks, it became a good habit.\n\nThe most exciting part was the recycling competition. Each class had to collect waste paper and bottles. The class (10)_______ collected the most would win a prize. My classmates and I worked hard together. We put a special box at the back of the classroom and encouraged everyone to use it.\n\nBy the end of the month, we were surprised to find that we had produced 60% less waste than before. This experience taught us that small actions can make a big (11)_______. \n\nNow, the \"Zero Waste\" idea has spread to other schools in our city. We feel proud that we are helping to create a better (12)_______ for future generations."
+      "group_passage": "Last month, our school started a green project called \"Zero Waste Classroom\". The goal was to reduce waste and teach students about environmental protection.\n\nIn our class, we (8)_____ a special recycling box for paper. Every day, students would put used paper into it instead of throwing it away. At first, some classmates thought it was (9)_____ and didn't want to participate. However, after our teacher explained how many trees could be saved, they changed their minds.\n\nBy the end of the month, we (10)_____ over 50 kilograms of paper. The school also organized a competition between classes to see who could collect the most recyclables. Our class didn't win first place, but we learned a valuable (11)_____ about working together to protect the environment.\n\nNow, the recycling habit has become part of our daily (12)_____. We plan to continue this project next term and hope more students will join us."
     },
     {
       "id": 12,
       "type": "cloze",
       "knowledge_point": "cloze_general",
-      "difficulty": 1,
-      "stem": "(12)_______",
+      "difficulty": 2,
+      "stem": "(12)_____",
       "options": [
-        "A. environment",
-        "B. school",
-        "C. classroom",
-        "D. competition"
+        "A. study",
+        "B. lesson",
+        "C. routine",
+        "D. work"
       ],
-      "correct_answer": "A",
-      "explanation": "这道题考查词汇复现和主题理解。文章主题是环保项目（Zero Waste Classroom, environmental protection, less waste），因此这里应该是为未来世代创造更好的\"环境\"。school（学校）、classroom（教室）、competition（比赛）都太具体，不符合文章升华主题的需要。解题技巧：完形填空的最后一段通常升华主题，所选词汇应与文章主题（环保）一致，实现首尾呼应。",
+      "correct_answer": "C",
+      "explanation": "选C。routine表示'日常惯例/常规'，daily routine是固定搭配，表示'日常生活/日常惯例'。daily study（日常学习）、daily lesson（日常课程）、daily work（日常工作）都不如routine准确，因为回收习惯是融入日常生活的例行公事。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school started a green project called \"Zero Waste Classroom\". The project aims to help students understand the importance of environmental protection.\n\n(8)_______, we were asked to bring reusable bottles instead of plastic ones. At first, many students found it (9)_______ to remember bringing their bottles every day. However, after two weeks, it became a good habit.\n\nThe most exciting part was the recycling competition. Each class had to collect waste paper and bottles. The class (10)_______ collected the most would win a prize. My classmates and I worked hard together. We put a special box at the back of the classroom and encouraged everyone to use it.\n\nBy the end of the month, we were surprised to find that we had produced 60% less waste than before. This experience taught us that small actions can make a big (11)_______. \n\nNow, the \"Zero Waste\" idea has spread to other schools in our city. We feel proud that we are helping to create a better (12)_______ for future generations."
+      "group_passage": "Last month, our school started a green project called \"Zero Waste Classroom\". The goal was to reduce waste and teach students about environmental protection.\n\nIn our class, we (8)_____ a special recycling box for paper. Every day, students would put used paper into it instead of throwing it away. At first, some classmates thought it was (9)_____ and didn't want to participate. However, after our teacher explained how many trees could be saved, they changed their minds.\n\nBy the end of the month, we (10)_____ over 50 kilograms of paper. The school also organized a competition between classes to see who could collect the most recyclables. Our class didn't win first place, but we learned a valuable (11)_____ about working together to protect the environment.\n\nNow, the recycling habit has become part of our daily (12)_____. We plan to continue this project next term and hope more students will join us."
     },
     {
       "id": 13,
       "type": "reading",
       "knowledge_point": "detail",
       "difficulty": 2,
-      "stem": "According to the passage, what happens during sleep?",
+      "stem": "What problem did Maria notice at school before she invented the backpack?",
       "options": [
-        "A. The brain stops working completely.",
-        "B. The brain processes information collected during the day.",
-        "C. The brain collects new information from books.",
-        "D. The brain becomes tired and weak."
+        "A. Students didn't have enough backpacks.",
+        "B. There were not enough charging ports for devices.",
+        "C. Phones and tablets were too expensive for students.",
+        "D. The classroom had no electricity supply."
       ],
       "correct_answer": "B",
-      "explanation": "这道题考查细节理解。根据文章第二段第一句\"During sleep, the brain processes information collected during the day\"可知，睡眠时大脑处理白天收集的信息。选项A（完全停止工作）与常识和原文相反；C（从书中收集新信息）错误，睡眠时不收集新信息；D（变得疲劳虚弱）未提及。解题技巧：细节题采用\"定位法\"，根据题干关键词during sleep找到第二段首句，对比选项和原文的同义表达（processes information）。",
+      "explanation": "选B。细节理解题。根据第二段'I saw my classmates fighting over the limited sockets in the classroom'（我看到同学们争抢教室里有限的插座）可知，问题是充电插座不够。A、C、D在文中均未提及或曲解文意。",
       "label": "阅读-细节理解",
       "group": "reading_1",
-      "group_passage": "Many students stay up late to study, thinking it will help them get better grades. However, recent studies show that sleep plays a crucial role in learning and memory.\n\nDuring sleep, the brain processes information collected during the day. Scientists have found that people who get enough sleep can solve problems faster and remember things better. On the contrary, sleep-deprived students often have trouble concentrating in class.\n\nDr. Li, a sleep researcher, explains: \"When you sleep, your brain is like a computer organizing files. It strengthens important memories and removes unnecessary information.\" He suggests that students should maintain a regular sleep schedule, even during exam periods.\n\nInterestingly, taking short naps during the day can also improve learning efficiency. A 20-minute nap after lunch helps refresh the mind without causing drowsiness.\n\nSo, if you want to perform well in exams, going to bed early might be more effective than staying up all night to cram."
+      "group_passage": "Maria, a 14-year-old student from Shenzhen, never thought her science project would become so popular. Last semester, she invented a solar-powered backpack that can charge electronic devices.\n\nThe idea came to her when she noticed that many students in her school struggled to find charging ports for their phones and tablets. \"I saw my classmates fighting over the limited sockets in the classroom,\" Maria explained. \"I wondered if there was a better way.\"\n\nUsing flexible solar panels (柔性太阳能板) attached to the backpack's surface, Maria's invention can convert sunlight into electricity. The energy is then stored in a small battery pack inside the bag. On a sunny day, it can fully charge a smartphone in about two hours.\n\nWhat makes her design special is its practicality. The backpack looks just like a regular school bag, and the solar panels are waterproof (防水的) and lightweight. \"I tested it for a month before the competition,\" said Maria. \"Even on cloudy days, it could still collect enough power for emergency use.\"\n\nMaria's teacher, Mr. Chen, praised her creativity. \"She not only solved a real problem but also used green energy,\" he said. \"This is exactly the kind of innovation we want to encourage.\"\n\nThe backpack has won several awards at science fairs. Maria hopes to improve it further by adding more USB ports and making the panels more efficient."
     },
     {
       "id": 14,
       "type": "reading",
-      "knowledge_point": "word_guessing_context",
-      "difficulty": 2,
-      "stem": "What does the underlined phrase \"sleep-deprived\" in Paragraph 2 probably mean?",
+      "knowledge_point": "inference",
+      "difficulty": 3,
+      "stem": "What can we infer about Maria from the passage?",
       "options": [
-        "A. Having good sleep quality",
-        "B. Lacking enough sleep",
-        "C. Sleeping too much",
-        "D. Enjoying sleeping time"
+        "A. She doesn't like using modern technology.",
+        "B. She only cares about winning science competitions.",
+        "C. She is observant of daily life problems and creative.",
+        "D. She wants to stop students from using mobile phones."
       ],
-      "correct_answer": "B",
-      "explanation": "这道题考查词义猜测。根据上下文逻辑，第二段先讲充足睡眠的好处（solve problems faster），然后用On the contrary（相反）转折，说明sleep-deprived的情况应该与\"get enough sleep\"相反，即\"缺乏睡眠\"。且后文\"have trouble concentrating（难以集中注意力）\"也是睡眠不足的表现。解题技巧：利用反义关系词（On the contrary）和上下文对比（get enough sleep vs sleep-deprived）猜测词义；deprived意为\"被剥夺的\"，sleep-deprived即\"睡眠被剥夺的\"。",
-      "label": "阅读-词义猜测",
+      "correct_answer": "C",
+      "explanation": "选C。推理判断题。从Maria观察到同学抢插座的问题（observant善于观察），并发明太阳能背包解决问题（creative有创造力），可以推断出C正确。A与事实相反（她发明了科技产品）；B过于片面（她希望改进产品帮助更多人，不只是为了获奖）；D曲解文意（她是解决充电问题，而非阻止使用手机）。",
+      "label": "阅读-推理判断",
       "group": "reading_1",
-      "group_passage": "Many students stay up late to study, thinking it will help them get better grades. However, recent studies show that sleep plays a crucial role in learning and memory.\n\nDuring sleep, the brain processes information collected during the day. Scientists have found that people who get enough sleep can solve problems faster and remember things better. On the contrary, sleep-deprived students often have trouble concentrating in class.\n\nDr. Li, a sleep researcher, explains: \"When you sleep, your brain is like a computer organizing files. It strengthens important memories and removes unnecessary information.\" He suggests that students should maintain a regular sleep schedule, even during exam periods.\n\nInterestingly, taking short naps during the day can also improve learning efficiency. A 20-minute nap after lunch helps refresh the mind without causing drowsiness.\n\nSo, if you want to perform well in exams, going to bed early might be more effective than staying up all night to cram."
+      "group_passage": "Maria, a 14-year-old student from Shenzhen, never thought her science project would become so popular. Last semester, she invented a solar-powered backpack that can charge electronic devices.\n\nThe idea came to her when she noticed that many students in her school struggled to find charging ports for their phones and tablets. \"I saw my classmates fighting over the limited sockets in the classroom,\" Maria explained. \"I wondered if there was a better way.\"\n\nUsing flexible solar panels (柔性太阳能板) attached to the backpack's surface, Maria's invention can convert sunlight into electricity. The energy is then stored in a small battery pack inside the bag. On a sunny day, it can fully charge a smartphone in about two hours.\n\nWhat makes her design special is its practicality. The backpack looks just like a regular school bag, and the solar panels are waterproof (防水的) and lightweight. \"I tested it for a month before the competition,\" said Maria. \"Even on cloudy days, it could still collect enough power for emergency use.\"\n\nMaria's teacher, Mr. Chen, praised her creativity. \"She not only solved a real problem but also used green energy,\" he said. \"This is exactly the kind of innovation we want to encourage.\"\n\nThe backpack has won several awards at science fairs. Maria hopes to improve it further by adding more USB ports and making the panels more efficient."
     },
     {
       "id": 15,
       "type": "reading",
-      "knowledge_point": "inference",
-      "difficulty": 3,
-      "stem": "What can we infer from Dr. Li's words in Paragraph 3?",
+      "knowledge_point": "word_guessing",
+      "difficulty": 2,
+      "stem": "The underlined word \"convert\" in Paragraph 3 probably means \"_____\".",
       "options": [
-        "A. Computers need sleep to work properly.",
-        "B. All memories should be kept in the brain.",
-        "C. Sleep helps organize and strengthen memories.",
-        "D. Files are stored in different parts of the brain."
+        "A. 储存",
+        "B. 浪费",
+        "C. 转换",
+        "D. 消耗"
       ],
       "correct_answer": "C",
-      "explanation": "这道题考查推理判断。Dr. Li说：\"睡眠时大脑就像电脑整理文件，强化重要记忆并删除不必要的信息。\"由此可推断睡眠有助于组织和巩固记忆。选项A把比喻当事实，错误；B与原文\"removes unnecessary information\"矛盾；D提到的\"different parts\"未提及。解题技巧：推理题要基于原文但不止于原文，避免过度推断（如A）和与原文矛盾（如B）。抓住关键词\"organizing files, strengthens important memories\"推断出organize and strengthen。",
-      "label": "阅读-推理判断",
+      "explanation": "选C。词义猜测题。根据上下文'sunlight into electricity'（阳光变成电），可知convert表示'转换、转变'。太阳能板将阳光'转换'为电能。store（储存）是下一步动作（stored in a battery）；waste（浪费）和consume（消耗）与文意相反。",
+      "label": "阅读-词义猜测",
       "group": "reading_1",
-      "group_passage": "Many students stay up late to study, thinking it will help them get better grades. However, recent studies show that sleep plays a crucial role in learning and memory.\n\nDuring sleep, the brain processes information collected during the day. Scientists have found that people who get enough sleep can solve problems faster and remember things better. On the contrary, sleep-deprived students often have trouble concentrating in class.\n\nDr. Li, a sleep researcher, explains: \"When you sleep, your brain is like a computer organizing files. It strengthens important memories and removes unnecessary information.\" He suggests that students should maintain a regular sleep schedule, even during exam periods.\n\nInterestingly, taking short naps during the day can also improve learning efficiency. A 20-minute nap after lunch helps refresh the mind without causing drowsiness.\n\nSo, if you want to perform well in exams, going to bed early might be more effective than staying up all night to cram."
+      "group_passage": "Maria, a 14-year-old student from Shenzhen, never thought her science project would become so popular. Last semester, she invented a solar-powered backpack that can charge electronic devices.\n\nThe idea came to her when she noticed that many students in her school struggled to find charging ports for their phones and tablets. \"I saw my classmates fighting over the limited sockets in the classroom,\" Maria explained. \"I wondered if there was a better way.\"\n\nUsing flexible solar panels (柔性太阳能板) attached to the backpack's surface, Maria's invention can convert sunlight into electricity. The energy is then stored in a small battery pack inside the bag. On a sunny day, it can fully charge a smartphone in about two hours.\n\nWhat makes her design special is its practicality. The backpack looks just like a regular school bag, and the solar panels are waterproof (防水的) and lightweight. \"I tested it for a month before the competition,\" said Maria. \"Even on cloudy days, it could still collect enough power for emergency use.\"\n\nMaria's teacher, Mr. Chen, praised her creativity. \"She not only solved a real problem but also used green energy,\" he said. \"This is exactly the kind of innovation we want to encourage.\"\n\nThe backpack has won several awards at science fairs. Maria hopes to improve it further by adding more USB ports and making the panels more efficient."
     },
     {
       "id": 16,
       "type": "reading",
-      "knowledge_point": "main_idea_title",
+      "knowledge_point": "main_idea",
       "difficulty": 3,
       "stem": "What is the best title for this passage?",
       "options": [
-        "A. How to Pass Exams Successfully",
-        "B. The Relationship Between Sleep and Learning",
-        "C. Why Computers Need to Organize Files",
-        "D. The Importance of Taking Naps"
+        "A. How to Make a Solar-Powered Backpack",
+        "B. A Student's Green Invention for School Life",
+        "C. The History of Solar Power Technology",
+        "D. Problems with Mobile Phones in Schools"
       ],
       "correct_answer": "B",
-      "explanation": "这道题考查主旨大意/最佳标题。文章主要讨论睡眠与学习记忆的关系，第一段提出睡眠对学习很重要，第二段讲睡眠时大脑如何处理信息，第三段专家解释，第四段讲小睡，最后总结早睡比熬夜更有效。选项A太宽泛；C只是比喻细节；D（小睡的重要性）只是第四段细节。B准确概括了全文核心：睡眠与学习的关系。解题技巧：最佳标题要覆盖全文主要内容（sleep + learning/memory），不能过大（A）或过小（C, D）；通常出现在首尾段主题句中。",
+      "explanation": "选B。主旨大意题。文章主要讲述学生Maria发明太阳能背包解决校园充电难题的故事，突出学生的创造力和环保能源的使用。A过于侧重制作过程（文中未详细描述制作步骤）；C范围过大（不是讲太阳能历史）；D偏离主题（不是讨论手机问题）。B准确概括了'学生发明'和'绿色能源'两个核心要素。",
       "label": "阅读-主旨大意",
       "group": "reading_1",
-      "group_passage": "Many students stay up late to study, thinking it will help them get better grades. However, recent studies show that sleep plays a crucial role in learning and memory.\n\nDuring sleep, the brain processes information collected during the day. Scientists have found that people who get enough sleep can solve problems faster and remember things better. On the contrary, sleep-deprived students often have trouble concentrating in class.\n\nDr. Li, a sleep researcher, explains: \"When you sleep, your brain is like a computer organizing files. It strengthens important memories and removes unnecessary information.\" He suggests that students should maintain a regular sleep schedule, even during exam periods.\n\nInterestingly, taking short naps during the day can also improve learning efficiency. A 20-minute nap after lunch helps refresh the mind without causing drowsiness.\n\nSo, if you want to perform well in exams, going to bed early might be more effective than staying up all night to cram."
+      "group_passage": "Maria, a 14-year-old student from Shenzhen, never thought her science project would become so popular. Last semester, she invented a solar-powered backpack that can charge electronic devices.\n\nThe idea came to her when she noticed that many students in her school struggled to find charging ports for their phones and tablets. \"I saw my classmates fighting over the limited sockets in the classroom,\" Maria explained. \"I wondered if there was a better way.\"\n\nUsing flexible solar panels (柔性太阳能板) attached to the backpack's surface, Maria's invention can convert sunlight into electricity. The energy is then stored in a small battery pack inside the bag. On a sunny day, it can fully charge a smartphone in about two hours.\n\nWhat makes her design special is its practicality. The backpack looks just like a regular school bag, and the solar panels are waterproof (防水的) and lightweight. \"I tested it for a month before the competition,\" said Maria. \"Even on cloudy days, it could still collect enough power for emergency use.\"\n\nMaria's teacher, Mr. Chen, praised her creativity. \"She not only solved a real problem but also used green energy,\" he said. \"This is exactly the kind of innovation we want to encourage.\"\n\nThe backpack has won several awards at science fairs. Maria hopes to improve it further by adding more USB ports and making the panels more efficient."
     },
     {
       "id": 17,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "stem": "(17)_______",
+      "stem": "(17)_____",
       "options": [
-        "A. Make sure this place is free from distractions like phones.",
-        "B. The first step is to set realistic goals.",
-        "C. In addition, try to read with others.",
-        "D. However, reading is always difficult for beginners.",
-        "E. Also, choose books that match your interests."
+        "A. This means studying at the same time every day.",
+        "B. However, with the right methods, anyone can improve.",
+        "C. Therefore, take a short break every 45 minutes.",
+        "D. Discussing problems with others can deepen your understanding.",
+        "E. In addition, make sure you get enough sleep every night."
       ],
       "correct_answer": "B",
-      "explanation": "这道题考查段落衔接和逻辑关系。空格后说\"You don't have to finish a thick book in one day. Start with just 15 minutes...（不必一天读完厚书，从15分钟开始）\"，这是在说设定合理目标，与B选项\"第一步是设定现实目标\"衔接自然。D选项（However）表示转折，与后文解释说明关系不符；其他选项内容与此处\"从小目标开始\"的主题不符。解题技巧：关注段落内部逻辑，后文的举例（15分钟）是对前文的解释说明，因此前文应是概括性观点（set realistic goals）。",
+      "explanation": "选B。前文说'很多学生发现平衡学习和休息很难'，后文说'这里有一些建议'，中间需要转折过渡，表示'虽然有困难，但有方法可以改善'。However表示转折，符合逻辑。其他选项：A解释schedule，C讲休息，D讲讨论，E讲睡眠，均与上下文衔接不当。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Reading is an important part of our daily life. It not only brings us knowledge but also opens up a whole new world. However, many people struggle to develop a good reading habit.\n\n(17)_______ You don't have to finish a thick book in one day. Start with just 15 minutes of reading before bed. Once you get used to it, you can gradually increase the time.\n\n(18)_______ If you love stories, novels are perfect for you. If you prefer facts, try non-fiction books about history or science. Reading what interests you makes the activity enjoyable rather than boring.\n\nAnother tip is to create a comfortable reading environment. Find a quiet corner with good lighting. (19)_______ This helps your brain associate that place with reading.\n\n(20)_______ Share what you've read with friends or join a book club. Discussing books with others deepens your understanding and makes reading more fun."
+      "group_passage": "Many students find it hard to balance study and rest. (17)_____ Here are some tips that might help you become a better learner.\n\nFirst, create a study schedule and stick to it. (18)_____ For example, if you focus best in the morning, arrange your difficult subjects then.\n\nSecond, don't study for too long without breaks. Research shows that our brains need rest to process information. (19)_____ You could take a 10-minute walk or simply look out the window.\n\nFinally, find a study partner or join a study group. (20)_____ When you explain concepts to others, you understand them better yourself.\n\nRemember, good study habits take time to develop. Start with small changes and be patient with yourself."
     },
     {
       "id": 18,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "stem": "(18)_______",
+      "stem": "(18)_____",
       "options": [
-        "A. Make sure this place is free from distractions like phones.",
-        "B. The first step is to set realistic goals.",
-        "C. In addition, try to read with others.",
-        "D. However, reading is always difficult for beginners.",
-        "E. Also, choose books that match your interests."
+        "A. This means studying at the same time every day.",
+        "B. However, with the right methods, anyone can improve.",
+        "C. Therefore, take a short break every 45 minutes.",
+        "D. Discussing problems with others can deepen your understanding.",
+        "E. In addition, make sure you get enough sleep every night."
       ],
-      "correct_answer": "E",
-      "explanation": "这道题考查段落主题句。空格后说\"If you love stories, novels are perfect... If you prefer facts, try non-fiction...（如果你喜欢故事，小说很合适；如果你喜欢事实，读非虚构类）\"，这是在建议选择感兴趣的书，与E选项\"Also, choose books that match your interests（此外，选择符合兴趣的书）\"完全对应。Also表示并列补充，承接上文的第一个建议。A讲环境，C讲和他人一起读，都不符合此处\"选书兴趣\"的主题。解题技巧：段落主题句通常概括整段内容，后文的具体举例（stories vs facts）是对主题句的展开说明。",
+      "correct_answer": "A",
+      "explanation": "选A。前文提到'create a study schedule（制定学习时间表）'，A选项'这意味着每天在相同的时间学习'是对schedule的解释说明，且与后文'例如，如果你早上注意力最好……'衔接自然。其他选项与'schedule'主题无关。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Reading is an important part of our daily life. It not only brings us knowledge but also opens up a whole new world. However, many people struggle to develop a good reading habit.\n\n(17)_______ You don't have to finish a thick book in one day. Start with just 15 minutes of reading before bed. Once you get used to it, you can gradually increase the time.\n\n(18)_______ If you love stories, novels are perfect for you. If you prefer facts, try non-fiction books about history or science. Reading what interests you makes the activity enjoyable rather than boring.\n\nAnother tip is to create a comfortable reading environment. Find a quiet corner with good lighting. (19)_______ This helps your brain associate that place with reading.\n\n(20)_______ Share what you've read with friends or join a book club. Discussing books with others deepens your understanding and makes reading more fun."
+      "group_passage": "Many students find it hard to balance study and rest. (17)_____ Here are some tips that might help you become a better learner.\n\nFirst, create a study schedule and stick to it. (18)_____ For example, if you focus best in the morning, arrange your difficult subjects then.\n\nSecond, don't study for too long without breaks. Research shows that our brains need rest to process information. (19)_____ You could take a 10-minute walk or simply look out the window.\n\nFinally, find a study partner or join a study group. (20)_____ When you explain concepts to others, you understand them better yourself.\n\nRemember, good study habits take time to develop. Start with small changes and be patient with yourself."
     },
     {
       "id": 19,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "stem": "(19)_______",
+      "stem": "(19)_____",
       "options": [
-        "A. Make sure this place is free from distractions like phones.",
-        "B. The first step is to set realistic goals.",
-        "C. In addition, try to read with others.",
-        "D. However, reading is always difficult for beginners.",
-        "E. Also, choose books that match your interests."
+        "A. This means studying at the same time every day.",
+        "B. However, with the right methods, anyone can improve.",
+        "C. Therefore, take a short break every 45 minutes.",
+        "D. Discussing problems with others can deepen your understanding.",
+        "E. In addition, make sure you get enough sleep every night."
       ],
-      "correct_answer": "A",
-      "explanation": "这道题考查代词指代和逻辑衔接。空格前说\"Find a quiet corner with good lighting（找个光线好的安静角落）\"，接着应该继续讲这个环境的要求，A选项\"Make sure this place is free from distractions（确保这个地方没有干扰）\"中的this place指代前文的corner，衔接紧密。后文\"This helps your brain associate that place with reading\"中的that place也印证了前文提到了具体的place。解题技巧：关注代词指代（this place, that place）来确定句子衔接，保持话题一致性（reading environment → place）。",
+      "correct_answer": "C",
+      "explanation": "选C。前文讲'大脑需要休息来处理信息'，C选项'Therefore（因此）'表示因果关系，建议'每45分钟休息一次'，且与后文'你可以散步10分钟……'衔接紧密。Therefore表示'因此、所以'，用于引出结论或建议。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Reading is an important part of our daily life. It not only brings us knowledge but also opens up a whole new world. However, many people struggle to develop a good reading habit.\n\n(17)_______ You don't have to finish a thick book in one day. Start with just 15 minutes of reading before bed. Once you get used to it, you can gradually increase the time.\n\n(18)_______ If you love stories, novels are perfect for you. If you prefer facts, try non-fiction books about history or science. Reading what interests you makes the activity enjoyable rather than boring.\n\nAnother tip is to create a comfortable reading environment. Find a quiet corner with good lighting. (19)_______ This helps your brain associate that place with reading.\n\n(20)_______ Share what you've read with friends or join a book club. Discussing books with others deepens your understanding and makes reading more fun."
+      "group_passage": "Many students find it hard to balance study and rest. (17)_____ Here are some tips that might help you become a better learner.\n\nFirst, create a study schedule and stick to it. (18)_____ For example, if you focus best in the morning, arrange your difficult subjects then.\n\nSecond, don't study for too long without breaks. Research shows that our brains need rest to process information. (19)_____ You could take a 10-minute walk or simply look out the window.\n\nFinally, find a study partner or join a study group. (20)_____ When you explain concepts to others, you understand them better yourself.\n\nRemember, good study habits take time to develop. Start with small changes and be patient with yourself."
     },
     {
       "id": 20,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "stem": "(20)_______",
+      "stem": "(20)_____",
       "options": [
-        "A. Make sure this place is free from distractions like phones.",
-        "B. The first step is to set realistic goals.",
-        "C. In addition, try to read with others.",
-        "D. However, reading is always difficult for beginners.",
-        "E. Also, choose books that match your interests."
+        "A. This means studying at the same time every day.",
+        "B. However, with the right methods, anyone can improve.",
+        "C. Therefore, take a short break every 45 minutes.",
+        "D. Discussing problems with others can deepen your understanding.",
+        "E. In addition, make sure you get enough sleep every night."
       ],
-      "correct_answer": "C",
-      "explanation": "这道题考查段落主题句和逻辑关系。空格后说\"Share what you've read with friends or join a book club（和朋友分享或加入读书俱乐部）\"，这是关于\"和他人一起阅读\"的建议，与C选项\"In addition, try to read with others（此外，尝试和他人一起阅读）\"对应。In addition表示补充并列，符合文章列举建议的结构（First... Also... Another... In addition...）。解题技巧：根据后文的具体行动（share with friends, book club, discussing with others）反推主题句应该是\"和他人一起阅读\"。",
+      "correct_answer": "D",
+      "explanation": "选D。本段主题是'find a study partner（找学习伙伴）'，D选项'与他人讨论问题可以加深理解'解释了为什么要找学习伙伴，且与后文'当你向别人解释概念时，你自己理解得更好'形成递进关系。注意E选项虽然也是建议，但属于额外补充，不如D贴合'partner'主题。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Reading is an important part of our daily life. It not only brings us knowledge but also opens up a whole new world. However, many people struggle to develop a good reading habit.\n\n(17)_______ You don't have to finish a thick book in one day. Start with just 15 minutes of reading before bed. Once you get used to it, you can gradually increase the time.\n\n(18)_______ If you love stories, novels are perfect for you. If you prefer facts, try non-fiction books about history or science. Reading what interests you makes the activity enjoyable rather than boring.\n\nAnother tip is to create a comfortable reading environment. Find a quiet corner with good lighting. (19)_______ This helps your brain associate that place with reading.\n\n(20)_______ Share what you've read with friends or join a book club. Discussing books with others deepens your understanding and makes reading more fun."
+      "group_passage": "Many students find it hard to balance study and rest. (17)_____ Here are some tips that might help you become a better learner.\n\nFirst, create a study schedule and stick to it. (18)_____ For example, if you focus best in the morning, arrange your difficult subjects then.\n\nSecond, don't study for too long without breaks. Research shows that our brains need rest to process information. (19)_____ You could take a 10-minute walk or simply look out the window.\n\nFinally, find a study partner or join a study group. (20)_____ When you explain concepts to others, you understand them better yourself.\n\nRemember, good study habits take time to develop. Start with small changes and be patient with yourself."
     }
   ]
 }
