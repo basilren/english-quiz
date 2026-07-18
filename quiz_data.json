@@ -1,21 +1,21 @@
 ﻿{
-  "date": "2026-07-18",
+  "date": "2026-07-19",
   "session_number": 1,
   "questions": [
     {
       "id": 1,
       "type": "grammar",
       "knowledge_point": "present_perfect_vs_past_simple",
-      "difficulty": 2,
-      "stem": "—Why don't you watch the movie with us?  \n—Because I ______ it twice, and I ______ it with my parents last week.",
+      "difficulty": 1,
+      "stem": "—I _______ the book from the library yesterday.\n—Oh, you _______ it for three days. Remember to return it on time.",
       "options": [
-        "A. have seen; watched",
-        "B. saw; have watched",
-        "C. have seen; have watched",
-        "D. saw; watched"
+        "A. borrowed; have kept",
+        "B. have borrowed; kept",
+        "C. borrowed; kept",
+        "D. have borrowed; have kept"
       ],
       "correct_answer": "A",
-      "explanation": "第一空：twice（两次）是现在完成时的标志词，表示过去动作对现在的影响（已经看过了，所以不想再看），用have seen；第二空：last week（上周）是一般过去时的标志词，用watched。选项B和D第一空错误，选项C第二空错误。",
+      "explanation": "第一空后面有明确的时间状语yesterday（昨天），这是典型的一般过去时标志词，所以用borrowed；第二空后面有for three days（持续三天），表示从过去持续到现在的动作，必须用现在完成时，且keep是延续性动词，可以与时间段连用，而borrow是瞬间动词不能与时间段连用。解题技巧：看见yesterday/last week等用过去时；看见for/since用现在完成时，且注意瞬间动词与延续性动词的转换。",
       "label": "语法题"
     },
     {
@@ -23,95 +23,95 @@
       "type": "grammar",
       "knowledge_point": "relative_clause_who_which",
       "difficulty": 2,
-      "stem": "The factory ______ we visited last week produces environmentally friendly bags.",
+      "stem": "The boy _______ is playing basketball over there is our monitor. He is very good at sports.",
       "options": [
         "A. who",
-        "B. whom",
-        "C. which",
+        "B. which",
+        "C. whom",
         "D. whose"
       ],
-      "correct_answer": "C",
-      "explanation": "先行词factory（工厂）是物，不是人，排除A(who)和B(whom)；D(whose)表示'...的'，在从句中作定语，而本句从句缺少visited的宾语，应用which/that引导。which在定语从句中作宾语，指代factory。",
+      "correct_answer": "A",
+      "explanation": "先行词是The boy（指人），定语从句中缺少主语，因此用关系代词who。which用于指物，whom用于指人但在从句中作宾语，whose表示'……的'，在从句中作定语。本句从句部分______ is playing basketball缺少主语，所以选who。解题技巧：指人用who/whom/that，指物用which/that；从句缺主语用who/which，缺宾语可用whom/who/which。",
       "label": "语法题"
     },
     {
       "id": 3,
       "type": "grammar",
       "knowledge_point": "passive_voice",
-      "difficulty": 1,
-      "stem": "These old books ______ to the children in poor areas next month.",
+      "difficulty": 2,
+      "stem": "Our new school library _______ next month. It will be the largest one in our district.",
       "options": [
-        "A. will send",
-        "B. will be sent",
-        "C. are sending",
-        "D. were sent"
+        "A. will build",
+        "B. will be built",
+        "C. is building",
+        "D. builds"
       ],
       "correct_answer": "B",
-      "explanation": "主语books（书）与send（送）是被动关系，应用被动语态；next month（下个月）是将来时标志，所以用一般将来时的被动语态will be sent。A是主动语态，C是现在进行时主动，D是一般过去时被动，时间不符。",
+      "explanation": "主语Our new school library（新图书馆）与动词build（建造）之间是被动关系，图书馆是被建造的，因此必须用被动语态be+过去分词。时间状语next month（下个月）表明要用一般将来时，所以综合起来用一般将来时的被动语态will be built。解题技巧：先看主语和动词是主动还是被动关系，再看时间确定时态，被动语态结构=时态+be+done。",
       "label": "语法题"
     },
     {
       "id": 4,
       "type": "grammar",
-      "knowledge_point": "modal_verbs_speculation",
+      "knowledge_point": "object_clause",
       "difficulty": 3,
-      "stem": "—Is that Mr. Wang knocking at the door?  \n—It ______ be him. He has gone to Beijing on business.",
+      "stem": "Could you tell me _______? I want to post a letter.",
       "options": [
-        "A. must",
-        "B. might",
-        "C. can't",
-        "D. mustn't"
+        "A. where is the nearest post office",
+        "B. where the nearest post office is",
+        "C. where does the nearest post office",
+        "D. where the nearest post office does"
       ],
-      "correct_answer": "C",
-      "explanation": "根据'He has gone to Beijing'（他去北京出差了，还没回来）可知，敲门的不可能是他。can't表示'不可能'，用于否定推测；must表示'一定'（肯定推测），与句意相反；might表示'可能'，语气不确定；mustn't表示'禁止'，不用于推测。",
+      "correct_answer": "B",
+      "explanation": "宾语从句必须使用陈述句语序（主语+谓语），不能用疑问句语序。A选项where is the nearest post office是疑问句语序（系动词is在主语前），C选项也是疑问句语序且结构不完整，D选项多了助动词does。B选项where the nearest post office is是陈述句语序（主语the nearest post office+系动词is），符合宾语从句规则。解题技巧：宾语从句三要素——连接词+陈述句语序+时态呼应。",
       "label": "语法题"
     },
     {
       "id": 5,
       "type": "vocabulary",
-      "knowledge_point": "word_guessing_context",
-      "difficulty": 2,
-      "stem": "My mother is very busy with her work, so she has to ______ her exercise time to early mornings before going to the office.",
+      "knowledge_point": "phrasal_verbs",
+      "difficulty": 1,
+      "stem": "We should _______ our old clothes to charity instead of throwing them away. It can help people in need.",
       "options": [
-        "A. spread",
-        "B. squeeze",
-        "C. waste",
-        "D. expand"
+        "A. give away",
+        "B. give up",
+        "C. give out",
+        "D. give in"
       ],
-      "correct_answer": "B",
-      "explanation": "根据上下文'很忙'和'早上上班前'可知，她需要'挤'出时间锻炼。squeeze意为'挤出（时间）'；spread意为'展开，传播'；waste意为'浪费'；expand意为'扩展'。根据语境逻辑，选B。",
+      "correct_answer": "A",
+      "explanation": "give away意为'捐赠、赠送'，give up意为'放弃'，give out意为'分发、耗尽'，give in意为'屈服、让步'。根据句意'把旧衣服______给慈善机构而不是扔掉'，应该是'捐赠'的意思，所以选give away。解题技巧：give相关短语——give away捐赠（away表示离开，把东西给出去），give up放弃（up表示向上，把手举起来投降），give out分发（out表示向外）。",
       "label": "词汇题"
     },
     {
       "id": 6,
       "type": "vocabulary",
-      "knowledge_point": "prefix_suffix",
-      "difficulty": 1,
-      "stem": "If you add the prefix 'un-' to the word 'healthy', you get a word meaning ______.",
+      "knowledge_point": "word_formation",
+      "difficulty": 2,
+      "stem": "The _______ news made all of us feel _______. We couldn't stop cheering.",
       "options": [
-        "A. more healthy",
-        "B. not healthy",
-        "C. full of health",
-        "D. having good health"
+        "A. exciting; excited",
+        "B. excited; exciting",
+        "C. exciting; exciting",
+        "D. excited; excited"
       ],
-      "correct_answer": "B",
-      "explanation": "前缀un-表示'不，无，相反'，unhealthy意为'不健康的'，即not healthy。A是更健康，C是充满健康，D是拥有健康，均不符合。",
+      "correct_answer": "A",
+      "explanation": "exciting（令人兴奋的）用来修饰事物，表示事物本身具有让人兴奋的性质；excited（感到兴奋的）用来修饰人，表示人的主观感受。第一空修饰news（消息，事物），用exciting；第二空修饰us（我们，人），且feel是系动词，后面接形容词描述人的感受，用excited。口诀：-ing修饰物，-ed修饰人。",
       "label": "词汇题"
     },
     {
       "id": 7,
       "type": "vocabulary",
-      "knowledge_point": "phrasal_verbs",
+      "knowledge_point": "word_meaning",
       "difficulty": 2,
-      "stem": "We all ______ Tom because he won the first prize in the English speech competition.",
+      "stem": "It's _______ for us to protect the environment. We only have one earth and we must take care of it.",
       "options": [
-        "A. looked up to",
-        "B. looked after",
-        "C. looked for",
-        "D. looked down upon"
+        "A. necessary",
+        "B. impossible",
+        "C. unnecessary",
+        "D. difficult"
       ],
       "correct_answer": "A",
-      "explanation": "look up to意为'尊敬，钦佩'；look after意为'照顾'；look for意为'寻找'；look down upon意为'看不起'。根据'赢得一等奖'可知，我们都'钦佩'Tom，选A。",
+      "explanation": "necessary意为'必要的'，impossible意为'不可能的'，unnecessary意为'不必要的'，difficult意为'困难的'。根据后文'我们只有一个地球，必须爱护它'可知，保护环境是'必要的'，所以选necessary。干扰项C unnecessary是反义词，B impossible和D difficult虽然语法通顺，但不符合语境逻辑。",
       "label": "词汇题"
     },
     {
@@ -119,238 +119,238 @@
       "type": "cloze",
       "knowledge_point": "cloze_general",
       "difficulty": 2,
-      "stem": "(8)___",
+      "stem": "(8)_______",
       "options": [
-        "A. produce",
-        "B. protect",
-        "C. pollute",
-        "D. provide"
+        "A. importance",
+        "B. different",
+        "C. difficult",
+        "D. interesting"
       ],
-      "correct_answer": "B",
-      "explanation": "根据上下文，学校开展活动是为了'保护'环境，protect the environment是固定搭配。produce生产，pollute污染，provide提供，均不符合语境。",
+      "correct_answer": "A",
+      "explanation": "考查名词辨析和固定搭配。the importance of...意为'……的重要性'，是固定搭配。different（不同的，形容词）、difficult（困难的，形容词）、interesting（有趣的，形容词）都是形容词，而空格前有定冠词the，后面有of，需要名词。句意：目的是帮助学生理解保护环境的'重要性'。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school started an interesting project called 'Green Campus Action'. The goal was to teach students how to (8)___ the environment through small daily changes. At first, many students didn't take it seriously. They thought one person's actions couldn't make any difference.\n\nHowever, things changed after a special class meeting. Our teacher showed us some shocking photos of plastic waste in the ocean. She explained that every piece of plastic we throw away might (9)___ up in the sea and harm sea animals. 'If each of us uses one less plastic bag a week,' she said, 'we can (10)___ hundreds of bags from entering the ocean every year.'\n\nFrom that day on, my classmates and I began to bring our own cloth bags to school. We also started a recycling corner in our classroom. To our surprise, other classes (11)___ our idea and soon the whole school joined in. Now, our school produces 50% less plastic waste than before.\n\nThis experience taught me that environmental protection starts with small steps. We don't need to do big things to change the world. (12)___, we just need to change our daily habits. Small actions, when multiplied by millions of people, can transform the world."
+      "group_passage": "Last month, our school organized an interesting activity called \"Green Campus Week\". The aim was to help students understand the (8)_______ of protecting the environment.\n\nDuring the week, we did many meaningful things. On Monday, our teacher gave us a talk about how to save energy in daily life. She told us that we should turn off the lights when leaving the classroom. On Wednesday, we (9)_______ into small groups to collect rubbish around the school. Although it was tiring, we felt happy to make our campus cleaner.\n\nThe most exciting part was on Friday. We (10)_______ old bottles and boxes to make beautiful handicrafts. Some students made pen holders, while others created small robots. Our art teacher was (11)_______ by our creative ideas. She said these works would be shown in the school hall.\n\nThrough this activity, I have learned that everyone can do something for the earth. Even small actions can make a big (12)_______. I hope more students will join us in creating a greener future."
     },
     {
       "id": 9,
       "type": "cloze",
       "knowledge_point": "cloze_general",
       "difficulty": 2,
-      "stem": "(9)___",
+      "stem": "(9)_______",
       "options": [
-        "A. end",
-        "B. put",
-        "C. take",
-        "D. give"
+        "A. cut",
+        "B. turned",
+        "C. divided",
+        "D. broke"
       ],
-      "correct_answer": "A",
-      "explanation": "end up是固定短语，意为'最终成为/到达'，这里指塑料最终进入大海。put up张贴，take up占据/开始从事，give up放弃，均不符合语境。",
+      "correct_answer": "C",
+      "explanation": "考查固定搭配。divide...into...意为'把……分成……'，是固定短语。cut into意为'打断、切入'，turn into意为'变成'，break into意为'闯入'。句意：我们被'分成'小组去收集校园周围的垃圾。这里是一般过去时的被动含义（我们被分组），但选项中没有被动形式，divide into small groups是主动形式表示被动意义的分组状态，符合英语表达习惯。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school started an interesting project called 'Green Campus Action'. The goal was to teach students how to (8)___ the environment through small daily changes. At first, many students didn't take it seriously. They thought one person's actions couldn't make any difference.\n\nHowever, things changed after a special class meeting. Our teacher showed us some shocking photos of plastic waste in the ocean. She explained that every piece of plastic we throw away might (9)___ up in the sea and harm sea animals. 'If each of us uses one less plastic bag a week,' she said, 'we can (10)___ hundreds of bags from entering the ocean every year.'\n\nFrom that day on, my classmates and I began to bring our own cloth bags to school. We also started a recycling corner in our classroom. To our surprise, other classes (11)___ our idea and soon the whole school joined in. Now, our school produces 50% less plastic waste than before.\n\nThis experience taught me that environmental protection starts with small steps. We don't need to do big things to change the world. (12)___, we just need to change our daily habits. Small actions, when multiplied by millions of people, can transform the world."
+      "group_passage": "Last month, our school organized an interesting activity called \"Green Campus Week\". The aim was to help students understand the (8)_______ of protecting the environment.\n\nDuring the week, we did many meaningful things. On Monday, our teacher gave us a talk about how to save energy in daily life. She told us that we should turn off the lights when leaving the classroom. On Wednesday, we (9)_______ into small groups to collect rubbish around the school. Although it was tiring, we felt happy to make our campus cleaner.\n\nThe most exciting part was on Friday. We (10)_______ old bottles and boxes to make beautiful handicrafts. Some students made pen holders, while others created small robots. Our art teacher was (11)_______ by our creative ideas. She said these works would be shown in the school hall.\n\nThrough this activity, I have learned that everyone can do something for the earth. Even small actions can make a big (12)_______. I hope more students will join us in creating a greener future."
     },
     {
       "id": 10,
       "type": "cloze",
       "knowledge_point": "cloze_general",
-      "difficulty": 1,
-      "stem": "(10)___",
+      "difficulty": 2,
+      "stem": "(10)_______",
       "options": [
-        "A. save",
-        "B. stop",
-        "C. keep",
-        "D. prevent"
+        "A. bought",
+        "B. used",
+        "C. sold",
+        "D. borrowed"
       ],
-      "correct_answer": "D",
-      "explanation": "prevent...from...是固定搭配，意为'阻止...做某事'。save...from...拯救...免于...，stop...from...阻止（stop可用prevent替换，但此处结构为prevent bags from entering），keep...from...阻止（但keep更强调使保持某种状态）。根据语境'阻止塑料袋进入海洋'，prevent最合适。",
+      "correct_answer": "B",
+      "explanation": "考查动词辨析和语境理解。use...to do sth.意为'用……做某事'。bought（买）、sold（卖）、borrowed（借）都不符合语境。句意：我们'用'旧瓶子和盒子制作漂亮的手工艺品。这与环保主题'废物利用'相符，use体现了循环利用的理念。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school started an interesting project called 'Green Campus Action'. The goal was to teach students how to (8)___ the environment through small daily changes. At first, many students didn't take it seriously. They thought one person's actions couldn't make any difference.\n\nHowever, things changed after a special class meeting. Our teacher showed us some shocking photos of plastic waste in the ocean. She explained that every piece of plastic we throw away might (9)___ up in the sea and harm sea animals. 'If each of us uses one less plastic bag a week,' she said, 'we can (10)___ hundreds of bags from entering the ocean every year.'\n\nFrom that day on, my classmates and I began to bring our own cloth bags to school. We also started a recycling corner in our classroom. To our surprise, other classes (11)___ our idea and soon the whole school joined in. Now, our school produces 50% less plastic waste than before.\n\nThis experience taught me that environmental protection starts with small steps. We don't need to do big things to change the world. (12)___, we just need to change our daily habits. Small actions, when multiplied by millions of people, can transform the world."
+      "group_passage": "Last month, our school organized an interesting activity called \"Green Campus Week\". The aim was to help students understand the (8)_______ of protecting the environment.\n\nDuring the week, we did many meaningful things. On Monday, our teacher gave us a talk about how to save energy in daily life. She told us that we should turn off the lights when leaving the classroom. On Wednesday, we (9)_______ into small groups to collect rubbish around the school. Although it was tiring, we felt happy to make our campus cleaner.\n\nThe most exciting part was on Friday. We (10)_______ old bottles and boxes to make beautiful handicrafts. Some students made pen holders, while others created small robots. Our art teacher was (11)_______ by our creative ideas. She said these works would be shown in the school hall.\n\nThrough this activity, I have learned that everyone can do something for the earth. Even small actions can make a big (12)_______. I hope more students will join us in creating a greener future."
     },
     {
       "id": 11,
       "type": "cloze",
       "knowledge_point": "cloze_general",
-      "difficulty": 1,
-      "stem": "(11)___",
+      "difficulty": 2,
+      "stem": "(11)_______",
       "options": [
-        "A. refused",
-        "B. doubted",
-        "C. copied",
-        "D. forgot"
+        "A. worried",
+        "B. surprised",
+        "C. bored",
+        "D. tired"
       ],
-      "correct_answer": "C",
-      "explanation": "根据后文'soon the whole school joined in'（全校都加入）可知，其他班级'效仿/复制'了我们的想法。copied意为'复制，效仿'；refused拒绝，doubted怀疑，forgot忘记，均与后文逻辑不符。",
+      "correct_answer": "B",
+      "explanation": "考查形容词辨析和情感线索。surprised意为'惊讶的、惊喜的'。worried（担心的）、bored（无聊的）、tired（疲惫的）都是负面词汇，而根据前文'the most exciting part'和后文'creative ideas（创意想法）'可知，老师应该是'惊喜的'。be surprised by是固定搭配，意为'对……感到惊讶'。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school started an interesting project called 'Green Campus Action'. The goal was to teach students how to (8)___ the environment through small daily changes. At first, many students didn't take it seriously. They thought one person's actions couldn't make any difference.\n\nHowever, things changed after a special class meeting. Our teacher showed us some shocking photos of plastic waste in the ocean. She explained that every piece of plastic we throw away might (9)___ up in the sea and harm sea animals. 'If each of us uses one less plastic bag a week,' she said, 'we can (10)___ hundreds of bags from entering the ocean every year.'\n\nFrom that day on, my classmates and I began to bring our own cloth bags to school. We also started a recycling corner in our classroom. To our surprise, other classes (11)___ our idea and soon the whole school joined in. Now, our school produces 50% less plastic waste than before.\n\nThis experience taught me that environmental protection starts with small steps. We don't need to do big things to change the world. (12)___, we just need to change our daily habits. Small actions, when multiplied by millions of people, can transform the world."
+      "group_passage": "Last month, our school organized an interesting activity called \"Green Campus Week\". The aim was to help students understand the (8)_______ of protecting the environment.\n\nDuring the week, we did many meaningful things. On Monday, our teacher gave us a talk about how to save energy in daily life. She told us that we should turn off the lights when leaving the classroom. On Wednesday, we (9)_______ into small groups to collect rubbish around the school. Although it was tiring, we felt happy to make our campus cleaner.\n\nThe most exciting part was on Friday. We (10)_______ old bottles and boxes to make beautiful handicrafts. Some students made pen holders, while others created small robots. Our art teacher was (11)_______ by our creative ideas. She said these works would be shown in the school hall.\n\nThrough this activity, I have learned that everyone can do something for the earth. Even small actions can make a big (12)_______. I hope more students will join us in creating a greener future."
     },
     {
       "id": 12,
       "type": "cloze",
       "knowledge_point": "cloze_general",
-      "difficulty": 2,
-      "stem": "(12)___",
+      "difficulty": 1,
+      "stem": "(12)_______",
       "options": [
-        "A. Instead",
-        "B. However",
-        "C. Therefore",
-        "D. Otherwise"
+        "A. decision",
+        "B. promise",
+        "C. difference",
+        "D. plan"
       ],
-      "correct_answer": "A",
-      "explanation": "前文说'不需要做大事'，后文说'只需要改变日常习惯'，前后是转折替代关系，instead意为'相反，反而，取而代之'。however然而（表转折，通常后有逗号且语义侧重不同），therefore因此（表因果），otherwise否则（表条件），均不如instead贴切。",
+      "correct_answer": "C",
+      "explanation": "考查固定搭配。make a big difference是固定短语，意为'产生重大影响、带来很大的不同'。decision（决定）、promise（承诺）、plan（计划）都不与make构成此搭配。句意：即使是小小的行动也能产生巨大的'影响'。这与文章主题'人人可为环保做贡献'相呼应。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school started an interesting project called 'Green Campus Action'. The goal was to teach students how to (8)___ the environment through small daily changes. At first, many students didn't take it seriously. They thought one person's actions couldn't make any difference.\n\nHowever, things changed after a special class meeting. Our teacher showed us some shocking photos of plastic waste in the ocean. She explained that every piece of plastic we throw away might (9)___ up in the sea and harm sea animals. 'If each of us uses one less plastic bag a week,' she said, 'we can (10)___ hundreds of bags from entering the ocean every year.'\n\nFrom that day on, my classmates and I began to bring our own cloth bags to school. We also started a recycling corner in our classroom. To our surprise, other classes (11)___ our idea and soon the whole school joined in. Now, our school produces 50% less plastic waste than before.\n\nThis experience taught me that environmental protection starts with small steps. We don't need to do big things to change the world. (12)___, we just need to change our daily habits. Small actions, when multiplied by millions of people, can transform the world."
+      "group_passage": "Last month, our school organized an interesting activity called \"Green Campus Week\". The aim was to help students understand the (8)_______ of protecting the environment.\n\nDuring the week, we did many meaningful things. On Monday, our teacher gave us a talk about how to save energy in daily life. She told us that we should turn off the lights when leaving the classroom. On Wednesday, we (9)_______ into small groups to collect rubbish around the school. Although it was tiring, we felt happy to make our campus cleaner.\n\nThe most exciting part was on Friday. We (10)_______ old bottles and boxes to make beautiful handicrafts. Some students made pen holders, while others created small robots. Our art teacher was (11)_______ by our creative ideas. She said these works would be shown in the school hall.\n\nThrough this activity, I have learned that everyone can do something for the earth. Even small actions can make a big (12)_______. I hope more students will join us in creating a greener future."
     },
     {
       "id": 13,
       "type": "reading",
       "knowledge_point": "detail",
       "difficulty": 2,
-      "stem": "Why did Bosco decide to join the Science Club?",
+      "stem": "According to the passage, what can solar panels do?",
       "options": [
-        "A. Because his parents forced him to join.",
-        "B. Because he wanted to make more friends.",
-        "C. Because he found science experiments interesting after the open day.",
-        "D. Because he needed extra credits for his final grade."
+        "A. They can store electricity for rainy days.",
+        "B. They can turn sunlight into electricity.",
+        "C. They can produce harmful gases.",
+        "D. They can only be used in summer."
       ],
-      "correct_answer": "C",
-      "explanation": "根据文章第二段'After the open day, I realized that science experiments were not boring at all. In fact, they were full of surprises... I decided to join the Science Club immediately.'可知，Bosco是在开放日之后发现科学实验很有趣，才决定加入的。A（父母强迫）、B（想交更多朋友）、D（需要学分）文中均未提及。",
+      "correct_answer": "B",
+      "explanation": "细节理解题。根据文章第二段第二句'These panels catch sunlight and turn it into electricity.'（这些面板捕捉阳光并将其转化为电能）可知，太阳能板能把阳光转化为电能。A选项错误，储存电能的是电池（batteries）；C选项错误，太阳能板不产生有害气体；D选项错误，文中未提及只能在夏天使用。解题技巧：细节题要回到原文找关键词solar panels，定位到第二段。",
       "label": "阅读-细节理解",
       "group": "reading_1",
-      "group_passage": "My name is Bosco, and I'm an eighth-grade student at Sunshine Middle School. Like many of my classmates, I used to think science was boring and difficult. All those formulas and theories seemed to have nothing to do with my daily life.\n\nEverything changed last semester when our school held a Science Open Day. Different clubs set up booths (摊位) to show their projects. The Science Club demonstrated how to make a simple battery using lemons. After the open day, I realized that science experiments were not boring at all. In fact, they were full of surprises and could help solve real-life problems. I decided to join the Science Club immediately.\n\nIn the club, we meet every Wednesday afternoon. Last month, we worked on a project about water purification (净化). We built a simple filter (过滤器) using sand, stones, and cotton cloth. It was amazing to see dirty water become clear after passing through our homemade filter. Our teacher, Mr. Li, told us that many villages in remote areas still lack clean drinking water. 'Science is not just about passing exams,' he said. 'It's about making the world better.'\n\nThis experience has changed my attitude towards learning. I no longer memorize facts just for tests. Instead, I try to understand how knowledge can be applied in real situations. Next month, our club plans to visit a local science museum. I'm really looking forward to learning more about renewable energy and environmental protection."
+      "group_passage": "Do you know that the sun gives us more energy than we could ever use? Solar power is becoming more and more popular around the world. It is clean, safe and will never run out.\n\nIn many cities, solar panels (太阳能板) can be seen on the roofs of buildings. These panels catch sunlight and turn it into electricity. This electricity can be used to light up homes, power computers and even charge electric cars. Unlike traditional power plants, solar panels don't produce harmful gases that cause air pollution.\n\nHowever, using solar energy is not always easy. The biggest problem is that the sun doesn't shine all the time. On cloudy or rainy days, solar panels work less efficiently. To solve this problem, scientists are developing better batteries to store solar energy for later use.\n\nIn Shenzhen, more and more schools are starting to use solar energy. Last year, a middle school in Nanshan District installed solar panels on its teaching buildings. The headmaster said, \"This not only saves money on electricity bills, but also teaches students about renewable (可再生的) energy.\" Students there can see on a special screen how much clean energy their school has produced each day.\n\nAs technology improves, solar power will become cheaper and more efficient. Maybe one day, every home will be powered by the sun. Wouldn't that be a bright future?"
     },
     {
       "id": 14,
       "type": "reading",
       "knowledge_point": "inference",
       "difficulty": 3,
-      "stem": "What can we infer about Bosco's attitude towards science before joining the club?",
+      "stem": "What can we infer about the middle school in Nanshan District?",
       "options": [
-        "A. He was very interested in scientific theories.",
-        "B. He considered it unrelated to practical life.",
-        "C. He was afraid of doing experiments in the lab.",
-        "D. He thought science was easier than other subjects."
+        "A. It is the only school using solar energy in Shenzhen.",
+        "B. Its students don't need to pay for electricity anymore.",
+        "C. It pays much attention to environmental education.",
+        "D. It has the largest teaching buildings in the city."
       ],
-      "correct_answer": "B",
-      "explanation": "根据第一段'All those formulas and theories seemed to have nothing to do with my daily life'（所有那些公式和理论似乎与我的日常生活无关）可推断，Bosco之前认为科学与实际生活无关。A（对理论很感兴趣）与原文相反；C（害怕做实验）文中未提及；D（认为比其他科目容易）文中说' difficult'，与D相反。",
+      "correct_answer": "C",
+      "explanation": "推理判断题。根据第四段校长的话'This not only saves money on electricity bills, but also teaches students about renewable energy.'（这不仅节省电费，还能教学生关于可再生能源的知识）可以推断出，这所学校重视环境教育。A选项错误，文中说more and more schools（越来越多学校），不是唯一；B选项错误，文中说saves money（省钱）不是不用付费；D选项错误，文中未提及建筑大小。解题技巧：推理题要根据原文信息合理推断，不能过度推断，也不能选择原文直接陈述的内容（infer表示推断）。",
       "label": "阅读-推理判断",
       "group": "reading_1",
-      "group_passage": "My name is Bosco, and I'm an eighth-grade student at Sunshine Middle School. Like many of my classmates, I used to think science was boring and difficult. All those formulas and theories seemed to have nothing to do with my daily life.\n\nEverything changed last semester when our school held a Science Open Day. Different clubs set up booths (摊位) to show their projects. The Science Club demonstrated how to make a simple battery using lemons. After the open day, I realized that science experiments were not boring at all. In fact, they were full of surprises and could help solve real-life problems. I decided to join the Science Club immediately.\n\nIn the club, we meet every Wednesday afternoon. Last month, we worked on a project about water purification (净化). We built a simple filter (过滤器) using sand, stones, and cotton cloth. It was amazing to see dirty water become clear after passing through our homemade filter. Our teacher, Mr. Li, told us that many villages in remote areas still lack clean drinking water. 'Science is not just about passing exams,' he said. 'It's about making the world better.'\n\nThis experience has changed my attitude towards learning. I no longer memorize facts just for tests. Instead, I try to understand how knowledge can be applied in real situations. Next month, our club plans to visit a local science museum. I'm really looking forward to learning more about renewable energy and environmental protection."
+      "group_passage": "Do you know that the sun gives us more energy than we could ever use? Solar power is becoming more and more popular around the world. It is clean, safe and will never run out.\n\nIn many cities, solar panels (太阳能板) can be seen on the roofs of buildings. These panels catch sunlight and turn it into electricity. This electricity can be used to light up homes, power computers and even charge electric cars. Unlike traditional power plants, solar panels don't produce harmful gases that cause air pollution.\n\nHowever, using solar energy is not always easy. The biggest problem is that the sun doesn't shine all the time. On cloudy or rainy days, solar panels work less efficiently. To solve this problem, scientists are developing better batteries to store solar energy for later use.\n\nIn Shenzhen, more and more schools are starting to use solar energy. Last year, a middle school in Nanshan District installed solar panels on its teaching buildings. The headmaster said, \"This not only saves money on electricity bills, but also teaches students about renewable (可再生的) energy.\" Students there can see on a special screen how much clean energy their school has produced each day.\n\nAs technology improves, solar power will become cheaper and more efficient. Maybe one day, every home will be powered by the sun. Wouldn't that be a bright future?"
     },
     {
       "id": 15,
       "type": "reading",
       "knowledge_point": "word_guessing",
       "difficulty": 2,
-      "stem": "What does the underlined word 'demonstrated' in Paragraph 2 probably mean?",
+      "stem": "The underlined word 'renewable' in Paragraph 4 probably means _______.",
       "options": [
-        "A. Taught a lesson about something.",
-        "B. Showed how to do something by doing it.",
-        "C. Explained by writing on the blackboard.",
-        "D. Discussed with group members."
+        "A. 可再生的",
+        "B. 可食用的",
+        "C. 可替代的",
+        "D. 可携带的"
       ],
-      "correct_answer": "B",
-      "explanation": "根据上下文'The Science Club demonstrated how to make a simple battery using lemons'（科学社演示了如何用柠檬制作简易电池），demonstrated意为'演示，展示'，即通过实际操作展示如何做某事。showed how to do something by doing it（通过做来展示如何做）符合此意。A（教课）、C（黑板写字解释）、D（与小组成员讨论）均不准确。",
+      "correct_answer": "A",
+      "explanation": "词义猜测题。根据构词法，re-表示'再次'，new表示'新的'，-able表示'能够……的'，合起来就是'能够再次变新的'，即'可再生的'。根据上下文，太阳能属于可再生能源，因为第一段提到'will never run out（永远不会耗尽）'，与可再生的概念一致。解题技巧：利用构词法（前缀re-、后缀-able）和上下文线索（never run out）猜测词义。",
       "label": "阅读-词义猜测",
       "group": "reading_1",
-      "group_passage": "My name is Bosco, and I'm an eighth-grade student at Sunshine Middle School. Like many of my classmates, I used to think science was boring and difficult. All those formulas and theories seemed to have nothing to do with my daily life.\n\nEverything changed last semester when our school held a Science Open Day. Different clubs set up booths (摊位) to show their projects. The Science Club demonstrated how to make a simple battery using lemons. After the open day, I realized that science experiments were not boring at all. In fact, they were full of surprises and could help solve real-life problems. I decided to join the Science Club immediately.\n\nIn the club, we meet every Wednesday afternoon. Last month, we worked on a project about water purification (净化). We built a simple filter (过滤器) using sand, stones, and cotton cloth. It was amazing to see dirty water become clear after passing through our homemade filter. Our teacher, Mr. Li, told us that many villages in remote areas still lack clean drinking water. 'Science is not just about passing exams,' he said. 'It's about making the world better.'\n\nThis experience has changed my attitude towards learning. I no longer memorize facts just for tests. Instead, I try to understand how knowledge can be applied in real situations. Next month, our club plans to visit a local science museum. I'm really looking forward to learning more about renewable energy and environmental protection."
+      "group_passage": "Do you know that the sun gives us more energy than we could ever use? Solar power is becoming more and more popular around the world. It is clean, safe and will never run out.\n\nIn many cities, solar panels (太阳能板) can be seen on the roofs of buildings. These panels catch sunlight and turn it into electricity. This electricity can be used to light up homes, power computers and even charge electric cars. Unlike traditional power plants, solar panels don't produce harmful gases that cause air pollution.\n\nHowever, using solar energy is not always easy. The biggest problem is that the sun doesn't shine all the time. On cloudy or rainy days, solar panels work less efficiently. To solve this problem, scientists are developing better batteries to store solar energy for later use.\n\nIn Shenzhen, more and more schools are starting to use solar energy. Last year, a middle school in Nanshan District installed solar panels on its teaching buildings. The headmaster said, \"This not only saves money on electricity bills, but also teaches students about renewable (可再生的) energy.\" Students there can see on a special screen how much clean energy their school has produced each day.\n\nAs technology improves, solar power will become cheaper and more efficient. Maybe one day, every home will be powered by the sun. Wouldn't that be a bright future?"
     },
     {
       "id": 16,
       "type": "reading",
       "knowledge_point": "main_idea",
-      "difficulty": 3,
+      "difficulty": 2,
       "stem": "What is the best title for this passage?",
       "options": [
-        "A. The History of Our School Clubs",
-        "B. How I Changed My View on Science",
-        "C. The Importance of Clean Drinking Water",
-        "D. A Visit to the Local Science Museum"
+        "A. The History of Shenzhen Schools",
+        "B. How to Save Electricity at Home",
+        "C. Solar Power: Energy from the Sun",
+        "D. The Problems of Traditional Energy"
       ],
-      "correct_answer": "B",
-      "explanation": "文章主要讲述了Bosco从认为科学枯燥难懂，到通过开放日和俱乐部活动改变看法，认识到科学可以解决实际问题的心路历程。A（学校社团历史）范围太大；C（清洁饮用水的重要性）只是文中一个例子；D（参观科学博物馆）是计划发生的事，不是主要内容。B（我如何改变对科学的看法）最能概括全文主旨。",
+      "correct_answer": "C",
+      "explanation": "主旨大意题。文章第一段引入太阳能，第二段讲太阳能板的工作原理，第三段讲太阳能的局限，第四段讲深圳学校的应用，第五段展望未来。全文围绕太阳能展开，因此C选项'Solar Power: Energy from the Sun'最能概括主旨。A选项只涉及第四段细节，B选项范围太窄（只在第二段提及），D选项与文章重点不符（文章重点不是传统能源的问题）。解题技巧：最佳标题要涵盖全文内容，不能太大也不能太小，通常包含高频词（solar power/sun）。",
       "label": "阅读-主旨大意",
       "group": "reading_1",
-      "group_passage": "My name is Bosco, and I'm an eighth-grade student at Sunshine Middle School. Like many of my classmates, I used to think science was boring and difficult. All those formulas and theories seemed to have nothing to do with my daily life.\n\nEverything changed last semester when our school held a Science Open Day. Different clubs set up booths (摊位) to show their projects. The Science Club demonstrated how to make a simple battery using lemons. After the open day, I realized that science experiments were not boring at all. In fact, they were full of surprises and could help solve real-life problems. I decided to join the Science Club immediately.\n\nIn the club, we meet every Wednesday afternoon. Last month, we worked on a project about water purification (净化). We built a simple filter (过滤器) using sand, stones, and cotton cloth. It was amazing to see dirty water become clear after passing through our homemade filter. Our teacher, Mr. Li, told us that many villages in remote areas still lack clean drinking water. 'Science is not just about passing exams,' he said. 'It's about making the world better.'\n\nThis experience has changed my attitude towards learning. I no longer memorize facts just for tests. Instead, I try to understand how knowledge can be applied in real situations. Next month, our club plans to visit a local science museum. I'm really looking forward to learning more about renewable energy and environmental protection."
+      "group_passage": "Do you know that the sun gives us more energy than we could ever use? Solar power is becoming more and more popular around the world. It is clean, safe and will never run out.\n\nIn many cities, solar panels (太阳能板) can be seen on the roofs of buildings. These panels catch sunlight and turn it into electricity. This electricity can be used to light up homes, power computers and even charge electric cars. Unlike traditional power plants, solar panels don't produce harmful gases that cause air pollution.\n\nHowever, using solar energy is not always easy. The biggest problem is that the sun doesn't shine all the time. On cloudy or rainy days, solar panels work less efficiently. To solve this problem, scientists are developing better batteries to store solar energy for later use.\n\nIn Shenzhen, more and more schools are starting to use solar energy. Last year, a middle school in Nanshan District installed solar panels on its teaching buildings. The headmaster said, \"This not only saves money on electricity bills, but also teaches students about renewable (可再生的) energy.\" Students there can see on a special screen how much clean energy their school has produced each day.\n\nAs technology improves, solar power will become cheaper and more efficient. Maybe one day, every home will be powered by the sun. Wouldn't that be a bright future?"
     },
     {
       "id": 17,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "stem": "(17)___",
+      "stem": "(17)_______",
       "options": [
-        "A. However, it is not always easy to find the right balance.",
-        "B. As a result, they often feel stressed and tired.",
-        "C. In addition, taking short breaks can help improve concentration.",
-        "D. First, you should make a list of your daily tasks and set priorities.",
-        "E. On the other hand, some students spend too much time on hobbies."
+        "A. First of all",
+        "B. In addition",
+        "C. However",
+        "D. Finally",
+        "E. Therefore"
       ],
-      "correct_answer": "D",
-      "explanation": "本段主题是'如何平衡学习与爱好'，接下来应该是具体建议。根据后文的'Second'（第二）可知，此处应该是'First'（第一），构成顺序关系。D选项'First, you should make a list...'符合段落衔接和逻辑顺序。",
+      "correct_answer": "C",
+      "explanation": "考查逻辑关系。前文说'Many middle school students worry about...'（很多学生担心……），后文说'it's not as difficult as you think...'（并不像你想的那么难），前后是转折关系，所以用However（然而）。First of all用于列举第一点，In addition用于补充，Finally用于总结，Therefore表示结果，都不符合此处逻辑。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "As middle school students, we all have our favorite hobbies, such as playing basketball, reading, or painting. However, we also have a lot of homework and exams to prepare for. How can we balance study time and hobby time? Here is some useful advice.\n\n(17)___ Write down what you need to do for school and how long each task takes. Then, schedule specific time slots for your hobbies. This way, you won't feel guilty when you're having fun, and you won't forget to study.\n\n(18)___ Many students try to study for hours without stopping, but this is actually not efficient. Our brains need rest to work well. When you feel tired after studying math or English, spend 20 minutes on your hobby to refresh your mind.\n\n(19)___ Some students focus only on their studies and become bookworms. Others spend all their free time playing games and ignore their schoolwork. Both extremes are harmful.\n\n(20)___ Try to find a healthy middle ground. Remember, hobbies can make you more creative and relaxed, which will actually help you study better in the long run."
+      "group_passage": "Many middle school students face a common problem: how to balance study and club activities. (17)_______, it's not as difficult as you think if you follow these steps.\n\n(18)_______, write down all your weekly tasks on a calendar. This gives you a clear picture of your time and helps you plan better.\n\n(19)_______, learn to say \"no\" when necessary. If a club activity conflicts with an important exam, you should prioritize your study.\n\n(20)_______, don't be afraid to ask for help from teachers or parents when you feel stressed. They can give you practical advice to solve the problem."
     },
     {
       "id": 18,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "stem": "(18)___",
+      "stem": "(18)_______",
       "options": [
-        "A. However, it is not always easy to find the right balance.",
-        "B. As a result, they often feel stressed and tired.",
-        "C. In addition, taking short breaks can help improve concentration.",
-        "D. First, you should make a list of your daily tasks and set priorities.",
-        "E. On the other hand, some students spend too much time on hobbies."
+        "A. First of all",
+        "B. In addition",
+        "C. However",
+        "D. Finally",
+        "E. Therefore"
       ],
-      "correct_answer": "C",
-      "explanation": "本段后文提到'学习数小时后不停下来'、'大脑需要休息'、'花20分钟在爱好上 refresh your mind'，可知本段主题是休息的重要性。C选项'In addition, taking short breaks can help improve concentration'（此外，短暂休息有助于提高专注力）符合本段主旨，且In addition表示递进，承接上文的第一个建议。",
+      "correct_answer": "A",
+      "explanation": "考查段落衔接。根据前文'follow these steps'（遵循以下步骤）可知，接下来要列举第一点建议。First of all意为'首先'，用于列举第一个要点，符合语境。本段讲的是第一个建议：制定周计划。In addition用于补充额外要点，However表转折，Finally用于最后一点，Therefore表结果。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "As middle school students, we all have our favorite hobbies, such as playing basketball, reading, or painting. However, we also have a lot of homework and exams to prepare for. How can we balance study time and hobby time? Here is some useful advice.\n\n(17)___ Write down what you need to do for school and how long each task takes. Then, schedule specific time slots for your hobbies. This way, you won't feel guilty when you're having fun, and you won't forget to study.\n\n(18)___ Many students try to study for hours without stopping, but this is actually not efficient. Our brains need rest to work well. When you feel tired after studying math or English, spend 20 minutes on your hobby to refresh your mind.\n\n(19)___ Some students focus only on their studies and become bookworms. Others spend all their free time playing games and ignore their schoolwork. Both extremes are harmful.\n\n(20)___ Try to find a healthy middle ground. Remember, hobbies can make you more creative and relaxed, which will actually help you study better in the long run."
+      "group_passage": "Many middle school students face a common problem: how to balance study and club activities. (17)_______, it's not as difficult as you think if you follow these steps.\n\n(18)_______, write down all your weekly tasks on a calendar. This gives you a clear picture of your time and helps you plan better.\n\n(19)_______, learn to say \"no\" when necessary. If a club activity conflicts with an important exam, you should prioritize your study.\n\n(20)_______, don't be afraid to ask for help from teachers or parents when you feel stressed. They can give you practical advice to solve the problem."
     },
     {
       "id": 19,
       "type": "fill",
       "knowledge_point": "sentence_fill",
-      "difficulty": 1,
-      "stem": "(19)___",
+      "difficulty": 2,
+      "stem": "(19)_______",
       "options": [
-        "A. However, it is not always easy to find the right balance.",
-        "B. As a result, they often feel stressed and tired.",
-        "C. In addition, taking short breaks can help improve concentration.",
-        "D. First, you should make a list of your daily tasks and set priorities.",
-        "E. On the other hand, some students spend too much time on hobbies."
+        "A. First of all",
+        "B. In addition",
+        "C. However",
+        "D. Finally",
+        "E. Therefore"
       ],
-      "correct_answer": "A",
-      "explanation": "本段后文提到'有些学生只关注学习变成书呆子，其他人则花所有时间玩游戏忽视学业'，这是在说两种极端情况，即找到平衡并不容易。A选项'However, it is not always easy to find the right balance'（然而，找到正确的平衡并不总是容易的）作为本段主题句，引出下文的具体例子，符合逻辑。",
+      "correct_answer": "B",
+      "explanation": "考查段落衔接。前文讲了第一点建议（制定计划），本段讲第二点建议（学会拒绝），是递进补充关系。In addition意为'此外、另外'，用于添加第二点建议，符合逻辑。First of all已用于第一点，Finally用于最后一点，However表转折（此处无转折关系），Therefore表因果。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "As middle school students, we all have our favorite hobbies, such as playing basketball, reading, or painting. However, we also have a lot of homework and exams to prepare for. How can we balance study time and hobby time? Here is some useful advice.\n\n(17)___ Write down what you need to do for school and how long each task takes. Then, schedule specific time slots for your hobbies. This way, you won't feel guilty when you're having fun, and you won't forget to study.\n\n(18)___ Many students try to study for hours without stopping, but this is actually not efficient. Our brains need rest to work well. When you feel tired after studying math or English, spend 20 minutes on your hobby to refresh your mind.\n\n(19)___ Some students focus only on their studies and become bookworms. Others spend all their free time playing games and ignore their schoolwork. Both extremes are harmful.\n\n(20)___ Try to find a healthy middle ground. Remember, hobbies can make you more creative and relaxed, which will actually help you study better in the long run."
+      "group_passage": "Many middle school students face a common problem: how to balance study and club activities. (17)_______, it's not as difficult as you think if you follow these steps.\n\n(18)_______, write down all your weekly tasks on a calendar. This gives you a clear picture of your time and helps you plan better.\n\n(19)_______, learn to say \"no\" when necessary. If a club activity conflicts with an important exam, you should prioritize your study.\n\n(20)_______, don't be afraid to ask for help from teachers or parents when you feel stressed. They can give you practical advice to solve the problem."
     },
     {
       "id": 20,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "stem": "(20)___",
+      "stem": "(20)_______",
       "options": [
-        "A. However, it is not always easy to find the right balance.",
-        "B. As a result, they often feel stressed and tired.",
-        "C. In addition, taking short breaks can help improve concentration.",
-        "D. First, you should make a list of your daily tasks and set priorities.",
-        "E. On the other hand, some students spend too much time on hobbies."
+        "A. First of all",
+        "B. In addition",
+        "C. However",
+        "D. Finally",
+        "E. Therefore"
       ],
-      "correct_answer": "B",
-      "explanation": "本段前文提到'Both extremes are harmful'（两种极端都有害），此处应该是结果。B选项'As a result, they often feel stressed and tired'（结果，他们经常感到压力和疲惫）是前文所述极端行为的后果，且与后文'Try to find a healthy middle ground'（尝试找到健康的中间地带）形成因果逻辑：因为会感到压力疲惫，所以要找到平衡点。",
+      "correct_answer": "D",
+      "explanation": "考查段落衔接。前文已经列举了两点建议（制定计划、学会拒绝），本段是最后一点建议（寻求帮助）。Finally意为'最后'，用于列举最后一项，符合文章结构（first...in addition...finally）。干扰项Therefore表示因果关系，但本段与前文是并列的建议关系，不是因果关系。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "As middle school students, we all have our favorite hobbies, such as playing basketball, reading, or painting. However, we also have a lot of homework and exams to prepare for. How can we balance study time and hobby time? Here is some useful advice.\n\n(17)___ Write down what you need to do for school and how long each task takes. Then, schedule specific time slots for your hobbies. This way, you won't feel guilty when you're having fun, and you won't forget to study.\n\n(18)___ Many students try to study for hours without stopping, but this is actually not efficient. Our brains need rest to work well. When you feel tired after studying math or English, spend 20 minutes on your hobby to refresh your mind.\n\n(19)___ Some students focus only on their studies and become bookworms. Others spend all their free time playing games and ignore their schoolwork. Both extremes are harmful.\n\n(20)___ Try to find a healthy middle ground. Remember, hobbies can make you more creative and relaxed, which will actually help you study better in the long run."
+      "group_passage": "Many middle school students face a common problem: how to balance study and club activities. (17)_______, it's not as difficult as you think if you follow these steps.\n\n(18)_______, write down all your weekly tasks on a calendar. This gives you a clear picture of your time and helps you plan better.\n\n(19)_______, learn to say \"no\" when necessary. If a club activity conflicts with an important exam, you should prioritize your study.\n\n(20)_______, don't be afraid to ask for help from teachers or parents when you feel stressed. They can give you practical advice to solve the problem."
     }
   ]
 }
