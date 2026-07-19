@@ -1,21 +1,21 @@
 ﻿{
-  "date": "2026-07-19",
+  "date": "2026-07-20",
   "session_number": 1,
   "questions": [
     {
       "id": 1,
       "type": "grammar",
       "knowledge_point": "present_perfect_vs_past_simple",
-      "difficulty": 1,
-      "stem": "—I _______ the book from the library yesterday.\n—Oh, you _______ it for three days. Remember to return it on time.",
+      "difficulty": 2,
+      "stem": "—______ you ______ your homework yet? —Yes, I ______ it an hour ago.",
       "options": [
-        "A. borrowed; have kept",
-        "B. have borrowed; kept",
-        "C. borrowed; kept",
-        "D. have borrowed; have kept"
+        "A. Did; finish; finished",
+        "B. Have; finished; finished",
+        "C. Have; finished; have finished",
+        "D. Did; finish; have finished"
       ],
-      "correct_answer": "A",
-      "explanation": "第一空后面有明确的时间状语yesterday（昨天），这是典型的一般过去时标志词，所以用borrowed；第二空后面有for three days（持续三天），表示从过去持续到现在的动作，必须用现在完成时，且keep是延续性动词，可以与时间段连用，而borrow是瞬间动词不能与时间段连用。解题技巧：看见yesterday/last week等用过去时；看见for/since用现在完成时，且注意瞬间动词与延续性动词的转换。",
+      "correct_answer": "B",
+      "explanation": "解析：第一空根据关键词yet（常用于现在完成时疑问句和否定句）可知用现在完成时Have...finished；第二空根据ago（一般过去时标志词）可知用finished。A项第一空错误，yet不与一般过去时连用；C项第二空错误，ago提示用过去时而非完成时；D项两空均错误。",
       "label": "语法题"
     },
     {
@@ -23,7 +23,7 @@
       "type": "grammar",
       "knowledge_point": "relative_clause_who_which",
       "difficulty": 2,
-      "stem": "The boy _______ is playing basketball over there is our monitor. He is very good at sports.",
+      "stem": "The boy ______ is standing under the tree is my classmate.",
       "options": [
         "A. who",
         "B. which",
@@ -31,326 +31,326 @@
         "D. whose"
       ],
       "correct_answer": "A",
-      "explanation": "先行词是The boy（指人），定语从句中缺少主语，因此用关系代词who。which用于指物，whom用于指人但在从句中作宾语，whose表示'……的'，在从句中作定语。本句从句部分______ is playing basketball缺少主语，所以选who。解题技巧：指人用who/whom/that，指物用which/that；从句缺主语用who/which，缺宾语可用whom/who/which。",
+      "explanation": "解析：定语从句先行词the boy指人，排除B项which（指物）；从句中缺少主语，应用主格who。C项whom是宾格，在从句中作宾语时使用；D项whose表示'……的'，在从句中作定语。口诀：先行词指人作主语，who来引导莫犹豫。",
       "label": "语法题"
     },
     {
       "id": 3,
       "type": "grammar",
       "knowledge_point": "passive_voice",
-      "difficulty": 2,
-      "stem": "Our new school library _______ next month. It will be the largest one in our district.",
+      "difficulty": 1,
+      "stem": "These books ______ to the library tomorrow.",
       "options": [
-        "A. will build",
-        "B. will be built",
-        "C. is building",
-        "D. builds"
+        "A. will return",
+        "B. will be returned",
+        "C. are returning",
+        "D. returned"
       ],
       "correct_answer": "B",
-      "explanation": "主语Our new school library（新图书馆）与动词build（建造）之间是被动关系，图书馆是被建造的，因此必须用被动语态be+过去分词。时间状语next month（下个月）表明要用一般将来时，所以综合起来用一般将来时的被动语态will be built。解题技巧：先看主语和动词是主动还是被动关系，再看时间确定时态，被动语态结构=时态+be+done。",
+      "explanation": "解析：tomorrow提示用一般将来时；主语these books是动词return的承受者，应用被动语态。一般将来时被动语态结构为will be+过去分词。A项是主动语态；C项是现在进行时主动；D项是一般过去时。",
       "label": "语法题"
     },
     {
       "id": 4,
       "type": "grammar",
-      "knowledge_point": "object_clause",
+      "knowledge_point": "present_perfect_vs_past_simple",
       "difficulty": 3,
-      "stem": "Could you tell me _______? I want to post a letter.",
+      "stem": "My father ______ the club for five years.",
       "options": [
-        "A. where is the nearest post office",
-        "B. where the nearest post office is",
-        "C. where does the nearest post office",
-        "D. where the nearest post office does"
+        "A. has joined",
+        "B. has been in",
+        "C. joined",
+        "D. joins"
       ],
       "correct_answer": "B",
-      "explanation": "宾语从句必须使用陈述句语序（主语+谓语），不能用疑问句语序。A选项where is the nearest post office是疑问句语序（系动词is在主语前），C选项也是疑问句语序且结构不完整，D选项多了助动词does。B选项where the nearest post office is是陈述句语序（主语the nearest post office+系动词is），符合宾语从句规则。解题技巧：宾语从句三要素——连接词+陈述句语序+时态呼应。",
+      "explanation": "解析：for five years是时间段，要求谓语动词用延续性动词。join是短暂性动词，不能与时间段连用，需转换为be in或be a member of。A项has joined错误，短暂动词不能接时间段；C项joined不能与for five years连用；D项一般现在时表示习惯，与语境不符。",
       "label": "语法题"
     },
     {
       "id": 5,
       "type": "vocabulary",
-      "knowledge_point": "phrasal_verbs",
+      "knowledge_point": "word_meaning",
       "difficulty": 1,
-      "stem": "We should _______ our old clothes to charity instead of throwing them away. It can help people in need.",
+      "stem": "It's ______ to eat too much junk food. It's bad for our health.",
       "options": [
-        "A. give away",
-        "B. give up",
-        "C. give out",
-        "D. give in"
+        "A. healthy",
+        "B. unhealthy",
+        "C. health",
+        "D. healthily"
       ],
-      "correct_answer": "A",
-      "explanation": "give away意为'捐赠、赠送'，give up意为'放弃'，give out意为'分发、耗尽'，give in意为'屈服、让步'。根据句意'把旧衣服______给慈善机构而不是扔掉'，应该是'捐赠'的意思，所以选give away。解题技巧：give相关短语——give away捐赠（away表示离开，把东西给出去），give up放弃（up表示向上，把手举起来投降），give out分发（out表示向外）。",
+      "correct_answer": "B",
+      "explanation": "解析：be动词后接形容词作表语，排除C（名词）和D（副词）；根据后句'对身体有害'可知选unhealthy（不健康的）。A项healthy（健康的）与句意相反。",
       "label": "词汇题"
     },
     {
       "id": 6,
       "type": "vocabulary",
-      "knowledge_point": "word_formation",
+      "knowledge_point": "prefix_suffix",
       "difficulty": 2,
-      "stem": "The _______ news made all of us feel _______. We couldn't stop cheering.",
+      "stem": "The word 'impossible' means 'not ______'.",
       "options": [
-        "A. exciting; excited",
-        "B. excited; exciting",
-        "C. exciting; exciting",
-        "D. excited; excited"
+        "A. polite",
+        "B. possible",
+        "C. patient",
+        "D. perfect"
       ],
-      "correct_answer": "A",
-      "explanation": "exciting（令人兴奋的）用来修饰事物，表示事物本身具有让人兴奋的性质；excited（感到兴奋的）用来修饰人，表示人的主观感受。第一空修饰news（消息，事物），用exciting；第二空修饰us（我们，人），且feel是系动词，后面接形容词描述人的感受，用excited。口诀：-ing修饰物，-ed修饰人。",
+      "correct_answer": "B",
+      "explanation": "解析：im-是否定前缀，加在possible（可能的）前构成impossible（不可能的）。A项polite（礼貌的）否定形式是impolite；C项patient（耐心的）否定形式是impatient；D项perfect（完美的）否定形式是imperfect。",
       "label": "词汇题"
     },
     {
       "id": 7,
       "type": "vocabulary",
-      "knowledge_point": "word_meaning",
+      "knowledge_point": "phrasal_verbs",
       "difficulty": 2,
-      "stem": "It's _______ for us to protect the environment. We only have one earth and we must take care of it.",
+      "stem": "We need to ______ a solution to the pollution problem.",
       "options": [
-        "A. necessary",
-        "B. impossible",
-        "C. unnecessary",
-        "D. difficult"
+        "A. come up with",
+        "B. come out",
+        "C. come on",
+        "D. come true"
       ],
       "correct_answer": "A",
-      "explanation": "necessary意为'必要的'，impossible意为'不可能的'，unnecessary意为'不必要的'，difficult意为'困难的'。根据后文'我们只有一个地球，必须爱护它'可知，保护环境是'必要的'，所以选necessary。干扰项C unnecessary是反义词，B impossible和D difficult虽然语法通顺，但不符合语境逻辑。",
+      "explanation": "解析：come up with意为'提出，想出（主意、方案）'；come out意为'出版，发行，开花'；come on意为'加油，快点'；come true意为'实现'。根据宾语a solution（解决方案）可知选A。",
       "label": "词汇题"
     },
     {
       "id": 8,
       "type": "cloze",
       "knowledge_point": "cloze_general",
-      "difficulty": 2,
-      "stem": "(8)_______",
-      "options": [
-        "A. importance",
-        "B. different",
-        "C. difficult",
-        "D. interesting"
-      ],
-      "correct_answer": "A",
-      "explanation": "考查名词辨析和固定搭配。the importance of...意为'……的重要性'，是固定搭配。different（不同的，形容词）、difficult（困难的，形容词）、interesting（有趣的，形容词）都是形容词，而空格前有定冠词the，后面有of，需要名词。句意：目的是帮助学生理解保护环境的'重要性'。",
-      "label": "完形填空",
+      "difficulty": 1,
       "group": "cloze_1",
-      "group_passage": "Last month, our school organized an interesting activity called \"Green Campus Week\". The aim was to help students understand the (8)_______ of protecting the environment.\n\nDuring the week, we did many meaningful things. On Monday, our teacher gave us a talk about how to save energy in daily life. She told us that we should turn off the lights when leaving the classroom. On Wednesday, we (9)_______ into small groups to collect rubbish around the school. Although it was tiring, we felt happy to make our campus cleaner.\n\nThe most exciting part was on Friday. We (10)_______ old bottles and boxes to make beautiful handicrafts. Some students made pen holders, while others created small robots. Our art teacher was (11)_______ by our creative ideas. She said these works would be shown in the school hall.\n\nThrough this activity, I have learned that everyone can do something for the earth. Even small actions can make a big (12)_______. I hope more students will join us in creating a greener future."
+      "group_passage": "Our school started a green program last month. The program aims to help students understand the importance of protecting the environment. Every class was asked to collect recyclable materials like plastic bottles and waste paper.\n\nAt first, many students thought it was (8)______ to carry the heavy bags to the collection point. However, after learning that these materials could be (9)______ into new products, they became more interested. \"It's amazing to see how waste can be turned into something useful,\" said Li Ming, a student from Class 3.\n\nThe school also set up a small garden where students could grow vegetables. This activity not only teaches students about nature but also helps them relax from their busy (10)______. \"I feel proud when I see the plants growing,\" said one student.\n\nSo far, the program has been very (11)______. The amount of waste produced by the school has dropped by 30%. The headmaster said they would (12)______ the program next semester because of its great success.",
+      "stem": "(8)______",
+      "options": [
+        "A. easy",
+        "B. difficult",
+        "C. interesting",
+        "D. necessary"
+      ],
+      "correct_answer": "B",
+      "explanation": "解析：根据上下文，刚开始学生觉得把沉重的袋子搬到收集点很'困难'（difficult）。后文的However表示转折，说明后来态度改变。A项easy（容易的）与后文态度转变逻辑不符；C项interesting（有趣的）与at first的语境不符；D项necessary（必要的）不符合语境。",
+      "label": "完形填空"
     },
     {
       "id": 9,
       "type": "cloze",
-      "knowledge_point": "cloze_general",
+      "knowledge_point": "passive_voice",
       "difficulty": 2,
-      "stem": "(9)_______",
+      "group": "cloze_1",
+      "group_passage": "Our school started a green program last month. The program aims to help students understand the importance of protecting the environment. Every class was asked to collect recyclable materials like plastic bottles and waste paper.\n\nAt first, many students thought it was (8)______ to carry the heavy bags to the collection point. However, after learning that these materials could be (9)______ into new products, they became more interested. \"It's amazing to see how waste can be turned into something useful,\" said Li Ming, a student from Class 3.\n\nThe school also set up a small garden where students could grow vegetables. This activity not only teaches students about nature but also helps them relax from their busy (10)______. \"I feel proud when I see the plants growing,\" said one student.\n\nSo far, the program has been very (11)______. The amount of waste produced by the school has dropped by 30%. The headmaster said they would (12)______ the program next semester because of its great success.",
+      "stem": "(9)______",
       "options": [
-        "A. cut",
-        "B. turned",
-        "C. divided",
-        "D. broke"
+        "A. made",
+        "B. divided",
+        "C. turned",
+        "D. cut"
       ],
       "correct_answer": "C",
-      "explanation": "考查固定搭配。divide...into...意为'把……分成……'，是固定短语。cut into意为'打断、切入'，turn into意为'变成'，break into意为'闯入'。句意：我们被'分成'小组去收集校园周围的垃圾。这里是一般过去时的被动含义（我们被分组），但选项中没有被动形式，divide into small groups是主动形式表示被动意义的分组状态，符合英语表达习惯。",
-      "label": "完形填空",
-      "group": "cloze_1",
-      "group_passage": "Last month, our school organized an interesting activity called \"Green Campus Week\". The aim was to help students understand the (8)_______ of protecting the environment.\n\nDuring the week, we did many meaningful things. On Monday, our teacher gave us a talk about how to save energy in daily life. She told us that we should turn off the lights when leaving the classroom. On Wednesday, we (9)_______ into small groups to collect rubbish around the school. Although it was tiring, we felt happy to make our campus cleaner.\n\nThe most exciting part was on Friday. We (10)_______ old bottles and boxes to make beautiful handicrafts. Some students made pen holders, while others created small robots. Our art teacher was (11)_______ by our creative ideas. She said these works would be shown in the school hall.\n\nThrough this activity, I have learned that everyone can do something for the earth. Even small actions can make a big (12)_______. I hope more students will join us in creating a greener future."
+      "explanation": "解析：turn...into...是固定搭配，意为'把……变成……'，被动形式为be turned into。后文也出现turned into的原句复现。A项made需与into搭配make into（把……制成），但通常指彻底改变性质；B项divided into（被分成）；D项cut into（被切成）。",
+      "label": "完形填空"
     },
     {
       "id": 10,
       "type": "cloze",
       "knowledge_point": "cloze_general",
       "difficulty": 2,
-      "stem": "(10)_______",
+      "group": "cloze_1",
+      "group_passage": "Our school started a green program last month. The program aims to help students understand the importance of protecting the environment. Every class was asked to collect recyclable materials like plastic bottles and waste paper.\n\nAt first, many students thought it was (8)______ to carry the heavy bags to the collection point. However, after learning that these materials could be (9)______ into new products, they became more interested. \"It's amazing to see how waste can be turned into something useful,\" said Li Ming, a student from Class 3.\n\nThe school also set up a small garden where students could grow vegetables. This activity not only teaches students about nature but also helps them relax from their busy (10)______. \"I feel proud when I see the plants growing,\" said one student.\n\nSo far, the program has been very (11)______. The amount of waste produced by the school has dropped by 30%. The headmaster said they would (12)______ the program next semester because of its great success.",
+      "stem": "(10)______",
       "options": [
-        "A. bought",
-        "B. used",
-        "C. sold",
-        "D. borrowed"
+        "A. study",
+        "B. schedule",
+        "C. homework",
+        "D. housework"
       ],
       "correct_answer": "B",
-      "explanation": "考查动词辨析和语境理解。use...to do sth.意为'用……做某事'。bought（买）、sold（卖）、borrowed（借）都不符合语境。句意：我们'用'旧瓶子和盒子制作漂亮的手工艺品。这与环保主题'废物利用'相符，use体现了循环利用的理念。",
-      "label": "完形填空",
-      "group": "cloze_1",
-      "group_passage": "Last month, our school organized an interesting activity called \"Green Campus Week\". The aim was to help students understand the (8)_______ of protecting the environment.\n\nDuring the week, we did many meaningful things. On Monday, our teacher gave us a talk about how to save energy in daily life. She told us that we should turn off the lights when leaving the classroom. On Wednesday, we (9)_______ into small groups to collect rubbish around the school. Although it was tiring, we felt happy to make our campus cleaner.\n\nThe most exciting part was on Friday. We (10)_______ old bottles and boxes to make beautiful handicrafts. Some students made pen holders, while others created small robots. Our art teacher was (11)_______ by our creative ideas. She said these works would be shown in the school hall.\n\nThrough this activity, I have learned that everyone can do something for the earth. Even small actions can make a big (12)_______. I hope more students will join us in creating a greener future."
+      "explanation": "解析：schedule（日程安排，时间表）与busy搭配最恰当，指从繁忙的日程中放松。A项study通常不与busy直接搭配；C项homework虽然可以说busy homework，但不如schedule涵盖面广；D项housework（家务）与学校语境不符。",
+      "label": "完形填空"
     },
     {
       "id": 11,
       "type": "cloze",
       "knowledge_point": "cloze_general",
-      "difficulty": 2,
-      "stem": "(11)_______",
-      "options": [
-        "A. worried",
-        "B. surprised",
-        "C. bored",
-        "D. tired"
-      ],
-      "correct_answer": "B",
-      "explanation": "考查形容词辨析和情感线索。surprised意为'惊讶的、惊喜的'。worried（担心的）、bored（无聊的）、tired（疲惫的）都是负面词汇，而根据前文'the most exciting part'和后文'creative ideas（创意想法）'可知，老师应该是'惊喜的'。be surprised by是固定搭配，意为'对……感到惊讶'。",
-      "label": "完形填空",
+      "difficulty": 1,
       "group": "cloze_1",
-      "group_passage": "Last month, our school organized an interesting activity called \"Green Campus Week\". The aim was to help students understand the (8)_______ of protecting the environment.\n\nDuring the week, we did many meaningful things. On Monday, our teacher gave us a talk about how to save energy in daily life. She told us that we should turn off the lights when leaving the classroom. On Wednesday, we (9)_______ into small groups to collect rubbish around the school. Although it was tiring, we felt happy to make our campus cleaner.\n\nThe most exciting part was on Friday. We (10)_______ old bottles and boxes to make beautiful handicrafts. Some students made pen holders, while others created small robots. Our art teacher was (11)_______ by our creative ideas. She said these works would be shown in the school hall.\n\nThrough this activity, I have learned that everyone can do something for the earth. Even small actions can make a big (12)_______. I hope more students will join us in creating a greener future."
+      "group_passage": "Our school started a green program last month. The program aims to help students understand the importance of protecting the environment. Every class was asked to collect recyclable materials like plastic bottles and waste paper.\n\nAt first, many students thought it was (8)______ to carry the heavy bags to the collection point. However, after learning that these materials could be (9)______ into new products, they became more interested. \"It's amazing to see how waste can be turned into something useful,\" said Li Ming, a student from Class 3.\n\nThe school also set up a small garden where students could grow vegetables. This activity not only teaches students about nature but also helps them relax from their busy (10)______. \"I feel proud when I see the plants growing,\" said one student.\n\nSo far, the program has been very (11)______. The amount of waste produced by the school has dropped by 30%. The headmaster said they would (12)______ the program next semester because of its great success.",
+      "stem": "(11)______",
+      "options": [
+        "A. difficult",
+        "B. different",
+        "C. successful",
+        "D. harmful"
+      ],
+      "correct_answer": "C",
+      "explanation": "解析：根据后文'垃圾量减少30%'和'because of its great success'可知项目很'成功'（successful）。A项difficult（困难的）与后文积极描述矛盾；B项different（不同的）不符合语境；D项harmful（有害的）与文意相反。",
+      "label": "完形填空"
     },
     {
       "id": 12,
       "type": "cloze",
       "knowledge_point": "cloze_general",
-      "difficulty": 1,
-      "stem": "(12)_______",
-      "options": [
-        "A. decision",
-        "B. promise",
-        "C. difference",
-        "D. plan"
-      ],
-      "correct_answer": "C",
-      "explanation": "考查固定搭配。make a big difference是固定短语，意为'产生重大影响、带来很大的不同'。decision（决定）、promise（承诺）、plan（计划）都不与make构成此搭配。句意：即使是小小的行动也能产生巨大的'影响'。这与文章主题'人人可为环保做贡献'相呼应。",
-      "label": "完形填空",
+      "difficulty": 2,
       "group": "cloze_1",
-      "group_passage": "Last month, our school organized an interesting activity called \"Green Campus Week\". The aim was to help students understand the (8)_______ of protecting the environment.\n\nDuring the week, we did many meaningful things. On Monday, our teacher gave us a talk about how to save energy in daily life. She told us that we should turn off the lights when leaving the classroom. On Wednesday, we (9)_______ into small groups to collect rubbish around the school. Although it was tiring, we felt happy to make our campus cleaner.\n\nThe most exciting part was on Friday. We (10)_______ old bottles and boxes to make beautiful handicrafts. Some students made pen holders, while others created small robots. Our art teacher was (11)_______ by our creative ideas. She said these works would be shown in the school hall.\n\nThrough this activity, I have learned that everyone can do something for the earth. Even small actions can make a big (12)_______. I hope more students will join us in creating a greener future."
+      "group_passage": "Our school started a green program last month. The program aims to help students understand the importance of protecting the environment. Every class was asked to collect recyclable materials like plastic bottles and waste paper.\n\nAt first, many students thought it was (8)______ to carry the heavy bags to the collection point. However, after learning that these materials could be (9)______ into new products, they became more interested. \"It's amazing to see how waste can be turned into something useful,\" said Li Ming, a student from Class 3.\n\nThe school also set up a small garden where students could grow vegetables. This activity not only teaches students about nature but also helps them relax from their busy (10)______. \"I feel proud when I see the plants growing,\" said one student.\n\nSo far, the program has been very (11)______. The amount of waste produced by the school has dropped by 30%. The headmaster said they would (12)______ the program next semester because of its great success.",
+      "stem": "(12)______",
+      "options": [
+        "A. stop",
+        "B. continue",
+        "C. change",
+        "D. forget"
+      ],
+      "correct_answer": "B",
+      "explanation": "解析：根据'because of its great success'（因为很成功）可知下学期会'继续'（continue）这个项目。A项stop（停止）与文意相反；C项change（改变）没有依据；D项forget（忘记）不符合逻辑。",
+      "label": "完形填空"
     },
     {
       "id": 13,
       "type": "reading",
       "knowledge_point": "detail",
       "difficulty": 2,
-      "stem": "According to the passage, what can solar panels do?",
+      "group": "reading_1",
+      "group_passage": "Mobile payment has changed the way we live in China. With just a smartphone, people can buy almost everything without carrying cash or cards.\n\nThe technology behind mobile payment is called QR code (二维码). When you want to pay, you simply open your payment app and let the seller scan your code, or you scan the seller's code. The money moves from your account to the seller's in seconds.\n\nHowever, this convenience also brings concerns. Some people worry about the safety of their personal information. If someone steals your phone, they might access your money. To solve this problem, payment companies have developed fingerprint and face recognition technologies. These features ensure that only the owner can use the payment app.\n\nExperts believe that mobile payment will become even more popular in the future. It not only saves time but also reduces the cost of handling cash for businesses. As one expert said, \"We are moving towards a cashless society, and this is just the beginning.\"",
+      "stem": "How does mobile payment work according to the passage?",
       "options": [
-        "A. They can store electricity for rainy days.",
-        "B. They can turn sunlight into electricity.",
-        "C. They can produce harmful gases.",
-        "D. They can only be used in summer."
+        "A. By using cash.",
+        "B. By scanning QR codes.",
+        "C. By calling the bank.",
+        "D. By sending text messages."
       ],
       "correct_answer": "B",
-      "explanation": "细节理解题。根据文章第二段第二句'These panels catch sunlight and turn it into electricity.'（这些面板捕捉阳光并将其转化为电能）可知，太阳能板能把阳光转化为电能。A选项错误，储存电能的是电池（batteries）；C选项错误，太阳能板不产生有害气体；D选项错误，文中未提及只能在夏天使用。解题技巧：细节题要回到原文找关键词solar panels，定位到第二段。",
-      "label": "阅读-细节理解",
-      "group": "reading_1",
-      "group_passage": "Do you know that the sun gives us more energy than we could ever use? Solar power is becoming more and more popular around the world. It is clean, safe and will never run out.\n\nIn many cities, solar panels (太阳能板) can be seen on the roofs of buildings. These panels catch sunlight and turn it into electricity. This electricity can be used to light up homes, power computers and even charge electric cars. Unlike traditional power plants, solar panels don't produce harmful gases that cause air pollution.\n\nHowever, using solar energy is not always easy. The biggest problem is that the sun doesn't shine all the time. On cloudy or rainy days, solar panels work less efficiently. To solve this problem, scientists are developing better batteries to store solar energy for later use.\n\nIn Shenzhen, more and more schools are starting to use solar energy. Last year, a middle school in Nanshan District installed solar panels on its teaching buildings. The headmaster said, \"This not only saves money on electricity bills, but also teaches students about renewable (可再生的) energy.\" Students there can see on a special screen how much clean energy their school has produced each day.\n\nAs technology improves, solar power will become cheaper and more efficient. Maybe one day, every home will be powered by the sun. Wouldn't that be a bright future?"
+      "explanation": "解析：细节理解题。根据第二段'TThe technology behind mobile payment is called QR code'以及'let the seller scan your code, or you scan the seller's code'可知，移动支付通过扫描二维码完成。A项使用现金与文中without carrying cash矛盾；C项打电话给银行、D项发短信均未提及。",
+      "label": "阅读-细节理解"
     },
     {
       "id": 14,
       "type": "reading",
-      "knowledge_point": "inference",
-      "difficulty": 3,
-      "stem": "What can we infer about the middle school in Nanshan District?",
-      "options": [
-        "A. It is the only school using solar energy in Shenzhen.",
-        "B. Its students don't need to pay for electricity anymore.",
-        "C. It pays much attention to environmental education.",
-        "D. It has the largest teaching buildings in the city."
-      ],
-      "correct_answer": "C",
-      "explanation": "推理判断题。根据第四段校长的话'This not only saves money on electricity bills, but also teaches students about renewable energy.'（这不仅节省电费，还能教学生关于可再生能源的知识）可以推断出，这所学校重视环境教育。A选项错误，文中说more and more schools（越来越多学校），不是唯一；B选项错误，文中说saves money（省钱）不是不用付费；D选项错误，文中未提及建筑大小。解题技巧：推理题要根据原文信息合理推断，不能过度推断，也不能选择原文直接陈述的内容（infer表示推断）。",
-      "label": "阅读-推理判断",
+      "knowledge_point": "word_guessing",
+      "difficulty": 2,
       "group": "reading_1",
-      "group_passage": "Do you know that the sun gives us more energy than we could ever use? Solar power is becoming more and more popular around the world. It is clean, safe and will never run out.\n\nIn many cities, solar panels (太阳能板) can be seen on the roofs of buildings. These panels catch sunlight and turn it into electricity. This electricity can be used to light up homes, power computers and even charge electric cars. Unlike traditional power plants, solar panels don't produce harmful gases that cause air pollution.\n\nHowever, using solar energy is not always easy. The biggest problem is that the sun doesn't shine all the time. On cloudy or rainy days, solar panels work less efficiently. To solve this problem, scientists are developing better batteries to store solar energy for later use.\n\nIn Shenzhen, more and more schools are starting to use solar energy. Last year, a middle school in Nanshan District installed solar panels on its teaching buildings. The headmaster said, \"This not only saves money on electricity bills, but also teaches students about renewable (可再生的) energy.\" Students there can see on a special screen how much clean energy their school has produced each day.\n\nAs technology improves, solar power will become cheaper and more efficient. Maybe one day, every home will be powered by the sun. Wouldn't that be a bright future?"
+      "group_passage": "Mobile payment has changed the way we live in China. With just a smartphone, people can buy almost everything without carrying cash or cards.\n\nThe technology behind mobile payment is called QR code (二维码). When you want to pay, you simply open your payment app and let the seller scan your code, or you scan the seller's code. The money moves from your account to the seller's in seconds.\n\nHowever, this convenience also brings concerns. Some people worry about the safety of their personal information. If someone steals your phone, they might access your money. To solve this problem, payment companies have developed fingerprint and face recognition technologies. These features ensure that only the owner can use the payment app.\n\nExperts believe that mobile payment will become even more popular in the future. It not only saves time but also reduces the cost of handling cash for businesses. As one expert said, \"We are moving towards a cashless society, and this is just the beginning.\"",
+      "stem": "What does the word 'concerns' in Paragraph 3 probably mean?",
+      "options": [
+        "A. Worries.",
+        "B. Advantages.",
+        "C. Instructions.",
+        "D. Results."
+      ],
+      "correct_answer": "A",
+      "explanation": "解析：词义猜测题。根据后文'Some people worry about the safety...'（有些人担心安全……）可知concerns与worries同义，意为'担忧'。B项advantages（优点）、C项instructions（说明）、D项results（结果）均不符合语境。",
+      "label": "阅读-词义猜测"
     },
     {
       "id": 15,
       "type": "reading",
-      "knowledge_point": "word_guessing",
-      "difficulty": 2,
-      "stem": "The underlined word 'renewable' in Paragraph 4 probably means _______.",
-      "options": [
-        "A. 可再生的",
-        "B. 可食用的",
-        "C. 可替代的",
-        "D. 可携带的"
-      ],
-      "correct_answer": "A",
-      "explanation": "词义猜测题。根据构词法，re-表示'再次'，new表示'新的'，-able表示'能够……的'，合起来就是'能够再次变新的'，即'可再生的'。根据上下文，太阳能属于可再生能源，因为第一段提到'will never run out（永远不会耗尽）'，与可再生的概念一致。解题技巧：利用构词法（前缀re-、后缀-able）和上下文线索（never run out）猜测词义。",
-      "label": "阅读-词义猜测",
+      "knowledge_point": "inference",
+      "difficulty": 3,
       "group": "reading_1",
-      "group_passage": "Do you know that the sun gives us more energy than we could ever use? Solar power is becoming more and more popular around the world. It is clean, safe and will never run out.\n\nIn many cities, solar panels (太阳能板) can be seen on the roofs of buildings. These panels catch sunlight and turn it into electricity. This electricity can be used to light up homes, power computers and even charge electric cars. Unlike traditional power plants, solar panels don't produce harmful gases that cause air pollution.\n\nHowever, using solar energy is not always easy. The biggest problem is that the sun doesn't shine all the time. On cloudy or rainy days, solar panels work less efficiently. To solve this problem, scientists are developing better batteries to store solar energy for later use.\n\nIn Shenzhen, more and more schools are starting to use solar energy. Last year, a middle school in Nanshan District installed solar panels on its teaching buildings. The headmaster said, \"This not only saves money on electricity bills, but also teaches students about renewable (可再生的) energy.\" Students there can see on a special screen how much clean energy their school has produced each day.\n\nAs technology improves, solar power will become cheaper and more efficient. Maybe one day, every home will be powered by the sun. Wouldn't that be a bright future?"
+      "group_passage": "Mobile payment has changed the way we live in China. With just a smartphone, people can buy almost everything without carrying cash or cards.\n\nThe technology behind mobile payment is called QR code (二维码). When you want to pay, you simply open your payment app and let the seller scan your code, or you scan the seller's code. The money moves from your account to the seller's in seconds.\n\nHowever, this convenience also brings concerns. Some people worry about the safety of their personal information. If someone steals your phone, they might access your money. To solve this problem, payment companies have developed fingerprint and face recognition technologies. These features ensure that only the owner can use the payment app.\n\nExperts believe that mobile payment will become even more popular in the future. It not only saves time but also reduces the cost of handling cash for businesses. As one expert said, \"We are moving towards a cashless society, and this is just the beginning.\"",
+      "stem": "What can we infer from the passage?",
+      "options": [
+        "A. Mobile payment is only popular in big cities.",
+        "B. People don't like using cash anymore.",
+        "C. Fingerprint technology makes mobile payment safer.",
+        "D. QR codes were invented by payment companies."
+      ],
+      "correct_answer": "C",
+      "explanation": "解析：推理判断题。根据第三段'TTo solve this problem, payment companies have developed fingerprint and face recognition technologies. These features ensure that only the owner can use the payment app'可推断，指纹技术使移动支付更安全。A项only popular in big cities（只在大城市流行）文中未提；B项don't like using cash（不喜欢用现金）过于绝对；D项QR codes were invented by payment companies（二维码由支付公司发明）文中未提，且与事实不符。",
+      "label": "阅读-推理判断"
     },
     {
       "id": 16,
       "type": "reading",
       "knowledge_point": "main_idea",
-      "difficulty": 2,
-      "stem": "What is the best title for this passage?",
+      "difficulty": 3,
+      "group": "reading_1",
+      "group_passage": "Mobile payment has changed the way we live in China. With just a smartphone, people can buy almost everything without carrying cash or cards.\n\nThe technology behind mobile payment is called QR code (二维码). When you want to pay, you simply open your payment app and let the seller scan your code, or you scan the seller's code. The money moves from your account to the seller's in seconds.\n\nHowever, this convenience also brings concerns. Some people worry about the safety of their personal information. If someone steals your phone, they might access your money. To solve this problem, payment companies have developed fingerprint and face recognition technologies. These features ensure that only the owner can use the payment app.\n\nExperts believe that mobile payment will become even more popular in the future. It not only saves time but also reduces the cost of handling cash for businesses. As one expert said, \"We are moving towards a cashless society, and this is just the beginning.\"",
+      "stem": "What is the best title for the passage?",
       "options": [
-        "A. The History of Shenzhen Schools",
-        "B. How to Save Electricity at Home",
-        "C. Solar Power: Energy from the Sun",
-        "D. The Problems of Traditional Energy"
+        "A. The History of Money",
+        "B. How to Use Smartphones",
+        "C. Mobile Payment: Changing Our Lives",
+        "D. The Dangers of Technology"
       ],
       "correct_answer": "C",
-      "explanation": "主旨大意题。文章第一段引入太阳能，第二段讲太阳能板的工作原理，第三段讲太阳能的局限，第四段讲深圳学校的应用，第五段展望未来。全文围绕太阳能展开，因此C选项'Solar Power: Energy from the Sun'最能概括主旨。A选项只涉及第四段细节，B选项范围太窄（只在第二段提及），D选项与文章重点不符（文章重点不是传统能源的问题）。解题技巧：最佳标题要涵盖全文内容，不能太大也不能太小，通常包含高频词（solar power/sun）。",
-      "label": "阅读-主旨大意",
-      "group": "reading_1",
-      "group_passage": "Do you know that the sun gives us more energy than we could ever use? Solar power is becoming more and more popular around the world. It is clean, safe and will never run out.\n\nIn many cities, solar panels (太阳能板) can be seen on the roofs of buildings. These panels catch sunlight and turn it into electricity. This electricity can be used to light up homes, power computers and even charge electric cars. Unlike traditional power plants, solar panels don't produce harmful gases that cause air pollution.\n\nHowever, using solar energy is not always easy. The biggest problem is that the sun doesn't shine all the time. On cloudy or rainy days, solar panels work less efficiently. To solve this problem, scientists are developing better batteries to store solar energy for later use.\n\nIn Shenzhen, more and more schools are starting to use solar energy. Last year, a middle school in Nanshan District installed solar panels on its teaching buildings. The headmaster said, \"This not only saves money on electricity bills, but also teaches students about renewable (可再生的) energy.\" Students there can see on a special screen how much clean energy their school has produced each day.\n\nAs technology improves, solar power will become cheaper and more efficient. Maybe one day, every home will be powered by the sun. Wouldn't that be a bright future?"
+      "explanation": "解析：主旨大意题。文章首句'MMobile payment has changed the way we live'点明主题，全文围绕移动支付如何改变生活、其工作原理、安全问题及未来发展展开。A项货币历史、B项如何使用手机、D项科技的危险均偏离主题。",
+      "label": "阅读-主旨大意"
     },
     {
       "id": 17,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "stem": "(17)_______",
-      "options": [
-        "A. First of all",
-        "B. In addition",
-        "C. However",
-        "D. Finally",
-        "E. Therefore"
-      ],
-      "correct_answer": "C",
-      "explanation": "考查逻辑关系。前文说'Many middle school students worry about...'（很多学生担心……），后文说'it's not as difficult as you think...'（并不像你想的那么难），前后是转折关系，所以用However（然而）。First of all用于列举第一点，In addition用于补充，Finally用于总结，Therefore表示结果，都不符合此处逻辑。",
-      "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Many middle school students face a common problem: how to balance study and club activities. (17)_______, it's not as difficult as you think if you follow these steps.\n\n(18)_______, write down all your weekly tasks on a calendar. This gives you a clear picture of your time and helps you plan better.\n\n(19)_______, learn to say \"no\" when necessary. If a club activity conflicts with an important exam, you should prioritize your study.\n\n(20)_______, don't be afraid to ask for help from teachers or parents when you feel stressed. They can give you practical advice to solve the problem."
+      "group_passage": "Many middle school students feel stressed because of heavy schoolwork. (17)______ Here are some useful tips to help you achieve a balance between study and relaxation.\n\nFirst, make a proper plan for your time. (18)______ This way, you won't waste time deciding what to do next. Write down your tasks and finish them one by one.\n\nSecond, don't forget to exercise. Physical activity can help reduce stress and improve your concentration. (19)______ Even a 20-minute walk can make a big difference.\n\n(20)______ If you spend all your time studying, you will feel tired and bored. Taking breaks helps your brain work better.",
+      "stem": "(17)______",
+      "options": [
+        "A. However, it's important to balance study and rest.",
+        "B. For example, you can play basketball or go jogging after school.",
+        "C. In addition, remember to take short breaks during long study periods.",
+        "D. Then, you should focus on your homework without distractions.",
+        "E. Know exactly what you need to do each hour."
+      ],
+      "correct_answer": "A",
+      "explanation": "解析：前文提到学业压力，后文给出平衡学习与放松的建议，此处需要转折过渡。A项'然而，平衡学习与休息很重要'承上启下。B项举例运动；C项补充休息；D项讲专注；E项讲具体计划，均不符合此处逻辑。",
+      "label": "短文填空"
     },
     {
       "id": 18,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "stem": "(18)_______",
-      "options": [
-        "A. First of all",
-        "B. In addition",
-        "C. However",
-        "D. Finally",
-        "E. Therefore"
-      ],
-      "correct_answer": "A",
-      "explanation": "考查段落衔接。根据前文'follow these steps'（遵循以下步骤）可知，接下来要列举第一点建议。First of all意为'首先'，用于列举第一个要点，符合语境。本段讲的是第一个建议：制定周计划。In addition用于补充额外要点，However表转折，Finally用于最后一点，Therefore表结果。",
-      "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Many middle school students face a common problem: how to balance study and club activities. (17)_______, it's not as difficult as you think if you follow these steps.\n\n(18)_______, write down all your weekly tasks on a calendar. This gives you a clear picture of your time and helps you plan better.\n\n(19)_______, learn to say \"no\" when necessary. If a club activity conflicts with an important exam, you should prioritize your study.\n\n(20)_______, don't be afraid to ask for help from teachers or parents when you feel stressed. They can give you practical advice to solve the problem."
+      "group_passage": "Many middle school students feel stressed because of heavy schoolwork. (17)______ Here are some useful tips to help you achieve a balance between study and relaxation.\n\nFirst, make a proper plan for your time. (18)______ This way, you won't waste time deciding what to do next. Write down your tasks and finish them one by one.\n\nSecond, don't forget to exercise. Physical activity can help reduce stress and improve your concentration. (19)______ Even a 20-minute walk can make a big difference.\n\n(20)______ If you spend all your time studying, you will feel tired and bored. Taking breaks helps your brain work better.",
+      "stem": "(18)______",
+      "options": [
+        "A. However, it's important to balance study and rest.",
+        "B. For example, you can play basketball or go jogging after school.",
+        "C. In addition, remember to take short breaks during long study periods.",
+        "D. Then, you should focus on your homework without distractions.",
+        "E. Know exactly what you need to do each hour."
+      ],
+      "correct_answer": "E",
+      "explanation": "解析：前句说'制定合适的时间计划'，E项'清楚知道每小时要做什么'是对计划的具体解释，与后文'这样就不会浪费时间决定下一步做什么'逻辑连贯。A项是总起句；B项讲运动；C项讲休息；D项讲专注，均不符。",
+      "label": "短文填空"
     },
     {
       "id": 19,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "stem": "(19)_______",
+      "group": "fill_1",
+      "group_passage": "Many middle school students feel stressed because of heavy schoolwork. (17)______ Here are some useful tips to help you achieve a balance between study and relaxation.\n\nFirst, make a proper plan for your time. (18)______ This way, you won't waste time deciding what to do next. Write down your tasks and finish them one by one.\n\nSecond, don't forget to exercise. Physical activity can help reduce stress and improve your concentration. (19)______ Even a 20-minute walk can make a big difference.\n\n(20)______ If you spend all your time studying, you will feel tired and bored. Taking breaks helps your brain work better.",
+      "stem": "(19)______",
       "options": [
-        "A. First of all",
-        "B. In addition",
-        "C. However",
-        "D. Finally",
-        "E. Therefore"
+        "A. However, it's important to balance study and rest.",
+        "B. For example, you can play basketball or go jogging after school.",
+        "C. In addition, remember to take short breaks during long study periods.",
+        "D. Then, you should focus on your homework without distractions.",
+        "E. Know exactly what you need to do each hour."
       ],
       "correct_answer": "B",
-      "explanation": "考查段落衔接。前文讲了第一点建议（制定计划），本段讲第二点建议（学会拒绝），是递进补充关系。In addition意为'此外、另外'，用于添加第二点建议，符合逻辑。First of all已用于第一点，Finally用于最后一点，However表转折（此处无转折关系），Therefore表因果。",
-      "label": "短文填空",
-      "group": "fill_1",
-      "group_passage": "Many middle school students face a common problem: how to balance study and club activities. (17)_______, it's not as difficult as you think if you follow these steps.\n\n(18)_______, write down all your weekly tasks on a calendar. This gives you a clear picture of your time and helps you plan better.\n\n(19)_______, learn to say \"no\" when necessary. If a club activity conflicts with an important exam, you should prioritize your study.\n\n(20)_______, don't be afraid to ask for help from teachers or parents when you feel stressed. They can give you practical advice to solve the problem."
+      "explanation": "解析：前句讲'体育活动有助于减压'，后句讲'即使20分钟步行也有很大作用'，B项'例如，你可以放学后打篮球或慢跑'举例说明运动方式，承上启下。A项是总起；C项讲休息；D项讲专注；E项讲计划，均不符。",
+      "label": "短文填空"
     },
     {
       "id": 20,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "stem": "(20)_______",
-      "options": [
-        "A. First of all",
-        "B. In addition",
-        "C. However",
-        "D. Finally",
-        "E. Therefore"
-      ],
-      "correct_answer": "D",
-      "explanation": "考查段落衔接。前文已经列举了两点建议（制定计划、学会拒绝），本段是最后一点建议（寻求帮助）。Finally意为'最后'，用于列举最后一项，符合文章结构（first...in addition...finally）。干扰项Therefore表示因果关系，但本段与前文是并列的建议关系，不是因果关系。",
-      "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Many middle school students face a common problem: how to balance study and club activities. (17)_______, it's not as difficult as you think if you follow these steps.\n\n(18)_______, write down all your weekly tasks on a calendar. This gives you a clear picture of your time and helps you plan better.\n\n(19)_______, learn to say \"no\" when necessary. If a club activity conflicts with an important exam, you should prioritize your study.\n\n(20)_______, don't be afraid to ask for help from teachers or parents when you feel stressed. They can give you practical advice to solve the problem."
+      "group_passage": "Many middle school students feel stressed because of heavy schoolwork. (17)______ Here are some useful tips to help you achieve a balance between study and relaxation.\n\nFirst, make a proper plan for your time. (18)______ This way, you won't waste time deciding what to do next. Write down your tasks and finish them one by one.\n\nSecond, don't forget to exercise. Physical activity can help reduce stress and improve your concentration. (19)______ Even a 20-minute walk can make a big difference.\n\n(20)______ If you spend all your time studying, you will feel tired and bored. Taking breaks helps your brain work better.",
+      "stem": "(20)______",
+      "options": [
+        "A. However, it's important to balance study and rest.",
+        "B. For example, you can play basketball or go jogging after school.",
+        "C. In addition, remember to take short breaks during long study periods.",
+        "D. Then, you should focus on your homework without distractions.",
+        "E. Know exactly what you need to do each hour."
+      ],
+      "correct_answer": "C",
+      "explanation": "解析：后文讲'如果一直学习会感到疲惫，休息帮助大脑更好工作'，C项'此外，记得在长时间学习期间短暂休息'引出该话题。A项已用于17题；B项讲运动；D项讲专注；E项讲计划，均不符。",
+      "label": "短文填空"
     }
   ]
 }
