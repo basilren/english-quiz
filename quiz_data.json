@@ -1,21 +1,21 @@
 ﻿{
-  "date": "2026-07-20",
+  "date": "2026-07-21",
   "session_number": 1,
   "questions": [
     {
       "id": 1,
       "type": "grammar",
       "knowledge_point": "present_perfect_vs_past_simple",
-      "difficulty": 2,
-      "stem": "—______ you ______ your homework yet? —Yes, I ______ it an hour ago.",
+      "difficulty": 1,
+      "stem": "—______ you ______ your lunch yet?\n—Yes. I ______ it just now.",
       "options": [
-        "A. Did; finish; finished",
-        "B. Have; finished; finished",
-        "C. Have; finished; have finished",
-        "D. Did; finish; have finished"
+        "A. Did; have; had",
+        "B. Have; had; had",
+        "C. Have; had; have",
+        "D. Did; have; have had"
       ],
       "correct_answer": "B",
-      "explanation": "解析：第一空根据关键词yet（常用于现在完成时疑问句和否定句）可知用现在完成时Have...finished；第二空根据ago（一般过去时标志词）可知用finished。A项第一空错误，yet不与一般过去时连用；C项第二空错误，ago提示用过去时而非完成时；D项两空均错误。",
+      "explanation": "第一空：问句中有yet（已经），这是现在完成时的标志性时间状语，结构为Have/Has+过去分词，主语是you，用Have；第二空：have的过去分词是had；第三空：答句中有just now（刚才），这是一般过去时的标志，所以用had。口诀：yet现完，just now过去。",
       "label": "语法题"
     },
     {
@@ -23,31 +23,31 @@
       "type": "grammar",
       "knowledge_point": "relative_clause_who_which",
       "difficulty": 2,
-      "stem": "The boy ______ is standing under the tree is my classmate.",
+      "stem": "The book ______ is on the desk was written by Lu Xun.",
       "options": [
         "A. who",
         "B. which",
         "C. whom",
-        "D. whose"
+        "D. where"
       ],
-      "correct_answer": "A",
-      "explanation": "解析：定语从句先行词the boy指人，排除B项which（指物）；从句中缺少主语，应用主格who。C项whom是宾格，在从句中作宾语时使用；D项whose表示'……的'，在从句中作定语。口诀：先行词指人作主语，who来引导莫犹豫。",
+      "correct_answer": "B",
+      "explanation": "本题考查定语从句关系词的选择。先行词是The book（书），指物，在从句中作主语，因此用which或that。who/whom指人，where指地点。技巧：先行词是物选which/that，是人选who/whom，地点选where。",
       "label": "语法题"
     },
     {
       "id": 3,
       "type": "grammar",
       "knowledge_point": "passive_voice",
-      "difficulty": 1,
-      "stem": "These books ______ to the library tomorrow.",
+      "difficulty": 2,
+      "stem": "The old building ______ down last year to make room for a new school.",
       "options": [
-        "A. will return",
-        "B. will be returned",
-        "C. are returning",
-        "D. returned"
+        "A. took",
+        "B. takes",
+        "C. was taken",
+        "D. is taken"
       ],
-      "correct_answer": "B",
-      "explanation": "解析：tomorrow提示用一般将来时；主语these books是动词return的承受者，应用被动语态。一般将来时被动语态结构为will be+过去分词。A项是主动语态；C项是现在进行时主动；D项是一般过去时。",
+      "correct_answer": "C",
+      "explanation": "本题考查被动语态。主语The old building（旧楼）是动作take down（拆除）的承受者，所以用被动语态；时间状语last year（去年）表明用一般过去时，因此结构为was/were+过去分词，主语是单数，用was taken。A、B是主动语态，D是一般现在时被动，时态不符。",
       "label": "语法题"
     },
     {
@@ -55,31 +55,31 @@
       "type": "grammar",
       "knowledge_point": "present_perfect_vs_past_simple",
       "difficulty": 3,
-      "stem": "My father ______ the club for five years.",
+      "stem": "—How long have you ______ here?\n—Since 2019. But I ______ in Beijing for three years before I came here.",
       "options": [
-        "A. has joined",
-        "B. has been in",
-        "C. joined",
-        "D. joins"
+        "A. been; worked",
+        "B. been; have worked",
+        "C. worked; worked",
+        "D. worked; have worked"
       ],
-      "correct_answer": "B",
-      "explanation": "解析：for five years是时间段，要求谓语动词用延续性动词。join是短暂性动词，不能与时间段连用，需转换为be in或be a member of。A项has joined错误，短暂动词不能接时间段；C项joined不能与for five years连用；D项一般现在时表示习惯，与语境不符。",
+      "correct_answer": "A",
+      "explanation": "第一空：how long（多久）询问持续时间，与since/for连用，用现在完成时，have been here表示\"待在这里\"；第二空：before I came here（在我来这儿之前）是过去的过去，但此处描述的是过去的事实（在北京工作），用一般过去时worked即可，不需要用过去完成时。B选项第二空时态错误，C、D第一空不能用worked（work是短暂动词，不能与how long连用表示持续）。",
       "label": "语法题"
     },
     {
       "id": 5,
       "type": "vocabulary",
-      "knowledge_point": "word_meaning",
+      "knowledge_point": "phrasal_verbs",
       "difficulty": 1,
-      "stem": "It's ______ to eat too much junk food. It's bad for our health.",
+      "stem": "We should _______ our best to protect the environment.",
       "options": [
-        "A. healthy",
-        "B. unhealthy",
-        "C. health",
-        "D. healthily"
+        "A. try",
+        "B. make",
+        "C. do",
+        "D. take"
       ],
-      "correct_answer": "B",
-      "explanation": "解析：be动词后接形容词作表语，排除C（名词）和D（副词）；根据后句'对身体有害'可知选unhealthy（不健康的）。A项healthy（健康的）与句意相反。",
+      "correct_answer": "A",
+      "explanation": "本题考查固定搭配。try one's best是固定短语，意为\"尽某人最大努力\"。其他选项：make制作，do做，take拿，都不能与one's best构成此含义的固定搭配。",
       "label": "词汇题"
     },
     {
@@ -87,103 +87,103 @@
       "type": "vocabulary",
       "knowledge_point": "prefix_suffix",
       "difficulty": 2,
-      "stem": "The word 'impossible' means 'not ______'.",
+      "stem": "If you add \"un-\" to the word \"happy\", you get a word with the ______ meaning.",
       "options": [
-        "A. polite",
-        "B. possible",
-        "C. patient",
-        "D. perfect"
+        "A. same",
+        "B. opposite",
+        "C. similar",
+        "D. special"
       ],
       "correct_answer": "B",
-      "explanation": "解析：im-是否定前缀，加在possible（可能的）前构成impossible（不可能的）。A项polite（礼貌的）否定形式是impolite；C项patient（耐心的）否定形式是impatient；D项perfect（完美的）否定形式是imperfect。",
+      "explanation": "本题考查构词法。前缀un-表示\"不、无、相反\"，如happy（开心的）→unhappy（不开心的），因此是相反的意思（opposite）。same相同的，similar相似的，special特别的，都不符合。",
       "label": "词汇题"
     },
     {
       "id": 7,
       "type": "vocabulary",
-      "knowledge_point": "phrasal_verbs",
+      "knowledge_point": "word_guessing_context",
       "difficulty": 2,
-      "stem": "We need to ______ a solution to the pollution problem.",
+      "stem": "The weather was terrible — it rained heavily and the wind blew strongly. It was really _______ outside.",
       "options": [
-        "A. come up with",
-        "B. come out",
-        "C. come on",
-        "D. come true"
+        "A. sunny",
+        "B. awful",
+        "C. pleasant",
+        "D. calm"
       ],
-      "correct_answer": "A",
-      "explanation": "解析：come up with意为'提出，想出（主意、方案）'；come out意为'出版，发行，开花'；come on意为'加油，快点'；come true意为'实现'。根据宾语a solution（解决方案）可知选A。",
+      "correct_answer": "B",
+      "explanation": "本题考查通过上下文猜测词义。根据前文terrible（糟糕的）、rained heavily（下大雨）、blew strongly（刮大风）这些负面描述，可以推断出天气很糟糕。awful意为\"糟糕的、可怕的\"，符合语境。sunny晴朗的，pleasant愉快的，calm平静的，都与前文描述矛盾。",
       "label": "词汇题"
     },
     {
       "id": 8,
       "type": "cloze",
       "knowledge_point": "cloze_general",
-      "difficulty": 1,
+      "difficulty": 2,
       "group": "cloze_1",
-      "group_passage": "Our school started a green program last month. The program aims to help students understand the importance of protecting the environment. Every class was asked to collect recyclable materials like plastic bottles and waste paper.\n\nAt first, many students thought it was (8)______ to carry the heavy bags to the collection point. However, after learning that these materials could be (9)______ into new products, they became more interested. \"It's amazing to see how waste can be turned into something useful,\" said Li Ming, a student from Class 3.\n\nThe school also set up a small garden where students could grow vegetables. This activity not only teaches students about nature but also helps them relax from their busy (10)______. \"I feel proud when I see the plants growing,\" said one student.\n\nSo far, the program has been very (11)______. The amount of waste produced by the school has dropped by 30%. The headmaster said they would (12)______ the program next semester because of its great success.",
+      "group_passage": "Last month, our school started an environmental project called \"Green Campus\". All students were (8)______ to take part in it. The goal was to make our school cleaner and more beautiful.\n\nFirst, we (9)______ into small groups. Each group had different tasks. Some students were responsible for collecting recyclable waste like paper and plastic bottles. Others (10)______ care of the school garden by watering plants and removing weeds.\n\nDuring the project, I learned a lot about waste sorting. I never knew that an old T-shirt could be (11)______ into a shopping bag before. This experience made me realize that everyone can do something to protect our planet. Small actions can make a big (12)______.\n\nThe project not only improved our school environment but also taught us the importance of teamwork. We felt proud of what we had achieved together.",
       "stem": "(8)______",
       "options": [
-        "A. easy",
-        "B. difficult",
-        "C. interesting",
-        "D. necessary"
+        "A. asked",
+        "B. encouraged",
+        "C. forced",
+        "D. warned"
       ],
       "correct_answer": "B",
-      "explanation": "解析：根据上下文，刚开始学生觉得把沉重的袋子搬到收集点很'困难'（difficult）。后文的However表示转折，说明后来态度改变。A项easy（容易的）与后文态度转变逻辑不符；C项interesting（有趣的）与at first的语境不符；D项necessary（必要的）不符合语境。",
+      "explanation": "根据上下文，学校启动环保项目，应该是\"鼓励\"学生参加。encouraged（鼓励）符合语境。asked要求，语气较平淡；forced强迫，语气太重且负面；warned警告，不符合语境。",
       "label": "完形填空"
     },
     {
       "id": 9,
       "type": "cloze",
-      "knowledge_point": "passive_voice",
-      "difficulty": 2,
+      "knowledge_point": "cloze_general",
+      "difficulty": 1,
       "group": "cloze_1",
-      "group_passage": "Our school started a green program last month. The program aims to help students understand the importance of protecting the environment. Every class was asked to collect recyclable materials like plastic bottles and waste paper.\n\nAt first, many students thought it was (8)______ to carry the heavy bags to the collection point. However, after learning that these materials could be (9)______ into new products, they became more interested. \"It's amazing to see how waste can be turned into something useful,\" said Li Ming, a student from Class 3.\n\nThe school also set up a small garden where students could grow vegetables. This activity not only teaches students about nature but also helps them relax from their busy (10)______. \"I feel proud when I see the plants growing,\" said one student.\n\nSo far, the program has been very (11)______. The amount of waste produced by the school has dropped by 30%. The headmaster said they would (12)______ the program next semester because of its great success.",
+      "group_passage": "Last month, our school started an environmental project called \"Green Campus\". All students were (8)______ to take part in it. The goal was to make our school cleaner and more beautiful.\n\nFirst, we (9)______ into small groups. Each group had different tasks. Some students were responsible for collecting recyclable waste like paper and plastic bottles. Others (10)______ care of the school garden by watering plants and removing weeds.\n\nDuring the project, I learned a lot about waste sorting. I never knew that an old T-shirt could be (11)______ into a shopping bag before. This experience made me realize that everyone can do something to protect our planet. Small actions can make a big (12)______.\n\nThe project not only improved our school environment but also taught us the importance of teamwork. We felt proud of what we had achieved together.",
       "stem": "(9)______",
       "options": [
-        "A. made",
-        "B. divided",
-        "C. turned",
-        "D. cut"
+        "A. divided",
+        "B. cut",
+        "C. broke",
+        "D. fell"
       ],
-      "correct_answer": "C",
-      "explanation": "解析：turn...into...是固定搭配，意为'把……变成……'，被动形式为be turned into。后文也出现turned into的原句复现。A项made需与into搭配make into（把……制成），但通常指彻底改变性质；B项divided into（被分成）；D项cut into（被切成）。",
+      "correct_answer": "A",
+      "explanation": "divide into是固定搭配，意为\"分成\"。这里指我们被分成小组。cut into切碎，broke into闯入，fell into落入，都不符合语境。",
       "label": "完形填空"
     },
     {
       "id": 10,
       "type": "cloze",
       "knowledge_point": "cloze_general",
-      "difficulty": 2,
+      "difficulty": 1,
       "group": "cloze_1",
-      "group_passage": "Our school started a green program last month. The program aims to help students understand the importance of protecting the environment. Every class was asked to collect recyclable materials like plastic bottles and waste paper.\n\nAt first, many students thought it was (8)______ to carry the heavy bags to the collection point. However, after learning that these materials could be (9)______ into new products, they became more interested. \"It's amazing to see how waste can be turned into something useful,\" said Li Ming, a student from Class 3.\n\nThe school also set up a small garden where students could grow vegetables. This activity not only teaches students about nature but also helps them relax from their busy (10)______. \"I feel proud when I see the plants growing,\" said one student.\n\nSo far, the program has been very (11)______. The amount of waste produced by the school has dropped by 30%. The headmaster said they would (12)______ the program next semester because of its great success.",
+      "group_passage": "Last month, our school started an environmental project called \"Green Campus\". All students were (8)______ to take part in it. The goal was to make our school cleaner and more beautiful.\n\nFirst, we (9)______ into small groups. Each group had different tasks. Some students were responsible for collecting recyclable waste like paper and plastic bottles. Others (10)______ care of the school garden by watering plants and removing weeds.\n\nDuring the project, I learned a lot about waste sorting. I never knew that an old T-shirt could be (11)______ into a shopping bag before. This experience made me realize that everyone can do something to protect our planet. Small actions can make a big (12)______.\n\nThe project not only improved our school environment but also taught us the importance of teamwork. We felt proud of what we had achieved together.",
       "stem": "(10)______",
       "options": [
-        "A. study",
-        "B. schedule",
-        "C. homework",
-        "D. housework"
+        "A. made",
+        "B. gave",
+        "C. took",
+        "D. got"
       ],
-      "correct_answer": "B",
-      "explanation": "解析：schedule（日程安排，时间表）与busy搭配最恰当，指从繁忙的日程中放松。A项study通常不与busy直接搭配；C项homework虽然可以说busy homework，但不如schedule涵盖面广；D项housework（家务）与学校语境不符。",
+      "correct_answer": "C",
+      "explanation": "take care of是固定短语，意为\"照顾、照料\"。这里指其他学生照料学校花园。make制作，give给予，get得到，都不能与care of构成此含义的搭配。",
       "label": "完形填空"
     },
     {
       "id": 11,
       "type": "cloze",
       "knowledge_point": "cloze_general",
-      "difficulty": 1,
+      "difficulty": 2,
       "group": "cloze_1",
-      "group_passage": "Our school started a green program last month. The program aims to help students understand the importance of protecting the environment. Every class was asked to collect recyclable materials like plastic bottles and waste paper.\n\nAt first, many students thought it was (8)______ to carry the heavy bags to the collection point. However, after learning that these materials could be (9)______ into new products, they became more interested. \"It's amazing to see how waste can be turned into something useful,\" said Li Ming, a student from Class 3.\n\nThe school also set up a small garden where students could grow vegetables. This activity not only teaches students about nature but also helps them relax from their busy (10)______. \"I feel proud when I see the plants growing,\" said one student.\n\nSo far, the program has been very (11)______. The amount of waste produced by the school has dropped by 30%. The headmaster said they would (12)______ the program next semester because of its great success.",
+      "group_passage": "Last month, our school started an environmental project called \"Green Campus\". All students were (8)______ to take part in it. The goal was to make our school cleaner and more beautiful.\n\nFirst, we (9)______ into small groups. Each group had different tasks. Some students were responsible for collecting recyclable waste like paper and plastic bottles. Others (10)______ care of the school garden by watering plants and removing weeds.\n\nDuring the project, I learned a lot about waste sorting. I never knew that an old T-shirt could be (11)______ into a shopping bag before. This experience made me realize that everyone can do something to protect our planet. Small actions can make a big (12)______.\n\nThe project not only improved our school environment but also taught us the importance of teamwork. We felt proud of what we had achieved together.",
       "stem": "(11)______",
       "options": [
-        "A. difficult",
-        "B. different",
-        "C. successful",
-        "D. harmful"
+        "A. divided",
+        "B. turned",
+        "C. broken",
+        "D. cut"
       ],
-      "correct_answer": "C",
-      "explanation": "解析：根据后文'垃圾量减少30%'和'because of its great success'可知项目很'成功'（successful）。A项difficult（困难的）与后文积极描述矛盾；B项different（不同的）不符合语境；D项harmful（有害的）与文意相反。",
+      "correct_answer": "B",
+      "explanation": "turn into是固定短语，意为\"变成\"。这里指旧T恤可以被变成购物袋，符合废物利用的语境。divide into分成，break into闯入，cut into切碎，都不符合句意。",
       "label": "完形填空"
     },
     {
@@ -192,16 +192,16 @@
       "knowledge_point": "cloze_general",
       "difficulty": 2,
       "group": "cloze_1",
-      "group_passage": "Our school started a green program last month. The program aims to help students understand the importance of protecting the environment. Every class was asked to collect recyclable materials like plastic bottles and waste paper.\n\nAt first, many students thought it was (8)______ to carry the heavy bags to the collection point. However, after learning that these materials could be (9)______ into new products, they became more interested. \"It's amazing to see how waste can be turned into something useful,\" said Li Ming, a student from Class 3.\n\nThe school also set up a small garden where students could grow vegetables. This activity not only teaches students about nature but also helps them relax from their busy (10)______. \"I feel proud when I see the plants growing,\" said one student.\n\nSo far, the program has been very (11)______. The amount of waste produced by the school has dropped by 30%. The headmaster said they would (12)______ the program next semester because of its great success.",
+      "group_passage": "Last month, our school started an environmental project called \"Green Campus\". All students were (8)______ to take part in it. The goal was to make our school cleaner and more beautiful.\n\nFirst, we (9)______ into small groups. Each group had different tasks. Some students were responsible for collecting recyclable waste like paper and plastic bottles. Others (10)______ care of the school garden by watering plants and removing weeds.\n\nDuring the project, I learned a lot about waste sorting. I never knew that an old T-shirt could be (11)______ into a shopping bag before. This experience made me realize that everyone can do something to protect our planet. Small actions can make a big (12)______.\n\nThe project not only improved our school environment but also taught us the importance of teamwork. We felt proud of what we had achieved together.",
       "stem": "(12)______",
       "options": [
-        "A. stop",
-        "B. continue",
-        "C. change",
-        "D. forget"
+        "A. progress",
+        "B. decision",
+        "C. difference",
+        "D. promise"
       ],
-      "correct_answer": "B",
-      "explanation": "解析：根据'because of its great success'（因为很成功）可知下学期会'继续'（continue）这个项目。A项stop（停止）与文意相反；C项change（改变）没有依据；D项forget（忘记）不符合逻辑。",
+      "correct_answer": "C",
+      "explanation": "make a difference是固定搭配，意为\"有影响、起作用\"。这里指小行动可以产生大影响，是环保主题常用表达。make progress取得进步，make a decision做决定，make a promise许诺，都不符合语境。",
       "label": "完形填空"
     },
     {
@@ -210,53 +210,53 @@
       "knowledge_point": "detail",
       "difficulty": 2,
       "group": "reading_1",
-      "group_passage": "Mobile payment has changed the way we live in China. With just a smartphone, people can buy almost everything without carrying cash or cards.\n\nThe technology behind mobile payment is called QR code (二维码). When you want to pay, you simply open your payment app and let the seller scan your code, or you scan the seller's code. The money moves from your account to the seller's in seconds.\n\nHowever, this convenience also brings concerns. Some people worry about the safety of their personal information. If someone steals your phone, they might access your money. To solve this problem, payment companies have developed fingerprint and face recognition technologies. These features ensure that only the owner can use the payment app.\n\nExperts believe that mobile payment will become even more popular in the future. It not only saves time but also reduces the cost of handling cash for businesses. As one expert said, \"We are moving towards a cashless society, and this is just the beginning.\"",
-      "stem": "How does mobile payment work according to the passage?",
+      "group_passage": "Do you often feel tired after using your smartphone for a long time? Many people don't realize that the \"blue light\" from screens can harm our eyes and affect our sleep.\n\nScientists have found that blue light can stop our bodies from producing melatonin (褪黑素), a chemical that helps us sleep. When we look at screens before bedtime, we may find it hard to fall asleep. This is why many doctors suggest avoiding screens at least one hour before sleep.\n\nHowever, there are ways to protect ourselves. Many devices now have a \"night mode\" that reduces blue light. You can also try the 20-20-20 rule: every 20 minutes, look at something 20 feet away for 20 seconds. This gives your eyes a rest.\n\nSome apps can even track how much time you spend on your phone and remind you to take breaks. Remember, technology is helpful, but we need to use it wisely to stay healthy.",
+      "stem": "According to the passage, what can blue light do?",
       "options": [
-        "A. By using cash.",
-        "B. By scanning QR codes.",
-        "C. By calling the bank.",
-        "D. By sending text messages."
+        "A. Improve our sleep quality.",
+        "B. Help produce more melatonin.",
+        "C. Stop our bodies from producing melatonin.",
+        "D. Make our eyes see better in the dark."
       ],
-      "correct_answer": "B",
-      "explanation": "解析：细节理解题。根据第二段'TThe technology behind mobile payment is called QR code'以及'let the seller scan your code, or you scan the seller's code'可知，移动支付通过扫描二维码完成。A项使用现金与文中without carrying cash矛盾；C项打电话给银行、D项发短信均未提及。",
+      "correct_answer": "C",
+      "explanation": "细节理解题。根据第二段第一句\"Scientists have found that blue light can stop our bodies from producing melatonin\"可知，蓝光会阻止身体产生褪黑素。A选项改善睡眠质量与原文相反；B选项帮助产生更多褪黑素与原文stop相反；D选项让眼睛在黑暗中看得更清楚文中未提及。",
       "label": "阅读-细节理解"
     },
     {
       "id": 14,
       "type": "reading",
-      "knowledge_point": "word_guessing",
-      "difficulty": 2,
+      "knowledge_point": "inference",
+      "difficulty": 3,
       "group": "reading_1",
-      "group_passage": "Mobile payment has changed the way we live in China. With just a smartphone, people can buy almost everything without carrying cash or cards.\n\nThe technology behind mobile payment is called QR code (二维码). When you want to pay, you simply open your payment app and let the seller scan your code, or you scan the seller's code. The money moves from your account to the seller's in seconds.\n\nHowever, this convenience also brings concerns. Some people worry about the safety of their personal information. If someone steals your phone, they might access your money. To solve this problem, payment companies have developed fingerprint and face recognition technologies. These features ensure that only the owner can use the payment app.\n\nExperts believe that mobile payment will become even more popular in the future. It not only saves time but also reduces the cost of handling cash for businesses. As one expert said, \"We are moving towards a cashless society, and this is just the beginning.\"",
-      "stem": "What does the word 'concerns' in Paragraph 3 probably mean?",
+      "group_passage": "Do you often feel tired after using your smartphone for a long time? Many people don't realize that the \"blue light\" from screens can harm our eyes and affect our sleep.\n\nScientists have found that blue light can stop our bodies from producing melatonin (褪黑素), a chemical that helps us sleep. When we look at screens before bedtime, we may find it hard to fall asleep. This is why many doctors suggest avoiding screens at least one hour before sleep.\n\nHowever, there are ways to protect ourselves. Many devices now have a \"night mode\" that reduces blue light. You can also try the 20-20-20 rule: every 20 minutes, look at something 20 feet away for 20 seconds. This gives your eyes a rest.\n\nSome apps can even track how much time you spend on your phone and remind you to take breaks. Remember, technology is helpful, but we need to use it wisely to stay healthy.",
+      "stem": "What does the writer suggest readers do?",
       "options": [
-        "A. Worries.",
-        "B. Advantages.",
-        "C. Instructions.",
-        "D. Results."
+        "A. Stop using all electronic devices immediately.",
+        "B. Use night mode and take regular breaks.",
+        "C. Take medicine to help sleep better.",
+        "D. Only use phones during daytime."
       ],
-      "correct_answer": "A",
-      "explanation": "解析：词义猜测题。根据后文'Some people worry about the safety...'（有些人担心安全……）可知concerns与worries同义，意为'担忧'。B项advantages（优点）、C项instructions（说明）、D项results（结果）均不符合语境。",
-      "label": "阅读-词义猜测"
+      "correct_answer": "B",
+      "explanation": "推理判断题。根据第三段，作者建议使用night mode（夜间模式）和20-20-20 rule（每20分钟休息20秒看20英尺外），即定期休息。A选项立即停止所有电子设备过于绝对；C选项吃药文中未提及；D选项只在白天使用手机过于绝对且文中未提及。",
+      "label": "阅读-推理判断"
     },
     {
       "id": 15,
       "type": "reading",
-      "knowledge_point": "inference",
-      "difficulty": 3,
+      "knowledge_point": "word_guessing",
+      "difficulty": 2,
       "group": "reading_1",
-      "group_passage": "Mobile payment has changed the way we live in China. With just a smartphone, people can buy almost everything without carrying cash or cards.\n\nThe technology behind mobile payment is called QR code (二维码). When you want to pay, you simply open your payment app and let the seller scan your code, or you scan the seller's code. The money moves from your account to the seller's in seconds.\n\nHowever, this convenience also brings concerns. Some people worry about the safety of their personal information. If someone steals your phone, they might access your money. To solve this problem, payment companies have developed fingerprint and face recognition technologies. These features ensure that only the owner can use the payment app.\n\nExperts believe that mobile payment will become even more popular in the future. It not only saves time but also reduces the cost of handling cash for businesses. As one expert said, \"We are moving towards a cashless society, and this is just the beginning.\"",
-      "stem": "What can we infer from the passage?",
+      "group_passage": "Do you often feel tired after using your smartphone for a long time? Many people don't realize that the \"blue light\" from screens can harm our eyes and affect our sleep.\n\nScientists have found that blue light can stop our bodies from producing melatonin (褪黑素), a chemical that helps us sleep. When we look at screens before bedtime, we may find it hard to fall asleep. This is why many doctors suggest avoiding screens at least one hour before sleep.\n\nHowever, there are ways to protect ourselves. Many devices now have a \"night mode\" that reduces blue light. You can also try the 20-20-20 rule: every 20 minutes, look at something 20 feet away for 20 seconds. This gives your eyes a rest.\n\nSome apps can even track how much time you spend on your phone and remind you to take breaks. Remember, technology is helpful, but we need to use it wisely to stay healthy.",
+      "stem": "The underlined word \"track\" in Paragraph 4 probably means _______.",
       "options": [
-        "A. Mobile payment is only popular in big cities.",
-        "B. People don't like using cash anymore.",
-        "C. Fingerprint technology makes mobile payment safer.",
-        "D. QR codes were invented by payment companies."
+        "A. 减少",
+        "B. 追踪",
+        "C. 浪费",
+        "D. 增加"
       ],
-      "correct_answer": "C",
-      "explanation": "解析：推理判断题。根据第三段'TTo solve this problem, payment companies have developed fingerprint and face recognition technologies. These features ensure that only the owner can use the payment app'可推断，指纹技术使移动支付更安全。A项only popular in big cities（只在大城市流行）文中未提；B项don't like using cash（不喜欢用现金）过于绝对；D项QR codes were invented by payment companies（二维码由支付公司发明）文中未提，且与事实不符。",
-      "label": "阅读-推理判断"
+      "correct_answer": "B",
+      "explanation": "词义猜测题。根据上下文，app可以track你在手机上花费的时间并提醒你休息，因此track意为\"追踪、记录\"。reduce减少，waste浪费，increase增加，都不符合语境。",
+      "label": "阅读-词义猜测"
     },
     {
       "id": 16,
@@ -264,16 +264,16 @@
       "knowledge_point": "main_idea",
       "difficulty": 3,
       "group": "reading_1",
-      "group_passage": "Mobile payment has changed the way we live in China. With just a smartphone, people can buy almost everything without carrying cash or cards.\n\nThe technology behind mobile payment is called QR code (二维码). When you want to pay, you simply open your payment app and let the seller scan your code, or you scan the seller's code. The money moves from your account to the seller's in seconds.\n\nHowever, this convenience also brings concerns. Some people worry about the safety of their personal information. If someone steals your phone, they might access your money. To solve this problem, payment companies have developed fingerprint and face recognition technologies. These features ensure that only the owner can use the payment app.\n\nExperts believe that mobile payment will become even more popular in the future. It not only saves time but also reduces the cost of handling cash for businesses. As one expert said, \"We are moving towards a cashless society, and this is just the beginning.\"",
+      "group_passage": "Do you often feel tired after using your smartphone for a long time? Many people don't realize that the \"blue light\" from screens can harm our eyes and affect our sleep.\n\nScientists have found that blue light can stop our bodies from producing melatonin (褪黑素), a chemical that helps us sleep. When we look at screens before bedtime, we may find it hard to fall asleep. This is why many doctors suggest avoiding screens at least one hour before sleep.\n\nHowever, there are ways to protect ourselves. Many devices now have a \"night mode\" that reduces blue light. You can also try the 20-20-20 rule: every 20 minutes, look at something 20 feet away for 20 seconds. This gives your eyes a rest.\n\nSome apps can even track how much time you spend on your phone and remind you to take breaks. Remember, technology is helpful, but we need to use it wisely to stay healthy.",
       "stem": "What is the best title for the passage?",
       "options": [
-        "A. The History of Money",
-        "B. How to Use Smartphones",
-        "C. Mobile Payment: Changing Our Lives",
-        "D. The Dangers of Technology"
+        "A. The History of Smartphones",
+        "B. How to Make Better Use of Blue Light",
+        "C. The Dangers of Blue Light and How to Protect Ourselves",
+        "D. Why We Should Stop Using Technology"
       ],
       "correct_answer": "C",
-      "explanation": "解析：主旨大意题。文章首句'MMobile payment has changed the way we live'点明主题，全文围绕移动支付如何改变生活、其工作原理、安全问题及未来发展展开。A项货币历史、B项如何使用手机、D项科技的危险均偏离主题。",
+      "explanation": "主旨大意题。文章第一段介绍蓝光危害，第二段讲影响睡眠，第三、四段讲保护措施，因此最佳标题是\"蓝光的危害及如何保护自己\"。A选项智能手机的历史只在开头提及；B选项如何更好利用蓝光与文意相反；D选项为什么应该停止科技过于绝对，文中说科技有帮助但需要明智使用。",
       "label": "阅读-主旨大意"
     },
     {
@@ -282,17 +282,17 @@
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
       "group": "fill_1",
-      "group_passage": "Many middle school students feel stressed because of heavy schoolwork. (17)______ Here are some useful tips to help you achieve a balance between study and relaxation.\n\nFirst, make a proper plan for your time. (18)______ This way, you won't waste time deciding what to do next. Write down your tasks and finish them one by one.\n\nSecond, don't forget to exercise. Physical activity can help reduce stress and improve your concentration. (19)______ Even a 20-minute walk can make a big difference.\n\n(20)______ If you spend all your time studying, you will feel tired and bored. Taking breaks helps your brain work better.",
+      "group_passage": "Many students find it difficult to balance study and rest. They often feel stressed when they have too much homework. (17)______ Here are some useful tips.\n\nFirst, make a plan. Write down what you need to do each day. (18)______ This way, you won't forget important tasks.\n\nSecond, take regular breaks. Your brain needs rest to work well. (19)______ You can listen to music or do some exercise.\n\nFinally, don't compare yourself with others too much. Everyone has their own pace. (20)______ Just do your best and stay positive.",
       "stem": "(17)______",
       "options": [
-        "A. However, it's important to balance study and rest.",
-        "B. For example, you can play basketball or go jogging after school.",
-        "C. In addition, remember to take short breaks during long study periods.",
-        "D. Then, you should focus on your homework without distractions.",
-        "E. Know exactly what you need to do each hour."
+        "A. However, with proper time management, you can handle it well.",
+        "B. For example, study for 45 minutes and then rest for 10 minutes.",
+        "C. In addition, checking off completed tasks gives you a sense of achievement.",
+        "D. As a result, you will feel more relaxed and perform better in school.",
+        "E. Remember that progress is more important than perfection."
       ],
       "correct_answer": "A",
-      "explanation": "解析：前文提到学业压力，后文给出平衡学习与放松的建议，此处需要转折过渡。A项'然而，平衡学习与休息很重要'承上启下。B项举例运动；C项补充休息；D项讲专注；E项讲具体计划，均不符合此处逻辑。",
+      "explanation": "前句说学生感到压力大，后句说\"这里有一些有用的建议\"，因此此处需要转折过渡，表示\"然而，通过适当的时间管理，你可以处理好\"。However表转折，承接前文的困难并引出下文的解决方案。",
       "label": "短文填空"
     },
     {
@@ -301,17 +301,17 @@
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
       "group": "fill_1",
-      "group_passage": "Many middle school students feel stressed because of heavy schoolwork. (17)______ Here are some useful tips to help you achieve a balance between study and relaxation.\n\nFirst, make a proper plan for your time. (18)______ This way, you won't waste time deciding what to do next. Write down your tasks and finish them one by one.\n\nSecond, don't forget to exercise. Physical activity can help reduce stress and improve your concentration. (19)______ Even a 20-minute walk can make a big difference.\n\n(20)______ If you spend all your time studying, you will feel tired and bored. Taking breaks helps your brain work better.",
+      "group_passage": "Many students find it difficult to balance study and rest. They often feel stressed when they have too much homework. (17)______ Here are some useful tips.\n\nFirst, make a plan. Write down what you need to do each day. (18)______ This way, you won't forget important tasks.\n\nSecond, take regular breaks. Your brain needs rest to work well. (19)______ You can listen to music or do some exercise.\n\nFinally, don't compare yourself with others too much. Everyone has their own pace. (20)______ Just do your best and stay positive.",
       "stem": "(18)______",
       "options": [
-        "A. However, it's important to balance study and rest.",
-        "B. For example, you can play basketball or go jogging after school.",
-        "C. In addition, remember to take short breaks during long study periods.",
-        "D. Then, you should focus on your homework without distractions.",
-        "E. Know exactly what you need to do each hour."
+        "A. However, with proper time management, you can handle it well.",
+        "B. For example, study for 45 minutes and then rest for 10 minutes.",
+        "C. In addition, checking off completed tasks gives you a sense of achievement.",
+        "D. As a result, you will feel more relaxed and perform better in school.",
+        "E. Remember that progress is more important than perfection."
       ],
-      "correct_answer": "E",
-      "explanation": "解析：前句说'制定合适的时间计划'，E项'清楚知道每小时要做什么'是对计划的具体解释，与后文'这样就不会浪费时间决定下一步做什么'逻辑连贯。A项是总起句；B项讲运动；C项讲休息；D项讲专注，均不符。",
+      "correct_answer": "C",
+      "explanation": "前句说\"写下每天需要做的事\"，此处应进一步说明这样做的好处，In addition（此外）表示递进，\"核对完成的任务会给你成就感\"符合制定计划后的逻辑。B是举例，但此处不需要举例；D是结果，但逻辑上不如C紧密。",
       "label": "短文填空"
     },
     {
@@ -320,17 +320,17 @@
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
       "group": "fill_1",
-      "group_passage": "Many middle school students feel stressed because of heavy schoolwork. (17)______ Here are some useful tips to help you achieve a balance between study and relaxation.\n\nFirst, make a proper plan for your time. (18)______ This way, you won't waste time deciding what to do next. Write down your tasks and finish them one by one.\n\nSecond, don't forget to exercise. Physical activity can help reduce stress and improve your concentration. (19)______ Even a 20-minute walk can make a big difference.\n\n(20)______ If you spend all your time studying, you will feel tired and bored. Taking breaks helps your brain work better.",
+      "group_passage": "Many students find it difficult to balance study and rest. They often feel stressed when they have too much homework. (17)______ Here are some useful tips.\n\nFirst, make a plan. Write down what you need to do each day. (18)______ This way, you won't forget important tasks.\n\nSecond, take regular breaks. Your brain needs rest to work well. (19)______ You can listen to music or do some exercise.\n\nFinally, don't compare yourself with others too much. Everyone has their own pace. (20)______ Just do your best and stay positive.",
       "stem": "(19)______",
       "options": [
-        "A. However, it's important to balance study and rest.",
-        "B. For example, you can play basketball or go jogging after school.",
-        "C. In addition, remember to take short breaks during long study periods.",
-        "D. Then, you should focus on your homework without distractions.",
-        "E. Know exactly what you need to do each hour."
+        "A. However, with proper time management, you can handle it well.",
+        "B. For example, study for 45 minutes and then rest for 10 minutes.",
+        "C. In addition, checking off completed tasks gives you a sense of achievement.",
+        "D. As a result, you will feel more relaxed and perform better in school.",
+        "E. Remember that progress is more important than perfection."
       ],
       "correct_answer": "B",
-      "explanation": "解析：前句讲'体育活动有助于减压'，后句讲'即使20分钟步行也有很大作用'，B项'例如，你可以放学后打篮球或慢跑'举例说明运动方式，承上启下。A项是总起；C项讲休息；D项讲专注；E项讲计划，均不符。",
+      "explanation": "前句说\"定期休息\"，此处需要举例说明如何休息，For example（例如）引出具休做法\"学习45分钟休息10分钟\"，后句\"你可以听音乐或做运动\"也是休息的方式，与B选项并列。",
       "label": "短文填空"
     },
     {
@@ -339,17 +339,17 @@
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
       "group": "fill_1",
-      "group_passage": "Many middle school students feel stressed because of heavy schoolwork. (17)______ Here are some useful tips to help you achieve a balance between study and relaxation.\n\nFirst, make a proper plan for your time. (18)______ This way, you won't waste time deciding what to do next. Write down your tasks and finish them one by one.\n\nSecond, don't forget to exercise. Physical activity can help reduce stress and improve your concentration. (19)______ Even a 20-minute walk can make a big difference.\n\n(20)______ If you spend all your time studying, you will feel tired and bored. Taking breaks helps your brain work better.",
+      "group_passage": "Many students find it difficult to balance study and rest. They often feel stressed when they have too much homework. (17)______ Here are some useful tips.\n\nFirst, make a plan. Write down what you need to do each day. (18)______ This way, you won't forget important tasks.\n\nSecond, take regular breaks. Your brain needs rest to work well. (19)______ You can listen to music or do some exercise.\n\nFinally, don't compare yourself with others too much. Everyone has their own pace. (20)______ Just do your best and stay positive.",
       "stem": "(20)______",
       "options": [
-        "A. However, it's important to balance study and rest.",
-        "B. For example, you can play basketball or go jogging after school.",
-        "C. In addition, remember to take short breaks during long study periods.",
-        "D. Then, you should focus on your homework without distractions.",
-        "E. Know exactly what you need to do each hour."
+        "A. However, with proper time management, you can handle it well.",
+        "B. For example, study for 45 minutes and then rest for 10 minutes.",
+        "C. In addition, checking off completed tasks gives you a sense of achievement.",
+        "D. As a result, you will feel more relaxed and perform better in school.",
+        "E. Remember that progress is more important than perfection."
       ],
-      "correct_answer": "C",
-      "explanation": "解析：后文讲'如果一直学习会感到疲惫，休息帮助大脑更好工作'，C项'此外，记得在长时间学习期间短暂休息'引出该话题。A项已用于17题；B项讲运动；D项讲专注；E项讲计划，均不符。",
+      "correct_answer": "E",
+      "explanation": "前句说\"不要和别人比较太多，每个人都有自己的节奏\"，此处应总结这个观点，\"记住进步比完美更重要\"符合语境，强调个人进步而非完美主义。Just do your best也呼应了progress的主题。",
       "label": "短文填空"
     }
   ]
