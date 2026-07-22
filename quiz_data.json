@@ -1,21 +1,21 @@
 ﻿{
-  "date": "2026-07-21",
+  "date": "2026-07-23",
   "session_number": 1,
   "questions": [
     {
       "id": 1,
       "type": "grammar",
       "knowledge_point": "present_perfect_vs_past_simple",
-      "difficulty": 1,
-      "stem": "—______ you ______ your lunch yet?\n—Yes. I ______ it just now.",
+      "difficulty": 2,
+      "stem": "I _______ the book last week, but I _______ it yet. I plan to finish it this weekend.",
       "options": [
-        "A. Did; have; had",
-        "B. Have; had; had",
-        "C. Have; had; have",
-        "D. Did; have; have had"
+        "A. bought; haven't read",
+        "B. have bought; didn't read",
+        "C. bought; didn't read",
+        "D. have bought; haven't read"
       ],
-      "correct_answer": "B",
-      "explanation": "第一空：问句中有yet（已经），这是现在完成时的标志性时间状语，结构为Have/Has+过去分词，主语是you，用Have；第二空：have的过去分词是had；第三空：答句中有just now（刚才），这是一般过去时的标志，所以用had。口诀：yet现完，just now过去。",
+      "correct_answer": "A",
+      "explanation": "【解析】这道题考查现在完成时与一般过去时的区别。第一空后有明确的时间状语\"last week\"（上周），表示过去某个特定时间发生的动作，用一般过去时\"bought\"；第二空后有\"yet\"（还，尚），这是现在完成时的标志词，常用于否定句和疑问句，表示从过去持续到现在的状态，故用\"haven't read\"。\n\n【错因分析】B选项混淆了时态对应的标志词；C选项第二空用一般过去时无法体现\"到现在为止还没读\"的含义；D选项第一空用现在完成时与\"last week\"矛盾。\n\n【解题技巧】口诀：\"过去动作有过去时间，用过去时；过去影响持续到现在，用完成时。yet/already/ever/never/since/for是完成时标志。\"",
       "label": "语法题"
     },
     {
@@ -23,63 +23,63 @@
       "type": "grammar",
       "knowledge_point": "relative_clause_who_which",
       "difficulty": 2,
-      "stem": "The book ______ is on the desk was written by Lu Xun.",
+      "stem": "The boy _______ is standing under the tree is my classmate. He won the first prize in the math competition.",
       "options": [
         "A. who",
         "B. which",
         "C. whom",
-        "D. where"
+        "D. whose"
       ],
-      "correct_answer": "B",
-      "explanation": "本题考查定语从句关系词的选择。先行词是The book（书），指物，在从句中作主语，因此用which或that。who/whom指人，where指地点。技巧：先行词是物选which/that，是人选who/whom，地点选where。",
+      "correct_answer": "A",
+      "explanation": "【解析】考查定语从句关系代词的选择。先行词是\"The boy\"（指人），且关系代词在从句中作主语（is standing），故用\"who\"。\n\n【错因分析】B选项\"which\"用于指物；C选项\"whom\"虽指人但只能在从句中作宾语；D选项\"whose\"表示\"...的\"，在从句中作定语，后需接名词。\n\n【解题技巧】定语从句选择关系词三步法：1. 找先行词（看是人还是物）；2. 分析从句成分（缺主语/宾语/定语/状语）；3. 人主who人宾whom，人物whose物which，that可代人可代物。",
       "label": "语法题"
     },
     {
       "id": 3,
       "type": "grammar",
       "knowledge_point": "passive_voice",
-      "difficulty": 2,
-      "stem": "The old building ______ down last year to make room for a new school.",
+      "difficulty": 1,
+      "stem": "The new library _______ by the government last year. It is now open to all students.",
       "options": [
-        "A. took",
-        "B. takes",
-        "C. was taken",
-        "D. is taken"
+        "A. builds",
+        "B. built",
+        "C. was built",
+        "D. is built"
       ],
       "correct_answer": "C",
-      "explanation": "本题考查被动语态。主语The old building（旧楼）是动作take down（拆除）的承受者，所以用被动语态；时间状语last year（去年）表明用一般过去时，因此结构为was/were+过去分词，主语是单数，用was taken。A、B是主动语态，D是一般现在时被动，时态不符。",
+      "explanation": "【解析】考查一般过去时的被动语态。主语\"The new library\"（图书馆）与动词\"build\"（建造）之间是被动关系，需用被动语态\"be + done\"。时间状语\"last year\"表明是过去时，且主语为单数，故用\"was built\"。\n\n【错因分析】A选项是主动语态一般现在时；B选项是主动语态一般过去时；D选项虽为被动语态但是一般现在时，与\"last year\"时间不符。\n\n【解题技巧】被动语态判断：1. 看主谓关系（物作主语通常被动）；2. 看时间状语确定时态；3. 结构：be动词随人称时态变化，后面跟过去分词。",
       "label": "语法题"
     },
     {
       "id": 4,
       "type": "grammar",
-      "knowledge_point": "present_perfect_vs_past_simple",
+      "knowledge_point": "modal_verbs",
       "difficulty": 3,
-      "stem": "—How long have you ______ here?\n—Since 2019. But I ______ in Beijing for three years before I came here.",
+      "stem": "—Whose notebook is this? There is no name on it.\n—It _______ be Lily's. Look, her student ID card is attached to the last page.",
       "options": [
-        "A. been; worked",
-        "B. been; have worked",
-        "C. worked; worked",
-        "D. worked; have worked"
+        "A. must",
+        "B. can't",
+        "C. might",
+        "D. mustn't"
       ],
       "correct_answer": "A",
-      "explanation": "第一空：how long（多久）询问持续时间，与since/for连用，用现在完成时，have been here表示\"待在这里\"；第二空：before I came here（在我来这儿之前）是过去的过去，但此处描述的是过去的事实（在北京工作），用一般过去时worked即可，不需要用过去完成时。B选项第二空时态错误，C、D第一空不能用worked（work是短暂动词，不能与how long连用表示持续）。",
+      "explanation": "【解析】考查情态动词表推测的用法。根据答句中的关键线索\"her student ID card is attached\"（她的学生证夹在里面），这是非常有力的证据，表示肯定推测，故用\"must be\"（一定是）。\n\n【错因分析】B选项\"can't\"表示否定推测\"不可能\"，与语境相反；C选项\"might\"表示不确定的推测\"可能\"，语气太弱，不符合\"有证据\"的语境；D选项\"mustn't\"表示\"禁止\"，不用于推测。\n\n【解题技巧】情态动词表推测强度：must（肯定，一定）> may/might（可能）> can't（不可能）。注意mustn't不是\"不一定\"，而是\"禁止\"。",
       "label": "语法题"
     },
     {
       "id": 5,
       "type": "vocabulary",
-      "knowledge_point": "phrasal_verbs",
+      "knowledge_point": "word_meaning",
       "difficulty": 1,
-      "stem": "We should _______ our best to protect the environment.",
+      "stem": "We should _______ the environment by saving water and reducing waste in our daily life.",
       "options": [
-        "A. try",
-        "B. make",
-        "C. do",
-        "D. take"
+        "A. protect",
+        "B. pollute",
+        "C. destroy",
+        "D. waste"
       ],
       "correct_answer": "A",
-      "explanation": "本题考查固定搭配。try one's best是固定短语，意为\"尽某人最大努力\"。其他选项：make制作，do做，take拿，都不能与one's best构成此含义的固定搭配。",
+      "explanation": "【解析】考查动词词义辨析及语境理解。根据句中\"by saving water and reducing waste\"（通过节约用水和减少浪费）可知，这是保护环境的积极行为，故选择\"protect\"（保护）。\n\n【错因分析】B选项\"pollute\"（污染）、C选项\"destroy\"（破坏）、D选项\"waste\"（浪费）均为负面词汇，与\"saving water\"的积极语境相矛盾。\n\n【解题技巧】做完形和词汇题时，注意上下文逻辑关系（转折、因果、并列），通过\"saving water\"和\"reducing waste\"这两个并列的积极行为，可推断出空格也需填积极词汇。",
       "label": "词汇题"
     },
     {
@@ -87,85 +87,85 @@
       "type": "vocabulary",
       "knowledge_point": "prefix_suffix",
       "difficulty": 2,
-      "stem": "If you add \"un-\" to the word \"happy\", you get a word with the ______ meaning.",
+      "stem": "Everyone felt _______ when they heard the good news about winning the school basketball game.",
       "options": [
-        "A. same",
-        "B. opposite",
-        "C. similar",
-        "D. special"
+        "A. happily",
+        "B. unhappy",
+        "C. excited",
+        "D. exciting"
       ],
-      "correct_answer": "B",
-      "explanation": "本题考查构词法。前缀un-表示\"不、无、相反\"，如happy（开心的）→unhappy（不开心的），因此是相反的意思（opposite）。same相同的，similar相似的，special特别的，都不符合。",
+      "correct_answer": "C",
+      "explanation": "【解析】考查形容词辨析及-ed/-ing后缀区别。空格处需填形容词作表语，修饰人\"Everyone\"，且根据\"good news\"可知是积极情绪，故选\"excited\"（感到兴奋的）。\n\n【错因分析】A选项\"happily\"是副词，不能作表语；B选项\"unhappy\"（不开心的）带有否定前缀un-，与\"good news\"矛盾；D选项\"exciting\"（令人兴奋的）用于修饰事物，不能修饰人。\n\n【解题技巧】-ed形容词（excited/bored/interested）表示人的主观感受\"感到...的\"；-ing形容词（exciting/boring/interesting）表示事物的客观性质\"令人...的\"。口诀：\"人-ed，物-ing\"。",
       "label": "词汇题"
     },
     {
       "id": 7,
       "type": "vocabulary",
-      "knowledge_point": "word_guessing_context",
+      "knowledge_point": "phrasal_verbs",
       "difficulty": 2,
-      "stem": "The weather was terrible — it rained heavily and the wind blew strongly. It was really _______ outside.",
+      "stem": "Please _______ the lights and TV when you leave the classroom to save electricity.",
       "options": [
-        "A. sunny",
-        "B. awful",
-        "C. pleasant",
-        "D. calm"
+        "A. turn on",
+        "B. turn off",
+        "C. turn up",
+        "D. turn down"
       ],
       "correct_answer": "B",
-      "explanation": "本题考查通过上下文猜测词义。根据前文terrible（糟糕的）、rained heavily（下大雨）、blew strongly（刮大风）这些负面描述，可以推断出天气很糟糕。awful意为\"糟糕的、可怕的\"，符合语境。sunny晴朗的，pleasant愉快的，calm平静的，都与前文描述矛盾。",
+      "explanation": "【解析】考查动词短语辨析。根据\"when you leave the classroom\"（离开教室时）和\"save electricity\"（节约用电）的语境，可知需要\"关闭\"电器，故选\"turn off\"。\n\n【错因分析】A选项\"turn on\"（打开）与\"save electricity\"矛盾；C选项\"turn up\"（调大音量/出现）和D选项\"turn down\"（调小音量/拒绝）均不符合\"离开教室\"的语境。\n\n【解题技巧】turn相关短语：turn on/off（开/关），turn up/down（调大/小），turn over（翻转），turn into（变成）。结合生活常识，离开教室应关灯。",
       "label": "词汇题"
     },
     {
       "id": 8,
       "type": "cloze",
       "knowledge_point": "cloze_general",
-      "difficulty": 2,
+      "difficulty": 1,
       "group": "cloze_1",
-      "group_passage": "Last month, our school started an environmental project called \"Green Campus\". All students were (8)______ to take part in it. The goal was to make our school cleaner and more beautiful.\n\nFirst, we (9)______ into small groups. Each group had different tasks. Some students were responsible for collecting recyclable waste like paper and plastic bottles. Others (10)______ care of the school garden by watering plants and removing weeds.\n\nDuring the project, I learned a lot about waste sorting. I never knew that an old T-shirt could be (11)______ into a shopping bag before. This experience made me realize that everyone can do something to protect our planet. Small actions can make a big (12)______.\n\nThe project not only improved our school environment but also taught us the importance of teamwork. We felt proud of what we had achieved together.",
+      "group_passage": "Last month, our school launched an environmental project called \"Green Campus\". The main goal was to encourage students to (8)______ our school environment in daily life. At the beginning, not many students paid attention to it. Some thought it was just another boring requirement from teachers. (9)______, everything changed after our headmaster gave a speech about climate change. He showed us some (10)______ pictures of plastic waste in the ocean. The images were so shocking that many students decided to take action immediately. Each class was asked to (11)______ a creative recycling plan. My classmates and I designed a system to collect used paper and bottles. We placed special bins in every classroom and checked them every Friday. Although it took a lot of time and effort, we felt really (12)______ when we saw how much material we had recycled by the end of the semester.",
       "stem": "(8)______",
       "options": [
-        "A. asked",
-        "B. encouraged",
-        "C. forced",
-        "D. warned"
+        "A. protect",
+        "B. pollute",
+        "C. destroy",
+        "D. change"
       ],
-      "correct_answer": "B",
-      "explanation": "根据上下文，学校启动环保项目，应该是\"鼓励\"学生参加。encouraged（鼓励）符合语境。asked要求，语气较平淡；forced强迫，语气太重且负面；warned警告，不符合语境。",
+      "correct_answer": "A",
+      "explanation": "【解析】考查动词词义辨析及语境理解。根据上文\"environmental project\"（环保项目）和\"Green Campus\"（绿色校园）可知，项目目的是\"保护\"环境，故选A。B（污染）和C（破坏）为负面词汇，与环保主题相反；D（改变）虽中性但不如A准确体现环保项目的宗旨。",
       "label": "完形填空"
     },
     {
       "id": 9,
       "type": "cloze",
       "knowledge_point": "cloze_general",
-      "difficulty": 1,
+      "difficulty": 2,
       "group": "cloze_1",
-      "group_passage": "Last month, our school started an environmental project called \"Green Campus\". All students were (8)______ to take part in it. The goal was to make our school cleaner and more beautiful.\n\nFirst, we (9)______ into small groups. Each group had different tasks. Some students were responsible for collecting recyclable waste like paper and plastic bottles. Others (10)______ care of the school garden by watering plants and removing weeds.\n\nDuring the project, I learned a lot about waste sorting. I never knew that an old T-shirt could be (11)______ into a shopping bag before. This experience made me realize that everyone can do something to protect our planet. Small actions can make a big (12)______.\n\nThe project not only improved our school environment but also taught us the importance of teamwork. We felt proud of what we had achieved together.",
+      "group_passage": "Last month, our school launched an environmental project called \"Green Campus\". The main goal was to encourage students to (8)______ our school environment in daily life. At the beginning, not many students paid attention to it. Some thought it was just another boring requirement from teachers. (9)______, everything changed after our headmaster gave a speech about climate change. He showed us some (10)______ pictures of plastic waste in the ocean. The images were so shocking that many students decided to take action immediately. Each class was asked to (11)______ a creative recycling plan. My classmates and I designed a system to collect used paper and bottles. We placed special bins in every classroom and checked them every Friday. Although it took a lot of time and effort, we felt really (12)______ when we saw how much material we had recycled by the end of the semester.",
       "stem": "(9)______",
       "options": [
-        "A. divided",
-        "B. cut",
-        "C. broke",
-        "D. fell"
+        "A. Luckily",
+        "B. Suddenly",
+        "C. However",
+        "D. Immediately"
       ],
-      "correct_answer": "A",
-      "explanation": "divide into是固定搭配，意为\"分成\"。这里指我们被分成小组。cut into切碎，broke into闯入，fell into落入，都不符合语境。",
+      "correct_answer": "C",
+      "explanation": "【解析】考查逻辑关系副词。前文提到\"not many students paid attention\"（很多学生不在意），后文说\"everything changed\"（一切都变了），前后为转折关系，故选C（然而）。A（幸运地）表示庆幸；B（突然地）强调时间快；D（立即）强调速度快，均不如C准确体现态度转变的对比。",
       "label": "完形填空"
     },
     {
       "id": 10,
       "type": "cloze",
       "knowledge_point": "cloze_general",
-      "difficulty": 1,
+      "difficulty": 2,
       "group": "cloze_1",
-      "group_passage": "Last month, our school started an environmental project called \"Green Campus\". All students were (8)______ to take part in it. The goal was to make our school cleaner and more beautiful.\n\nFirst, we (9)______ into small groups. Each group had different tasks. Some students were responsible for collecting recyclable waste like paper and plastic bottles. Others (10)______ care of the school garden by watering plants and removing weeds.\n\nDuring the project, I learned a lot about waste sorting. I never knew that an old T-shirt could be (11)______ into a shopping bag before. This experience made me realize that everyone can do something to protect our planet. Small actions can make a big (12)______.\n\nThe project not only improved our school environment but also taught us the importance of teamwork. We felt proud of what we had achieved together.",
+      "group_passage": "Last month, our school launched an environmental project called \"Green Campus\". The main goal was to encourage students to (8)______ our school environment in daily life. At the beginning, not many students paid attention to it. Some thought it was just another boring requirement from teachers. (9)______, everything changed after our headmaster gave a speech about climate change. He showed us some (10)______ pictures of plastic waste in the ocean. The images were so shocking that many students decided to take action immediately. Each class was asked to (11)______ a creative recycling plan. My classmates and I designed a system to collect used paper and bottles. We placed special bins in every classroom and checked them every Friday. Although it took a lot of time and effort, we felt really (12)______ when we saw how much material we had recycled by the end of the semester.",
       "stem": "(10)______",
       "options": [
-        "A. made",
-        "B. gave",
-        "C. took",
-        "D. got"
+        "A. beautiful",
+        "B. terrible",
+        "C. colorful",
+        "D. peaceful"
       ],
-      "correct_answer": "C",
-      "explanation": "take care of是固定短语，意为\"照顾、照料\"。这里指其他学生照料学校花园。make制作，give给予，get得到，都不能与care of构成此含义的搭配。",
+      "correct_answer": "B",
+      "explanation": "【解析】考查形容词词义辨析。根据下文\"plastic waste in the ocean\"（海洋中的塑料垃圾）和\"shocking\"（令人震惊的）可知，这些图片应该是\"糟糕的、可怕的\"，故选B。A（美丽的）、C（多彩的）、D（平静的）均为正面或中性词汇，与\"垃圾\"和\"震惊\"的负面语境不符。",
       "label": "完形填空"
     },
     {
@@ -174,34 +174,34 @@
       "knowledge_point": "cloze_general",
       "difficulty": 2,
       "group": "cloze_1",
-      "group_passage": "Last month, our school started an environmental project called \"Green Campus\". All students were (8)______ to take part in it. The goal was to make our school cleaner and more beautiful.\n\nFirst, we (9)______ into small groups. Each group had different tasks. Some students were responsible for collecting recyclable waste like paper and plastic bottles. Others (10)______ care of the school garden by watering plants and removing weeds.\n\nDuring the project, I learned a lot about waste sorting. I never knew that an old T-shirt could be (11)______ into a shopping bag before. This experience made me realize that everyone can do something to protect our planet. Small actions can make a big (12)______.\n\nThe project not only improved our school environment but also taught us the importance of teamwork. We felt proud of what we had achieved together.",
+      "group_passage": "Last month, our school launched an environmental project called \"Green Campus\". The main goal was to encourage students to (8)______ our school environment in daily life. At the beginning, not many students paid attention to it. Some thought it was just another boring requirement from teachers. (9)______, everything changed after our headmaster gave a speech about climate change. He showed us some (10)______ pictures of plastic waste in the ocean. The images were so shocking that many students decided to take action immediately. Each class was asked to (11)______ a creative recycling plan. My classmates and I designed a system to collect used paper and bottles. We placed special bins in every classroom and checked them every Friday. Although it took a lot of time and effort, we felt really (12)______ when we saw how much material we had recycled by the end of the semester.",
       "stem": "(11)______",
       "options": [
-        "A. divided",
-        "B. turned",
-        "C. broken",
-        "D. cut"
+        "A. find out",
+        "B. think of",
+        "C. look for",
+        "D. give up"
       ],
       "correct_answer": "B",
-      "explanation": "turn into是固定短语，意为\"变成\"。这里指旧T恤可以被变成购物袋，符合废物利用的语境。divide into分成，break into闯入，cut into切碎，都不符合句意。",
+      "explanation": "【解析】考查动词短语辨析。根据宾语\"a creative recycling plan\"（一个有创意的回收计划）可知，此处指\"想出、提出\"计划，故选B（think of 想出）。A（查明，弄清楚）通常指发现事实；C（寻找）强调找的动作；D（放弃）与语境相反。",
       "label": "完形填空"
     },
     {
       "id": 12,
       "type": "cloze",
       "knowledge_point": "cloze_general",
-      "difficulty": 2,
+      "difficulty": 1,
       "group": "cloze_1",
-      "group_passage": "Last month, our school started an environmental project called \"Green Campus\". All students were (8)______ to take part in it. The goal was to make our school cleaner and more beautiful.\n\nFirst, we (9)______ into small groups. Each group had different tasks. Some students were responsible for collecting recyclable waste like paper and plastic bottles. Others (10)______ care of the school garden by watering plants and removing weeds.\n\nDuring the project, I learned a lot about waste sorting. I never knew that an old T-shirt could be (11)______ into a shopping bag before. This experience made me realize that everyone can do something to protect our planet. Small actions can make a big (12)______.\n\nThe project not only improved our school environment but also taught us the importance of teamwork. We felt proud of what we had achieved together.",
+      "group_passage": "Last month, our school launched an environmental project called \"Green Campus\". The main goal was to encourage students to (8)______ our school environment in daily life. At the beginning, not many students paid attention to it. Some thought it was just another boring requirement from teachers. (9)______, everything changed after our headmaster gave a speech about climate change. He showed us some (10)______ pictures of plastic waste in the ocean. The images were so shocking that many students decided to take action immediately. Each class was asked to (11)______ a creative recycling plan. My classmates and I designed a system to collect used paper and bottles. We placed special bins in every classroom and checked them every Friday. Although it took a lot of time and effort, we felt really (12)______ when we saw how much material we had recycled by the end of the semester.",
       "stem": "(12)______",
       "options": [
-        "A. progress",
-        "B. decision",
-        "C. difference",
-        "D. promise"
+        "A. proud",
+        "B. sorry",
+        "C. worried",
+        "D. lonely"
       ],
-      "correct_answer": "C",
-      "explanation": "make a difference是固定搭配，意为\"有影响、起作用\"。这里指小行动可以产生大影响，是环保主题常用表达。make progress取得进步，make a decision做决定，make a promise许诺，都不符合语境。",
+      "correct_answer": "A",
+      "explanation": "【解析】考查情感线索及形容词辨析。根据\"we had recycled\"（我们回收了）和\"Although it took a lot of time\"（尽管花了很长时间）的让步关系，可知看到成果应该感到\"自豪\"，故选A。B（抱歉的）、C（担心的）、D（孤独的）均为负面情绪，与看到成果的成就感不符。",
       "label": "完形填空"
     },
     {
@@ -210,53 +210,53 @@
       "knowledge_point": "detail",
       "difficulty": 2,
       "group": "reading_1",
-      "group_passage": "Do you often feel tired after using your smartphone for a long time? Many people don't realize that the \"blue light\" from screens can harm our eyes and affect our sleep.\n\nScientists have found that blue light can stop our bodies from producing melatonin (褪黑素), a chemical that helps us sleep. When we look at screens before bedtime, we may find it hard to fall asleep. This is why many doctors suggest avoiding screens at least one hour before sleep.\n\nHowever, there are ways to protect ourselves. Many devices now have a \"night mode\" that reduces blue light. You can also try the 20-20-20 rule: every 20 minutes, look at something 20 feet away for 20 seconds. This gives your eyes a rest.\n\nSome apps can even track how much time you spend on your phone and remind you to take breaks. Remember, technology is helpful, but we need to use it wisely to stay healthy.",
-      "stem": "According to the passage, what can blue light do?",
+      "group_passage": "Do you know that your old clothes could become a new pair of shoes? A new technology called \"textile recycling\" is making this possible. Traditional recycling methods often break down clothes into low-quality materials that can only be used for cleaning rags or insulation (绝缘材料). However, scientists in Sweden have developed a new machine that can separate mixed fibers and turn them into high-quality thread. This means your cotton T-shirt could become part of a new dress instead of ending up in a landfill (垃圾填埋场). The process works like this: First, the old clothes are collected and sorted by color. Then, they are cut into small pieces and treated with a special liquid that breaks down the fibers. Finally, these fibers are spun into new yarn that feels just like fresh cotton. This technology is not only good for the environment but also creates job opportunities. Many clothing companies are now building recycling factories in different cities. \"We want to make fashion circular,\" says Lisa Chen, a designer at GreenWear Company. \"In the future, nothing should be wasted.\" However, there are still challenges. The recycling machines are expensive, and not all types of fabric can be processed yet. Scientists are working hard to solve these problems.",
+      "stem": "What have scientists in Sweden developed according to the passage?",
       "options": [
-        "A. Improve our sleep quality.",
-        "B. Help produce more melatonin.",
-        "C. Stop our bodies from producing melatonin.",
-        "D. Make our eyes see better in the dark."
+        "A. A new type of cotton plant.",
+        "B. A machine to separate mixed fibers.",
+        "C. A method to dye clothes faster.",
+        "D. A way to make clothes waterproof."
       ],
-      "correct_answer": "C",
-      "explanation": "细节理解题。根据第二段第一句\"Scientists have found that blue light can stop our bodies from producing melatonin\"可知，蓝光会阻止身体产生褪黑素。A选项改善睡眠质量与原文相反；B选项帮助产生更多褪黑素与原文stop相反；D选项让眼睛在黑暗中看得更清楚文中未提及。",
+      "correct_answer": "B",
+      "explanation": "【解析】细节理解题。根据文章第二段第三句\"However, scientists in Sweden have developed a new machine that can separate mixed fibers and turn them into high-quality thread\"（然而，瑞典科学家开发了一种新机器，可以分离混合纤维并将其转化为高质量线料）可知，正确答案为B。\n\n【解题技巧】细节题定位法：1. 划关键词（Sweden, developed）；2. 回原文找对应句（第二段）；3. 比对选项与原文的同义转换（machine原词复现，separate mixed fibers原词复现）。",
       "label": "阅读-细节理解"
     },
     {
       "id": 14,
       "type": "reading",
-      "knowledge_point": "inference",
-      "difficulty": 3,
+      "knowledge_point": "word_guessing",
+      "difficulty": 2,
       "group": "reading_1",
-      "group_passage": "Do you often feel tired after using your smartphone for a long time? Many people don't realize that the \"blue light\" from screens can harm our eyes and affect our sleep.\n\nScientists have found that blue light can stop our bodies from producing melatonin (褪黑素), a chemical that helps us sleep. When we look at screens before bedtime, we may find it hard to fall asleep. This is why many doctors suggest avoiding screens at least one hour before sleep.\n\nHowever, there are ways to protect ourselves. Many devices now have a \"night mode\" that reduces blue light. You can also try the 20-20-20 rule: every 20 minutes, look at something 20 feet away for 20 seconds. This gives your eyes a rest.\n\nSome apps can even track how much time you spend on your phone and remind you to take breaks. Remember, technology is helpful, but we need to use it wisely to stay healthy.",
-      "stem": "What does the writer suggest readers do?",
+      "group_passage": "Do you know that your old clothes could become a new pair of shoes? A new technology called \"textile recycling\" is making this possible. Traditional recycling methods often break down clothes into low-quality materials that can only be used for cleaning rags or insulation (绝缘材料). However, scientists in Sweden have developed a new machine that can separate mixed fibers and turn them into high-quality thread. This means your cotton T-shirt could become part of a new dress instead of ending up in a landfill (垃圾填埋场). The process works like this: First, the old clothes are collected and sorted by color. Then, they are cut into small pieces and treated with a special liquid that breaks down the fibers. Finally, these fibers are spun into new yarn that feels just like fresh cotton. This technology is not only good for the environment but also creates job opportunities. Many clothing companies are now building recycling factories in different cities. \"We want to make fashion circular,\" says Lisa Chen, a designer at GreenWear Company. \"In the future, nothing should be wasted.\" However, there are still challenges. The recycling machines are expensive, and not all types of fabric can be processed yet. Scientists are working hard to solve these problems.",
+      "stem": "What does the underlined word \"circular\" probably mean in the passage?",
       "options": [
-        "A. Stop using all electronic devices immediately.",
-        "B. Use night mode and take regular breaks.",
-        "C. Take medicine to help sleep better.",
-        "D. Only use phones during daytime."
+        "A. Round in shape.",
+        "B. Moving in a circle.",
+        "C. Able to be recycled and reused.",
+        "D. Cheap and affordable."
       ],
-      "correct_answer": "B",
-      "explanation": "推理判断题。根据第三段，作者建议使用night mode（夜间模式）和20-20-20 rule（每20分钟休息20秒看20英尺外），即定期休息。A选项立即停止所有电子设备过于绝对；C选项吃药文中未提及；D选项只在白天使用手机过于绝对且文中未提及。",
-      "label": "阅读-推理判断"
+      "correct_answer": "C",
+      "explanation": "【解析】词义猜测题。根据上下文语境，前文提到旧衣服可以变成新裙子（recycling），后文Lisa说\"In the future, nothing should be wasted\"（未来不应有浪费），可推断\"circular\"在此指\"可循环的、可回收再利用的\"，故选C。\n\n【干扰项分析】A、B选项是circular的字面意思\"圆形的\"，但在本文中是引申义；D选项\"便宜的\"与下文\"machines are expensive\"矛盾。\n\n【解题技巧】词义猜测题不要只看单词本身，要通过\"上下文语境法\"和\"定义解释法\"判断。下文\"nothing should be wasted\"是对circular fashion的解释说明。",
+      "label": "阅读-词义猜测"
     },
     {
       "id": 15,
       "type": "reading",
-      "knowledge_point": "word_guessing",
-      "difficulty": 2,
+      "knowledge_point": "inference",
+      "difficulty": 3,
       "group": "reading_1",
-      "group_passage": "Do you often feel tired after using your smartphone for a long time? Many people don't realize that the \"blue light\" from screens can harm our eyes and affect our sleep.\n\nScientists have found that blue light can stop our bodies from producing melatonin (褪黑素), a chemical that helps us sleep. When we look at screens before bedtime, we may find it hard to fall asleep. This is why many doctors suggest avoiding screens at least one hour before sleep.\n\nHowever, there are ways to protect ourselves. Many devices now have a \"night mode\" that reduces blue light. You can also try the 20-20-20 rule: every 20 minutes, look at something 20 feet away for 20 seconds. This gives your eyes a rest.\n\nSome apps can even track how much time you spend on your phone and remind you to take breaks. Remember, technology is helpful, but we need to use it wisely to stay healthy.",
-      "stem": "The underlined word \"track\" in Paragraph 4 probably means _______.",
+      "group_passage": "Do you know that your old clothes could become a new pair of shoes? A new technology called \"textile recycling\" is making this possible. Traditional recycling methods often break down clothes into low-quality materials that can only be used for cleaning rags or insulation (绝缘材料). However, scientists in Sweden have developed a new machine that can separate mixed fibers and turn them into high-quality thread. This means your cotton T-shirt could become part of a new dress instead of ending up in a landfill (垃圾填埋场). The process works like this: First, the old clothes are collected and sorted by color. Then, they are cut into small pieces and treated with a special liquid that breaks down the fibers. Finally, these fibers are spun into new yarn that feels just like fresh cotton. This technology is not only good for the environment but also creates job opportunities. Many clothing companies are now building recycling factories in different cities. \"We want to make fashion circular,\" says Lisa Chen, a designer at GreenWear Company. \"In the future, nothing should be wasted.\" However, there are still challenges. The recycling machines are expensive, and not all types of fabric can be processed yet. Scientists are working hard to solve these problems.",
+      "stem": "What can we infer from the passage?",
       "options": [
-        "A. 减少",
-        "B. 追踪",
-        "C. 浪费",
-        "D. 增加"
+        "A. All types of clothes can be recycled by this technology now.",
+        "B. Traditional recycling is more useful than the new method.",
+        "C. The new technology helps reduce environmental pollution.",
+        "D. Lisa Chen works as a scientist in Sweden."
       ],
-      "correct_answer": "B",
-      "explanation": "词义猜测题。根据上下文，app可以track你在手机上花费的时间并提醒你休息，因此track意为\"追踪、记录\"。reduce减少，waste浪费，increase增加，都不符合语境。",
-      "label": "阅读-词义猜测"
+      "correct_answer": "C",
+      "explanation": "【解析】推理判断题。根据文章第二段\"instead of ending up in a landfill\"（而不是被丢进垃圾填埋场）和倒数第三段\"not only good for the environment\"（不仅对环境有益）可推断，这项技术有助于减少环境污染，故选C。\n\n【错因分析】A选项与最后一段\"not all types of fabric can be processed yet\"（并非所有面料都能处理）矛盾；B选项与第二段\"Traditional recycling methods often break down clothes into low-quality materials\"（传统方法只能产生低质量材料）矛盾；D选项与\"Lisa Chen, a designer at GreenWear Company\"（设计师，非科学家）不符。\n\n【解题技巧】推理题必须基于原文信息，不能过度推断，也不能选择原文直接陈述的事实（infer指推断出的隐含信息），要排除与原文矛盾的选项。",
+      "label": "阅读-推理判断"
     },
     {
       "id": 16,
@@ -264,16 +264,16 @@
       "knowledge_point": "main_idea",
       "difficulty": 3,
       "group": "reading_1",
-      "group_passage": "Do you often feel tired after using your smartphone for a long time? Many people don't realize that the \"blue light\" from screens can harm our eyes and affect our sleep.\n\nScientists have found that blue light can stop our bodies from producing melatonin (褪黑素), a chemical that helps us sleep. When we look at screens before bedtime, we may find it hard to fall asleep. This is why many doctors suggest avoiding screens at least one hour before sleep.\n\nHowever, there are ways to protect ourselves. Many devices now have a \"night mode\" that reduces blue light. You can also try the 20-20-20 rule: every 20 minutes, look at something 20 feet away for 20 seconds. This gives your eyes a rest.\n\nSome apps can even track how much time you spend on your phone and remind you to take breaks. Remember, technology is helpful, but we need to use it wisely to stay healthy.",
+      "group_passage": "Do you know that your old clothes could become a new pair of shoes? A new technology called \"textile recycling\" is making this possible. Traditional recycling methods often break down clothes into low-quality materials that can only be used for cleaning rags or insulation (绝缘材料). However, scientists in Sweden have developed a new machine that can separate mixed fibers and turn them into high-quality thread. This means your cotton T-shirt could become part of a new dress instead of ending up in a landfill (垃圾填埋场). The process works like this: First, the old clothes are collected and sorted by color. Then, they are cut into small pieces and treated with a special liquid that breaks down the fibers. Finally, these fibers are spun into new yarn that feels just like fresh cotton. This technology is not only good for the environment but also creates job opportunities. Many clothing companies are now building recycling factories in different cities. \"We want to make fashion circular,\" says Lisa Chen, a designer at GreenWear Company. \"In the future, nothing should be wasted.\" However, there are still challenges. The recycling machines are expensive, and not all types of fabric can be processed yet. Scientists are working hard to solve these problems.",
       "stem": "What is the best title for the passage?",
       "options": [
-        "A. The History of Smartphones",
-        "B. How to Make Better Use of Blue Light",
-        "C. The Dangers of Blue Light and How to Protect Ourselves",
-        "D. Why We Should Stop Using Technology"
+        "A. How to Design Fashionable Clothes",
+        "B. The Future of Textile Recycling Technology",
+        "C. Why We Should Buy New Clothes",
+        "D. The History of Swedish Inventions"
       ],
-      "correct_answer": "C",
-      "explanation": "主旨大意题。文章第一段介绍蓝光危害，第二段讲影响睡眠，第三、四段讲保护措施，因此最佳标题是\"蓝光的危害及如何保护自己\"。A选项智能手机的历史只在开头提及；B选项如何更好利用蓝光与文意相反；D选项为什么应该停止科技过于绝对，文中说科技有帮助但需要明智使用。",
+      "correct_answer": "B",
+      "explanation": "【解析】主旨大意题。文章首段引入\"textile recycling\"（纺织品回收）技术，第二段对比传统方法与新技术的优势，第三段介绍流程，第四、五段讨论应用与前景，第六段提及挑战。全文围绕纺织品回收技术展开，故B选项最能概括主旨。\n\n【错因分析】A选项\"设计时尚服装\"只在第四段提及，是细节非主旨；C选项\"为什么买新衣服\"与文章\"回收旧衣服\"主题相反；D选项\"瑞典发明史\"过于宽泛，文章只提及其纺织品回收机器。\n\n【解题技巧】主旨题/标题题选择标准：1. 涵盖全文主要内容，不偏题；2. 不能过大（D选项）或过小（A选项）；3. 注意高频词（textile recycling在文中多次出现）。",
       "label": "阅读-主旨大意"
     },
     {
@@ -282,17 +282,17 @@
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
       "group": "fill_1",
-      "group_passage": "Many students find it difficult to balance study and rest. They often feel stressed when they have too much homework. (17)______ Here are some useful tips.\n\nFirst, make a plan. Write down what you need to do each day. (18)______ This way, you won't forget important tasks.\n\nSecond, take regular breaks. Your brain needs rest to work well. (19)______ You can listen to music or do some exercise.\n\nFinally, don't compare yourself with others too much. Everyone has their own pace. (20)______ Just do your best and stay positive.",
+      "group_passage": "Joining a school club can bring many benefits to your middle school life. It helps you make new friends and discover your hidden talents. (17)______ Three years ago, I joined the Science Club because of my interest in experiments. However, I soon faced a big challenge. Our team needed to build a small robot for a competition, but I knew nothing about programming. (18)______ I wanted to give up and leave the club. Fortunately, my team leader noticed my problem. Instead of blaming me, he spent his weekends teaching me the basics. (19)______ Slowly, I began to understand how to code and even came up with some creative ideas for our robot. In the end, we won the second prize in the city competition. (20)______ I realized that difficulties are just opportunities in disguise.",
       "stem": "(17)______",
       "options": [
-        "A. However, with proper time management, you can handle it well.",
-        "B. For example, study for 45 minutes and then rest for 10 minutes.",
-        "C. In addition, checking off completed tasks gives you a sense of achievement.",
-        "D. As a result, you will feel more relaxed and perform better in school.",
-        "E. Remember that progress is more important than perfection."
+        "A. Then, he showed me some online tutorials and practice projects.",
+        "B. However, I found it too difficult to continue.",
+        "C. Let me tell you my own story as an example.",
+        "D. As a result, I became more confident in learning new things.",
+        "E. Therefore, I decided to work alone on a different project."
       ],
-      "correct_answer": "A",
-      "explanation": "前句说学生感到压力大，后句说\"这里有一些有用的建议\"，因此此处需要转折过渡，表示\"然而，通过适当的时间管理，你可以处理好\"。However表转折，承接前文的困难并引出下文的解决方案。",
+      "correct_answer": "C",
+      "explanation": "【解析】考查段落衔接与逻辑关系。前文总述参加社团的好处，后文开始讲述\"我\"的具体经历，此处需要一个过渡句引出个人故事，故选C（让我给你讲讲我的故事作为例子）。\n\n【解题技巧】七选五/选句填空要注意\"承上启下\"：C选项中的\"my own story\"引出下文，\"as an example\"承接上文的总述。",
       "label": "短文填空"
     },
     {
@@ -301,17 +301,17 @@
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
       "group": "fill_1",
-      "group_passage": "Many students find it difficult to balance study and rest. They often feel stressed when they have too much homework. (17)______ Here are some useful tips.\n\nFirst, make a plan. Write down what you need to do each day. (18)______ This way, you won't forget important tasks.\n\nSecond, take regular breaks. Your brain needs rest to work well. (19)______ You can listen to music or do some exercise.\n\nFinally, don't compare yourself with others too much. Everyone has their own pace. (20)______ Just do your best and stay positive.",
+      "group_passage": "Joining a school club can bring many benefits to your middle school life. It helps you make new friends and discover your hidden talents. (17)______ Three years ago, I joined the Science Club because of my interest in experiments. However, I soon faced a big challenge. Our team needed to build a small robot for a competition, but I knew nothing about programming. (18)______ I wanted to give up and leave the club. Fortunately, my team leader noticed my problem. Instead of blaming me, he spent his weekends teaching me the basics. (19)______ Slowly, I began to understand how to code and even came up with some creative ideas for our robot. In the end, we won the second prize in the city competition. (20)______ I realized that difficulties are just opportunities in disguise.",
       "stem": "(18)______",
       "options": [
-        "A. However, with proper time management, you can handle it well.",
-        "B. For example, study for 45 minutes and then rest for 10 minutes.",
-        "C. In addition, checking off completed tasks gives you a sense of achievement.",
-        "D. As a result, you will feel more relaxed and perform better in school.",
-        "E. Remember that progress is more important than perfection."
+        "A. Then, he showed me some online tutorials and practice projects.",
+        "B. However, I found it too difficult to continue.",
+        "C. Let me tell you my own story as an example.",
+        "D. As a result, I became more confident in learning new things.",
+        "E. Therefore, I decided to work alone on a different project."
       ],
-      "correct_answer": "C",
-      "explanation": "前句说\"写下每天需要做的事\"，此处应进一步说明这样做的好处，In addition（此外）表示递进，\"核对完成的任务会给你成就感\"符合制定计划后的逻辑。B是举例，但此处不需要举例；D是结果，但逻辑上不如C紧密。",
+      "correct_answer": "B",
+      "explanation": "【解析】考查转折关系。前文提到\"faced a big challenge\"（面临挑战）和\"knew nothing about programming\"（对编程一无所知），后文说\"wanted to give up\"（想放弃），中间需要表达\"困难太大\"的过渡，故选B（然而，我发现继续下去太难了）。\n\n【解题技巧】注意逻辑信号词：前文\"However\"已出现一次表示转折，此处B选项的\"However\"进一步强化遇到困难后的消极情绪，与后文\"想放弃\"形成因果链。",
       "label": "短文填空"
     },
     {
@@ -320,17 +320,17 @@
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
       "group": "fill_1",
-      "group_passage": "Many students find it difficult to balance study and rest. They often feel stressed when they have too much homework. (17)______ Here are some useful tips.\n\nFirst, make a plan. Write down what you need to do each day. (18)______ This way, you won't forget important tasks.\n\nSecond, take regular breaks. Your brain needs rest to work well. (19)______ You can listen to music or do some exercise.\n\nFinally, don't compare yourself with others too much. Everyone has their own pace. (20)______ Just do your best and stay positive.",
+      "group_passage": "Joining a school club can bring many benefits to your middle school life. It helps you make new friends and discover your hidden talents. (17)______ Three years ago, I joined the Science Club because of my interest in experiments. However, I soon faced a big challenge. Our team needed to build a small robot for a competition, but I knew nothing about programming. (18)______ I wanted to give up and leave the club. Fortunately, my team leader noticed my problem. Instead of blaming me, he spent his weekends teaching me the basics. (19)______ Slowly, I began to understand how to code and even came up with some creative ideas for our robot. In the end, we won the second prize in the city competition. (20)______ I realized that difficulties are just opportunities in disguise.",
       "stem": "(19)______",
       "options": [
-        "A. However, with proper time management, you can handle it well.",
-        "B. For example, study for 45 minutes and then rest for 10 minutes.",
-        "C. In addition, checking off completed tasks gives you a sense of achievement.",
-        "D. As a result, you will feel more relaxed and perform better in school.",
-        "E. Remember that progress is more important than perfection."
+        "A. Then, he showed me some online tutorials and practice projects.",
+        "B. However, I found it too difficult to continue.",
+        "C. Let me tell you my own story as an example.",
+        "D. As a result, I became more confident in learning new things.",
+        "E. Therefore, I decided to work alone on a different project."
       ],
-      "correct_answer": "B",
-      "explanation": "前句说\"定期休息\"，此处需要举例说明如何休息，For example（例如）引出具休做法\"学习45分钟休息10分钟\"，后句\"你可以听音乐或做运动\"也是休息的方式，与B选项并列。",
+      "correct_answer": "A",
+      "explanation": "【解析】考查顺承关系。前文提到\"he spent his weekends teaching me the basics\"（他周末教我基础知识），后文说\"Slowly, I began to understand\"（慢慢地我开始理解），中间需要具体的教学行为，故选A（然后，他给我看了一些在线教程和练习项目）。\n\n【解题技巧】注意代词指代：A选项中的\"he\"指代前文的\"team leader\"，时间副词\"Then\"表示动作的连续性，符合\"教基础知识→展示教程→慢慢理解\"的时间顺序。",
       "label": "短文填空"
     },
     {
@@ -339,17 +339,17 @@
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
       "group": "fill_1",
-      "group_passage": "Many students find it difficult to balance study and rest. They often feel stressed when they have too much homework. (17)______ Here are some useful tips.\n\nFirst, make a plan. Write down what you need to do each day. (18)______ This way, you won't forget important tasks.\n\nSecond, take regular breaks. Your brain needs rest to work well. (19)______ You can listen to music or do some exercise.\n\nFinally, don't compare yourself with others too much. Everyone has their own pace. (20)______ Just do your best and stay positive.",
+      "group_passage": "Joining a school club can bring many benefits to your middle school life. It helps you make new friends and discover your hidden talents. (17)______ Three years ago, I joined the Science Club because of my interest in experiments. However, I soon faced a big challenge. Our team needed to build a small robot for a competition, but I knew nothing about programming. (18)______ I wanted to give up and leave the club. Fortunately, my team leader noticed my problem. Instead of blaming me, he spent his weekends teaching me the basics. (19)______ Slowly, I began to understand how to code and even came up with some creative ideas for our robot. In the end, we won the second prize in the city competition. (20)______ I realized that difficulties are just opportunities in disguise.",
       "stem": "(20)______",
       "options": [
-        "A. However, with proper time management, you can handle it well.",
-        "B. For example, study for 45 minutes and then rest for 10 minutes.",
-        "C. In addition, checking off completed tasks gives you a sense of achievement.",
-        "D. As a result, you will feel more relaxed and perform better in school.",
-        "E. Remember that progress is more important than perfection."
+        "A. Then, he showed me some online tutorials and practice projects.",
+        "B. However, I found it too difficult to continue.",
+        "C. Let me tell you my own story as an example.",
+        "D. As a result, I became more confident in learning new things.",
+        "E. Therefore, I decided to work alone on a different project."
       ],
-      "correct_answer": "E",
-      "explanation": "前句说\"不要和别人比较太多，每个人都有自己的节奏\"，此处应总结这个观点，\"记住进步比完美更重要\"符合语境，强调个人进步而非完美主义。Just do your best也呼应了progress的主题。",
+      "correct_answer": "D",
+      "explanation": "【解析】考查因果关系。前文提到\"won the second prize\"（获得二等奖），后文说\"realized that difficulties are just opportunities\"（意识到困难是机会），中间需要表达获奖后的积极影响，故选D（结果，我对学习新事物变得更有信心了）。\n\n【解题技巧】As a result表示\"结果\"，用于引出积极成果，与后文的感悟形成递进关系。E选项\"work alone\"与文章\"team\"背景矛盾，且\"Therefore\"表示\"因此\"，但后文并非放弃的结果，而是获奖的感悟。",
       "label": "短文填空"
     }
   ]
