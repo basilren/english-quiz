@@ -1,109 +1,93 @@
 ﻿{
-  "date": "2026-07-23",
+  "date": "2026-07-24",
   "session_number": 1,
   "questions": [
     {
       "id": 1,
       "type": "grammar",
-      "knowledge_point": "present_perfect_vs_past_simple",
-      "difficulty": 2,
-      "stem": "I _______ the book last week, but I _______ it yet. I plan to finish it this weekend.",
+      "knowledge_point": "passive_voice",
+      "difficulty": 1,
+      "stem": "These books ______ to the library tomorrow afternoon.",
       "options": [
-        "A. bought; haven't read",
-        "B. have bought; didn't read",
-        "C. bought; didn't read",
-        "D. have bought; haven't read"
+        "A. return",
+        "B. returned",
+        "C. will be returned",
+        "D. have returned"
       ],
-      "correct_answer": "A",
-      "explanation": "【解析】这道题考查现在完成时与一般过去时的区别。第一空后有明确的时间状语\"last week\"（上周），表示过去某个特定时间发生的动作，用一般过去时\"bought\"；第二空后有\"yet\"（还，尚），这是现在完成时的标志词，常用于否定句和疑问句，表示从过去持续到现在的状态，故用\"haven't read\"。\n\n【错因分析】B选项混淆了时态对应的标志词；C选项第二空用一般过去时无法体现\"到现在为止还没读\"的含义；D选项第一空用现在完成时与\"last week\"矛盾。\n\n【解题技巧】口诀：\"过去动作有过去时间，用过去时；过去影响持续到现在，用完成时。yet/already/ever/never/since/for是完成时标志。\"",
+      "correct_answer": "C",
+      "explanation": "这道题考查一般将来时的被动语态。主语'These books'是动作'return'的承受者，因此需要用被动语态。时间状语'tomorrow afternoon'表明是将来时，所以用'will be returned'。A是主动语态原形，B是过去式，D是现在完成时主动语态，均不符合。解题技巧：看到tomorrow等将来时间标志词，且主语是物时，考虑will be done结构。",
       "label": "语法题"
     },
     {
       "id": 2,
       "type": "grammar",
-      "knowledge_point": "relative_clause_who_which",
+      "knowledge_point": "present_perfect_vs_past_simple",
       "difficulty": 2,
-      "stem": "The boy _______ is standing under the tree is my classmate. He won the first prize in the math competition.",
+      "stem": "—______ you ______ the film before? —Yes, I ______ it last week.",
       "options": [
-        "A. who",
-        "B. which",
-        "C. whom",
-        "D. whose"
+        "A. Did; see; saw",
+        "B. Have; seen; saw",
+        "C. Have; seen; have seen",
+        "D. Did; see; have seen"
       ],
-      "correct_answer": "A",
-      "explanation": "【解析】考查定语从句关系代词的选择。先行词是\"The boy\"（指人），且关系代词在从句中作主语（is standing），故用\"who\"。\n\n【错因分析】B选项\"which\"用于指物；C选项\"whom\"虽指人但只能在从句中作宾语；D选项\"whose\"表示\"...的\"，在从句中作定语，后需接名词。\n\n【解题技巧】定语从句选择关系词三步法：1. 找先行词（看是人还是物）；2. 分析从句成分（缺主语/宾语/定语/状语）；3. 人主who人宾whom，人物whose物which，that可代人可代物。",
+      "correct_answer": "B",
+      "explanation": "这道题考查现在完成时与一般过去时的区别。问句中的'before'（之前）是现完的标志词，强调过去动作对现在的影响，用'Have you seen'；答句中的'last week'（上周）是明确的过去时间状语，只能用一般过去时'saw'。A选项助动词Did后应接动词原形，但答句时态错误；C选项答句用了现完，与last week矛盾；D选项问句时态错误。口诀：有before现完成，有last week用过去。",
       "label": "语法题"
     },
     {
       "id": 3,
       "type": "grammar",
-      "knowledge_point": "passive_voice",
-      "difficulty": 1,
-      "stem": "The new library _______ by the government last year. It is now open to all students.",
+      "knowledge_point": "relative_clause_who_which",
+      "difficulty": 2,
+      "stem": "This is the museum ______ we visited last summer holiday.",
       "options": [
-        "A. builds",
-        "B. built",
-        "C. was built",
-        "D. is built"
+        "A. where",
+        "B. which",
+        "C. who",
+        "D. when"
       ],
-      "correct_answer": "C",
-      "explanation": "【解析】考查一般过去时的被动语态。主语\"The new library\"（图书馆）与动词\"build\"（建造）之间是被动关系，需用被动语态\"be + done\"。时间状语\"last year\"表明是过去时，且主语为单数，故用\"was built\"。\n\n【错因分析】A选项是主动语态一般现在时；B选项是主动语态一般过去时；D选项虽为被动语态但是一般现在时，与\"last year\"时间不符。\n\n【解题技巧】被动语态判断：1. 看主谓关系（物作主语通常被动）；2. 看时间状语确定时态；3. 结构：be动词随人称时态变化，后面跟过去分词。",
+      "correct_answer": "B",
+      "explanation": "这道题考查定语从句关系代词的选择。先行词'the museum'是物，且在从句中作visited的宾语，因此用which或that。where在从句中作地点状语，who指人，when指时间。判断技巧：看先行词是人还是物，再看关系词在从句中充当什么成分。本句visited后缺宾语，museum是物，所以选which。",
       "label": "语法题"
     },
     {
       "id": 4,
       "type": "grammar",
-      "knowledge_point": "modal_verbs",
+      "knowledge_point": "object_clause",
       "difficulty": 3,
-      "stem": "—Whose notebook is this? There is no name on it.\n—It _______ be Lily's. Look, her student ID card is attached to the last page.",
+      "stem": "Could you tell me ______?",
       "options": [
-        "A. must",
-        "B. can't",
-        "C. might",
-        "D. mustn't"
+        "A. where is the nearest hospital",
+        "B. where the nearest hospital is",
+        "C. where was the nearest hospital",
+        "D. where does the nearest hospital lie"
       ],
-      "correct_answer": "A",
-      "explanation": "【解析】考查情态动词表推测的用法。根据答句中的关键线索\"her student ID card is attached\"（她的学生证夹在里面），这是非常有力的证据，表示肯定推测，故用\"must be\"（一定是）。\n\n【错因分析】B选项\"can't\"表示否定推测\"不可能\"，与语境相反；C选项\"might\"表示不确定的推测\"可能\"，语气太弱，不符合\"有证据\"的语境；D选项\"mustn't\"表示\"禁止\"，不用于推测。\n\n【解题技巧】情态动词表推测强度：must（肯定，一定）> may/might（可能）> can't（不可能）。注意mustn't不是\"不一定\"，而是\"禁止\"。",
+      "correct_answer": "B",
+      "explanation": "这道题考查宾语从句的语序。宾语从句必须使用陈述句语序（主语+谓语），不能用疑问句语序。A、C、D都是疑问句语序（is/was/does在主语前），只有B是陈述句语序（the nearest hospital is）。注意：宾语从句的时态要与主句呼应，但本题主句Could you tell是委婉请求，不是过去时，从句根据实际情况用一般现在时即可。",
       "label": "语法题"
     },
     {
       "id": 5,
       "type": "vocabulary",
-      "knowledge_point": "word_meaning",
+      "knowledge_point": "word_formation",
       "difficulty": 1,
-      "stem": "We should _______ the environment by saving water and reducing waste in our daily life.",
+      "stem": "It is ______ to play computer games for too long. It may hurt your eyes.",
       "options": [
-        "A. protect",
-        "B. pollute",
-        "C. destroy",
-        "D. waste"
+        "A. harm",
+        "B. harmful",
+        "C. harmless",
+        "D. harmed"
       ],
-      "correct_answer": "A",
-      "explanation": "【解析】考查动词词义辨析及语境理解。根据句中\"by saving water and reducing waste\"（通过节约用水和减少浪费）可知，这是保护环境的积极行为，故选择\"protect\"（保护）。\n\n【错因分析】B选项\"pollute\"（污染）、C选项\"destroy\"（破坏）、D选项\"waste\"（浪费）均为负面词汇，与\"saving water\"的积极语境相矛盾。\n\n【解题技巧】做完形和词汇题时，注意上下文逻辑关系（转折、因果、并列），通过\"saving water\"和\"reducing waste\"这两个并列的积极行为，可推断出空格也需填积极词汇。",
+      "correct_answer": "B",
+      "explanation": "这道题考查词性转换。系动词is后需要接形容词作表语。harm是名词/动词，harmful是形容词（有害的），harmless是形容词（无害的），harmed是过去分词。根据句意'玩电脑游戏太久是有害的'，选harmful。构词法技巧：-ful后缀通常表示'充满...的'，-less表示'没有...的'。",
       "label": "词汇题"
     },
     {
       "id": 6,
       "type": "vocabulary",
-      "knowledge_point": "prefix_suffix",
-      "difficulty": 2,
-      "stem": "Everyone felt _______ when they heard the good news about winning the school basketball game.",
-      "options": [
-        "A. happily",
-        "B. unhappy",
-        "C. excited",
-        "D. exciting"
-      ],
-      "correct_answer": "C",
-      "explanation": "【解析】考查形容词辨析及-ed/-ing后缀区别。空格处需填形容词作表语，修饰人\"Everyone\"，且根据\"good news\"可知是积极情绪，故选\"excited\"（感到兴奋的）。\n\n【错因分析】A选项\"happily\"是副词，不能作表语；B选项\"unhappy\"（不开心的）带有否定前缀un-，与\"good news\"矛盾；D选项\"exciting\"（令人兴奋的）用于修饰事物，不能修饰人。\n\n【解题技巧】-ed形容词（excited/bored/interested）表示人的主观感受\"感到...的\"；-ing形容词（exciting/boring/interesting）表示事物的客观性质\"令人...的\"。口诀：\"人-ed，物-ing\"。",
-      "label": "词汇题"
-    },
-    {
-      "id": 7,
-      "type": "vocabulary",
       "knowledge_point": "phrasal_verbs",
       "difficulty": 2,
-      "stem": "Please _______ the lights and TV when you leave the classroom to save electricity.",
+      "stem": "Please ______ the lights when you leave the classroom to save electricity.",
       "options": [
         "A. turn on",
         "B. turn off",
@@ -111,246 +95,262 @@
         "D. turn down"
       ],
       "correct_answer": "B",
-      "explanation": "【解析】考查动词短语辨析。根据\"when you leave the classroom\"（离开教室时）和\"save electricity\"（节约用电）的语境，可知需要\"关闭\"电器，故选\"turn off\"。\n\n【错因分析】A选项\"turn on\"（打开）与\"save electricity\"矛盾；C选项\"turn up\"（调大音量/出现）和D选项\"turn down\"（调小音量/拒绝）均不符合\"离开教室\"的语境。\n\n【解题技巧】turn相关短语：turn on/off（开/关），turn up/down（调大/小），turn over（翻转），turn into（变成）。结合生活常识，离开教室应关灯。",
+      "explanation": "这道题考查动词短语辨析。turn on打开，turn off关闭，turn up调大（音量），turn down调小（音量）/拒绝。根据语境'leave the classroom'和'save electricity'，应该是关灯，选turn off。解题技巧：结合上下文逻辑，离开教室要省电，自然是关闭电器。",
+      "label": "词汇题"
+    },
+    {
+      "id": 7,
+      "type": "vocabulary",
+      "knowledge_point": "word_meaning",
+      "difficulty": 2,
+      "stem": "The old man lives ______ but he doesn't feel ______ because he has many neighbors to talk with.",
+      "options": [
+        "A. alone; lonely",
+        "B. lonely; alone",
+        "C. alone; alone",
+        "D. lonely; lonely"
+      ],
+      "correct_answer": "A",
+      "explanation": "这道题考查alone与lonely的辨析。alone是副词，强调客观上独自一人；lonely是形容词，强调主观上感到孤独。第一空修饰动词lives，用副词alone；第二空feel是系动词，后接形容词lonely作表语。句意：老人独自居住，但不感到孤独。技巧：alone客观描述，lonely主观感受。",
       "label": "词汇题"
     },
     {
       "id": 8,
       "type": "cloze",
       "knowledge_point": "cloze_general",
-      "difficulty": 1,
-      "group": "cloze_1",
-      "group_passage": "Last month, our school launched an environmental project called \"Green Campus\". The main goal was to encourage students to (8)______ our school environment in daily life. At the beginning, not many students paid attention to it. Some thought it was just another boring requirement from teachers. (9)______, everything changed after our headmaster gave a speech about climate change. He showed us some (10)______ pictures of plastic waste in the ocean. The images were so shocking that many students decided to take action immediately. Each class was asked to (11)______ a creative recycling plan. My classmates and I designed a system to collect used paper and bottles. We placed special bins in every classroom and checked them every Friday. Although it took a lot of time and effort, we felt really (12)______ when we saw how much material we had recycled by the end of the semester.",
+      "difficulty": 2,
       "stem": "(8)______",
       "options": [
-        "A. protect",
-        "B. pollute",
-        "C. destroy",
-        "D. change"
+        "A. found",
+        "B. made",
+        "C. took",
+        "D. gave"
       ],
-      "correct_answer": "A",
-      "explanation": "【解析】考查动词词义辨析及语境理解。根据上文\"environmental project\"（环保项目）和\"Green Campus\"（绿色校园）可知，项目目的是\"保护\"环境，故选A。B（污染）和C（破坏）为负面词汇，与环保主题相反；D（改变）虽中性但不如A准确体现环保项目的宗旨。",
-      "label": "完形填空"
+      "correct_answer": "B",
+      "explanation": "这道题考查固定搭配。make a plan是固定短语，意为'制定计划'。find找到，take带走，give给，均不与plan构成搭配。解题技巧：完形填空中常考动词与名词的固定搭配，需要积累常见组合如make a plan/decision/difference等。",
+      "label": "完形填空",
+      "group": "cloze_1",
+      "group_passage": "Last month, our school held an exciting science fair in the gym. All the students from Grade 8 were looking forward to showing their creative ideas and inventions. Our science teacher, Mr. Chen, encouraged us to think about green technology and recycling. I decided to make something both interesting and useful for the environment.\n\nAfter thinking for several days, I (8)______ a detailed plan to create a small machine that could turn waste paper into new notebooks. First, I collected old newspapers and magazines from my classmates and neighbors. I also watched many online videos to learn how paper recycling works. Then, I spent three weekends (9)______ it with my father's help in our garage. The hardest part was making the machine work smoothly without breaking down. Sometimes the paper got stuck inside the gears, and I had to take everything apart and fix it again and again. It was frustrating and tiring, but I didn't give up because I wanted to prove that waste could be treasure.\n\nOn the day of the fair, many students and teachers (10)______ my project and asked lots of questions. They were surprised that waste paper could become clean and usable notebooks again so easily. My teacher said this invention would help reduce pollution greatly if it (11)______ by more people in the future. Finally, I won the first prize. I felt proud not just because of the prize, (12)______ because I did something good for our planet through my own efforts."
     },
     {
       "id": 9,
       "type": "cloze",
       "knowledge_point": "cloze_general",
       "difficulty": 2,
-      "group": "cloze_1",
-      "group_passage": "Last month, our school launched an environmental project called \"Green Campus\". The main goal was to encourage students to (8)______ our school environment in daily life. At the beginning, not many students paid attention to it. Some thought it was just another boring requirement from teachers. (9)______, everything changed after our headmaster gave a speech about climate change. He showed us some (10)______ pictures of plastic waste in the ocean. The images were so shocking that many students decided to take action immediately. Each class was asked to (11)______ a creative recycling plan. My classmates and I designed a system to collect used paper and bottles. We placed special bins in every classroom and checked them every Friday. Although it took a lot of time and effort, we felt really (12)______ when we saw how much material we had recycled by the end of the semester.",
       "stem": "(9)______",
       "options": [
-        "A. Luckily",
-        "B. Suddenly",
-        "C. However",
-        "D. Immediately"
+        "A. on",
+        "B. in",
+        "C. with",
+        "D. building"
       ],
-      "correct_answer": "C",
-      "explanation": "【解析】考查逻辑关系副词。前文提到\"not many students paid attention\"（很多学生不在意），后文说\"everything changed\"（一切都变了），前后为转折关系，故选C（然而）。A（幸运地）表示庆幸；B（突然地）强调时间快；D（立即）强调速度快，均不如C准确体现态度转变的对比。",
-      "label": "完形填空"
+      "correct_answer": "D",
+      "explanation": "这道题考查非谓语动词。spend time (in) doing sth是固定句型，意为'花费时间做某事'，其中in可以省略，后面必须接动词的-ing形式。只有building是动名词形式。其他选项都是介词，不能直接跟在spend three weekends后表示花费时间做某事。",
+      "label": "完形填空",
+      "group": "cloze_1",
+      "group_passage": "Last month, our school held an exciting science fair in the gym. All the students from Grade 8 were looking forward to showing their creative ideas and inventions. Our science teacher, Mr. Chen, encouraged us to think about green technology and recycling. I decided to make something both interesting and useful for the environment.\n\nAfter thinking for several days, I (8)______ a detailed plan to create a small machine that could turn waste paper into new notebooks. First, I collected old newspapers and magazines from my classmates and neighbors. I also watched many online videos to learn how paper recycling works. Then, I spent three weekends (9)______ it with my father's help in our garage. The hardest part was making the machine work smoothly without breaking down. Sometimes the paper got stuck inside the gears, and I had to take everything apart and fix it again and again. It was frustrating and tiring, but I didn't give up because I wanted to prove that waste could be treasure.\n\nOn the day of the fair, many students and teachers (10)______ my project and asked lots of questions. They were surprised that waste paper could become clean and usable notebooks again so easily. My teacher said this invention would help reduce pollution greatly if it (11)______ by more people in the future. Finally, I won the first prize. I felt proud not just because of the prize, (12)______ because I did something good for our planet through my own efforts."
     },
     {
       "id": 10,
       "type": "cloze",
       "knowledge_point": "cloze_general",
-      "difficulty": 2,
-      "group": "cloze_1",
-      "group_passage": "Last month, our school launched an environmental project called \"Green Campus\". The main goal was to encourage students to (8)______ our school environment in daily life. At the beginning, not many students paid attention to it. Some thought it was just another boring requirement from teachers. (9)______, everything changed after our headmaster gave a speech about climate change. He showed us some (10)______ pictures of plastic waste in the ocean. The images were so shocking that many students decided to take action immediately. Each class was asked to (11)______ a creative recycling plan. My classmates and I designed a system to collect used paper and bottles. We placed special bins in every classroom and checked them every Friday. Although it took a lot of time and effort, we felt really (12)______ when we saw how much material we had recycled by the end of the semester.",
+      "difficulty": 1,
       "stem": "(10)______",
       "options": [
-        "A. beautiful",
-        "B. terrible",
-        "C. colorful",
-        "D. peaceful"
+        "A. visited",
+        "B. looked for",
+        "C. laughed at",
+        "D. worried about"
       ],
-      "correct_answer": "B",
-      "explanation": "【解析】考查形容词词义辨析。根据下文\"plastic waste in the ocean\"（海洋中的塑料垃圾）和\"shocking\"（令人震惊的）可知，这些图片应该是\"糟糕的、可怕的\"，故选B。A（美丽的）、C（多彩的）、D（平静的）均为正面或中性词汇，与\"垃圾\"和\"震惊\"的负面语境不符。",
-      "label": "完形填空"
+      "correct_answer": "A",
+      "explanation": "这道题考查语境理解。根据上下文，在科技展当天，学生和老师应该是来'参观'项目，asked lots of questions也印证了这一点。look for寻找（强调过程），laugh at嘲笑（与后文 surprised和won prize矛盾），worry about担心（不符合语境）。visit参观，符合展览场景。",
+      "label": "完形填空",
+      "group": "cloze_1",
+      "group_passage": "Last month, our school held an exciting science fair in the gym. All the students from Grade 8 were looking forward to showing their creative ideas and inventions. Our science teacher, Mr. Chen, encouraged us to think about green technology and recycling. I decided to make something both interesting and useful for the environment.\n\nAfter thinking for several days, I (8)______ a detailed plan to create a small machine that could turn waste paper into new notebooks. First, I collected old newspapers and magazines from my classmates and neighbors. I also watched many online videos to learn how paper recycling works. Then, I spent three weekends (9)______ it with my father's help in our garage. The hardest part was making the machine work smoothly without breaking down. Sometimes the paper got stuck inside the gears, and I had to take everything apart and fix it again and again. It was frustrating and tiring, but I didn't give up because I wanted to prove that waste could be treasure.\n\nOn the day of the fair, many students and teachers (10)______ my project and asked lots of questions. They were surprised that waste paper could become clean and usable notebooks again so easily. My teacher said this invention would help reduce pollution greatly if it (11)______ by more people in the future. Finally, I won the first prize. I felt proud not just because of the prize, (12)______ because I did something good for our planet through my own efforts."
     },
     {
       "id": 11,
       "type": "cloze",
-      "knowledge_point": "cloze_general",
+      "knowledge_point": "passive_voice",
       "difficulty": 2,
-      "group": "cloze_1",
-      "group_passage": "Last month, our school launched an environmental project called \"Green Campus\". The main goal was to encourage students to (8)______ our school environment in daily life. At the beginning, not many students paid attention to it. Some thought it was just another boring requirement from teachers. (9)______, everything changed after our headmaster gave a speech about climate change. He showed us some (10)______ pictures of plastic waste in the ocean. The images were so shocking that many students decided to take action immediately. Each class was asked to (11)______ a creative recycling plan. My classmates and I designed a system to collect used paper and bottles. We placed special bins in every classroom and checked them every Friday. Although it took a lot of time and effort, we felt really (12)______ when we saw how much material we had recycled by the end of the semester.",
       "stem": "(11)______",
       "options": [
-        "A. find out",
-        "B. think of",
-        "C. look for",
-        "D. give up"
+        "A. uses",
+        "B. is used",
+        "C. used",
+        "D. was used"
       ],
       "correct_answer": "B",
-      "explanation": "【解析】考查动词短语辨析。根据宾语\"a creative recycling plan\"（一个有创意的回收计划）可知，此处指\"想出、提出\"计划，故选B（think of 想出）。A（查明，弄清楚）通常指发现事实；C（寻找）强调找的动作；D（放弃）与语境相反。",
-      "label": "完形填空"
+      "explanation": "这道题考查被动语态。主语it指代invention，与use之间是被动关系（发明被使用），因此要用被动语态be+过去分词。if引导的条件状语从句，主句would help是过去将来时，从句用一般过去时，但此处by more people表明被动，且表示客观事实，用一般现在时被动is used更合适（主将从现原则的变化）。was used虽也是被动，但if虚拟语气中，与将来事实相反用过去式或should/were to，此处表示真实条件，用一般现在时表将来。",
+      "label": "完形填空",
+      "group": "cloze_1",
+      "group_passage": "Last month, our school held an exciting science fair in the gym. All the students from Grade 8 were looking forward to showing their creative ideas and inventions. Our science teacher, Mr. Chen, encouraged us to think about green technology and recycling. I decided to make something both interesting and useful for the environment.\n\nAfter thinking for several days, I (8)______ a detailed plan to create a small machine that could turn waste paper into new notebooks. First, I collected old newspapers and magazines from my classmates and neighbors. I also watched many online videos to learn how paper recycling works. Then, I spent three weekends (9)______ it with my father's help in our garage. The hardest part was making the machine work smoothly without breaking down. Sometimes the paper got stuck inside the gears, and I had to take everything apart and fix it again and again. It was frustrating and tiring, but I didn't give up because I wanted to prove that waste could be treasure.\n\nOn the day of the fair, many students and teachers (10)______ my project and asked lots of questions. They were surprised that waste paper could become clean and usable notebooks again so easily. My teacher said this invention would help reduce pollution greatly if it (11)______ by more people in the future. Finally, I won the first prize. I felt proud not just because of the prize, (12)______ because I did something good for our planet through my own efforts."
     },
     {
       "id": 12,
       "type": "cloze",
       "knowledge_point": "cloze_general",
       "difficulty": 1,
-      "group": "cloze_1",
-      "group_passage": "Last month, our school launched an environmental project called \"Green Campus\". The main goal was to encourage students to (8)______ our school environment in daily life. At the beginning, not many students paid attention to it. Some thought it was just another boring requirement from teachers. (9)______, everything changed after our headmaster gave a speech about climate change. He showed us some (10)______ pictures of plastic waste in the ocean. The images were so shocking that many students decided to take action immediately. Each class was asked to (11)______ a creative recycling plan. My classmates and I designed a system to collect used paper and bottles. We placed special bins in every classroom and checked them every Friday. Although it took a lot of time and effort, we felt really (12)______ when we saw how much material we had recycled by the end of the semester.",
       "stem": "(12)______",
       "options": [
-        "A. proud",
-        "B. sorry",
-        "C. worried",
-        "D. lonely"
+        "A. and",
+        "B. or",
+        "C. but",
+        "D. so"
       ],
-      "correct_answer": "A",
-      "explanation": "【解析】考查情感线索及形容词辨析。根据\"we had recycled\"（我们回收了）和\"Although it took a lot of time\"（尽管花了很长时间）的让步关系，可知看到成果应该感到\"自豪\"，故选A。B（抱歉的）、C（担心的）、D（孤独的）均为负面情绪，与看到成果的成就感不符。",
-      "label": "完形填空"
+      "correct_answer": "C",
+      "explanation": "这道题考查固定搭配。not...but...是固定结构，意为'不是……而是……'。前文有not just because，后文对应but because，表示'不仅因为……而是因为……'。and用于并列，or表选择，so表结果，均不构成此搭配。",
+      "label": "完形填空",
+      "group": "cloze_1",
+      "group_passage": "Last month, our school held an exciting science fair in the gym. All the students from Grade 8 were looking forward to showing their creative ideas and inventions. Our science teacher, Mr. Chen, encouraged us to think about green technology and recycling. I decided to make something both interesting and useful for the environment.\n\nAfter thinking for several days, I (8)______ a detailed plan to create a small machine that could turn waste paper into new notebooks. First, I collected old newspapers and magazines from my classmates and neighbors. I also watched many online videos to learn how paper recycling works. Then, I spent three weekends (9)______ it with my father's help in our garage. The hardest part was making the machine work smoothly without breaking down. Sometimes the paper got stuck inside the gears, and I had to take everything apart and fix it again and again. It was frustrating and tiring, but I didn't give up because I wanted to prove that waste could be treasure.\n\nOn the day of the fair, many students and teachers (10)______ my project and asked lots of questions. They were surprised that waste paper could become clean and usable notebooks again so easily. My teacher said this invention would help reduce pollution greatly if it (11)______ by more people in the future. Finally, I won the first prize. I felt proud not just because of the prize, (12)______ because I did something good for our planet through my own efforts."
     },
     {
       "id": 13,
-      "type": "reading",
-      "knowledge_point": "detail",
+      "type": "fill",
+      "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "group": "reading_1",
-      "group_passage": "Do you know that your old clothes could become a new pair of shoes? A new technology called \"textile recycling\" is making this possible. Traditional recycling methods often break down clothes into low-quality materials that can only be used for cleaning rags or insulation (绝缘材料). However, scientists in Sweden have developed a new machine that can separate mixed fibers and turn them into high-quality thread. This means your cotton T-shirt could become part of a new dress instead of ending up in a landfill (垃圾填埋场). The process works like this: First, the old clothes are collected and sorted by color. Then, they are cut into small pieces and treated with a special liquid that breaks down the fibers. Finally, these fibers are spun into new yarn that feels just like fresh cotton. This technology is not only good for the environment but also creates job opportunities. Many clothing companies are now building recycling factories in different cities. \"We want to make fashion circular,\" says Lisa Chen, a designer at GreenWear Company. \"In the future, nothing should be wasted.\" However, there are still challenges. The recycling machines are expensive, and not all types of fabric can be processed yet. Scientists are working hard to solve these problems.",
-      "stem": "What have scientists in Sweden developed according to the passage?",
+      "stem": "(13)______",
       "options": [
-        "A. A new type of cotton plant.",
-        "B. A machine to separate mixed fibers.",
-        "C. A method to dye clothes faster.",
-        "D. A way to make clothes waterproof."
+        "A. Here are some simple ways to begin.",
+        "B. However, don't drink too much coffee.",
+        "C. In addition, getting enough sleep is necessary.",
+        "D. Small activities are enough.",
+        "E. It is better than sugary drinks."
       ],
-      "correct_answer": "B",
-      "explanation": "【解析】细节理解题。根据文章第二段第三句\"However, scientists in Sweden have developed a new machine that can separate mixed fibers and turn them into high-quality thread\"（然而，瑞典科学家开发了一种新机器，可以分离混合纤维并将其转化为高质量线料）可知，正确答案为B。\n\n【解题技巧】细节题定位法：1. 划关键词（Sweden, developed）；2. 回原文找对应句（第二段）；3. 比对选项与原文的同义转换（machine原词复现，separate mixed fibers原词复现）。",
-      "label": "阅读-细节理解"
+      "correct_answer": "A",
+      "explanation": "这道题考查段落主旨句。空格位于段首，后文用First引出第一个建议，说明此处是总起句，引出下文的建议。A选项'这里有一些简单的开始方法'符合总分结构，承上启下。B谈咖啡，C谈睡眠，D谈活动量，E谈饮料，都是具体细节，不适合作为引出First的总起句。",
+      "label": "短文填空",
+      "group": "fill_1",
+      "group_passage": "Many middle school students want to stay healthy and energetic, but they often don't know how to start or what to do first. (13)______ First, eating a good breakfast is very important for teenagers. It gives you enough energy for the whole morning and helps your brain work better. Try to eat eggs, milk and fresh fruit instead of junk food like chips or hamburgers.\n\nSecond, remember to exercise regularly. You don't need to run marathons or join expensive gyms to stay fit. (14)______ Walking to school, riding a bike for 20 minutes, or playing basketball with friends every day can make a big difference to your health over time.\n\n(15)______ Many students nowadays stay up late to play computer games or watch short videos on their phones. However, doctors say teenagers need at least 8 hours of sleep to grow well and stay focused. If you don't sleep enough, you will feel tired and sleepy in class.\n\nFinally, drink plenty of water throughout the day. (16)______ Soft drinks and energy drinks may taste good but they contain too much sugar which is bad for your teeth and body. Pure water is always the best choice for keeping your body hydrated and healthy.\n\nFollow these simple tips consistently, and you will soon feel better, look better, and study better at school."
     },
     {
       "id": 14,
-      "type": "reading",
-      "knowledge_point": "word_guessing",
+      "type": "fill",
+      "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "group": "reading_1",
-      "group_passage": "Do you know that your old clothes could become a new pair of shoes? A new technology called \"textile recycling\" is making this possible. Traditional recycling methods often break down clothes into low-quality materials that can only be used for cleaning rags or insulation (绝缘材料). However, scientists in Sweden have developed a new machine that can separate mixed fibers and turn them into high-quality thread. This means your cotton T-shirt could become part of a new dress instead of ending up in a landfill (垃圾填埋场). The process works like this: First, the old clothes are collected and sorted by color. Then, they are cut into small pieces and treated with a special liquid that breaks down the fibers. Finally, these fibers are spun into new yarn that feels just like fresh cotton. This technology is not only good for the environment but also creates job opportunities. Many clothing companies are now building recycling factories in different cities. \"We want to make fashion circular,\" says Lisa Chen, a designer at GreenWear Company. \"In the future, nothing should be wasted.\" However, there are still challenges. The recycling machines are expensive, and not all types of fabric can be processed yet. Scientists are working hard to solve these problems.",
-      "stem": "What does the underlined word \"circular\" probably mean in the passage?",
+      "stem": "(14)______",
       "options": [
-        "A. Round in shape.",
-        "B. Moving in a circle.",
-        "C. Able to be recycled and reused.",
-        "D. Cheap and affordable."
+        "A. Here are some simple ways to begin.",
+        "B. However, don't drink too much coffee.",
+        "C. In addition, getting enough sleep is necessary.",
+        "D. Small activities are enough.",
+        "E. It is better than sugary drinks."
       ],
-      "correct_answer": "C",
-      "explanation": "【解析】词义猜测题。根据上下文语境，前文提到旧衣服可以变成新裙子（recycling），后文Lisa说\"In the future, nothing should be wasted\"（未来不应有浪费），可推断\"circular\"在此指\"可循环的、可回收再利用的\"，故选C。\n\n【干扰项分析】A、B选项是circular的字面意思\"圆形的\"，但在本文中是引申义；D选项\"便宜的\"与下文\"machines are expensive\"矛盾。\n\n【解题技巧】词义猜测题不要只看单词本身，要通过\"上下文语境法\"和\"定义解释法\"判断。下文\"nothing should be wasted\"是对circular fashion的解释说明。",
-      "label": "阅读-词义猜测"
+      "correct_answer": "D",
+      "explanation": "这道题考查逻辑衔接。前文说'你不需要跑马拉松或加入昂贵的健身房'，后文说'步行上学、骑20分钟自行车或打篮球'，这些都是小运动量的例子。D选项'小型活动就足够了'承上启下，解释不需要剧烈运动，日常小活动即可。A是总起句已用过，B、C、E话题不符。",
+      "label": "短文填空",
+      "group": "fill_1",
+      "group_passage": "Many middle school students want to stay healthy and energetic, but they often don't know how to start or what to do first. (13)______ First, eating a good breakfast is very important for teenagers. It gives you enough energy for the whole morning and helps your brain work better. Try to eat eggs, milk and fresh fruit instead of junk food like chips or hamburgers.\n\nSecond, remember to exercise regularly. You don't need to run marathons or join expensive gyms to stay fit. (14)______ Walking to school, riding a bike for 20 minutes, or playing basketball with friends every day can make a big difference to your health over time.\n\n(15)______ Many students nowadays stay up late to play computer games or watch short videos on their phones. However, doctors say teenagers need at least 8 hours of sleep to grow well and stay focused. If you don't sleep enough, you will feel tired and sleepy in class.\n\nFinally, drink plenty of water throughout the day. (16)______ Soft drinks and energy drinks may taste good but they contain too much sugar which is bad for your teeth and body. Pure water is always the best choice for keeping your body hydrated and healthy.\n\nFollow these simple tips consistently, and you will soon feel better, look better, and study better at school."
     },
     {
       "id": 15,
-      "type": "reading",
-      "knowledge_point": "inference",
-      "difficulty": 3,
-      "group": "reading_1",
-      "group_passage": "Do you know that your old clothes could become a new pair of shoes? A new technology called \"textile recycling\" is making this possible. Traditional recycling methods often break down clothes into low-quality materials that can only be used for cleaning rags or insulation (绝缘材料). However, scientists in Sweden have developed a new machine that can separate mixed fibers and turn them into high-quality thread. This means your cotton T-shirt could become part of a new dress instead of ending up in a landfill (垃圾填埋场). The process works like this: First, the old clothes are collected and sorted by color. Then, they are cut into small pieces and treated with a special liquid that breaks down the fibers. Finally, these fibers are spun into new yarn that feels just like fresh cotton. This technology is not only good for the environment but also creates job opportunities. Many clothing companies are now building recycling factories in different cities. \"We want to make fashion circular,\" says Lisa Chen, a designer at GreenWear Company. \"In the future, nothing should be wasted.\" However, there are still challenges. The recycling machines are expensive, and not all types of fabric can be processed yet. Scientists are working hard to solve these problems.",
-      "stem": "What can we infer from the passage?",
+      "type": "fill",
+      "knowledge_point": "sentence_fill",
+      "difficulty": 2,
+      "stem": "(15)______",
       "options": [
-        "A. All types of clothes can be recycled by this technology now.",
-        "B. Traditional recycling is more useful than the new method.",
-        "C. The new technology helps reduce environmental pollution.",
-        "D. Lisa Chen works as a scientist in Sweden."
+        "A. Here are some simple ways to begin.",
+        "B. However, don't drink too much coffee.",
+        "C. In addition, getting enough sleep is necessary.",
+        "D. Small activities are enough.",
+        "E. It is better than sugary drinks."
       ],
       "correct_answer": "C",
-      "explanation": "【解析】推理判断题。根据文章第二段\"instead of ending up in a landfill\"（而不是被丢进垃圾填埋场）和倒数第三段\"not only good for the environment\"（不仅对环境有益）可推断，这项技术有助于减少环境污染，故选C。\n\n【错因分析】A选项与最后一段\"not all types of fabric can be processed yet\"（并非所有面料都能处理）矛盾；B选项与第二段\"Traditional recycling methods often break down clothes into low-quality materials\"（传统方法只能产生低质量材料）矛盾；D选项与\"Lisa Chen, a designer at GreenWear Company\"（设计师，非科学家）不符。\n\n【解题技巧】推理题必须基于原文信息，不能过度推断，也不能选择原文直接陈述的事实（infer指推断出的隐含信息），要排除与原文矛盾的选项。",
-      "label": "阅读-推理判断"
+      "explanation": "这道题考查段落主题句。本段主要讲睡眠的重要性，提到stay up late和need at least 8 hours of sleep。C选项'此外，获得足够的睡眠是必要的'作为段首主题句恰当。In addition表示递进，承接前面的First和Second。其他选项话题与睡眠无关。",
+      "label": "短文填空",
+      "group": "fill_1",
+      "group_passage": "Many middle school students want to stay healthy and energetic, but they often don't know how to start or what to do first. (13)______ First, eating a good breakfast is very important for teenagers. It gives you enough energy for the whole morning and helps your brain work better. Try to eat eggs, milk and fresh fruit instead of junk food like chips or hamburgers.\n\nSecond, remember to exercise regularly. You don't need to run marathons or join expensive gyms to stay fit. (14)______ Walking to school, riding a bike for 20 minutes, or playing basketball with friends every day can make a big difference to your health over time.\n\n(15)______ Many students nowadays stay up late to play computer games or watch short videos on their phones. However, doctors say teenagers need at least 8 hours of sleep to grow well and stay focused. If you don't sleep enough, you will feel tired and sleepy in class.\n\nFinally, drink plenty of water throughout the day. (16)______ Soft drinks and energy drinks may taste good but they contain too much sugar which is bad for your teeth and body. Pure water is always the best choice for keeping your body hydrated and healthy.\n\nFollow these simple tips consistently, and you will soon feel better, look better, and study better at school."
     },
     {
       "id": 16,
-      "type": "reading",
-      "knowledge_point": "main_idea",
-      "difficulty": 3,
-      "group": "reading_1",
-      "group_passage": "Do you know that your old clothes could become a new pair of shoes? A new technology called \"textile recycling\" is making this possible. Traditional recycling methods often break down clothes into low-quality materials that can only be used for cleaning rags or insulation (绝缘材料). However, scientists in Sweden have developed a new machine that can separate mixed fibers and turn them into high-quality thread. This means your cotton T-shirt could become part of a new dress instead of ending up in a landfill (垃圾填埋场). The process works like this: First, the old clothes are collected and sorted by color. Then, they are cut into small pieces and treated with a special liquid that breaks down the fibers. Finally, these fibers are spun into new yarn that feels just like fresh cotton. This technology is not only good for the environment but also creates job opportunities. Many clothing companies are now building recycling factories in different cities. \"We want to make fashion circular,\" says Lisa Chen, a designer at GreenWear Company. \"In the future, nothing should be wasted.\" However, there are still challenges. The recycling machines are expensive, and not all types of fabric can be processed yet. Scientists are working hard to solve these problems.",
-      "stem": "What is the best title for the passage?",
+      "type": "fill",
+      "knowledge_point": "sentence_fill",
+      "difficulty": 2,
+      "stem": "(16)______",
       "options": [
-        "A. How to Design Fashionable Clothes",
-        "B. The Future of Textile Recycling Technology",
-        "C. Why We Should Buy New Clothes",
-        "D. The History of Swedish Inventions"
+        "A. Here are some simple ways to begin.",
+        "B. However, don't drink too much coffee.",
+        "C. In addition, getting enough sleep is necessary.",
+        "D. Small activities are enough.",
+        "E. It is better than sugary drinks."
       ],
-      "correct_answer": "B",
-      "explanation": "【解析】主旨大意题。文章首段引入\"textile recycling\"（纺织品回收）技术，第二段对比传统方法与新技术的优势，第三段介绍流程，第四、五段讨论应用与前景，第六段提及挑战。全文围绕纺织品回收技术展开，故B选项最能概括主旨。\n\n【错因分析】A选项\"设计时尚服装\"只在第四段提及，是细节非主旨；C选项\"为什么买新衣服\"与文章\"回收旧衣服\"主题相反；D选项\"瑞典发明史\"过于宽泛，文章只提及其纺织品回收机器。\n\n【解题技巧】主旨题/标题题选择标准：1. 涵盖全文主要内容，不偏题；2. 不能过大（D选项）或过小（A选项）；3. 注意高频词（textile recycling在文中多次出现）。",
-      "label": "阅读-主旨大意"
+      "correct_answer": "E",
+      "explanation": "这道题考查指代衔接。前文说'喝大量的水'，后文说'软饮料可能味道好但含糖太多'。E选项'它比含糖饮料更好'中的It指代water，承上启下，引出后文对软饮料的对比说明。B选项也谈饮料，但用However转折语气不如E选项顺承自然，且咖啡不是本段重点。",
+      "label": "短文填空",
+      "group": "fill_1",
+      "group_passage": "Many middle school students want to stay healthy and energetic, but they often don't know how to start or what to do first. (13)______ First, eating a good breakfast is very important for teenagers. It gives you enough energy for the whole morning and helps your brain work better. Try to eat eggs, milk and fresh fruit instead of junk food like chips or hamburgers.\n\nSecond, remember to exercise regularly. You don't need to run marathons or join expensive gyms to stay fit. (14)______ Walking to school, riding a bike for 20 minutes, or playing basketball with friends every day can make a big difference to your health over time.\n\n(15)______ Many students nowadays stay up late to play computer games or watch short videos on their phones. However, doctors say teenagers need at least 8 hours of sleep to grow well and stay focused. If you don't sleep enough, you will feel tired and sleepy in class.\n\nFinally, drink plenty of water throughout the day. (16)______ Soft drinks and energy drinks may taste good but they contain too much sugar which is bad for your teeth and body. Pure water is always the best choice for keeping your body hydrated and healthy.\n\nFollow these simple tips consistently, and you will soon feel better, look better, and study better at school."
     },
     {
       "id": 17,
-      "type": "fill",
-      "knowledge_point": "sentence_fill",
-      "difficulty": 2,
-      "group": "fill_1",
-      "group_passage": "Joining a school club can bring many benefits to your middle school life. It helps you make new friends and discover your hidden talents. (17)______ Three years ago, I joined the Science Club because of my interest in experiments. However, I soon faced a big challenge. Our team needed to build a small robot for a competition, but I knew nothing about programming. (18)______ I wanted to give up and leave the club. Fortunately, my team leader noticed my problem. Instead of blaming me, he spent his weekends teaching me the basics. (19)______ Slowly, I began to understand how to code and even came up with some creative ideas for our robot. In the end, we won the second prize in the city competition. (20)______ I realized that difficulties are just opportunities in disguise.",
-      "stem": "(17)______",
+      "type": "reading",
+      "knowledge_point": "detail",
+      "difficulty": 1,
+      "stem": "What happens when sea animals eat plastic according to the passage?",
       "options": [
-        "A. Then, he showed me some online tutorials and practice projects.",
-        "B. However, I found it too difficult to continue.",
-        "C. Let me tell you my own story as an example.",
-        "D. As a result, I became more confident in learning new things.",
-        "E. Therefore, I decided to work alone on a different project."
+        "A. They become stronger.",
+        "B. They get sick or die.",
+        "C. They can swim faster.",
+        "D. They find more food."
       ],
-      "correct_answer": "C",
-      "explanation": "【解析】考查段落衔接与逻辑关系。前文总述参加社团的好处，后文开始讲述\"我\"的具体经历，此处需要一个过渡句引出个人故事，故选C（让我给你讲讲我的故事作为例子）。\n\n【解题技巧】七选五/选句填空要注意\"承上启下\"：C选项中的\"my own story\"引出下文，\"as an example\"承接上文的总述。",
-      "label": "短文填空"
+      "correct_answer": "B",
+      "explanation": "这道题考查细节理解。根据文章第一段最后一句'When this happens, the animals can get sick or even die because the plastic blocks their stomachs.'（当这种情况发生时，动物会生病甚至死亡，因为塑料堵塞了它们的胃。）可知答案是B。A、C、D均与原文不符。解题技巧：细节题要找准关键词（sea animals eat plastic），回原文定位具体句子。",
+      "label": "阅读-细节理解",
+      "group": "reading_1",
+      "group_passage": "Our oceans are facing a serious environmental problem that affects everyone on Earth. Every year, millions of tons of plastic waste enter the sea through rivers and coastlines. This causes great danger to sea animals and plants. Many turtles, fish and birds mistake plastic bags for jellyfish or other food and eat them accidentally. When this happens, the animals can get sick or even die because the plastic blocks their stomachs.\n\nHowever, some clever young people around the world are finding creative ways to solve this growing problem. In Australia, a group of teenagers invented a special machine that cleans plastic from rivers before it reaches the ocean. The machine works like a large vacuum cleaner. It sucks up rubbish while letting water and small fish pass through safely. This prevents tons of plastic from ever reaching the sea.\n\nAnother good idea comes from the Netherlands. Scientists there created something called a bubble barrier—a wall of air bubbles that pushes plastic waste to one side of the river. This simple but effective method stops the waste from floating into the open sea. Amazingly, fish can swim through the bubbles easily without any harm, but plastic pieces cannot get past the barrier.\n\nThese wonderful inventions show that young people can really make a difference in protecting nature. By keeping our rivers clean, we also protect the oceans and all the creatures living there. Remember, everyone can help by using fewer plastic bags and bottles in daily life. Small changes in our habits can lead to big improvements for the environment."
     },
     {
       "id": 18,
-      "type": "fill",
-      "knowledge_point": "sentence_fill",
+      "type": "reading",
+      "knowledge_point": "inference",
       "difficulty": 2,
-      "group": "fill_1",
-      "group_passage": "Joining a school club can bring many benefits to your middle school life. It helps you make new friends and discover your hidden talents. (17)______ Three years ago, I joined the Science Club because of my interest in experiments. However, I soon faced a big challenge. Our team needed to build a small robot for a competition, but I knew nothing about programming. (18)______ I wanted to give up and leave the club. Fortunately, my team leader noticed my problem. Instead of blaming me, he spent his weekends teaching me the basics. (19)______ Slowly, I began to understand how to code and even came up with some creative ideas for our robot. In the end, we won the second prize in the city competition. (20)______ I realized that difficulties are just opportunities in disguise.",
-      "stem": "(18)______",
+      "stem": "What can we learn from the passage?",
       "options": [
-        "A. Then, he showed me some online tutorials and practice projects.",
-        "B. However, I found it too difficult to continue.",
-        "C. Let me tell you my own story as an example.",
-        "D. As a result, I became more confident in learning new things.",
-        "E. Therefore, I decided to work alone on a different project."
+        "A. All sea animals like eating plastic.",
+        "B. The bubble barrier kills fish.",
+        "C. Teenagers invented useful machines to help the environment.",
+        "D. Plastic waste is not a serious problem now."
       ],
-      "correct_answer": "B",
-      "explanation": "【解析】考查转折关系。前文提到\"faced a big challenge\"（面临挑战）和\"knew nothing about programming\"（对编程一无所知），后文说\"wanted to give up\"（想放弃），中间需要表达\"困难太大\"的过渡，故选B（然而，我发现继续下去太难了）。\n\n【解题技巧】注意逻辑信号词：前文\"However\"已出现一次表示转折，此处B选项的\"However\"进一步强化遇到困难后的消极情绪，与后文\"想放弃\"形成因果链。",
-      "label": "短文填空"
+      "correct_answer": "C",
+      "explanation": "这道题考查推理判断。根据第二段'In Australia, a group of teenagers invented a special machine...'可知青少年发明了有用的机器帮助环境，C正确。A错误，动物是mistake...for（误以为）而非喜欢；B错误，第三段说fish can swim through the bubbles easily without any harm；D错误，文章开头就说facing a serious environmental problem。推理题要基于原文信息，不能过度推断。",
+      "label": "阅读-推理判断",
+      "group": "reading_1",
+      "group_passage": "Our oceans are facing a serious environmental problem that affects everyone on Earth. Every year, millions of tons of plastic waste enter the sea through rivers and coastlines. This causes great danger to sea animals and plants. Many turtles, fish and birds mistake plastic bags for jellyfish or other food and eat them accidentally. When this happens, the animals can get sick or even die because the plastic blocks their stomachs.\n\nHowever, some clever young people around the world are finding creative ways to solve this growing problem. In Australia, a group of teenagers invented a special machine that cleans plastic from rivers before it reaches the ocean. The machine works like a large vacuum cleaner. It sucks up rubbish while letting water and small fish pass through safely. This prevents tons of plastic from ever reaching the sea.\n\nAnother good idea comes from the Netherlands. Scientists there created something called a bubble barrier—a wall of air bubbles that pushes plastic waste to one side of the river. This simple but effective method stops the waste from floating into the open sea. Amazingly, fish can swim through the bubbles easily without any harm, but plastic pieces cannot get past the barrier.\n\nThese wonderful inventions show that young people can really make a difference in protecting nature. By keeping our rivers clean, we also protect the oceans and all the creatures living there. Remember, everyone can help by using fewer plastic bags and bottles in daily life. Small changes in our habits can lead to big improvements for the environment."
     },
     {
       "id": 19,
-      "type": "fill",
-      "knowledge_point": "sentence_fill",
+      "type": "reading",
+      "knowledge_point": "word_guessing",
       "difficulty": 2,
-      "group": "fill_1",
-      "group_passage": "Joining a school club can bring many benefits to your middle school life. It helps you make new friends and discover your hidden talents. (17)______ Three years ago, I joined the Science Club because of my interest in experiments. However, I soon faced a big challenge. Our team needed to build a small robot for a competition, but I knew nothing about programming. (18)______ I wanted to give up and leave the club. Fortunately, my team leader noticed my problem. Instead of blaming me, he spent his weekends teaching me the basics. (19)______ Slowly, I began to understand how to code and even came up with some creative ideas for our robot. In the end, we won the second prize in the city competition. (20)______ I realized that difficulties are just opportunities in disguise.",
-      "stem": "(19)______",
+      "stem": "The underlined phrase 'sucks up' in Paragraph 2 probably means ______ in Chinese.",
       "options": [
-        "A. Then, he showed me some online tutorials and practice projects.",
-        "B. However, I found it too difficult to continue.",
-        "C. Let me tell you my own story as an example.",
-        "D. As a result, I became more confident in learning new things.",
-        "E. Therefore, I decided to work alone on a different project."
+        "A. 吹走",
+        "B. 吸走",
+        "C. 推动",
+        "D. 溶解"
       ],
-      "correct_answer": "A",
-      "explanation": "【解析】考查顺承关系。前文提到\"he spent his weekends teaching me the basics\"（他周末教我基础知识），后文说\"Slowly, I began to understand\"（慢慢地我开始理解），中间需要具体的教学行为，故选A（然后，他给我看了一些在线教程和练习项目）。\n\n【解题技巧】注意代词指代：A选项中的\"he\"指代前文的\"team leader\"，时间副词\"Then\"表示动作的连续性，符合\"教基础知识→展示教程→慢慢理解\"的时间顺序。",
-      "label": "短文填空"
+      "correct_answer": "B",
+      "explanation": "这道题考查词义猜测。根据前文'works like a large vacuum cleaner'（像大型吸尘器一样工作），吸尘器的工作原理是吸入，因此suck up意为'吸走'。后文also提到letting water and small fish pass through（让水和小鱼通过），进一步说明机器像吸尘器一样吸走垃圾但让其他东西通过。词义猜测技巧：利用上下文线索，如比喻词like，以及同段内的解释说明。",
+      "label": "阅读-词义猜测",
+      "group": "reading_1",
+      "group_passage": "Our oceans are facing a serious environmental problem that affects everyone on Earth. Every year, millions of tons of plastic waste enter the sea through rivers and coastlines. This causes great danger to sea animals and plants. Many turtles, fish and birds mistake plastic bags for jellyfish or other food and eat them accidentally. When this happens, the animals can get sick or even die because the plastic blocks their stomachs.\n\nHowever, some clever young people around the world are finding creative ways to solve this growing problem. In Australia, a group of teenagers invented a special machine that cleans plastic from rivers before it reaches the ocean. The machine works like a large vacuum cleaner. It sucks up rubbish while letting water and small fish pass through safely. This prevents tons of plastic from ever reaching the sea.\n\nAnother good idea comes from the Netherlands. Scientists there created something called a bubble barrier—a wall of air bubbles that pushes plastic waste to one side of the river. This simple but effective method stops the waste from floating into the open sea. Amazingly, fish can swim through the bubbles easily without any harm, but plastic pieces cannot get past the barrier.\n\nThese wonderful inventions show that young people can really make a difference in protecting nature. By keeping our rivers clean, we also protect the oceans and all the creatures living there. Remember, everyone can help by using fewer plastic bags and bottles in daily life. Small changes in our habits can lead to big improvements for the environment."
     },
     {
       "id": 20,
-      "type": "fill",
-      "knowledge_point": "sentence_fill",
-      "difficulty": 2,
-      "group": "fill_1",
-      "group_passage": "Joining a school club can bring many benefits to your middle school life. It helps you make new friends and discover your hidden talents. (17)______ Three years ago, I joined the Science Club because of my interest in experiments. However, I soon faced a big challenge. Our team needed to build a small robot for a competition, but I knew nothing about programming. (18)______ I wanted to give up and leave the club. Fortunately, my team leader noticed my problem. Instead of blaming me, he spent his weekends teaching me the basics. (19)______ Slowly, I began to understand how to code and even came up with some creative ideas for our robot. In the end, we won the second prize in the city competition. (20)______ I realized that difficulties are just opportunities in disguise.",
-      "stem": "(20)______",
+      "type": "reading",
+      "knowledge_point": "main_idea",
+      "difficulty": 3,
+      "stem": "What is the best title for the passage?",
       "options": [
-        "A. Then, he showed me some online tutorials and practice projects.",
-        "B. However, I found it too difficult to continue.",
-        "C. Let me tell you my own story as an example.",
-        "D. As a result, I became more confident in learning new things.",
-        "E. Therefore, I decided to work alone on a different project."
+        "A. The Beauty of the Ocean",
+        "B. How to Catch Fish",
+        "C. Protecting Our Oceans: Problems and Solutions",
+        "D. Life in Australia"
       ],
-      "correct_answer": "D",
-      "explanation": "【解析】考查因果关系。前文提到\"won the second prize\"（获得二等奖），后文说\"realized that difficulties are just opportunities\"（意识到困难是机会），中间需要表达获奖后的积极影响，故选D（结果，我对学习新事物变得更有信心了）。\n\n【解题技巧】As a result表示\"结果\"，用于引出积极成果，与后文的感悟形成递进关系。E选项\"work alone\"与文章\"team\"背景矛盾，且\"Therefore\"表示\"因此\"，但后文并非放弃的结果，而是获奖的感悟。",
-      "label": "短文填空"
+      "correct_answer": "C",
+      "explanation": "这道题考查主旨大意/最佳标题。文章结构为：第一段提出问题（海洋塑料污染），第二、三段提出解决方案（澳大利亚青少年的发明、荷兰的气泡屏障），第四段总结。C选项'保护我们的海洋：问题与解决方案'准确概括全文。A只谈美丽，未涉及污染和解决；B偏离主题；D只是文中一个例子。主旨题技巧：寻找涵盖全文主要内容的选项，既要有problem也要有solution。",
+      "label": "阅读-主旨大意",
+      "group": "reading_1",
+      "group_passage": "Our oceans are facing a serious environmental problem that affects everyone on Earth. Every year, millions of tons of plastic waste enter the sea through rivers and coastlines. This causes great danger to sea animals and plants. Many turtles, fish and birds mistake plastic bags for jellyfish or other food and eat them accidentally. When this happens, the animals can get sick or even die because the plastic blocks their stomachs.\n\nHowever, some clever young people around the world are finding creative ways to solve this growing problem. In Australia, a group of teenagers invented a special machine that cleans plastic from rivers before it reaches the ocean. The machine works like a large vacuum cleaner. It sucks up rubbish while letting water and small fish pass through safely. This prevents tons of plastic from ever reaching the sea.\n\nAnother good idea comes from the Netherlands. Scientists there created something called a bubble barrier—a wall of air bubbles that pushes plastic waste to one side of the river. This simple but effective method stops the waste from floating into the open sea. Amazingly, fish can swim through the bubbles easily without any harm, but plastic pieces cannot get past the barrier.\n\nThese wonderful inventions show that young people can really make a difference in protecting nature. By keeping our rivers clean, we also protect the oceans and all the creatures living there. Remember, everyone can help by using fewer plastic bags and bottles in daily life. Small changes in our habits can lead to big improvements for the environment."
     }
   ]
 }
