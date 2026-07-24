@@ -1,356 +1,356 @@
 ﻿{
-  "date": "2026-07-24",
+  "date": "2026-07-25",
   "session_number": 1,
   "questions": [
     {
       "id": 1,
       "type": "grammar",
-      "knowledge_point": "passive_voice",
-      "difficulty": 1,
-      "stem": "These books ______ to the library tomorrow afternoon.",
+      "knowledge_point": "present_perfect_vs_past_simple",
+      "difficulty": 2,
+      "stem": "—____ you ____ your homework yet? —Yes, I ____ it an hour ago.",
       "options": [
-        "A. return",
-        "B. returned",
-        "C. will be returned",
-        "D. have returned"
+        "A. Did; finish; finished",
+        "B. Have; finished; finished",
+        "C. Have; finished; have finished",
+        "D. Did; finish; have finished"
       ],
-      "correct_answer": "C",
-      "explanation": "这道题考查一般将来时的被动语态。主语'These books'是动作'return'的承受者，因此需要用被动语态。时间状语'tomorrow afternoon'表明是将来时，所以用'will be returned'。A是主动语态原形，B是过去式，D是现在完成时主动语态，均不符合。解题技巧：看到tomorrow等将来时间标志词，且主语是物时，考虑will be done结构。",
+      "correct_answer": "B",
+      "explanation": "【解析】第一空考查现在完成时，yet是现在完成时的标志词，结构为have/has+过去分词；第二空考查一般过去时，ago是一般过去时的标志词，用动词过去式finished。【错因】A选项第一空用Did，与yet搭配错误；C选项第二空用have finished，与ago矛盾；D选项两个时态都用错。【技巧】口诀：'现完看yet/already/never/ever，过去看ago/yesterday/last'，时间标志词是判断时态的关键。",
       "label": "语法题"
     },
     {
       "id": 2,
       "type": "grammar",
-      "knowledge_point": "present_perfect_vs_past_simple",
+      "knowledge_point": "relative_clause_who_which",
       "difficulty": 2,
-      "stem": "—______ you ______ the film before? —Yes, I ______ it last week.",
+      "stem": "The book ____ cover is red is mine.",
       "options": [
-        "A. Did; see; saw",
-        "B. Have; seen; saw",
-        "C. Have; seen; have seen",
-        "D. Did; see; have seen"
+        "A. who",
+        "B. which",
+        "C. that",
+        "D. whose"
       ],
-      "correct_answer": "B",
-      "explanation": "这道题考查现在完成时与一般过去时的区别。问句中的'before'（之前）是现完的标志词，强调过去动作对现在的影响，用'Have you seen'；答句中的'last week'（上周）是明确的过去时间状语，只能用一般过去时'saw'。A选项助动词Did后应接动词原形，但答句时态错误；C选项答句用了现完，与last week矛盾；D选项问句时态错误。口诀：有before现完成，有last week用过去。",
+      "correct_answer": "D",
+      "explanation": "【解析】考查定语从句关系词。先行词是the book，与cover构成所属关系（书皮），应用whose表示'……的'，在从句中作定语。【错因】A选项who指人；B选项which在从句中作主语或宾语；C选项that在从句中作主语或宾语，都不能表示所属关系。【技巧】whose=the+名词+of+which/whom，表示所属关系，后必须接名词。",
       "label": "语法题"
     },
     {
       "id": 3,
       "type": "grammar",
-      "knowledge_point": "relative_clause_who_which",
-      "difficulty": 2,
-      "stem": "This is the museum ______ we visited last summer holiday.",
+      "knowledge_point": "passive_voice",
+      "difficulty": 1,
+      "stem": "These old buildings ____ by the government next year.",
       "options": [
-        "A. where",
-        "B. which",
-        "C. who",
-        "D. when"
+        "A. will rebuild",
+        "B. will be rebuilt",
+        "C. are rebuilding",
+        "D. rebuild"
       ],
       "correct_answer": "B",
-      "explanation": "这道题考查定语从句关系代词的选择。先行词'the museum'是物，且在从句中作visited的宾语，因此用which或that。where在从句中作地点状语，who指人，when指时间。判断技巧：看先行词是人还是物，再看关系词在从句中充当什么成分。本句visited后缺宾语，museum是物，所以选which。",
+      "explanation": "【解析】考查一般将来时的被动语态。主语buildings与rebuild是被动关系，时间状语next year表示将来，结构为will be+过去分词。【错因】A选项是主动语态；C选项是现在进行时主动语态；D选项是一般现在时主动语态，均未体现被动。【技巧】被动语态三步走：1. 判断主谓关系（被动？）2. 确定时态 3. 结构：be+done（注意时态变化）。",
       "label": "语法题"
     },
     {
       "id": 4,
       "type": "grammar",
-      "knowledge_point": "object_clause",
+      "knowledge_point": "modal_verbs",
       "difficulty": 3,
-      "stem": "Could you tell me ______?",
+      "stem": "The book ____ belong to Lucy because her name is on it, but I'm not sure if she ____ have finished reading it.",
       "options": [
-        "A. where is the nearest hospital",
-        "B. where the nearest hospital is",
-        "C. where was the nearest hospital",
-        "D. where does the nearest hospital lie"
+        "A. must; must",
+        "B. must; might",
+        "C. might; must",
+        "D. can't; might"
       ],
       "correct_answer": "B",
-      "explanation": "这道题考查宾语从句的语序。宾语从句必须使用陈述句语序（主语+谓语），不能用疑问句语序。A、C、D都是疑问句语序（is/was/does在主语前），只有B是陈述句语序（the nearest hospital is）。注意：宾语从句的时态要与主句呼应，但本题主句Could you tell是委婉请求，不是过去时，从句根据实际情况用一般现在时即可。",
+      "explanation": "【解析】第一空考查must表肯定推测（一定是），因为有证据（名字在书上）；第二空考查might表不确定推测（可能），因为'I'm not sure'表示不确定。【错因】A选项第二空must太绝对；C选项第一空might与证据矛盾；D选项第一空can't表否定推测，与句意相反。【技巧】推测语气强度：must（一定）> may/might（可能）> can't（不可能），根据证据强度和语境选择。",
       "label": "语法题"
     },
     {
       "id": 5,
       "type": "vocabulary",
-      "knowledge_point": "word_formation",
+      "knowledge_point": "word_meaning",
       "difficulty": 1,
-      "stem": "It is ______ to play computer games for too long. It may hurt your eyes.",
+      "stem": "The ____ news made all of us very ____.",
       "options": [
-        "A. harm",
-        "B. harmful",
-        "C. harmless",
-        "D. harmed"
+        "A. excited; exciting",
+        "B. exciting; excited",
+        "C. excited; excited",
+        "D. exciting; exciting"
       ],
       "correct_answer": "B",
-      "explanation": "这道题考查词性转换。系动词is后需要接形容词作表语。harm是名词/动词，harmful是形容词（有害的），harmless是形容词（无害的），harmed是过去分词。根据句意'玩电脑游戏太久是有害的'，选harmful。构词法技巧：-ful后缀通常表示'充满...的'，-less表示'没有...的'。",
+      "explanation": "【解析】exciting修饰物（news），表示'令人兴奋的'；excited修饰人（us），表示'感到兴奋的'。【错因】A选项修饰对象颠倒；C选项第一空错误；D选项第二空错误。【技巧】-ing形容词主语是物，-ed形容词主语是人，口诀：'ing使人感到，ed自己感到'。",
       "label": "词汇题"
     },
     {
       "id": 6,
       "type": "vocabulary",
-      "knowledge_point": "phrasal_verbs",
+      "knowledge_point": "prefix_suffix",
       "difficulty": 2,
-      "stem": "Please ______ the lights when you leave the classroom to save electricity.",
+      "stem": "If you 'rewrite' a composition, you write it ____.",
       "options": [
-        "A. turn on",
-        "B. turn off",
-        "C. turn up",
-        "D. turn down"
+        "A. again",
+        "B. badly",
+        "C. quickly",
+        "D. carefully"
       ],
-      "correct_answer": "B",
-      "explanation": "这道题考查动词短语辨析。turn on打开，turn off关闭，turn up调大（音量），turn down调小（音量）/拒绝。根据语境'leave the classroom'和'save electricity'，应该是关灯，选turn off。解题技巧：结合上下文逻辑，离开教室要省电，自然是关闭电器。",
+      "correct_answer": "A",
+      "explanation": "【解析】前缀re-表示'again（再次）'，rewrite=write again。【错因】其他选项未体现re-的含义。【技巧】常见前缀：re-（再次/回），un-（不），dis-（不/相反），im-（不）；后缀：-ful（充满），-less（无），-tion（名词）。",
       "label": "词汇题"
     },
     {
       "id": 7,
       "type": "vocabulary",
-      "knowledge_point": "word_meaning",
+      "knowledge_point": "phrasal_verbs",
       "difficulty": 2,
-      "stem": "The old man lives ______ but he doesn't feel ______ because he has many neighbors to talk with.",
+      "stem": "We need to ____ a solution to stop pollution in our city.",
       "options": [
-        "A. alone; lonely",
-        "B. lonely; alone",
-        "C. alone; alone",
-        "D. lonely; lonely"
+        "A. come up with",
+        "B. catch up with",
+        "C. keep up with",
+        "D. put up with"
       ],
       "correct_answer": "A",
-      "explanation": "这道题考查alone与lonely的辨析。alone是副词，强调客观上独自一人；lonely是形容词，强调主观上感到孤独。第一空修饰动词lives，用副词alone；第二空feel是系动词，后接形容词lonely作表语。句意：老人独自居住，但不感到孤独。技巧：alone客观描述，lonely主观感受。",
+      "explanation": "【解析】come up with意为'想出（主意、办法）'，符合句意'想出解决办法'。【错因】B选项catch up with意为'赶上'；C选项keep up with意为'跟上/保持同步'；D选项put up with意为'忍受'，均不符合语境。【技巧】up短语辨析：come up with（想出），catch up with（赶上），keep up with（跟上），put up with（忍受），make up with（和好）。",
       "label": "词汇题"
     },
     {
       "id": 8,
       "type": "cloze",
       "knowledge_point": "cloze_general",
-      "difficulty": 2,
-      "stem": "(8)______",
+      "difficulty": 1,
+      "stem": "(8)___",
       "options": [
-        "A. found",
-        "B. made",
-        "C. took",
-        "D. gave"
+        "A. started",
+        "B. began",
+        "C. held",
+        "D. kept"
       ],
-      "correct_answer": "B",
-      "explanation": "这道题考查固定搭配。make a plan是固定短语，意为'制定计划'。find找到，take带走，give给，均不与plan构成搭配。解题技巧：完形填空中常考动词与名词的固定搭配，需要积累常见组合如make a plan/decision/difference等。",
+      "correct_answer": "A",
+      "explanation": "【解析】start a project意为'启动项目'，是固定搭配。begin虽然也有开始之意，但begin a project不如start常用；hold a project（举办）和keep a project（保持）不符合语境。【技巧】完形填空注意动词与名词的搭配习惯，project常与start/launch搭配。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school held an exciting science fair in the gym. All the students from Grade 8 were looking forward to showing their creative ideas and inventions. Our science teacher, Mr. Chen, encouraged us to think about green technology and recycling. I decided to make something both interesting and useful for the environment.\n\nAfter thinking for several days, I (8)______ a detailed plan to create a small machine that could turn waste paper into new notebooks. First, I collected old newspapers and magazines from my classmates and neighbors. I also watched many online videos to learn how paper recycling works. Then, I spent three weekends (9)______ it with my father's help in our garage. The hardest part was making the machine work smoothly without breaking down. Sometimes the paper got stuck inside the gears, and I had to take everything apart and fix it again and again. It was frustrating and tiring, but I didn't give up because I wanted to prove that waste could be treasure.\n\nOn the day of the fair, many students and teachers (10)______ my project and asked lots of questions. They were surprised that waste paper could become clean and usable notebooks again so easily. My teacher said this invention would help reduce pollution greatly if it (11)______ by more people in the future. Finally, I won the first prize. I felt proud not just because of the prize, (12)______ because I did something good for our planet through my own efforts."
+      "group_passage": "Last month, our school (8)____ an interesting project called \"Green Campus\". The project was designed to help students understand the importance of (9)____ our environment. Every day, students collect plastic bottles and waste paper from each classroom. (10)____ it takes a lot of time and effort, everyone enjoys doing it. We clean and sort the waste carefully. Then, we (11)____ some of the plastic bottles into flower pots. It is amazing to see how (12)____ waste can become beautiful art. Through this project, we learn that protecting the Earth starts with small actions."
     },
     {
       "id": 9,
       "type": "cloze",
       "knowledge_point": "cloze_general",
       "difficulty": 2,
-      "stem": "(9)______",
+      "stem": "(9)___",
       "options": [
-        "A. on",
-        "B. in",
-        "C. with",
-        "D. building"
+        "A. protecting",
+        "B. saving",
+        "C. making",
+        "D. using"
       ],
-      "correct_answer": "D",
-      "explanation": "这道题考查非谓语动词。spend time (in) doing sth是固定句型，意为'花费时间做某事'，其中in可以省略，后面必须接动词的-ing形式。只有building是动名词形式。其他选项都是介词，不能直接跟在spend three weekends后表示花费时间做某事。",
+      "correct_answer": "A",
+      "explanation": "【解析】protect the environment是固定搭配'保护环境'。save侧重'拯救/节约'，不如protect贴切；make（制造）和use（使用）与语境相反。【技巧】环保类文章高频搭配：protect the environment（保护环境），save energy（节约能源），reduce pollution（减少污染）。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school held an exciting science fair in the gym. All the students from Grade 8 were looking forward to showing their creative ideas and inventions. Our science teacher, Mr. Chen, encouraged us to think about green technology and recycling. I decided to make something both interesting and useful for the environment.\n\nAfter thinking for several days, I (8)______ a detailed plan to create a small machine that could turn waste paper into new notebooks. First, I collected old newspapers and magazines from my classmates and neighbors. I also watched many online videos to learn how paper recycling works. Then, I spent three weekends (9)______ it with my father's help in our garage. The hardest part was making the machine work smoothly without breaking down. Sometimes the paper got stuck inside the gears, and I had to take everything apart and fix it again and again. It was frustrating and tiring, but I didn't give up because I wanted to prove that waste could be treasure.\n\nOn the day of the fair, many students and teachers (10)______ my project and asked lots of questions. They were surprised that waste paper could become clean and usable notebooks again so easily. My teacher said this invention would help reduce pollution greatly if it (11)______ by more people in the future. Finally, I won the first prize. I felt proud not just because of the prize, (12)______ because I did something good for our planet through my own efforts."
+      "group_passage": "Last month, our school (8)____ an interesting project called \"Green Campus\". The project was designed to help students understand the importance of (9)____ our environment. Every day, students collect plastic bottles and waste paper from each classroom. (10)____ it takes a lot of time and effort, everyone enjoys doing it. We clean and sort the waste carefully. Then, we (11)____ some of the plastic bottles into flower pots. It is amazing to see how (12)____ waste can become beautiful art. Through this project, we learn that protecting the Earth starts with small actions."
     },
     {
       "id": 10,
       "type": "cloze",
       "knowledge_point": "cloze_general",
-      "difficulty": 1,
-      "stem": "(10)______",
+      "difficulty": 2,
+      "stem": "(10)___",
       "options": [
-        "A. visited",
-        "B. looked for",
-        "C. laughed at",
-        "D. worried about"
+        "A. Although",
+        "B. Because",
+        "C. If",
+        "D. So"
       ],
       "correct_answer": "A",
-      "explanation": "这道题考查语境理解。根据上下文，在科技展当天，学生和老师应该是来'参观'项目，asked lots of questions也印证了这一点。look for寻找（强调过程），laugh at嘲笑（与后文 surprised和won prize矛盾），worry about担心（不符合语境）。visit参观，符合展览场景。",
+      "explanation": "【解析】Although引导让步状语从句，表示'虽然……但是……'，符合逻辑'虽然耗时费力，但大家都喜欢'。Because表原因，与enjoy矛盾；If表条件；So表结果，均不符合。【技巧】完形填空逻辑关系题看前后句意是否转折、因果、条件等，此处'takes time'与'enjoys'形成转折。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school held an exciting science fair in the gym. All the students from Grade 8 were looking forward to showing their creative ideas and inventions. Our science teacher, Mr. Chen, encouraged us to think about green technology and recycling. I decided to make something both interesting and useful for the environment.\n\nAfter thinking for several days, I (8)______ a detailed plan to create a small machine that could turn waste paper into new notebooks. First, I collected old newspapers and magazines from my classmates and neighbors. I also watched many online videos to learn how paper recycling works. Then, I spent three weekends (9)______ it with my father's help in our garage. The hardest part was making the machine work smoothly without breaking down. Sometimes the paper got stuck inside the gears, and I had to take everything apart and fix it again and again. It was frustrating and tiring, but I didn't give up because I wanted to prove that waste could be treasure.\n\nOn the day of the fair, many students and teachers (10)______ my project and asked lots of questions. They were surprised that waste paper could become clean and usable notebooks again so easily. My teacher said this invention would help reduce pollution greatly if it (11)______ by more people in the future. Finally, I won the first prize. I felt proud not just because of the prize, (12)______ because I did something good for our planet through my own efforts."
+      "group_passage": "Last month, our school (8)____ an interesting project called \"Green Campus\". The project was designed to help students understand the importance of (9)____ our environment. Every day, students collect plastic bottles and waste paper from each classroom. (10)____ it takes a lot of time and effort, everyone enjoys doing it. We clean and sort the waste carefully. Then, we (11)____ some of the plastic bottles into flower pots. It is amazing to see how (12)____ waste can become beautiful art. Through this project, we learn that protecting the Earth starts with small actions."
     },
     {
       "id": 11,
       "type": "cloze",
-      "knowledge_point": "passive_voice",
-      "difficulty": 2,
-      "stem": "(11)______",
+      "knowledge_point": "cloze_general",
+      "difficulty": 1,
+      "stem": "(11)___",
       "options": [
-        "A. uses",
-        "B. is used",
-        "C. used",
-        "D. was used"
+        "A. turn",
+        "B. make",
+        "C. change",
+        "D. give"
       ],
-      "correct_answer": "B",
-      "explanation": "这道题考查被动语态。主语it指代invention，与use之间是被动关系（发明被使用），因此要用被动语态be+过去分词。if引导的条件状语从句，主句would help是过去将来时，从句用一般过去时，但此处by more people表明被动，且表示客观事实，用一般现在时被动is used更合适（主将从现原则的变化）。was used虽也是被动，但if虚拟语气中，与将来事实相反用过去式或should/were to，此处表示真实条件，用一般现在时表将来。",
+      "correct_answer": "A",
+      "explanation": "【解析】turn...into...是固定短语'把……变成……'，turn bottles into pots（把瓶子变成花盆）。change...into...虽然也有'变成'之意，但turn更强调性质完全改变，符合'变废为宝'的语境。【技巧】turn into强调转变结果，change into强调变化过程，完形中turn into更常用。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school held an exciting science fair in the gym. All the students from Grade 8 were looking forward to showing their creative ideas and inventions. Our science teacher, Mr. Chen, encouraged us to think about green technology and recycling. I decided to make something both interesting and useful for the environment.\n\nAfter thinking for several days, I (8)______ a detailed plan to create a small machine that could turn waste paper into new notebooks. First, I collected old newspapers and magazines from my classmates and neighbors. I also watched many online videos to learn how paper recycling works. Then, I spent three weekends (9)______ it with my father's help in our garage. The hardest part was making the machine work smoothly without breaking down. Sometimes the paper got stuck inside the gears, and I had to take everything apart and fix it again and again. It was frustrating and tiring, but I didn't give up because I wanted to prove that waste could be treasure.\n\nOn the day of the fair, many students and teachers (10)______ my project and asked lots of questions. They were surprised that waste paper could become clean and usable notebooks again so easily. My teacher said this invention would help reduce pollution greatly if it (11)______ by more people in the future. Finally, I won the first prize. I felt proud not just because of the prize, (12)______ because I did something good for our planet through my own efforts."
+      "group_passage": "Last month, our school (8)____ an interesting project called \"Green Campus\". The project was designed to help students understand the importance of (9)____ our environment. Every day, students collect plastic bottles and waste paper from each classroom. (10)____ it takes a lot of time and effort, everyone enjoys doing it. We clean and sort the waste carefully. Then, we (11)____ some of the plastic bottles into flower pots. It is amazing to see how (12)____ waste can become beautiful art. Through this project, we learn that protecting the Earth starts with small actions."
     },
     {
       "id": 12,
       "type": "cloze",
       "knowledge_point": "cloze_general",
-      "difficulty": 1,
-      "stem": "(12)______",
+      "difficulty": 2,
+      "stem": "(12)___",
       "options": [
-        "A. and",
-        "B. or",
-        "C. but",
-        "D. so"
+        "A. useless",
+        "B. useful",
+        "C. hopeless",
+        "D. careless"
       ],
-      "correct_answer": "C",
-      "explanation": "这道题考查固定搭配。not...but...是固定结构，意为'不是……而是……'。前文有not just because，后文对应but because，表示'不仅因为……而是因为……'。and用于并列，or表选择，so表结果，均不构成此搭配。",
+      "correct_answer": "A",
+      "explanation": "【解析】useless waste（无用的垃圾）与后文beautiful art（美丽的艺术）形成对比，突出'变废为宝'。useful（有用的）与waste矛盾；hopeless（无望的）和careless（粗心的）不能修饰waste。【技巧】利用反义复现解题，后文beautiful暗示前文是贬义词，形成对比关系。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school held an exciting science fair in the gym. All the students from Grade 8 were looking forward to showing their creative ideas and inventions. Our science teacher, Mr. Chen, encouraged us to think about green technology and recycling. I decided to make something both interesting and useful for the environment.\n\nAfter thinking for several days, I (8)______ a detailed plan to create a small machine that could turn waste paper into new notebooks. First, I collected old newspapers and magazines from my classmates and neighbors. I also watched many online videos to learn how paper recycling works. Then, I spent three weekends (9)______ it with my father's help in our garage. The hardest part was making the machine work smoothly without breaking down. Sometimes the paper got stuck inside the gears, and I had to take everything apart and fix it again and again. It was frustrating and tiring, but I didn't give up because I wanted to prove that waste could be treasure.\n\nOn the day of the fair, many students and teachers (10)______ my project and asked lots of questions. They were surprised that waste paper could become clean and usable notebooks again so easily. My teacher said this invention would help reduce pollution greatly if it (11)______ by more people in the future. Finally, I won the first prize. I felt proud not just because of the prize, (12)______ because I did something good for our planet through my own efforts."
+      "group_passage": "Last month, our school (8)____ an interesting project called \"Green Campus\". The project was designed to help students understand the importance of (9)____ our environment. Every day, students collect plastic bottles and waste paper from each classroom. (10)____ it takes a lot of time and effort, everyone enjoys doing it. We clean and sort the waste carefully. Then, we (11)____ some of the plastic bottles into flower pots. It is amazing to see how (12)____ waste can become beautiful art. Through this project, we learn that protecting the Earth starts with small actions."
     },
     {
       "id": 13,
-      "type": "fill",
-      "knowledge_point": "sentence_fill",
+      "type": "reading",
+      "knowledge_point": "detail",
       "difficulty": 2,
-      "stem": "(13)______",
+      "stem": "What does the brain do during sleep according to the passage?",
       "options": [
-        "A. Here are some simple ways to begin.",
-        "B. However, don't drink too much coffee.",
-        "C. In addition, getting enough sleep is necessary.",
-        "D. Small activities are enough.",
-        "E. It is better than sugary drinks."
+        "A. It stops working completely.",
+        "B. It processes information and stores knowledge.",
+        "C. It only rests and does nothing.",
+        "D. It forgets all the information from the day."
       ],
-      "correct_answer": "A",
-      "explanation": "这道题考查段落主旨句。空格位于段首，后文用First引出第一个建议，说明此处是总起句，引出下文的建议。A选项'这里有一些简单的开始方法'符合总分结构，承上启下。B谈咖啡，C谈睡眠，D谈活动量，E谈饮料，都是具体细节，不适合作为引出First的总起句。",
-      "label": "短文填空",
-      "group": "fill_1",
-      "group_passage": "Many middle school students want to stay healthy and energetic, but they often don't know how to start or what to do first. (13)______ First, eating a good breakfast is very important for teenagers. It gives you enough energy for the whole morning and helps your brain work better. Try to eat eggs, milk and fresh fruit instead of junk food like chips or hamburgers.\n\nSecond, remember to exercise regularly. You don't need to run marathons or join expensive gyms to stay fit. (14)______ Walking to school, riding a bike for 20 minutes, or playing basketball with friends every day can make a big difference to your health over time.\n\n(15)______ Many students nowadays stay up late to play computer games or watch short videos on their phones. However, doctors say teenagers need at least 8 hours of sleep to grow well and stay focused. If you don't sleep enough, you will feel tired and sleepy in class.\n\nFinally, drink plenty of water throughout the day. (16)______ Soft drinks and energy drinks may taste good but they contain too much sugar which is bad for your teeth and body. Pure water is always the best choice for keeping your body hydrated and healthy.\n\nFollow these simple tips consistently, and you will soon feel better, look better, and study better at school."
+      "correct_answer": "B",
+      "explanation": "【解析】细节题。根据第二段'During sleep, our brains are still working. They process the information we learned during the day and move it from short-term memory to long-term memory.'可知，大脑在睡眠时处理信息并储存知识。【错因】A、C选项与'still working'矛盾；D选项与文意相反。【技巧】细节题定位法：先读题干关键词（brain/during sleep），回原文找对应句（第二段前两句），比对选项与原文的同义转换（store=move to long-term memory）。",
+      "label": "阅读-细节理解",
+      "group": "reading_1",
+      "group_passage": "Do you often stay up late to study for exams? Many students believe that the more time they spend studying, the better grades they will get. However, scientists have found that sleep plays an important role in learning.\n\nDuring sleep, our brains are still working. They process (处理) the information we learned during the day and move it from short-term memory to long-term memory. A study shows that students who get enough sleep before a test usually perform better than those who stay up all night. This is because their brains have had time to organize and store the knowledge properly.\n\nDr. Smith, a sleep researcher, explains, \"When you sleep, your brain is like a librarian (图书管理员) putting books on the right shelves. If you don't sleep, the books stay on the floor in a mess.\"\n\nSo, if you want to improve your memory and get good grades, don't cut your sleep time. Go to bed early and let your brain do its job. Remember, good sleep habits are just as important as good study habits."
     },
     {
       "id": 14,
-      "type": "fill",
-      "knowledge_point": "sentence_fill",
-      "difficulty": 2,
-      "stem": "(14)______",
+      "type": "reading",
+      "knowledge_point": "inference",
+      "difficulty": 3,
+      "stem": "What can we infer from Dr. Smith's words?",
       "options": [
-        "A. Here are some simple ways to begin.",
-        "B. However, don't drink too much coffee.",
-        "C. In addition, getting enough sleep is necessary.",
-        "D. Small activities are enough.",
-        "E. It is better than sugary drinks."
+        "A. Librarians need to sleep well to work.",
+        "B. Sleeping helps organize our memories.",
+        "C. Books should be put on shelves before sleeping.",
+        "D. Students should study in libraries."
       ],
-      "correct_answer": "D",
-      "explanation": "这道题考查逻辑衔接。前文说'你不需要跑马拉松或加入昂贵的健身房'，后文说'步行上学、骑20分钟自行车或打篮球'，这些都是小运动量的例子。D选项'小型活动就足够了'承上启下，解释不需要剧烈运动，日常小活动即可。A是总起句已用过，B、C、E话题不符。",
-      "label": "短文填空",
-      "group": "fill_1",
-      "group_passage": "Many middle school students want to stay healthy and energetic, but they often don't know how to start or what to do first. (13)______ First, eating a good breakfast is very important for teenagers. It gives you enough energy for the whole morning and helps your brain work better. Try to eat eggs, milk and fresh fruit instead of junk food like chips or hamburgers.\n\nSecond, remember to exercise regularly. You don't need to run marathons or join expensive gyms to stay fit. (14)______ Walking to school, riding a bike for 20 minutes, or playing basketball with friends every day can make a big difference to your health over time.\n\n(15)______ Many students nowadays stay up late to play computer games or watch short videos on their phones. However, doctors say teenagers need at least 8 hours of sleep to grow well and stay focused. If you don't sleep enough, you will feel tired and sleepy in class.\n\nFinally, drink plenty of water throughout the day. (16)______ Soft drinks and energy drinks may taste good but they contain too much sugar which is bad for your teeth and body. Pure water is always the best choice for keeping your body hydrated and healthy.\n\nFollow these simple tips consistently, and you will soon feel better, look better, and study better at school."
+      "correct_answer": "B",
+      "explanation": "【解析】推理题。Smith博士将大脑比作图书管理员，将记忆比作书籍，说明睡眠时大脑像管理员整理书籍一样整理记忆。因此可推断睡眠有助于整理记忆。【错因】A、C、D选项都停留在字面意思，没有理解比喻的深层含义。【技巧】推理题要透过字面看本质，识别修辞手法（比喻），理解作者真实意图，避免就事论事。",
+      "label": "阅读-推理判断",
+      "group": "reading_1",
+      "group_passage": "Do you often stay up late to study for exams? Many students believe that the more time they spend studying, the better grades they will get. However, scientists have found that sleep plays an important role in learning.\n\nDuring sleep, our brains are still working. They process (处理) the information we learned during the day and move it from short-term memory to long-term memory. A study shows that students who get enough sleep before a test usually perform better than those who stay up all night. This is because their brains have had time to organize and store the knowledge properly.\n\nDr. Smith, a sleep researcher, explains, \"When you sleep, your brain is like a librarian (图书管理员) putting books on the right shelves. If you don't sleep, the books stay on the floor in a mess.\"\n\nSo, if you want to improve your memory and get good grades, don't cut your sleep time. Go to bed early and let your brain do its job. Remember, good sleep habits are just as important as good study habits."
     },
     {
       "id": 15,
-      "type": "fill",
-      "knowledge_point": "sentence_fill",
-      "difficulty": 2,
-      "stem": "(15)______",
+      "type": "reading",
+      "knowledge_point": "word_guessing_context",
+      "difficulty": 1,
+      "stem": "The underlined word \"perform\" in Paragraph 2 probably means ____.",
       "options": [
-        "A. Here are some simple ways to begin.",
-        "B. However, don't drink too much coffee.",
-        "C. In addition, getting enough sleep is necessary.",
-        "D. Small activities are enough.",
-        "E. It is better than sugary drinks."
+        "A. 表演",
+        "B. 表现",
+        "C. 执行",
+        "D. 比赛"
       ],
-      "correct_answer": "C",
-      "explanation": "这道题考查段落主题句。本段主要讲睡眠的重要性，提到stay up late和need at least 8 hours of sleep。C选项'此外，获得足够的睡眠是必要的'作为段首主题句恰当。In addition表示递进，承接前面的First和Second。其他选项话题与睡眠无关。",
-      "label": "短文填空",
-      "group": "fill_1",
-      "group_passage": "Many middle school students want to stay healthy and energetic, but they often don't know how to start or what to do first. (13)______ First, eating a good breakfast is very important for teenagers. It gives you enough energy for the whole morning and helps your brain work better. Try to eat eggs, milk and fresh fruit instead of junk food like chips or hamburgers.\n\nSecond, remember to exercise regularly. You don't need to run marathons or join expensive gyms to stay fit. (14)______ Walking to school, riding a bike for 20 minutes, or playing basketball with friends every day can make a big difference to your health over time.\n\n(15)______ Many students nowadays stay up late to play computer games or watch short videos on their phones. However, doctors say teenagers need at least 8 hours of sleep to grow well and stay focused. If you don't sleep enough, you will feel tired and sleepy in class.\n\nFinally, drink plenty of water throughout the day. (16)______ Soft drinks and energy drinks may taste good but they contain too much sugar which is bad for your teeth and body. Pure water is always the best choice for keeping your body hydrated and healthy.\n\nFollow these simple tips consistently, and you will soon feel better, look better, and study better at school."
+      "correct_answer": "B",
+      "explanation": "【解析】词义猜测题。根据上下文'students who get enough sleep... perform better than those who stay up all night'，指睡眠充足的学生比熬夜的学生在考试中'表现'更好。【错因】A选项是perform的基本义，但此处指考试表现；C、D选项不符合学生与考试的语境。【技巧】词义猜测看搭配：perform与better搭配，主语是students，宾语是test，语境决定词义为'表现'。",
+      "label": "阅读-词义猜测",
+      "group": "reading_1",
+      "group_passage": "Do you often stay up late to study for exams? Many students believe that the more time they spend studying, the better grades they will get. However, scientists have found that sleep plays an important role in learning.\n\nDuring sleep, our brains are still working. They process (处理) the information we learned during the day and move it from short-term memory to long-term memory. A study shows that students who get enough sleep before a test usually perform better than those who stay up all night. This is because their brains have had time to organize and store the knowledge properly.\n\nDr. Smith, a sleep researcher, explains, \"When you sleep, your brain is like a librarian (图书管理员) putting books on the right shelves. If you don't sleep, the books stay on the floor in a mess.\"\n\nSo, if you want to improve your memory and get good grades, don't cut your sleep time. Go to bed early and let your brain do its job. Remember, good sleep habits are just as important as good study habits."
     },
     {
       "id": 16,
-      "type": "fill",
-      "knowledge_point": "sentence_fill",
+      "type": "reading",
+      "knowledge_point": "main_idea_title",
       "difficulty": 2,
-      "stem": "(16)______",
+      "stem": "What is the best title for this passage?",
       "options": [
-        "A. Here are some simple ways to begin.",
-        "B. However, don't drink too much coffee.",
-        "C. In addition, getting enough sleep is necessary.",
-        "D. Small activities are enough.",
-        "E. It is better than sugary drinks."
+        "A. How to Become a Librarian",
+        "B. The Importance of Sleep for Learning",
+        "C. Why We Should Stay Up Late",
+        "D. How to Pass Exams Easily"
       ],
-      "correct_answer": "E",
-      "explanation": "这道题考查指代衔接。前文说'喝大量的水'，后文说'软饮料可能味道好但含糖太多'。E选项'它比含糖饮料更好'中的It指代water，承上启下，引出后文对软饮料的对比说明。B选项也谈饮料，但用However转折语气不如E选项顺承自然，且咖啡不是本段重点。",
-      "label": "短文填空",
-      "group": "fill_1",
-      "group_passage": "Many middle school students want to stay healthy and energetic, but they often don't know how to start or what to do first. (13)______ First, eating a good breakfast is very important for teenagers. It gives you enough energy for the whole morning and helps your brain work better. Try to eat eggs, milk and fresh fruit instead of junk food like chips or hamburgers.\n\nSecond, remember to exercise regularly. You don't need to run marathons or join expensive gyms to stay fit. (14)______ Walking to school, riding a bike for 20 minutes, or playing basketball with friends every day can make a big difference to your health over time.\n\n(15)______ Many students nowadays stay up late to play computer games or watch short videos on their phones. However, doctors say teenagers need at least 8 hours of sleep to grow well and stay focused. If you don't sleep enough, you will feel tired and sleepy in class.\n\nFinally, drink plenty of water throughout the day. (16)______ Soft drinks and energy drinks may taste good but they contain too much sugar which is bad for your teeth and body. Pure water is always the best choice for keeping your body hydrated and healthy.\n\nFollow these simple tips consistently, and you will soon feel better, look better, and study better at school."
+      "correct_answer": "B",
+      "explanation": "【解析】主旨大意题。文章首段提出睡眠对学习很重要，中间解释原因，结尾建议保证睡眠。B选项'睡眠对学习的重要性'概括全文。【错因】A选项只是文中比喻细节；C选项与文意相反；D选项过于宽泛，未提及睡眠。【技巧】标题题要找主题句（首段尾句'sleep plays an important role in learning'），标题需包含关键词（sleep/learning）并概括全文，不能过大或过小。",
+      "label": "阅读-主旨大意",
+      "group": "reading_1",
+      "group_passage": "Do you often stay up late to study for exams? Many students believe that the more time they spend studying, the better grades they will get. However, scientists have found that sleep plays an important role in learning.\n\nDuring sleep, our brains are still working. They process (处理) the information we learned during the day and move it from short-term memory to long-term memory. A study shows that students who get enough sleep before a test usually perform better than those who stay up all night. This is because their brains have had time to organize and store the knowledge properly.\n\nDr. Smith, a sleep researcher, explains, \"When you sleep, your brain is like a librarian (图书管理员) putting books on the right shelves. If you don't sleep, the books stay on the floor in a mess.\"\n\nSo, if you want to improve your memory and get good grades, don't cut your sleep time. Go to bed early and let your brain do its job. Remember, good sleep habits are just as important as good study habits."
     },
     {
       "id": 17,
-      "type": "reading",
-      "knowledge_point": "detail",
-      "difficulty": 1,
-      "stem": "What happens when sea animals eat plastic according to the passage?",
+      "type": "fill",
+      "knowledge_point": "sentence_fill",
+      "difficulty": 2,
+      "stem": "(17)___",
       "options": [
-        "A. They become stronger.",
-        "B. They get sick or die.",
-        "C. They can swim faster.",
-        "D. They find more food."
+        "A. However, it can also make you feel nervous sometimes.",
+        "B. First, be brave and try to make friends actively.",
+        "C. In addition, learning to manage your time is very important.",
+        "D. As a result, you will become more independent soon.",
+        "E. Remember that asking questions is a sign of strength, not weakness."
       ],
-      "correct_answer": "B",
-      "explanation": "这道题考查细节理解。根据文章第一段最后一句'When this happens, the animals can get sick or even die because the plastic blocks their stomachs.'（当这种情况发生时，动物会生病甚至死亡，因为塑料堵塞了它们的胃。）可知答案是B。A、C、D均与原文不符。解题技巧：细节题要找准关键词（sea animals eat plastic），回原文定位具体句子。",
-      "label": "阅读-细节理解",
-      "group": "reading_1",
-      "group_passage": "Our oceans are facing a serious environmental problem that affects everyone on Earth. Every year, millions of tons of plastic waste enter the sea through rivers and coastlines. This causes great danger to sea animals and plants. Many turtles, fish and birds mistake plastic bags for jellyfish or other food and eat them accidentally. When this happens, the animals can get sick or even die because the plastic blocks their stomachs.\n\nHowever, some clever young people around the world are finding creative ways to solve this growing problem. In Australia, a group of teenagers invented a special machine that cleans plastic from rivers before it reaches the ocean. The machine works like a large vacuum cleaner. It sucks up rubbish while letting water and small fish pass through safely. This prevents tons of plastic from ever reaching the sea.\n\nAnother good idea comes from the Netherlands. Scientists there created something called a bubble barrier—a wall of air bubbles that pushes plastic waste to one side of the river. This simple but effective method stops the waste from floating into the open sea. Amazingly, fish can swim through the bubbles easily without any harm, but plastic pieces cannot get past the barrier.\n\nThese wonderful inventions show that young people can really make a difference in protecting nature. By keeping our rivers clean, we also protect the oceans and all the creatures living there. Remember, everyone can help by using fewer plastic bags and bottles in daily life. Small changes in our habits can lead to big improvements for the environment."
+      "correct_answer": "A",
+      "explanation": "【解析】前文讲'开始初中生活很令人兴奋'，后文讲'这里有一些建议'，中间需要转折过渡，引出可能存在的问题。A选项'然而，它有时也会让你感到紧张'承上启下。【错因】B、C、E是具体建议，应在'Here are some tips'之后；D是结果，不适合此处。【技巧】选句填空看逻辑关系：前句exciting与A选项nervous形成转折（However），引出下文建议。",
+      "label": "短文填空",
+      "group": "fill_1",
+      "group_passage": "Starting middle school is an exciting time. You will meet new teachers and make new friends. (17)_____. Here are some tips to help you.\n\n(18)_____. Try to talk to your classmates and find those who share similar interests with you. Joining clubs is also a great way to meet people.\n\n(19)_____. Make a timetable and follow it strictly. This will help you balance your study and hobbies.\n\nFinally, don't be afraid to ask for help. (20)_____. Teachers and parents are always there to support you when you have problems."
     },
     {
       "id": 18,
-      "type": "reading",
-      "knowledge_point": "inference",
+      "type": "fill",
+      "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "stem": "What can we learn from the passage?",
+      "stem": "(18)___",
       "options": [
-        "A. All sea animals like eating plastic.",
-        "B. The bubble barrier kills fish.",
-        "C. Teenagers invented useful machines to help the environment.",
-        "D. Plastic waste is not a serious problem now."
+        "A. However, it can also make you feel nervous sometimes.",
+        "B. First, be brave and try to make friends actively.",
+        "C. In addition, learning to manage your time is very important.",
+        "D. As a result, you will become more independent soon.",
+        "E. Remember that asking questions is a sign of strength, not weakness."
       ],
-      "correct_answer": "C",
-      "explanation": "这道题考查推理判断。根据第二段'In Australia, a group of teenagers invented a special machine...'可知青少年发明了有用的机器帮助环境，C正确。A错误，动物是mistake...for（误以为）而非喜欢；B错误，第三段说fish can swim through the bubbles easily without any harm；D错误，文章开头就说facing a serious environmental problem。推理题要基于原文信息，不能过度推断。",
-      "label": "阅读-推理判断",
-      "group": "reading_1",
-      "group_passage": "Our oceans are facing a serious environmental problem that affects everyone on Earth. Every year, millions of tons of plastic waste enter the sea through rivers and coastlines. This causes great danger to sea animals and plants. Many turtles, fish and birds mistake plastic bags for jellyfish or other food and eat them accidentally. When this happens, the animals can get sick or even die because the plastic blocks their stomachs.\n\nHowever, some clever young people around the world are finding creative ways to solve this growing problem. In Australia, a group of teenagers invented a special machine that cleans plastic from rivers before it reaches the ocean. The machine works like a large vacuum cleaner. It sucks up rubbish while letting water and small fish pass through safely. This prevents tons of plastic from ever reaching the sea.\n\nAnother good idea comes from the Netherlands. Scientists there created something called a bubble barrier—a wall of air bubbles that pushes plastic waste to one side of the river. This simple but effective method stops the waste from floating into the open sea. Amazingly, fish can swim through the bubbles easily without any harm, but plastic pieces cannot get past the barrier.\n\nThese wonderful inventions show that young people can really make a difference in protecting nature. By keeping our rivers clean, we also protect the oceans and all the creatures living there. Remember, everyone can help by using fewer plastic bags and bottles in daily life. Small changes in our habits can lead to big improvements for the environment."
+      "correct_answer": "B",
+      "explanation": "【解析】本段讲的是如何交朋友（talk to classmates/joining clubs），B选项'首先，勇敢主动地交朋友'作为段首主题句。【错因】A已用过；C是时间管理，属于下一段；D是结果；E是求助，属于最后一段。【技巧】段落主题句通常概括整段内容，后文'try to talk to'与B选项'make friends'对应，First也与后文Finally形成顺序关系。",
+      "label": "短文填空",
+      "group": "fill_1",
+      "group_passage": "Starting middle school is an exciting time. You will meet new teachers and make new friends. (17)_____. Here are some tips to help you.\n\n(18)_____. Try to talk to your classmates and find those who share similar interests with you. Joining clubs is also a great way to meet people.\n\n(19)_____. Make a timetable and follow it strictly. This will help you balance your study and hobbies.\n\nFinally, don't be afraid to ask for help. (20)_____. Teachers and parents are always there to support you when you have problems."
     },
     {
       "id": 19,
-      "type": "reading",
-      "knowledge_point": "word_guessing",
+      "type": "fill",
+      "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "stem": "The underlined phrase 'sucks up' in Paragraph 2 probably means ______ in Chinese.",
+      "stem": "(19)___",
       "options": [
-        "A. 吹走",
-        "B. 吸走",
-        "C. 推动",
-        "D. 溶解"
+        "A. However, it can also make you feel nervous sometimes.",
+        "B. First, be brave and try to make friends actively.",
+        "C. In addition, learning to manage your time is very important.",
+        "D. As a result, you will become more independent soon.",
+        "E. Remember that asking questions is a sign of strength, not weakness."
       ],
-      "correct_answer": "B",
-      "explanation": "这道题考查词义猜测。根据前文'works like a large vacuum cleaner'（像大型吸尘器一样工作），吸尘器的工作原理是吸入，因此suck up意为'吸走'。后文also提到letting water and small fish pass through（让水和小鱼通过），进一步说明机器像吸尘器一样吸走垃圾但让其他东西通过。词义猜测技巧：利用上下文线索，如比喻词like，以及同段内的解释说明。",
-      "label": "阅读-词义猜测",
-      "group": "reading_1",
-      "group_passage": "Our oceans are facing a serious environmental problem that affects everyone on Earth. Every year, millions of tons of plastic waste enter the sea through rivers and coastlines. This causes great danger to sea animals and plants. Many turtles, fish and birds mistake plastic bags for jellyfish or other food and eat them accidentally. When this happens, the animals can get sick or even die because the plastic blocks their stomachs.\n\nHowever, some clever young people around the world are finding creative ways to solve this growing problem. In Australia, a group of teenagers invented a special machine that cleans plastic from rivers before it reaches the ocean. The machine works like a large vacuum cleaner. It sucks up rubbish while letting water and small fish pass through safely. This prevents tons of plastic from ever reaching the sea.\n\nAnother good idea comes from the Netherlands. Scientists there created something called a bubble barrier—a wall of air bubbles that pushes plastic waste to one side of the river. This simple but effective method stops the waste from floating into the open sea. Amazingly, fish can swim through the bubbles easily without any harm, but plastic pieces cannot get past the barrier.\n\nThese wonderful inventions show that young people can really make a difference in protecting nature. By keeping our rivers clean, we also protect the oceans and all the creatures living there. Remember, everyone can help by using fewer plastic bags and bottles in daily life. Small changes in our habits can lead to big improvements for the environment."
+      "correct_answer": "C",
+      "explanation": "【解析】本段讲的是时间管理（timetable），C选项'此外，学会管理时间非常重要'作为主题句，In addition表示在前文交朋友基础上的补充建议。【错因】A、B已用过；D是结果；E与求助无关。【技巧】连接词In addition/Also/Furthermore表示递进关系，用于补充同类建议，此处与First形成序列关系（First...In addition...Finally）。",
+      "label": "短文填空",
+      "group": "fill_1",
+      "group_passage": "Starting middle school is an exciting time. You will meet new teachers and make new friends. (17)_____. Here are some tips to help you.\n\n(18)_____. Try to talk to your classmates and find those who share similar interests with you. Joining clubs is also a great way to meet people.\n\n(19)_____. Make a timetable and follow it strictly. This will help you balance your study and hobbies.\n\nFinally, don't be afraid to ask for help. (20)_____. Teachers and parents are always there to support you when you have problems."
     },
     {
       "id": 20,
-      "type": "reading",
-      "knowledge_point": "main_idea",
-      "difficulty": 3,
-      "stem": "What is the best title for the passage?",
+      "type": "fill",
+      "knowledge_point": "sentence_fill",
+      "difficulty": 2,
+      "stem": "(20)___",
       "options": [
-        "A. The Beauty of the Ocean",
-        "B. How to Catch Fish",
-        "C. Protecting Our Oceans: Problems and Solutions",
-        "D. Life in Australia"
+        "A. However, it can also make you feel nervous sometimes.",
+        "B. First, be brave and try to make friends actively.",
+        "C. In addition, learning to manage your time is very important.",
+        "D. As a result, you will become more independent soon.",
+        "E. Remember that asking questions is a sign of strength, not weakness."
       ],
-      "correct_answer": "C",
-      "explanation": "这道题考查主旨大意/最佳标题。文章结构为：第一段提出问题（海洋塑料污染），第二、三段提出解决方案（澳大利亚青少年的发明、荷兰的气泡屏障），第四段总结。C选项'保护我们的海洋：问题与解决方案'准确概括全文。A只谈美丽，未涉及污染和解决；B偏离主题；D只是文中一个例子。主旨题技巧：寻找涵盖全文主要内容的选项，既要有problem也要有solution。",
-      "label": "阅读-主旨大意",
-      "group": "reading_1",
-      "group_passage": "Our oceans are facing a serious environmental problem that affects everyone on Earth. Every year, millions of tons of plastic waste enter the sea through rivers and coastlines. This causes great danger to sea animals and plants. Many turtles, fish and birds mistake plastic bags for jellyfish or other food and eat them accidentally. When this happens, the animals can get sick or even die because the plastic blocks their stomachs.\n\nHowever, some clever young people around the world are finding creative ways to solve this growing problem. In Australia, a group of teenagers invented a special machine that cleans plastic from rivers before it reaches the ocean. The machine works like a large vacuum cleaner. It sucks up rubbish while letting water and small fish pass through safely. This prevents tons of plastic from ever reaching the sea.\n\nAnother good idea comes from the Netherlands. Scientists there created something called a bubble barrier—a wall of air bubbles that pushes plastic waste to one side of the river. This simple but effective method stops the waste from floating into the open sea. Amazingly, fish can swim through the bubbles easily without any harm, but plastic pieces cannot get past the barrier.\n\nThese wonderful inventions show that young people can really make a difference in protecting nature. By keeping our rivers clean, we also protect the oceans and all the creatures living there. Remember, everyone can help by using fewer plastic bags and bottles in daily life. Small changes in our habits can lead to big improvements for the environment."
+      "correct_answer": "E",
+      "explanation": "【解析】本段讲的是求助（ask for help），E选项'记住，提问是力量的象征，而不是软弱'解释为什么不要害怕求助，支持段首句。【错因】A、B、C已用过；D是结果，但此处需要解释说明。【技巧】选句填空看同义复现：ask for help与asking questions对应，解释不要害怕求助的原因，逻辑紧密。",
+      "label": "短文填空",
+      "group": "fill_1",
+      "group_passage": "Starting middle school is an exciting time. You will meet new teachers and make new friends. (17)_____. Here are some tips to help you.\n\n(18)_____. Try to talk to your classmates and find those who share similar interests with you. Joining clubs is also a great way to meet people.\n\n(19)_____. Make a timetable and follow it strictly. This will help you balance your study and hobbies.\n\nFinally, don't be afraid to ask for help. (20)_____. Teachers and parents are always there to support you when you have problems."
     }
   ]
 }
