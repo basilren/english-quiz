@@ -1,13 +1,29 @@
 ﻿{
-  "date": "2026-07-27",
+  "date": "2026-07-28",
   "session_number": 1,
   "questions": [
     {
       "id": 1,
       "type": "grammar",
+      "knowledge_point": "present_perfect_vs_past_simple",
+      "difficulty": 2,
+      "stem": "I _______ my key yesterday, so I _______ wait outside for an hour.",
+      "options": [
+        "A. lost; had to",
+        "B. have lost; have had to",
+        "C. lost; have had to",
+        "D. have lost; had to"
+      ],
+      "correct_answer": "A",
+      "explanation": "本题考查现在完成时与一般过去时的辨析。句中有明确的时间状语\"yesterday\"（昨天），表示过去某个特定时间发生的动作，因此两个空都应用一般过去时。lose的过去式是lost，have to的过去式是had to。现在完成时强调过去动作对现在的影响，但此处只是陈述昨天发生的一系列过去动作，故不选B或D。",
+      "label": "语法题"
+    },
+    {
+      "id": 2,
+      "type": "grammar",
       "knowledge_point": "relative_clause_who_which",
-      "difficulty": 1,
-      "stem": "The boy ______ is standing under the tree is my new classmate. He is from Canada.",
+      "difficulty": 2,
+      "stem": "The girl _______ is singing on the stage comes from Class 3.",
       "options": [
         "A. who",
         "B. which",
@@ -15,122 +31,106 @@
         "D. whose"
       ],
       "correct_answer": "A",
-      "explanation": "本题考查定语从句关系代词的用法。先行词是'the boy'，指人，且在从句中作主语，因此用who。which用于指物；whom虽然指人，但只能作宾语；whose表示'...的'，在从句中作定语。口诀：先行词是人作主语用who，作宾语用whom/who，指物用which，表示所属用whose。",
-      "label": "语法题"
-    },
-    {
-      "id": 2,
-      "type": "grammar",
-      "knowledge_point": "present_perfect_vs_past_simple",
-      "difficulty": 2,
-      "stem": "—______ you ______ your homework yet? \n—Yes, I ______ it an hour ago.",
-      "options": [
-        "A. Did; finish; finished",
-        "B. Have; finished; finished",
-        "C. Have; finished; have finished",
-        "D. Did; finish; have finished"
-      ],
-      "correct_answer": "B",
-      "explanation": "本题考查现在完成时与一般过去时的区别。第一空根据yet（常用于现在完成时疑问句和否定句）可知用现在完成时Have...finished；第二空根据时间状语an hour ago（具体过去时间）可知用一般过去时finished。现在完成时强调对现在的影响或与现在的联系，一般过去时强调动作发生在过去某个具体时间。",
+      "explanation": "本题考查定语从句关系代词的用法。先行词是\"the girl\"（指人），且关系代词在从句中作主语（is singing），因此应使用who。which用于指物；whom用于指人但在从句中作宾语；whose表示所属关系（谁的）。口诀：先行词指人作主语，关系代词用who。",
       "label": "语法题"
     },
     {
       "id": 3,
       "type": "grammar",
       "knowledge_point": "passive_voice",
-      "difficulty": 2,
-      "stem": "The new library ______ by the students last month. It looks very modern now.",
+      "difficulty": 1,
+      "stem": "The book _______ by many students in our school last month.",
       "options": [
-        "A. was built",
-        "B. is built",
-        "C. built",
-        "D. was building"
+        "A. is read",
+        "B. was read",
+        "C. reads",
+        "D. reading"
       ],
-      "correct_answer": "A",
-      "explanation": "本题考查一般过去时的被动语态。主语'the new library'与动词build之间是被动关系，且时间状语last month表示过去，因此用was/were+过去分词结构。主语是单数，故用was built。被动语态结构：be+done，注意时态由be动词体现。",
+      "correct_answer": "B",
+      "explanation": "本题考查一般过去时的被动语态。主语\"the book\"与动词\"read\"之间是被动关系（书被读），时间状语\"last month\"表明是过去时间，因此应用一般过去时的被动语态was/were + 过去分词。book是单数，故用was read。A选项是一般现在时被动语态；C是主动语态；D是现在分词，不能单独作谓语。",
       "label": "语法题"
     },
     {
       "id": 4,
       "type": "grammar",
-      "knowledge_point": "object_clause",
+      "knowledge_point": "modal_verbs",
       "difficulty": 3,
-      "stem": "—Could you tell me ______?\n—Sure. He has gone to the library to prepare for the exam.",
+      "stem": "—Whose notebook is this?\n—It _______ be Mary's. Look, her name is on the cover.",
       "options": [
-        "A. where has Tom gone",
-        "B. where Tom has gone",
-        "C. where did Tom go",
-        "D. where Tom went"
+        "A. must",
+        "B. can't",
+        "C. might",
+        "D. need"
       ],
-      "correct_answer": "B",
-      "explanation": "本题考查宾语从句的语序和时态。宾语从句必须用陈述句语序（主语在前，谓语在后），排除A和C；根据答语'He has gone to...'可知问句应用现在完成时，强调对现在的影响（人现在不在这里），因此选B。宾语从句三注意：语序用陈述、时态看主句、连接词看句意。",
+      "correct_answer": "A",
+      "explanation": "本题考查情态动词表推测的用法。根据答句中的关键线索\"her name is on the cover\"（她的名字在封面上），这是确凿的证据，表示肯定推测，应用must（一定）。can't表示否定推测（不可能）；might表示不确定的推测（可能）；need不表推测。解题技巧：看证据是否确凿，确凿用must，确凿否定用can't，不确定用might/may。",
       "label": "语法题"
     },
     {
       "id": 5,
       "type": "vocabulary",
-      "knowledge_point": "phrasal_verbs",
-      "difficulty": 1,
-      "stem": "Please ______ the lights when you leave the classroom to save electricity.",
+      "knowledge_point": "word_guessing_context",
+      "difficulty": 2,
+      "stem": "The old bridge is not safe anymore because some parts are _______ and may fall down.",
       "options": [
-        "A. turn off",
-        "B. turn on",
-        "C. turn up",
-        "D. turn down"
+        "A. broken",
+        "B. built",
+        "C. beautiful",
+        "D. busy"
       ],
       "correct_answer": "A",
-      "explanation": "本题考查动词短语辨析。turn off关闭；turn on打开；turn up调大（音量）；turn down调小（音量）。根据句意'离开教室时关灯省电'，应选turn off。",
+      "explanation": "本题考查根据上下文猜测词义。根据前文\"not safe anymore\"（不再安全）和后文\"may fall down\"（可能倒塌），可推断出桥的部分结构已经\"破损\"。broken意为\"破损的、断裂的\"；built意为\"建造的\"；beautiful意为\"美丽的\"；busy意为\"繁忙的\"。只有broken符合语境逻辑。",
       "label": "词汇题"
     },
     {
       "id": 6,
       "type": "vocabulary",
-      "knowledge_point": "word_formation",
-      "difficulty": 2,
-      "stem": "It is ______ to swim in the river alone without adults' company. You'd better go with your parents.",
+      "knowledge_point": "phrasal_verbs",
+      "difficulty": 1,
+      "stem": "We should _______ our best to protect the environment.",
       "options": [
-        "A. danger",
-        "B. dangerous",
-        "C. dangerously",
-        "D. endanger"
+        "A. try",
+        "B. make",
+        "C. do",
+        "D. give"
       ],
-      "correct_answer": "B",
-      "explanation": "本题考查词性转换。句型'It is + adj. + to do sth.'表示'做某事是...的'，此处需要形容词作表语。danger是名词；dangerous是形容词；dangerously是副词；endanger是动词。根据句型结构选B。",
+      "correct_answer": "A",
+      "explanation": "本题考查固定搭配。try one's best to do sth. 是固定短语，意为\"尽某人最大努力做某事\"。其他选项虽然也可以与best搭配，但意思不同：do one's best也表尽力，但通常不直接接to；make the best of意为\"充分利用\"；give one's best意为\"尽力而为\"，但用法不同。",
       "label": "词汇题"
     },
     {
       "id": 7,
       "type": "vocabulary",
-      "knowledge_point": "phrasal_verbs",
+      "knowledge_point": "word_formation",
       "difficulty": 2,
-      "stem": "The sports meeting will ______ next Friday morning. All students must arrive at the playground before 8:00.",
+      "stem": "It is _______ to drink too much coffee before going to bed.",
       "options": [
-        "A. take up",
-        "B. take off",
-        "C. take place",
-        "D. take away"
+        "A. healthy",
+        "B. unhealthy",
+        "C. health",
+        "D. healthily"
       ],
-      "correct_answer": "C",
-      "explanation": "本题考查take短语辨析。take up占据（时间/空间）、开始从事；take off起飞、脱下；take place发生、举行；take away带走。根据句意'运动会将于下周五上午举行'，应选take place。",
+      "correct_answer": "B",
+      "explanation": "本题考查词性转换及前缀用法。根据常识和句意，睡前喝太多咖啡是\"不健康的\"。un-是否定前缀，unhealthy意为\"不健康的\"；healthy意为\"健康的\"（与句意相反）；health是名词；healthily是副词。此处需要形容词作表语，且根据逻辑应选否定含义，故选B。",
       "label": "词汇题"
     },
     {
       "id": 8,
       "type": "cloze",
       "knowledge_point": "cloze_general",
-      "difficulty": 2,
+      "difficulty": 1,
       "stem": "(8)______",
       "options": [
-        "A. put up",
-        "B. put off",
-        "C. put on",
-        "D. put down"
+        "A. did",
+        "B. made",
+        "C. took",
+        "D. gave"
       ],
       "correct_answer": "A",
-      "explanation": "根据上下文，此处表示'张贴海报'。put up张贴、搭建；put off推迟；put on穿上、上演；put down放下、镇压。环保周活动开始前应该张贴海报宣传，因此选A。",
+      "explanation": "本题考查固定搭配。do a survey是固定短语，意为\"做调查\"。虽然make/take也可以与survey搭配，但do最为常用且符合上下文语境。后文\"We asked them...\"也印证了此处是进行调查。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school environmental club organized a special activity called \"Green Campus Week\". The goal was to help students understand the importance of protecting our environment.\n\nOn Monday, we (8)______ posters around the school to tell everyone about the event. Many students stopped to read them and showed great interest. On Tuesday, we invited a speaker from a local environmental organization. He talked about how plastic pollution (9)______ marine life. His speech was so touching that many students decided to reduce using plastic bags.\n\nThe most exciting part was on Wednesday. We (10)______ a recycling competition between classes. Each class collected as many plastic bottles as possible. Class 8B won because they collected over 500 bottles. Everyone was surprised by their result.\n\nDuring the week, I realized that small actions can make a big difference. I used to throw away bottles carelessly, but now I always put them in the recycling bin. I believe if everyone tries their best, we (11)______ a cleaner and greener world in the future. This experience has taught me that protecting the environment is not just a slogan, but a responsibility that (12)______ to all of us."
+      "group_passage": "Many students in our school are interested in protecting the environment. Last month, our class started a special project called \"Green Classroom\". We wanted to find ways to reduce waste in our daily school life.\n\nFirst, we (8)______ a survey among the students. We asked them about their habits of using paper and plastic bottles. The results showed that most students were willing to change their bad habits if they knew how to do it.\n\nThen, we set up recycling boxes in each classroom. We also (9)______ posters on the walls to remind everyone to sort their rubbish. At first, some students didn't take it seriously. They thought it was (10)______ to separate waste every day.\n\nHowever, after two weeks, we saw great changes. The amount of rubbish became (11)______ than before. Our head teacher was very surprised and praised us in the morning meeting. She said small actions could make a big (12)______ to our environment.\n\nNow, more and more classes are joining us. We believe that if everyone does their part, our school will become greener and cleaner."
     },
     {
       "id": 9,
@@ -139,34 +139,34 @@
       "difficulty": 2,
       "stem": "(9)______",
       "options": [
-        "A. protects",
-        "B. affects",
-        "C. improves",
-        "D. saves"
+        "A. painted",
+        "B. put up",
+        "C. handed out",
+        "D. looked for"
       ],
       "correct_answer": "B",
-      "explanation": "根据语境，演讲者讲的是塑料污染如何'影响'海洋生物。affect影响；protect保护；improve改善；save拯救。塑料污染对海洋生物应是负面影响，因此选B。",
+      "explanation": "本题考查动词短语辨析。put up意为\"张贴\"，与posters（海报）搭配合理；paint意为\"绘画\"，虽然可以画海报，但此处更强调张贴到墙上；hand out意为\"分发\"，通常指传单；look for意为\"寻找\"。根据语境\"on the walls\"（在墙上），应选put up。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school environmental club organized a special activity called \"Green Campus Week\". The goal was to help students understand the importance of protecting our environment.\n\nOn Monday, we (8)______ posters around the school to tell everyone about the event. Many students stopped to read them and showed great interest. On Tuesday, we invited a speaker from a local environmental organization. He talked about how plastic pollution (9)______ marine life. His speech was so touching that many students decided to reduce using plastic bags.\n\nThe most exciting part was on Wednesday. We (10)______ a recycling competition between classes. Each class collected as many plastic bottles as possible. Class 8B won because they collected over 500 bottles. Everyone was surprised by their result.\n\nDuring the week, I realized that small actions can make a big difference. I used to throw away bottles carelessly, but now I always put them in the recycling bin. I believe if everyone tries their best, we (11)______ a cleaner and greener world in the future. This experience has taught me that protecting the environment is not just a slogan, but a responsibility that (12)______ to all of us."
+      "group_passage": "Many students in our school are interested in protecting the environment. Last month, our class started a special project called \"Green Classroom\". We wanted to find ways to reduce waste in our daily school life.\n\nFirst, we (8)______ a survey among the students. We asked them about their habits of using paper and plastic bottles. The results showed that most students were willing to change their bad habits if they knew how to do it.\n\nThen, we set up recycling boxes in each classroom. We also (9)______ posters on the walls to remind everyone to sort their rubbish. At first, some students didn't take it seriously. They thought it was (10)______ to separate waste every day.\n\nHowever, after two weeks, we saw great changes. The amount of rubbish became (11)______ than before. Our head teacher was very surprised and praised us in the morning meeting. She said small actions could make a big (12)______ to our environment.\n\nNow, more and more classes are joining us. We believe that if everyone does their part, our school will become greener and cleaner."
     },
     {
       "id": 10,
       "type": "cloze",
       "knowledge_point": "cloze_general",
-      "difficulty": 1,
+      "difficulty": 2,
       "stem": "(10)______",
       "options": [
-        "A. held",
-        "B. joined",
-        "C. attended",
-        "D. watched"
+        "A. interesting",
+        "B. important",
+        "C. difficult",
+        "D. boring"
       ],
-      "correct_answer": "A",
-      "explanation": "此处表示'举办回收比赛'。hold举办；join加入（组织/活动）；attend参加（会议/课程）；watch观看。主语是'我们（环保社团）'，应该是举办比赛，因此选A。",
+      "correct_answer": "D",
+      "explanation": "本题考查语境推理。根据前文\"didn't take it seriously\"（不认真对待），可推断学生觉得垃圾分类很\"无聊/麻烦\"。boring意为\"无聊的、烦人的\"；interesting（有趣的）和important（重要的）与语境相反；difficult（困难的）虽然可能，但不如boring能解释为什么不认真对待。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school environmental club organized a special activity called \"Green Campus Week\". The goal was to help students understand the importance of protecting our environment.\n\nOn Monday, we (8)______ posters around the school to tell everyone about the event. Many students stopped to read them and showed great interest. On Tuesday, we invited a speaker from a local environmental organization. He talked about how plastic pollution (9)______ marine life. His speech was so touching that many students decided to reduce using plastic bags.\n\nThe most exciting part was on Wednesday. We (10)______ a recycling competition between classes. Each class collected as many plastic bottles as possible. Class 8B won because they collected over 500 bottles. Everyone was surprised by their result.\n\nDuring the week, I realized that small actions can make a big difference. I used to throw away bottles carelessly, but now I always put them in the recycling bin. I believe if everyone tries their best, we (11)______ a cleaner and greener world in the future. This experience has taught me that protecting the environment is not just a slogan, but a responsibility that (12)______ to all of us."
+      "group_passage": "Many students in our school are interested in protecting the environment. Last month, our class started a special project called \"Green Classroom\". We wanted to find ways to reduce waste in our daily school life.\n\nFirst, we (8)______ a survey among the students. We asked them about their habits of using paper and plastic bottles. The results showed that most students were willing to change their bad habits if they knew how to do it.\n\nThen, we set up recycling boxes in each classroom. We also (9)______ posters on the walls to remind everyone to sort their rubbish. At first, some students didn't take it seriously. They thought it was (10)______ to separate waste every day.\n\nHowever, after two weeks, we saw great changes. The amount of rubbish became (11)______ than before. Our head teacher was very surprised and praised us in the morning meeting. She said small actions could make a big (12)______ to our environment.\n\nNow, more and more classes are joining us. We believe that if everyone does their part, our school will become greener and cleaner."
     },
     {
       "id": 11,
@@ -175,16 +175,16 @@
       "difficulty": 2,
       "stem": "(11)______",
       "options": [
-        "A. will create",
-        "B. created",
-        "C. have created",
-        "D. create"
+        "A. more",
+        "B. less",
+        "C. fewer",
+        "D. little"
       ],
-      "correct_answer": "A",
-      "explanation": "根据时间状语'in the future'（在将来），可知此处应用一般将来时。if引导的条件状语从句遵循'主将从现'原则，从句'tries'是一般现在时，主句应用一般将来时will create。",
+      "correct_answer": "B",
+      "explanation": "本题考查形容词比较级及不可数名词的修饰。rubbish（垃圾）是不可数名词，首先排除修饰可数名词的fewer（C）。根据前文\"great changes\"和\"praised us\"，可知垃圾量应该是\"减少\"了，than提示用比较级，less是little的比较级，修饰不可数名词，表示\"更少的\"。more（更多）与语境相反；little（少的）没有比较含义。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school environmental club organized a special activity called \"Green Campus Week\". The goal was to help students understand the importance of protecting our environment.\n\nOn Monday, we (8)______ posters around the school to tell everyone about the event. Many students stopped to read them and showed great interest. On Tuesday, we invited a speaker from a local environmental organization. He talked about how plastic pollution (9)______ marine life. His speech was so touching that many students decided to reduce using plastic bags.\n\nThe most exciting part was on Wednesday. We (10)______ a recycling competition between classes. Each class collected as many plastic bottles as possible. Class 8B won because they collected over 500 bottles. Everyone was surprised by their result.\n\nDuring the week, I realized that small actions can make a big difference. I used to throw away bottles carelessly, but now I always put them in the recycling bin. I believe if everyone tries their best, we (11)______ a cleaner and greener world in the future. This experience has taught me that protecting the environment is not just a slogan, but a responsibility that (12)______ to all of us."
+      "group_passage": "Many students in our school are interested in protecting the environment. Last month, our class started a special project called \"Green Classroom\". We wanted to find ways to reduce waste in our daily school life.\n\nFirst, we (8)______ a survey among the students. We asked them about their habits of using paper and plastic bottles. The results showed that most students were willing to change their bad habits if they knew how to do it.\n\nThen, we set up recycling boxes in each classroom. We also (9)______ posters on the walls to remind everyone to sort their rubbish. At first, some students didn't take it seriously. They thought it was (10)______ to separate waste every day.\n\nHowever, after two weeks, we saw great changes. The amount of rubbish became (11)______ than before. Our head teacher was very surprised and praised us in the morning meeting. She said small actions could make a big (12)______ to our environment.\n\nNow, more and more classes are joining us. We believe that if everyone does their part, our school will become greener and cleaner."
     },
     {
       "id": 12,
@@ -193,88 +193,88 @@
       "difficulty": 1,
       "stem": "(12)______",
       "options": [
-        "A. belongs",
-        "B. connects",
-        "C. returns",
-        "D. leads"
+        "A. decision",
+        "B. difference",
+        "C. progress",
+        "D. mistake"
       ],
-      "correct_answer": "A",
-      "explanation": "此处考查固定搭配belong to属于。句意：保护环境不仅是一个口号，而是属于我们所有人的责任。belong to属于；connect to连接；return to返回；lead to导致。根据句意选A。",
+      "correct_answer": "B",
+      "explanation": "本题考查固定搭配。make a difference是固定短语，意为\"产生影响、起作用\"，符合句意\"小小的行动可以对环境产生巨大影响\"。make a decision（做决定）；make progress（取得进步），但progress通常与in搭配；make a mistake（犯错误）。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school environmental club organized a special activity called \"Green Campus Week\". The goal was to help students understand the importance of protecting our environment.\n\nOn Monday, we (8)______ posters around the school to tell everyone about the event. Many students stopped to read them and showed great interest. On Tuesday, we invited a speaker from a local environmental organization. He talked about how plastic pollution (9)______ marine life. His speech was so touching that many students decided to reduce using plastic bags.\n\nThe most exciting part was on Wednesday. We (10)______ a recycling competition between classes. Each class collected as many plastic bottles as possible. Class 8B won because they collected over 500 bottles. Everyone was surprised by their result.\n\nDuring the week, I realized that small actions can make a big difference. I used to throw away bottles carelessly, but now I always put them in the recycling bin. I believe if everyone tries their best, we (11)______ a cleaner and greener world in the future. This experience has taught me that protecting the environment is not just a slogan, but a responsibility that (12)______ to all of us."
+      "group_passage": "Many students in our school are interested in protecting the environment. Last month, our class started a special project called \"Green Classroom\". We wanted to find ways to reduce waste in our daily school life.\n\nFirst, we (8)______ a survey among the students. We asked them about their habits of using paper and plastic bottles. The results showed that most students were willing to change their bad habits if they knew how to do it.\n\nThen, we set up recycling boxes in each classroom. We also (9)______ posters on the walls to remind everyone to sort their rubbish. At first, some students didn't take it seriously. They thought it was (10)______ to separate waste every day.\n\nHowever, after two weeks, we saw great changes. The amount of rubbish became (11)______ than before. Our head teacher was very surprised and praised us in the morning meeting. She said small actions could make a big (12)______ to our environment.\n\nNow, more and more classes are joining us. We believe that if everyone does their part, our school will become greener and cleaner."
     },
     {
       "id": 13,
       "type": "reading",
       "knowledge_point": "detail",
-      "difficulty": 2,
-      "stem": "According to the passage, how many hours of sleep do teenagers aged 13-18 need per night?",
+      "difficulty": 1,
+      "stem": "According to the passage, what happens when we sleep?",
       "options": [
-        "A. 6-7 hours.",
-        "B. 7-8 hours.",
-        "C. 8-10 hours.",
-        "D. 10-12 hours."
+        "A. We forget everything.",
+        "B. The brain stores information.",
+        "C. We create new cells.",
+        "D. The muscles become stronger."
       ],
-      "correct_answer": "C",
-      "explanation": "细节理解题。根据文章第一段第二句'According to recent studies, teenagers aged 13-18 need about 8-10 hours of sleep per night.'可知，13-18岁青少年每晚需要8-10小时睡眠。做细节题时要准确定位关键词，找到原文对应句子。",
+      "correct_answer": "B",
+      "explanation": "本题考查细节理解。根据文章第三段\"During sleep, the brain processes and stores information from the day\"（在睡眠期间，大脑处理并储存白天的信息），可知B选项正确。A选项（忘记一切）与文意相反；C选项（创造新细胞）文中未提及；D选项（肌肉变强）是第二段提到的memory works like a muscle的比喻，并非睡眠时肌肉真的变强。",
       "label": "阅读-细节理解",
       "group": "reading_1",
-      "group_passage": "Sleep is one of the most important parts of our daily life, but many teenagers don't get enough of it. According to recent studies, teenagers aged 13-18 need about 8-10 hours of sleep per night. However, most students in big cities like Shenzhen only sleep 6-7 hours because of heavy schoolwork and the use of electronic devices.\n\nDr. Li, a sleep researcher at a local hospital, explains that lack of sleep can seriously affect students' health and academic performance. \"When you don't sleep enough, your brain cannot work at its full capacity,\" he says. \"This makes it harder to concentrate in class and remember new information.\" He also points out that chronic sleep deprivation (长期睡眠不足) may lead to obesity and mental health problems.\n\nTo solve this problem, some schools have changed their schedules. For example, No. 1 Middle School now starts classes at 8:30 AM instead of 7:30 AM. \"The extra hour makes a huge difference,\" says Wang Ming, a 15-year-old student there. \"I feel more energetic and can focus better on my studies.\"\n\nExperts suggest several ways to improve sleep quality. First, avoid using smartphones or computers at least one hour before bedtime because the blue light from screens suppresses (抑制) the production of melatonin (褪黑素), a hormone that helps you sleep. Second, keeping a regular sleep schedule, even on weekends, helps regulate your body clock. Finally, creating a comfortable sleep environment with proper temperature and darkness is also essential."
+      "group_passage": "Do you know why some people can remember things better than others? Scientists have done many studies on memory and found some interesting facts.\n\nMemory works like a muscle. The more you use it, the stronger it becomes. When you learn something new, your brain creates connections between nerve cells (神经细胞). If you review the information regularly, these connections become stronger and the memory lasts longer.\n\nHowever, many students complain that they forget things quickly after exams. This is because they often cram (临时抱佛脚) before tests instead of studying regularly. Dr. Li, a brain scientist from Beijing University, explains that sleeping also plays an important role in memory. During sleep, the brain processes and stores information from the day. That's why students who stay up late studying often perform worse than those who get enough sleep.\n\nAnother way to improve memory is to connect new information with something you already know. For example, if you meet someone named Rose, you might picture a red rose in your mind. This technique (技巧) makes it easier for your brain to find the information later.\n\nSo, if you want to have a good memory, remember these three keys: practice regularly, sleep well, and make creative connections."
     },
     {
       "id": 14,
       "type": "reading",
-      "knowledge_point": "inference",
-      "difficulty": 3,
-      "stem": "What can we infer from Wang Ming's words in Paragraph 3?",
+      "knowledge_point": "word_guessing",
+      "difficulty": 2,
+      "stem": "What does the underlined word \"cram\" in Paragraph 3 probably mean?",
       "options": [
-        "A. He used to be late for school every day.",
-        "B. He prefers studying late at night.",
-        "C. He benefits from the later school start time.",
-        "D. He thinks schoolwork is much too heavy."
+        "A. Study hard for a short time before a test.",
+        "B. Sleep for a long time.",
+        "C. Review lessons regularly.",
+        "D. Forget things quickly."
       ],
-      "correct_answer": "C",
-      "explanation": "推理判断题。根据第三段Wang Ming的话'The extra hour makes a huge difference'和'I feel more energetic and can focus better on my studies'可推断，推迟上课时间让他受益良多，精力更充沛，学习更专注。A、B、D选项在原文中没有依据。推理题要基于原文信息合理推断，不能过度推测。",
-      "label": "阅读-推理判断",
+      "correct_answer": "A",
+      "explanation": "本题考查词义猜测。根据第三段语境\"before tests instead of studying regularly\"（考前代替日常学习），可知cram与\"regularly studying\"（定期学习）相对，意为\"考前突击、临时抱佛脚\"。A选项\"在考试前短时间内努力学习\"符合此意。B（睡很长时间）、C（定期复习）、D（快速遗忘）均不符合语境。",
+      "label": "阅读-词义猜测",
       "group": "reading_1",
-      "group_passage": "Sleep is one of the most important parts of our daily life, but many teenagers don't get enough of it. According to recent studies, teenagers aged 13-18 need about 8-10 hours of sleep per night. However, most students in big cities like Shenzhen only sleep 6-7 hours because of heavy schoolwork and the use of electronic devices.\n\nDr. Li, a sleep researcher at a local hospital, explains that lack of sleep can seriously affect students' health and academic performance. \"When you don't sleep enough, your brain cannot work at its full capacity,\" he says. \"This makes it harder to concentrate in class and remember new information.\" He also points out that chronic sleep deprivation (长期睡眠不足) may lead to obesity and mental health problems.\n\nTo solve this problem, some schools have changed their schedules. For example, No. 1 Middle School now starts classes at 8:30 AM instead of 7:30 AM. \"The extra hour makes a huge difference,\" says Wang Ming, a 15-year-old student there. \"I feel more energetic and can focus better on my studies.\"\n\nExperts suggest several ways to improve sleep quality. First, avoid using smartphones or computers at least one hour before bedtime because the blue light from screens suppresses (抑制) the production of melatonin (褪黑素), a hormone that helps you sleep. Second, keeping a regular sleep schedule, even on weekends, helps regulate your body clock. Finally, creating a comfortable sleep environment with proper temperature and darkness is also essential."
+      "group_passage": "Do you know why some people can remember things better than others? Scientists have done many studies on memory and found some interesting facts.\n\nMemory works like a muscle. The more you use it, the stronger it becomes. When you learn something new, your brain creates connections between nerve cells (神经细胞). If you review the information regularly, these connections become stronger and the memory lasts longer.\n\nHowever, many students complain that they forget things quickly after exams. This is because they often cram (临时抱佛脚) before tests instead of studying regularly. Dr. Li, a brain scientist from Beijing University, explains that sleeping also plays an important role in memory. During sleep, the brain processes and stores information from the day. That's why students who stay up late studying often perform worse than those who get enough sleep.\n\nAnother way to improve memory is to connect new information with something you already know. For example, if you meet someone named Rose, you might picture a red rose in your mind. This technique (技巧) makes it easier for your brain to find the information later.\n\nSo, if you want to have a good memory, remember these three keys: practice regularly, sleep well, and make creative connections."
     },
     {
       "id": 15,
       "type": "reading",
-      "knowledge_point": "word_guessing_context",
-      "difficulty": 1,
-      "stem": "The underlined word \"regulate\" in the last paragraph probably means ______ in Chinese.",
+      "knowledge_point": "inference",
+      "difficulty": 3,
+      "stem": "What can we infer from the passage?",
       "options": [
-        "A. 调节",
-        "B. 破坏",
-        "C. 加速",
-        "D. 停止"
+        "A. All students have the same memory ability.",
+        "B. Staying up late is good for exams.",
+        "C. Connecting new and old information helps memory.",
+        "D. Scientists know nothing about memory."
       ],
-      "correct_answer": "A",
-      "explanation": "词义猜测题。根据上下文'keeping a regular sleep schedule... helps regulate your body clock'可知，保持规律的睡眠时间有助于'调节'生物钟。regulate意为调节、管理。猜词题可通过上下文逻辑关系（同义、反义、因果等）或词根词缀推测。",
-      "label": "阅读-词义猜测",
+      "correct_answer": "C",
+      "explanation": "本题考查推理判断。根据第四段\"Another way to improve memory is to connect new information with something you already know\"（提高记忆的另一种方法是将新信息与你已知道的事物联系起来），可推断C选项正确。A选项（所有学生记忆能力相同）与首句\"some people can remember things better than others\"矛盾；B选项（熬夜对考试好）与第三段\"students who stay up late...perform worse\"矛盾；D选项（科学家对记忆一无所知）与首句\"Scientists have done many studies\"矛盾。",
+      "label": "阅读-推理判断",
       "group": "reading_1",
-      "group_passage": "Sleep is one of the most important parts of our daily life, but many teenagers don't get enough of it. According to recent studies, teenagers aged 13-18 need about 8-10 hours of sleep per night. However, most students in big cities like Shenzhen only sleep 6-7 hours because of heavy schoolwork and the use of electronic devices.\n\nDr. Li, a sleep researcher at a local hospital, explains that lack of sleep can seriously affect students' health and academic performance. \"When you don't sleep enough, your brain cannot work at its full capacity,\" he says. \"This makes it harder to concentrate in class and remember new information.\" He also points out that chronic sleep deprivation (长期睡眠不足) may lead to obesity and mental health problems.\n\nTo solve this problem, some schools have changed their schedules. For example, No. 1 Middle School now starts classes at 8:30 AM instead of 7:30 AM. \"The extra hour makes a huge difference,\" says Wang Ming, a 15-year-old student there. \"I feel more energetic and can focus better on my studies.\"\n\nExperts suggest several ways to improve sleep quality. First, avoid using smartphones or computers at least one hour before bedtime because the blue light from screens suppresses (抑制) the production of melatonin (褪黑素), a hormone that helps you sleep. Second, keeping a regular sleep schedule, even on weekends, helps regulate your body clock. Finally, creating a comfortable sleep environment with proper temperature and darkness is also essential."
+      "group_passage": "Do you know why some people can remember things better than others? Scientists have done many studies on memory and found some interesting facts.\n\nMemory works like a muscle. The more you use it, the stronger it becomes. When you learn something new, your brain creates connections between nerve cells (神经细胞). If you review the information regularly, these connections become stronger and the memory lasts longer.\n\nHowever, many students complain that they forget things quickly after exams. This is because they often cram (临时抱佛脚) before tests instead of studying regularly. Dr. Li, a brain scientist from Beijing University, explains that sleeping also plays an important role in memory. During sleep, the brain processes and stores information from the day. That's why students who stay up late studying often perform worse than those who get enough sleep.\n\nAnother way to improve memory is to connect new information with something you already know. For example, if you meet someone named Rose, you might picture a red rose in your mind. This technique (技巧) makes it easier for your brain to find the information later.\n\nSo, if you want to have a good memory, remember these three keys: practice regularly, sleep well, and make creative connections."
     },
     {
       "id": 16,
       "type": "reading",
-      "knowledge_point": "main_idea_title",
+      "knowledge_point": "main_idea",
       "difficulty": 2,
-      "stem": "What is the main idea of the passage?",
+      "stem": "What is the best title for this passage?",
       "options": [
-        "A. Teenagers should use fewer electronic devices.",
-        "B. Sleep is important for teenagers' health and study.",
-        "C. All schools should start classes later in the morning.",
-        "D. How to deal with mental health problems."
+        "A. How to Sleep Well",
+        "B. The Importance of Nerve Cells",
+        "C. Ways to Improve Your Memory",
+        "D. Why We Forget Things"
       ],
-      "correct_answer": "B",
-      "explanation": "主旨大意题。文章第一段讲青少年睡眠不足，第二段讲睡眠不足的危害，第三段讲解决方案（推迟上课时间），第四段讲改善睡眠的方法。全文围绕睡眠对青少年健康和学习的重要性展开。A、C、D都是文章细节，不是主旨。主旨题要概括全文，通常看首尾段和各段主题句。",
+      "correct_answer": "C",
+      "explanation": "本题考查主旨大意/最佳标题。文章首段引出记忆的话题，随后各段分别介绍了提高记忆力的方法：定期复习、充足睡眠、联想记忆，最后总结这三个关键点。因此C选项\"提高记忆力的方法\"最能概括全文。A（如何睡好）、B（神经细胞的重要性）只是文中细节；D（为什么我们遗忘事物）并非文章重点。",
       "label": "阅读-主旨大意",
       "group": "reading_1",
-      "group_passage": "Sleep is one of the most important parts of our daily life, but many teenagers don't get enough of it. According to recent studies, teenagers aged 13-18 need about 8-10 hours of sleep per night. However, most students in big cities like Shenzhen only sleep 6-7 hours because of heavy schoolwork and the use of electronic devices.\n\nDr. Li, a sleep researcher at a local hospital, explains that lack of sleep can seriously affect students' health and academic performance. \"When you don't sleep enough, your brain cannot work at its full capacity,\" he says. \"This makes it harder to concentrate in class and remember new information.\" He also points out that chronic sleep deprivation (长期睡眠不足) may lead to obesity and mental health problems.\n\nTo solve this problem, some schools have changed their schedules. For example, No. 1 Middle School now starts classes at 8:30 AM instead of 7:30 AM. \"The extra hour makes a huge difference,\" says Wang Ming, a 15-year-old student there. \"I feel more energetic and can focus better on my studies.\"\n\nExperts suggest several ways to improve sleep quality. First, avoid using smartphones or computers at least one hour before bedtime because the blue light from screens suppresses (抑制) the production of melatonin (褪黑素), a hormone that helps you sleep. Second, keeping a regular sleep schedule, even on weekends, helps regulate your body clock. Finally, creating a comfortable sleep environment with proper temperature and darkness is also essential."
+      "group_passage": "Do you know why some people can remember things better than others? Scientists have done many studies on memory and found some interesting facts.\n\nMemory works like a muscle. The more you use it, the stronger it becomes. When you learn something new, your brain creates connections between nerve cells (神经细胞). If you review the information regularly, these connections become stronger and the memory lasts longer.\n\nHowever, many students complain that they forget things quickly after exams. This is because they often cram (临时抱佛脚) before tests instead of studying regularly. Dr. Li, a brain scientist from Beijing University, explains that sleeping also plays an important role in memory. During sleep, the brain processes and stores information from the day. That's why students who stay up late studying often perform worse than those who get enough sleep.\n\nAnother way to improve memory is to connect new information with something you already know. For example, if you meet someone named Rose, you might picture a red rose in your mind. This technique (技巧) makes it easier for your brain to find the information later.\n\nSo, if you want to have a good memory, remember these three keys: practice regularly, sleep well, and make creative connections."
     },
     {
       "id": 17,
@@ -283,17 +283,17 @@
       "difficulty": 2,
       "stem": "(17)______",
       "options": [
-        "A. However, studying for too long without rest is not effective.",
-        "B. Finally, ensure you get enough sleep every night.",
-        "C. In addition, don't be afraid to ask for help when needed.",
-        "D. First, create a comfortable and quiet study environment.",
-        "E. On the other hand, some students prefer studying in noisy places."
+        "A. First, start your day with a healthy breakfast.",
+        "B. For example, study difficult subjects when your mind is fresh.",
+        "C. However, many students find it hard to keep exercising.",
+        "D. Finally, keep a regular sleep schedule.",
+        "E. As a result, they often feel tired in class."
       ],
-      "correct_answer": "D",
-      "explanation": "选句子填空题。根据下文'First, find a quiet place...'可知，本段主要讲创建舒适安静的学习环境，因此选D（首先，创造一个舒适安静的学习环境）。注意上下文关键词'First'的对应关系。",
+      "correct_answer": "A",
+      "explanation": "本题考查段落衔接与逻辑关系。根据后文的\"Second\"、\"Third\"可知此处应为第一点建议，且后文提到\"without breakfast\"（不吃早餐），与A选项\"以健康早餐开始一天\"形成呼应。标志词First明确了顺序关系。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Developing good study habits is essential for middle school students. Here are some tips that can help you study more effectively.\n\n(17)______ First, find a quiet place away from noise and distractions. Make sure your desk is clean and organized. This helps you focus better on your homework.\n\n(18)______ Don't try to study for four hours without a break. Your brain needs time to rest and process information. Try the Pomodoro Technique: study for 25 minutes, then take a 5-minute break. This method can improve your concentration significantly.\n\n(19)______ When you encounter difficult problems, don't hesitate to ask your teachers or classmates for help. Discussing with others can give you new perspectives and help you understand the material better.\n\n(20)______ Lack of sleep affects your memory and learning ability. Make sure you get at least 8 hours of sleep every night so that you can be energetic the next day.\n\nRemember, forming good habits takes time. Start with small steps and be consistent. Soon you will see improvement in your studies."
+      "group_passage": "Having a good daily routine is important for middle school students. It helps us manage time better and stay healthy. Here are some tips for creating a good routine.\n\n(17)______ Many students wake up late and rush to school without breakfast. This is bad for health. Try to get up 30 minutes earlier so you can have a proper meal.\n\nSecond, plan your study time wisely. (18)______ Don't try to do everything at once. Break big tasks into smaller ones and finish them step by step.\n\nThird, make time for exercise. Physical activity helps reduce stress and improves concentration. (19)______ You don't need to play sports for hours. Even a 20-minute walk after dinner can help you relax.\n\n(20)______ Go to bed at the same time every night. Avoid using phones before sleep as the blue light makes it hard to fall asleep.\n\nWith a good routine, you will feel more energetic and perform better at school."
     },
     {
       "id": 18,
@@ -302,17 +302,17 @@
       "difficulty": 2,
       "stem": "(18)______",
       "options": [
-        "A. However, studying for too long without rest is not effective.",
-        "B. Finally, ensure you get enough sleep every night.",
-        "C. In addition, don't be afraid to ask for help when needed.",
-        "D. First, create a comfortable and quiet study environment.",
-        "E. On the other hand, some students prefer studying in noisy places."
+        "A. First, start your day with a healthy breakfast.",
+        "B. For example, study difficult subjects when your mind is fresh.",
+        "C. However, many students find it hard to keep exercising.",
+        "D. Finally, keep a regular sleep schedule.",
+        "E. As a result, they often feel tired in class."
       ],
-      "correct_answer": "A",
-      "explanation": "根据下文'Don't try to study for four hours without a break'（不要连续学习四小时不休息）可知，本段讲学习需要休息，因此选A（然而，长时间学习而不休息是无效的）。However表示转折，引出与上文'创造环境'不同的另一个话题'学习时长'。",
+      "correct_answer": "B",
+      "explanation": "本题考查例证关系。前句提到\"明智地规划学习时间\"，B选项\"例如，在头脑清醒时学习困难的科目\"是对前句的具体举例说明。For example是明显的例证标志词。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Developing good study habits is essential for middle school students. Here are some tips that can help you study more effectively.\n\n(17)______ First, find a quiet place away from noise and distractions. Make sure your desk is clean and organized. This helps you focus better on your homework.\n\n(18)______ Don't try to study for four hours without a break. Your brain needs time to rest and process information. Try the Pomodoro Technique: study for 25 minutes, then take a 5-minute break. This method can improve your concentration significantly.\n\n(19)______ When you encounter difficult problems, don't hesitate to ask your teachers or classmates for help. Discussing with others can give you new perspectives and help you understand the material better.\n\n(20)______ Lack of sleep affects your memory and learning ability. Make sure you get at least 8 hours of sleep every night so that you can be energetic the next day.\n\nRemember, forming good habits takes time. Start with small steps and be consistent. Soon you will see improvement in your studies."
+      "group_passage": "Having a good daily routine is important for middle school students. It helps us manage time better and stay healthy. Here are some tips for creating a good routine.\n\n(17)______ Many students wake up late and rush to school without breakfast. This is bad for health. Try to get up 30 minutes earlier so you can have a proper meal.\n\nSecond, plan your study time wisely. (18)______ Don't try to do everything at once. Break big tasks into smaller ones and finish them step by step.\n\nThird, make time for exercise. Physical activity helps reduce stress and improves concentration. (19)______ You don't need to play sports for hours. Even a 20-minute walk after dinner can help you relax.\n\n(20)______ Go to bed at the same time every night. Avoid using phones before sleep as the blue light makes it hard to fall asleep.\n\nWith a good routine, you will feel more energetic and perform better at school."
     },
     {
       "id": 19,
@@ -321,17 +321,17 @@
       "difficulty": 2,
       "stem": "(19)______",
       "options": [
-        "A. However, studying for too long without rest is not effective.",
-        "B. Finally, ensure you get enough sleep every night.",
-        "C. In addition, don't be afraid to ask for help when needed.",
-        "D. First, create a comfortable and quiet study environment.",
-        "E. On the other hand, some students prefer studying in noisy places."
+        "A. First, start your day with a healthy breakfast.",
+        "B. For example, study difficult subjects when your mind is fresh.",
+        "C. However, many students find it hard to keep exercising.",
+        "D. Finally, keep a regular sleep schedule.",
+        "E. As a result, they often feel tired in class."
       ],
       "correct_answer": "C",
-      "explanation": "根据下文'ask your teachers or classmates for help'（向老师同学求助）可知，本段讲遇到问题要寻求帮助，因此选C（此外，需要时不要害怕求助）。In addition表示递进，引出第三个建议。",
+      "explanation": "本题考查转折关系。前句提到运动的好处，后句说\"你不需要运动几小时\"，暗示此处是转折——虽然学生觉得坚持运动难（However），但其实不需要太长时间。However表示转折，引出与前文相对或补充的信息。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Developing good study habits is essential for middle school students. Here are some tips that can help you study more effectively.\n\n(17)______ First, find a quiet place away from noise and distractions. Make sure your desk is clean and organized. This helps you focus better on your homework.\n\n(18)______ Don't try to study for four hours without a break. Your brain needs time to rest and process information. Try the Pomodoro Technique: study for 25 minutes, then take a 5-minute break. This method can improve your concentration significantly.\n\n(19)______ When you encounter difficult problems, don't hesitate to ask your teachers or classmates for help. Discussing with others can give you new perspectives and help you understand the material better.\n\n(20)______ Lack of sleep affects your memory and learning ability. Make sure you get at least 8 hours of sleep every night so that you can be energetic the next day.\n\nRemember, forming good habits takes time. Start with small steps and be consistent. Soon you will see improvement in your studies."
+      "group_passage": "Having a good daily routine is important for middle school students. It helps us manage time better and stay healthy. Here are some tips for creating a good routine.\n\n(17)______ Many students wake up late and rush to school without breakfast. This is bad for health. Try to get up 30 minutes earlier so you can have a proper meal.\n\nSecond, plan your study time wisely. (18)______ Don't try to do everything at once. Break big tasks into smaller ones and finish them step by step.\n\nThird, make time for exercise. Physical activity helps reduce stress and improves concentration. (19)______ You don't need to play sports for hours. Even a 20-minute walk after dinner can help you relax.\n\n(20)______ Go to bed at the same time every night. Avoid using phones before sleep as the blue light makes it hard to fall asleep.\n\nWith a good routine, you will feel more energetic and perform better at school."
     },
     {
       "id": 20,
@@ -340,17 +340,17 @@
       "difficulty": 2,
       "stem": "(20)______",
       "options": [
-        "A. However, studying for too long without rest is not effective.",
-        "B. Finally, ensure you get enough sleep every night.",
-        "C. In addition, don't be afraid to ask for help when needed.",
-        "D. First, create a comfortable and quiet study environment.",
-        "E. On the other hand, some students prefer studying in noisy places."
+        "A. First, start your day with a healthy breakfast.",
+        "B. For example, study difficult subjects when your mind is fresh.",
+        "C. However, many students find it hard to keep exercising.",
+        "D. Finally, keep a regular sleep schedule.",
+        "E. As a result, they often feel tired in class."
       ],
-      "correct_answer": "B",
-      "explanation": "根据下文'Lack of sleep affects...'（睡眠不足影响...）和'get at least 8 hours of sleep'（至少睡8小时）可知，本段讲睡眠的重要性，因此选B（最后，确保每晚睡眠充足）。Finally表示顺序上的最后一点。",
+      "correct_answer": "D",
+      "explanation": "本题考查顺序关系与段落主题。前文有First、Second、Third，此处应为最后一点，且后文提到\"Go to bed at the same time\"（按时睡觉），与D选项\"保持规律的睡眠时间\"完全对应。Finally表示顺序上的最后。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Developing good study habits is essential for middle school students. Here are some tips that can help you study more effectively.\n\n(17)______ First, find a quiet place away from noise and distractions. Make sure your desk is clean and organized. This helps you focus better on your homework.\n\n(18)______ Don't try to study for four hours without a break. Your brain needs time to rest and process information. Try the Pomodoro Technique: study for 25 minutes, then take a 5-minute break. This method can improve your concentration significantly.\n\n(19)______ When you encounter difficult problems, don't hesitate to ask your teachers or classmates for help. Discussing with others can give you new perspectives and help you understand the material better.\n\n(20)______ Lack of sleep affects your memory and learning ability. Make sure you get at least 8 hours of sleep every night so that you can be energetic the next day.\n\nRemember, forming good habits takes time. Start with small steps and be consistent. Soon you will see improvement in your studies."
+      "group_passage": "Having a good daily routine is important for middle school students. It helps us manage time better and stay healthy. Here are some tips for creating a good routine.\n\n(17)______ Many students wake up late and rush to school without breakfast. This is bad for health. Try to get up 30 minutes earlier so you can have a proper meal.\n\nSecond, plan your study time wisely. (18)______ Don't try to do everything at once. Break big tasks into smaller ones and finish them step by step.\n\nThird, make time for exercise. Physical activity helps reduce stress and improves concentration. (19)______ You don't need to play sports for hours. Even a 20-minute walk after dinner can help you relax.\n\n(20)______ Go to bed at the same time every night. Avoid using phones before sleep as the blue light makes it hard to fall asleep.\n\nWith a good routine, you will feel more energetic and perform better at school."
     }
   ]
 }
