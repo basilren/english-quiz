@@ -1,21 +1,21 @@
 ﻿{
-  "date": "2026-07-29",
+  "date": "2026-07-30",
   "session_number": 1,
   "questions": [
     {
       "id": 1,
       "type": "grammar",
       "knowledge_point": "present_perfect_vs_past_simple",
-      "difficulty": 1,
-      "stem": "—_____ you ever _____ to the Shenzhen Museum?\n—Yes, I went there last month.",
+      "difficulty": 2,
+      "stem": "—I can't find my notebook. ______ you ______ it?\n—Yes. I ______ it on the desk just now.",
       "options": [
-        "A. Did; go",
-        "B. Have; been",
-        "C. Do; go",
-        "D. Have; gone"
+        "A. Did; see; saw",
+        "B. Have; seen; saw",
+        "C. Have; seen; have seen",
+        "D. Did; see; have seen"
       ],
       "correct_answer": "B",
-      "explanation": "【解析】问句中有ever（曾经），是\"现在完成时\"的标志词，询问是否\"曾经去过某地\"（have been to），强调经历；答句用一般过去时（went）说明具体去的时间。A选项Did go是一般过去时的疑问句式，但缺少ever搭配时的时态呼应；C是一般现在时，不符合语境；D选项have gone to表示\"去了某地（还没回来）\"，与答句\"上个月去过\"矛盾。【技巧】ever/never/already/yet常作现完标志；have been to表\"去过已回\"，have gone to表\"去了未回\"。",
+      "explanation": "本题考查现在完成时与一般过去时的区别。问句强调'到目前为止是否看见'，用现在完成时Have you seen；答句有明确过去时间状语just now（刚才），用一般过去时saw。A选项问句用一般过去时，只问过去某个时间点，不符合语境；C选项答句用完成时，与just now矛盾；D选项问句用一般过去时，答句用完成时，均错误。口诀：完成时强调'到现在为止'，过去时强调'过去某个具体时间'。",
       "label": "语法题"
     },
     {
@@ -23,31 +23,31 @@
       "type": "grammar",
       "knowledge_point": "relative_clause_who_which",
       "difficulty": 2,
-      "stem": "The boy _____ won the first prize in the English speech contest is my classmate.",
+      "stem": "The story ______ the teacher told us yesterday is about a scientist ______ invented the telephone.",
       "options": [
-        "A. who",
-        "B. which",
-        "C. whom",
-        "D. whose"
+        "A. which; who",
+        "B. who; which",
+        "C. which; which",
+        "D. who; who"
       ],
       "correct_answer": "A",
-      "explanation": "【解析】定语从句先行词是the boy（指人），从句部分_____ won the first prize缺少主语，因此用主格who。B选项which用于指物；C选项whom是who的宾格，在从句中作宾语时使用；D选项whose表示\"谁的\"，在从句中作定语，后需接名词。本句从句缺主语，故选A。【技巧】定从关系词选择：指人用who/whom/that，指物用which/that；从句缺主语用who/which，缺宾语用whom/which/who（口语），缺定语用whose。",
+      "explanation": "本题考查定语从句关系代词who/which的用法。先行词story是物，在从句中作宾语，用which/that；先行词scientist是人，在从句中作主语，用who/that。B选项第一个空who不能指物；C选项第二个空which不能指人；D选项第一个空who不能指物。技巧：指人用who/whom/that，指物用which/that，人+物用that。",
       "label": "语法题"
     },
     {
       "id": 3,
       "type": "grammar",
       "knowledge_point": "passive_voice",
-      "difficulty": 2,
-      "stem": "Many trees _____ in our school every year to make the air cleaner.",
+      "difficulty": 1,
+      "stem": "The 2026 World Cup matches ______ in the United States, Canada and Mexico.",
       "options": [
-        "A. plant",
-        "B. are planted",
-        "C. planted",
-        "D. were planted"
+        "A. will hold",
+        "B. are held",
+        "C. will be held",
+        "D. were held"
       ],
-      "correct_answer": "B",
-      "explanation": "【解析】主语Many trees（树）与动词plant（种植）是被动关系（树被种），且时间状语every year表示经常性动作，因此用一般现在时的被动语态am/is/are + done。trees是复数，用are planted。A是主动语态原形；C是过去式或过去分词，缺少助动词；D是一般过去时的被动，与every year时间状语不符。【技巧】被动语态结构：be + 过去分词；注意时间状语决定时态，every year/usually/often用一般现在时被动。",
+      "correct_answer": "C",
+      "explanation": "本题考查一般将来时的被动语态。主语matches与hold是被动关系（比赛被举行），且2026年是将来时间，用will be held。A选项是主动语态；B选项是一般现在时被动，时态不对；D选项是一般过去时被动，时态不对。被动语态结构：be + 过去分词，注意时态变化。",
       "label": "语法题"
     },
     {
@@ -55,302 +55,302 @@
       "type": "grammar",
       "knowledge_point": "present_perfect_vs_past_simple",
       "difficulty": 3,
-      "stem": "—Why don't you go to the concert with us?\n—I _____ it twice. It's boring.",
+      "stem": "—How long have you ______ the book?\n—Only two days. I ______ it from the library last Friday.",
       "options": [
-        "A. saw",
-        "B. have seen",
-        "C. see",
-        "D. had seen"
+        "A. kept; borrowed",
+        "B. borrowed; kept",
+        "C. borrowed; borrowed",
+        "D. kept; kept"
       ],
-      "correct_answer": "B",
-      "explanation": "【解析】答句中twice（两次）表示动作发生的次数，强调\"过去的经历对现在的影响\"（已经看过了，所以觉得无聊不想去），用现在完成时have seen。A选项saw只强调过去某个时间看了，与现在的联系不紧密；C是一般现在时，表示习惯；D是过去完成时，需要出现过去的时间参照点（\"过去的过去\"），本题没有。【技巧】现在完成时常用标志词：already, yet, ever, never, since, for, 次数（once/twice/three times）。",
+      "correct_answer": "A",
+      "explanation": "本题考查现在完成时与过去时的区别以及延续性动词用法。how long问时间段，需与延续性动词连用，keep是延续性动词（借了多久），borrow是瞬间动词（借的动作），第一空填kept；第二空有last Friday，用一般过去时borrowed。B选项动词用反了；C选项第一空borrow不能与how long连用；D选项第二空kept不能与last Friday连用。技巧：how long/ since/ for + 时间段，动词要用延续性的（keep/have），瞬间动词（borrow/buy/die）要转换。",
       "label": "语法题"
     },
     {
       "id": 5,
       "type": "vocabulary",
       "knowledge_point": "word_guessing_context",
-      "difficulty": 1,
-      "stem": "The sign says \"No smoking\". It means you cannot _____ here.",
+      "difficulty": 2,
+      "stem": "The old building was demolished to make way for a new shopping center. The word 'demolished' probably means ______.",
       "options": [
-        "A. swim",
-        "B. smoke",
-        "C. park",
-        "D. shout"
+        "A. built",
+        "B. destroyed",
+        "C. painted",
+        "D. sold"
       ],
       "correct_answer": "B",
-      "explanation": "【解析】根据上下文线索，前句明确提到\"No smoking\"（禁止吸烟的标志），因此这意味着不能在此smoke（吸烟）。A游泳、C停车、D喊叫均与标志内容无关。【技巧】词义猜测题要利用上下文中的同义、近义或解释性线索，本题属于直接对应。",
+      "explanation": "本题考查通过上下文猜测词义。根据'to make way for a new shopping center'（为新建购物中心让路）可知，旧建筑应该是被'拆除/毁坏'了。A选项built（建造）相反；C选项painted（粉刷）与让路无关；D选项sold（出售）不符合语境。词义猜测技巧：根据前后因果关系（为新建而让路→旧建筑被拆除）。",
       "label": "词汇题"
     },
     {
       "id": 6,
       "type": "vocabulary",
       "knowledge_point": "phrasal_verbs",
-      "difficulty": 2,
-      "stem": "We should _____ our old clothes to charity instead of throwing them away.",
+      "difficulty": 1,
+      "stem": "Please ______ the lights when you leave the classroom to save electricity.",
       "options": [
-        "A. give away",
-        "B. give up",
-        "C. give in",
-        "D. give out"
+        "A. turn on",
+        "B. turn off",
+        "C. turn up",
+        "D. turn down"
       ],
-      "correct_answer": "A",
-      "explanation": "【解析】give away表示\"捐赠、赠送\"；give up表示\"放弃\"；give in表示\"屈服、让步\"；give out表示\"分发、耗尽\"。根据语境\"把旧衣服给慈善机构\"，应选择\"捐赠\"之意。【技巧】give短语辨析：away（离开→送走→捐赠），up（向上→停手→放弃），in（进来→让步→屈服），out（出去→分发/耗尽）。",
+      "correct_answer": "B",
+      "explanation": "本题考查动词短语辨析。根据'leave the classroom'（离开教室）和'save electricity'（省电）可知应'关灯'，turn off关闭。A选项turn on打开，相反；C选项turn up调大（音量）；D选项turn down调小（音量）。短语动词要熟记搭配：turn on/off（开/关电器），turn up/down（调大/小音量）。",
       "label": "词汇题"
     },
     {
       "id": 7,
       "type": "vocabulary",
-      "knowledge_point": "word_formation",
+      "knowledge_point": "prefix_suffix",
       "difficulty": 2,
-      "stem": "It is _____ to cross the street when the traffic light is red. (danger)",
+      "stem": "The weather was so ______ that we decided to stay at home instead of going camping.",
       "options": [
-        "A. danger",
-        "B. dangerous",
-        "C. dangerously",
-        "D. endanger"
+        "A. pleasant",
+        "B. unpleasant",
+        "C. pleasure",
+        "D. please"
       ],
       "correct_answer": "B",
-      "explanation": "【解析】句型It is + adj. + to do sth.表示\"做某事是……的\"，此处需要形容词作表语。danger是名词，dangerous是形容词（危险的），dangerously是副词，endanger是动词（危及）。因此选B。【技巧】-ous是常见形容词后缀（dangerous, famous, nervous），-ly是副词后缀。",
+      "explanation": "本题考查词性转换及前缀用法。系动词was后需形容词，根据'stay at home'（呆在家）可知天气'不好'，un-是表示否定的前缀，unpleasant（不舒服的）。A选项pleasant（舒适的），与语境相反；C选项pleasure是名词；D选项please是动词。技巧：un-前缀表示'不'，如happy-unhappy, usual-unusual。",
       "label": "词汇题"
     },
     {
       "id": 8,
       "type": "cloze",
-      "knowledge_point": "passive_voice",
+      "knowledge_point": "cloze_general",
       "difficulty": 2,
-      "stem": "(8)_____",
-      "options": [
-        "A. are thrown",
-        "B. throw",
-        "C. threw",
-        "D. were throwing"
-      ],
-      "correct_answer": "A",
-      "explanation": "【解析】主语millions of tons of plastic waste（塑料垃圾）与动词throw（扔）是被动关系（垃圾被扔），且时间状语every year表示一般现在时，因此用一般现在时被动语态are thrown。B是主动语态；C是过去式，时态和语态都不对；D是过去进行时。【技巧】完形填空先判断主被动关系，再根据时间状语确定时态。",
-      "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Plastic pollution is one of the biggest environmental problems we face today. Every year, millions of tons of plastic waste (8)_____ into the ocean. This causes serious harm to sea animals. Many of them mistake plastic bags (9)_____ food and eat them by mistake.\n\nTo solve this problem, many countries have taken action. For example, some cities have banned (禁止) single-use plastic bags in supermarkets. Shoppers are encouraged to bring their own reusable bags (10)_____. However, this is only a small step. We also need to improve our waste recycling systems.\n\nEducation plays an important role too. Schools should teach students about the importance of protecting the environment. When young people understand how their daily habits affect the planet, they will be (11)_____ to make better choices. It is reported that teenagers who learn about environmental protection at school are more likely to (12)_____ waste properly in their daily lives.\n\nThe fight against plastic pollution is long, but if everyone makes an effort, we can create a cleaner world for future generations."
+      "group_passage": "Last month, our school started a recycling project to help protect the environment. The project was designed by a group of students who wanted to make a difference.\n\nAt first, many students were not interested in the idea. They thought recycling was too much work and wouldn't change anything. However, after the first week, everything began to change.\n\nThe student team placed special bins around the school. Each bin was ______ (8) for different types of waste - paper, plastic, and glass. They also put up posters to explain why recycling was important. \"Every small action counts,\" the posters said.\n\nThe results were amazing. In just one month, we collected over 500 kilos of recyclable materials. Teachers and students were ______ (9) by the success. The money earned from selling these materials was used to buy new books for the school library.\n\nWhat surprised everyone most was how students' attitudes changed. People started to think more carefully about their daily habits. Instead of throwing everything away, they would ______ (10) check if an item could be recycled.\n\nThe project has taught us an important lesson: protecting the environment doesn't require big changes. It starts with small steps in our ______ (11) life. As one student said, \"Once you start, it becomes a habit, and then it feels strange not to recycle.\"\n\nNow, other schools in our city want to copy our ______ (12). We are happy to share our experience and help them start their own recycling programs.",
+      "stem": "(8)______",
+      "options": [
+        "A. used",
+        "B. labeled",
+        "C. chosen",
+        "D. made"
+      ],
+      "correct_answer": "B",
+      "explanation": "本题考查语境推理及固定搭配。根据'different types of waste'（不同类型的垃圾）可知，每个垃圾桶被'标记/贴上标签'用于特定垃圾，be labeled for为固定搭配，意为'被标记为'。A选项used for被用于，不太准确；C选项chosen被选择；D选项made for为...制作。结合上下文，学生团队放置垃圾桶并'标记'分类最合理。",
+      "label": "完形填空"
     },
     {
       "id": 9,
       "type": "cloze",
-      "knowledge_point": "fixed_collocation",
-      "difficulty": 2,
-      "stem": "(9)_____",
-      "options": [
-        "A. with",
-        "B. as",
-        "C. for",
-        "D. to"
-      ],
-      "correct_answer": "C",
-      "explanation": "【解析】固定搭配mistake A for B表示\"把A误认为B\"。此处指海洋动物把塑料袋误认为食物。【技巧】完形填空中的固定搭配需要平时积累，mistake...for...（误认为），consider...as...（把……看作），change...into...（把……变成）。",
-      "label": "完形填空",
+      "knowledge_point": "cloze_general",
+      "difficulty": 1,
       "group": "cloze_1",
-      "group_passage": "Plastic pollution is one of the biggest environmental problems we face today. Every year, millions of tons of plastic waste (8)_____ into the ocean. This causes serious harm to sea animals. Many of them mistake plastic bags (9)_____ food and eat them by mistake.\n\nTo solve this problem, many countries have taken action. For example, some cities have banned (禁止) single-use plastic bags in supermarkets. Shoppers are encouraged to bring their own reusable bags (10)_____. However, this is only a small step. We also need to improve our waste recycling systems.\n\nEducation plays an important role too. Schools should teach students about the importance of protecting the environment. When young people understand how their daily habits affect the planet, they will be (11)_____ to make better choices. It is reported that teenagers who learn about environmental protection at school are more likely to (12)_____ waste properly in their daily lives.\n\nThe fight against plastic pollution is long, but if everyone makes an effort, we can create a cleaner world for future generations."
+      "group_passage": "Last month, our school started a recycling project to help protect the environment. The project was designed by a group of students who wanted to make a difference.\n\nAt first, many students were not interested in the idea. They thought recycling was too much work and wouldn't change anything. However, after the first week, everything began to change.\n\nThe student team placed special bins around the school. Each bin was ______ (8) for different types of waste - paper, plastic, and glass. They also put up posters to explain why recycling was important. \"Every small action counts,\" the posters said.\n\nThe results were amazing. In just one month, we collected over 500 kilos of recyclable materials. Teachers and students were ______ (9) by the success. The money earned from selling these materials was used to buy new books for the school library.\n\nWhat surprised everyone most was how students' attitudes changed. People started to think more carefully about their daily habits. Instead of throwing everything away, they would ______ (10) check if an item could be recycled.\n\nThe project has taught us an important lesson: protecting the environment doesn't require big changes. It starts with small steps in our ______ (11) life. As one student said, \"Once you start, it becomes a habit, and then it feels strange not to recycle.\"\n\nNow, other schools in our city want to copy our ______ (12). We are happy to share our experience and help them start their own recycling programs.",
+      "stem": "(9)______",
+      "options": [
+        "A. surprised",
+        "B. worried",
+        "C. bored",
+        "D. tired"
+      ],
+      "correct_answer": "A",
+      "explanation": "本题考查情感线索及语境理解。前文提到'results were amazing'（结果惊人）和'collected over 500 kilos'（收集了500多公斤），说明师生对成功感到'惊讶'。B选项worried（担心）、C选项bored（无聊）、D选项tired（累）均与积极的成功语境不符。通过情感线索（amazing, success）可判断选surprised。",
+      "label": "完形填空"
     },
     {
       "id": 10,
       "type": "cloze",
-      "knowledge_point": "context_logic",
+      "knowledge_point": "cloze_general",
       "difficulty": 2,
-      "stem": "(10)_____",
-      "options": [
-        "A. however",
-        "B. instead",
-        "C. therefore",
-        "D. besides"
-      ],
-      "correct_answer": "B",
-      "explanation": "【解析】instead作为副词，表示\"代替、反而\"，通常放在句末，表示用自带环保袋代替使用塑料袋。however（然而）表转折，通常用逗号与句子隔开且位置灵活；therefore（因此）表结果；besides（此外）表递进。【技巧】注意instead和instead of的区别：instead是副词，可放句末；instead of是介词短语，后接名词/动名词，表\"代替……\"。",
-      "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Plastic pollution is one of the biggest environmental problems we face today. Every year, millions of tons of plastic waste (8)_____ into the ocean. This causes serious harm to sea animals. Many of them mistake plastic bags (9)_____ food and eat them by mistake.\n\nTo solve this problem, many countries have taken action. For example, some cities have banned (禁止) single-use plastic bags in supermarkets. Shoppers are encouraged to bring their own reusable bags (10)_____. However, this is only a small step. We also need to improve our waste recycling systems.\n\nEducation plays an important role too. Schools should teach students about the importance of protecting the environment. When young people understand how their daily habits affect the planet, they will be (11)_____ to make better choices. It is reported that teenagers who learn about environmental protection at school are more likely to (12)_____ waste properly in their daily lives.\n\nThe fight against plastic pollution is long, but if everyone makes an effort, we can create a cleaner world for future generations."
+      "group_passage": "Last month, our school started a recycling project to help protect the environment. The project was designed by a group of students who wanted to make a difference.\n\nAt first, many students were not interested in the idea. They thought recycling was too much work and wouldn't change anything. However, after the first week, everything began to change.\n\nThe student team placed special bins around the school. Each bin was ______ (8) for different types of waste - paper, plastic, and glass. They also put up posters to explain why recycling was important. \"Every small action counts,\" the posters said.\n\nThe results were amazing. In just one month, we collected over 500 kilos of recyclable materials. Teachers and students were ______ (9) by the success. The money earned from selling these materials was used to buy new books for the school library.\n\nWhat surprised everyone most was how students' attitudes changed. People started to think more carefully about their daily habits. Instead of throwing everything away, they would ______ (10) check if an item could be recycled.\n\nThe project has taught us an important lesson: protecting the environment doesn't require big changes. It starts with small steps in our ______ (11) life. As one student said, \"Once you start, it becomes a habit, and then it feels strange not to recycle.\"\n\nNow, other schools in our city want to copy our ______ (12). We are happy to share our experience and help them start their own recycling programs.",
+      "stem": "(10)______",
+      "options": [
+        "A. seldom",
+        "B. never",
+        "C. carefully",
+        "D. quickly"
+      ],
+      "correct_answer": "C",
+      "explanation": "本题考查逻辑关系及副词辨析。前文说'attitudes changed'（态度改变）和'think more carefully'（更仔细思考），所以此处应该是'仔细地'检查物品是否可回收，体现态度转变。A选项seldom（很少）、B选项never（从不）与态度转变相反；D选项quickly（快速地）与仔细思考矛盾。通过逻辑关系（态度改变→行为仔细）可确定答案。",
+      "label": "完形填空"
     },
     {
       "id": 11,
       "type": "cloze",
-      "knowledge_point": "fixed_collocation",
+      "knowledge_point": "cloze_general",
       "difficulty": 1,
-      "stem": "(11)_____",
-      "options": [
-        "A. afraid",
-        "B. surprised",
-        "C. willing",
-        "D. sorry"
-      ],
-      "correct_answer": "C",
-      "explanation": "【解析】be willing to do sth.表示\"愿意做某事\"，符合语境：当年轻人了解日常习惯如何影响地球时，他们会愿意做出更好的选择。be afraid to（害怕做），be surprised to（惊讶做），be sorry to（遗憾做）均不符合上下文逻辑。【技巧】willing表示主观意愿，常与be...to do搭配。",
-      "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Plastic pollution is one of the biggest environmental problems we face today. Every year, millions of tons of plastic waste (8)_____ into the ocean. This causes serious harm to sea animals. Many of them mistake plastic bags (9)_____ food and eat them by mistake.\n\nTo solve this problem, many countries have taken action. For example, some cities have banned (禁止) single-use plastic bags in supermarkets. Shoppers are encouraged to bring their own reusable bags (10)_____. However, this is only a small step. We also need to improve our waste recycling systems.\n\nEducation plays an important role too. Schools should teach students about the importance of protecting the environment. When young people understand how their daily habits affect the planet, they will be (11)_____ to make better choices. It is reported that teenagers who learn about environmental protection at school are more likely to (12)_____ waste properly in their daily lives.\n\nThe fight against plastic pollution is long, but if everyone makes an effort, we can create a cleaner world for future generations."
+      "group_passage": "Last month, our school started a recycling project to help protect the environment. The project was designed by a group of students who wanted to make a difference.\n\nAt first, many students were not interested in the idea. They thought recycling was too much work and wouldn't change anything. However, after the first week, everything began to change.\n\nThe student team placed special bins around the school. Each bin was ______ (8) for different types of waste - paper, plastic, and glass. They also put up posters to explain why recycling was important. \"Every small action counts,\" the posters said.\n\nThe results were amazing. In just one month, we collected over 500 kilos of recyclable materials. Teachers and students were ______ (9) by the success. The money earned from selling these materials was used to buy new books for the school library.\n\nWhat surprised everyone most was how students' attitudes changed. People started to think more carefully about their daily habits. Instead of throwing everything away, they would ______ (10) check if an item could be recycled.\n\nThe project has taught us an important lesson: protecting the environment doesn't require big changes. It starts with small steps in our ______ (11) life. As one student said, \"Once you start, it becomes a habit, and then it feels strange not to recycle.\"\n\nNow, other schools in our city want to copy our ______ (12). We are happy to share our experience and help them start their own recycling programs.",
+      "stem": "(11)______",
+      "options": [
+        "A. daily",
+        "B. holiday",
+        "C. school",
+        "D. future"
+      ],
+      "correct_answer": "A",
+      "explanation": "本题考查固定搭配及语境理解。daily life是固定搭配'日常生活'，与small steps（小步骤）和daily habits（日常习惯）呼应。B选项holiday life（假期生活）范围太窄；C选项school life（学校生活），但环保应延伸到校外；D选项future life（未来生活）与starts with（从...开始）矛盾，因为未来尚未开始。固定搭配daily life最符合语境。",
+      "label": "完形填空"
     },
     {
       "id": 12,
       "type": "cloze",
-      "knowledge_point": "context_vocabulary",
-      "difficulty": 1,
-      "stem": "(12)_____",
+      "knowledge_point": "cloze_general",
+      "difficulty": 2,
+      "group": "cloze_1",
+      "group_passage": "Last month, our school started a recycling project to help protect the environment. The project was designed by a group of students who wanted to make a difference.\n\nAt first, many students were not interested in the idea. They thought recycling was too much work and wouldn't change anything. However, after the first week, everything began to change.\n\nThe student team placed special bins around the school. Each bin was ______ (8) for different types of waste - paper, plastic, and glass. They also put up posters to explain why recycling was important. \"Every small action counts,\" the posters said.\n\nThe results were amazing. In just one month, we collected over 500 kilos of recyclable materials. Teachers and students were ______ (9) by the success. The money earned from selling these materials was used to buy new books for the school library.\n\nWhat surprised everyone most was how students' attitudes changed. People started to think more carefully about their daily habits. Instead of throwing everything away, they would ______ (10) check if an item could be recycled.\n\nThe project has taught us an important lesson: protecting the environment doesn't require big changes. It starts with small steps in our ______ (11) life. As one student said, \"Once you start, it becomes a habit, and then it feels strange not to recycle.\"\n\nNow, other schools in our city want to copy our ______ (12). We are happy to share our experience and help them start their own recycling programs.",
+      "stem": "(12)______",
       "options": [
-        "A. hide",
-        "B. sort",
-        "C. burn",
-        "D. produce"
+        "A. classroom",
+        "B. model",
+        "C. building",
+        "D. team"
       ],
       "correct_answer": "B",
-      "explanation": "【解析】sort表示\"分类\"，sort waste即\"垃圾分类\"，符合环保主题语境。hide（隐藏）、burn（燃烧）、produce（产生）均不如sort贴切，且与前文提到的waste recycling systems（垃圾回收系统）呼应。【技巧】完形填空要利用文章主题（环保）和上下文线索（recycling）来选择最佳词汇。",
-      "label": "完形填空",
-      "group": "cloze_1",
-      "group_passage": "Plastic pollution is one of the biggest environmental problems we face today. Every year, millions of tons of plastic waste (8)_____ into the ocean. This causes serious harm to sea animals. Many of them mistake plastic bags (9)_____ food and eat them by mistake.\n\nTo solve this problem, many countries have taken action. For example, some cities have banned (禁止) single-use plastic bags in supermarkets. Shoppers are encouraged to bring their own reusable bags (10)_____. However, this is only a small step. We also need to improve our waste recycling systems.\n\nEducation plays an important role too. Schools should teach students about the importance of protecting the environment. When young people understand how their daily habits affect the planet, they will be (11)_____ to make better choices. It is reported that teenagers who learn about environmental protection at school are more likely to (12)_____ waste properly in their daily lives.\n\nThe fight against plastic pollution is long, but if everyone makes an effort, we can create a cleaner world for future generations."
+      "explanation": "本题考查语境推理。copy our model意为'效仿我们的模式'，符合'other schools... want to copy'（其他学校想效仿）的语境，后文也说'share our experience'（分享经验）。A选项classroom（教室）、C选项building（建筑）、D选项team（团队）都不能被copy（效仿/复制），逻辑不通。model在此处指'模范/模式'，是可效仿的对象。",
+      "label": "完形填空"
     },
     {
       "id": 13,
       "type": "reading",
       "knowledge_point": "detail",
-      "difficulty": 2,
-      "stem": "According to the passage, what causes afternoon sleepiness?",
+      "difficulty": 1,
+      "group": "reading_1",
+      "group_passage": "Do you often feel tired during the day? The answer might be in your sleep habits. Scientists have discovered that good sleep is not just about the number of hours you spend in bed, but also about the quality of your rest.\n\nWhen we sleep, our brains are very busy. They are organizing memories and cleaning out waste products. This process is essential for learning. Studies show that students who get enough sleep perform better on tests than those who stay up late studying. \"Sleep is like a superpower for your brain,\" says Dr. Li Ming, a sleep researcher.\n\nHowever, many teenagers don't get enough sleep. One major reason is the use of electronic devices. The blue light from phones and computers tricks our brains into thinking it is still daytime. This makes it harder to fall asleep. Experts recommend turning off all screens at least one hour before bedtime.\n\nAnother important factor is routine. Going to bed and waking up at the same time every day helps your body develop a healthy rhythm. Even on weekends, try not to change your schedule by more than one hour. This consistency helps you feel more energetic during the week.\n\nSo what can you do if you have trouble sleeping? First, create a relaxing bedtime routine. Reading a book or listening to calm music can help. Second, keep your bedroom cool and dark. Finally, avoid caffeine in the afternoon and evening.\n\nRemember, good sleep habits don't just help you feel better - they can improve your grades and overall health. Sweet dreams!",
+      "stem": "According to the passage, what happens when we sleep?",
       "options": [
-        "A. High room temperature",
-        "B. Drop in body temperature and blood flow changes",
-        "C. Lack of protein",
-        "D. Too much exercise"
+        "A. Our brains stop working.",
+        "B. Our brains organize memories.",
+        "C. We don't need to breathe.",
+        "D. Our bodies grow taller quickly."
       ],
       "correct_answer": "B",
-      "explanation": "【解析】细节理解题。根据文章第二段\"Our body temperature drops slightly after lunch, which makes us feel tired. Also, when we eat a big meal, our blood flow increases to the stomach... This means less blood goes to the brain, causing sleepiness.\"可知，午后困倦的原因是体温轻微下降和血液流向变化（流向胃部帮助消化，大脑供血减少）。A选项高温与文中体温下降相反；C缺乏蛋白质是第三段提到的不同食物的影响，不是困倦的直接原因；D选项运动未提及。【技巧】细节题要精准定位原文，注意同义转换：blood flow increases to the stomach = blood flow changes。",
-      "label": "阅读-细节理解",
-      "group": "reading_1",
-      "group_passage": "Do you often feel sleepy after lunch? Many people experience this \"afternoon slump\" (午后萎靡). But why does it happen?\n\nScientists have found that it has something to do with our biological clock (生物钟). Our body temperature drops slightly after lunch, which makes us feel tired. Also, when we eat a big meal, our blood flow increases to the stomach to help digestion (消化). This means less blood goes to the brain, causing sleepiness.\n\nHowever, not all foods have the same effect. Meals high in carbohydrates (碳水化合物), such as rice and noodles, can make you feel sleepier than protein-rich foods (富含蛋白质的食物). This is because carbohydrates help produce a chemical called serotonin (血清素) in the brain, which makes us feel relaxed and sleepy.\n\nSo how can we beat the afternoon slump? First, try to have a lighter lunch with more vegetables and protein. Second, taking a short walk after eating can help increase blood flow to the brain. Finally, a 10-minute power nap (小睡) in the afternoon can actually improve your focus and productivity for the rest of the day.\n\nRemember, feeling sleepy after lunch is completely normal. By understanding the science behind it and making small changes to your habits, you can stay alert and energetic throughout the afternoon."
+      "explanation": "本题是细节理解题。根据第二段第二句'They are organizing memories and cleaning out waste products'（它们正在整理记忆并清理废物）可知B选项正确。A选项与原文'brains are very busy'相反；C选项文中未提及；D选项文中未提及长高。细节题技巧：定位关键词（when we sleep→第二段），找到原文对应句，对比选项。",
+      "label": "阅读-细节理解"
     },
     {
       "id": 14,
       "type": "reading",
-      "knowledge_point": "inference",
-      "difficulty": 3,
-      "stem": "What can we infer from the passage about serotonin?",
-      "options": [
-        "A. It is produced in the stomach",
-        "B. It makes people feel excited",
-        "C. It is produced by carbohydrates and causes sleepiness",
-        "D. It is harmful to health"
-      ],
-      "correct_answer": "C",
-      "explanation": "【解析】推理判断题。根据第三段\"This is because carbohydrates help produce a chemical called serotonin (血清素) in the brain, which makes us feel relaxed and sleepy.\"可推断出血清素是由碳水化合物帮助产生的，并且会导致困倦（使人放松和 sleepy）。A选项错误，是在大脑中产生而非胃部；B选项与原文sleepy相反；D选项文中未提及有害。【技巧】推理题要基于原文信息进行逻辑推导，不能过度推断，注意which引导的定语从句修饰serotonin。",
-      "label": "阅读-推理判断",
+      "knowledge_point": "word_guessing",
+      "difficulty": 2,
       "group": "reading_1",
-      "group_passage": "Do you often feel sleepy after lunch? Many people experience this \"afternoon slump\" (午后萎靡). But why does it happen?\n\nScientists have found that it has something to do with our biological clock (生物钟). Our body temperature drops slightly after lunch, which makes us feel tired. Also, when we eat a big meal, our blood flow increases to the stomach to help digestion (消化). This means less blood goes to the brain, causing sleepiness.\n\nHowever, not all foods have the same effect. Meals high in carbohydrates (碳水化合物), such as rice and noodles, can make you feel sleepier than protein-rich foods (富含蛋白质的食物). This is because carbohydrates help produce a chemical called serotonin (血清素) in the brain, which makes us feel relaxed and sleepy.\n\nSo how can we beat the afternoon slump? First, try to have a lighter lunch with more vegetables and protein. Second, taking a short walk after eating can help increase blood flow to the brain. Finally, a 10-minute power nap (小睡) in the afternoon can actually improve your focus and productivity for the rest of the day.\n\nRemember, feeling sleepy after lunch is completely normal. By understanding the science behind it and making small changes to your habits, you can stay alert and energetic throughout the afternoon."
+      "group_passage": "Do you often feel tired during the day? The answer might be in your sleep habits. Scientists have discovered that good sleep is not just about the number of hours you spend in bed, but also about the quality of your rest.\n\nWhen we sleep, our brains are very busy. They are organizing memories and cleaning out waste products. This process is essential for learning. Studies show that students who get enough sleep perform better on tests than those who stay up late studying. \"Sleep is like a superpower for your brain,\" says Dr. Li Ming, a sleep researcher.\n\nHowever, many teenagers don't get enough sleep. One major reason is the use of electronic devices. The blue light from phones and computers tricks our brains into thinking it is still daytime. This makes it harder to fall asleep. Experts recommend turning off all screens at least one hour before bedtime.\n\nAnother important factor is routine. Going to bed and waking up at the same time every day helps your body develop a healthy rhythm. Even on weekends, try not to change your schedule by more than one hour. This consistency helps you feel more energetic during the week.\n\nSo what can you do if you have trouble sleeping? First, create a relaxing bedtime routine. Reading a book or listening to calm music can help. Second, keep your bedroom cool and dark. Finally, avoid caffeine in the afternoon and evening.\n\nRemember, good sleep habits don't just help you feel better - they can improve your grades and overall health. Sweet dreams!",
+      "stem": "What does the word 'consistency' in Paragraph 4 probably mean?",
+      "options": [
+        "A. Doing things at the same time regularly",
+        "B. Changing schedules frequently",
+        "C. Sleeping for many hours",
+        "D. Using electronic devices before bed"
+      ],
+      "correct_answer": "A",
+      "explanation": "本题是词义猜测题。根据前文'Going to bed and waking up at the same time every day'（每天同一时间睡觉和起床）和'try not to change your schedule'（尽量不改变时间表）可知，consistency指'规律性/一致性'，即A选项'有规律地在同一时间做事'。B选项（频繁改变）相反；C选项（睡很久）未提及；D选项（睡前用电子设备）是前一段内容。词义猜测技巧：根据上下文同义解释（same time every day）和反义提示（not change）。",
+      "label": "阅读-词义猜测"
     },
     {
       "id": 15,
       "type": "reading",
-      "knowledge_point": "word_guessing",
-      "difficulty": 1,
-      "stem": "The underlined word \"alert\" in the last paragraph probably means _____.",
-      "options": [
-        "A. sleepy",
-        "B. energetic and watchful",
-        "C. relaxed",
-        "D. nervous"
-      ],
-      "correct_answer": "B",
-      "explanation": "【解析】词义猜测题。根据最后一段\"you can stay alert and energetic throughout the afternoon\"，alert与energetic（精力充沛的）并列，且与前文提到的sleepy（困倦的）形成对比，因此alert应表示\"清醒的、警觉的\"。A困倦是相反意思；C放松是serotonin的作用；D紧张未提及。【技巧】利用并列连词and的同义关系，以及上下文对比关系（vs sleepy）猜测词义。",
-      "label": "阅读-词义猜测",
+      "knowledge_point": "inference",
+      "difficulty": 3,
       "group": "reading_1",
-      "group_passage": "Do you often feel sleepy after lunch? Many people experience this \"afternoon slump\" (午后萎靡). But why does it happen?\n\nScientists have found that it has something to do with our biological clock (生物钟). Our body temperature drops slightly after lunch, which makes us feel tired. Also, when we eat a big meal, our blood flow increases to the stomach to help digestion (消化). This means less blood goes to the brain, causing sleepiness.\n\nHowever, not all foods have the same effect. Meals high in carbohydrates (碳水化合物), such as rice and noodles, can make you feel sleepier than protein-rich foods (富含蛋白质的食物). This is because carbohydrates help produce a chemical called serotonin (血清素) in the brain, which makes us feel relaxed and sleepy.\n\nSo how can we beat the afternoon slump? First, try to have a lighter lunch with more vegetables and protein. Second, taking a short walk after eating can help increase blood flow to the brain. Finally, a 10-minute power nap (小睡) in the afternoon can actually improve your focus and productivity for the rest of the day.\n\nRemember, feeling sleepy after lunch is completely normal. By understanding the science behind it and making small changes to your habits, you can stay alert and energetic throughout the afternoon."
+      "group_passage": "Do you often feel tired during the day? The answer might be in your sleep habits. Scientists have discovered that good sleep is not just about the number of hours you spend in bed, but also about the quality of your rest.\n\nWhen we sleep, our brains are very busy. They are organizing memories and cleaning out waste products. This process is essential for learning. Studies show that students who get enough sleep perform better on tests than those who stay up late studying. \"Sleep is like a superpower for your brain,\" says Dr. Li Ming, a sleep researcher.\n\nHowever, many teenagers don't get enough sleep. One major reason is the use of electronic devices. The blue light from phones and computers tricks our brains into thinking it is still daytime. This makes it harder to fall asleep. Experts recommend turning off all screens at least one hour before bedtime.\n\nAnother important factor is routine. Going to bed and waking up at the same time every day helps your body develop a healthy rhythm. Even on weekends, try not to change your schedule by more than one hour. This consistency helps you feel more energetic during the week.\n\nSo what can you do if you have trouble sleeping? First, create a relaxing bedtime routine. Reading a book or listening to calm music can help. Second, keep your bedroom cool and dark. Finally, avoid caffeine in the afternoon and evening.\n\nRemember, good sleep habits don't just help you feel better - they can improve your grades and overall health. Sweet dreams!",
+      "stem": "What can we infer from the passage?",
+      "options": [
+        "A. All teenagers sleep eight hours every night.",
+        "B. Drinking coffee in the morning affects sleep at night.",
+        "C. Sleep quality is as important as sleep quantity.",
+        "D. Scientists think sleep is useless for learning."
+      ],
+      "correct_answer": "C",
+      "explanation": "本题是推理判断题。根据第一段'good sleep is not just about the number of hours... but also about the quality'（好睡眠不仅关乎时间也关乎质量）可推断C选项正确（睡眠质量与数量同样重要）。A选项'all'太绝对，文中说'many teenagers don't get enough sleep'；B选项文中只说'avoid caffeine in the afternoon and evening'（下午晚上避免咖啡因），未提早上；D选项与原文'Sleep is like a superpower'相反。推理题技巧：基于原文信息合理推断，避免绝对化选项和与原文矛盾的选项。",
+      "label": "阅读-推理判断"
     },
     {
       "id": 16,
       "type": "reading",
       "knowledge_point": "main_idea",
-      "difficulty": 3,
-      "stem": "What is the best title for the passage?",
-      "options": [
-        "A. The Dangers of Overeating",
-        "B. How to Cook Healthy Meals",
-        "C. Why We Feel Sleepy After Lunch and How to Deal With It",
-        "D. The Importance of Biological Clocks"
-      ],
-      "correct_answer": "C",
-      "explanation": "【解析】主旨大意题。文章第一段提出午后困倦的现象，第二段解释原因（生物钟、消化），第三段说明食物种类的影响，第四段给出解决方法（轻食、散步、小睡），最后总结。因此C选项\"为什么午饭后会感到困倦以及如何应对\"最全面。A只涉及第三段部分内容；B烹饪未提及；D生物钟只是原因之一。【技巧】主旨题要覆盖全文内容，不能只概括某一段；关注首尾段和段落主题句。",
-      "label": "阅读-主旨大意",
+      "difficulty": 2,
       "group": "reading_1",
-      "group_passage": "Do you often feel sleepy after lunch? Many people experience this \"afternoon slump\" (午后萎靡). But why does it happen?\n\nScientists have found that it has something to do with our biological clock (生物钟). Our body temperature drops slightly after lunch, which makes us feel tired. Also, when we eat a big meal, our blood flow increases to the stomach to help digestion (消化). This means less blood goes to the brain, causing sleepiness.\n\nHowever, not all foods have the same effect. Meals high in carbohydrates (碳水化合物), such as rice and noodles, can make you feel sleepier than protein-rich foods (富含蛋白质的食物). This is because carbohydrates help produce a chemical called serotonin (血清素) in the brain, which makes us feel relaxed and sleepy.\n\nSo how can we beat the afternoon slump? First, try to have a lighter lunch with more vegetables and protein. Second, taking a short walk after eating can help increase blood flow to the brain. Finally, a 10-minute power nap (小睡) in the afternoon can actually improve your focus and productivity for the rest of the day.\n\nRemember, feeling sleepy after lunch is completely normal. By understanding the science behind it and making small changes to your habits, you can stay alert and energetic throughout the afternoon."
+      "group_passage": "Do you often feel tired during the day? The answer might be in your sleep habits. Scientists have discovered that good sleep is not just about the number of hours you spend in bed, but also about the quality of your rest.\n\nWhen we sleep, our brains are very busy. They are organizing memories and cleaning out waste products. This process is essential for learning. Studies show that students who get enough sleep perform better on tests than those who stay up late studying. \"Sleep is like a superpower for your brain,\" says Dr. Li Ming, a sleep researcher.\n\nHowever, many teenagers don't get enough sleep. One major reason is the use of electronic devices. The blue light from phones and computers tricks our brains into thinking it is still daytime. This makes it harder to fall asleep. Experts recommend turning off all screens at least one hour before bedtime.\n\nAnother important factor is routine. Going to bed and waking up at the same time every day helps your body develop a healthy rhythm. Even on weekends, try not to change your schedule by more than one hour. This consistency helps you feel more energetic during the week.\n\nSo what can you do if you have trouble sleeping? First, create a relaxing bedtime routine. Reading a book or listening to calm music can help. Second, keep your bedroom cool and dark. Finally, avoid caffeine in the afternoon and evening.\n\nRemember, good sleep habits don't just help you feel better - they can improve your grades and overall health. Sweet dreams!",
+      "stem": "What is the best title for this passage?",
+      "options": [
+        "A. How to Use Electronic Devices",
+        "B. The Importance of Sleep for Teenagers",
+        "C. Why We Dream at Night",
+        "D. The Best Time to Study"
+      ],
+      "correct_answer": "B",
+      "explanation": "本题是主旨大意题。文章围绕青少年睡眠展开，讲睡眠的重要性、问题（电子设备）、建议等，B选项'青少年睡眠的重要性'最能概括全文。A选项（使用电子设备）只是第三段内容；C选项（做梦）文中未提及；D选项（最佳学习时间）不是主题。主旨题技巧：找主题句（首段或尾段），本文首段引出睡眠习惯，尾段总结良好睡眠习惯的重要性，都指向睡眠对青少年的重要性。",
+      "label": "阅读-主旨大意"
     },
     {
       "id": 17,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "stem": "(17)_____",
-      "options": [
-        "A. However, asking questions is one of the best ways to learn.",
-        "B. For example, you can review your notes for 15 minutes every day.",
-        "C. In addition, it makes school life more colorful and enjoyable.",
-        "D. Therefore, it's important to build good habits early.",
-        "E. On the other hand, studying all the time without rest is not healthy."
-      ],
-      "correct_answer": "D",
-      "explanation": "【解析】选句子填空。空格前说\"中学是人生中重要的时期，我们不仅学习知识还培养习惯\"，空格后\"以下是帮助你充分利用学校时光的建议\"，因此此处需要承上启下的过渡句，D选项\"因此，尽早养成好习惯很重要\"符合逻辑，Therefore承接前文的importance，引出后文的tips。A涉及提问，与后文First manage your time（时间管理）不衔接；B是具体例子，应放在First之后；C涉及课外活动，应放在Finally之后；E涉及休息，但后文未立即讨论休息。【技巧】选句子填空重点关注逻辑连接词（Therefore/However/For example）和上下文语义衔接。",
-      "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Middle school is an important time in our lives. We not only learn knowledge but also develop habits that will stay with us forever. (17)_____ Here are some tips to help you make the most of your school days.\n\nFirst, manage your time wisely. Make a study schedule and stick to it. (18)_____ This will help you avoid staying up late before exams.\n\nSecond, don't be afraid to ask questions. Many students feel shy about raising their hands in class. (19)_____ Remember, there is no such thing as a stupid question. Teachers appreciate curious students.\n\nFinally, take part in extracurricular activities. Joining clubs or sports teams can help you develop teamwork skills and make new friends. (20)_____ Balance is the key to a happy and successful school life."
+      "group_passage": "Starting a healthy lifestyle might seem difficult, but it's actually quite simple if you take it step by step. Here are some tips to help you get started.\n\n(17)______ Eating a good breakfast gives you energy for the whole morning. Try to include fruits, vegetables, and whole grains in your meals. Avoid too much junk food like chips and soda.\n\nRegular exercise is also important. You don't need to run marathons to be healthy. (18)______ Walking to school, playing basketball with friends, or even dancing in your room counts as exercise. The key is to find something you enjoy so that you will stick with it.\n\n(19)______ Many teenagers stay up late using their phones, which makes them tired in class. Try to get 8-9 hours of sleep each night. Put your phone away before bedtime and read a book instead.\n\nFinally, remember that nobody is perfect. (20)______ What matters is that you keep trying. If you eat an unhealthy meal or miss a workout, don't give up. Just make a better choice next time.\n\nA healthy lifestyle is a journey, not a destination. Start with small changes, and soon they will become habits that last a lifetime.",
+      "stem": "(17)______",
+      "options": [
+        "A. First, pay attention to your diet.",
+        "B. However, getting enough sleep is equally crucial.",
+        "C. For example, you can take a 20-minute walk every day.",
+        "D. As a result, you will feel more energetic every day.",
+        "E. You will make mistakes sometimes, and that's okay."
+      ],
+      "correct_answer": "A",
+      "explanation": "本题考查段落主题句。空格后内容讲'吃早餐、包含水果蔬菜、避免垃圾食品'，都是关于饮食的，A选项'首先，注意你的饮食'作为主题句最合适。B选项讲睡眠，是下一段内容；C选项是举例，但本段已有具体例子；D选项是结果，但后文是具体建议；E选项讲犯错，是最后一段内容。技巧：选句子填空要注意段落主题一致性，首句通常是主题句。",
+      "label": "短文填空"
     },
     {
       "id": 18,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "stem": "(18)_____",
-      "options": [
-        "A. However, asking questions is one of the best ways to learn.",
-        "B. For example, you can review your notes for 15 minutes every day.",
-        "C. In addition, it makes school life more colorful and enjoyable.",
-        "D. Therefore, it's important to build good habits early.",
-        "E. On the other hand, studying all the time without rest is not healthy."
-      ],
-      "correct_answer": "B",
-      "explanation": "【解析】选句子填空。空格前说\"制定学习计划并坚持\"，空格后\"这将帮助你避免考前熬夜\"，因此此处需要具体举例说明如何管理时间，B选项\"例如，你可以每天复习笔记15分钟\"符合For example的举例功能，且daily review与avoid staying up late形成因果（日常复习→不用考前突击）。A涉及提问，话题不符；C涉及课外活动；D是总结性语句；E涉及休息，与后文避免熬夜略有关系但不如B直接。【技巧】For example/For instance后通常接具体做法或事例。",
-      "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Middle school is an important time in our lives. We not only learn knowledge but also develop habits that will stay with us forever. (17)_____ Here are some tips to help you make the most of your school days.\n\nFirst, manage your time wisely. Make a study schedule and stick to it. (18)_____ This will help you avoid staying up late before exams.\n\nSecond, don't be afraid to ask questions. Many students feel shy about raising their hands in class. (19)_____ Remember, there is no such thing as a stupid question. Teachers appreciate curious students.\n\nFinally, take part in extracurricular activities. Joining clubs or sports teams can help you develop teamwork skills and make new friends. (20)_____ Balance is the key to a happy and successful school life."
+      "group_passage": "Starting a healthy lifestyle might seem difficult, but it's actually quite simple if you take it step by step. Here are some tips to help you get started.\n\n(17)______ Eating a good breakfast gives you energy for the whole morning. Try to include fruits, vegetables, and whole grains in your meals. Avoid too much junk food like chips and soda.\n\nRegular exercise is also important. You don't need to run marathons to be healthy. (18)______ Walking to school, playing basketball with friends, or even dancing in your room counts as exercise. The key is to find something you enjoy so that you will stick with it.\n\n(19)______ Many teenagers stay up late using their phones, which makes them tired in class. Try to get 8-9 hours of sleep each night. Put your phone away before bedtime and read a book instead.\n\nFinally, remember that nobody is perfect. (20)______ What matters is that you keep trying. If you eat an unhealthy meal or miss a workout, don't give up. Just make a better choice next time.\n\nA healthy lifestyle is a journey, not a destination. Start with small changes, and soon they will become habits that last a lifetime.",
+      "stem": "(18)______",
+      "options": [
+        "A. First, pay attention to your diet.",
+        "B. However, getting enough sleep is equally crucial.",
+        "C. For example, you can take a 20-minute walk every day.",
+        "D. As a result, you will feel more energetic every day.",
+        "E. You will make mistakes sometimes, and that's okay."
+      ],
+      "correct_answer": "C",
+      "explanation": "本题考查举例关系。前文说'不需要跑马拉松'，后文列举'走路、打篮球、跳舞'等简单运动，C选项'例如，你可以每天散步20分钟'承上启下，引出后文例子。A选项是饮食，本段讲运动；B选项是睡眠；D选项是结果，但后文是具体例子；E选项是犯错。技巧：for example后面常跟具体例子，注意前后文的例证关系。",
+      "label": "短文填空"
     },
     {
       "id": 19,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "stem": "(19)_____",
-      "options": [
-        "A. However, asking questions is one of the best ways to learn.",
-        "B. For example, you can review your notes for 15 minutes every day.",
-        "C. In addition, it makes school life more colorful and enjoyable.",
-        "D. Therefore, it's important to build good habits early.",
-        "E. On the other hand, studying all the time without rest is not healthy."
-      ],
-      "correct_answer": "A",
-      "explanation": "【解析】选句子填空。本段主题是\"不要害怕提问\"，空格前说\"许多学生课堂上羞于举手\"，空格后说\"记住，没有所谓愚蠢的问题\"，因此此处需要转折，鼓励学生提问，A选项\"然而，提问是最好的学习方式之一\"符合However的转折逻辑，连接前后的\"害羞不敢问\"和\"应该问\"。B是时间管理例子；C是课外活动；D是总起句；E是休息话题。【技巧】However表转折，常用于纠正前文错误或补充不同观点。",
-      "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Middle school is an important time in our lives. We not only learn knowledge but also develop habits that will stay with us forever. (17)_____ Here are some tips to help you make the most of your school days.\n\nFirst, manage your time wisely. Make a study schedule and stick to it. (18)_____ This will help you avoid staying up late before exams.\n\nSecond, don't be afraid to ask questions. Many students feel shy about raising their hands in class. (19)_____ Remember, there is no such thing as a stupid question. Teachers appreciate curious students.\n\nFinally, take part in extracurricular activities. Joining clubs or sports teams can help you develop teamwork skills and make new friends. (20)_____ Balance is the key to a happy and successful school life."
+      "group_passage": "Starting a healthy lifestyle might seem difficult, but it's actually quite simple if you take it step by step. Here are some tips to help you get started.\n\n(17)______ Eating a good breakfast gives you energy for the whole morning. Try to include fruits, vegetables, and whole grains in your meals. Avoid too much junk food like chips and soda.\n\nRegular exercise is also important. You don't need to run marathons to be healthy. (18)______ Walking to school, playing basketball with friends, or even dancing in your room counts as exercise. The key is to find something you enjoy so that you will stick with it.\n\n(19)______ Many teenagers stay up late using their phones, which makes them tired in class. Try to get 8-9 hours of sleep each night. Put your phone away before bedtime and read a book instead.\n\nFinally, remember that nobody is perfect. (20)______ What matters is that you keep trying. If you eat an unhealthy meal or miss a workout, don't give up. Just make a better choice next time.\n\nA healthy lifestyle is a journey, not a destination. Start with small changes, and soon they will become habits that last a lifetime.",
+      "stem": "(19)______",
+      "options": [
+        "A. First, pay attention to your diet.",
+        "B. However, getting enough sleep is equally crucial.",
+        "C. For example, you can take a 20-minute walk every day.",
+        "D. As a result, you will feel more energetic every day.",
+        "E. You will make mistakes sometimes, and that's okay."
+      ],
+      "correct_answer": "B",
+      "explanation": "本题考查转折过渡。前文讲了饮食和运动，本段讲睡眠，B选项'然而，获得足够睡眠同样重要'用However转折引出另一个要点。A选项已用于17题；C选项是举例；D选项是结果；E选项是最后一段内容。技巧：however/equally crucial用于引入同等重要的另一个方面，注意段落间的并列过渡关系。",
+      "label": "短文填空"
     },
     {
       "id": 20,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "stem": "(20)_____",
-      "options": [
-        "A. However, asking questions is one of the best ways to learn.",
-        "B. For example, you can review your notes for 15 minutes every day.",
-        "C. In addition, it makes school life more colorful and enjoyable.",
-        "D. Therefore, it's important to build good habits early.",
-        "E. On the other hand, studying all the time without rest is not healthy."
-      ],
-      "correct_answer": "C",
-      "explanation": "【解析】选句子填空。本段主题是\"参加课外活动\"，空格前说\"参加社团或运动队能帮助培养团队合作技能并结交新朋友\"，空格后说\"平衡是快乐成功学校生活的关键\"，因此此处需要补充说明课外活动的另一个好处，C选项\"此外，它使学校生活更加丰富多彩和愉快\"符合In addition的递进关系，it指代前文的Joining clubs...。A是提问话题；B是例子；D是总起；E虽然涉及平衡，但On the other hand通常表对比而非递进，且studying all the time与前文joining clubs不直接对应。【技巧】In addition/Furthermore/Moreover用于补充同类优点或信息。",
-      "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Middle school is an important time in our lives. We not only learn knowledge but also develop habits that will stay with us forever. (17)_____ Here are some tips to help you make the most of your school days.\n\nFirst, manage your time wisely. Make a study schedule and stick to it. (18)_____ This will help you avoid staying up late before exams.\n\nSecond, don't be afraid to ask questions. Many students feel shy about raising their hands in class. (19)_____ Remember, there is no such thing as a stupid question. Teachers appreciate curious students.\n\nFinally, take part in extracurricular activities. Joining clubs or sports teams can help you develop teamwork skills and make new friends. (20)_____ Balance is the key to a happy and successful school life."
+      "group_passage": "Starting a healthy lifestyle might seem difficult, but it's actually quite simple if you take it step by step. Here are some tips to help you get started.\n\n(17)______ Eating a good breakfast gives you energy for the whole morning. Try to include fruits, vegetables, and whole grains in your meals. Avoid too much junk food like chips and soda.\n\nRegular exercise is also important. You don't need to run马拉松 to be healthy. (18)______ Walking to school, playing basketball with friends, or even dancing in your room counts as exercise. The key is to find something you enjoy so that you will stick with it.\n\n(19)______ Many teenagers stay up late using their phones, which makes them tired in class. Try to get 8-9 hours of sleep each night. Put your phone away before bedtime and read a book instead.\n\nFinally, remember that nobody is perfect. (20)______ What matters is that you keep trying. If you eat an unhealthy meal or miss a workout, don't give up. Just make a better choice next time.\n\nA healthy lifestyle is a journey, not a destination. Start with small changes, and soon they will become habits that last a lifetime.",
+      "stem": "(20)______",
+      "options": [
+        "A. First, pay attention to your diet.",
+        "B. However, getting enough sleep is equally crucial.",
+        "C. For example, you can take a 20-minute walk every day.",
+        "D. As a result, you will feel more energetic every day.",
+        "E. You will make mistakes sometimes, and that's okay."
+      ],
+      "correct_answer": "E",
+      "explanation": "本题考查逻辑衔接。前文说'nobody is perfect'（没人完美），E选项'你有时会犯错，这没关系'与之呼应，后文'重要的是坚持尝试'也与之衔接。A、B、C已用；D选项是结果，与犯错语境不符。技巧：代词指代和逻辑连贯，nobody is perfect对应make mistakes，形成语义连贯。",
+      "label": "短文填空"
     }
   ]
 }
