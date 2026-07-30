@@ -1,5 +1,5 @@
 ﻿{
-  "date": "2026-07-30",
+  "date": "2026-07-31",
   "session_number": 1,
   "questions": [
     {
@@ -7,15 +7,15 @@
       "type": "grammar",
       "knowledge_point": "present_perfect_vs_past_simple",
       "difficulty": 2,
-      "stem": "—I can't find my notebook. ______ you ______ it?\n—Yes. I ______ it on the desk just now.",
+      "stem": "—______ you ______ your homework yet? \n—Yes, I finished it an hour ago.",
       "options": [
-        "A. Did; see; saw",
-        "B. Have; seen; saw",
-        "C. Have; seen; have seen",
-        "D. Did; see; have seen"
+        "A. Did; finish",
+        "B. Have; finished",
+        "C. Are; finishing",
+        "D. Do; finish"
       ],
       "correct_answer": "B",
-      "explanation": "本题考查现在完成时与一般过去时的区别。问句强调'到目前为止是否看见'，用现在完成时Have you seen；答句有明确过去时间状语just now（刚才），用一般过去时saw。A选项问句用一般过去时，只问过去某个时间点，不符合语境；C选项答句用完成时，与just now矛盾；D选项问句用一般过去时，答句用完成时，均错误。口诀：完成时强调'到现在为止'，过去时强调'过去某个具体时间'。",
+      "explanation": "正确答案是B。yet是现在完成时的典型标志词，常用于疑问句和否定句中，表示\"已经\"。虽然答句用了一般过去时（finished）说明过去某个具体时间完成的动作，但问句强调的是\"到目前为止是否完成\"，所以用现在完成时Have you finished。A选项Did finish是一般过去时，不能与yet连用；C是现在进行时；D是一般现在时，均不符合语境。",
       "label": "语法题"
     },
     {
@@ -23,15 +23,15 @@
       "type": "grammar",
       "knowledge_point": "relative_clause_who_which",
       "difficulty": 2,
-      "stem": "The story ______ the teacher told us yesterday is about a scientist ______ invented the telephone.",
+      "stem": "The book ______ cover is red belongs to the library.",
       "options": [
-        "A. which; who",
-        "B. who; which",
-        "C. which; which",
-        "D. who; who"
+        "A. who",
+        "B. which",
+        "C. whose",
+        "D. that"
       ],
-      "correct_answer": "A",
-      "explanation": "本题考查定语从句关系代词who/which的用法。先行词story是物，在从句中作宾语，用which/that；先行词scientist是人，在从句中作主语，用who/that。B选项第一个空who不能指物；C选项第二个空which不能指人；D选项第一个空who不能指物。技巧：指人用who/whom/that，指物用which/that，人+物用that。",
+      "correct_answer": "C",
+      "explanation": "正确答案是C。这是定语从句，先行词是the book，而cover（封面）与book之间存在所属关系（书的主封面），所以要用关系代词whose，表示\"...的\"。A选项who只能指人；B选项which和D选项that在定语从句中作主语或宾语，但不能表示所属关系。",
       "label": "语法题"
     },
     {
@@ -39,31 +39,31 @@
       "type": "grammar",
       "knowledge_point": "passive_voice",
       "difficulty": 1,
-      "stem": "The 2026 World Cup matches ______ in the United States, Canada and Mexico.",
+      "stem": "These old buildings ______ by the government next year to make room for new schools.",
       "options": [
-        "A. will hold",
-        "B. are held",
-        "C. will be held",
-        "D. were held"
+        "A. will pull down",
+        "B. will be pulled down",
+        "C. are pulling down",
+        "D. pulled down"
       ],
-      "correct_answer": "C",
-      "explanation": "本题考查一般将来时的被动语态。主语matches与hold是被动关系（比赛被举行），且2026年是将来时间，用will be held。A选项是主动语态；B选项是一般现在时被动，时态不对；D选项是一般过去时被动，时态不对。被动语态结构：be + 过去分词，注意时态变化。",
+      "correct_answer": "B",
+      "explanation": "正确答案是B。主语These old buildings（旧建筑）与动词短语pull down（拆除）之间是被动关系，建筑是被拆除的。时间状语next year表示将来，所以要用一般将来时的被动语态will be pulled down。A是主动语态；C是现在进行时的主动语态；D是一般过去时主动语态，均不符合被动关系和时态要求。",
       "label": "语法题"
     },
     {
       "id": 4,
       "type": "grammar",
-      "knowledge_point": "present_perfect_vs_past_simple",
+      "knowledge_point": "modal_verbs_speculation",
       "difficulty": 3,
-      "stem": "—How long have you ______ the book?\n—Only two days. I ______ it from the library last Friday.",
+      "stem": "—Is that Mr. Wang knocking at the door? \n—It ______ be him. He has gone to Shanghai on business.",
       "options": [
-        "A. kept; borrowed",
-        "B. borrowed; kept",
-        "C. borrowed; borrowed",
-        "D. kept; kept"
+        "A. must",
+        "B. might",
+        "C. can't",
+        "D. mustn't"
       ],
-      "correct_answer": "A",
-      "explanation": "本题考查现在完成时与过去时的区别以及延续性动词用法。how long问时间段，需与延续性动词连用，keep是延续性动词（借了多久），borrow是瞬间动词（借的动作），第一空填kept；第二空有last Friday，用一般过去时borrowed。B选项动词用反了；C选项第一空borrow不能与how long连用；D选项第二空kept不能与last Friday连用。技巧：how long/ since/ for + 时间段，动词要用延续性的（keep/have），瞬间动词（borrow/buy/die）要转换。",
+      "correct_answer": "C",
+      "explanation": "正确答案是C。根据后句\"He has gone to Shanghai\"（他去上海出差了）可知，敲门的不可能是王先生，这是有依据的否定推测，要用can't be（不可能是）。must be表示肯定推测；might be表示不确定的推测；mustn't表示\"禁止\"，不用于推测。",
       "label": "语法题"
     },
     {
@@ -71,15 +71,15 @@
       "type": "vocabulary",
       "knowledge_point": "word_guessing_context",
       "difficulty": 2,
-      "stem": "The old building was demolished to make way for a new shopping center. The word 'demolished' probably means ______.",
+      "stem": "After running for 30 minutes in the hot sun, the boy felt dizzy and almost fell down. The underlined word \"dizzy\" means ______.",
       "options": [
-        "A. built",
-        "B. destroyed",
-        "C. painted",
-        "D. sold"
+        "A. 兴奋的",
+        "B. 头晕目眩的",
+        "C. 饥饿的",
+        "D. 无聊的"
       ],
       "correct_answer": "B",
-      "explanation": "本题考查通过上下文猜测词义。根据'to make way for a new shopping center'（为新建购物中心让路）可知，旧建筑应该是被'拆除/毁坏'了。A选项built（建造）相反；C选项painted（粉刷）与让路无关；D选项sold（出售）不符合语境。词义猜测技巧：根据前后因果关系（为新建而让路→旧建筑被拆除）。",
+      "explanation": "正确答案是B。根据上下文语境：在烈日下跑步30分钟后，男孩几乎要摔倒（almost fell down），可以推断dizzy的意思是\"头晕的、眩晕的\"。这是典型的通过上下文情境猜测词义的题目，关键是要找到\"hot sun\"、\"running\"、\"fell down\"这些线索词。",
       "label": "词汇题"
     },
     {
@@ -87,270 +87,270 @@
       "type": "vocabulary",
       "knowledge_point": "phrasal_verbs",
       "difficulty": 1,
-      "stem": "Please ______ the lights when you leave the classroom to save electricity.",
+      "stem": "We need to ______ a good idea to solve this difficult problem.",
       "options": [
-        "A. turn on",
-        "B. turn off",
-        "C. turn up",
-        "D. turn down"
+        "A. come up with",
+        "B. look up to",
+        "C. put up with",
+        "D. get up to"
       ],
-      "correct_answer": "B",
-      "explanation": "本题考查动词短语辨析。根据'leave the classroom'（离开教室）和'save electricity'（省电）可知应'关灯'，turn off关闭。A选项turn on打开，相反；C选项turn up调大（音量）；D选项turn down调小（音量）。短语动词要熟记搭配：turn on/off（开/关电器），turn up/down（调大/小音量）。",
+      "correct_answer": "A",
+      "explanation": "正确答案是A。come up with意为\"想出、提出（主意、计划等）\"，常与idea、plan、solution等词搭配。B选项look up to意为\"尊敬、敬仰\"；C选项put up with意为\"忍受、容忍\"；D选项get up to意为\"忙于（某事）；达到\"。根据句意\"想出一个好主意\"，只有A符合。",
       "label": "词汇题"
     },
     {
       "id": 7,
       "type": "vocabulary",
-      "knowledge_point": "prefix_suffix",
+      "knowledge_point": "word_formation_prefix",
       "difficulty": 2,
-      "stem": "The weather was so ______ that we decided to stay at home instead of going camping.",
+      "stem": "It is ______ to talk loudly in the library because it disturbs other readers. (polite)",
       "options": [
-        "A. pleasant",
-        "B. unpleasant",
-        "C. pleasure",
-        "D. please"
+        "A. polite",
+        "B. impolite",
+        "C. politely",
+        "D. impolitely"
       ],
       "correct_answer": "B",
-      "explanation": "本题考查词性转换及前缀用法。系动词was后需形容词，根据'stay at home'（呆在家）可知天气'不好'，un-是表示否定的前缀，unpleasant（不舒服的）。A选项pleasant（舒适的），与语境相反；C选项pleasure是名词；D选项please是动词。技巧：un-前缀表示'不'，如happy-unhappy, usual-unusual。",
+      "explanation": "正确答案是B。系动词is后面需要形容词作表语，排除C和D（副词）。根据句意\"在图书馆大声说话会打扰他人\"，可知这是\"不礼貌的\"行为，所以要加否定前缀im-，构成impolite。A选项polite（礼貌的）与句意相反。",
       "label": "词汇题"
     },
     {
       "id": 8,
       "type": "cloze",
-      "knowledge_point": "cloze_general",
+      "knowledge_point": "cloze_context",
       "difficulty": 2,
-      "group": "cloze_1",
-      "group_passage": "Last month, our school started a recycling project to help protect the environment. The project was designed by a group of students who wanted to make a difference.\n\nAt first, many students were not interested in the idea. They thought recycling was too much work and wouldn't change anything. However, after the first week, everything began to change.\n\nThe student team placed special bins around the school. Each bin was ______ (8) for different types of waste - paper, plastic, and glass. They also put up posters to explain why recycling was important. \"Every small action counts,\" the posters said.\n\nThe results were amazing. In just one month, we collected over 500 kilos of recyclable materials. Teachers and students were ______ (9) by the success. The money earned from selling these materials was used to buy new books for the school library.\n\nWhat surprised everyone most was how students' attitudes changed. People started to think more carefully about their daily habits. Instead of throwing everything away, they would ______ (10) check if an item could be recycled.\n\nThe project has taught us an important lesson: protecting the environment doesn't require big changes. It starts with small steps in our ______ (11) life. As one student said, \"Once you start, it becomes a habit, and then it feels strange not to recycle.\"\n\nNow, other schools in our city want to copy our ______ (12). We are happy to share our experience and help them start their own recycling programs.",
       "stem": "(8)______",
       "options": [
-        "A. used",
-        "B. labeled",
-        "C. chosen",
-        "D. made"
+        "A. build",
+        "B. destroy",
+        "C. find",
+        "D. borrow"
       ],
-      "correct_answer": "B",
-      "explanation": "本题考查语境推理及固定搭配。根据'different types of waste'（不同类型的垃圾）可知，每个垃圾桶被'标记/贴上标签'用于特定垃圾，be labeled for为固定搭配，意为'被标记为'。A选项used for被用于，不太准确；C选项chosen被选择；D选项made for为...制作。结合上下文，学生团队放置垃圾桶并'标记'分类最合理。",
-      "label": "完形填空"
+      "correct_answer": "A",
+      "explanation": "正确答案是A。根据上下文，学校发起环保项目，每个班被要求在阳台上\"建造\"小花园，build（建造）符合语境。destroy（破坏）与文意相反；find（找到）和borrow（借）与garden搭配不当。解题关键：理解project和garden之间的逻辑关系。",
+      "label": "完形填空",
+      "group": "cloze_1",
+      "group_passage": "Last month, our school started an interesting project called \"Green Classroom\". The goal was to help students understand the importance of protecting the environment.\n\nEvery class was asked to (8)______ a small garden on the balcony. At first, many students thought it would be easy. (9)______, they soon realized it was harder than expected. We had to learn how to plant seeds, how much water the plants needed, and when to move them into the sun.\n\nMy class decided to grow tomatoes. We worked in groups and (10)______ turns to take care of them. Some students brought soil from home, while others bought young plants from the market. It was amazing to see how fast they grew day by day.\n\nHowever, we also faced some challenges. One week, the weather was too hot and some leaves turned yellow. We felt worried but didn't give up. (11)______ the Internet for help, we learned to water them more frequently and put up a simple umbrella to provide shade.\n\nAfter two months, our tomatoes finally turned red. When we shared the fresh vegetables with teachers and classmates, everyone felt proud. This experience taught us that (12)______ nature requires patience and knowledge. It also showed us how small actions can make a big difference to our environment."
     },
     {
       "id": 9,
       "type": "cloze",
-      "knowledge_point": "cloze_general",
-      "difficulty": 1,
-      "group": "cloze_1",
-      "group_passage": "Last month, our school started a recycling project to help protect the environment. The project was designed by a group of students who wanted to make a difference.\n\nAt first, many students were not interested in the idea. They thought recycling was too much work and wouldn't change anything. However, after the first week, everything began to change.\n\nThe student team placed special bins around the school. Each bin was ______ (8) for different types of waste - paper, plastic, and glass. They also put up posters to explain why recycling was important. \"Every small action counts,\" the posters said.\n\nThe results were amazing. In just one month, we collected over 500 kilos of recyclable materials. Teachers and students were ______ (9) by the success. The money earned from selling these materials was used to buy new books for the school library.\n\nWhat surprised everyone most was how students' attitudes changed. People started to think more carefully about their daily habits. Instead of throwing everything away, they would ______ (10) check if an item could be recycled.\n\nThe project has taught us an important lesson: protecting the environment doesn't require big changes. It starts with small steps in our ______ (11) life. As one student said, \"Once you start, it becomes a habit, and then it feels strange not to recycle.\"\n\nNow, other schools in our city want to copy our ______ (12). We are happy to share our experience and help them start their own recycling programs.",
+      "knowledge_point": "cloze_logic",
+      "difficulty": 2,
       "stem": "(9)______",
       "options": [
-        "A. surprised",
-        "B. worried",
-        "C. bored",
-        "D. tired"
+        "A. Therefore",
+        "B. However",
+        "C. Besides",
+        "D. Otherwise"
       ],
-      "correct_answer": "A",
-      "explanation": "本题考查情感线索及语境理解。前文提到'results were amazing'（结果惊人）和'collected over 500 kilos'（收集了500多公斤），说明师生对成功感到'惊讶'。B选项worried（担心）、C选项bored（无聊）、D选项tired（累）均与积极的成功语境不符。通过情感线索（amazing, success）可判断选surprised。",
-      "label": "完形填空"
+      "correct_answer": "B",
+      "explanation": "正确答案是B。前句说\"起初许多学生认为这很容易\"，后句说\"他们很快意识到比预期难\"，前后是转折关系，所以用However（然而）。Therefore（因此）表因果；Besides（此外）表递进；Otherwise（否则）表条件，均不符合逻辑关系。",
+      "label": "完形填空",
+      "group": "cloze_1",
+      "group_passage": "Last month, our school started an interesting project called \"Green Classroom\". The goal was to help students understand the importance of protecting the environment.\n\nEvery class was asked to (8)______ a small garden on the balcony. At first, many students thought it would be easy. (9)______, they soon realized it was harder than expected. We had to learn how to plant seeds, how much water the plants needed, and when to move them into the sun.\n\nMy class decided to grow tomatoes. We worked in groups and (10)______ turns to take care of them. Some students brought soil from home, while others bought young plants from the market. It was amazing to see how fast they grew day by day.\n\nHowever, we also faced some challenges. One week, the weather was too hot and some leaves turned yellow. We felt worried but didn't give up. (11)______ the Internet for help, we learned to water them more frequently and put up a simple umbrella to provide shade.\n\nAfter two months, our tomatoes finally turned red. When we shared the fresh vegetables with teachers and classmates, everyone felt proud. This experience taught us that (12)______ nature requires patience and knowledge. It also showed us how small actions can make a big difference to our environment."
     },
     {
       "id": 10,
       "type": "cloze",
-      "knowledge_point": "cloze_general",
-      "difficulty": 2,
-      "group": "cloze_1",
-      "group_passage": "Last month, our school started a recycling project to help protect the environment. The project was designed by a group of students who wanted to make a difference.\n\nAt first, many students were not interested in the idea. They thought recycling was too much work and wouldn't change anything. However, after the first week, everything began to change.\n\nThe student team placed special bins around the school. Each bin was ______ (8) for different types of waste - paper, plastic, and glass. They also put up posters to explain why recycling was important. \"Every small action counts,\" the posters said.\n\nThe results were amazing. In just one month, we collected over 500 kilos of recyclable materials. Teachers and students were ______ (9) by the success. The money earned from selling these materials was used to buy new books for the school library.\n\nWhat surprised everyone most was how students' attitudes changed. People started to think more carefully about their daily habits. Instead of throwing everything away, they would ______ (10) check if an item could be recycled.\n\nThe project has taught us an important lesson: protecting the environment doesn't require big changes. It starts with small steps in our ______ (11) life. As one student said, \"Once you start, it becomes a habit, and then it feels strange not to recycle.\"\n\nNow, other schools in our city want to copy our ______ (12). We are happy to share our experience and help them start their own recycling programs.",
+      "knowledge_point": "cloze_fixed_phrase",
+      "difficulty": 1,
       "stem": "(10)______",
       "options": [
-        "A. seldom",
-        "B. never",
-        "C. carefully",
-        "D. quickly"
+        "A. made",
+        "B. took",
+        "C. had",
+        "D. spent"
       ],
-      "correct_answer": "C",
-      "explanation": "本题考查逻辑关系及副词辨析。前文说'attitudes changed'（态度改变）和'think more carefully'（更仔细思考），所以此处应该是'仔细地'检查物品是否可回收，体现态度转变。A选项seldom（很少）、B选项never（从不）与态度转变相反；D选项quickly（快速地）与仔细思考矛盾。通过逻辑关系（态度改变→行为仔细）可确定答案。",
-      "label": "完形填空"
+      "correct_answer": "B",
+      "explanation": "正确答案是B。固定搭配take turns to do sth.意为\"轮流做某事\"，是初中必考短语。make turns（制造转弯）、have turns（拥有转弯）、spend turns（花费转弯）都不是正确搭配。记住口诀：轮流做事用take，依次交替不劳累。",
+      "label": "完形填空",
+      "group": "cloze_1",
+      "group_passage": "Last month, our school started an interesting project called \"Green Classroom\". The goal was to help students understand the importance of protecting the environment.\n\nEvery class was asked to (8)______ a small garden on the balcony. At first, many students thought it would be easy. (9)______, they soon realized it was harder than expected. We had to learn how to plant seeds, how much water the plants needed, and when to move them into the sun.\n\nMy class decided to grow tomatoes. We worked in groups and (10)______ turns to take care of them. Some students brought soil from home, while others bought young plants from the market. It was amazing to see how fast they grew day by day.\n\nHowever, we also faced some challenges. One week, the weather was too hot and some leaves turned yellow. We felt worried but didn't give up. (11)______ the Internet for help, we learned to water them more frequently and put up a simple umbrella to provide shade.\n\nAfter two months, our tomatoes finally turned red. When we shared the fresh vegetables with teachers and classmates, everyone felt proud. This experience taught us that (12)______ nature requires patience and knowledge. It also showed us how small actions can make a big difference to our environment."
     },
     {
       "id": 11,
       "type": "cloze",
-      "knowledge_point": "cloze_general",
-      "difficulty": 1,
-      "group": "cloze_1",
-      "group_passage": "Last month, our school started a recycling project to help protect the environment. The project was designed by a group of students who wanted to make a difference.\n\nAt first, many students were not interested in the idea. They thought recycling was too much work and wouldn't change anything. However, after the first week, everything began to change.\n\nThe student team placed special bins around the school. Each bin was ______ (8) for different types of waste - paper, plastic, and glass. They also put up posters to explain why recycling was important. \"Every small action counts,\" the posters said.\n\nThe results were amazing. In just one month, we collected over 500 kilos of recyclable materials. Teachers and students were ______ (9) by the success. The money earned from selling these materials was used to buy new books for the school library.\n\nWhat surprised everyone most was how students' attitudes changed. People started to think more carefully about their daily habits. Instead of throwing everything away, they would ______ (10) check if an item could be recycled.\n\nThe project has taught us an important lesson: protecting the environment doesn't require big changes. It starts with small steps in our ______ (11) life. As one student said, \"Once you start, it becomes a habit, and then it feels strange not to recycle.\"\n\nNow, other schools in our city want to copy our ______ (12). We are happy to share our experience and help them start their own recycling programs.",
+      "knowledge_point": "cloze_grammar",
+      "difficulty": 2,
       "stem": "(11)______",
       "options": [
-        "A. daily",
-        "B. holiday",
-        "C. school",
-        "D. future"
+        "A. Search",
+        "B. Searching",
+        "C. Searched",
+        "D. To search"
       ],
-      "correct_answer": "A",
-      "explanation": "本题考查固定搭配及语境理解。daily life是固定搭配'日常生活'，与small steps（小步骤）和daily habits（日常习惯）呼应。B选项holiday life（假期生活）范围太窄；C选项school life（学校生活），但环保应延伸到校外；D选项future life（未来生活）与starts with（从...开始）矛盾，因为未来尚未开始。固定搭配daily life最符合语境。",
-      "label": "完形填空"
+      "correct_answer": "B",
+      "explanation": "正确答案是B。此处考查非谓语动词作状语。主句主语we与search之间是主动关系（我们搜索互联网），所以用现在分词Searching。A是动词原形，不能作状语；C是过去分词，表示被动；D是不定式，通常表目的或将来，但此处与主句之间是伴随或方式关系，现在分词更自然。",
+      "label": "完形填空",
+      "group": "cloze_1",
+      "group_passage": "Last month, our school started an interesting project called \"Green Classroom\". The goal was to help students understand the importance of protecting the environment.\n\nEvery class was asked to (8)______ a small garden on the balcony. At first, many students thought it would be easy. (9)______, they soon realized it was harder than expected. We had to learn how to plant seeds, how much water the plants needed, and when to move them into the sun.\n\nMy class decided to grow tomatoes. We worked in groups and (10)______ turns to take care of them. Some students brought soil from home, while others bought young plants from the market. It was amazing to see how fast they grew day by day.\n\nHowever, we also faced some challenges. One week, the weather was too hot and some leaves turned yellow. We felt worried but didn't give up. (11)______ the Internet for help, we learned to water them more frequently and put up a simple umbrella to provide shade.\n\nAfter two months, our tomatoes finally turned red. When we shared the fresh vegetables with teachers and classmates, everyone felt proud. This experience taught us that (12)______ nature requires patience and knowledge. It also showed us how small actions can make a big difference to our environment."
     },
     {
       "id": 12,
       "type": "cloze",
-      "knowledge_point": "cloze_general",
-      "difficulty": 2,
-      "group": "cloze_1",
-      "group_passage": "Last month, our school started a recycling project to help protect the environment. The project was designed by a group of students who wanted to make a difference.\n\nAt first, many students were not interested in the idea. They thought recycling was too much work and wouldn't change anything. However, after the first week, everything began to change.\n\nThe student team placed special bins around the school. Each bin was ______ (8) for different types of waste - paper, plastic, and glass. They also put up posters to explain why recycling was important. \"Every small action counts,\" the posters said.\n\nThe results were amazing. In just one month, we collected over 500 kilos of recyclable materials. Teachers and students were ______ (9) by the success. The money earned from selling these materials was used to buy new books for the school library.\n\nWhat surprised everyone most was how students' attitudes changed. People started to think more carefully about their daily habits. Instead of throwing everything away, they would ______ (10) check if an item could be recycled.\n\nThe project has taught us an important lesson: protecting the environment doesn't require big changes. It starts with small steps in our ______ (11) life. As one student said, \"Once you start, it becomes a habit, and then it feels strange not to recycle.\"\n\nNow, other schools in our city want to copy our ______ (12). We are happy to share our experience and help them start their own recycling programs.",
+      "knowledge_point": "cloze_grammar",
+      "difficulty": 1,
       "stem": "(12)______",
       "options": [
-        "A. classroom",
-        "B. model",
-        "C. building",
-        "D. team"
+        "A. protect",
+        "B. protecting",
+        "C. protected",
+        "D. protection"
       ],
       "correct_answer": "B",
-      "explanation": "本题考查语境推理。copy our model意为'效仿我们的模式'，符合'other schools... want to copy'（其他学校想效仿）的语境，后文也说'share our experience'（分享经验）。A选项classroom（教室）、C选项building（建筑）、D选项team（团队）都不能被copy（效仿/复制），逻辑不通。model在此处指'模范/模式'，是可效仿的对象。",
-      "label": "完形填空"
+      "explanation": "正确答案是B。that引导的宾语从句中，requires是谓语动词，前面需要主语。动词原形protect不能作主语；protected是过去分词，也不能直接作主语；protection是名词，虽然可以作主语，但后面nature是其宾语，而protection nature搭配不如protecting nature自然（动名词短语作主语表示行为）。这里protecting nature是动名词短语作主语，表示\"保护自然\"这一行为。",
+      "label": "完形填空",
+      "group": "cloze_1",
+      "group_passage": "Last month, our school started an interesting project called \"Green Classroom\". The goal was to help students understand the importance of protecting the environment.\n\nEvery class was asked to (8)______ a small garden on the balcony. At first, many students thought it would be easy. (9)______, they soon realized it was harder than expected. We had to learn how to plant seeds, how much water the plants needed, and when to move them into the sun.\n\nMy class decided to grow tomatoes. We worked in groups and (10)______ turns to take care of them. Some students brought soil from home, while others bought young plants from the market. It was amazing to see how fast they grew day by day.\n\nHowever, we also faced some challenges. One week, the weather was too hot and some leaves turned yellow. We felt worried but didn't give up. (11)______ the Internet for help, we learned to water them more frequently and put up a simple umbrella to provide shade.\n\nAfter two months, our tomatoes finally turned red. When we shared the fresh vegetables with teachers and classmates, everyone felt proud. This experience taught us that (12)______ nature requires patience and knowledge. It also showed us how small actions can make a big difference to our environment."
     },
     {
       "id": 13,
       "type": "reading",
       "knowledge_point": "detail",
-      "difficulty": 1,
-      "group": "reading_1",
-      "group_passage": "Do you often feel tired during the day? The answer might be in your sleep habits. Scientists have discovered that good sleep is not just about the number of hours you spend in bed, but also about the quality of your rest.\n\nWhen we sleep, our brains are very busy. They are organizing memories and cleaning out waste products. This process is essential for learning. Studies show that students who get enough sleep perform better on tests than those who stay up late studying. \"Sleep is like a superpower for your brain,\" says Dr. Li Ming, a sleep researcher.\n\nHowever, many teenagers don't get enough sleep. One major reason is the use of electronic devices. The blue light from phones and computers tricks our brains into thinking it is still daytime. This makes it harder to fall asleep. Experts recommend turning off all screens at least one hour before bedtime.\n\nAnother important factor is routine. Going to bed and waking up at the same time every day helps your body develop a healthy rhythm. Even on weekends, try not to change your schedule by more than one hour. This consistency helps you feel more energetic during the week.\n\nSo what can you do if you have trouble sleeping? First, create a relaxing bedtime routine. Reading a book or listening to calm music can help. Second, keep your bedroom cool and dark. Finally, avoid caffeine in the afternoon and evening.\n\nRemember, good sleep habits don't just help you feel better - they can improve your grades and overall health. Sweet dreams!",
-      "stem": "According to the passage, what happens when we sleep?",
+      "difficulty": 2,
+      "stem": "According to the study mentioned in the passage, students who sleep ______ usually get better test scores.",
       "options": [
-        "A. Our brains stop working.",
-        "B. Our brains organize memories.",
-        "C. We don't need to breathe.",
-        "D. Our bodies grow taller quickly."
+        "A. less than 6 hours a night",
+        "B. exactly 7 hours a night",
+        "C. 8 hours a night",
+        "D. more than 10 hours a night"
       ],
-      "correct_answer": "B",
-      "explanation": "本题是细节理解题。根据第二段第二句'They are organizing memories and cleaning out waste products'（它们正在整理记忆并清理废物）可知B选项正确。A选项与原文'brains are very busy'相反；C选项文中未提及；D选项文中未提及长高。细节题技巧：定位关键词（when we sleep→第二段），找到原文对应句，对比选项。",
-      "label": "阅读-细节理解"
+      "correct_answer": "C",
+      "explanation": "正确答案是C。细节理解题。根据文章第二段第二句\"Their test scores were actually lower than those who slept 8 hours\"（睡眠不足6小时的学生成绩实际上低于睡8小时的学生），可推断出睡8小时的学生成绩更好。解题技巧：细节题要回到原文找关键词test scores和hours，进行精确定位和比对。",
+      "label": "阅读-细节理解",
+      "group": "reading_1",
+      "group_passage": "Many students sacrifice sleep to study for exams, believing that more study time leads to better grades. However, recent scientific research suggests this might not be the best strategy.\n\nScientists at a university in the UK studied over 1,000 students. They found that students who slept less than 6 hours a night usually had trouble concentrating in class. Their test scores were actually lower than those who slept 8 hours. \"Sleep is like a reset button for your brain,\" explains Dr. Smith, the lead researcher. \"During deep sleep, your brain organizes information from the day and moves it into long-term memory.\"\n\nThe study also discovered that the quality of sleep matters. Even if students spent 8 hours in bed, poor sleep quality (caused by phone use before bed or too much caffeine) could still affect their learning ability. The blue light from phone screens tricks the brain into thinking it is still daytime, making it harder to fall asleep.\n\nSo what is the solution? Experts recommend creating a bedtime routine. This means going to bed at the same time every night and keeping phones out of the bedroom. They also suggest taking short naps (15-20 minutes) after lunch if you feel tired, but not longer, as this can make you feel groggy (昏昏沉沉的).\n\nRemember, good sleep isn't laziness—it's an important part of successful learning."
     },
     {
       "id": 14,
       "type": "reading",
       "knowledge_point": "word_guessing",
       "difficulty": 2,
-      "group": "reading_1",
-      "group_passage": "Do you often feel tired during the day? The answer might be in your sleep habits. Scientists have discovered that good sleep is not just about the number of hours you spend in bed, but also about the quality of your rest.\n\nWhen we sleep, our brains are very busy. They are organizing memories and cleaning out waste products. This process is essential for learning. Studies show that students who get enough sleep perform better on tests than those who stay up late studying. \"Sleep is like a superpower for your brain,\" says Dr. Li Ming, a sleep researcher.\n\nHowever, many teenagers don't get enough sleep. One major reason is the use of electronic devices. The blue light from phones and computers tricks our brains into thinking it is still daytime. This makes it harder to fall asleep. Experts recommend turning off all screens at least one hour before bedtime.\n\nAnother important factor is routine. Going to bed and waking up at the same time every day helps your body develop a healthy rhythm. Even on weekends, try not to change your schedule by more than one hour. This consistency helps you feel more energetic during the week.\n\nSo what can you do if you have trouble sleeping? First, create a relaxing bedtime routine. Reading a book or listening to calm music can help. Second, keep your bedroom cool and dark. Finally, avoid caffeine in the afternoon and evening.\n\nRemember, good sleep habits don't just help you feel better - they can improve your grades and overall health. Sweet dreams!",
-      "stem": "What does the word 'consistency' in Paragraph 4 probably mean?",
+      "stem": "The underlined word \"concentrating\" in Paragraph 2 probably means ______.",
       "options": [
-        "A. Doing things at the same time regularly",
-        "B. Changing schedules frequently",
-        "C. Sleeping for many hours",
-        "D. Using electronic devices before bed"
+        "A. 集中注意力",
+        "B. 放松休息",
+        "C. 快速记忆",
+        "D. 与人交流"
       ],
       "correct_answer": "A",
-      "explanation": "本题是词义猜测题。根据前文'Going to bed and waking up at the same time every day'（每天同一时间睡觉和起床）和'try not to change your schedule'（尽量不改变时间表）可知，consistency指'规律性/一致性'，即A选项'有规律地在同一时间做事'。B选项（频繁改变）相反；C选项（睡很久）未提及；D选项（睡前用电子设备）是前一段内容。词义猜测技巧：根据上下文同义解释（same time every day）和反义提示（not change）。",
-      "label": "阅读-词义猜测"
+      "explanation": "正确答案是A。词义猜测题。根据上下文，文章讨论的是睡眠与学习的关系，睡眠不足会导致在课堂上难以concentrating，进而影响成绩。结合常识，睡眠不足会导致\"注意力不集中\"，且con-是\"共同/一起\"，-centr-是\"中心\"，合起来就是\"把思想集中在中心/一点上\"，即集中注意力。解题技巧：通过构词法（con-共同，centr-中心，-ing形容词后缀）和上下文语境（sleep less...trouble...test scores lower）双重线索确定词义。",
+      "label": "阅读-词义猜测",
+      "group": "reading_1",
+      "group_passage": "Many students sacrifice sleep to study for exams, believing that more study time leads to better grades. However, recent scientific research suggests this might not be the best strategy.\n\nScientists at a university in the UK studied over 1,000 students. They found that students who slept less than 6 hours a night usually had trouble concentrating in class. Their test scores were actually lower than those who slept 8 hours. \"Sleep is like a reset button for your brain,\" explains Dr. Smith, the lead researcher. \"During deep sleep, your brain organizes information from the day and moves it into long-term memory.\"\n\nThe study also discovered that the quality of sleep matters. Even if students spent 8 hours in bed, poor sleep quality (caused by phone use before bed or too much caffeine) could still affect their learning ability. The blue light from phone screens tricks the brain into thinking it is still daytime, making it harder to fall asleep.\n\nSo what is the solution? Experts recommend creating a bedtime routine. This means going to bed at the same time every night and keeping phones out of the bedroom. They also suggest taking short naps (15-20 minutes) after lunch if you feel tired, but not longer, as this can make you feel groggy (昏昏沉沉的).\n\nRemember, good sleep isn't laziness—it's an important part of successful learning."
     },
     {
       "id": 15,
       "type": "reading",
       "knowledge_point": "inference",
       "difficulty": 3,
-      "group": "reading_1",
-      "group_passage": "Do you often feel tired during the day? The answer might be in your sleep habits. Scientists have discovered that good sleep is not just about the number of hours you spend in bed, but also about the quality of your rest.\n\nWhen we sleep, our brains are very busy. They are organizing memories and cleaning out waste products. This process is essential for learning. Studies show that students who get enough sleep perform better on tests than those who stay up late studying. \"Sleep is like a superpower for your brain,\" says Dr. Li Ming, a sleep researcher.\n\nHowever, many teenagers don't get enough sleep. One major reason is the use of electronic devices. The blue light from phones and computers tricks our brains into thinking it is still daytime. This makes it harder to fall asleep. Experts recommend turning off all screens at least one hour before bedtime.\n\nAnother important factor is routine. Going to bed and waking up at the same time every day helps your body develop a healthy rhythm. Even on weekends, try not to change your schedule by more than one hour. This consistency helps you feel more energetic during the week.\n\nSo what can you do if you have trouble sleeping? First, create a relaxing bedtime routine. Reading a book or listening to calm music can help. Second, keep your bedroom cool and dark. Finally, avoid caffeine in the afternoon and evening.\n\nRemember, good sleep habits don't just help you feel better - they can improve your grades and overall health. Sweet dreams!",
       "stem": "What can we infer from the passage?",
       "options": [
-        "A. All teenagers sleep eight hours every night.",
-        "B. Drinking coffee in the morning affects sleep at night.",
-        "C. Sleep quality is as important as sleep quantity.",
-        "D. Scientists think sleep is useless for learning."
+        "A. All naps are good for students' learning.",
+        "B. Using phones before bed has no effect on sleep.",
+        "C. Sleeping well helps improve memory.",
+        "D. Studying longer always brings better grades."
       ],
       "correct_answer": "C",
-      "explanation": "本题是推理判断题。根据第一段'good sleep is not just about the number of hours... but also about the quality'（好睡眠不仅关乎时间也关乎质量）可推断C选项正确（睡眠质量与数量同样重要）。A选项'all'太绝对，文中说'many teenagers don't get enough sleep'；B选项文中只说'avoid caffeine in the afternoon and evening'（下午晚上避免咖啡因），未提早上；D选项与原文'Sleep is like a superpower'相反。推理题技巧：基于原文信息合理推断，避免绝对化选项和与原文矛盾的选项。",
-      "label": "阅读-推理判断"
+      "explanation": "正确答案是C。推理判断题。根据第二段最后一句\"During deep sleep, your brain organizes information...into long-term memory\"（深度睡眠时，大脑将信息整理并移入长期记忆），可推断出良好的睡眠有助于提高记忆力。A选项错误，因为文章说小睡不超过20分钟，太长会使人昏昏沉沉；B选项与第三段内容相反；D选项与第一段内容相反。解题技巧：推理题要基于原文信息合理推断，不能过度推断，也不能选择与原文矛盾的选项。",
+      "label": "阅读-推理判断",
+      "group": "reading_1",
+      "group_passage": "Many students sacrifice sleep to study for exams, believing that more study time leads to better grades. However, recent scientific research suggests this might not be the best strategy.\n\nScientists at a university in the UK studied over 1,000 students. They found that students who slept less than 6 hours a night usually had trouble concentrating in class. Their test scores were actually lower than those who slept 8 hours. \"Sleep is like a reset button for your brain,\" explains Dr. Smith, the lead researcher. \"During deep sleep, your brain organizes information from the day and moves it into long-term memory.\"\n\nThe study also discovered that the quality of sleep matters. Even if students spent 8 hours in bed, poor sleep quality (caused by phone use before bed or too much caffeine) could still affect their learning ability. The blue light from phone screens tricks the brain into thinking it is still daytime, making it harder to fall asleep.\n\nSo what is the solution? Experts recommend creating a bedtime routine. This means going to bed at the same time every night and keeping phones out of the bedroom. They also suggest taking short naps (15-20 minutes) after lunch if you feel tired, but not longer, as this can make you feel groggy (昏昏沉沉的).\n\nRemember, good sleep isn't laziness—it's an important part of successful learning."
     },
     {
       "id": 16,
       "type": "reading",
-      "knowledge_point": "main_idea",
-      "difficulty": 2,
-      "group": "reading_1",
-      "group_passage": "Do you often feel tired during the day? The answer might be in your sleep habits. Scientists have discovered that good sleep is not just about the number of hours you spend in bed, but also about the quality of your rest.\n\nWhen we sleep, our brains are very busy. They are organizing memories and cleaning out waste products. This process is essential for learning. Studies show that students who get enough sleep perform better on tests than those who stay up late studying. \"Sleep is like a superpower for your brain,\" says Dr. Li Ming, a sleep researcher.\n\nHowever, many teenagers don't get enough sleep. One major reason is the use of electronic devices. The blue light from phones and computers tricks our brains into thinking it is still daytime. This makes it harder to fall asleep. Experts recommend turning off all screens at least one hour before bedtime.\n\nAnother important factor is routine. Going to bed and waking up at the same time every day helps your body develop a healthy rhythm. Even on weekends, try not to change your schedule by more than one hour. This consistency helps you feel more energetic during the week.\n\nSo what can you do if you have trouble sleeping? First, create a relaxing bedtime routine. Reading a book or listening to calm music can help. Second, keep your bedroom cool and dark. Finally, avoid caffeine in the afternoon and evening.\n\nRemember, good sleep habits don't just help you feel better - they can improve your grades and overall health. Sweet dreams!",
+      "knowledge_point": "main_idea_title",
+      "difficulty": 3,
       "stem": "What is the best title for this passage?",
       "options": [
-        "A. How to Use Electronic Devices",
-        "B. The Importance of Sleep for Teenagers",
-        "C. Why We Dream at Night",
-        "D. The Best Time to Study"
+        "A. The History of Sleep Research",
+        "B. How to Use Your Phone Less",
+        "C. Why Sleep Matters for Students",
+        "D. Different Types of Dreams"
       ],
-      "correct_answer": "B",
-      "explanation": "本题是主旨大意题。文章围绕青少年睡眠展开，讲睡眠的重要性、问题（电子设备）、建议等，B选项'青少年睡眠的重要性'最能概括全文。A选项（使用电子设备）只是第三段内容；C选项（做梦）文中未提及；D选项（最佳学习时间）不是主题。主旨题技巧：找主题句（首段或尾段），本文首段引出睡眠习惯，尾段总结良好睡眠习惯的重要性，都指向睡眠对青少年的重要性。",
-      "label": "阅读-主旨大意"
+      "correct_answer": "C",
+      "explanation": "正确答案是C。主旨大意题。文章通篇讨论睡眠对学生学习的重要性：第一段指出少睡觉多学习并非好策略，第二段说明睡眠不足影响注意力和成绩，第三段讲睡眠质量的重要性，第四段给出建议，最后总结睡眠是成功学习的重要部分。A选项（睡眠研究历史）只在第二段提到研究，非主旨；B选项（如何少用手机）只在第三段提及；D选项（不同类型的梦）文中未提及。解题技巧：选择能覆盖全文主要内容的标题，避免以偏概全或超出范围。",
+      "label": "阅读-主旨大意",
+      "group": "reading_1",
+      "group_passage": "Many students sacrifice sleep to study for exams, believing that more study time leads to better grades. However, recent scientific research suggests this might not be the best strategy.\n\nScientists at a university in the UK studied over 1,000 students. They found that students who slept less than 6 hours a night usually had trouble concentrating in class. Their test scores were actually lower than those who slept 8 hours. \"Sleep is like a reset button for your brain,\" explains Dr. Smith, the lead researcher. \"During deep sleep, your brain organizes information from the day and moves it into long-term memory.\"\n\nThe study also discovered that the quality of sleep matters. Even if students spent 8 hours in bed, poor sleep quality (caused by phone use before bed or too much caffeine) could still affect their learning ability. The blue light from phone screens tricks the brain into thinking it is still daytime, making it harder to fall asleep.\n\nSo what is the solution? Experts recommend creating a bedtime routine. This means going to bed at the same time every night and keeping phones out of the bedroom. They also suggest taking short naps (15-20 minutes) after lunch if you feel tired, but not longer, as this can make you feel groggy (昏昏沉沉的).\n\nRemember, good sleep isn't laziness—it's an important part of successful learning."
     },
     {
       "id": 17,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "group": "fill_1",
-      "group_passage": "Starting a healthy lifestyle might seem difficult, but it's actually quite simple if you take it step by step. Here are some tips to help you get started.\n\n(17)______ Eating a good breakfast gives you energy for the whole morning. Try to include fruits, vegetables, and whole grains in your meals. Avoid too much junk food like chips and soda.\n\nRegular exercise is also important. You don't need to run marathons to be healthy. (18)______ Walking to school, playing basketball with friends, or even dancing in your room counts as exercise. The key is to find something you enjoy so that you will stick with it.\n\n(19)______ Many teenagers stay up late using their phones, which makes them tired in class. Try to get 8-9 hours of sleep each night. Put your phone away before bedtime and read a book instead.\n\nFinally, remember that nobody is perfect. (20)______ What matters is that you keep trying. If you eat an unhealthy meal or miss a workout, don't give up. Just make a better choice next time.\n\nA healthy lifestyle is a journey, not a destination. Start with small changes, and soon they will become habits that last a lifetime.",
       "stem": "(17)______",
       "options": [
-        "A. First, pay attention to your diet.",
-        "B. However, getting enough sleep is equally crucial.",
-        "C. For example, you can take a 20-minute walk every day.",
-        "D. As a result, you will feel more energetic every day.",
-        "E. You will make mistakes sometimes, and that's okay."
+        "A. Remember that balance is a journey, not a destination.",
+        "B. However, some students think hobbies are not important.",
+        "C. The first step is to make a to-do list.",
+        "D. Then, you can mix study time with hobby time.",
+        "E. But don't worry, there are solutions to this problem."
       ],
-      "correct_answer": "A",
-      "explanation": "本题考查段落主题句。空格后内容讲'吃早餐、包含水果蔬菜、避免垃圾食品'，都是关于饮食的，A选项'首先，注意你的饮食'作为主题句最合适。B选项讲睡眠，是下一段内容；C选项是举例，但本段已有具体例子；D选项是结果，但后文是具体建议；E选项讲犯错，是最后一段内容。技巧：选句子填空要注意段落主题一致性，首句通常是主题句。",
-      "label": "短文填空"
+      "correct_answer": "E",
+      "explanation": "正确答案是E。前句提到\"很多学生感到有压力\"，后句\"Here are some tips...\"（这里有一些建议），中间需要过渡句。E选项\"但是别担心，这个问题有解决办法\"既承接了前文的困难（感到压力），又引出了后文的建议。A是总结句，通常放最后；B与后文建议无关；C是具体建议，应该放在First后面；D也是具体建议，应该放在Next后面。",
+      "label": "短文填空",
+      "group": "fill_1",
+      "group_passage": "Many students find it difficult to balance their schoolwork with their hobbies. They often feel stressed when they can't do both well. (17)______ Here are some tips to help you manage your time better.\n\n(18)______ First, write down all your assignments and their deadlines. This helps you see clearly what needs to be done first.\n\nNext, create a weekly schedule. (19)______ For example, you can study for 45 minutes and then play the guitar for 15 minutes. This way, you won't feel bored or tired.\n\nFinally, try to cut down on time-wasting activities like spending too much time on social media. (20)______ What matters is that you are making progress step by step."
     },
     {
       "id": 18,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "group": "fill_1",
-      "group_passage": "Starting a healthy lifestyle might seem difficult, but it's actually quite simple if you take it step by step. Here are some tips to help you get started.\n\n(17)______ Eating a good breakfast gives you energy for the whole morning. Try to include fruits, vegetables, and whole grains in your meals. Avoid too much junk food like chips and soda.\n\nRegular exercise is also important. You don't need to run marathons to be healthy. (18)______ Walking to school, playing basketball with friends, or even dancing in your room counts as exercise. The key is to find something you enjoy so that you will stick with it.\n\n(19)______ Many teenagers stay up late using their phones, which makes them tired in class. Try to get 8-9 hours of sleep each night. Put your phone away before bedtime and read a book instead.\n\nFinally, remember that nobody is perfect. (20)______ What matters is that you keep trying. If you eat an unhealthy meal or miss a workout, don't give up. Just make a better choice next time.\n\nA healthy lifestyle is a journey, not a destination. Start with small changes, and soon they will become habits that last a lifetime.",
       "stem": "(18)______",
       "options": [
-        "A. First, pay attention to your diet.",
-        "B. However, getting enough sleep is equally crucial.",
-        "C. For example, you can take a 20-minute walk every day.",
-        "D. As a result, you will feel more energetic every day.",
-        "E. You will make mistakes sometimes, and that's okay."
+        "A. Remember that balance is a journey, not a destination.",
+        "B. However, some students think hobbies are not important.",
+        "C. The first step is to make a to-do list.",
+        "D. Then, you can mix study time with hobby time.",
+        "E. But don't worry, there are solutions to this problem."
       ],
       "correct_answer": "C",
-      "explanation": "本题考查举例关系。前文说'不需要跑马拉松'，后文列举'走路、打篮球、跳舞'等简单运动，C选项'例如，你可以每天散步20分钟'承上启下，引出后文例子。A选项是饮食，本段讲运动；B选项是睡眠；D选项是结果，但后文是具体例子；E选项是犯错。技巧：for example后面常跟具体例子，注意前后文的例证关系。",
-      "label": "短文填空"
+      "explanation": "正确答案是C。后句出现\"First, write down...\"（首先，写下...），说明此处需要总起句引出第一个建议。C选项\"第一步是制作待办清单\"中的first step与后面的First对应，且make a to-do list与write down assignments语义一致。E已经用过；A是总结句；B和D与first无关。",
+      "label": "短文填空",
+      "group": "fill_1",
+      "group_passage": "Many students find it difficult to balance their schoolwork with their hobbies. They often feel stressed when they can't do both well. (17)______ Here are some tips to help you manage your time better.\n\n(18)______ First, write down all your assignments and their deadlines. This helps you see clearly what needs to be done first.\n\nNext, create a weekly schedule. (19)______ For example, you can study for 45 minutes and then play the guitar for 15 minutes. This way, you won't feel bored or tired.\n\nFinally, try to cut down on time-wasting activities like spending too much time on social media. (20)______ What matters is that you are making progress step by step."
     },
     {
       "id": 19,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "group": "fill_1",
-      "group_passage": "Starting a healthy lifestyle might seem difficult, but it's actually quite simple if you take it step by step. Here are some tips to help you get started.\n\n(17)______ Eating a good breakfast gives you energy for the whole morning. Try to include fruits, vegetables, and whole grains in your meals. Avoid too much junk food like chips and soda.\n\nRegular exercise is also important. You don't need to run marathons to be healthy. (18)______ Walking to school, playing basketball with friends, or even dancing in your room counts as exercise. The key is to find something you enjoy so that you will stick with it.\n\n(19)______ Many teenagers stay up late using their phones, which makes them tired in class. Try to get 8-9 hours of sleep each night. Put your phone away before bedtime and read a book instead.\n\nFinally, remember that nobody is perfect. (20)______ What matters is that you keep trying. If you eat an unhealthy meal or miss a workout, don't give up. Just make a better choice next time.\n\nA healthy lifestyle is a journey, not a destination. Start with small changes, and soon they will become habits that last a lifetime.",
       "stem": "(19)______",
       "options": [
-        "A. First, pay attention to your diet.",
-        "B. However, getting enough sleep is equally crucial.",
-        "C. For example, you can take a 20-minute walk every day.",
-        "D. As a result, you will feel more energetic every day.",
-        "E. You will make mistakes sometimes, and that's okay."
+        "A. Remember that balance is a journey, not a destination.",
+        "B. However, some students think hobbies are not important.",
+        "C. The first step is to make a to-do list.",
+        "D. Then, you can mix study time with hobby time.",
+        "E. But don't worry, there are solutions to this problem."
       ],
-      "correct_answer": "B",
-      "explanation": "本题考查转折过渡。前文讲了饮食和运动，本段讲睡眠，B选项'然而，获得足够睡眠同样重要'用However转折引出另一个要点。A选项已用于17题；C选项是举例；D选项是结果；E选项是最后一段内容。技巧：however/equally crucial用于引入同等重要的另一个方面，注意段落间的并列过渡关系。",
-      "label": "短文填空"
+      "correct_answer": "D",
+      "explanation": "正确答案是D。前句说\"接下来，创建周计划表\"，后句举例\"学习45分钟然后弹吉他15分钟\"，这说明是把学习时间和爱好时间混合在一起。D选项\"然后，你可以把学习时间和爱好时间混合在一起\"承上启下。Then与前面的First、Next形成顺序衔接，mix...time与后面的例子对应。",
+      "label": "短文填空",
+      "group": "fill_1",
+      "group_passage": "Many students find it difficult to balance their schoolwork with their hobbies. They often feel stressed when they can't do both well. (17)______ Here are some tips to help you manage your time better.\n\n(18)______ First, write down all your assignments and their deadlines. This helps you see clearly what needs to be done first.\n\nNext, create a weekly schedule. (19)______ For example, you can study for 45 minutes and then play the guitar for 15 minutes. This way, you won't feel bored or tired.\n\nFinally, try to cut down on time-wasting activities like spending too much time on social media. (20)______ What matters is that you are making progress step by step."
     },
     {
       "id": 20,
       "type": "fill",
       "knowledge_point": "sentence_fill",
-      "difficulty": 2,
-      "group": "fill_1",
-      "group_passage": "Starting a healthy lifestyle might seem difficult, but it's actually quite simple if you take it step by step. Here are some tips to help you get started.\n\n(17)______ Eating a good breakfast gives you energy for the whole morning. Try to include fruits, vegetables, and whole grains in your meals. Avoid too much junk food like chips and soda.\n\nRegular exercise is also important. You don't need to run马拉松 to be healthy. (18)______ Walking to school, playing basketball with friends, or even dancing in your room counts as exercise. The key is to find something you enjoy so that you will stick with it.\n\n(19)______ Many teenagers stay up late using their phones, which makes them tired in class. Try to get 8-9 hours of sleep each night. Put your phone away before bedtime and read a book instead.\n\nFinally, remember that nobody is perfect. (20)______ What matters is that you keep trying. If you eat an unhealthy meal or miss a workout, don't give up. Just make a better choice next time.\n\nA healthy lifestyle is a journey, not a destination. Start with small changes, and soon they will become habits that last a lifetime.",
+      "difficulty": 1,
       "stem": "(20)______",
       "options": [
-        "A. First, pay attention to your diet.",
-        "B. However, getting enough sleep is equally crucial.",
-        "C. For example, you can take a 20-minute walk every day.",
-        "D. As a result, you will feel more energetic every day.",
-        "E. You will make mistakes sometimes, and that's okay."
+        "A. Remember that balance is a journey, not a destination.",
+        "B. However, some students think hobbies are not important.",
+        "C. The first step is to make a to-do list.",
+        "D. Then, you can mix study time with hobby time.",
+        "E. But don't worry, there are solutions to this problem."
       ],
-      "correct_answer": "E",
-      "explanation": "本题考查逻辑衔接。前文说'nobody is perfect'（没人完美），E选项'你有时会犯错，这没关系'与之呼应，后文'重要的是坚持尝试'也与之衔接。A、B、C已用；D选项是结果，与犯错语境不符。技巧：代词指代和逻辑连贯，nobody is perfect对应make mistakes，形成语义连贯。",
-      "label": "短文填空"
+      "correct_answer": "A",
+      "explanation": "正确答案是A。前句说\"最后，减少浪费时间的行为\"，后句\"重要的是你正在一步步进步\"，说明此处需要总结句。A选项\"记住，平衡是一段旅程，而不是一个终点\"作为结尾句，呼应主题（balance），且与后句\"一步步进步\"语义衔接（journey对应step by step）。其他选项都已使用或不符合结尾总结功能。",
+      "label": "短文填空",
+      "group": "fill_1",
+      "group_passage": "Many students find it difficult to balance their schoolwork with their hobbies. They often feel stressed when they can't do both well. (17)______ Here are some tips to help you manage your time better.\n\n(18)______ First, write down all your assignments and their deadlines. This helps you see clearly what needs to be done first.\n\nNext, create a weekly schedule. (19)______ For example, you can study for 45 minutes and then play the guitar for 15 minutes. This way, you won't feel bored or tired.\n\nFinally, try to cut down on time-wasting activities like spending too much time on social media. (20)______ What matters is that you are making progress step by step."
     }
   ]
 }
