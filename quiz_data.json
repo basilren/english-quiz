@@ -1,21 +1,21 @@
 ﻿{
-  "date": "2026-07-31",
+  "date": "2026-08-01",
   "session_number": 1,
   "questions": [
     {
       "id": 1,
       "type": "grammar",
       "knowledge_point": "present_perfect_vs_past_simple",
-      "difficulty": 2,
-      "stem": "—______ you ______ your homework yet? \n—Yes, I finished it an hour ago.",
+      "difficulty": 1,
+      "stem": "—I ______ the Summer Palace last weekend. It was amazing!\n—Really? I ______ there three times.",
       "options": [
-        "A. Did; finish",
-        "B. Have; finished",
-        "C. Are; finishing",
-        "D. Do; finish"
+        "A. visited; have been",
+        "B. have visited; went",
+        "C. visited; went",
+        "D. have visited; have been"
       ],
-      "correct_answer": "B",
-      "explanation": "正确答案是B。yet是现在完成时的典型标志词，常用于疑问句和否定句中，表示\"已经\"。虽然答句用了一般过去时（finished）说明过去某个具体时间完成的动作，但问句强调的是\"到目前为止是否完成\"，所以用现在完成时Have you finished。A选项Did finish是一般过去时，不能与yet连用；C是现在进行时；D是一般现在时，均不符合语境。",
+      "correct_answer": "A",
+      "explanation": "这道题考查现在完成时和一般过去时的区别。第一空后有明确的时间状语\"last weekend\"（上周末），表示过去某个具体时间发生的动作，用一般过去时visited；第二空表示\"曾经去过某地三次\"，强调对现在的影响或经历，用现在完成时have been。B选项时态颠倒；C选项第二空缺少完成时态；D选项第一空不能用完成时。",
       "label": "语法题"
     },
     {
@@ -23,95 +23,95 @@
       "type": "grammar",
       "knowledge_point": "relative_clause_who_which",
       "difficulty": 2,
-      "stem": "The book ______ cover is red belongs to the library.",
+      "stem": "The students ______ won the English speech contest are from Class 3.",
       "options": [
         "A. who",
         "B. which",
-        "C. whose",
-        "D. that"
+        "C. whom",
+        "D. whose"
       ],
-      "correct_answer": "C",
-      "explanation": "正确答案是C。这是定语从句，先行词是the book，而cover（封面）与book之间存在所属关系（书的主封面），所以要用关系代词whose，表示\"...的\"。A选项who只能指人；B选项which和D选项that在定语从句中作主语或宾语，但不能表示所属关系。",
+      "correct_answer": "A",
+      "explanation": "这道题考查定语从句的关系代词。先行词是\"students\"（学生），指人，且在从句中作主语，所以用who。which指物；whom指人但只能作宾语；whose表示\"……的\"，作定语。从句中缺少主语，因此选A。",
       "label": "语法题"
     },
     {
       "id": 3,
       "type": "grammar",
       "knowledge_point": "passive_voice",
-      "difficulty": 1,
-      "stem": "These old buildings ______ by the government next year to make room for new schools.",
+      "difficulty": 2,
+      "stem": "The old library ______ last year to make room for a new science building.",
       "options": [
-        "A. will pull down",
-        "B. will be pulled down",
-        "C. are pulling down",
-        "D. pulled down"
+        "A. pulls down",
+        "B. is pulled down",
+        "C. was pulled down",
+        "D. has pulled down"
       ],
-      "correct_answer": "B",
-      "explanation": "正确答案是B。主语These old buildings（旧建筑）与动词短语pull down（拆除）之间是被动关系，建筑是被拆除的。时间状语next year表示将来，所以要用一般将来时的被动语态will be pulled down。A是主动语态；C是现在进行时的主动语态；D是一般过去时主动语态，均不符合被动关系和时态要求。",
+      "correct_answer": "C",
+      "explanation": "这道题考查被动语态。主语\"library\"（图书馆）和\"pull down\"（拆除）之间是被动关系，需要用被动语态be+过去分词。时间状语\"last year\"表明是一般过去时，因此用was pulled down。A是主动语态；B是一般现在时的被动，时态不符；D是现在完成时的主动语态。",
       "label": "语法题"
     },
     {
       "id": 4,
       "type": "grammar",
-      "knowledge_point": "modal_verbs_speculation",
+      "knowledge_point": "present_perfect_vs_past_simple",
       "difficulty": 3,
-      "stem": "—Is that Mr. Wang knocking at the door? \n—It ______ be him. He has gone to Shanghai on business.",
+      "stem": "—Why don't you go to the concert with us tonight?\n—Because I ______ the band twice. I'm not interested anymore.",
       "options": [
-        "A. must",
-        "B. might",
-        "C. can't",
-        "D. mustn't"
+        "A. saw",
+        "B. have seen",
+        "C. see",
+        "D. had seen"
       ],
-      "correct_answer": "C",
-      "explanation": "正确答案是C。根据后句\"He has gone to Shanghai\"（他去上海出差了）可知，敲门的不可能是王先生，这是有依据的否定推测，要用can't be（不可能是）。must be表示肯定推测；might be表示不确定的推测；mustn't表示\"禁止\"，不用于推测。",
+      "correct_answer": "B",
+      "explanation": "这道题考查现在完成时的用法。答句强调\"已经看过两次\"这一经历对现在的影响（不想去），用现在完成时have seen。A选项一般过去时只表示过去发生的动作，与现在无关；C选项一般现在时不符；D选项过去完成时需要参照过去某一时间点，此处没有。解题技巧：遇到\"twice/never/ever/before\"等表示经历次数的词，优先考虑现在完成时。",
       "label": "语法题"
     },
     {
       "id": 5,
       "type": "vocabulary",
-      "knowledge_point": "word_guessing_context",
-      "difficulty": 2,
-      "stem": "After running for 30 minutes in the hot sun, the boy felt dizzy and almost fell down. The underlined word \"dizzy\" means ______.",
+      "knowledge_point": "phrasal_verbs",
+      "difficulty": 1,
+      "stem": "Please ______ the lights when you leave the classroom to save energy.",
       "options": [
-        "A. 兴奋的",
-        "B. 头晕目眩的",
-        "C. 饥饿的",
-        "D. 无聊的"
+        "A. turn on",
+        "B. turn off",
+        "C. turn up",
+        "D. turn down"
       ],
       "correct_answer": "B",
-      "explanation": "正确答案是B。根据上下文语境：在烈日下跑步30分钟后，男孩几乎要摔倒（almost fell down），可以推断dizzy的意思是\"头晕的、眩晕的\"。这是典型的通过上下文情境猜测词义的题目，关键是要找到\"hot sun\"、\"running\"、\"fell down\"这些线索词。",
+      "explanation": "这道题考查动词短语辨析。turn on打开；turn off关闭；turn up调高（音量）；turn down调低（音量）。根据语境\"leave the classroom\"（离开教室）和\"save energy\"（节约能源），应该是关灯，所以选B。",
       "label": "词汇题"
     },
     {
       "id": 6,
       "type": "vocabulary",
-      "knowledge_point": "phrasal_verbs",
-      "difficulty": 1,
-      "stem": "We need to ______ a good idea to solve this difficult problem.",
+      "knowledge_point": "word_formation",
+      "difficulty": 2,
+      "stem": "The ______ news made all of us feel ______.",
       "options": [
-        "A. come up with",
-        "B. look up to",
-        "C. put up with",
-        "D. get up to"
+        "A. excited; exciting",
+        "B. exciting; excited",
+        "C. excite; excited",
+        "D. excited; excite"
       ],
-      "correct_answer": "A",
-      "explanation": "正确答案是A。come up with意为\"想出、提出（主意、计划等）\"，常与idea、plan、solution等词搭配。B选项look up to意为\"尊敬、敬仰\"；C选项put up with意为\"忍受、容忍\"；D选项get up to意为\"忙于（某事）；达到\"。根据句意\"想出一个好主意\"，只有A符合。",
+      "correct_answer": "B",
+      "explanation": "这道题考查-ing和-ed形容词的用法。exciting（令人兴奋的）修饰事物，excited（感到兴奋的）修饰人。第一空修饰news（消息），用exciting；第二空修饰us（我们），用excited。口诀：-ing形容物，-ed形容人。",
       "label": "词汇题"
     },
     {
       "id": 7,
       "type": "vocabulary",
-      "knowledge_point": "word_formation_prefix",
+      "knowledge_point": "collocation",
       "difficulty": 2,
-      "stem": "It is ______ to talk loudly in the library because it disturbs other readers. (polite)",
+      "stem": "It's important for us to ______ a good habit of reading before going to bed.",
       "options": [
-        "A. polite",
-        "B. impolite",
-        "C. politely",
-        "D. impolitely"
+        "A. develop",
+        "B. make",
+        "C. do",
+        "D. take"
       ],
-      "correct_answer": "B",
-      "explanation": "正确答案是B。系动词is后面需要形容词作表语，排除C和D（副词）。根据句意\"在图书馆大声说话会打扰他人\"，可知这是\"不礼貌的\"行为，所以要加否定前缀im-，构成impolite。A选项polite（礼貌的）与句意相反。",
+      "correct_answer": "A",
+      "explanation": "这道题考查固定搭配。develop a habit养成习惯，是固定搭配。make制作；do做；take带走。表示\"养成习惯\"只能用develop，表示逐步培养形成。",
       "label": "词汇题"
     },
     {
@@ -119,238 +119,238 @@
       "type": "cloze",
       "knowledge_point": "cloze_context",
       "difficulty": 2,
+      "group": "cloze_1",
+      "group_passage": "Many students in our school care about environmental protection. Last month, our class started a recycling project. We collected plastic bottles and old books from every classroom. At first, some students thought it was (8)______ to carry so many heavy bags to the collection room. But soon they realized how important this work was. The bottles (9)______ to a factory and were made into new products like pencil boxes. Our teacher, Mr. Wang, was very proud (10)______ us. He said, \"Small actions can make a big (11)______.\" Now more students want to join us. We plan to (12)______ this project next term and collect more recyclable materials to help protect our planet.",
       "stem": "(8)______",
       "options": [
-        "A. build",
-        "B. destroy",
-        "C. find",
-        "D. borrow"
+        "A. easy",
+        "B. difficult",
+        "C. interesting",
+        "D. relaxing"
       ],
-      "correct_answer": "A",
-      "explanation": "正确答案是A。根据上下文，学校发起环保项目，每个班被要求在阳台上\"建造\"小花园，build（建造）符合语境。destroy（破坏）与文意相反；find（找到）和borrow（借）与garden搭配不当。解题关键：理解project和garden之间的逻辑关系。",
-      "label": "完形填空",
-      "group": "cloze_1",
-      "group_passage": "Last month, our school started an interesting project called \"Green Classroom\". The goal was to help students understand the importance of protecting the environment.\n\nEvery class was asked to (8)______ a small garden on the balcony. At first, many students thought it would be easy. (9)______, they soon realized it was harder than expected. We had to learn how to plant seeds, how much water the plants needed, and when to move them into the sun.\n\nMy class decided to grow tomatoes. We worked in groups and (10)______ turns to take care of them. Some students brought soil from home, while others bought young plants from the market. It was amazing to see how fast they grew day by day.\n\nHowever, we also faced some challenges. One week, the weather was too hot and some leaves turned yellow. We felt worried but didn't give up. (11)______ the Internet for help, we learned to water them more frequently and put up a simple umbrella to provide shade.\n\nAfter two months, our tomatoes finally turned red. When we shared the fresh vegetables with teachers and classmates, everyone felt proud. This experience taught us that (12)______ nature requires patience and knowledge. It also showed us how small actions can make a big difference to our environment."
+      "correct_answer": "B",
+      "explanation": "这道题考查语境推理。根据后文\"heavy bags\"（沉重的袋子）和\"But soon they realized...\"（但很快他们意识到……）的转折关系，可推断起初学生觉得搬运这些袋子很\"困难\"，所以选B。A（容易的）和D（放松的）与heavy bags矛盾；C（有趣的）没有体现后文的转折逻辑。",
+      "label": "完形填空"
     },
     {
       "id": 9,
       "type": "cloze",
-      "knowledge_point": "cloze_logic",
-      "difficulty": 2,
+      "knowledge_point": "passive_voice",
+      "difficulty": 1,
+      "group": "cloze_1",
+      "group_passage": "Many students in our school care about environmental protection. Last month, our class started a recycling project. We collected plastic bottles and old books from every classroom. At first, some students thought it was (8)______ to carry so many heavy bags to the collection room. But soon they realized how important this work was. The bottles (9)______ to a factory and were made into new products like pencil boxes. Our teacher, Mr. Wang, was very proud (10)______ us. He said, \"Small actions can make a big (11)______.\" Now more students want to join us. We plan to (12)______ this project next term and collect more recyclable materials to help protect our planet.",
       "stem": "(9)______",
       "options": [
-        "A. Therefore",
-        "B. However",
-        "C. Besides",
-        "D. Otherwise"
+        "A. sent",
+        "B. were sent",
+        "C. send",
+        "D. are sending"
       ],
       "correct_answer": "B",
-      "explanation": "正确答案是B。前句说\"起初许多学生认为这很容易\"，后句说\"他们很快意识到比预期难\"，前后是转折关系，所以用However（然而）。Therefore（因此）表因果；Besides（此外）表递进；Otherwise（否则）表条件，均不符合逻辑关系。",
-      "label": "完形填空",
-      "group": "cloze_1",
-      "group_passage": "Last month, our school started an interesting project called \"Green Classroom\". The goal was to help students understand the importance of protecting the environment.\n\nEvery class was asked to (8)______ a small garden on the balcony. At first, many students thought it would be easy. (9)______, they soon realized it was harder than expected. We had to learn how to plant seeds, how much water the plants needed, and when to move them into the sun.\n\nMy class decided to grow tomatoes. We worked in groups and (10)______ turns to take care of them. Some students brought soil from home, while others bought young plants from the market. It was amazing to see how fast they grew day by day.\n\nHowever, we also faced some challenges. One week, the weather was too hot and some leaves turned yellow. We felt worried but didn't give up. (11)______ the Internet for help, we learned to water them more frequently and put up a simple umbrella to provide shade.\n\nAfter two months, our tomatoes finally turned red. When we shared the fresh vegetables with teachers and classmates, everyone felt proud. This experience taught us that (12)______ nature requires patience and knowledge. It also showed us how small actions can make a big difference to our environment."
+      "explanation": "这道题考查被动语态。主语\"bottles\"（瓶子）和\"send\"（送）之间是被动关系，需要用被动语态be+过去分词。文章整体是一般过去时（last month），所以用were sent。A是主动语态过去式；C是动词原形；D是主动语态过去进行时。",
+      "label": "完形填空"
     },
     {
       "id": 10,
       "type": "cloze",
-      "knowledge_point": "cloze_fixed_phrase",
+      "knowledge_point": "fixed_phrase",
       "difficulty": 1,
+      "group": "cloze_1",
+      "group_passage": "Many students in our school care about environmental protection. Last month, our class started a recycling project. We collected plastic bottles and old books from every classroom. At first, some students thought it was (8)______ to carry so many heavy bags to the collection room. But soon they realized how important this work was. The bottles (9)______ to a factory and were made into new products like pencil boxes. Our teacher, Mr. Wang, was very proud (10)______ us. He said, \"Small actions can make a big (11)______.\" Now more students want to join us. We plan to (12)______ this project next term and collect more recyclable materials to help protect our planet.",
       "stem": "(10)______",
       "options": [
-        "A. made",
-        "B. took",
-        "C. had",
-        "D. spent"
+        "A. of",
+        "B. for",
+        "C. with",
+        "D. to"
       ],
-      "correct_answer": "B",
-      "explanation": "正确答案是B。固定搭配take turns to do sth.意为\"轮流做某事\"，是初中必考短语。make turns（制造转弯）、have turns（拥有转弯）、spend turns（花费转弯）都不是正确搭配。记住口诀：轮流做事用take，依次交替不劳累。",
-      "label": "完形填空",
-      "group": "cloze_1",
-      "group_passage": "Last month, our school started an interesting project called \"Green Classroom\". The goal was to help students understand the importance of protecting the environment.\n\nEvery class was asked to (8)______ a small garden on the balcony. At first, many students thought it would be easy. (9)______, they soon realized it was harder than expected. We had to learn how to plant seeds, how much water the plants needed, and when to move them into the sun.\n\nMy class decided to grow tomatoes. We worked in groups and (10)______ turns to take care of them. Some students brought soil from home, while others bought young plants from the market. It was amazing to see how fast they grew day by day.\n\nHowever, we also faced some challenges. One week, the weather was too hot and some leaves turned yellow. We felt worried but didn't give up. (11)______ the Internet for help, we learned to water them more frequently and put up a simple umbrella to provide shade.\n\nAfter two months, our tomatoes finally turned red. When we shared the fresh vegetables with teachers and classmates, everyone felt proud. This experience taught us that (12)______ nature requires patience and knowledge. It also showed us how small actions can make a big difference to our environment."
+      "correct_answer": "A",
+      "explanation": "这道题考查固定搭配。be proud of...为……感到骄傲，是固定短语。其他介词不能与proud构成此搭配。",
+      "label": "完形填空"
     },
     {
       "id": 11,
       "type": "cloze",
-      "knowledge_point": "cloze_grammar",
+      "knowledge_point": "cloze_context",
       "difficulty": 2,
+      "group": "cloze_1",
+      "group_passage": "Many students in our school care about environmental protection. Last month, our class started a recycling project. We collected plastic bottles and old books from every classroom. At first, some students thought it was (8)______ to carry so many heavy bags to the collection room. But soon they realized how important this work was. The bottles (9)______ to a factory and were made into new products like pencil boxes. Our teacher, Mr. Wang, was very proud (10)______ us. He said, \"Small actions can make a big (11)______.\" Now more students want to join us. We plan to (12)______ this project next term and collect more recyclable materials to help protect our planet.",
       "stem": "(11)______",
       "options": [
-        "A. Search",
-        "B. Searching",
-        "C. Searched",
-        "D. To search"
+        "A. mistake",
+        "B. decision",
+        "C. difference",
+        "D. progress"
       ],
-      "correct_answer": "B",
-      "explanation": "正确答案是B。此处考查非谓语动词作状语。主句主语we与search之间是主动关系（我们搜索互联网），所以用现在分词Searching。A是动词原形，不能作状语；C是过去分词，表示被动；D是不定式，通常表目的或将来，但此处与主句之间是伴随或方式关系，现在分词更自然。",
-      "label": "完形填空",
-      "group": "cloze_1",
-      "group_passage": "Last month, our school started an interesting project called \"Green Classroom\". The goal was to help students understand the importance of protecting the environment.\n\nEvery class was asked to (8)______ a small garden on the balcony. At first, many students thought it would be easy. (9)______, they soon realized it was harder than expected. We had to learn how to plant seeds, how much water the plants needed, and when to move them into the sun.\n\nMy class decided to grow tomatoes. We worked in groups and (10)______ turns to take care of them. Some students brought soil from home, while others bought young plants from the market. It was amazing to see how fast they grew day by day.\n\nHowever, we also faced some challenges. One week, the weather was too hot and some leaves turned yellow. We felt worried but didn't give up. (11)______ the Internet for help, we learned to water them more frequently and put up a simple umbrella to provide shade.\n\nAfter two months, our tomatoes finally turned red. When we shared the fresh vegetables with teachers and classmates, everyone felt proud. This experience taught us that (12)______ nature requires patience and knowledge. It also showed us how small actions can make a big difference to our environment."
+      "correct_answer": "C",
+      "explanation": "这道题考查固定搭配和语境理解。make a big difference产生重大影响/有很大不同，是固定搭配。A（错误）、B（决定）、D（进步）都不能与make构成此含义的搭配。老师想表达\"小行动能带来大改变\"，所以选C。",
+      "label": "完形填空"
     },
     {
       "id": 12,
       "type": "cloze",
-      "knowledge_point": "cloze_grammar",
-      "difficulty": 1,
+      "knowledge_point": "cloze_logic",
+      "difficulty": 2,
+      "group": "cloze_1",
+      "group_passage": "Many students in our school care about environmental protection. Last month, our class started a recycling project. We collected plastic bottles and old books from every classroom. At first, some students thought it was (8)______ to carry so many heavy bags to the collection room. But soon they realized how important this work was. The bottles (9)______ to a factory and were made into new products like pencil boxes. Our teacher, Mr. Wang, was very proud (10)______ us. He said, \"Small actions can make a big (11)______.\" Now more students want to join us. We plan to (12)______ this project next term and collect more recyclable materials to help protect our planet.",
       "stem": "(12)______",
       "options": [
-        "A. protect",
-        "B. protecting",
-        "C. protected",
-        "D. protection"
+        "A. stop",
+        "B. continue",
+        "C. finish",
+        "D. forget"
       ],
       "correct_answer": "B",
-      "explanation": "正确答案是B。that引导的宾语从句中，requires是谓语动词，前面需要主语。动词原形protect不能作主语；protected是过去分词，也不能直接作主语；protection是名词，虽然可以作主语，但后面nature是其宾语，而protection nature搭配不如protecting nature自然（动名词短语作主语表示行为）。这里protecting nature是动名词短语作主语，表示\"保护自然\"这一行为。",
-      "label": "完形填空",
-      "group": "cloze_1",
-      "group_passage": "Last month, our school started an interesting project called \"Green Classroom\". The goal was to help students understand the importance of protecting the environment.\n\nEvery class was asked to (8)______ a small garden on the balcony. At first, many students thought it would be easy. (9)______, they soon realized it was harder than expected. We had to learn how to plant seeds, how much water the plants needed, and when to move them into the sun.\n\nMy class decided to grow tomatoes. We worked in groups and (10)______ turns to take care of them. Some students brought soil from home, while others bought young plants from the market. It was amazing to see how fast they grew day by day.\n\nHowever, we also faced some challenges. One week, the weather was too hot and some leaves turned yellow. We felt worried but didn't give up. (11)______ the Internet for help, we learned to water them more frequently and put up a simple umbrella to provide shade.\n\nAfter two months, our tomatoes finally turned red. When we shared the fresh vegetables with teachers and classmates, everyone felt proud. This experience taught us that (12)______ nature requires patience and knowledge. It also showed us how small actions can make a big difference to our environment."
+      "explanation": "这道题考查逻辑推理。根据前文\"Now more students want to join us\"（现在更多学生想加入我们）和\"next term\"（下学期），可推断他们计划\"继续\"这个项目，所以选B。A（停止）和D（忘记）与文意相反；C（完成）不符合\"next term\"的时间逻辑。",
+      "label": "完形填空"
     },
     {
       "id": 13,
       "type": "reading",
       "knowledge_point": "detail",
       "difficulty": 2,
-      "stem": "According to the study mentioned in the passage, students who sleep ______ usually get better test scores.",
+      "group": "reading_1",
+      "group_passage": "Do you often feel tired in class? Many students don't get enough sleep because they use smartphones before bed. Scientists have found that the blue light from screens affects our sleep quality.\n\nA recent study shows that teenagers need at least 8 hours of sleep every night. However, about 60% of middle school students sleep less than 7 hours. This can cause problems with memory and concentration.\n\nDr. Li, a sleep expert, suggests some useful tips. First, turn off all electronic devices an hour before bedtime. Second, keep your bedroom cool and dark. Third, try to go to bed at the same time every night. \"Good sleep habits are as important as good study habits,\" says Dr. Li.\n\nSome schools have changed their morning schedules to let students start classes later. Early results show that students feel more energetic and get better grades when they get enough rest.",
+      "stem": "According to the passage, how many hours of sleep do teenagers need every night?",
       "options": [
-        "A. less than 6 hours a night",
-        "B. exactly 7 hours a night",
-        "C. 8 hours a night",
-        "D. more than 10 hours a night"
+        "A. 6 hours.",
+        "B. 7 hours.",
+        "C. At least 8 hours.",
+        "D. 9 hours."
       ],
       "correct_answer": "C",
-      "explanation": "正确答案是C。细节理解题。根据文章第二段第二句\"Their test scores were actually lower than those who slept 8 hours\"（睡眠不足6小时的学生成绩实际上低于睡8小时的学生），可推断出睡8小时的学生成绩更好。解题技巧：细节题要回到原文找关键词test scores和hours，进行精确定位和比对。",
-      "label": "阅读-细节理解",
-      "group": "reading_1",
-      "group_passage": "Many students sacrifice sleep to study for exams, believing that more study time leads to better grades. However, recent scientific research suggests this might not be the best strategy.\n\nScientists at a university in the UK studied over 1,000 students. They found that students who slept less than 6 hours a night usually had trouble concentrating in class. Their test scores were actually lower than those who slept 8 hours. \"Sleep is like a reset button for your brain,\" explains Dr. Smith, the lead researcher. \"During deep sleep, your brain organizes information from the day and moves it into long-term memory.\"\n\nThe study also discovered that the quality of sleep matters. Even if students spent 8 hours in bed, poor sleep quality (caused by phone use before bed or too much caffeine) could still affect their learning ability. The blue light from phone screens tricks the brain into thinking it is still daytime, making it harder to fall asleep.\n\nSo what is the solution? Experts recommend creating a bedtime routine. This means going to bed at the same time every night and keeping phones out of the bedroom. They also suggest taking short naps (15-20 minutes) after lunch if you feel tired, but not longer, as this can make you feel groggy (昏昏沉沉的).\n\nRemember, good sleep isn't laziness—it's an important part of successful learning."
+      "explanation": "这道题考查细节理解。根据文章第二段第一句\"A recent study shows that teenagers need at least 8 hours of sleep every night\"（最新研究表明青少年每晚至少需要8小时睡眠），直接找到答案C。A和B是干扰项（文中提到60%学生睡不到7小时，但这不是需要的时长）；D文中未提及。",
+      "label": "阅读-细节理解"
     },
     {
       "id": 14,
       "type": "reading",
       "knowledge_point": "word_guessing",
       "difficulty": 2,
-      "stem": "The underlined word \"concentrating\" in Paragraph 2 probably means ______.",
-      "options": [
-        "A. 集中注意力",
-        "B. 放松休息",
-        "C. 快速记忆",
-        "D. 与人交流"
-      ],
-      "correct_answer": "A",
-      "explanation": "正确答案是A。词义猜测题。根据上下文，文章讨论的是睡眠与学习的关系，睡眠不足会导致在课堂上难以concentrating，进而影响成绩。结合常识，睡眠不足会导致\"注意力不集中\"，且con-是\"共同/一起\"，-centr-是\"中心\"，合起来就是\"把思想集中在中心/一点上\"，即集中注意力。解题技巧：通过构词法（con-共同，centr-中心，-ing形容词后缀）和上下文语境（sleep less...trouble...test scores lower）双重线索确定词义。",
-      "label": "阅读-词义猜测",
       "group": "reading_1",
-      "group_passage": "Many students sacrifice sleep to study for exams, believing that more study time leads to better grades. However, recent scientific research suggests this might not be the best strategy.\n\nScientists at a university in the UK studied over 1,000 students. They found that students who slept less than 6 hours a night usually had trouble concentrating in class. Their test scores were actually lower than those who slept 8 hours. \"Sleep is like a reset button for your brain,\" explains Dr. Smith, the lead researcher. \"During deep sleep, your brain organizes information from the day and moves it into long-term memory.\"\n\nThe study also discovered that the quality of sleep matters. Even if students spent 8 hours in bed, poor sleep quality (caused by phone use before bed or too much caffeine) could still affect their learning ability. The blue light from phone screens tricks the brain into thinking it is still daytime, making it harder to fall asleep.\n\nSo what is the solution? Experts recommend creating a bedtime routine. This means going to bed at the same time every night and keeping phones out of the bedroom. They also suggest taking short naps (15-20 minutes) after lunch if you feel tired, but not longer, as this can make you feel groggy (昏昏沉沉的).\n\nRemember, good sleep isn't laziness—it's an important part of successful learning."
+      "group_passage": "Do you often feel tired in class? Many students don't get enough sleep because they use smartphones before bed. Scientists have found that the blue light from screens affects our sleep quality.\n\nA recent study shows that teenagers need at least 8 hours of sleep every night. However, about 60% of middle school students sleep less than 7 hours. This can cause problems with memory and concentration.\n\nDr. Li, a sleep expert, suggests some useful tips. First, turn off all electronic devices an hour before bedtime. Second, keep your bedroom cool and dark. Third, try to go to bed at the same time every night. \"Good sleep habits are as important as good study habits,\" says Dr. Li.\n\nSome schools have changed their morning schedules to let students start classes later. Early results show that students feel more energetic and get better grades when they get enough rest.",
+      "stem": "What does the underlined word \"concentration\" in Paragraph 2 probably mean?",
+      "options": [
+        "A. 记忆力",
+        "B. 注意力",
+        "C. 创造力",
+        "D. 想象力"
+      ],
+      "correct_answer": "B",
+      "explanation": "这道题考查词义猜测。根据上下文\"This can cause problems with memory and concentration\"（这会导致记忆力和concentration方面的问题），and连接并列成分，memory是\"记忆力\"，与之并列且与睡眠不足有关的应该是\"注意力\"。睡眠不足会导致上课注意力不集中。A选项是memory的意思；C（创造力）和D（想象力）与睡眠缺乏的直接关联较小。",
+      "label": "阅读-词义猜测"
     },
     {
       "id": 15,
       "type": "reading",
       "knowledge_point": "inference",
       "difficulty": 3,
-      "stem": "What can we infer from the passage?",
-      "options": [
-        "A. All naps are good for students' learning.",
-        "B. Using phones before bed has no effect on sleep.",
-        "C. Sleeping well helps improve memory.",
-        "D. Studying longer always brings better grades."
-      ],
-      "correct_answer": "C",
-      "explanation": "正确答案是C。推理判断题。根据第二段最后一句\"During deep sleep, your brain organizes information...into long-term memory\"（深度睡眠时，大脑将信息整理并移入长期记忆），可推断出良好的睡眠有助于提高记忆力。A选项错误，因为文章说小睡不超过20分钟，太长会使人昏昏沉沉；B选项与第三段内容相反；D选项与第一段内容相反。解题技巧：推理题要基于原文信息合理推断，不能过度推断，也不能选择与原文矛盾的选项。",
-      "label": "阅读-推理判断",
       "group": "reading_1",
-      "group_passage": "Many students sacrifice sleep to study for exams, believing that more study time leads to better grades. However, recent scientific research suggests this might not be the best strategy.\n\nScientists at a university in the UK studied over 1,000 students. They found that students who slept less than 6 hours a night usually had trouble concentrating in class. Their test scores were actually lower than those who slept 8 hours. \"Sleep is like a reset button for your brain,\" explains Dr. Smith, the lead researcher. \"During deep sleep, your brain organizes information from the day and moves it into long-term memory.\"\n\nThe study also discovered that the quality of sleep matters. Even if students spent 8 hours in bed, poor sleep quality (caused by phone use before bed or too much caffeine) could still affect their learning ability. The blue light from phone screens tricks the brain into thinking it is still daytime, making it harder to fall asleep.\n\nSo what is the solution? Experts recommend creating a bedtime routine. This means going to bed at the same time every night and keeping phones out of the bedroom. They also suggest taking short naps (15-20 minutes) after lunch if you feel tired, but not longer, as this can make you feel groggy (昏昏沉沉的).\n\nRemember, good sleep isn't laziness—it's an important part of successful learning."
+      "group_passage": "Do you often feel tired in class? Many students don't get enough sleep because they use smartphones before bed. Scientists have found that the blue light from screens affects our sleep quality.\n\nA recent study shows that teenagers need at least 8 hours of sleep every night. However, about 60% of middle school students sleep less than 7 hours. This can cause problems with memory and concentration.\n\nDr. Li, a sleep expert, suggests some useful tips. First, turn off all electronic devices an hour before bedtime. Second, keep your bedroom cool and dark. Third, try to go to bed at the same time every night. \"Good sleep habits are as important as good study habits,\" says Dr. Li.\n\nSome schools have changed their morning schedules to let students start classes later. Early results show that students feel more energetic and get better grades when they get enough rest.",
+      "stem": "What can we infer from the last paragraph?",
+      "options": [
+        "A. All schools will start classes later.",
+        "B. Students hate the new schedule.",
+        "C. Changing schedules is bad for grades.",
+        "D. More sleep may help students study better."
+      ],
+      "correct_answer": "D",
+      "explanation": "这道题考查推理判断。最后一段提到\"Early results show that students feel more energetic and get better grades when they get enough rest\"（早期结果显示，当学生得到充足休息时，他们感到更有活力且成绩更好），可推断出充足的睡眠有助于学习，D正确。A（所有学校都将推迟上课时间）过于绝对，文中只说some schools；B（学生讨厌新时间表）与文意相反；C（改变时间表对成绩有害）与文中\"get better grades\"矛盾。",
+      "label": "阅读-推理判断"
     },
     {
       "id": 16,
       "type": "reading",
-      "knowledge_point": "main_idea_title",
+      "knowledge_point": "main_idea",
       "difficulty": 3,
+      "group": "reading_1",
+      "group_passage": "Do you often feel tired in class? Many students don't get enough sleep because they use smartphones before bed. Scientists have found that the blue light from screens affects our sleep quality.\n\nA recent study shows that teenagers need at least 8 hours of sleep every night. However, about 60% of middle school students sleep less than 7 hours. This can cause problems with memory and concentration.\n\nDr. Li, a sleep expert, suggests some useful tips. First, turn off all electronic devices an hour before bedtime. Second, keep your bedroom cool and dark. Third, try to go to bed at the same time every night. \"Good sleep habits are as important as good study habits,\" says Dr. Li.\n\nSome schools have changed their morning schedules to let students start classes later. Early results show that students feel more energetic and get better grades when they get enough rest.",
       "stem": "What is the best title for this passage?",
       "options": [
-        "A. The History of Sleep Research",
-        "B. How to Use Your Phone Less",
-        "C. Why Sleep Matters for Students",
-        "D. Different Types of Dreams"
+        "A. How to Use Smartphones Properly",
+        "B. The Importance of Sleep for Teenagers",
+        "C. Changes in School Schedules",
+        "D. Ways to Get Better Grades"
       ],
-      "correct_answer": "C",
-      "explanation": "正确答案是C。主旨大意题。文章通篇讨论睡眠对学生学习的重要性：第一段指出少睡觉多学习并非好策略，第二段说明睡眠不足影响注意力和成绩，第三段讲睡眠质量的重要性，第四段给出建议，最后总结睡眠是成功学习的重要部分。A选项（睡眠研究历史）只在第二段提到研究，非主旨；B选项（如何少用手机）只在第三段提及；D选项（不同类型的梦）文中未提及。解题技巧：选择能覆盖全文主要内容的标题，避免以偏概全或超出范围。",
-      "label": "阅读-主旨大意",
-      "group": "reading_1",
-      "group_passage": "Many students sacrifice sleep to study for exams, believing that more study time leads to better grades. However, recent scientific research suggests this might not be the best strategy.\n\nScientists at a university in the UK studied over 1,000 students. They found that students who slept less than 6 hours a night usually had trouble concentrating in class. Their test scores were actually lower than those who slept 8 hours. \"Sleep is like a reset button for your brain,\" explains Dr. Smith, the lead researcher. \"During deep sleep, your brain organizes information from the day and moves it into long-term memory.\"\n\nThe study also discovered that the quality of sleep matters. Even if students spent 8 hours in bed, poor sleep quality (caused by phone use before bed or too much caffeine) could still affect their learning ability. The blue light from phone screens tricks the brain into thinking it is still daytime, making it harder to fall asleep.\n\nSo what is the solution? Experts recommend creating a bedtime routine. This means going to bed at the same time every night and keeping phones out of the bedroom. They also suggest taking short naps (15-20 minutes) after lunch if you feel tired, but not longer, as this can make you feel groggy (昏昏沉沉的).\n\nRemember, good sleep isn't laziness—it's an important part of successful learning."
+      "correct_answer": "B",
+      "explanation": "这道题考查主旨大意。文章围绕青少年睡眠不足的问题展开，分析了原因（使用手机）、危害（影响记忆力和注意力）、建议（专家三条建议）以及学校的应对措施，核心是睡眠对青少年的重要性。A（如何正确使用手机）只是文中提到的一个细节；C（学校时间表变化）是最后一段的内容；D（提高成绩的方法）过于宽泛。B选项最全面概括文章主旨。",
+      "label": "阅读-主旨大意"
     },
     {
       "id": 17,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
+      "group": "fill_1",
+      "group_passage": "Starting middle school can be exciting but also challenging. Here are some useful tips to help you adapt to the new environment.\n\n(17)______ Get a planner and write down your homework and important dates. This will help you manage your time better and never miss deadlines.\n\n(18)______ Don't be afraid to ask teachers or classmates when you don't understand something. Everyone needs help sometimes, and it's a great way to learn.\n\n(19)______ Join clubs or sports teams to meet people who share your interests. Having good friends makes school life more enjoyable and less stressful.\n\n(20)______ Remember to exercise regularly and get enough sleep. A healthy body is the foundation of good academic performance.",
       "stem": "(17)______",
       "options": [
-        "A. Remember that balance is a journey, not a destination.",
-        "B. However, some students think hobbies are not important.",
-        "C. The first step is to make a to-do list.",
-        "D. Then, you can mix study time with hobby time.",
-        "E. But don't worry, there are solutions to this problem."
+        "A. However, try not to join too many clubs.",
+        "B. First, make sure to stay organized.",
+        "C. In addition, don't hesitate to ask for help.",
+        "D. Finally, keep a balance between study and rest.",
+        "E. Also, try to make new friends."
       ],
-      "correct_answer": "E",
-      "explanation": "正确答案是E。前句提到\"很多学生感到有压力\"，后句\"Here are some tips...\"（这里有一些建议），中间需要过渡句。E选项\"但是别担心，这个问题有解决办法\"既承接了前文的困难（感到压力），又引出了后文的建议。A是总结句，通常放最后；B与后文建议无关；C是具体建议，应该放在First后面；D也是具体建议，应该放在Next后面。",
-      "label": "短文填空",
-      "group": "fill_1",
-      "group_passage": "Many students find it difficult to balance their schoolwork with their hobbies. They often feel stressed when they can't do both well. (17)______ Here are some tips to help you manage your time better.\n\n(18)______ First, write down all your assignments and their deadlines. This helps you see clearly what needs to be done first.\n\nNext, create a weekly schedule. (19)______ For example, you can study for 45 minutes and then play the guitar for 15 minutes. This way, you won't feel bored or tired.\n\nFinally, try to cut down on time-wasting activities like spending too much time on social media. (20)______ What matters is that you are making progress step by step."
+      "correct_answer": "B",
+      "explanation": "这道题考查段落衔接。后文提到\"Get a planner... write down homework\"（用计划本记录作业），这些都是关于保持条理、做好组织安排的建议，与B选项\"First, make sure to stay organized\"（首先，确保保持条理）对应。First也表明这是第一条建议，符合文章\"Here are some useful tips\"的总起。",
+      "label": "短文填空"
     },
     {
       "id": 18,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
+      "group": "fill_1",
+      "group_passage": "Starting middle school can be exciting but also challenging. Here are some useful tips to help you adapt to the new environment.\n\n(17)______ Get a planner and write down your homework and important dates. This will help you manage your time better and never miss deadlines.\n\n(18)______ Don't be afraid to ask teachers or classmates when you don't understand something. Everyone needs help sometimes, and it's a great way to learn.\n\n(19)______ Join clubs or sports teams to meet people who share your interests. Having good friends makes school life more enjoyable and less stressful.\n\n(20)______ Remember to exercise regularly and get enough sleep. A healthy body is the foundation of good academic performance.",
       "stem": "(18)______",
       "options": [
-        "A. Remember that balance is a journey, not a destination.",
-        "B. However, some students think hobbies are not important.",
-        "C. The first step is to make a to-do list.",
-        "D. Then, you can mix study time with hobby time.",
-        "E. But don't worry, there are solutions to this problem."
+        "A. However, try not to join too many clubs.",
+        "B. First, make sure to stay organized.",
+        "C. In addition, don't hesitate to ask for help.",
+        "D. Finally, keep a balance between study and rest.",
+        "E. Also, try to make new friends."
       ],
       "correct_answer": "C",
-      "explanation": "正确答案是C。后句出现\"First, write down...\"（首先，写下...），说明此处需要总起句引出第一个建议。C选项\"第一步是制作待办清单\"中的first step与后面的First对应，且make a to-do list与write down assignments语义一致。E已经用过；A是总结句；B和D与first无关。",
-      "label": "短文填空",
-      "group": "fill_1",
-      "group_passage": "Many students find it difficult to balance their schoolwork with their hobbies. They often feel stressed when they can't do both well. (17)______ Here are some tips to help you manage your time better.\n\n(18)______ First, write down all your assignments and their deadlines. This helps you see clearly what needs to be done first.\n\nNext, create a weekly schedule. (19)______ For example, you can study for 45 minutes and then play the guitar for 15 minutes. This way, you won't feel bored or tired.\n\nFinally, try to cut down on time-wasting activities like spending too much time on social media. (20)______ What matters is that you are making progress step by step."
+      "explanation": "这道题考查逻辑衔接。后文\"Don't be afraid to ask... when you don't understand\"（不懂就问）与C选项\"don't hesitate to ask for help\"（不要犹豫寻求帮助）完全对应。In addition表示递进，承接上文的First，引出第二条建议。",
+      "label": "短文填空"
     },
     {
       "id": 19,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
+      "group": "fill_1",
+      "group_passage": "Starting middle school can be exciting but also challenging. Here are some useful tips to help you adapt to the new environment.\n\n(17)______ Get a planner and write down your homework and important dates. This will help you manage your time better and never miss deadlines.\n\n(18)______ Don't be afraid to ask teachers or classmates when you don't understand something. Everyone needs help sometimes, and it's a great way to learn.\n\n(19)______ Join clubs or sports teams to meet people who share your interests. Having good friends makes school life more enjoyable and less stressful.\n\n(20)______ Remember to exercise regularly and get enough sleep. A healthy body is the foundation of good academic performance.",
       "stem": "(19)______",
       "options": [
-        "A. Remember that balance is a journey, not a destination.",
-        "B. However, some students think hobbies are not important.",
-        "C. The first step is to make a to-do list.",
-        "D. Then, you can mix study time with hobby time.",
-        "E. But don't worry, there are solutions to this problem."
+        "A. However, try not to join too many clubs.",
+        "B. First, make sure to stay organized.",
+        "C. In addition, don't hesitate to ask for help.",
+        "D. Finally, keep a balance between study and rest.",
+        "E. Also, try to make new friends."
       ],
-      "correct_answer": "D",
-      "explanation": "正确答案是D。前句说\"接下来，创建周计划表\"，后句举例\"学习45分钟然后弹吉他15分钟\"，这说明是把学习时间和爱好时间混合在一起。D选项\"然后，你可以把学习时间和爱好时间混合在一起\"承上启下。Then与前面的First、Next形成顺序衔接，mix...time与后面的例子对应。",
-      "label": "短文填空",
-      "group": "fill_1",
-      "group_passage": "Many students find it difficult to balance their schoolwork with their hobbies. They often feel stressed when they can't do both well. (17)______ Here are some tips to help you manage your time better.\n\n(18)______ First, write down all your assignments and their deadlines. This helps you see clearly what needs to be done first.\n\nNext, create a weekly schedule. (19)______ For example, you can study for 45 minutes and then play the guitar for 15 minutes. This way, you won't feel bored or tired.\n\nFinally, try to cut down on time-wasting activities like spending too much time on social media. (20)______ What matters is that you are making progress step by step."
+      "correct_answer": "E",
+      "explanation": "这道题考查主题一致性。后文\"Join clubs... meet people... Having good friends\"（参加社团……结识朋友……拥有好朋友）都在讲交友，与E选项\"Also, try to make new friends\"（另外，尝试结交新朋友）对应。Also表示补充，引出第三条建议。",
+      "label": "短文填空"
     },
     {
       "id": 20,
       "type": "fill",
       "knowledge_point": "sentence_fill",
-      "difficulty": 1,
+      "difficulty": 2,
+      "group": "fill_1",
+      "group_passage": "Starting middle school can be exciting but also challenging. Here are some useful tips to help you adapt to the new environment.\n\n(17)______ Get a planner and write down your homework and important dates. This will help you manage your time better and never miss deadlines.\n\n(18)______ Don't be afraid to ask teachers or classmates when you don't understand something. Everyone needs help sometimes, and it's a great way to learn.\n\n(19)______ Join clubs or sports teams to meet people who share your interests. Having good friends makes school life more enjoyable and less stressful.\n\n(20)______ Remember to exercise regularly and get enough sleep. A healthy body is the foundation of good academic performance.",
       "stem": "(20)______",
       "options": [
-        "A. Remember that balance is a journey, not a destination.",
-        "B. However, some students think hobbies are not important.",
-        "C. The first step is to make a to-do list.",
-        "D. Then, you can mix study time with hobby time.",
-        "E. But don't worry, there are solutions to this problem."
+        "A. However, try not to join too many clubs.",
+        "B. First, make sure to stay organized.",
+        "C. In addition, don't hesitate to ask for help.",
+        "D. Finally, keep a balance between study and rest.",
+        "E. Also, try to make new friends."
       ],
-      "correct_answer": "A",
-      "explanation": "正确答案是A。前句说\"最后，减少浪费时间的行为\"，后句\"重要的是你正在一步步进步\"，说明此处需要总结句。A选项\"记住，平衡是一段旅程，而不是一个终点\"作为结尾句，呼应主题（balance），且与后句\"一步步进步\"语义衔接（journey对应step by step）。其他选项都已使用或不符合结尾总结功能。",
-      "label": "短文填空",
-      "group": "fill_1",
-      "group_passage": "Many students find it difficult to balance their schoolwork with their hobbies. They often feel stressed when they can't do both well. (17)______ Here are some tips to help you manage your time better.\n\n(18)______ First, write down all your assignments and their deadlines. This helps you see clearly what needs to be done first.\n\nNext, create a weekly schedule. (19)______ For example, you can study for 45 minutes and then play the guitar for 15 minutes. This way, you won't feel bored or tired.\n\nFinally, try to cut down on time-wasting activities like spending too much time on social media. (20)______ What matters is that you are making progress step by step."
+      "correct_answer": "D",
+      "explanation": "这道题考查文章结构。Finally（最后）表示顺序的结束，用于最后一条建议。后文\"exercise regularly and get enough sleep\"（规律锻炼和充足睡眠）讲的是劳逸结合、保持健康，与D选项\"keep a balance between study and rest\"（保持学习和休息的平衡）对应。A选项为干扰项，与后文不符。",
+      "label": "短文填空"
     }
   ]
 }
