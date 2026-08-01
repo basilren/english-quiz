@@ -1,5 +1,5 @@
 ﻿{
-  "date": "2026-08-01",
+  "date": "2026-08-02",
   "session_number": 1,
   "questions": [
     {
@@ -7,15 +7,15 @@
       "type": "grammar",
       "knowledge_point": "present_perfect_vs_past_simple",
       "difficulty": 1,
-      "stem": "—I ______ the Summer Palace last weekend. It was amazing!\n—Really? I ______ there three times.",
+      "stem": "—I ______ my homework already. Can I watch TV now?\n—Yes, but you must finish cleaning your room first.",
       "options": [
-        "A. visited; have been",
-        "B. have visited; went",
-        "C. visited; went",
-        "D. have visited; have been"
+        "A. finish",
+        "B. finished",
+        "C. have finished",
+        "D. will finish"
       ],
-      "correct_answer": "A",
-      "explanation": "这道题考查现在完成时和一般过去时的区别。第一空后有明确的时间状语\"last weekend\"（上周末），表示过去某个具体时间发生的动作，用一般过去时visited；第二空表示\"曾经去过某地三次\"，强调对现在的影响或经历，用现在完成时have been。B选项时态颠倒；C选项第二空缺少完成时态；D选项第一空不能用完成时。",
+      "correct_answer": "C",
+      "explanation": "选C。already（已经）是现在完成时的标志性时间状语，表示动作已经完成并对现在造成影响（可以看电视了）。A是一般现在时，表示经常性动作；B是一般过去时，只表示过去发生过，与already连用不恰当；D是一般将来时。口诀：现完标志有already/yet/ever/never/since/for。",
       "label": "语法题"
     },
     {
@@ -23,15 +23,15 @@
       "type": "grammar",
       "knowledge_point": "relative_clause_who_which",
       "difficulty": 2,
-      "stem": "The students ______ won the English speech contest are from Class 3.",
+      "stem": "This is the museum ______ we visited last year.",
       "options": [
         "A. who",
         "B. which",
         "C. whom",
         "D. whose"
       ],
-      "correct_answer": "A",
-      "explanation": "这道题考查定语从句的关系代词。先行词是\"students\"（学生），指人，且在从句中作主语，所以用who。which指物；whom指人但只能作宾语；whose表示\"……的\"，作定语。从句中缺少主语，因此选A。",
+      "correct_answer": "B",
+      "explanation": "选B。先行词museum是物，在定语从句中作visited的宾语，关系代词用which或that。who指人且作主语；whom指人且作宾语；whose表示所属关系（谁的），在从句中作定语。技巧：先行词是物用which/that，是人用who/whom/that。",
       "label": "语法题"
     },
     {
@@ -39,15 +39,15 @@
       "type": "grammar",
       "knowledge_point": "passive_voice",
       "difficulty": 2,
-      "stem": "The old library ______ last year to make room for a new science building.",
+      "stem": "The old bridge ______ by the government next month.",
       "options": [
-        "A. pulls down",
-        "B. is pulled down",
-        "C. was pulled down",
-        "D. has pulled down"
+        "A. repairs",
+        "B. repaired",
+        "C. will repair",
+        "D. will be repaired"
       ],
-      "correct_answer": "C",
-      "explanation": "这道题考查被动语态。主语\"library\"（图书馆）和\"pull down\"（拆除）之间是被动关系，需要用被动语态be+过去分词。时间状语\"last year\"表明是一般过去时，因此用was pulled down。A是主动语态；B是一般现在时的被动，时态不符；D是现在完成时的主动语态。",
+      "correct_answer": "D",
+      "explanation": "选D。next month表示将来时间，bridge（桥）是repair（修理）的承受者，所以用一般将来时的被动语态：will be + 过去分词。A是一般现在时主动；B是一般过去时；C是一般将来时主动语态，缺少被动。技巧：看到by短语或主语是物+动作，考虑被动语态。",
       "label": "语法题"
     },
     {
@@ -55,302 +55,302 @@
       "type": "grammar",
       "knowledge_point": "present_perfect_vs_past_simple",
       "difficulty": 3,
-      "stem": "—Why don't you go to the concert with us tonight?\n—Because I ______ the band twice. I'm not interested anymore.",
+      "stem": "—______ you ever ______ to Hong Kong?\n—Yes, I went there last summer.",
       "options": [
-        "A. saw",
-        "B. have seen",
-        "C. see",
-        "D. had seen"
+        "A. Did; go",
+        "B. Do; go",
+        "C. Have; been",
+        "D. Are; going"
       ],
-      "correct_answer": "B",
-      "explanation": "这道题考查现在完成时的用法。答句强调\"已经看过两次\"这一经历对现在的影响（不想去），用现在完成时have seen。A选项一般过去时只表示过去发生的动作，与现在无关；C选项一般现在时不符；D选项过去完成时需要参照过去某一时间点，此处没有。解题技巧：遇到\"twice/never/ever/before\"等表示经历次数的词，优先考虑现在完成时。",
+      "correct_answer": "C",
+      "explanation": "选C。ever（曾经）是现在完成时的标志词，询问是否有过某种经历，用have been to（去过某地）。答句虽然用了一般过去时（went）回答具体时间，但问句强调对现在的影响（有没有这个经历）。A是一般过去时，不与ever连用；B是一般现在时；D是现在进行时表将来。难点：答句的过去时容易误导考生选A，但问句的时间标志ever决定用现在完成时。",
       "label": "语法题"
     },
     {
       "id": 5,
       "type": "vocabulary",
-      "knowledge_point": "phrasal_verbs",
+      "knowledge_point": "word_guessing_context",
       "difficulty": 1,
-      "stem": "Please ______ the lights when you leave the classroom to save energy.",
+      "stem": "If you ______ something, you try to find information about it.",
       "options": [
-        "A. turn on",
-        "B. turn off",
-        "C. turn up",
-        "D. turn down"
+        "A. repeat",
+        "B. research",
+        "C. recycle",
+        "D. remember"
       ],
       "correct_answer": "B",
-      "explanation": "这道题考查动词短语辨析。turn on打开；turn off关闭；turn up调高（音量）；turn down调低（音量）。根据语境\"leave the classroom\"（离开教室）和\"save energy\"（节约能源），应该是关灯，所以选B。",
+      "explanation": "选B。根据句意'试图找到关于某事的信息'，research（研究、调查）最符合语境。repeat（重复）、recycle（回收）、remember（记得）均不符合'查找信息'的含义。技巧：通过定语从句的解释功能猜测词义。",
       "label": "词汇题"
     },
     {
       "id": 6,
       "type": "vocabulary",
-      "knowledge_point": "word_formation",
+      "knowledge_point": "prefix_suffix",
       "difficulty": 2,
-      "stem": "The ______ news made all of us feel ______.",
+      "stem": "The word 'impossible' means 'not ______'.",
       "options": [
-        "A. excited; exciting",
-        "B. exciting; excited",
-        "C. excite; excited",
-        "D. excited; excite"
+        "A. possible",
+        "B. important",
+        "C. polite",
+        "D. patient"
       ],
-      "correct_answer": "B",
-      "explanation": "这道题考查-ing和-ed形容词的用法。exciting（令人兴奋的）修饰事物，excited（感到兴奋的）修饰人。第一空修饰news（消息），用exciting；第二空修饰us（我们），用excited。口诀：-ing形容物，-ed形容人。",
+      "correct_answer": "A",
+      "explanation": "选A。im-是否定前缀，加在possible（可能的）前构成反义词impossible（不可能的）。其他选项：important（重要的），polite（礼貌的），patient（耐心的）均与impossible的词根不符。常见否定前缀：un-/in-/im-/dis-/ir-。",
       "label": "词汇题"
     },
     {
       "id": 7,
       "type": "vocabulary",
-      "knowledge_point": "collocation",
+      "knowledge_point": "phrasal_verbs",
       "difficulty": 2,
-      "stem": "It's important for us to ______ a good habit of reading before going to bed.",
+      "stem": "When you ______ old clothes, you give them to people who need them.",
       "options": [
-        "A. develop",
-        "B. make",
-        "C. do",
-        "D. take"
+        "A. put away",
+        "B. take up",
+        "C. give away",
+        "D. look up"
       ],
-      "correct_answer": "A",
-      "explanation": "这道题考查固定搭配。develop a habit养成习惯，是固定搭配。make制作；do做；take带走。表示\"养成习惯\"只能用develop，表示逐步培养形成。",
+      "correct_answer": "C",
+      "explanation": "选C。give away表示'捐赠、赠送'，符合'给需要的人'的语境。put away（收好、放好），take up（开始从事、占据），look up（查阅、向上看）。技巧：give away中的away有'离开、向外'的含义，引申为'送出去'。",
       "label": "词汇题"
     },
     {
       "id": 8,
       "type": "cloze",
-      "knowledge_point": "cloze_context",
+      "knowledge_point": "cloze_general",
       "difficulty": 2,
-      "group": "cloze_1",
-      "group_passage": "Many students in our school care about environmental protection. Last month, our class started a recycling project. We collected plastic bottles and old books from every classroom. At first, some students thought it was (8)______ to carry so many heavy bags to the collection room. But soon they realized how important this work was. The bottles (9)______ to a factory and were made into new products like pencil boxes. Our teacher, Mr. Wang, was very proud (10)______ us. He said, \"Small actions can make a big (11)______.\" Now more students want to join us. We plan to (12)______ this project next term and collect more recyclable materials to help protect our planet.",
       "stem": "(8)______",
       "options": [
-        "A. easy",
-        "B. difficult",
-        "C. interesting",
-        "D. relaxing"
+        "A. through",
+        "B. past",
+        "C. across",
+        "D. over"
       ],
-      "correct_answer": "B",
-      "explanation": "这道题考查语境推理。根据后文\"heavy bags\"（沉重的袋子）和\"But soon they realized...\"（但很快他们意识到……）的转折关系，可推断起初学生觉得搬运这些袋子很\"困难\"，所以选B。A（容易的）和D（放松的）与heavy bags矛盾；C（有趣的）没有体现后文的转折逻辑。",
-      "label": "完形填空"
+      "correct_answer": "A",
+      "explanation": "选A。through表示'通过、凭借（某种方式）'，teach sb. through sth. 表示'通过某事教某人'。past（经过），across（横穿，指平面），over（越过，指上方）。此处指'通过实践工作'，用through。",
+      "label": "完形填空",
+      "group": "cloze_1",
+      "group_passage": "Last spring, our school started an interesting project - building a green garden on the rooftop. The idea came from our science teacher, Mr. Li. He wanted to teach us about environmental protection (8)______ practical work.\n\nAt first, we knew nothing about gardening. Mr. Li invited some experts to give us lessons on how to plant vegetables. We learned that soil (9)______ is very important. We also needed to make sure the plants got enough sunlight and water.\n\nThe most challenging part was building the watering system. We decided to use (10)______ water from the air conditioning system. This not only saved water but also reduced waste. My classmates and I worked together every Friday afternoon. (11)______ we felt tired after school, everyone was excited to see the plants growing.\n\nThree months later, we harvested our first vegetables. The tomatoes and lettuce tasted delicious! Through this project, we not only learned scientific knowledge but also understood the importance of teamwork and environmental protection. It was really a (12)______ experience for all of us."
     },
     {
       "id": 9,
       "type": "cloze",
-      "knowledge_point": "passive_voice",
-      "difficulty": 1,
-      "group": "cloze_1",
-      "group_passage": "Many students in our school care about environmental protection. Last month, our class started a recycling project. We collected plastic bottles and old books from every classroom. At first, some students thought it was (8)______ to carry so many heavy bags to the collection room. But soon they realized how important this work was. The bottles (9)______ to a factory and were made into new products like pencil boxes. Our teacher, Mr. Wang, was very proud (10)______ us. He said, \"Small actions can make a big (11)______.\" Now more students want to join us. We plan to (12)______ this project next term and collect more recyclable materials to help protect our planet.",
+      "knowledge_point": "cloze_general",
+      "difficulty": 2,
       "stem": "(9)______",
       "options": [
-        "A. sent",
-        "B. were sent",
-        "C. send",
-        "D. are sending"
+        "A. price",
+        "B. quality",
+        "C. color",
+        "D. weight"
       ],
       "correct_answer": "B",
-      "explanation": "这道题考查被动语态。主语\"bottles\"（瓶子）和\"send\"（送）之间是被动关系，需要用被动语态be+过去分词。文章整体是一般过去时（last month），所以用were sent。A是主动语态过去式；C是动词原形；D是主动语态过去进行时。",
-      "label": "完形填空"
+      "explanation": "选B。quality（质量），soil quality（土壤质量）是种植蔬菜的关键因素。price（价格），color（颜色），weight（重量）虽然也是土壤的属性，但在种植语境下，土壤质量最重要。技巧：根据上下文'种植蔬菜'和'很重要'判断应选quality。",
+      "label": "完形填空",
+      "group": "cloze_1",
+      "group_passage": "Last spring, our school started an interesting project - building a green garden on the rooftop. The idea came from our science teacher, Mr. Li. He wanted to teach us about environmental protection (8)______ practical work.\n\nAt first, we knew nothing about gardening. Mr. Li invited some experts to give us lessons on how to plant vegetables. We learned that soil (9)______ is very important. We also needed to make sure the plants got enough sunlight and water.\n\nThe most challenging part was building the watering system. We decided to use (10)______ water from the air conditioning system. This not only saved water but also reduced waste. My classmates and I worked together every Friday afternoon. (11)______ we felt tired after school, everyone was excited to see the plants growing.\n\nThree months later, we harvested our first vegetables. The tomatoes and lettuce tasted delicious! Through this project, we not only learned scientific knowledge but also understood the importance of teamwork and environmental protection. It was really a (12)______ experience for all of us."
     },
     {
       "id": 10,
       "type": "cloze",
-      "knowledge_point": "fixed_phrase",
+      "knowledge_point": "cloze_general",
       "difficulty": 1,
-      "group": "cloze_1",
-      "group_passage": "Many students in our school care about environmental protection. Last month, our class started a recycling project. We collected plastic bottles and old books from every classroom. At first, some students thought it was (8)______ to carry so many heavy bags to the collection room. But soon they realized how important this work was. The bottles (9)______ to a factory and were made into new products like pencil boxes. Our teacher, Mr. Wang, was very proud (10)______ us. He said, \"Small actions can make a big (11)______.\" Now more students want to join us. We plan to (12)______ this project next term and collect more recyclable materials to help protect our planet.",
       "stem": "(10)______",
       "options": [
-        "A. of",
-        "B. for",
-        "C. with",
-        "D. to"
+        "A. recycled",
+        "B. polluted",
+        "C. wasted",
+        "D. salty"
       ],
       "correct_answer": "A",
-      "explanation": "这道题考查固定搭配。be proud of...为……感到骄傲，是固定短语。其他介词不能与proud构成此搭配。",
-      "label": "完形填空"
+      "explanation": "选A。recycled（回收的、再利用的），根据下文'This not only saved water but also reduced waste'（节约用水、减少浪费）可知是用回收水。polluted（污染的），wasted（浪费的），salty（咸的）均不符合环保节约的语境。",
+      "label": "完形填空",
+      "group": "cloze_1",
+      "group_passage": "Last spring, our school started an interesting project - building a green garden on the rooftop. The idea came from our science teacher, Mr. Li. He wanted to teach us about environmental protection (8)______ practical work.\n\nAt first, we knew nothing about gardening. Mr. Li invited some experts to give us lessons on how to plant vegetables. We learned that soil (9)______ is very important. We also needed to make sure the plants got enough sunlight and water.\n\nThe most challenging part was building the watering system. We decided to use (10)______ water from the air conditioning system. This not only saved water but also reduced waste. My classmates and I worked together every Friday afternoon. (11)______ we felt tired after school, everyone was excited to see the plants growing.\n\nThree months later, we harvested our first vegetables. The tomatoes and lettuce tasted delicious! Through this project, we not only learned scientific knowledge but also understood the importance of teamwork and environmental protection. It was really a (12)______ experience for all of us."
     },
     {
       "id": 11,
       "type": "cloze",
-      "knowledge_point": "cloze_context",
+      "knowledge_point": "cloze_general",
       "difficulty": 2,
-      "group": "cloze_1",
-      "group_passage": "Many students in our school care about environmental protection. Last month, our class started a recycling project. We collected plastic bottles and old books from every classroom. At first, some students thought it was (8)______ to carry so many heavy bags to the collection room. But soon they realized how important this work was. The bottles (9)______ to a factory and were made into new products like pencil boxes. Our teacher, Mr. Wang, was very proud (10)______ us. He said, \"Small actions can make a big (11)______.\" Now more students want to join us. We plan to (12)______ this project next term and collect more recyclable materials to help protect our planet.",
       "stem": "(11)______",
       "options": [
-        "A. mistake",
-        "B. decision",
-        "C. difference",
-        "D. progress"
+        "A. Because",
+        "B. If",
+        "C. Although",
+        "D. So"
       ],
       "correct_answer": "C",
-      "explanation": "这道题考查固定搭配和语境理解。make a big difference产生重大影响/有很大不同，是固定搭配。A（错误）、B（决定）、D（进步）都不能与make构成此含义的搭配。老师想表达\"小行动能带来大改变\"，所以选C。",
-      "label": "完形填空"
+      "explanation": "选C。Although（虽然、尽管）引导让步状语从句，表示转折关系：虽然累但很开心。Because（因为，因果），If（如果，条件），So（所以，结果）均不符合'累'与'开心'之间的转折逻辑。技巧：看到前后句意相反，考虑although/though/however。",
+      "label": "完形填空",
+      "group": "cloze_1",
+      "group_passage": "Last spring, our school started an interesting project - building a green garden on the rooftop. The idea came from our science teacher, Mr. Li. He wanted to teach us about environmental protection (8)______ practical work.\n\nAt first, we knew nothing about gardening. Mr. Li invited some experts to give us lessons on how to plant vegetables. We learned that soil (9)______ is very important. We also needed to make sure the plants got enough sunlight and water.\n\nThe most challenging part was building the watering system. We decided to use (10)______ water from the air conditioning system. This not only saved water but also reduced waste. My classmates and I worked together every Friday afternoon. (11)______ we felt tired after school, everyone was excited to see the plants growing.\n\nThree months later, we harvested our first vegetables. The tomatoes and lettuce tasted delicious! Through this project, we not only learned scientific knowledge but also understood the importance of teamwork and environmental protection. It was really a (12)______ experience for all of us."
     },
     {
       "id": 12,
       "type": "cloze",
-      "knowledge_point": "cloze_logic",
-      "difficulty": 2,
-      "group": "cloze_1",
-      "group_passage": "Many students in our school care about environmental protection. Last month, our class started a recycling project. We collected plastic bottles and old books from every classroom. At first, some students thought it was (8)______ to carry so many heavy bags to the collection room. But soon they realized how important this work was. The bottles (9)______ to a factory and were made into new products like pencil boxes. Our teacher, Mr. Wang, was very proud (10)______ us. He said, \"Small actions can make a big (11)______.\" Now more students want to join us. We plan to (12)______ this project next term and collect more recyclable materials to help protect our planet.",
+      "knowledge_point": "cloze_general",
+      "difficulty": 1,
       "stem": "(12)______",
       "options": [
-        "A. stop",
-        "B. continue",
-        "C. finish",
-        "D. forget"
+        "A. boring",
+        "B. meaningless",
+        "C. meaningful",
+        "D. useless"
       ],
-      "correct_answer": "B",
-      "explanation": "这道题考查逻辑推理。根据前文\"Now more students want to join us\"（现在更多学生想加入我们）和\"next term\"（下学期），可推断他们计划\"继续\"这个项目，所以选B。A（停止）和D（忘记）与文意相反；C（完成）不符合\"next term\"的时间逻辑。",
-      "label": "完形填空"
+      "correct_answer": "C",
+      "explanation": "选C。meaningful（有意义的），根据前文'learned scientific knowledge'（学到知识）和'importance of teamwork'（团队合作的重要性）可知是积极的评价。boring（无聊的），meaningless（无意义的），useless（无用的）均为负面词汇，与文章主旨不符。",
+      "label": "完形填空",
+      "group": "cloze_1",
+      "group_passage": "Last spring, our school started an interesting project - building a green garden on the rooftop. The idea came from our science teacher, Mr. Li. He wanted to teach us about environmental protection (8)______ practical work.\n\nAt first, we knew nothing about gardening. Mr. Li invited some experts to give us lessons on how to plant vegetables. We learned that soil (9)______ is very important. We also needed to make sure the plants got enough sunlight and water.\n\nThe most challenging part was building the watering system. We decided to use (10)______ water from the air conditioning system. This not only saved water but also reduced waste. My classmates and I worked together every Friday afternoon. (11)______ we felt tired after school, everyone was excited to see the plants growing.\n\nThree months later, we harvested our first vegetables. The tomatoes and lettuce tasted delicious! Through this project, we not only learned scientific knowledge but also understood the importance of teamwork and environmental protection. It was really a (12)______ experience for all of us."
     },
     {
       "id": 13,
       "type": "reading",
       "knowledge_point": "detail",
       "difficulty": 2,
-      "group": "reading_1",
-      "group_passage": "Do you often feel tired in class? Many students don't get enough sleep because they use smartphones before bed. Scientists have found that the blue light from screens affects our sleep quality.\n\nA recent study shows that teenagers need at least 8 hours of sleep every night. However, about 60% of middle school students sleep less than 7 hours. This can cause problems with memory and concentration.\n\nDr. Li, a sleep expert, suggests some useful tips. First, turn off all electronic devices an hour before bedtime. Second, keep your bedroom cool and dark. Third, try to go to bed at the same time every night. \"Good sleep habits are as important as good study habits,\" says Dr. Li.\n\nSome schools have changed their morning schedules to let students start classes later. Early results show that students feel more energetic and get better grades when they get enough rest.",
-      "stem": "According to the passage, how many hours of sleep do teenagers need every night?",
+      "stem": "Why did Bosco invent the alarm clock?",
       "options": [
-        "A. 6 hours.",
-        "B. 7 hours.",
-        "C. At least 8 hours.",
-        "D. 9 hours."
+        "A. Because he wanted to win a competition.",
+        "B. Because he was often late for school.",
+        "C. Because his father asked him to do so.",
+        "D. Because he wanted to help deaf people."
       ],
-      "correct_answer": "C",
-      "explanation": "这道题考查细节理解。根据文章第二段第一句\"A recent study shows that teenagers need at least 8 hours of sleep every night\"（最新研究表明青少年每晚至少需要8小时睡眠），直接找到答案C。A和B是干扰项（文中提到60%学生睡不到7小时，但这不是需要的时长）；D文中未提及。",
-      "label": "阅读-细节理解"
+      "correct_answer": "B",
+      "explanation": "选B。细节理解题。根据第一段第二句'Bosco... used to be late for school because he couldn't hear his alarm clock'可知，他因为听不到闹钟经常迟到，所以发明了这种闹钟。A是后来的结果，C文中未提及父亲要求，D是他希望帮助的人群但不是最初的发明原因。技巧：细节题要定位原文具体句子，避免主观推断。",
+      "label": "阅读-细节理解",
+      "group": "reading_1",
+      "group_passage": "Do you have trouble waking up in the morning? Bosco, a 14-year-old student from Shenzhen, used to be late for school because he couldn't hear his alarm clock. Instead of complaining, he decided to solve this problem creatively.\n\nLast year, Bosco invented a special alarm clock called \"Shake-Awake\". Different from traditional alarm clocks that only make noise, this device has a vibrating (震动的) pad that goes under the pillow. When it's time to wake up, the pad vibrates gently but strongly enough to wake even heavy sleepers.\n\n\"The idea came to me when I learned about sound waves in physics class,\" Bosco explained. \"I realized that vibration travels through solids better than sound travels through air. So even if someone can't hear well, they can still feel the vibration.\"\n\nBosco spent three months building the prototype (原型). He faced many difficulties, especially with programming the timing system. With help from his father and online tutorials, he finally succeeded. Now he never misses the school bus.\n\nHis invention won first prize in the city youth science competition. The judges praised his creative thinking and practical problem-solving skills. Bosco hopes to improve the design and help more people who are deaf or hard of hearing.\n\n\"It doesn't matter how old you are,\" Bosco said. \"If you observe carefully and keep trying, you can make a difference.\""
     },
     {
       "id": 14,
       "type": "reading",
-      "knowledge_point": "word_guessing",
-      "difficulty": 2,
-      "group": "reading_1",
-      "group_passage": "Do you often feel tired in class? Many students don't get enough sleep because they use smartphones before bed. Scientists have found that the blue light from screens affects our sleep quality.\n\nA recent study shows that teenagers need at least 8 hours of sleep every night. However, about 60% of middle school students sleep less than 7 hours. This can cause problems with memory and concentration.\n\nDr. Li, a sleep expert, suggests some useful tips. First, turn off all electronic devices an hour before bedtime. Second, keep your bedroom cool and dark. Third, try to go to bed at the same time every night. \"Good sleep habits are as important as good study habits,\" says Dr. Li.\n\nSome schools have changed their morning schedules to let students start classes later. Early results show that students feel more energetic and get better grades when they get enough rest.",
-      "stem": "What does the underlined word \"concentration\" in Paragraph 2 probably mean?",
+      "knowledge_point": "inference",
+      "difficulty": 3,
+      "stem": "What can we learn from the passage?",
       "options": [
-        "A. 记忆力",
-        "B. 注意力",
-        "C. 创造力",
-        "D. 想象力"
+        "A. Bosco is good at physics and programming.",
+        "B. Bosco's father is a science teacher.",
+        "C. The invention is only useful for deaf people.",
+        "D. Bosco sold his invention to a company."
       ],
-      "correct_answer": "B",
-      "explanation": "这道题考查词义猜测。根据上下文\"This can cause problems with memory and concentration\"（这会导致记忆力和concentration方面的问题），and连接并列成分，memory是\"记忆力\"，与之并列且与睡眠不足有关的应该是\"注意力\"。睡眠不足会导致上课注意力不集中。A选项是memory的意思；C（创造力）和D（想象力）与睡眠缺乏的直接关联较小。",
-      "label": "阅读-词义猜测"
+      "correct_answer": "A",
+      "explanation": "选A。推理判断题。根据第三段提到'learned about sound waves in physics class'（物理课学习声波）和第四段'especially with programming the timing system'（编写计时程序）可推断Bosco擅长物理和编程。B文中未提及父亲职业；C错误，原文说'even heavy sleepers'也能用，不只是聋人；D文中未提及卖发明。技巧：推理题要基于原文信息合理推断，不能过度推断或选择文中明确否定/未提及的选项。",
+      "label": "阅读-推理判断",
+      "group": "reading_1",
+      "group_passage": "Do you have trouble waking up in the morning? Bosco, a 14-year-old student from Shenzhen, used to be late for school because he couldn't hear his alarm clock. Instead of complaining, he decided to solve this problem creatively.\n\nLast year, Bosco invented a special alarm clock called \"Shake-Awake\". Different from traditional alarm clocks that only make noise, this device has a vibrating (震动的) pad that goes under the pillow. When it's time to wake up, the pad vibrates gently but strongly enough to wake even heavy sleepers.\n\n\"The idea came to me when I learned about sound waves in physics class,\" Bosco explained. \"I realized that vibration travels through solids better than sound travels through air. So even if someone can't hear well, they can still feel the vibration.\"\n\nBosco spent three months building the prototype (原型). He faced many difficulties, especially with programming the timing system. With help from his father and online tutorials, he finally succeeded. Now he never misses the school bus.\n\nHis invention won first prize in the city youth science competition. The judges praised his creative thinking and practical problem-solving skills. Bosco hopes to improve the design and help more people who are deaf or hard of hearing.\n\n\"It doesn't matter how old you are,\" Bosco said. \"If you observe carefully and keep trying, you can make a difference.\""
     },
     {
       "id": 15,
       "type": "reading",
-      "knowledge_point": "inference",
-      "difficulty": 3,
-      "group": "reading_1",
-      "group_passage": "Do you often feel tired in class? Many students don't get enough sleep because they use smartphones before bed. Scientists have found that the blue light from screens affects our sleep quality.\n\nA recent study shows that teenagers need at least 8 hours of sleep every night. However, about 60% of middle school students sleep less than 7 hours. This can cause problems with memory and concentration.\n\nDr. Li, a sleep expert, suggests some useful tips. First, turn off all electronic devices an hour before bedtime. Second, keep your bedroom cool and dark. Third, try to go to bed at the same time every night. \"Good sleep habits are as important as good study habits,\" says Dr. Li.\n\nSome schools have changed their morning schedules to let students start classes later. Early results show that students feel more energetic and get better grades when they get enough rest.",
-      "stem": "What can we infer from the last paragraph?",
+      "knowledge_point": "word_guessing",
+      "difficulty": 2,
+      "stem": "The underlined word \"vibrating\" in Paragraph 2 probably means ______.",
       "options": [
-        "A. All schools will start classes later.",
-        "B. Students hate the new schedule.",
-        "C. Changing schedules is bad for grades.",
-        "D. More sleep may help students study better."
+        "A. making continuous small movements",
+        "B. making loud sounds",
+        "C. sending light signals",
+        "D. producing heat"
       ],
-      "correct_answer": "D",
-      "explanation": "这道题考查推理判断。最后一段提到\"Early results show that students feel more energetic and get better grades when they get enough rest\"（早期结果显示，当学生得到充足休息时，他们感到更有活力且成绩更好），可推断出充足的睡眠有助于学习，D正确。A（所有学校都将推迟上课时间）过于绝对，文中只说some schools；B（学生讨厌新时间表）与文意相反；C（改变时间表对成绩有害）与文中\"get better grades\"矛盾。",
-      "label": "阅读-推理判断"
+      "correct_answer": "A",
+      "explanation": "选A。词义猜测题。根据上下文'goes under the pillow'（放在枕头下）和'wake even heavy sleepers'（唤醒熟睡的人）以及后文'feel the vibration'（感受震动）可知，这是通过持续的小震动来唤醒人，而不是声音、光或热。技巧：利用上下文线索（under the pillow, feel）和常识（枕头下能感受到的是震动）猜测词义。",
+      "label": "阅读-词义猜测",
+      "group": "reading_1",
+      "group_passage": "Do you have trouble waking up in the morning? Bosco, a 14-year-old student from Shenzhen, used to be late for school because he couldn't hear his alarm clock. Instead of complaining, he decided to solve this problem creatively.\n\nLast year, Bosco invented a special alarm clock called \"Shake-Awake\". Different from traditional alarm clocks that only make noise, this device has a vibrating (震动的) pad that goes under the pillow. When it's time to wake up, the pad vibrates gently but strongly enough to wake even heavy sleepers.\n\n\"The idea came to me when I learned about sound waves in physics class,\" Bosco explained. \"I realized that vibration travels through solids better than sound travels through air. So even if someone can't hear well, they can still feel the vibration.\"\n\nBosco spent three months building the prototype (原型). He faced many difficulties, especially with programming the timing system. With help from his father and online tutorials, he finally succeeded. Now he never misses the school bus.\n\nHis invention won first prize in the city youth science competition. The judges praised his creative thinking and practical problem-solving skills. Bosco hopes to improve the design and help more people who are deaf or hard of hearing.\n\n\"It doesn't matter how old you are,\" Bosco said. \"If you observe carefully and keep trying, you can make a difference.\""
     },
     {
       "id": 16,
       "type": "reading",
       "knowledge_point": "main_idea",
       "difficulty": 3,
-      "group": "reading_1",
-      "group_passage": "Do you often feel tired in class? Many students don't get enough sleep because they use smartphones before bed. Scientists have found that the blue light from screens affects our sleep quality.\n\nA recent study shows that teenagers need at least 8 hours of sleep every night. However, about 60% of middle school students sleep less than 7 hours. This can cause problems with memory and concentration.\n\nDr. Li, a sleep expert, suggests some useful tips. First, turn off all electronic devices an hour before bedtime. Second, keep your bedroom cool and dark. Third, try to go to bed at the same time every night. \"Good sleep habits are as important as good study habits,\" says Dr. Li.\n\nSome schools have changed their morning schedules to let students start classes later. Early results show that students feel more energetic and get better grades when they get enough rest.",
-      "stem": "What is the best title for this passage?",
+      "stem": "What's the best title for the passage?",
       "options": [
-        "A. How to Use Smartphones Properly",
-        "B. The Importance of Sleep for Teenagers",
-        "C. Changes in School Schedules",
-        "D. Ways to Get Better Grades"
+        "A. How to Make an Alarm Clock",
+        "B. A Boy Who Likes Sleeping",
+        "C. A Young Inventor's Creative Solution",
+        "D. The Importance of Physics Class"
       ],
-      "correct_answer": "B",
-      "explanation": "这道题考查主旨大意。文章围绕青少年睡眠不足的问题展开，分析了原因（使用手机）、危害（影响记忆力和注意力）、建议（专家三条建议）以及学校的应对措施，核心是睡眠对青少年的重要性。A（如何正确使用手机）只是文中提到的一个细节；C（学校时间表变化）是最后一段的内容；D（提高成绩的方法）过于宽泛。B选项最全面概括文章主旨。",
-      "label": "阅读-主旨大意"
+      "correct_answer": "C",
+      "explanation": "选C。主旨大意题。文章主要讲述了14岁学生Bosco发明震动闹钟解决自己迟到问题的故事，强调年轻发明家的创意和解决问题的能力。A只是细节，不是主旨；B与文意相反（他不是喜欢睡觉而是醒不来）；D只是灵感来源之一。技巧：主旨题要涵盖全文主要内容，不能太大也不能太片面，通常关注首尾段和反复出现的关键词（invented, creative, solution）。",
+      "label": "阅读-主旨大意",
+      "group": "reading_1",
+      "group_passage": "Do you have trouble waking up in the morning? Bosco, a 14-year-old student from Shenzhen, used to be late for school because he couldn't hear his alarm clock. Instead of complaining, he decided to solve this problem creatively.\n\nLast year, Bosco invented a special alarm clock called \"Shake-Awake\". Different from traditional alarm clocks that only make noise, this device has a vibrating (震动的) pad that goes under the pillow. When it's time to wake up, the pad vibrates gently but strongly enough to wake even heavy sleepers.\n\n\"The idea came to me when I learned about sound waves in physics class,\" Bosco explained. \"I realized that vibration travels through solids better than sound travels through air. So even if someone can't hear well, they can still feel the vibration.\"\n\nBosco spent three months building the prototype (原型). He faced many difficulties, especially with programming the timing system. With help from his father and online tutorials, he finally succeeded. Now he never misses the school bus.\n\nHis invention won first prize in the city youth science competition. The judges praised his creative thinking and practical problem-solving skills. Bosco hopes to improve the design and help more people who are deaf or hard of hearing.\n\n\"It doesn't matter how old you are,\" Bosco said. \"If you observe carefully and keep trying, you can make a difference.\""
     },
     {
       "id": 17,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "group": "fill_1",
-      "group_passage": "Starting middle school can be exciting but also challenging. Here are some useful tips to help you adapt to the new environment.\n\n(17)______ Get a planner and write down your homework and important dates. This will help you manage your time better and never miss deadlines.\n\n(18)______ Don't be afraid to ask teachers or classmates when you don't understand something. Everyone needs help sometimes, and it's a great way to learn.\n\n(19)______ Join clubs or sports teams to meet people who share your interests. Having good friends makes school life more enjoyable and less stressful.\n\n(20)______ Remember to exercise regularly and get enough sleep. A healthy body is the foundation of good academic performance.",
       "stem": "(17)______",
       "options": [
-        "A. However, try not to join too many clubs.",
-        "B. First, make sure to stay organized.",
-        "C. In addition, don't hesitate to ask for help.",
-        "D. Finally, keep a balance between study and rest.",
-        "E. Also, try to make new friends."
+        "A. However, this is not necessarily true.",
+        "B. For example, I make a daily schedule and stick to it.",
+        "C. As a result, I can enjoy both study and my hobby.",
+        "D. In addition, hobbies help us relax after a busy day at school.",
+        "E. On the other hand, some students spend too much time on hobbies."
       ],
-      "correct_answer": "B",
-      "explanation": "这道题考查段落衔接。后文提到\"Get a planner... write down homework\"（用计划本记录作业），这些都是关于保持条理、做好组织安排的建议，与B选项\"First, make sure to stay organized\"（首先，确保保持条理）对应。First也表明这是第一条建议，符合文章\"Here are some useful tips\"的总起。",
-      "label": "短文填空"
+      "correct_answer": "A",
+      "explanation": "选A。前文说'很多学生担心爱好会占用学习时间'，后文说'事实上，爱好能帮助我们学得更好'，前后是转折关系，用However（然而）连接。B是举例，C是结果，D是递进，E是对比，均不符合此处逻辑。技巧：However通常用于反驳前文观点，引出相反看法。",
+      "label": "短文填空",
+      "group": "fill_1",
+      "group_passage": "Many students worry that hobbies will take time away from their studies. (17)______ In fact, having hobbies can actually help us study better.\n\n(18)______ When we do things we enjoy, our brains relax and we feel less stressed. This makes it easier to focus on homework later.\n\nI love painting, but I also need to keep up with my schoolwork. (19)______ I finish my homework first, then I paint for 30 minutes before dinner. This way, I don't feel guilty about either activity.\n\n(20)______ My grades have stayed high, and I've improved my painting skills a lot. Remember, balance is the key to a healthy and happy school life."
     },
     {
       "id": 18,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "group": "fill_1",
-      "group_passage": "Starting middle school can be exciting but also challenging. Here are some useful tips to help you adapt to the new environment.\n\n(17)______ Get a planner and write down your homework and important dates. This will help you manage your time better and never miss deadlines.\n\n(18)______ Don't be afraid to ask teachers or classmates when you don't understand something. Everyone needs help sometimes, and it's a great way to learn.\n\n(19)______ Join clubs or sports teams to meet people who share your interests. Having good friends makes school life more enjoyable and less stressful.\n\n(20)______ Remember to exercise regularly and get enough sleep. A healthy body is the foundation of good academic performance.",
       "stem": "(18)______",
       "options": [
-        "A. However, try not to join too many clubs.",
-        "B. First, make sure to stay organized.",
-        "C. In addition, don't hesitate to ask for help.",
-        "D. Finally, keep a balance between study and rest.",
-        "E. Also, try to make new friends."
+        "A. However, this is not necessarily true.",
+        "B. For example, I make a daily schedule and stick to it.",
+        "C. As a result, I can enjoy both study and my hobby.",
+        "D. In addition, hobbies help us relax after a busy day at school.",
+        "E. On the other hand, some students spend too much time on hobbies."
       ],
-      "correct_answer": "C",
-      "explanation": "这道题考查逻辑衔接。后文\"Don't be afraid to ask... when you don't understand\"（不懂就问）与C选项\"don't hesitate to ask for help\"（不要犹豫寻求帮助）完全对应。In addition表示递进，承接上文的First，引出第二条建议。",
-      "label": "短文填空"
+      "correct_answer": "D",
+      "explanation": "选D。前文说'爱好能帮助我们学得更好'，本段具体说明原因：'当我们做喜欢的事时，大脑放松...'，这是补充说明另一个好处，用In addition（此外、另外）表示递进关系。A是转折，B是举例，C是结果，E是对比。",
+      "label": "短文填空",
+      "group": "fill_1",
+      "group_passage": "Many students worry that hobbies will take time away from their studies. (17)______ In fact, having hobbies can actually help us study better.\n\n(18)______ When we do things we enjoy, our brains relax and we feel less stressed. This makes it easier to focus on homework later.\n\nI love painting, but I also need to keep up with my schoolwork. (19)______ I finish my homework first, then I paint for 30 minutes before dinner. This way, I don't feel guilty about either activity.\n\n(20)______ My grades have stayed high, and I've improved my painting skills a lot. Remember, balance is the key to a healthy and happy school life."
     },
     {
       "id": 19,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "group": "fill_1",
-      "group_passage": "Starting middle school can be exciting but also challenging. Here are some useful tips to help you adapt to the new environment.\n\n(17)______ Get a planner and write down your homework and important dates. This will help you manage your time better and never miss deadlines.\n\n(18)______ Don't be afraid to ask teachers or classmates when you don't understand something. Everyone needs help sometimes, and it's a great way to learn.\n\n(19)______ Join clubs or sports teams to meet people who share your interests. Having good friends makes school life more enjoyable and less stressful.\n\n(20)______ Remember to exercise regularly and get enough sleep. A healthy body is the foundation of good academic performance.",
       "stem": "(19)______",
       "options": [
-        "A. However, try not to join too many clubs.",
-        "B. First, make sure to stay organized.",
-        "C. In addition, don't hesitate to ask for help.",
-        "D. Finally, keep a balance between study and rest.",
-        "E. Also, try to make new friends."
+        "A. However, this is not necessarily true.",
+        "B. For example, I make a daily schedule and stick to it.",
+        "C. As a result, I can enjoy both study and my hobby.",
+        "D. In addition, hobbies help us relax after a busy day at school.",
+        "E. On the other hand, some students spend too much time on hobbies."
       ],
-      "correct_answer": "E",
-      "explanation": "这道题考查主题一致性。后文\"Join clubs... meet people... Having good friends\"（参加社团……结识朋友……拥有好朋友）都在讲交友，与E选项\"Also, try to make new friends\"（另外，尝试结交新朋友）对应。Also表示补充，引出第三条建议。",
-      "label": "短文填空"
+      "correct_answer": "B",
+      "explanation": "选B。后文具体描述了'先完成作业，然后画30分钟'的具体安排，这是对'制定时间表并遵守'的举例说明，用For example（例如）。A是转折，C是结果，D是递进，E是对比。技巧：看到后文是具体做法，前文通常是概括性陈述+for example。",
+      "label": "短文填空",
+      "group": "fill_1",
+      "group_passage": "Many students worry that hobbies will take time away from their studies. (17)______ In fact, having hobbies can actually help us study better.\n\n(18)______ When we do things we enjoy, our brains relax and we feel less stressed. This makes it easier to focus on homework later.\n\nI love painting, but I also need to keep up with my schoolwork. (19)______ I finish my homework first, then I paint for 30 minutes before dinner. This way, I don't feel guilty about either activity.\n\n(20)______ My grades have stayed high, and I've improved my painting skills a lot. Remember, balance is the key to a healthy and happy school life."
     },
     {
       "id": 20,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "group": "fill_1",
-      "group_passage": "Starting middle school can be exciting but also challenging. Here are some useful tips to help you adapt to the new environment.\n\n(17)______ Get a planner and write down your homework and important dates. This will help you manage your time better and never miss deadlines.\n\n(18)______ Don't be afraid to ask teachers or classmates when you don't understand something. Everyone needs help sometimes, and it's a great way to learn.\n\n(19)______ Join clubs or sports teams to meet people who share your interests. Having good friends makes school life more enjoyable and less stressful.\n\n(20)______ Remember to exercise regularly and get enough sleep. A healthy body is the foundation of good academic performance.",
       "stem": "(20)______",
       "options": [
-        "A. However, try not to join too many clubs.",
-        "B. First, make sure to stay organized.",
-        "C. In addition, don't hesitate to ask for help.",
-        "D. Finally, keep a balance between study and rest.",
-        "E. Also, try to make new friends."
+        "A. However, this is not necessarily true.",
+        "B. For example, I make a daily schedule and stick to it.",
+        "C. As a Result, I can enjoy both study and my hobby.",
+        "D. In addition, hobbies help us relax after a busy day at school.",
+        "E. On the other hand, some students spend too much time on hobbies."
       ],
-      "correct_answer": "D",
-      "explanation": "这道题考查文章结构。Finally（最后）表示顺序的结束，用于最后一条建议。后文\"exercise regularly and get enough sleep\"（规律锻炼和充足睡眠）讲的是劳逸结合、保持健康，与D选项\"keep a balance between study and rest\"（保持学习和休息的平衡）对应。A选项为干扰项，与后文不符。",
-      "label": "短文填空"
+      "correct_answer": "C",
+      "explanation": "选C。前文描述了平衡安排的具体做法，后文'成绩保持优秀且绘画技巧提高'是这种做法带来的结果，用As a result（因此、结果）。A是转折，B是举例，D是递进，E是干扰项（未使用）。技巧：As a result通常用于总结前文措施带来的积极后果。",
+      "label": "短文填空",
+      "group": "fill_1",
+      "group_passage": "Many students worry that hobbies will take time away from their studies. (17)______ In fact, having hobbies can actually help us study better.\n\n(18)______ When we do things we enjoy, our brains relax and we feel less stressed. This makes it easier to focus on homework later.\n\nI love painting, but I also need to keep up with my schoolwork. (19)______ I finish my homework first, then I paint for 30 minutes before dinner. This way, I don't feel guilty about either activity.\n\n(20)______ My grades have stayed high, and I've improved my painting skills a lot. Remember, balance is the key to a healthy and happy school life."
     }
   ]
 }
