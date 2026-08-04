@@ -1,5 +1,5 @@
 ﻿{
-  "date": "2026-08-04",
+  "date": "2026-08-05",
   "session_number": 1,
   "questions": [
     {
@@ -7,15 +7,15 @@
       "type": "grammar",
       "knowledge_point": "present_perfect_vs_past_simple",
       "difficulty": 2,
-      "stem": "—Can I watch TV now, Mom?\n—Yes, you can. But you must finish your homework first.\n—Don't worry. I _____ it already.",
+      "stem": "I ______ my homework already. I ______ it an hour ago.",
       "options": [
-        "A. finished",
-        "B. have finished",
-        "C. finish",
-        "D. had finished"
+        "A. have finished; finished",
+        "B. finished; have finished",
+        "C. have finished; have finished",
+        "D. finished; finished"
       ],
-      "correct_answer": "B",
-      "explanation": "本题考查现在完成时与一般过去时的区别。答句中的\"already\"（已经）是现在完成时的标志词，强调过去完成的动作对现在造成的影响（作业已经完成了，所以现在可以看电视）。A选项finished是一般过去时，仅表示过去发生的动作，不强调对现在的影响；C选项finish是一般现在时，不符合语境；D选项had finished是过去完成时，表示\"过去的过去\"，此处没有对比的过去时间点，因此不选。解题技巧：看到already/yet/just等标志词，优先考虑现在完成时。",
+      "correct_answer": "A",
+      "explanation": "第一空后面有already（已经），这是现在完成时的标志词，表示过去动作对现在的影响，用have finished；第二空后面有an hour ago（一小时前），这是一般过去时的标志，表示过去某个具体时间发生的动作，用finished。口诀：already现完，ago过完。",
       "label": "语法题"
     },
     {
@@ -23,7 +23,7 @@
       "type": "grammar",
       "knowledge_point": "relative_clause_who_which",
       "difficulty": 2,
-      "stem": "The girl _____ won the first prize is my best friend. She practiced very hard for the competition.",
+      "stem": "The boy ______ is reading under the tree is my brother.",
       "options": [
         "A. who",
         "B. which",
@@ -31,7 +31,7 @@
         "D. whose"
       ],
       "correct_answer": "A",
-      "explanation": "本题考查定语从句关系代词的选择。先行词\"The girl\"指人，且在定语从句\"_____ won the first prize\"中作主语，因此应使用关系代词who。B选项which用于指物；C选项whom虽然指人，但只能作宾语；D选项whose表示\"...的\"，在从句中作定语，后需接名词。解题技巧：指人用who/whom/that，指物用which/that；从句缺主语用who/which，缺宾语用whom/which/who。",
+      "explanation": "先行词是The boy（指人），定语从句中缺少主语，因此用关系代词who。which用于指物；whom用于指人但在从句中作宾语；whose表示所属关系'谁的'。解题技巧：指人作主语用who，指物作主语用which/that。",
       "label": "语法题"
     },
     {
@@ -39,31 +39,31 @@
       "type": "grammar",
       "knowledge_point": "passive_voice",
       "difficulty": 1,
-      "stem": "The new library _____ last month. It will open to the students next week.",
+      "stem": "These books ______ to the library tomorrow.",
       "options": [
-        "A. builds",
-        "B. built",
-        "C. was built",
-        "D. is built"
+        "A. will return",
+        "B. will be returned",
+        "C. are returned",
+        "D. returned"
       ],
-      "correct_answer": "C",
-      "explanation": "本题考查被动语态。主语\"The new library\"（新图书馆）是动作\"建造\"的承受者，因此需用被动语态，结构为\"be + 过去分词\"。时间状语\"last month\"（上个月）表明是一般过去时，因此用was built。A选项builds是主动语态一般现在时；B选项built是主动语态一般过去时；D选项is built是一般现在时被动，时态不符。解题技巧：找主语和动词的关系，是\"被做\"就用被动；再看时间状语确定时态。",
+      "correct_answer": "B",
+      "explanation": "tomorrow表明用一般将来时；books与return之间是被动关系（书被归还），因此用一般将来时的被动语态will be returned。A是主动语态；C是一般现在时被动；D是一般过去时主动。",
       "label": "语法题"
     },
     {
       "id": 4,
       "type": "grammar",
-      "knowledge_point": "modal_verbs_speculation",
+      "knowledge_point": "present_perfect_vs_past_simple",
       "difficulty": 3,
-      "stem": "—_____ it be true that our school will have a three-day holiday next week?\n—It _____ be true. The headmaster has just confirmed it in the meeting.",
+      "stem": "—______ you ever ______ to the new museum?\n—Yes, I ______ there last Sunday. It was amazing.",
       "options": [
-        "A. Must; must",
-        "B. Can; can't",
-        "C. Must; can",
-        "D. Can; must"
+        "A. Did; go; went",
+        "B. Have; been; went",
+        "C. Have; gone; went",
+        "D. Have; been; have gone"
       ],
-      "correct_answer": "D",
-      "explanation": "本题考查情态动词表推测的用法。第一空在疑问句中表示\"可能\"，用Can，Must只能用于肯定句表推测；第二空根据\"校长刚刚在会议上确认了\"可知是肯定推测，用must表示\"一定\"。can't表示否定推测\"不可能\"，不符合语境。解题技巧：表推测时，肯定句用must（一定）/may（可能）/can't（不可能）；疑问句和否定句用can；mustn't表示\"禁止\"，不表推测。",
+      "correct_answer": "B",
+      "explanation": "第一空ever（曾经）是现在完成时标志，且答句表明去过已回，用have been to；第二空last Sunday（上周日）是一般过去时标志，用went。干扰项C have gone to表示去了未回，与答句矛盾；A第一空时态错误；D第二空时态错误。",
       "label": "语法题"
     },
     {
@@ -71,137 +71,137 @@
       "type": "vocabulary",
       "knowledge_point": "phrasal_verbs",
       "difficulty": 1,
-      "stem": "We should _____ our old books to the children in poor areas instead of throwing them away.",
+      "stem": "Please ______ the lights when you leave the room to save energy.",
       "options": [
-        "A. give away",
-        "B. give up",
-        "C. give in",
-        "D. give out"
+        "A. turn on",
+        "B. turn off",
+        "C. turn up",
+        "D. turn down"
       ],
-      "correct_answer": "A",
-      "explanation": "本题考查动词短语辨析。give away表示\"捐赠、赠送\"；give up表示\"放弃\"；give in表示\"屈服、让步\"；give out表示\"分发、耗尽\"。根据语境\"给贫困地区的孩子\"和\"而不是扔掉\"，应选\"捐赠\"。解题技巧：记住give相关短语的核心含义，away（离开/送走）、up（向上/放弃）、in（向内/屈服）、out（向外/分发）。",
+      "correct_answer": "B",
+      "explanation": "turn off表示'关闭'，符合'离开房间省电'的语境。turn on打开；turn up调大（音量）；turn down调小（音量）/拒绝。根据save energy（节能）可知要离开时关灯。",
       "label": "词汇题"
     },
     {
       "id": 6,
       "type": "vocabulary",
-      "knowledge_point": "word_formation_suffix",
+      "knowledge_point": "suffix",
       "difficulty": 2,
-      "stem": "The news that our team won the game was really _____. Everyone cheered loudly.",
+      "stem": "The news about the environmental protection is very ______. It makes us think deeply.",
       "options": [
-        "A. excited",
-        "B. exciting",
-        "C. excite",
-        "D. excitement"
+        "A. help",
+        "B. helpful",
+        "C. helpless",
+        "D. helping"
       ],
       "correct_answer": "B",
-      "explanation": "本题考查词性转换及-ing/-ed形容词区别。修饰\"news\"（消息）要用-ing结尾的形容词exciting（令人兴奋的），表示事物本身的性质；excited（感到兴奋的）用于修饰人，表示人的感受；excite是动词；excitement是名词。解题技巧：-ing形容词修饰\"物\"，-ed形容词修饰\"人\"；口诀：\"令人-ing，感到-ed\"。",
+      "explanation": "-ful是形容词后缀，表示'充满...的'，helpful意为'有益的、有帮助的'，符合句意'这条新闻很有意义'。help是动词/名词；helpless表示'无助的'，与句意相反；helping是动名词。",
       "label": "词汇题"
     },
     {
       "id": 7,
       "type": "vocabulary",
-      "knowledge_point": "word_guessing_context",
+      "knowledge_point": "word_formation",
       "difficulty": 2,
-      "stem": "The weather was extremely hot, so the ice cream in my hand began to melt quickly. The word \"melt\" means _____.",
+      "stem": "With the ______ of technology, our life has become more convenient.",
       "options": [
-        "A. 结冰",
-        "B. 融化",
-        "C. 变硬",
-        "D. 冻结"
+        "A. develop",
+        "B. development",
+        "C. developing",
+        "D. developed"
       ],
       "correct_answer": "B",
-      "explanation": "本题考查通过上下文猜测词义。根据前文\"天气极热\"和后文\"冰淇淋\"可推断，热天冰淇淋会\"融化\"。A、C、D选项都是与\"热\"相反的结果。解题技巧：猜词题要关注因果、转折、并列等逻辑关系，以及同义/反义提示；本题为因果逻辑（热→融化）。",
+      "explanation": "定冠词the后面需要接名词，development是develop的名词形式，意为'发展'。develop是动词；developing是现在分词/形容词（发展中的）；developed是过去分词/形容词（发达的）。固定搭配with the development of（随着...的发展）。",
       "label": "词汇题"
     },
     {
       "id": 8,
       "type": "cloze",
-      "knowledge_point": "cloze_context",
+      "knowledge_point": "cloze_general",
       "difficulty": 2,
-      "group": "cloze_1",
-      "group_passage": "Last week, our school held an activity called \"Green Week\". The purpose was to help students understand the importance of protecting the environment.\n\nDuring the week, we did many meaningful things. On Monday, our teacher asked us to (8)_____ a poster about saving water. My classmates and I worked together. We drew pictures and wrote some useful tips on it.\n\nOn Wednesday, we went to a nearby park to pick up rubbish. At first, some students thought it was (9)_____ and didn't want to do it. But when they saw how dirty the park was, they changed their minds. We collected three big bags of rubbish in total.\n\nThe most interesting part was on Friday. We (10)_____ old items like bottles and paper to make beautiful art works. I made a pen holder with a plastic bottle. It looked great on my desk.\n\nThrough this activity, I realized that protecting the environment isn't just something for scientists. Everyone can do their part. Even small actions can make a big (11)_____. I hope more students will join us and care about the world we live (12)_____.",
-      "stem": "(8)_____",
+      "stem": "(8)___",
       "options": [
-        "A. make",
-        "B. buy",
-        "C. borrow",
-        "D. receive"
+        "A. came up with",
+        "B. looked forward to",
+        "C. ran away from",
+        "D. got on with"
       ],
       "correct_answer": "A",
-      "explanation": "本题考查语境推理。根据下文\"We drew pictures and wrote some useful tips on it\"（我们在上面画画并写上提示）可知，老师让我们\"制作\"海报，make符合语境。buy（买）、borrow（借）、receive（收到）均与后文\"自己动手做\"的描述不符。解题技巧：完形填空要关注上下文动作的逻辑链，后文具体描述制作过程的细节是前文的提示。",
+      "group": "cloze_1",
+      "group_passage": "Last month, our school held a Science Fair. All the students were asked to (8)___ creative projects that could help solve environmental problems in our daily life.\n\nMy classmate Tom and I decided to work together. We noticed that too much plastic waste (塑料垃圾) was produced in the school cafeteria (食堂) every day. We wanted to find a way to (9)___ it. After doing some research online, we learned (10)___ some plants could be used to make eco-friendly (环保的) lunch boxes.\n\nWe spent two weeks making our project. First, we collected leaves and stems from the school garden. Then we dried them and mixed them with natural glue. The most (11)___ part was shaping the mixture into boxes. We failed many times, but we never gave up. Finally, we made three perfect lunch boxes.\n\nOn the day of the Science Fair, many students and teachers came to see our project. They were surprised that our lunch boxes were not only cheap to make but also completely biodegradable (可生物降解的). The judges were impressed by our work. In the end, we (12)___ the first prize.",
+      "explanation": "come up with意为'想出、提出（主意、计划等）'，符合语境'想出创意项目'。look forward to期待；run away from逃离；get on with与...相处/继续做。根据宾语creative projects可知选A。",
       "label": "完形填空"
     },
     {
       "id": 9,
       "type": "cloze",
-      "knowledge_point": "cloze_emotion",
-      "difficulty": 1,
-      "group": "cloze_1",
-      "group_passage": "Last week, our school held an activity called \"Green Week\". The purpose was to help students understand the importance of protecting the environment.\n\nDuring the week, we did many meaningful things. On Monday, our teacher asked us to (8)_____ a poster about saving water. My classmates and I worked together. We drew pictures and wrote some useful tips on it.\n\nOn Wednesday, we went to a nearby park to pick up rubbish. At first, some students thought it was (9)_____ and didn't want to do it. But when they saw how dirty the park was, they changed their minds. We collected three big bags of rubbish in total.\n\nThe most interesting part was on Friday. We (10)_____ old items like bottles and paper to make beautiful art works. I made a pen holder with a plastic bottle. It looked great on my desk.\n\nThrough this activity, I realized that protecting the environment isn't just something for scientists. Everyone can do their part. Even small actions can make a big (11)_____. I hope more students will join us and care about the world we live (12)_____.",
-      "stem": "(9)_____",
+      "knowledge_point": "cloze_general",
+      "difficulty": 2,
+      "stem": "(9)___",
       "options": [
-        "A. boring",
-        "B. interesting",
-        "C. necessary",
-        "D. important"
+        "A. reuse",
+        "B. reduce",
+        "C. recycle",
+        "D. review"
       ],
-      "correct_answer": "A",
-      "explanation": "本题考查情感线索与转折关系。根据后文\"didn't want to do it\"（不想做）和转折词\"But\"可知，起初学生们觉得这件事\"无聊\"，所以才不愿意做。boring（无聊的）符合消极态度；interesting（有趣的）、necessary（必要的）、important（重要的）都是积极态度，与\"不想做\"矛盾。解题技巧：抓住\"but/however\"等转折词，前后情感态度通常相反。",
+      "correct_answer": "B",
+      "group": "cloze_1",
+      "group_passage": "Last month, our school held a Science Fair. All the students were asked to (8)___ creative projects that could help solve environmental problems in our daily life.\n\nMy classmate Tom and I decided to work together. We noticed that too much plastic waste (塑料垃圾) was produced in the school cafeteria (食堂) every day. We wanted to find a way to (9)___ it. After doing some research online, we learned (10)___ some plants could be used to make eco-friendly (环保的) lunch boxes.\n\nWe spent two weeks making our project. First, we collected leaves and stems from the school garden. Then we dried them and mixed them with natural glue. The most (11)___ part was shaping the mixture into boxes. We failed many times, but we never gave up. Finally, we made three perfect lunch boxes.\n\nOn the day of the Science Fair, many students and teachers came to see our project. They were surprised that our lunch boxes were not only cheap to make but also completely biodegradable (可生物降解的). The judges were impressed by our work. In the end, we (12)___ the first prize.",
+      "explanation": "reduce意为'减少'，前文提到'太多塑料垃圾'，所以目标是'减少'垃圾。reuse重复使用；recycle回收利用；review复习。根据上下文逻辑，先reduce减少产生，比recycle更符合语境，因为他们是要替代塑料餐盒。",
       "label": "完形填空"
     },
     {
       "id": 10,
       "type": "cloze",
-      "knowledge_point": "cloze_general",
+      "knowledge_point": "relative_clause_who_which",
       "difficulty": 2,
-      "group": "cloze_1",
-      "group_passage": "Last week, our school held an activity called \"Green Week\". The purpose was to help students understand the importance of protecting the environment.\n\nDuring the week, we did many meaningful things. On Monday, our teacher asked us to (8)_____ a poster about saving water. My classmates and I worked together. We drew pictures and wrote some useful tips on it.\n\nOn Wednesday, we went to a nearby park to pick up rubbish. At first, some students thought it was (9)_____ and didn't want to do it. But when they saw how dirty the park was, they changed their minds. We collected three big bags of rubbish in total.\n\nThe most interesting part was on Friday. We (10)_____ old items like bottles and paper to make beautiful art works. I made a pen holder with a plastic bottle. It looked great on my desk.\n\nThrough this activity, I realized that protecting the environment isn't just something for scientists. Everyone can do their part. Even small actions can make a big (11)_____. I hope more students will join us and care about the world we live (12)_____.",
-      "stem": "(10)_____",
+      "stem": "(10)___",
       "options": [
-        "A. sold",
-        "B. threw",
-        "C. reused",
-        "D. hid"
+        "A. when",
+        "B. where",
+        "C. that",
+        "D. who"
       ],
       "correct_answer": "C",
-      "explanation": "本题考查语境推理与词汇复现。根据\"old items like bottles and paper to make beautiful art works\"（用旧物品制作艺术品）可知，这是\"重复利用、再利用\"，reused符合环保主题。sold（卖）、threw（扔）、hid（藏）均不符合\"变废为宝\"的语境。解题技巧：关注文章主题（本文是环保），选项需与主题一致；reuse=use again，前缀re-表示\"再次\"。",
+      "group": "cloze_1",
+      "group_passage": "Last month, our school held a Science Fair. All the students were asked to (8)___ creative projects that could help solve environmental problems in our daily life.\n\nMy classmate Tom and I decided to work together. We noticed that too much plastic waste (塑料垃圾) was produced in the school cafeteria (食堂) every day. We wanted to find a way to (9)___ it. After doing some research online, we learned (10)___ some plants could be used to make eco-friendly (环保的) lunch boxes.\n\nWe spent two weeks making our project. First, we collected leaves and stems from the school garden. Then we dried them and mixed them with natural glue. The most (11)___ part was shaping the mixture into boxes. We failed many times, but we never gave up. Finally, we made three perfect lunch boxes.\n\nOn the day of the Science Fair, many students and teachers came to see our project. They were surprised that our lunch boxes were not only cheap to make but also completely biodegradable (可生物降解的). The judges were impressed by our work. In the end, we (12)___ the first prize.",
+      "explanation": "考查宾语从句连接词。learned后面是宾语从句，从句'some plants could be used...'是完整陈述句，用that引导（that可省略，但选项中有that）。when/when在从句中作状语，who指人，此处从句不缺成分且指事，用that。",
       "label": "完形填空"
     },
     {
       "id": 11,
       "type": "cloze",
-      "knowledge_point": "cloze_collocation",
-      "difficulty": 2,
-      "group": "cloze_1",
-      "group_passage": "Last week, our school held an activity called \"Green Week\". The purpose was to help students understand the importance of protecting the environment.\n\nDuring the week, we did many meaningful things. On Monday, our teacher asked us to (8)_____ a poster about saving water. My classmates and I worked together. We drew pictures and wrote some useful tips on it.\n\nOn Wednesday, we went to a nearby park to pick up rubbish. At first, some students thought it was (9)_____ and didn't want to do it. But when they saw how dirty the park was, they changed their minds. We collected three big bags of rubbish in total.\n\nThe most interesting part was on Friday. We (10)_____ old items like bottles and paper to make beautiful art works. I made a pen holder with a plastic bottle. It looked great on my desk.\n\nThrough this activity, I realized that protecting the environment isn't just something for scientists. Everyone can do their part. Even small actions can make a big (11)_____. I hope more students will join us and care about the world we live (12)_____.",
-      "stem": "(11)_____",
+      "knowledge_point": "cloze_general",
+      "difficulty": 1,
+      "stem": "(11)___",
       "options": [
-        "A. mistake",
-        "B. difference",
-        "C. progress",
-        "D. decision"
+        "A. easy",
+        "B. difficult",
+        "C. possible",
+        "D. necessary"
       ],
       "correct_answer": "B",
-      "explanation": "本题考查固定搭配。make a difference是固定短语，意为\"有影响、起作用\"，符合句意\"即使是小行动也能产生大影响\"。make a mistake（犯错）、make progress（取得进步）、make a decision（做决定）均不符合语境。解题技巧：积累常见名词与make的搭配，difference表示\"差异\"，引申为\"改变/影响\"。",
+      "group": "cloze_1",
+      "group_passage": "Last month, our school held a Science Fair. All the students were asked to (8)___ creative projects that could help solve environmental problems in our daily life.\n\nMy classmate Tom and I decided to work together. We noticed that too much plastic waste (塑料垃圾) was produced in the school cafeteria (食堂) every day. We wanted to find a way to (9)___ it. After doing some research online, we learned (10)___ some plants could be used to make eco-friendly (环保的) lunch boxes.\n\nWe spent two weeks making our project. First, we collected leaves and stems from the school garden. Then we dried them and mixed them with natural glue. The most (11)___ part was shaping the mixture into boxes. We failed many times, but we never gave up. Finally, we made three perfect lunch boxes.\n\nOn the day of the Science Fair, many students and teachers came to see our project. They were surprised that our lunch boxes were not only cheap to make but also completely biodegradable (可生物降解的). The judges were impressed by our work. In the end, we (12)___ the first prize.",
+      "explanation": "根据下文'We failed many times（我们失败了很多次）'可知，这部分是'最困难的'。difficult困难的，符合语境。easy容易的，与文意相反；possible可能的；necessary必要的。",
       "label": "完形填空"
     },
     {
       "id": 12,
       "type": "cloze",
-      "knowledge_point": "cloze_grammar_preposition",
+      "knowledge_point": "passive_voice",
       "difficulty": 1,
-      "group": "cloze_1",
-      "group_passage": "Last week, our school held an activity called \"Green Week\". The purpose was to help students understand the importance of protecting the environment.\n\nDuring the week, we did many meaningful things. On Monday, our teacher asked us to (8)_____ a poster about saving water. My classmates and I worked together. We drew pictures and wrote some useful tips on it.\n\nOn Wednesday, we went to a nearby park to pick up rubbish. At first, some students thought it was (9)_____ and didn't want to do it. But when they saw how dirty the park was, they changed their minds. We collected three big bags of rubbish in total.\n\nThe most interesting part was on Friday. We (10)_____ old items like bottles and paper to make beautiful art works. I made a pen holder with a plastic bottle. It looked great on my desk.\n\nThrough this activity, I realized that protecting the environment isn't just something for scientists. Everyone can do their part. Even small actions can make a big (11)_____. I hope more students will join us and care about the world we live (12)_____.",
-      "stem": "(12)_____",
+      "stem": "(12)___",
       "options": [
-        "A. on",
-        "B. at",
-        "C. in",
-        "D. for"
+        "A. were awarded",
+        "B. awarded",
+        "C. have awarded",
+        "D. are awarding"
       ],
-      "correct_answer": "C",
-      "explanation": "本题考查介词搭配。live in是固定搭配，意为\"居住在...\"，后接表示地点的名词。we live in是定语从句修饰the world，in不可省略。live on（以...为生/住在...上面）、live at（后接小地点）、live for（为...而活）均不符合。解题技巧：定语从句中，当关系代词that/which作live的宾语且被省略时，介词in要保留；the world we live in=the world in which we live。",
+      "correct_answer": "A",
+      "group": "cloze_1",
+      "group_passage": "Last month, our school held a Science Fair. All the students were asked to (8)___ creative projects that could help solve environmental problems in our daily life.\n\nMy classmate Tom and I decided to work together. We noticed that too much plastic waste (塑料垃圾) was produced in the school cafeteria (食堂) every day. We wanted to find a way to (9)___ it. After doing some research online, we learned (10)___ some plants could be used to make eco-friendly (环保的) lunch boxes.\n\nWe spent two weeks making our project. First, we collected leaves and stems from the school garden. Then we dried them and mixed them with natural glue. The most (11)___ part was shaping the mixture into boxes. We failed many times, but we never gave up. Finally, we made three perfect lunch boxes.\n\nOn the day of the Science Fair, many students and teachers came to see our project. They were surprised that our lunch boxes were not only cheap to make but also completely biodegradable (可生物降解的). The judges were impressed by our work. In the end, we (12)___ the first prize.",
+      "explanation": "we与award（授予）之间是被动关系，我们被授予一等奖，用被动语态。全文是过去时态，用一般过去时的被动语态were awarded。B是主动语态；C是现在完成时主动；D是现在进行时主动。",
       "label": "完形填空"
     },
     {
@@ -209,71 +209,71 @@
       "type": "reading",
       "knowledge_point": "detail",
       "difficulty": 2,
-      "group": "reading_1",
-      "group_passage": "Do you know that bananas can help you sleep better? Many people have trouble falling asleep at night. They often feel tired during the day because they don't get enough rest. Some people take medicine to help them sleep, but that can be expensive and sometimes unhealthy. Scientists have found a simple, natural way to solve this problem, and it is probably already in your kitchen.\n\nBananas contain a kind of chemical called tryptophan (色氨酸). This special chemical helps your body produce melatonin (褪黑素), which controls your sleep cycle naturally. When you eat a banana about one hour before bed, the tryptophan slowly enters your body and helps your muscles relax. Your mind becomes calmer, making it easier to fall asleep.\n\nHowever, eating too many bananas is not good. One medium banana is enough for most people. Also, timing is important. You should eat it about one hour before you plan to sleep. If you eat it right before lying down, your stomach might feel uncomfortable because it is still working to digest (消化) the food.\n\nBesides helping with sleep, bananas offer other health benefits. They are rich in potassium (钾), which is good for your heart and muscles. Many students in our school have tried this method. Tom, a 14-year-old boy, said, \"I used to stay awake until midnight. But after eating a banana before bed for a week, I can fall asleep much faster now.\" Next time you find yourself counting sheep at midnight, try reaching for a banana instead!",
-      "stem": "According to the passage, which chemical in bananas helps with sleep?",
+      "stem": "What happens when food waste goes to landfills according to the passage?",
       "options": [
-        "A. Melatonin",
-        "B. Potassium",
-        "C. Tryptophan",
-        "D. Protein"
+        "A. It saves money.",
+        "B. It produces greenhouse gases.",
+        "C. It helps poor children.",
+        "D. It makes food cheaper."
       ],
-      "correct_answer": "C",
-      "explanation": "本题为细节理解题。根据第二段第一句\"Bananas contain a kind of chemical called tryptophan\"和第二句\"This special chemical helps your body produce melatonin\"可知，香蕉中含有的是tryptophan（色氨酸），它帮助身体产生melatonin（褪黑素）。因此直接帮助睡眠的化学物质是tryptophan。A选项Melatonin是身体产生的，不是香蕉直接含有的；B选项Potassium是钾，对心脏和肌肉有益，但与睡眠无直接关系；D选项Protein文章未提及。解题技巧：细节题要准确定位原文，注意区分\"含有\"和\"产生\"的逻辑关系。",
+      "correct_answer": "B",
+      "group": "reading_1",
+      "group_passage": "Food waste is a big problem around the world. According to a report, about one-third of all food produced globally is wasted every year. This not only wastes money but also harms the environment. When food waste goes to landfills (垃圾填埋场), it produces greenhouse gases (温室气体) which cause climate change.\n\nTo solve this problem, a group of middle school students in Shenzhen started an interesting project called \"Clean Your Plate\" (光盘行动). They encouraged their classmates to take only the food they could finish during lunch time. They also designed creative posters and put them up in the dining hall to remind everyone not to waste food.\n\n\"At first, some students didn't take it seriously,\" said Li Wei, the leader of the group. \"But when we showed them photos of hungry children in poor areas and explained how food waste affects the environment, they began to change their behavior. Now, most students finish their meals completely.\"\n\nThe project has been running for six months. The results are surprising. The amount of food waste in the school cafeteria has dropped by 40%. The school also saved money, which was later used to buy books for the library.\n\nThe success of this project shows that small actions can make a big difference. As one teacher said, \"You don't need to do something huge to help the environment. Starting with your daily meals is a great choice.\"",
+      "explanation": "细节理解题。根据第一段最后一句'When food waste goes to landfills, it produces greenhouse gases which cause climate change.'可知，食物垃圾进入垃圾填埋场会产生温室气体。A选项与原文wastes money相反；C、D未提及。",
       "label": "阅读-细节理解"
     },
     {
       "id": 14,
       "type": "reading",
-      "knowledge_point": "inference",
-      "difficulty": 3,
-      "group": "reading_1",
-      "group_passage": "Do you know that bananas can help you sleep better? Many people have trouble falling asleep at night. They often feel tired during the day because they don't get enough rest. Some people take medicine to help them sleep, but that can be expensive and sometimes unhealthy. Scientists have found a simple, natural way to solve this problem, and it is probably already in your kitchen.\n\nBananas contain a kind of chemical called tryptophan (色氨酸). This special chemical helps your body produce melatonin (褪黑素), which controls your sleep cycle naturally. When you eat a banana about one hour before bed, the tryptophan slowly enters your body and helps your muscles relax. Your mind becomes calmer, making it easier to fall asleep.\n\nHowever, eating too many bananas is not good. One medium banana is enough for most people. Also, timing is important. You should eat it about one hour before you plan to sleep. If you eat it right before lying down, your stomach might feel uncomfortable because it is still working to digest (消化) the food.\n\nBesides helping with sleep, bananas offer other health benefits. They are rich in potassium (钾), which is good for your heart and muscles. Many students in our school have tried this method. Tom, a 14-year-old boy, said, \"I used to stay awake until midnight. But after eating a banana before bed for a week, I can fall asleep much faster now.\" Next time you find yourself counting sheep at midnight, try reaching for a banana instead!",
-      "stem": "What can we infer from Tom's words in the last paragraph?",
+      "knowledge_point": "word_guessing_context",
+      "difficulty": 2,
+      "stem": "The underlined word \"remind\" in Paragraph 2 probably means ______.",
       "options": [
-        "A. Tom doesn't like the taste of bananas.",
-        "B. Tom had sleep problems before trying this method.",
-        "C. Tom prefers taking medicine to eating bananas.",
-        "D. Tom thinks bananas are too expensive."
+        "A. 提醒",
+        "B. 允许",
+        "C. 强迫",
+        "D. 警告"
       ],
-      "correct_answer": "B",
-      "explanation": "本题为推理判断题。根据Tom所说\"I used to stay awake until midnight\"（我过去常常熬到半夜）和\"I can fall asleep much faster now\"（现在能更快入睡）可推断，Tom以前有睡眠问题。A选项说Tom不喜欢香蕉味道，与原文积极评价相反；C选项说他更喜欢吃药，文中未提及比较；D选项说香蕉太贵，与第一段\"expensive\"形容药物而非香蕉矛盾。解题技巧：推理题要基于原文信息进行合理推断，不能过度推断或加入个人想象；关注引语中的对比（used to vs now）。",
-      "label": "阅读-推理判断"
+      "correct_answer": "A",
+      "group": "reading_1",
+      "group_passage": "Food waste is a big problem around the world. According to a report, about one-third of all food produced globally is wasted every year. This not only wastes money but also harms the environment. When food waste goes to landfills (垃圾填埋场), it produces greenhouse gases (温室气体) which cause climate change.\n\nTo solve this problem, a group of middle school students in Shenzhen started an interesting project called \"Clean Your Plate\" (光盘行动). They encouraged their classmates to take only the food they could finish during lunch time. They also designed creative posters and put them up in the dining hall to remind everyone not to waste food.\n\n\"At first, some students didn't take it seriously,\" said Li Wei, the leader of the group. \"But when we showed them photos of hungry children in poor areas and explained how food waste affects the environment, they began to change their behavior. Now, most students finish their meals completely.\"\n\nThe project has been running for six months. The results are surprising. The amount of food waste in the school cafeteria has dropped by 40%. The school also saved money, which was later used to buy books for the library.\n\nThe success of this project shows that small actions can make a big difference. As one teacher said, \"You don't need to do something huge to help the environment. Starting with your daily meals is a great choice.\"",
+      "explanation": "词义猜测题。根据上下文，学生们设计海报贴在食堂是为了'提醒'大家不要浪费食物。remind sb. not to do sth.表示'提醒某人不要做某事'。allow允许；force强迫；warn警告（语气过重，不符合语境）。",
+      "label": "阅读-词义猜测"
     },
     {
       "id": 15,
       "type": "reading",
-      "knowledge_point": "word_guessing",
-      "difficulty": 2,
-      "group": "reading_1",
-      "group_passage": "Do you know that bananas can help you sleep better? Many people have trouble falling asleep at night. They often feel tired during the day because they don't get enough rest. Some people take medicine to help them sleep, but that can be expensive and sometimes unhealthy. Scientists have found a simple, natural way to solve this problem, and it is probably already in your kitchen.\n\nBananas contain a kind of chemical called tryptophan (色氨酸). This special chemical helps your body produce melatonin (褪黑素), which controls your sleep cycle naturally. When you eat a banana about one hour before bed, the tryptophan slowly enters your body and helps your muscles relax. Your mind becomes calmer, making it easier to fall asleep.\n\nHowever, eating too many bananas is not good. One medium banana is enough for most people. Also, timing is important. You should eat it about one hour before you plan to sleep. If you eat it right before lying down, your stomach might feel uncomfortable because it is still working to digest (消化) the food.\n\nBesides helping with sleep, bananas offer other health benefits. They are rich in potassium (钾), which is good for your heart and muscles. Many students in our school have tried this method. Tom, a 14-year-old boy, said, \"I used to stay awake until midnight. But after eating a banana before bed for a week, I can fall asleep much faster now.\" Next time you find yourself counting sheep at midnight, try reaching for a banana instead!",
-      "stem": "The underlined word \"digest\" in Paragraph 3 probably means _____.",
+      "knowledge_point": "inference",
+      "difficulty": 3,
+      "stem": "What can we infer from the passage?",
       "options": [
-        "A. 消化",
-        "B. 吸收",
-        "C. 储存",
-        "D. 分解"
+        "A. All students refused to join the project at first.",
+        "B. The school bought books with the money from food sales.",
+        "C. The \"Clean Your Plate\" project has worked well.",
+        "D. Food waste is not a serious problem in China."
       ],
-      "correct_answer": "A",
-      "explanation": "本题为词义猜测题。根据上下文\"If you eat it right before lying down, your stomach might feel uncomfortable because it is still working to digest the food\"（如果躺下前立即吃，胃可能会不舒服，因为它还在努力digest食物），结合常识，胃对食物进行的是\"消化\"工作。B选项absorb（吸收）主要发生在肠道；C选项store（储存）与\"working\"（工作）和\"uncomfortable\"（不舒服）语境不符；D选项decompose（分解）通常指腐烂分解，过于负面。解题技巧：利用生活常识和上下文因果逻辑（胃工作→消化）猜词。",
-      "label": "阅读-词义猜测"
+      "correct_answer": "C",
+      "group": "reading_1",
+      "group_passage": "Food waste is a big problem around the world. According to a report, about one-third of all food produced globally is wasted every year. This not only wastes money but also harms the environment. When food waste goes to landfills (垃圾填埋场), it produces greenhouse gases (温室气体) which cause climate change.\n\nTo solve this problem, a group of middle school students in Shenzhen started an interesting project called \"Clean Your Plate\" (光盘行动). They encouraged their classmates to take only the food they could finish during lunch time. They also designed creative posters and put them up in the dining hall to remind everyone not to waste food.\n\n\"At first, some students didn't take it seriously,\" said Li Wei, the leader of the group. \"But when we showed them photos of hungry children in poor areas and explained how food waste affects the environment, they began to change their behavior. Now, most students finish their meals completely.\"\n\nThe project has been running for six months. The results are surprising. The amount of food waste in the school cafeteria has dropped by 40%. The school also saved money, which was later used to buy books for the library.\n\nThe success of this project shows that small actions can make a big difference. As one teacher said, \"You don't need to do something huge to help the environment. Starting with your daily meals is a great choice.\"",
+      "explanation": "推理判断题。根据第四段'The amount of food waste in the school cafeteria has dropped by 40%'可知，项目效果很好。A选项all过于绝对，原文是some；B选项错误，钱是saved（节省的），不是from food sales；D选项与第一段'Food waste is a big problem'矛盾。",
+      "label": "阅读-推理判断"
     },
     {
       "id": 16,
       "type": "reading",
-      "knowledge_point": "main_idea",
+      "knowledge_point": "main_idea_title",
       "difficulty": 2,
-      "group": "reading_1",
-      "group_passage": "Do you know that bananas can help you sleep better? Many people have trouble falling asleep at night. They often feel tired during the day because they don't get enough rest. Some people take medicine to help them sleep, but that can be expensive and sometimes unhealthy. Scientists have found a simple, natural way to solve this problem, and it is probably already in your kitchen.\n\nBananas contain a kind of chemical called tryptophan (色氨酸). This special chemical helps your body produce melatonin (褪黑素), which controls your sleep cycle naturally. When you eat a banana about one hour before bed, the tryptophan slowly enters your body and helps your muscles relax. Your mind becomes calmer, making it easier to fall asleep.\n\nHowever, eating too many bananas is not good. One medium banana is enough for most people. Also, timing is important. You should eat it about one hour before you plan to sleep. If you eat it right before lying down, your stomach might feel uncomfortable because it is still working to digest (消化) the food.\n\nBesides helping with sleep, bananas offer other health benefits. They are rich in potassium (钾), which is good for your heart and muscles. Many students in our school have tried this method. Tom, a 14-year-old boy, said, \"I used to stay awake until midnight. But after eating a banana before bed for a week, I can fall asleep much faster now.\" Next time you find yourself counting sheep at midnight, try reaching for a banana instead!",
       "stem": "What is the best title for this passage?",
       "options": [
-        "A. The History of Bananas",
-        "B. How to Grow Banana Trees",
-        "C. Bananas: A Natural Sleep Aid",
-        "D. Healthy Eating Habits for Students"
+        "A. How to Cook Delicious Food",
+        "B. The Importance of Healthy Eating",
+        "C. Saving Food, Helping the Earth",
+        "D. A New School Library"
       ],
       "correct_answer": "C",
-      "explanation": "本题考查主旨大意/最佳标题。文章首段提出香蕉能帮助睡眠，第二段解释科学原理（色氨酸和褪黑素），第三段讲食用注意事项，第四段补充其他益处并举例。全文核心是香蕉作为天然助眠食物。A选项\"香蕉的历史\"、B选项\"如何种植香蕉树\"文中未提及；D选项\"学生健康饮食习惯\"过于宽泛，未突出\"睡眠\"这一核心。解题技巧：最佳标题要涵盖文章核心话题（bananas + sleep），不能过大或过小；关注首尾段主题句。",
+      "group": "reading_1",
+      "group_passage": "Food waste is a big problem around the world. According to a report, about one-third of all food produced globally is wasted every year. This not only wastes money but also harms the environment. When food waste goes to landfills (垃圾填埋场), it produces greenhouse gases (温室气体) which cause climate change.\n\nTo solve this problem, a group of middle school students in Shenzhen started an interesting project called \"Clean Your Plate\" (光盘行动). They encouraged their classmates to take only the food they could finish during lunch time. They also designed creative posters and put them up in the dining hall to remind everyone not to waste food.\n\n\"At first, some students didn't take it seriously,\" said Li Wei, the leader of the group. \"But when we showed them photos of hungry children in poor areas and explained how food waste affects the environment, they began to change their behavior. Now, most students finish their meals completely.\"\n\nThe project has been running for six months. The results are surprising. The amount of food waste in the school cafeteria has dropped by 40%. The school also saved money, which was later used to buy books for the library.\n\nThe success of this project shows that small actions can make a big difference. As one teacher said, \"You don't need to do something huge to help the environment. Starting with your daily meals is a great choice.\"",
+      "explanation": "主旨大意题。文章主要讲述'光盘行动'减少食物浪费，从而保护环境。C选项'节约食物，帮助地球'概括了主旨。A讲烹饪，B讲健康饮食，D讲图书馆，都是细节或偏离主题。",
       "label": "阅读-主旨大意"
     },
     {
@@ -281,18 +281,18 @@
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "group": "fill_1",
-      "group_passage": "Students often feel stressed because of too much homework. Here are some ways to balance study and relaxation.\n\nFirst, make a plan. (17)_____ Write down what you need to do and how long it will take. This helps you manage your time better.\n\nSecond, take breaks. Studying for hours without resting makes you tired. (18)_____ You can listen to music or do some exercise during the break.\n\nThird, don't forget your hobbies. (19)_____ If you like painting, spend some time on it on weekends. This makes you happy and helps you study better later.\n\n(20)_____ If you follow these suggestions, you will find that studying can be enjoyable and relaxing.",
-      "stem": "(17)_____",
+      "stem": "(17)___",
       "options": [
-        "A. For example, study for 45 minutes and then rest for 10 minutes.",
-        "B. In this way, you won't forget important tasks.",
-        "C. They bring you pleasure and help reduce stress.",
-        "D. However, don't spend too much time on them.",
-        "E. I hope these tips work well for you."
+        "A. Besides, limit your screen time.",
+        "B. However, don't give up your hobbies.",
+        "C. First, learn to prioritize your tasks.",
+        "D. Then, focus on one thing at a time.",
+        "E. On the other hand, study is more important."
       ],
-      "correct_answer": "B",
-      "explanation": "本题考查段落衔接与逻辑关系。前句说\"首先，制定计划\"，后句说\"写下需要做什么...\"，中间B选项\"In this way, you won't forget important tasks\"（这样你就不会忘记重要任务）起到承上启下作用，\"this way\"指代\"make a plan\"，解释为什么要制定计划。A选项是举例，但后文已有\"write down...\"的具体动作，不需要再举例；C、D、E与\"制定计划\"主题无关。解题技巧：关注代词指代（this way）和逻辑衔接（因果）。",
+      "correct_answer": "C",
+      "group": "fill_1",
+      "group_passage": "Many students have trouble balancing their schoolwork and hobbies. They often feel stressed because they don't have enough time for both. Here are some useful tips to help you manage your time better.\n\n(17)___ First, you need to know which tasks are the most important. Make a list of all the things you need to do and put them in order of importance. This way, you won't waste time on less important things.\n\n(18)___ Don't try to do everything at once. It's better to focus on one subject for 45 minutes, then take a short break. After that, you can move on to another task. This method helps your brain stay fresh and active.\n\n(19)___ Many students spend hours on their phones or playing computer games without realizing how much time has passed. Try to set a time limit for these activities. When the time is up, stop immediately and go back to your work.\n\n(20)___ Remember that hobbies are not a waste of time. They help you relax and develop new skills. You can schedule specific times for your hobbies, just like you schedule time for homework.\n\nIf you follow these suggestions, you will find that you have enough time for both study and fun.",
+      "explanation": "考查段落主旨句。本段主要讲'要知道哪些任务最重要，按重要性排序'，即学会区分优先级。C选项'First, learn to prioritize your tasks（首先，学会优先处理任务）'概括了本段内容。注意First与后文的First呼应。",
       "label": "短文填空"
     },
     {
@@ -300,18 +300,18 @@
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "group": "fill_1",
-      "group_passage": "Students often feel stressed because of too much homework. Here are some ways to balance study and relaxation.\n\nFirst, make a plan. (17)_____ Write down what you need to do and how long it will take. This helps you manage your time better.\n\nSecond, take breaks. Studying for hours without resting makes you tired. (18)_____ You can listen to music or do some exercise during the break.\n\nThird, don't forget your hobbies. (19)_____ If you like painting, spend some time on it on weekends. This makes you happy and helps you study better later.\n\n(20)_____ If you follow these suggestions, you will find that studying can be enjoyable and relaxing.",
-      "stem": "(18)_____",
+      "stem": "(18)___",
       "options": [
-        "A. For example, study for 45 minutes and then rest for 10 minutes.",
-        "B. In this way, you won't forget important tasks.",
-        "C. They bring you pleasure and help reduce stress.",
-        "D. However, don't spend too much time on them.",
-        "E. I hope these tips work well for you."
+        "A. Besides, limit your screen time.",
+        "B. However, don't give up your hobbies.",
+        "C. First, learn to prioritize your tasks.",
+        "D. Then, focus on one thing at a time.",
+        "E. On the other hand, study is more important."
       ],
-      "correct_answer": "A",
-      "explanation": "本题考查段落衔接与举例关系。前句说\"学习数小时不休息会让你疲劳\"，后句说\"你可以在休息期间听音乐或做运动\"，中间A选项\"For example, study for 45 minutes and then rest for 10 minutes\"（例如，学45分钟然后休息10分钟）具体说明如何休息，承上启下。\"For example\"是明显的举例标志，与后文\"during the break\"呼应。B选项已用于17题；C选项主语They指代不明；D选项转折语气不符；E选项是总结句，不适合中间段落。解题技巧：识别连接词（For example/For instance）的作用，它们用于具体化抽象概念。",
+      "correct_answer": "D",
+      "group": "fill_1",
+      "group_passage": "Many students have trouble balancing their schoolwork and hobbies. They often feel stressed because they don't have enough time for both. Here are some useful tips to help you manage your time better.\n\n(17)___ First, you need to know which tasks are the most important. Make a list of all the things you need to do and put them in order of importance. This way, you won't waste time on less important things.\n\n(18)___ Don't try to do everything at once. It's better to focus on one subject for 45 minutes, then take a short break. After that, you can move on to another task. This method helps your brain stay fresh and active.\n\n(19)___ Many students spend hours on their phones or playing computer games without realizing how much time has passed. Try to set a time limit for these activities. When the time is up, stop immediately and go back to your work.\n\n(20)___ Remember that hobbies are not a waste of time. They help you relax and develop new skills. You can schedule specific times for your hobbies, just like you schedule time for homework.\n\nIf you follow these suggestions, you will find that you have enough time for both study and fun.",
+      "explanation": "考查逻辑衔接。前文用First，此处用Then（然后）承接，表示顺序。本段讲'不要同时做所有事，要专注一件事'，D选项'Then, focus on one thing at a time（然后，一次专注一件事）'符合语境。",
       "label": "短文填空"
     },
     {
@@ -319,18 +319,18 @@
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "group": "fill_1",
-      "group_passage": "Students often feel stressed because of too much homework. Here are some ways to balance study and relaxation.\n\nFirst, make a plan. (17)_____ Write down what you need to do and how long it will take. This helps you manage your time better.\n\nSecond, take breaks. Studying for hours without resting makes you tired. (18)_____ You can listen to music or do some exercise during the break.\n\nThird, don't forget your hobbies. (19)_____ If you like painting, spend some time on it on weekends. This makes you happy and helps you study better later.\n\n(20)_____ If you follow these suggestions, you will find that studying can be enjoyable and relaxing.",
-      "stem": "(19)_____",
+      "stem": "(19)___",
       "options": [
-        "A. For example, study for 45 minutes and then rest for 10 minutes.",
-        "B. In this way, you won't forget important tasks.",
-        "C. They bring you pleasure and help reduce stress.",
-        "D. However, don't spend too much time on them.",
-        "E. I hope these tips work well for you."
+        "A. Besides, limit your screen time.",
+        "B. However, don't give up your hobbies.",
+        "C. First, learn to prioritize your tasks.",
+        "D. Then, focus on one thing at a time.",
+        "E. On the other hand, study is more important."
       ],
-      "correct_answer": "C",
-      "explanation": "本题考查段落衔接与代词指代。前句说\"第三，不要忘记你的爱好\"，后句说\"如果你喜欢画画，周末花时间在这上面\"，中间C选项\"They bring you pleasure and help reduce stress\"（它们给你带来快乐并帮助减压）中\"They\"指代前文的\"hobbies\"，解释为什么要培养爱好，与后文\"这让你开心\"形成呼应。A、B已用；D选项是转折警告，与后文积极描述不符；E是结尾句。解题技巧：关注代词指代（They指代hobbies）和同义复现（pleasure与happy）。",
+      "correct_answer": "A",
+      "group": "fill_1",
+      "group_passage": "Many students have trouble balancing their schoolwork and hobbies. They often feel stressed because they don't have enough time for both. Here are some useful tips to help you manage your time better.\n\n(17)___ First, you need to know which tasks are the most important. Make a list of all the things you need to do and put them in order of importance. This way, you won't waste time on less important things.\n\n(18)___ Don't try to do everything at once. It's better to focus on one subject for 45 minutes, then take a short break. After that, you can move on to another task. This method helps your brain stay fresh and active.\n\n(19)___ Many students spend hours on their phones or playing computer games without realizing how much time has passed. Try to set a time limit for these activities. When the time is up, stop immediately and go back to your work.\n\n(20)___ Remember that hobbies are not a waste of time. They help you relax and develop new skills. You can schedule specific times for your hobbies, just like you schedule time for homework.\n\nIf you follow these suggestions, you will find that you have enough time for both study and fun.",
+      "explanation": "考查段落主旨。本段提到'spend hours on their phones or playing computer games'和'set a time limit'，讲的是限制屏幕时间。A选项'Besides, limit your screen time（此外，限制你的屏幕时间）'符合。Besides表示递进，补充另一个建议。",
       "label": "短文填空"
     },
     {
@@ -338,18 +338,18 @@
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "group": "fill_1",
-      "group_passage": "Students often feel stressed because of too much homework. Here are some ways to balance study and relaxation.\n\nFirst, make a plan. (17)_____ Write down what you need to do and how long it will take. This helps you manage your time better.\n\nSecond, take breaks. Studying for hours without resting makes you tired. (18)_____ You can listen to music or do some exercise during the break.\n\nThird, don't forget your hobbies. (19)_____ If you like painting, spend some time on it on weekends. This makes you happy and helps you study better later.\n\n(20)_____ If you follow these suggestions, you will find that studying can be enjoyable and relaxing.",
-      "stem": "(20)_____",
+      "stem": "(20)___",
       "options": [
-        "A. For example, study for 45 minutes and then rest for 10 minutes.",
-        "B. In this way, you won't forget important tasks.",
-        "C. They bring you pleasure and help reduce stress.",
-        "D. However, don't spend too much time on them.",
-        "E. I hope these tips work well for you."
+        "A. Besides, limit your screen time.",
+        "B. However, don't give up your hobbies.",
+        "C. First, learn to prioritize your tasks.",
+        "D. Then, focus on one thing at a time.",
+        "E. On the other hand, study is more important."
       ],
-      "correct_answer": "E",
-      "explanation": "本题考查段落衔接与文章结构。此处位于文章最后一段开头，后文\"If you follow these suggestions...\"是总结性语句，E选项\"I hope these tips work well for you\"（希望这些建议对你有用）作为总结过渡句最合适，引出最终祝愿。A、B、C已用；D选项\"However\"表示转折，但此处与前文并非转折关系，且\"them\"指代不明。解题技巧：识别文章结构（总分总），最后一段通常用总结性语言（I hope/In conclusion/Finally）。",
+      "correct_answer": "B",
+      "group": "fill_1",
+      "group_passage": "Many students have trouble balancing their schoolwork and hobbies. They often feel stressed because they don't have enough time for both. Here are some useful tips to help you manage your time better.\n\n(17)___ First, you need to know which tasks are the most important. Make a list of all the things you need to do and put them in order of importance. This way, you won't waste time on less important things.\n\n(18)___ Don't try to do everything at once. It's better to focus on one subject for 45 minutes, then take a short break. After that, you can move on to another task. This method helps your brain stay fresh and active.\n\n(19)___ Many students spend hours on their phones or playing computer games without realizing how much time has passed. Try to set a time limit for these activities. When the time is up, stop immediately and go back to your work.\n\n(20)___ Remember that hobbies are not a waste of time. They help you relax and develop new skills. You can schedule specific times for your hobbies, just like you schedule time for homework.\n\nIf you follow these suggestions, you will find that you have enough time for both study and fun.",
+      "explanation": "考查转折关系。前文讲要限制娱乐时间、好好学习，此处话锋一转，强调'hobbies are not a waste of time'，不能放弃爱好。B选项'However, don't give up your hobbies（然而，不要放弃你的爱好）'表示转折，符合逻辑。",
       "label": "短文填空"
     }
   ]
