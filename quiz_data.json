@@ -1,5 +1,5 @@
 ﻿{
-  "date": "2026-08-05",
+  "date": "2026-08-06",
   "session_number": 1,
   "questions": [
     {
@@ -7,15 +7,15 @@
       "type": "grammar",
       "knowledge_point": "present_perfect_vs_past_simple",
       "difficulty": 2,
-      "stem": "I ______ my homework already. I ______ it an hour ago.",
+      "stem": "—Have you finished your homework?\n—Yes, I ______ it an hour ago.",
       "options": [
-        "A. have finished; finished",
-        "B. finished; have finished",
-        "C. have finished; have finished",
-        "D. finished; finished"
+        "A. finished",
+        "B. have finished",
+        "C. finish",
+        "D. am finishing"
       ],
       "correct_answer": "A",
-      "explanation": "第一空后面有already（已经），这是现在完成时的标志词，表示过去动作对现在的影响，用have finished；第二空后面有an hour ago（一小时前），这是一般过去时的标志，表示过去某个具体时间发生的动作，用finished。口诀：already现完，ago过完。",
+      "explanation": "选A。an hour ago（一小时前）是明确的过去时间状语，必须用一般过去时finished。现在完成时have finished不能与具体的过去时间状语（如ago, yesterday, last week等）连用。解题技巧：看到ago直接选过去式。",
       "label": "语法题"
     },
     {
@@ -23,15 +23,15 @@
       "type": "grammar",
       "knowledge_point": "relative_clause_who_which",
       "difficulty": 2,
-      "stem": "The boy ______ is reading under the tree is my brother.",
+      "stem": "The book ______ was written by Lu Xun is very popular among teenagers.",
       "options": [
         "A. who",
         "B. which",
         "C. whom",
         "D. whose"
       ],
-      "correct_answer": "A",
-      "explanation": "先行词是The boy（指人），定语从句中缺少主语，因此用关系代词who。which用于指物；whom用于指人但在从句中作宾语；whose表示所属关系'谁的'。解题技巧：指人作主语用who，指物作主语用which/that。",
+      "correct_answer": "B",
+      "explanation": "选B。先行词是the book（物），且在定语从句中作主语，所以用which或that。who/whom指人，whose表示所属关系（谁的），均不符合。解题口诀：先行词是物用which/that，是人用who/whom，whose后面必须接名词。",
       "label": "语法题"
     },
     {
@@ -39,39 +39,71 @@
       "type": "grammar",
       "knowledge_point": "passive_voice",
       "difficulty": 1,
-      "stem": "These books ______ to the library tomorrow.",
+      "stem": "These old books ______ to the library tomorrow morning.",
       "options": [
-        "A. will return",
-        "B. will be returned",
-        "C. are returned",
-        "D. returned"
+        "A. return",
+        "B. returned",
+        "C. will be returned",
+        "D. have returned"
       ],
-      "correct_answer": "B",
-      "explanation": "tomorrow表明用一般将来时；books与return之间是被动关系（书被归还），因此用一般将来时的被动语态will be returned。A是主动语态；C是一般现在时被动；D是一般过去时主动。",
+      "correct_answer": "C",
+      "explanation": "选C。主语books与动词return是被动关系（书被归还），且tomorrow morning表示将来时间，所以用一般将来时的被动语态will be returned。被动语态基本结构：be + 过去分词，注意时态变化。",
       "label": "语法题"
     },
     {
       "id": 4,
       "type": "grammar",
-      "knowledge_point": "present_perfect_vs_past_simple",
+      "knowledge_point": "modal_verbs",
       "difficulty": 3,
-      "stem": "—______ you ever ______ to the new museum?\n—Yes, I ______ there last Sunday. It was amazing.",
+      "stem": "—Is that Mr. Wang knocking at the door?\n—It ______ be him. He has gone to Beijing on business.",
       "options": [
-        "A. Did; go; went",
-        "B. Have; been; went",
-        "C. Have; gone; went",
-        "D. Have; been; have gone"
+        "A. must",
+        "B. might",
+        "C. can't",
+        "D. should"
       ],
-      "correct_answer": "B",
-      "explanation": "第一空ever（曾经）是现在完成时标志，且答句表明去过已回，用have been to；第二空last Sunday（上周日）是一般过去时标志，用went。干扰项C have gone to表示去了未回，与答句矛盾；A第一空时态错误；D第二空时态错误。",
+      "correct_answer": "C",
+      "explanation": "选C。根据后句He has gone to Beijing（他去北京出差了，现在还没回来），可知敲门的不可能是他。can't表示否定推测'不可能'。must表示肯定推测'must'，might表示可能性较小的推测'might'，均与语境矛盾。解题技巧：看到'去某地未回'用can't表否定推测。",
       "label": "语法题"
     },
     {
       "id": 5,
       "type": "vocabulary",
-      "knowledge_point": "phrasal_verbs",
+      "knowledge_point": "word_meaning",
       "difficulty": 1,
-      "stem": "Please ______ the lights when you leave the room to save energy.",
+      "stem": "We should ______ the environment by reducing waste and planting more trees.",
+      "options": [
+        "A. protect",
+        "B. pollute",
+        "C. damage",
+        "D. destroy"
+      ],
+      "correct_answer": "A",
+      "explanation": "选A。根据句意'通过减少浪费和种树来____环境'，应该是'保护'环境。protect意为保护，pollute（污染）、damage（破坏）、destroy（摧毁）均为负面词汇，与句意相反。解题技巧：根据上下文逻辑和常识判断环保类词汇。",
+      "label": "词汇题"
+    },
+    {
+      "id": 6,
+      "type": "vocabulary",
+      "knowledge_point": "prefix_suffix",
+      "difficulty": 2,
+      "stem": "The ______ news that we lost the game made all of us feel sad.",
+      "options": [
+        "A. happy",
+        "B. unhappy",
+        "C. happily",
+        "D. happiness"
+      ],
+      "correct_answer": "B",
+      "explanation": "选B。根据lost the game（输掉比赛）和feel sad（感到难过），可知这是'unhappy news'（令人不高兴的消息）。un-是表示否定意义的前缀。A与句意相反，C是副词不能修饰名词news，D是名词不能作定语。解题技巧：un-前缀表示'不/无'，如unhappy, unhealthy, unable等。",
+      "label": "词汇题"
+    },
+    {
+      "id": 7,
+      "type": "vocabulary",
+      "knowledge_point": "phrasal_verbs",
+      "difficulty": 2,
+      "stem": "Please ______ the lights when you leave the classroom to save electricity.",
       "options": [
         "A. turn on",
         "B. turn off",
@@ -79,39 +111,7 @@
         "D. turn down"
       ],
       "correct_answer": "B",
-      "explanation": "turn off表示'关闭'，符合'离开房间省电'的语境。turn on打开；turn up调大（音量）；turn down调小（音量）/拒绝。根据save energy（节能）可知要离开时关灯。",
-      "label": "词汇题"
-    },
-    {
-      "id": 6,
-      "type": "vocabulary",
-      "knowledge_point": "suffix",
-      "difficulty": 2,
-      "stem": "The news about the environmental protection is very ______. It makes us think deeply.",
-      "options": [
-        "A. help",
-        "B. helpful",
-        "C. helpless",
-        "D. helping"
-      ],
-      "correct_answer": "B",
-      "explanation": "-ful是形容词后缀，表示'充满...的'，helpful意为'有益的、有帮助的'，符合句意'这条新闻很有意义'。help是动词/名词；helpless表示'无助的'，与句意相反；helping是动名词。",
-      "label": "词汇题"
-    },
-    {
-      "id": 7,
-      "type": "vocabulary",
-      "knowledge_point": "word_formation",
-      "difficulty": 2,
-      "stem": "With the ______ of technology, our life has become more convenient.",
-      "options": [
-        "A. develop",
-        "B. development",
-        "C. developing",
-        "D. developed"
-      ],
-      "correct_answer": "B",
-      "explanation": "定冠词the后面需要接名词，development是develop的名词形式，意为'发展'。develop是动词；developing是现在分词/形容词（发展中的）；developed是过去分词/形容词（发达的）。固定搭配with the development of（随着...的发展）。",
+      "explanation": "选B。根据leave the classroom（离开教室）和save electricity（节约用电），应该是'关灯'turn off。turn on打开，turn up调大（音量），turn down调小/拒绝，均不符合语境。解题技巧：turn off=switch off=shut off，都表示'关闭'电器类设备。",
       "label": "词汇题"
     },
     {
@@ -121,16 +121,16 @@
       "difficulty": 2,
       "stem": "(8)___",
       "options": [
-        "A. came up with",
-        "B. looked forward to",
-        "C. ran away from",
-        "D. got on with"
+        "A. boring",
+        "B. important",
+        "C. difficult",
+        "D. easy"
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
+      "explanation": "选B。根据上下文，项目目的是帮助学生理解环保的'重要性'，因此选important。其他选项boring（无聊的）、difficult（困难的）、easy（容易的）均不符合语境中对环保项目的正面描述。",
+      "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school held a Science Fair. All the students were asked to (8)___ creative projects that could help solve environmental problems in our daily life.\n\nMy classmate Tom and I decided to work together. We noticed that too much plastic waste (塑料垃圾) was produced in the school cafeteria (食堂) every day. We wanted to find a way to (9)___ it. After doing some research online, we learned (10)___ some plants could be used to make eco-friendly (环保的) lunch boxes.\n\nWe spent two weeks making our project. First, we collected leaves and stems from the school garden. Then we dried them and mixed them with natural glue. The most (11)___ part was shaping the mixture into boxes. We failed many times, but we never gave up. Finally, we made three perfect lunch boxes.\n\nOn the day of the Science Fair, many students and teachers came to see our project. They were surprised that our lunch boxes were not only cheap to make but also completely biodegradable (可生物降解的). The judges were impressed by our work. In the end, we (12)___ the first prize.",
-      "explanation": "come up with意为'想出、提出（主意、计划等）'，符合语境'想出创意项目'。look forward to期待；run away from逃离；get on with与...相处/继续做。根据宾语creative projects可知选A。",
-      "label": "完形填空"
+      "group_passage": "Last month, our school started a green project called \"Zero Waste Classroom\". The project aims to help students understand the (8)___ of environmental protection.\n\nEvery class was asked to collect (9)___ materials like paper, plastic bottles and old books. At first, many students thought it was (10)___ and didn't want to participate. However, after our teacher explained how much waste we produce every day, we changed our (11)___.\n\nMy class set up a special corner for sorting waste. We put different bins for paper, plastic and other waste. Every Friday afternoon, volunteer students would take the collected items to the recycling center.\n\nBy the end of the term, we had collected over 500 kilograms of recyclable materials. The money we got from selling these materials was used to buy new books for our class library.\n\nThis experience taught us that small actions can make a big (12)___. We realized that protecting the environment is not just a slogan but something we can do in our daily lives."
     },
     {
       "id": 9,
@@ -139,34 +139,34 @@
       "difficulty": 2,
       "stem": "(9)___",
       "options": [
-        "A. reuse",
-        "B. reduce",
-        "C. recycle",
-        "D. review"
+        "A. recyclable",
+        "B. terrible",
+        "C. comfortable",
+        "D. horrible"
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
+      "explanation": "选A。下文列举了paper, plastic bottles and old books（纸张、塑料瓶和旧书），这些都是'可回收的'recyclable材料。terrible（糟糕的）、comfortable（舒适的）、horrible（可怕的）均与这些物品的属性无关。",
+      "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school held a Science Fair. All the students were asked to (8)___ creative projects that could help solve environmental problems in our daily life.\n\nMy classmate Tom and I decided to work together. We noticed that too much plastic waste (塑料垃圾) was produced in the school cafeteria (食堂) every day. We wanted to find a way to (9)___ it. After doing some research online, we learned (10)___ some plants could be used to make eco-friendly (环保的) lunch boxes.\n\nWe spent two weeks making our project. First, we collected leaves and stems from the school garden. Then we dried them and mixed them with natural glue. The most (11)___ part was shaping the mixture into boxes. We failed many times, but we never gave up. Finally, we made three perfect lunch boxes.\n\nOn the day of the Science Fair, many students and teachers came to see our project. They were surprised that our lunch boxes were not only cheap to make but also completely biodegradable (可生物降解的). The judges were impressed by our work. In the end, we (12)___ the first prize.",
-      "explanation": "reduce意为'减少'，前文提到'太多塑料垃圾'，所以目标是'减少'垃圾。reuse重复使用；recycle回收利用；review复习。根据上下文逻辑，先reduce减少产生，比recycle更符合语境，因为他们是要替代塑料餐盒。",
-      "label": "完形填空"
+      "group_passage": "Last month, our school started a green project called \"Zero Waste Classroom\". The project aims to help students understand the (8)___ of environmental protection.\n\nEvery class was asked to collect (9)___ materials like paper, plastic bottles and old books. At first, many students thought it was (10)___ and didn't want to participate. However, after our teacher explained how much waste we produce every day, we changed our (11)___.\n\nMy class set up a special corner for sorting waste. We put different bins for paper, plastic and other waste. Every Friday afternoon, volunteer students would take the collected items to the recycling center.\n\nBy the end of the term, we had collected over 500 kilograms of recyclable materials. The money we got from selling these materials was used to buy new books for our class library.\n\nThis experience taught us that small actions can make a big (12)___. We realized that protecting the environment is not just a slogan but something we can do in our daily lives."
     },
     {
       "id": 10,
       "type": "cloze",
-      "knowledge_point": "relative_clause_who_which",
-      "difficulty": 2,
+      "knowledge_point": "cloze_general",
+      "difficulty": 1,
       "stem": "(10)___",
       "options": [
-        "A. when",
-        "B. where",
-        "C. that",
-        "D. who"
+        "A. easy",
+        "B. interesting",
+        "C. troublesome",
+        "D. useful"
       ],
       "correct_answer": "C",
+      "explanation": "选C。根据后半句didn't want to participate（不想参加），可知学生们一开始认为这件事是'麻烦的'troublesome。easy（容易的）、interesting（有趣的）、useful（有用的）都不会导致不想参加的结果。",
+      "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school held a Science Fair. All the students were asked to (8)___ creative projects that could help solve environmental problems in our daily life.\n\nMy classmate Tom and I decided to work together. We noticed that too much plastic waste (塑料垃圾) was produced in the school cafeteria (食堂) every day. We wanted to find a way to (9)___ it. After doing some research online, we learned (10)___ some plants could be used to make eco-friendly (环保的) lunch boxes.\n\nWe spent two weeks making our project. First, we collected leaves and stems from the school garden. Then we dried them and mixed them with natural glue. The most (11)___ part was shaping the mixture into boxes. We failed many times, but we never gave up. Finally, we made three perfect lunch boxes.\n\nOn the day of the Science Fair, many students and teachers came to see our project. They were surprised that our lunch boxes were not only cheap to make but also completely biodegradable (可生物降解的). The judges were impressed by our work. In the end, we (12)___ the first prize.",
-      "explanation": "考查宾语从句连接词。learned后面是宾语从句，从句'some plants could be used...'是完整陈述句，用that引导（that可省略，但选项中有that）。when/when在从句中作状语，who指人，此处从句不缺成分且指事，用that。",
-      "label": "完形填空"
+      "group_passage": "Last month, our school started a green project called \"Zero Waste Classroom\". The project aims to help students understand the (8)___ of environmental protection.\n\nEvery class was asked to collect (9)___ materials like paper, plastic bottles and old books. At first, many students thought it was (10)___ and didn't want to participate. However, after our teacher explained how much waste we produce every day, we changed our (11)___.\n\nMy class set up a special corner for sorting waste. We put different bins for paper, plastic and other waste. Every Friday afternoon, volunteer students would take the collected items to the recycling center.\n\nBy the end of the term, we had collected over 500 kilograms of recyclable materials. The money we got from selling these materials was used to buy new books for our class library.\n\nThis experience taught us that small actions can make a big (12)___. We realized that protecting the environment is not just a slogan but something we can do in our daily lives."
     },
     {
       "id": 11,
@@ -175,70 +175,70 @@
       "difficulty": 1,
       "stem": "(11)___",
       "options": [
-        "A. easy",
-        "B. difficult",
-        "C. possible",
-        "D. necessary"
+        "A. minds",
+        "B. clothes",
+        "C. seats",
+        "D. books"
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
+      "explanation": "选A。change one's mind是固定搭配，意为'改变主意'。老师解释后，学生们改变了想法/主意。其他选项clothes（衣服）、seats（座位）、books（书）均不能与change搭配表达合理含义。",
+      "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school held a Science Fair. All the students were asked to (8)___ creative projects that could help solve environmental problems in our daily life.\n\nMy classmate Tom and I decided to work together. We noticed that too much plastic waste (塑料垃圾) was produced in the school cafeteria (食堂) every day. We wanted to find a way to (9)___ it. After doing some research online, we learned (10)___ some plants could be used to make eco-friendly (环保的) lunch boxes.\n\nWe spent two weeks making our project. First, we collected leaves and stems from the school garden. Then we dried them and mixed them with natural glue. The most (11)___ part was shaping the mixture into boxes. We failed many times, but we never gave up. Finally, we made three perfect lunch boxes.\n\nOn the day of the Science Fair, many students and teachers came to see our project. They were surprised that our lunch boxes were not only cheap to make but also completely biodegradable (可生物降解的). The judges were impressed by our work. In the end, we (12)___ the first prize.",
-      "explanation": "根据下文'We failed many times（我们失败了很多次）'可知，这部分是'最困难的'。difficult困难的，符合语境。easy容易的，与文意相反；possible可能的；necessary必要的。",
-      "label": "完形填空"
+      "group_passage": "Last month, our school started a green project called \"Zero Waste Classroom\". The project aims to help students understand the (8)___ of environmental protection.\n\nEvery class was asked to collect (9)___ materials like paper, plastic bottles and old books. At first, many students thought it was (10)___ and didn't want to participate. However, after our teacher explained how much waste we produce every day, we changed our (11)___.\n\nMy class set up a special corner for sorting waste. We put different bins for paper, plastic and other waste. Every Friday afternoon, volunteer students would take the collected items to the recycling center.\n\nBy the end of the term, we had collected over 500 kilograms of recyclable materials. The money we got from selling these materials was used to buy new books for our class library.\n\nThis experience taught us that small actions can make a big (12)___. We realized that protecting the environment is not just a slogan but something we can do in our daily lives."
     },
     {
       "id": 12,
       "type": "cloze",
-      "knowledge_point": "passive_voice",
-      "difficulty": 1,
+      "knowledge_point": "cloze_general",
+      "difficulty": 2,
       "stem": "(12)___",
       "options": [
-        "A. were awarded",
-        "B. awarded",
-        "C. have awarded",
-        "D. are awarding"
+        "A. decision",
+        "B. difference",
+        "C. mistake",
+        "D. progress"
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
+      "explanation": "选B。make a big difference是固定短语，意为'产生重大影响/有很大作用'。句意为'小的行动能产生大的影响'。make a decision（做决定），make a mistake（犯错误），make progress（取得进步），均不符合句意。",
+      "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school held a Science Fair. All the students were asked to (8)___ creative projects that could help solve environmental problems in our daily life.\n\nMy classmate Tom and I decided to work together. We noticed that too much plastic waste (塑料垃圾) was produced in the school cafeteria (食堂) every day. We wanted to find a way to (9)___ it. After doing some research online, we learned (10)___ some plants could be used to make eco-friendly (环保的) lunch boxes.\n\nWe spent two weeks making our project. First, we collected leaves and stems from the school garden. Then we dried them and mixed them with natural glue. The most (11)___ part was shaping the mixture into boxes. We failed many times, but we never gave up. Finally, we made three perfect lunch boxes.\n\nOn the day of the Science Fair, many students and teachers came to see our project. They were surprised that our lunch boxes were not only cheap to make but also completely biodegradable (可生物降解的). The judges were impressed by our work. In the end, we (12)___ the first prize.",
-      "explanation": "we与award（授予）之间是被动关系，我们被授予一等奖，用被动语态。全文是过去时态，用一般过去时的被动语态were awarded。B是主动语态；C是现在完成时主动；D是现在进行时主动。",
-      "label": "完形填空"
+      "group_passage": "Last month, our school started a green project called \"Zero Waste Classroom\". The project aims to help students understand the (8)___ of environmental protection.\n\nEvery class was asked to collect (9)___ materials like paper, plastic bottles and old books. At first, many students thought it was (10)___ and didn't want to participate. However, after our teacher explained how much waste we produce every day, we changed our (11)___.\n\nMy class set up a special corner for sorting waste. We put different bins for paper, plastic and other waste. Every Friday afternoon, volunteer students would take the collected items to the recycling center.\n\nBy the end of the term, we had collected over 500 kilograms of recyclable materials. The money we got from selling these materials was used to buy new books for our class library.\n\nThis experience taught us that small actions can make a big (12)___. We realized that protecting the environment is not just a slogan but something we can do in our daily lives."
     },
     {
       "id": 13,
       "type": "reading",
       "knowledge_point": "detail",
-      "difficulty": 2,
-      "stem": "What happens when food waste goes to landfills according to the passage?",
+      "difficulty": 1,
+      "stem": "How many hours of sleep do teenagers need every night according to the passage?",
       "options": [
-        "A. It saves money.",
-        "B. It produces greenhouse gases.",
-        "C. It helps poor children.",
-        "D. It makes food cheaper."
+        "A. 6-7 hours",
+        "B. 8-10 hours",
+        "C. 10-12 hours",
+        "D. 4-5 hours"
       ],
       "correct_answer": "B",
+      "explanation": "选B。细节理解题。直接定位原文第二段第一句'Scientists have found that teenagers need about 8-10 hours of sleep every night.'，答案明确为8-10小时。解题技巧：细节题要注意题干中的数字、大写、特殊名词等关键词，快速在原文中找到对应句子。",
+      "label": "阅读-细节理解",
       "group": "reading_1",
-      "group_passage": "Food waste is a big problem around the world. According to a report, about one-third of all food produced globally is wasted every year. This not only wastes money but also harms the environment. When food waste goes to landfills (垃圾填埋场), it produces greenhouse gases (温室气体) which cause climate change.\n\nTo solve this problem, a group of middle school students in Shenzhen started an interesting project called \"Clean Your Plate\" (光盘行动). They encouraged their classmates to take only the food they could finish during lunch time. They also designed creative posters and put them up in the dining hall to remind everyone not to waste food.\n\n\"At first, some students didn't take it seriously,\" said Li Wei, the leader of the group. \"But when we showed them photos of hungry children in poor areas and explained how food waste affects the environment, they began to change their behavior. Now, most students finish their meals completely.\"\n\nThe project has been running for six months. The results are surprising. The amount of food waste in the school cafeteria has dropped by 40%. The school also saved money, which was later used to buy books for the library.\n\nThe success of this project shows that small actions can make a big difference. As one teacher said, \"You don't need to do something huge to help the environment. Starting with your daily meals is a great choice.\"",
-      "explanation": "细节理解题。根据第一段最后一句'When food waste goes to landfills, it produces greenhouse gases which cause climate change.'可知，食物垃圾进入垃圾填埋场会产生温室气体。A选项与原文wastes money相反；C、D未提及。",
-      "label": "阅读-细节理解"
+      "group_passage": "Many teenagers love staying up late to play games or watch videos. However, new research shows that lack of sleep can seriously affect our health and study performance.\n\nScientists have found that teenagers need about 8-10 hours of sleep every night. During sleep, our brains process information we learned during the day. If we don't get enough sleep, we may have trouble concentrating in class and remembering new knowledge.\n\nMoreover, sleep deprivation（睡眠不足）can weaken our immune system（免疫系统）, making us more likely to get sick. It can also affect our mood, causing irritability and stress.\n\nTo sleep better, experts suggest creating a bedtime routine. This means going to bed and waking up at the same time every day, even on weekends. Also, avoid using electronic devices at least one hour before bed, as the blue light from screens can prevent us from falling asleep.\n\nRemember, good sleep habits are not just about resting your body—they are essential for your growth and academic success."
     },
     {
       "id": 14,
       "type": "reading",
-      "knowledge_point": "word_guessing_context",
+      "knowledge_point": "word_guessing",
       "difficulty": 2,
-      "stem": "The underlined word \"remind\" in Paragraph 2 probably means ______.",
+      "stem": "What does the underlined word 'irritability' in Paragraph 3 probably mean?",
       "options": [
-        "A. 提醒",
-        "B. 允许",
-        "C. 强迫",
-        "D. 警告"
+        "A. Happiness",
+        "B. Anger",
+        "C. Excitement",
+        "D. Surprise"
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
+      "explanation": "选B。词义猜测题。根据上下文，sleep deprivation（睡眠不足）会影响情绪，与stress（压力）并列，且与mood（情绪）相关。irritability意为'易怒'，与anger（愤怒）意思最接近。happiness（幸福）、excitement（兴奋）、surprise（惊讶）均与睡眠不足带来的负面情绪不符。解题技巧：通过并列词（and后的stress）和上下文情感色彩（负面）推断词义。",
+      "label": "阅读-词义猜测",
       "group": "reading_1",
-      "group_passage": "Food waste is a big problem around the world. According to a report, about one-third of all food produced globally is wasted every year. This not only wastes money but also harms the environment. When food waste goes to landfills (垃圾填埋场), it produces greenhouse gases (温室气体) which cause climate change.\n\nTo solve this problem, a group of middle school students in Shenzhen started an interesting project called \"Clean Your Plate\" (光盘行动). They encouraged their classmates to take only the food they could finish during lunch time. They also designed creative posters and put them up in the dining hall to remind everyone not to waste food.\n\n\"At first, some students didn't take it seriously,\" said Li Wei, the leader of the group. \"But when we showed them photos of hungry children in poor areas and explained how food waste affects the environment, they began to change their behavior. Now, most students finish their meals completely.\"\n\nThe project has been running for six months. The results are surprising. The amount of food waste in the school cafeteria has dropped by 40%. The school also saved money, which was later used to buy books for the library.\n\nThe success of this project shows that small actions can make a big difference. As one teacher said, \"You don't need to do something huge to help the environment. Starting with your daily meals is a great choice.\"",
-      "explanation": "词义猜测题。根据上下文，学生们设计海报贴在食堂是为了'提醒'大家不要浪费食物。remind sb. not to do sth.表示'提醒某人不要做某事'。allow允许；force强迫；warn警告（语气过重，不符合语境）。",
-      "label": "阅读-词义猜测"
+      "group_passage": "Many teenagers love staying up late to play games or watch videos. However, new research shows that lack of sleep can seriously affect our health and study performance.\n\nScientists have found that teenagers need about 8-10 hours of sleep every night. During sleep, our brains process information we learned during the day. If we don't get enough sleep, we may have trouble concentrating in class and remembering new knowledge.\n\nMoreover, sleep deprivation（睡眠不足）can weaken our immune system（免疫系统）, making us more likely to get sick. It can also affect our mood, causing irritability and stress.\n\nTo sleep better, experts suggest creating a bedtime routine. This means going to bed and waking up at the same time every day, even on weekends. Also, avoid using electronic devices at least one hour before bed, as the blue light from screens can prevent us from falling asleep.\n\nRemember, good sleep habits are not just about resting your body—they are essential for your growth and academic success."
     },
     {
       "id": 15,
@@ -247,34 +247,34 @@
       "difficulty": 3,
       "stem": "What can we infer from the passage?",
       "options": [
-        "A. All students refused to join the project at first.",
-        "B. The school bought books with the money from food sales.",
-        "C. The \"Clean Your Plate\" project has worked well.",
-        "D. Food waste is not a serious problem in China."
+        "A. All teenagers sleep less than 6 hours every night.",
+        "B. Playing games before bed helps us sleep better.",
+        "C. Sleeping well is important for students' academic performance.",
+        "D. Scientists never do research on sleep problems."
       ],
       "correct_answer": "C",
+      "explanation": "选C。推理判断题。根据文章最后一句'good sleep habits... are essential for your growth and academic success'（良好的睡眠习惯对成长和学业成功至关重要），可推断出睡得好对学生学习成绩很重要。A选项'all'过于绝对，且与原文不符；B选项与原文'avoid using electronic devices... before bed'（睡前避免使用电子设备）相反；D选项与第一段'new research shows'（新研究表明）矛盾。解题技巧：推理题要避免绝对化词汇（all, never, always），选择基于原文合理推断的选项。",
+      "label": "阅读-推理判断",
       "group": "reading_1",
-      "group_passage": "Food waste is a big problem around the world. According to a report, about one-third of all food produced globally is wasted every year. This not only wastes money but also harms the environment. When food waste goes to landfills (垃圾填埋场), it produces greenhouse gases (温室气体) which cause climate change.\n\nTo solve this problem, a group of middle school students in Shenzhen started an interesting project called \"Clean Your Plate\" (光盘行动). They encouraged their classmates to take only the food they could finish during lunch time. They also designed creative posters and put them up in the dining hall to remind everyone not to waste food.\n\n\"At first, some students didn't take it seriously,\" said Li Wei, the leader of the group. \"But when we showed them photos of hungry children in poor areas and explained how food waste affects the environment, they began to change their behavior. Now, most students finish their meals completely.\"\n\nThe project has been running for six months. The results are surprising. The amount of food waste in the school cafeteria has dropped by 40%. The school also saved money, which was later used to buy books for the library.\n\nThe success of this project shows that small actions can make a big difference. As one teacher said, \"You don't need to do something huge to help the environment. Starting with your daily meals is a great choice.\"",
-      "explanation": "推理判断题。根据第四段'The amount of food waste in the school cafeteria has dropped by 40%'可知，项目效果很好。A选项all过于绝对，原文是some；B选项错误，钱是saved（节省的），不是from food sales；D选项与第一段'Food waste is a big problem'矛盾。",
-      "label": "阅读-推理判断"
+      "group_passage": "Many teenagers love staying up late to play games or watch videos. However, new research shows that lack of sleep can seriously affect our health and study performance.\n\nScientists have found that teenagers need about 8-10 hours of sleep every night. During sleep, our brains process information we learned during the day. If we don't get enough sleep, we may have trouble concentrating in class and remembering new knowledge.\n\nMoreover, sleep deprivation（睡眠不足）can weaken our immune system（免疫系统）, making us more likely to get sick. It can also affect our mood, causing irritability and stress.\n\nTo sleep better, experts suggest creating a bedtime routine. This means going to bed and waking up at the same time every day, even on weekends. Also, avoid using electronic devices at least one hour before bed, as the blue light from screens can prevent us from falling asleep.\n\nRemember, good sleep habits are not just about resting your body—they are essential for your growth and academic success."
     },
     {
       "id": 16,
       "type": "reading",
-      "knowledge_point": "main_idea_title",
+      "knowledge_point": "main_idea",
       "difficulty": 2,
-      "stem": "What is the best title for this passage?",
+      "stem": "What is the best title for the passage?",
       "options": [
-        "A. How to Cook Delicious Food",
-        "B. The Importance of Healthy Eating",
-        "C. Saving Food, Helping the Earth",
-        "D. A New School Library"
+        "A. How to Play Games Wisely",
+        "B. The Importance of Sleep for Teenagers",
+        "C. Why We Dream at Night",
+        "D. Electronic Devices and Life"
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
+      "explanation": "选B。主旨大意题。文章第一段提出睡眠不足影响健康和学习，第二段讲青少年需要多少睡眠，第三段讲睡眠不足的危害，第四段讲如何改善睡眠，最后总结睡眠习惯的重要性。全文围绕'青少年睡眠的重要性'展开。A选项只涉及第一段细节；C选项'dream'文中未提及；D选项'电子设备'只在第四段提到，属于细节。解题技巧：主旨题要涵盖全文内容，不能过大也不能过小，通常出现在首段或尾段。",
+      "label": "阅读-主旨大意",
       "group": "reading_1",
-      "group_passage": "Food waste is a big problem around the world. According to a report, about one-third of all food produced globally is wasted every year. This not only wastes money but also harms the environment. When food waste goes to landfills (垃圾填埋场), it produces greenhouse gases (温室气体) which cause climate change.\n\nTo solve this problem, a group of middle school students in Shenzhen started an interesting project called \"Clean Your Plate\" (光盘行动). They encouraged their classmates to take only the food they could finish during lunch time. They also designed creative posters and put them up in the dining hall to remind everyone not to waste food.\n\n\"At first, some students didn't take it seriously,\" said Li Wei, the leader of the group. \"But when we showed them photos of hungry children in poor areas and explained how food waste affects the environment, they began to change their behavior. Now, most students finish their meals completely.\"\n\nThe project has been running for six months. The results are surprising. The amount of food waste in the school cafeteria has dropped by 40%. The school also saved money, which was later used to buy books for the library.\n\nThe success of this project shows that small actions can make a big difference. As one teacher said, \"You don't need to do something huge to help the environment. Starting with your daily meals is a great choice.\"",
-      "explanation": "主旨大意题。文章主要讲述'光盘行动'减少食物浪费，从而保护环境。C选项'节约食物，帮助地球'概括了主旨。A讲烹饪，B讲健康饮食，D讲图书馆，都是细节或偏离主题。",
-      "label": "阅读-主旨大意"
+      "group_passage": "Many teenagers love staying up late to play games or watch videos. However, new research shows that lack of sleep can seriously affect our health and study performance.\n\nScientists have found that teenagers need about 8-10 hours of sleep every night. During sleep, our brains process information we learned during the day. If we don't get enough sleep, we may have trouble concentrating in class and remembering new knowledge.\n\nMoreover, sleep deprivation（睡眠不足）can weaken our immune system（免疫系统）, making us more likely to get sick. It can also affect our mood, causing irritability and stress.\n\nTo sleep better, experts suggest creating a bedtime routine. This means going to bed and waking up at the same time every day, even on weekends. Also, avoid using electronic devices at least one hour before bed, as the blue light from screens can prevent us from falling asleep.\n\nRemember, good sleep habits are not just about resting your body—they are essential for your growth and academic success."
     },
     {
       "id": 17,
@@ -283,17 +283,17 @@
       "difficulty": 2,
       "stem": "(17)___",
       "options": [
-        "A. Besides, limit your screen time.",
-        "B. However, don't give up your hobbies.",
-        "C. First, learn to prioritize your tasks.",
-        "D. Then, focus on one thing at a time.",
-        "E. On the other hand, study is more important."
+        "A. However, never give up when facing difficulties.",
+        "B. First, build good relationships with others.",
+        "C. In addition, manage your time wisely.",
+        "D. Finally, take good care of your health.",
+        "E. Second, develop good study habits."
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
+      "explanation": "选B。选句子填空题。下文提到'Try to get to know your classmates... Making friends'（试着认识同学……交朋友），这与B选项'build good relationships with others'（建立良好的人际关系）相呼应。且作为第一条建议，用First开头符合逻辑顺序。",
+      "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Many students have trouble balancing their schoolwork and hobbies. They often feel stressed because they don't have enough time for both. Here are some useful tips to help you manage your time better.\n\n(17)___ First, you need to know which tasks are the most important. Make a list of all the things you need to do and put them in order of importance. This way, you won't waste time on less important things.\n\n(18)___ Don't try to do everything at once. It's better to focus on one subject for 45 minutes, then take a short break. After that, you can move on to another task. This method helps your brain stay fresh and active.\n\n(19)___ Many students spend hours on their phones or playing computer games without realizing how much time has passed. Try to set a time limit for these activities. When the time is up, stop immediately and go back to your work.\n\n(20)___ Remember that hobbies are not a waste of time. They help you relax and develop new skills. You can schedule specific times for your hobbies, just like you schedule time for homework.\n\nIf you follow these suggestions, you will find that you have enough time for both study and fun.",
-      "explanation": "考查段落主旨句。本段主要讲'要知道哪些任务最重要，按重要性排序'，即学会区分优先级。C选项'First, learn to prioritize your tasks（首先，学会优先处理任务）'概括了本段内容。注意First与后文的First呼应。",
-      "label": "短文填空"
+      "group_passage": "Starting middle school can be exciting but also challenging. Here are some tips to help you adapt to your new school life quickly.\n\n(17)___ Try to get to know your classmates by joining clubs or sports teams. Making friends will make you feel less lonely and more confident.\n\n(18)___ Unlike primary school, middle school teachers expect you to take more responsibility for your own learning. Write down your homework and important dates in a notebook.\n\n(19)___ If you find certain subjects difficult, don't be afraid to ask teachers or classmates for help. Everyone learns at their own pace, and it's okay to need assistance sometimes.\n\n(20)___ Remember to balance your study and rest. Proper exercise and enough sleep will keep you energetic and ready to face new challenges.\n\nFollow these suggestions, and you'll soon enjoy your middle school journey!"
     },
     {
       "id": 18,
@@ -302,17 +302,17 @@
       "difficulty": 2,
       "stem": "(18)___",
       "options": [
-        "A. Besides, limit your screen time.",
-        "B. However, don't give up your hobbies.",
-        "C. First, learn to prioritize your tasks.",
-        "D. Then, focus on one thing at a time.",
-        "E. On the other hand, study is more important."
+        "A. However, never give up when facing difficulties.",
+        "B. First, build good relationships with others.",
+        "C. In addition, manage your time wisely.",
+        "D. Finally, take good care of your health.",
+        "E. Second, develop good study habits."
       ],
-      "correct_answer": "D",
+      "correct_answer": "E",
+      "explanation": "选E。下文提到'take more responsibility for your own learning'（对自己的学习负更多责任）和'Write down your homework'（记下作业），这些都属于学习习惯（study habits）的范畴。且作为第二条建议，用Second开头与前面的First形成顺序衔接。",
+      "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Many students have trouble balancing their schoolwork and hobbies. They often feel stressed because they don't have enough time for both. Here are some useful tips to help you manage your time better.\n\n(17)___ First, you need to know which tasks are the most important. Make a list of all the things you need to do and put them in order of importance. This way, you won't waste time on less important things.\n\n(18)___ Don't try to do everything at once. It's better to focus on one subject for 45 minutes, then take a short break. After that, you can move on to another task. This method helps your brain stay fresh and active.\n\n(19)___ Many students spend hours on their phones or playing computer games without realizing how much time has passed. Try to set a time limit for these activities. When the time is up, stop immediately and go back to your work.\n\n(20)___ Remember that hobbies are not a waste of time. They help you relax and develop new skills. You can schedule specific times for your hobbies, just like you schedule time for homework.\n\nIf you follow these suggestions, you will find that you have enough time for both study and fun.",
-      "explanation": "考查逻辑衔接。前文用First，此处用Then（然后）承接，表示顺序。本段讲'不要同时做所有事，要专注一件事'，D选项'Then, focus on one thing at a time（然后，一次专注一件事）'符合语境。",
-      "label": "短文填空"
+      "group_passage": "Starting middle school can be exciting but also challenging. Here are some tips to help you adapt to your new school life quickly.\n\n(17)___ Try to get to know your classmates by joining clubs or sports teams. Making friends will make you feel less lonely and more confident.\n\n(18)___ Unlike primary school, middle school teachers expect you to take more responsibility for your own learning. Write down your homework and important dates in a notebook.\n\n(19)___ If you find certain subjects difficult, don't be afraid to ask teachers or classmates for help. Everyone learns at their own pace, and it's okay to need assistance sometimes.\n\n(20)___ Remember to balance your study and rest. Proper exercise and enough sleep will keep you energetic and ready to face new challenges.\n\nFollow these suggestions, and you'll soon enjoy your middle school journey!"
     },
     {
       "id": 19,
@@ -321,17 +321,17 @@
       "difficulty": 2,
       "stem": "(19)___",
       "options": [
-        "A. Besides, limit your screen time.",
-        "B. However, don't give up your hobbies.",
-        "C. First, learn to prioritize your tasks.",
-        "D. Then, focus on one thing at a time.",
-        "E. On the other hand, study is more important."
+        "A. However, never give up when facing difficulties.",
+        "B. First, build good relationships with others.",
+        "C. In addition, manage your time wisely.",
+        "D. Finally, take good care of your health.",
+        "E. Second, develop good study habits."
       ],
       "correct_answer": "A",
+      "explanation": "选A。下文提到'If you find certain subjects difficult'（如果你发现某些科目难），与A选项'facing difficulties'（面对困难）直接对应。'don't be afraid to ask... for help'（不要害怕求助）也体现了'never give up'（永不放弃）的精神。However表示转折，引出与前面学习习惯不同的方面——遇到困难时的态度。",
+      "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Many students have trouble balancing their schoolwork and hobbies. They often feel stressed because they don't have enough time for both. Here are some useful tips to help you manage your time better.\n\n(17)___ First, you need to know which tasks are the most important. Make a list of all the things you need to do and put them in order of importance. This way, you won't waste time on less important things.\n\n(18)___ Don't try to do everything at once. It's better to focus on one subject for 45 minutes, then take a short break. After that, you can move on to another task. This method helps your brain stay fresh and active.\n\n(19)___ Many students spend hours on their phones or playing computer games without realizing how much time has passed. Try to set a time limit for these activities. When the time is up, stop immediately and go back to your work.\n\n(20)___ Remember that hobbies are not a waste of time. They help you relax and develop new skills. You can schedule specific times for your hobbies, just like you schedule time for homework.\n\nIf you follow these suggestions, you will find that you have enough time for both study and fun.",
-      "explanation": "考查段落主旨。本段提到'spend hours on their phones or playing computer games'和'set a time limit'，讲的是限制屏幕时间。A选项'Besides, limit your screen time（此外，限制你的屏幕时间）'符合。Besides表示递进，补充另一个建议。",
-      "label": "短文填空"
+      "group_passage": "Starting middle school can be exciting but also challenging. Here are some tips to help you adapt to your new school life quickly.\n\n(17)___ Try to get to know your classmates by joining clubs or sports teams. Making friends will make you feel less lonely and more confident.\n\n(18)___ Unlike primary school, middle school teachers expect you to take more responsibility for your own learning. Write down your homework and important dates in a notebook.\n\n(19)___ If you find certain subjects difficult, don't be afraid to ask teachers or classmates for help. Everyone learns at their own pace, and it's okay to need assistance sometimes.\n\n(20)___ Remember to balance your study and rest. Proper exercise and enough sleep will keep you energetic and ready to face new challenges.\n\nFollow these suggestions, and you'll soon enjoy your middle school journey!"
     },
     {
       "id": 20,
@@ -340,17 +340,17 @@
       "difficulty": 2,
       "stem": "(20)___",
       "options": [
-        "A. Besides, limit your screen time.",
-        "B. However, don't give up your hobbies.",
-        "C. First, learn to prioritize your tasks.",
-        "D. Then, focus on one thing at a time.",
-        "E. On the other hand, study is more important."
+        "A. However, never give up when facing difficulties.",
+        "B. First, build good relationships with others.",
+        "C. In addition, manage your time wisely.",
+        "D. Finally, take good care of your health.",
+        "E. Second, develop good study habits."
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
+      "explanation": "选D。下文提到'balance your study and rest'（平衡学习和休息）、'Proper exercise and enough sleep'（适当运动和充足睡眠），这些都与'health'（健康）相关。Finally表示最后一点建议，符合文章结构（First... Second... ... Finally...）。",
+      "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Many students have trouble balancing their schoolwork and hobbies. They often feel stressed because they don't have enough time for both. Here are some useful tips to help you manage your time better.\n\n(17)___ First, you need to know which tasks are the most important. Make a list of all the things you need to do and put them in order of importance. This way, you won't waste time on less important things.\n\n(18)___ Don't try to do everything at once. It's better to focus on one subject for 45 minutes, then take a short break. After that, you can move on to another task. This method helps your brain stay fresh and active.\n\n(19)___ Many students spend hours on their phones or playing computer games without realizing how much time has passed. Try to set a time limit for these activities. When the time is up, stop immediately and go back to your work.\n\n(20)___ Remember that hobbies are not a waste of time. They help you relax and develop new skills. You can schedule specific times for your hobbies, just like you schedule time for homework.\n\nIf you follow these suggestions, you will find that you have enough time for both study and fun.",
-      "explanation": "考查转折关系。前文讲要限制娱乐时间、好好学习，此处话锋一转，强调'hobbies are not a waste of time'，不能放弃爱好。B选项'However, don't give up your hobbies（然而，不要放弃你的爱好）'表示转折，符合逻辑。",
-      "label": "短文填空"
+      "group_passage": "Starting middle school can be exciting but also challenging. Here are some tips to help you adapt to your new school life quickly.\n\n(17)___ Try to get to know your classmates by joining clubs or sports teams. Making friends will make you feel less lonely and more confident.\n\n(18)___ Unlike primary school, middle school teachers expect you to take more responsibility for your own learning. Write down your homework and important dates in a notebook.\n\n(19)___ If you find certain subjects difficult, don't be afraid to ask teachers or classmates for help. Everyone learns at their own pace, and it's okay to need assistance sometimes.\n\n(20)___ Remember to balance your study and rest. Proper exercise and enough sleep will keep you energetic and ready to face new challenges.\n\nFollow these suggestions, and you'll soon enjoy your middle school journey!"
     }
   ]
 }
