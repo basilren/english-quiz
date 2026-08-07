@@ -1,21 +1,21 @@
 ﻿{
-  "date": "2026-08-06",
+  "date": "2026-08-07",
   "session_number": 1,
   "questions": [
     {
       "id": 1,
       "type": "grammar",
       "knowledge_point": "present_perfect_vs_past_simple",
-      "difficulty": 2,
-      "stem": "—Have you finished your homework?\n—Yes, I ______ it an hour ago.",
+      "difficulty": 1,
+      "stem": "I _______ to Beijing last year. I _______ there twice.",
       "options": [
-        "A. finished",
-        "B. have finished",
-        "C. finish",
-        "D. am finishing"
+        "A. went; have been",
+        "B. have gone; went",
+        "C. went; went",
+        "D. have been; have gone"
       ],
       "correct_answer": "A",
-      "explanation": "选A。an hour ago（一小时前）是明确的过去时间状语，必须用一般过去时finished。现在完成时have finished不能与具体的过去时间状语（如ago, yesterday, last week等）连用。解题技巧：看到ago直接选过去式。",
+      "explanation": "本题考查一般过去时与现在完成时的区别。第一空后有明确过去时间状语last year，必须用一般过去时went；第二空表示'去过某地两次'的经历，用have been to结构，there是副词省略to。B选项have gone表示'去了未回'，不符合'去过两次'的语境；C选项第二空缺少完成时含义；D选项第一空错误使用完成时。口诀：过去时间用过去，经历影响用完成。",
       "label": "语法题"
     },
     {
@@ -23,95 +23,95 @@
       "type": "grammar",
       "knowledge_point": "relative_clause_who_which",
       "difficulty": 2,
-      "stem": "The book ______ was written by Lu Xun is very popular among teenagers.",
+      "stem": "The girl _______ is wearing a red coat is my sister.",
       "options": [
-        "A. who",
-        "B. which",
+        "A. which",
+        "B. who",
         "C. whom",
         "D. whose"
       ],
       "correct_answer": "B",
-      "explanation": "选B。先行词是the book（物），且在定语从句中作主语，所以用which或that。who/whom指人，whose表示所属关系（谁的），均不符合。解题口诀：先行词是物用which/that，是人用who/whom，whose后面必须接名词。",
+      "explanation": "本题考查定语从句关系词的选择。先行词是The girl（指人），且关系词在从句中作主语（is wearing），故用who。which用于指物；whom用于指人但在从句中作宾语；whose表示'谁的'，在从句中作定语。判断技巧：先看先行词是人还是物，再看关系词在从句中充当什么成分（主语、宾语或定语）。",
       "label": "语法题"
     },
     {
       "id": 3,
       "type": "grammar",
       "knowledge_point": "passive_voice",
-      "difficulty": 1,
-      "stem": "These old books ______ to the library tomorrow morning.",
+      "difficulty": 2,
+      "stem": "The book _______ by many students yesterday.",
       "options": [
-        "A. return",
-        "B. returned",
-        "C. will be returned",
-        "D. have returned"
+        "A. was borrowed",
+        "B. borrowed",
+        "C. is borrowed",
+        "D. borrows"
       ],
-      "correct_answer": "C",
-      "explanation": "选C。主语books与动词return是被动关系（书被归还），且tomorrow morning表示将来时间，所以用一般将来时的被动语态will be returned。被动语态基本结构：be + 过去分词，注意时态变化。",
+      "correct_answer": "A",
+      "explanation": "本题考查一般过去时的被动语态。主语The book是'被借'的对象，需用被动语态；时间状语yesterday表明用一般过去时，故选was borrowed（was/were + 过去分词）。B选项是主动语态过去式；C选项是一般现在时被动，时态不符；D选项是主动语态第三人称单数。被动语态结构口诀：被动语态be字变，过去分词跟后面，时态由be来决定。",
       "label": "语法题"
     },
     {
       "id": 4,
       "type": "grammar",
-      "knowledge_point": "modal_verbs",
+      "knowledge_point": "present_perfect_vs_past_simple",
       "difficulty": 3,
-      "stem": "—Is that Mr. Wang knocking at the door?\n—It ______ be him. He has gone to Beijing on business.",
+      "stem": "- _______ you _______ your homework yet?\n- Yes, I _______ it an hour ago.",
       "options": [
-        "A. must",
-        "B. might",
-        "C. can't",
-        "D. should"
+        "A. Did; finish; finished",
+        "B. Have; finished; finished",
+        "C. Have; finished; have finished",
+        "D. Did; finish; have finished"
       ],
-      "correct_answer": "C",
-      "explanation": "选C。根据后句He has gone to Beijing（他去北京出差了，现在还没回来），可知敲门的不可能是他。can't表示否定推测'不可能'。must表示肯定推测'must'，might表示可能性较小的推测'might'，均与语境矛盾。解题技巧：看到'去某地未回'用can't表否定推测。",
+      "correct_answer": "B",
+      "explanation": "本题考查现在完成时与一般过去时的混合辨析。问句中有yet（已经/还），是现在完成时的标志词，用Have...finished；答句中有明确过去时间状语an hour ago（一小时前），必须用一般过去时finished。A选项第一错用一般过去时；C选项第二空错用完成时；D选项两空都错。解题关键：找时间标志词，yet/never/ever/already/just/so far常与完成时连用，ago/yesterday/last year与一般过去时连用。",
       "label": "语法题"
     },
     {
       "id": 5,
       "type": "vocabulary",
-      "knowledge_point": "word_meaning",
+      "knowledge_point": "word_formation",
       "difficulty": 1,
-      "stem": "We should ______ the environment by reducing waste and planting more trees.",
+      "stem": "The story is very _______. I am _______ in it.",
       "options": [
-        "A. protect",
-        "B. pollute",
-        "C. damage",
-        "D. destroy"
+        "A. interested; interesting",
+        "B. interesting; interested",
+        "C. interest; interesting",
+        "D. interested; interest"
       ],
-      "correct_answer": "A",
-      "explanation": "选A。根据句意'通过减少浪费和种树来____环境'，应该是'保护'环境。protect意为保护，pollute（污染）、damage（破坏）、destroy（摧毁）均为负面词汇，与句意相反。解题技巧：根据上下文逻辑和常识判断环保类词汇。",
+      "correct_answer": "B",
+      "explanation": "本题考查-ing形容词与-ed形容词的区别。interesting（令人感兴趣的）修饰物，指事物本身具有的性质；interested（感到感兴趣的）修饰人，指人的感受，常与in搭配。第一空主语是The story（物），用interesting；第二空主语是I（人），用interested。口诀：-ing形容物，-ed形容人，be interested in是固定搭配。",
       "label": "词汇题"
     },
     {
       "id": 6,
       "type": "vocabulary",
-      "knowledge_point": "prefix_suffix",
+      "knowledge_point": "phrasal_verbs",
       "difficulty": 2,
-      "stem": "The ______ news that we lost the game made all of us feel sad.",
+      "stem": "We need to _______ the problem at the meeting tomorrow.",
       "options": [
-        "A. happy",
-        "B. unhappy",
-        "C. happily",
-        "D. happiness"
+        "A. look after",
+        "B. look for",
+        "C. look up",
+        "D. talk about"
       ],
-      "correct_answer": "B",
-      "explanation": "选B。根据lost the game（输掉比赛）和feel sad（感到难过），可知这是'unhappy news'（令人不高兴的消息）。un-是表示否定意义的前缀。A与句意相反，C是副词不能修饰名词news，D是名词不能作定语。解题技巧：un-前缀表示'不/无'，如unhappy, unhealthy, unable等。",
+      "correct_answer": "D",
+      "explanation": "本题考查动词短语辨析。talk about意为'讨论、谈论'，符合句意'我们需要在明天的会议上讨论这个问题'。look after照顾；look for寻找；look up查阅（词典）或向上看。根据宾语the problem（问题），只有talk about搭配合理。解题技巧：根据宾语和语境判断，problem通常与solve/discuss/talk about等词搭配。",
       "label": "词汇题"
     },
     {
       "id": 7,
       "type": "vocabulary",
-      "knowledge_point": "phrasal_verbs",
+      "knowledge_point": "word_meaning",
       "difficulty": 2,
-      "stem": "Please ______ the lights when you leave the classroom to save electricity.",
+      "stem": "The two words are similar but have different _______.",
       "options": [
-        "A. turn on",
-        "B. turn off",
-        "C. turn up",
-        "D. turn down"
+        "A. meanings",
+        "B. means",
+        "C. meaningful",
+        "D. mean"
       ],
-      "correct_answer": "B",
-      "explanation": "选B。根据leave the classroom（离开教室）和save electricity（节约用电），应该是'关灯'turn off。turn on打开，turn up调大（音量），turn down调小/拒绝，均不符合语境。解题技巧：turn off=switch off=shut off，都表示'关闭'电器类设备。",
+      "correct_answer": "A",
+      "explanation": "本题考查词性转换与词义辨析。different（不同的）是形容词，后接名词；meaning意为'意思、含义'，是可数名词，复数形式meanings。means意为'方法、手段'；meaningful是形容词'有意义的'；mean是动词'意思是'或形容词'吝啬的'。句意：这两个词相似但含义不同。解题关键：分析句子成分，确定需要名词；根据句意确定是'含义'而非'方法'。",
       "label": "词汇题"
     },
     {
@@ -119,238 +119,238 @@
       "type": "cloze",
       "knowledge_point": "cloze_general",
       "difficulty": 2,
-      "stem": "(8)___",
+      "stem": "(8)_______",
       "options": [
-        "A. boring",
-        "B. important",
-        "C. difficult",
-        "D. easy"
+        "A. aims",
+        "B. tries",
+        "C. plans",
+        "D. wants"
       ],
-      "correct_answer": "B",
-      "explanation": "选B。根据上下文，项目目的是帮助学生理解环保的'重要性'，因此选important。其他选项boring（无聊的）、difficult（困难的）、easy（容易的）均不符合语境中对环保项目的正面描述。",
+      "correct_answer": "A",
+      "explanation": "本题考查动词词义辨析与固定搭配。aim to do sth.意为'旨在做某事、目的是做某事'，符合语境'该项目旨在帮助学生理解保护环境的重要性'。try to努力做；plan to计划做；want to想要做。虽然语法上都可行，但aim更能体现项目的设计目的和宗旨，且与主语program搭配更正式。解题技巧：完形填空要注意上下文语境的正式程度和搭配习惯。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school started a green project called \"Zero Waste Classroom\". The project aims to help students understand the (8)___ of environmental protection.\n\nEvery class was asked to collect (9)___ materials like paper, plastic bottles and old books. At first, many students thought it was (10)___ and didn't want to participate. However, after our teacher explained how much waste we produce every day, we changed our (11)___.\n\nMy class set up a special corner for sorting waste. We put different bins for paper, plastic and other waste. Every Friday afternoon, volunteer students would take the collected items to the recycling center.\n\nBy the end of the term, we had collected over 500 kilograms of recyclable materials. The money we got from selling these materials was used to buy new books for our class library.\n\nThis experience taught us that small actions can make a big (12)___. We realized that protecting the environment is not just a slogan but something we can do in our daily lives."
+      "group_passage": "Our school started a recycling program last month. The program (8)_______ to help students understand the importance of protecting the environment. Every classroom now has three different bins for sorting waste.\n\nI used to throw everything into one bin. (9)_______ now I know that paper, plastic and food waste should be separated. This small change has made a big difference to our school life.\n\nLast Friday, our class visited a local recycling center. We saw how old bottles were (10)_______ new products. The workers there told us that recycling one ton of paper can save 17 trees. I was (11)_______ by this fact.\n\nSince then, I have paid more attention to reducing waste. I always take a reusable bag when going shopping. My classmates also join me in this (12)_______. Together, we hope to make our campus greener."
     },
     {
       "id": 9,
       "type": "cloze",
       "knowledge_point": "cloze_general",
-      "difficulty": 2,
-      "stem": "(9)___",
+      "difficulty": 1,
+      "stem": "(9)_______",
       "options": [
-        "A. recyclable",
-        "B. terrible",
-        "C. comfortable",
-        "D. horrible"
+        "A. But",
+        "B. And",
+        "C. So",
+        "D. Or"
       ],
       "correct_answer": "A",
-      "explanation": "选A。下文列举了paper, plastic bottles and old books（纸张、塑料瓶和旧书），这些都是'可回收的'recyclable材料。terrible（糟糕的）、comfortable（舒适的）、horrible（可怕的）均与这些物品的属性无关。",
+      "explanation": "本题考查逻辑关系与连词辨析。前文说'我过去把所有东西扔进一个垃圾桶'，后文说'现在我知道纸、塑料和食物垃圾应该分开'，前后是转折关系，用But（但是）。And表并列；So表结果；Or表选择或否则。解题技巧：完形填空中要重点关注上下文的逻辑关系，通过对比'used to'（过去常常）和'now'（现在）可判断为转折关系。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school started a green project called \"Zero Waste Classroom\". The project aims to help students understand the (8)___ of environmental protection.\n\nEvery class was asked to collect (9)___ materials like paper, plastic bottles and old books. At first, many students thought it was (10)___ and didn't want to participate. However, after our teacher explained how much waste we produce every day, we changed our (11)___.\n\nMy class set up a special corner for sorting waste. We put different bins for paper, plastic and other waste. Every Friday afternoon, volunteer students would take the collected items to the recycling center.\n\nBy the end of the term, we had collected over 500 kilograms of recyclable materials. The money we got from selling these materials was used to buy new books for our class library.\n\nThis experience taught us that small actions can make a big (12)___. We realized that protecting the environment is not just a slogan but something we can do in our daily lives."
+      "group_passage": "Our school started a recycling program last month. The program (8)_______ to help students understand the importance of protecting the environment. Every classroom now has three different bins for sorting waste.\n\nI used to throw everything into one bin. (9)_______ now I know that paper, plastic and food waste should be separated. This small change has made a big difference to our school life.\n\nLast Friday, our class visited a local recycling center. We saw how old bottles were (10)_______ new products. The workers there told us that recycling one ton of paper can save 17 trees. I was (11)_______ by this fact.\n\nSince then, I have paid more attention to reducing waste. I always take a reusable bag when going shopping. My classmates also join me in this (12)_______. Together, we hope to make our campus greener."
     },
     {
       "id": 10,
       "type": "cloze",
       "knowledge_point": "cloze_general",
-      "difficulty": 1,
-      "stem": "(10)___",
+      "difficulty": 2,
+      "stem": "(10)_______",
       "options": [
-        "A. easy",
-        "B. interesting",
-        "C. troublesome",
-        "D. useful"
+        "A. turned into",
+        "B. taken away",
+        "C. put up",
+        "D. given out"
       ],
-      "correct_answer": "C",
-      "explanation": "选C。根据后半句didn't want to participate（不想参加），可知学生们一开始认为这件事是'麻烦的'troublesome。easy（容易的）、interesting（有趣的）、useful（有用的）都不会导致不想参加的结果。",
+      "correct_answer": "A",
+      "explanation": "本题考查动词短语辨析。turn...into...意为'把……变成……'，是被动语态were turned into，符合句意'我们看到旧瓶子如何被变成新产品'。take away拿走；put up张贴、搭建；give out分发。根据语境，在回收中心看到的是废旧物品被加工成新产品的过程，turn into最能体现这种转变。解题技巧：利用生活常识，回收站的功能就是将废旧物品转化/改造成新品。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school started a green project called \"Zero Waste Classroom\". The project aims to help students understand the (8)___ of environmental protection.\n\nEvery class was asked to collect (9)___ materials like paper, plastic bottles and old books. At first, many students thought it was (10)___ and didn't want to participate. However, after our teacher explained how much waste we produce every day, we changed our (11)___.\n\nMy class set up a special corner for sorting waste. We put different bins for paper, plastic and other waste. Every Friday afternoon, volunteer students would take the collected items to the recycling center.\n\nBy the end of the term, we had collected over 500 kilograms of recyclable materials. The money we got from selling these materials was used to buy new books for our class library.\n\nThis experience taught us that small actions can make a big (12)___. We realized that protecting the environment is not just a slogan but something we can do in our daily lives."
+      "group_passage": "Our school started a recycling program last month. The program (8)_______ to help students understand the importance of protecting the environment. Every classroom now has three different bins for sorting waste.\n\nI used to throw everything into one bin. (9)_______ now I know that paper, plastic and food waste should be separated. This small change has made a big difference to our school life.\n\nLast Friday, our class visited a local recycling center. We saw how old bottles were (10)_______ new products. The workers there told us that recycling one ton of paper can save 17 trees. I was (11)_______ by this fact.\n\nSince then, I have paid more attention to reducing waste. I always take a reusable bag when going shopping. My classmates also join me in this (12)_______. Together, we hope to make our campus greener."
     },
     {
       "id": 11,
       "type": "cloze",
       "knowledge_point": "cloze_general",
       "difficulty": 1,
-      "stem": "(11)___",
+      "stem": "(11)_______",
       "options": [
-        "A. minds",
-        "B. clothes",
-        "C. seats",
-        "D. books"
+        "A. surprised",
+        "B. worried",
+        "C. tired",
+        "D. bored"
       ],
       "correct_answer": "A",
-      "explanation": "选A。change one's mind是固定搭配，意为'改变主意'。老师解释后，学生们改变了想法/主意。其他选项clothes（衣服）、seats（座位）、books（书）均不能与change搭配表达合理含义。",
+      "explanation": "本题考查形容词辨析与情感线索。surprised（惊讶的）符合语境'回收一吨纸可以拯救17棵树'这一事实令人惊讶。worried担心的；tired疲惫的；bored无聊的。根据前文提到的数据（17棵树）和语境，这是一个令人惊讶的环保知识，而非令人担心、疲惫或无聊的内容。解题技巧：完形填空要把握文章的情感基调，本文是积极的环保主题，surprised表达了积极的认知反应。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school started a green project called \"Zero Waste Classroom\". The project aims to help students understand the (8)___ of environmental protection.\n\nEvery class was asked to collect (9)___ materials like paper, plastic bottles and old books. At first, many students thought it was (10)___ and didn't want to participate. However, after our teacher explained how much waste we produce every day, we changed our (11)___.\n\nMy class set up a special corner for sorting waste. We put different bins for paper, plastic and other waste. Every Friday afternoon, volunteer students would take the collected items to the recycling center.\n\nBy the end of the term, we had collected over 500 kilograms of recyclable materials. The money we got from selling these materials was used to buy new books for our class library.\n\nThis experience taught us that small actions can make a big (12)___. We realized that protecting the environment is not just a slogan but something we can do in our daily lives."
+      "group_passage": "Our school started a recycling program last month. The program (8)_______ to help students understand the importance of protecting the environment. Every classroom now has three different bins for sorting waste.\n\nI used to throw everything into one bin. (9)_______ now I know that paper, plastic and food waste should be separated. This small change has made a big difference to our school life.\n\nLast Friday, our class visited a local recycling center. We saw how old bottles were (10)_______ new products. The workers there told us that recycling one ton of paper can save 17 trees. I was (11)_______ by this fact.\n\nSince then, I have paid more attention to reducing waste. I always take a reusable bag when going shopping. My classmates also join me in this (12)_______. Together, we hope to make our campus greener."
     },
     {
       "id": 12,
       "type": "cloze",
       "knowledge_point": "cloze_general",
       "difficulty": 2,
-      "stem": "(12)___",
+      "stem": "(12)_______",
       "options": [
-        "A. decision",
-        "B. difference",
-        "C. mistake",
-        "D. progress"
+        "A. effort",
+        "B. trouble",
+        "C. time",
+        "D. money"
       ],
-      "correct_answer": "B",
-      "explanation": "选B。make a big difference是固定短语，意为'产生重大影响/有很大作用'。句意为'小的行动能产生大的影响'。make a decision（做决定），make a mistake（犯错误），make progress（取得进步），均不符合句意。",
+      "correct_answer": "A",
+      "explanation": "本题考查名词辨析与固定搭配。effort意为'努力'，join sb. in this effort意为'加入某人的这项努力中'，符合句意'我的同学们也加入我的这项努力'。trouble麻烦；time时间；money金钱。effort呼应前文的环保行动，且this指代前文提到的减少浪费、使用环保袋等行为，是一种effort（努力）而非其他。解题技巧：注意代词指代和固定搭配，join sb. in sth.表示在某方面与某人一起。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school started a green project called \"Zero Waste Classroom\". The project aims to help students understand the (8)___ of environmental protection.\n\nEvery class was asked to collect (9)___ materials like paper, plastic bottles and old books. At first, many students thought it was (10)___ and didn't want to participate. However, after our teacher explained how much waste we produce every day, we changed our (11)___.\n\nMy class set up a special corner for sorting waste. We put different bins for paper, plastic and other waste. Every Friday afternoon, volunteer students would take the collected items to the recycling center.\n\nBy the end of the term, we had collected over 500 kilograms of recyclable materials. The money we got from selling these materials was used to buy new books for our class library.\n\nThis experience taught us that small actions can make a big (12)___. We realized that protecting the environment is not just a slogan but something we can do in our daily lives."
+      "group_passage": "Our school started a recycling program last month. The program (8)_______ to help students understand the importance of protecting the environment. Every classroom now has three different bins for sorting waste.\n\nI used to throw everything into one bin. (9)_______ now I know that paper, plastic and food waste should be separated. This small change has made a big difference to our school life.\n\nLast Friday, our class visited a local recycling center. We saw how old bottles were (10)_______ new products. The workers there told us that recycling one ton of paper can save 17 trees. I was (11)_______ by this fact.\n\nSince then, I have paid more attention to reducing waste. I always take a reusable bag when going shopping. My classmates also join me in this (12)_______. Together, we hope to make our campus greener."
     },
     {
       "id": 13,
       "type": "reading",
       "knowledge_point": "detail",
-      "difficulty": 1,
-      "stem": "How many hours of sleep do teenagers need every night according to the passage?",
+      "difficulty": 2,
+      "stem": "What should we NOT do during short breaks according to the passage?",
       "options": [
-        "A. 6-7 hours",
-        "B. 8-10 hours",
-        "C. 10-12 hours",
-        "D. 4-5 hours"
+        "A. Stand up and stretch our body.",
+        "B. Look at green plants.",
+        "C. Check our mobile phones.",
+        "D. Drink some water."
       ],
-      "correct_answer": "B",
-      "explanation": "选B。细节理解题。直接定位原文第二段第一句'Scientists have found that teenagers need about 8-10 hours of sleep every night.'，答案明确为8-10小时。解题技巧：细节题要注意题干中的数字、大写、特殊名词等关键词，快速在原文中找到对应句子。",
+      "correct_answer": "C",
+      "explanation": "本题考查细节理解。根据文章第三段'During these short breaks, you should not look at your phone or computer.'可知，休息时不应该看手机或电脑。A、B、D选项都是文章建议可以做的事情（stand up and stretch、looking at green plants、drinking some water）。解题技巧：细节题要找准关键词定位原文，注意题干中的NOT表示反向选择，不要误选。",
       "label": "阅读-细节理解",
       "group": "reading_1",
-      "group_passage": "Many teenagers love staying up late to play games or watch videos. However, new research shows that lack of sleep can seriously affect our health and study performance.\n\nScientists have found that teenagers need about 8-10 hours of sleep every night. During sleep, our brains process information we learned during the day. If we don't get enough sleep, we may have trouble concentrating in class and remembering new knowledge.\n\nMoreover, sleep deprivation（睡眠不足）can weaken our immune system（免疫系统）, making us more likely to get sick. It can also affect our mood, causing irritability and stress.\n\nTo sleep better, experts suggest creating a bedtime routine. This means going to bed and waking up at the same time every day, even on weekends. Also, avoid using electronic devices at least one hour before bed, as the blue light from screens can prevent us from falling asleep.\n\nRemember, good sleep habits are not just about resting your body—they are essential for your growth and academic success."
+      "group_passage": "Do you often feel tired after studying for a long time? Many students have this problem. Scientists say that taking short breaks during study can help us learn better.\n\nA recent study shows that the human brain cannot focus for hours without rest. When we study continuously, our brain gets tired and cannot remember new information well. However, if we take a 5-minute break every 25 minutes, our memory improves significantly.\n\nDuring these short breaks, you should not look at your phone or computer. Instead, try to stand up and stretch your body. Looking at green plants or drinking some water also helps. These simple activities give your brain time to process what you have learned.\n\nSome students think that breaks waste time. But in fact, they make your study time more effective. Quality is more important than quantity when it comes to learning.\n\nSo next time you feel tired while doing homework, remember to take a short break. Your brain will thank you for it."
     },
     {
       "id": 14,
-      "type": "reading",
-      "knowledge_point": "word_guessing",
-      "difficulty": 2,
-      "stem": "What does the underlined word 'irritability' in Paragraph 3 probably mean?",
-      "options": [
-        "A. Happiness",
-        "B. Anger",
-        "C. Excitement",
-        "D. Surprise"
-      ],
-      "correct_answer": "B",
-      "explanation": "选B。词义猜测题。根据上下文，sleep deprivation（睡眠不足）会影响情绪，与stress（压力）并列，且与mood（情绪）相关。irritability意为'易怒'，与anger（愤怒）意思最接近。happiness（幸福）、excitement（兴奋）、surprise（惊讶）均与睡眠不足带来的负面情绪不符。解题技巧：通过并列词（and后的stress）和上下文情感色彩（负面）推断词义。",
-      "label": "阅读-词义猜测",
-      "group": "reading_1",
-      "group_passage": "Many teenagers love staying up late to play games or watch videos. However, new research shows that lack of sleep can seriously affect our health and study performance.\n\nScientists have found that teenagers need about 8-10 hours of sleep every night. During sleep, our brains process information we learned during the day. If we don't get enough sleep, we may have trouble concentrating in class and remembering new knowledge.\n\nMoreover, sleep deprivation（睡眠不足）can weaken our immune system（免疫系统）, making us more likely to get sick. It can also affect our mood, causing irritability and stress.\n\nTo sleep better, experts suggest creating a bedtime routine. This means going to bed and waking up at the same time every day, even on weekends. Also, avoid using electronic devices at least one hour before bed, as the blue light from screens can prevent us from falling asleep.\n\nRemember, good sleep habits are not just about resting your body—they are essential for your growth and academic success."
-    },
-    {
-      "id": 15,
       "type": "reading",
       "knowledge_point": "inference",
       "difficulty": 3,
       "stem": "What can we infer from the passage?",
       "options": [
-        "A. All teenagers sleep less than 6 hours every night.",
-        "B. Playing games before bed helps us sleep better.",
-        "C. Sleeping well is important for students' academic performance.",
-        "D. Scientists never do research on sleep problems."
+        "A. Studying longer hours always leads to better grades.",
+        "B. Taking breaks is a waste of time for students.",
+        "C. Proper rest can improve study efficiency.",
+        "D. We should look at phones to relax during breaks."
       ],
       "correct_answer": "C",
-      "explanation": "选C。推理判断题。根据文章最后一句'good sleep habits... are essential for your growth and academic success'（良好的睡眠习惯对成长和学业成功至关重要），可推断出睡得好对学生学习成绩很重要。A选项'all'过于绝对，且与原文不符；B选项与原文'avoid using electronic devices... before bed'（睡前避免使用电子设备）相反；D选项与第一段'new research shows'（新研究表明）矛盾。解题技巧：推理题要避免绝对化词汇（all, never, always），选择基于原文合理推断的选项。",
+      "explanation": "本题考查推理判断。根据文章最后两段，特别是'they make your study time more effective'和'Quality is more important than quantity'可推断出，适当的休息可以提高学习效率。A选项与文意相反（大脑无法长时间专注）；B选项是某些学生的错误观点，已被作者否定；D选项与原文'you should not look at your phone'相悖。解题技巧：推理题要基于原文信息进行合理推断，不能选与原文直接矛盾的选项，也不能选原文直接陈述的内容（那叫细节题）。",
       "label": "阅读-推理判断",
       "group": "reading_1",
-      "group_passage": "Many teenagers love staying up late to play games or watch videos. However, new research shows that lack of sleep can seriously affect our health and study performance.\n\nScientists have found that teenagers need about 8-10 hours of sleep every night. During sleep, our brains process information we learned during the day. If we don't get enough sleep, we may have trouble concentrating in class and remembering new knowledge.\n\nMoreover, sleep deprivation（睡眠不足）can weaken our immune system（免疫系统）, making us more likely to get sick. It can also affect our mood, causing irritability and stress.\n\nTo sleep better, experts suggest creating a bedtime routine. This means going to bed and waking up at the same time every day, even on weekends. Also, avoid using electronic devices at least one hour before bed, as the blue light from screens can prevent us from falling asleep.\n\nRemember, good sleep habits are not just about resting your body—they are essential for your growth and academic success."
+      "group_passage": "Do you often feel tired after studying for a long time? Many students have this problem. Scientists say that taking short breaks during study can help us learn better.\n\nA recent study shows that the human brain cannot focus for hours without rest. When we study continuously, our brain gets tired and cannot remember new information well. However, if we take a 5-minute break every 25 minutes, our memory improves significantly.\n\nDuring these short breaks, you should not look at your phone or computer. Instead, try to stand up and stretch your body. Looking at green plants or drinking some water also helps. These simple activities give your brain time to process what you have learned.\n\nSome students think that breaks waste time. But in fact, they make your study time more effective. Quality is more important than quantity when it comes to learning.\n\nSo next time you feel tired while doing homework, remember to take a short break. Your brain will thank you for it."
+    },
+    {
+      "id": 15,
+      "type": "reading",
+      "knowledge_point": "word_guessing",
+      "difficulty": 2,
+      "stem": "What does the underlined word 'significantly' in Paragraph 2 probably mean?",
+      "options": [
+        "A. Slowly",
+        "B. Greatly",
+        "C. Hardly",
+        "D. Recently"
+      ],
+      "correct_answer": "B",
+      "explanation": "本题考查词义猜测。significantly出现在'our memory improves significantly'，前文提到连续学习会使大脑疲劳、记不住新信息，However转折后说每25分钟休息5分钟，记忆应该会'显著地、大大地'提高。greatly（大大地、非常）意思最接近。slowly缓慢地；hardly几乎不；recently最近。解题技巧：利用上下文逻辑关系（However转折）和语义对比（前负后正），以及构词法（significant重要的/显著的 + ly副词后缀）。",
+      "label": "阅读-词义猜测",
+      "group": "reading_1",
+      "group_passage": "Do you often feel tired after studying for a long time? Many students have this problem. Scientists say that taking short breaks during study can help us learn better.\n\nA recent study shows that the human brain cannot focus for hours without rest. When we study continuously, our brain gets tired and cannot remember new information well. However, if we take a 5-minute break every 25 minutes, our memory improves significantly.\n\nDuring these short breaks, you should not look at your phone or computer. Instead, try to stand up and stretch your body. Looking at green plants or drinking some water also helps. These simple activities give your brain time to process what you have learned.\n\nSome students think that breaks waste time. But in fact, they make your study time more effective. Quality is more important than quantity when it comes to learning.\n\nSo next time you feel tired while doing homework, remember to take a short break. Your brain will thank you for it."
     },
     {
       "id": 16,
       "type": "reading",
       "knowledge_point": "main_idea",
-      "difficulty": 2,
-      "stem": "What is the best title for the passage?",
+      "difficulty": 3,
+      "stem": "What is the best title for this passage?",
       "options": [
-        "A. How to Play Games Wisely",
-        "B. The Importance of Sleep for Teenagers",
-        "C. Why We Dream at Night",
-        "D. Electronic Devices and Life"
+        "A. How to Study for Exams",
+        "B. The Importance of Taking Breaks",
+        "C. Why We Feel Tired",
+        "D. Ways to Use Mobile Phones"
       ],
       "correct_answer": "B",
-      "explanation": "选B。主旨大意题。文章第一段提出睡眠不足影响健康和学习，第二段讲青少年需要多少睡眠，第三段讲睡眠不足的危害，第四段讲如何改善睡眠，最后总结睡眠习惯的重要性。全文围绕'青少年睡眠的重要性'展开。A选项只涉及第一段细节；C选项'dream'文中未提及；D选项'电子设备'只在第四段提到，属于细节。解题技巧：主旨题要涵盖全文内容，不能过大也不能过小，通常出现在首段或尾段。",
+      "explanation": "本题考查主旨大意/最佳标题。文章围绕'学习时短暂休息的重要性'展开，第一段点明主题，中间论述原因和方法，最后总结建议。A选项范围太宽（备考），且未突出breaks；C选项只是引子，不是主旨；D选项与文意相反（文章建议休息时别看手机）。B选项准确概括了文章核心。解题技巧：主旨题要抓住首尾段和每段首句，寻找高频词（breaks出现多次），排除以偏概全或偏离主题的选项。",
       "label": "阅读-主旨大意",
       "group": "reading_1",
-      "group_passage": "Many teenagers love staying up late to play games or watch videos. However, new research shows that lack of sleep can seriously affect our health and study performance.\n\nScientists have found that teenagers need about 8-10 hours of sleep every night. During sleep, our brains process information we learned during the day. If we don't get enough sleep, we may have trouble concentrating in class and remembering new knowledge.\n\nMoreover, sleep deprivation（睡眠不足）can weaken our immune system（免疫系统）, making us more likely to get sick. It can also affect our mood, causing irritability and stress.\n\nTo sleep better, experts suggest creating a bedtime routine. This means going to bed and waking up at the same time every day, even on weekends. Also, avoid using electronic devices at least one hour before bed, as the blue light from screens can prevent us from falling asleep.\n\nRemember, good sleep habits are not just about resting your body—they are essential for your growth and academic success."
+      "group_passage": "Do you often feel tired after studying for a long time? Many students have this problem. Scientists say that taking short breaks during study can help us learn better.\n\nA recent study shows that the human brain cannot focus for hours without rest. When we study continuously, our brain gets tired and cannot remember new information well. However, if we take a 5-minute break every 25 minutes, our memory improves significantly.\n\nDuring these short breaks, you should not look at your phone or computer. Instead, try to stand up and stretch your body. Looking at green plants or drinking some water also helps. These simple activities give your brain time to process what you have learned.\n\nSome students think that breaks waste time. But in fact, they make your study time more effective. Quality is more important than quantity when it comes to learning.\n\nSo next time you feel tired while doing homework, remember to take a short break. Your brain will thank you for it."
     },
     {
       "id": 17,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "stem": "(17)___",
+      "stem": "(17)_______",
       "options": [
-        "A. However, never give up when facing difficulties.",
-        "B. First, build good relationships with others.",
-        "C. In addition, manage your time wisely.",
-        "D. Finally, take good care of your health.",
-        "E. Second, develop good study habits."
+        "A. However, it also brings some challenges.",
+        "B. Besides making friends, you can learn new skills.",
+        "C. So find a club that interests you today.",
+        "D. There are many benefits to joining a club.",
+        "E. Then you will realize how fun school life can be."
       ],
-      "correct_answer": "B",
-      "explanation": "选B。选句子填空题。下文提到'Try to get to know your classmates... Making friends'（试着认识同学……交朋友），这与B选项'build good relationships with others'（建立良好的人际关系）相呼应。且作为第一条建议，用First开头符合逻辑顺序。",
+      "correct_answer": "D",
+      "explanation": "本题考查段落主旨句与总分结构。空格位于首段，下文用First（首先）列举了好处，因此此处应是总起句'参加社团有很多好处'。D选项There are many benefits to joining a club.恰好总领全文。A选项表转折，通常用于引出问题的段落；B选项Besides表示递进，用于补充说明，不适合段首总起；C选项是结论句，用于文末；E选项也是结果/感受描述。解题技巧：选句子填空要注意段落结构，首段通常是总述，中间分述，尾段总结。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Starting middle school can be exciting but also challenging. Here are some tips to help you adapt to your new school life quickly.\n\n(17)___ Try to get to know your classmates by joining clubs or sports teams. Making friends will make you feel less lonely and more confident.\n\n(18)___ Unlike primary school, middle school teachers expect you to take more responsibility for your own learning. Write down your homework and important dates in a notebook.\n\n(19)___ If you find certain subjects difficult, don't be afraid to ask teachers or classmates for help. Everyone learns at their own pace, and it's okay to need assistance sometimes.\n\n(20)___ Remember to balance your study and rest. Proper exercise and enough sleep will keep you energetic and ready to face new challenges.\n\nFollow these suggestions, and you'll soon enjoy your middle school journey!"
+      "group_passage": "Joining a school club is a great way to enrich your middle school life. (17)_______. First, you can make friends who share the same interests as you. For example, if you love music, the school band is perfect for you.\n\n(18)_______. In the science club, you will do experiments that you cannot do in regular classes. This hands-on experience helps you understand textbook knowledge better.\n\nMoreover, being in a club teaches you time management. (19)_______. You need to balance your study and club activities. This skill will be useful in your future life.\n\n(20)_______. Don't hesitate to join one and enjoy your school life!"
     },
     {
       "id": 18,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "stem": "(18)___",
+      "stem": "(18)_______",
       "options": [
-        "A. However, never give up when facing difficulties.",
-        "B. First, build good relationships with others.",
-        "C. In addition, manage your time wisely.",
-        "D. Finally, take good care of your health.",
-        "E. Second, develop good study habits."
+        "A. However, it also brings some challenges.",
+        "B. Besides making friends, you can learn new skills.",
+        "C. So find a club that interests you today.",
+        "D. There are many benefits to joining a club.",
+        "E. Then you will realize how fun school life can be."
       ],
-      "correct_answer": "E",
-      "explanation": "选E。下文提到'take more responsibility for your own learning'（对自己的学习负更多责任）和'Write down your homework'（记下作业），这些都属于学习习惯（study habits）的范畴。且作为第二条建议，用Second开头与前面的First形成顺序衔接。",
+      "correct_answer": "B",
+      "explanation": "本题考查过渡句与递进关系。上一段讲了First（第一点好处）交朋友，本段继续讲在科学社团可以学做实验，是第二点好处，故用Besides（除……之外还有）引出。B选项Besides making friends, you can learn new skills.承上启下，既总结上文（making friends），又引出下文（learn new skills对应做实验）。A选项表转折，与上文逻辑不符；C、D、E选项与段落位置和内容不符。解题技巧：注意连接词First、Besides、Moreover的递进序列，选项B的Besides与First、Moreover形成逻辑链条。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Starting middle school can be exciting but also challenging. Here are some tips to help you adapt to your new school life quickly.\n\n(17)___ Try to get to know your classmates by joining clubs or sports teams. Making friends will make you feel less lonely and more confident.\n\n(18)___ Unlike primary school, middle school teachers expect you to take more responsibility for your own learning. Write down your homework and important dates in a notebook.\n\n(19)___ If you find certain subjects difficult, don't be afraid to ask teachers or classmates for help. Everyone learns at their own pace, and it's okay to need assistance sometimes.\n\n(20)___ Remember to balance your study and rest. Proper exercise and enough sleep will keep you energetic and ready to face new challenges.\n\nFollow these suggestions, and you'll soon enjoy your middle school journey!"
+      "group_passage": "Joining a school club is a great way to enrich your middle school life. (17)_______. First, you can make friends who share the same interests as you. For example, if you love music, the school band is perfect for you.\n\n(18)_______. In the science club, you will do experiments that you cannot do in regular classes. This hands-on experience helps you understand textbook knowledge better.\n\nMoreover, being in a club teaches you time management. (19)_______. You need to balance your study and club activities. This skill will be useful in your future life.\n\n(20)_______. Don't hesitate to join one and enjoy your school life!"
     },
     {
       "id": 19,
       "type": "fill",
       "knowledge_point": "sentence_fill",
-      "difficulty": 2,
-      "stem": "(19)___",
+      "difficulty": 3,
+      "stem": "(19)_______",
       "options": [
-        "A. However, never give up when facing difficulties.",
-        "B. First, build good relationships with others.",
-        "C. In addition, manage your time wisely.",
-        "D. Finally, take good care of your health.",
-        "E. Second, develop good study habits."
+        "A. However, it also brings some challenges.",
+        "B. Besides making friends, you can learn new skills.",
+        "C. So find a club that interests you today.",
+        "D. There are many benefits to joining a club.",
+        "E. Then you will realize how fun school life can be."
       ],
       "correct_answer": "A",
-      "explanation": "选A。下文提到'If you find certain subjects difficult'（如果你发现某些科目难），与A选项'facing difficulties'（面对困难）直接对应。'don't be afraid to ask... for help'（不要害怕求助）也体现了'never give up'（永不放弃）的精神。However表示转折，引出与前面学习习惯不同的方面——遇到困难时的态度。",
+      "explanation": "本题考查转折关系与逻辑衔接。前文讲Moreover（此外）参加社团的好处（教会时间管理），后文讲'你需要平衡学习和社团活动'，暗示这是一种挑战或困难，因此中间需要转折。A选项However, it also brings some challenges.（然而，这也带来一些挑战）承上启下，challenges对应后文的balance（平衡两者是有难度的）。其他选项无法体现这种转折关系。解题技巧：However表示转折，用于引出问题或反面情况，与Moreover（递进）形成对比，展示事物的两面性。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Starting middle school can be exciting but also challenging. Here are some tips to help you adapt to your new school life quickly.\n\n(17)___ Try to get to know your classmates by joining clubs or sports teams. Making friends will make you feel less lonely and more confident.\n\n(18)___ Unlike primary school, middle school teachers expect you to take more responsibility for your own learning. Write down your homework and important dates in a notebook.\n\n(19)___ If you find certain subjects difficult, don't be afraid to ask teachers or classmates for help. Everyone learns at their own pace, and it's okay to need assistance sometimes.\n\n(20)___ Remember to balance your study and rest. Proper exercise and enough sleep will keep you energetic and ready to face new challenges.\n\nFollow these suggestions, and you'll soon enjoy your middle school journey!"
+      "group_passage": "Joining a school club is a great way to enrich your middle school life. (17)_______. First, you can make friends who share the same interests as you. For example, if you love music, the school band is perfect for you.\n\n(18)_______. In the science club, you will do experiments that you cannot do in regular classes. This hands-on experience helps you understand textbook knowledge better.\n\nMoreover, being in a club teaches you time management. (19)_______. You need to balance your study and club activities. This skill will be useful in your future life.\n\n(20)_______. Don't hesitate to join one and enjoy your school life!"
     },
     {
       "id": 20,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "stem": "(20)___",
+      "stem": "(20)_______",
       "options": [
-        "A. However, never give up when facing difficulties.",
-        "B. First, build good relationships with others.",
-        "C. In addition, manage your time wisely.",
-        "D. Finally, take good care of your health.",
-        "E. Second, develop good study habits."
+        "A. However, it also brings some challenges.",
+        "B. Besides making friends, you can learn new skills.",
+        "C. So find a club that interests you today.",
+        "D. There are many benefits to joining a club.",
+        "E. Then you will realize how fun school life can be."
       ],
-      "correct_answer": "D",
-      "explanation": "选D。下文提到'balance your study and rest'（平衡学习和休息）、'Proper exercise and enough sleep'（适当运动和充足睡眠），这些都与'health'（健康）相关。Finally表示最后一点建议，符合文章结构（First... Second... ... Finally...）。",
+      "correct_answer": "C",
+      "explanation": "本题考查结论句与总结。空格位于文章最后一段，后文'Don't hesitate to join one'（不要犹豫加入一个）是祈使句，呼吁行动，因此前文应是结论性的建议。C选项So find a club that interests you today.（所以今天就找一个你感兴趣的社团吧）符合总结+建议的功能，So表示因果关系（基于前文的好处得出结论）。E选项虽然也是结尾句，但侧重结果（realize），而C选项侧重行动呼吁（find），与后文Don't hesitate...衔接更紧密。解题技巧：结尾段通常总结全文并给出建议或展望，注意与后文语气的连贯性。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Starting middle school can be exciting but also challenging. Here are some tips to help you adapt to your new school life quickly.\n\n(17)___ Try to get to know your classmates by joining clubs or sports teams. Making friends will make you feel less lonely and more confident.\n\n(18)___ Unlike primary school, middle school teachers expect you to take more responsibility for your own learning. Write down your homework and important dates in a notebook.\n\n(19)___ If you find certain subjects difficult, don't be afraid to ask teachers or classmates for help. Everyone learns at their own pace, and it's okay to need assistance sometimes.\n\n(20)___ Remember to balance your study and rest. Proper exercise and enough sleep will keep you energetic and ready to face new challenges.\n\nFollow these suggestions, and you'll soon enjoy your middle school journey!"
+      "group_passage": "Joining a school club is a great way to enrich your middle school life. (17)_______. First, you can make friends who share the same interests as you. For example, if you love music, the school band is perfect for you.\n\n(18)_______. In the science club, you will do experiments that you cannot do in regular classes. This hands-on experience helps you understand textbook knowledge better.\n\nMoreover, being in a club teaches you time management. (19)_______. You need to balance your study and club activities. This skill will be useful in your future life.\n\n(20)_______. Don't hesitate to join one and enjoy your school life!"
     }
   ]
 }
