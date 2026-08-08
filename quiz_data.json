@@ -1,5 +1,5 @@
 ﻿{
-  "date": "2026-08-08",
+  "date": "2026-08-09",
   "session_number": 1,
   "questions": [
     {
@@ -7,15 +7,15 @@
       "type": "grammar",
       "knowledge_point": "present_perfect_vs_past_simple",
       "difficulty": 1,
-      "stem": "—I _______ my English book yesterday morning. Have you seen it?\n—Yes, I _______ it on your desk just now.",
+      "stem": "I ______ my grandparents last weekend. We had a great time together.",
       "options": [
-        "A. lost; have found",
-        "B. have lost; found",
-        "C. lost; found",
-        "D. have lost; have found"
+        "A. visited",
+        "B. have visited",
+        "C. visit",
+        "D. am visiting"
       ],
-      "correct_answer": "C",
-      "explanation": "① 第一空后有yesterday morning（昨天早上），是具体的过去时间状语，只能用一般过去时lost；② 第二空just now表示\"刚才\"，也是明确的过去时间点，用一般过去时found；③ 现在完成时不能与yesterday, just now等具体过去时间连用。口诀：具体过去用过去，完成时态不接when。",
+      "correct_answer": "A",
+      "explanation": "本题考查一般过去时与现在完成时的区别。句中有明确的过去时间状语\"last weekend\"（上周末），这是典型的一般过去时标志词，表示过去某个特定时间发生的动作。现在完成时（have visited）强调过去动作对现在的影响或与现在的联系，不能与表示过去的具体时间短语连用。C选项是一般现在时，用于表示习惯或客观事实；D选项是现在进行时，表示正在进行的动作。",
       "label": "语法题"
     },
     {
@@ -23,15 +23,15 @@
       "type": "grammar",
       "knowledge_point": "relative_clause_who_which",
       "difficulty": 2,
-      "stem": "The boy _______ is playing basketball over there is my class monitor.",
+      "stem": "The book ______ I bought yesterday is about environmental protection.",
       "options": [
         "A. who",
         "B. which",
         "C. whom",
         "D. whose"
       ],
-      "correct_answer": "A",
-      "explanation": "① 先行词是The boy（人），排除指物的B选项which；② 定语从句中缺少主语（is playing前缺主语），who可作主语，whom只能作宾语，whose表示\"谁的\"后需接名词；③ 因此选who。技巧：先行词是人，从句缺主语用who，缺宾语用who/whom。",
+      "correct_answer": "B",
+      "explanation": "本题考查定语从句关系代词的选择。先行词是\"the book\"（书），指物，且在从句中作宾语（I bought the book），因此要用关系代词which或that。Who指代人且在从句中作主语；whom指代人且在从句中作宾语；whose表示\"……的\"，在从句中作定语。解题技巧：先行词指人用who/whom/that，指物用which/that，作定语用whose。",
       "label": "语法题"
     },
     {
@@ -39,31 +39,31 @@
       "type": "grammar",
       "knowledge_point": "passive_voice",
       "difficulty": 2,
-      "stem": "These old houses _______ by the government next year to make room for new schools.",
+      "stem": "These trees ______ by the students every spring to make our school greener.",
       "options": [
-        "A. will pull down",
-        "B. will be pulled down",
-        "C. are pulling down",
-        "D. pulled down"
+        "A. are planted",
+        "B. planted",
+        "C. plant",
+        "D. were planted"
       ],
-      "correct_answer": "B",
-      "explanation": "① 主语These old houses（老房子）是\"被拆除\"的对象，需用被动语态（be+过去分词）；② next year表示将来时间，用一般将来时的被动语态will be+过去分词；③ pull down是动词短语，被动语态中要保持完整。干扰项A是主动语态，C是现在进行时的主动，D是一般过去时。",
+      "correct_answer": "A",
+      "explanation": "本题考查一般现在时的被动语态。主语\"these trees\"（这些树）是动作\"plant\"（种植）的承受者，因此要用被动语态，结构为be+过去分词。时间状语\"every spring\"（每年春天）表示经常性、习惯性的动作，应用一般现在时的被动语态\"are planted\"。D选项是一般过去时的被动语态，用于表示过去某个特定时间发生的被动动作，与\"every spring\"不符。",
       "label": "语法题"
     },
     {
       "id": 4,
       "type": "grammar",
-      "knowledge_point": "present_perfect_vs_past_simple",
+      "knowledge_point": "object_clause",
       "difficulty": 3,
-      "stem": "—Have you ever visited the Science Museum?\n—Yes. I _______ there twice with my classmates last month.",
+      "stem": "Could you tell me ______? I need to hand in the report tomorrow.",
       "options": [
-        "A. have gone",
-        "B. have been",
-        "C. went",
-        "D. go"
+        "A. where is the library",
+        "B. where the library is",
+        "C. where does the library open",
+        "D. where the library does"
       ],
-      "correct_answer": "C",
-      "explanation": "① 虽然问句用现在完成时，但答句中有last month（上个月）这一具体过去时间状语，必须用一般过去时；② have been to表示\"去过某地（已回）\"，但不可与last month连用；③ went是go的过去式，符合一般过去时+具体过去时间的要求。这是易错点：不要看到问句用完成时就盲目用完成时回答。",
+      "correct_answer": "B",
+      "explanation": "本题考查宾语从句的语序。宾语从句必须使用陈述句语序（主语+谓语），不能用疑问句语序。A和C选项使用了疑问句语序（is/does放在主语前），应排除。D选项结构不完整，缺少谓语动词。B选项\"where the library is\"是正确的陈述句语序（the library为主语，is为谓语）。解题口诀：宾语从句用陈述，主语谓语不调换。",
       "label": "语法题"
     },
     {
@@ -71,7 +71,7 @@
       "type": "vocabulary",
       "knowledge_point": "phrasal_verbs",
       "difficulty": 1,
-      "stem": "As a volunteer, I often _______ the elderly at the nursing home on weekends.",
+      "stem": "It's important to ______ your pet when you're free. Don't just leave it alone at home.",
       "options": [
         "A. look for",
         "B. look after",
@@ -79,39 +79,39 @@
         "D. look at"
       ],
       "correct_answer": "B",
-      "explanation": "① look after表示\"照顾\"，符合句意\"在养老院照顾老人\"；② look for寻找，look up查阅（词典），look at看着；③ 固定搭配题需积累常见动词短语。",
+      "explanation": "本题考查动词短语辨析。根据句意\"当你有空时要______你的宠物，不要把它独自留在家\"，可知需要表示\"照顾\"的含义。Look after表示\"照顾、照料\"；look for表示\"寻找\"；look up表示\"查阅（词典）、向上看\"；look at表示\"看\"。根据语境，照顾宠物是合理搭配。",
       "label": "词汇题"
     },
     {
       "id": 6,
       "type": "vocabulary",
-      "knowledge_point": "word_formation",
+      "knowledge_point": "prefix_suffix",
       "difficulty": 2,
-      "stem": "The _______ news made all the students _______ . They jumped with joy.",
+      "stem": "The word 'unhappy' can be divided into 'un-' and 'happy'. The prefix 'un-' means ______.",
       "options": [
-        "A. excited; exciting",
-        "B. exciting; excited",
-        "C. exciting; exciting",
-        "D. excited; excited"
+        "A. not",
+        "B. again",
+        "C. full of",
+        "D. without"
       ],
-      "correct_answer": "B",
-      "explanation": "① exciting（令人兴奋的）修饰事物news，excited（感到兴奋的）修饰人students；② 口诀：-ing修饰物，-ed修饰人；③ 句意：这个令人兴奋的消息让所有学生感到兴奋。",
+      "correct_answer": "A",
+      "explanation": "本题考查前缀含义。Un-是常见的否定前缀，表示\"不、非\"，如unhappy（不开心的）、unhealthy（不健康的）、unable（不能的）。Re-表示\"再次\"，如rewrite（重写）；-ful是后缀，表示\"充满……的\"，如careful（小心的）；dis-也表示否定，但通常用于动词或名词前，如dislike（不喜欢）。",
       "label": "词汇题"
     },
     {
       "id": 7,
       "type": "vocabulary",
-      "knowledge_point": "word_meaning_context",
+      "knowledge_point": "word_formation",
       "difficulty": 2,
-      "stem": "The heavy rain caused serious _______ in the low-lying areas. Many houses were underwater.",
+      "stem": "We should pay more attention to the ______ of the environment around us.",
       "options": [
-        "A. drought",
-        "B. flood",
-        "C. earthquake",
-        "D. fire"
+        "A. protect",
+        "B. protected",
+        "C. protection",
+        "D. protective"
       ],
-      "correct_answer": "B",
-      "explanation": "① 根据上下文语境：heavy rain（大雨）、underwater（在水下）提示是\"洪水\"；② flood洪水，drought干旱，earthquake地震，fire火灾；③ 词义猜测题需抓住上下文关键词（rain, underwater）进行逻辑推理。",
+      "correct_answer": "C",
+      "explanation": "本题考查词性转换。定冠词\"the\"后面需要接名词，构成\"the + 名词 + of\"结构。Protect是动词（保护），protected是过去分词或形容词，protection是名词（保护），protective是形容词（保护的）。因此选C。句意：我们应该更加关注对周围环境的保护。",
       "label": "词汇题"
     },
     {
@@ -119,144 +119,144 @@
       "type": "cloze",
       "knowledge_point": "cloze_general",
       "difficulty": 1,
-      "stem": "(8)___",
+      "stem": "(8)______",
       "options": [
-        "A. make",
-        "B. do",
-        "C. create",
-        "D. produce"
+        "A. had",
+        "B. missed",
+        "C. forgot",
+        "D. refused"
       ],
-      "correct_answer": "B",
-      "explanation": "① 固定搭配do a project（做项目）；② make制造，create创造，produce生产，均不与project构成最佳搭配；③ 完形填空中要注意动词与名词的固定搭配。",
+      "correct_answer": "A",
+      "explanation": "本题考查语境理解和动词搭配。根据上下文\"他们______一场与校长的会议并解释了他们的计划\"，have/hold a meeting是固定搭配，表示\"召开会议\"。Missed（错过）、forgot（忘记）、refused（拒绝）均不符合语境，因为后文提到校长很支持，说明会议成功召开了。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Our school has started a new program called \"Green Campus\" this semester. The aim is to make our school more environmentally friendly. Last month, our class was asked to (8)______ a special project about waste sorting.\n\nAt first, many students thought it was (9)______ and didn't want to take part. However, after our teacher explained the importance of protecting the environment, we changed our minds. We (10)______ posters and put them up around the school to remind everyone to sort their rubbish.\n\nDuring the first week, things were not easy. Some students still threw everything into the same bin. But we didn't (11)______. We stood near the bins during break time and helped our classmates sort the waste correctly. Slowly, more and more students started to (12)______ the rules.\n\nNow, after a month, our school has produced 30% less waste than before. Everyone feels proud of what we have achieved."
+      "group_passage": "Our school started a recycling program last month. The idea came from a group of students who wanted to make our campus greener. They (8)______ a meeting with the headmaster and explained their plan. The headmaster was very supportive and agreed to help them.\n\nThe program works like this: students collect plastic bottles, waste paper and old books. They put these items into special bins (9)______ around the school. Every Friday afternoon, volunteers sort the materials and send them to recycling centers. In return, the centers give the school some money.\n\nSo far, the program has been very successful. We (10)______ over 500 kilograms of waste. The money earned will be used to buy new plants for the school garden. \"It's amazing to see how small actions can make a big (11)______,\" said Li Ming, one of the student leaders. \"Everyone can help protect the environment in daily life.\"\n\nThe program has also changed students' habits. Many of us now think twice before (12)______ away things that can be reused. Our school hopes more schools will start similar programs to protect our planet."
     },
     {
       "id": 9,
       "type": "cloze",
       "knowledge_point": "cloze_general",
       "difficulty": 2,
-      "stem": "(9)___",
+      "stem": "(9)______",
       "options": [
-        "A. interesting",
-        "B. boring",
-        "C. important",
-        "D. necessary"
+        "A. placed",
+        "B. hidden",
+        "C. locked",
+        "D. drawn"
       ],
-      "correct_answer": "B",
-      "explanation": "① 根据下文\"didn't want to take part（不想参加）\"可知学生们一开始觉得\"无聊/枯燥\"；② boring无聊的，interesting有趣的（与语境相反），important重要的，necessary必要的；③ 完形填空要注意上下文逻辑关系（不想参加→觉得无聊）。",
+      "correct_answer": "A",
+      "explanation": "本题考查语境推理。Bins（垃圾桶、回收箱）应该是被\"放置\"在学校各处供学生使用。Placed表示\"放置\"，符合语境。Hidden（隐藏）不符合逻辑，因为回收箱需要被看见才能使用；locked（锁上）也不合理，因为学生需要随时投放；drawn（画）与bins搭配不当。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Our school has started a new program called \"Green Campus\" this semester. The aim is to make our school more environmentally friendly. Last month, our class was asked to (8)______ a special project about waste sorting.\n\nAt first, many students thought it was (9)______ and didn't want to take part. However, after our teacher explained the importance of protecting the environment, we changed our minds. We (10)______ posters and put them up around the school to remind everyone to sort their rubbish.\n\nDuring the first week, things were not easy. Some students still threw everything into the same bin. But we didn't (11)______. We stood near the bins during break time and helped our classmates sort the waste correctly. Slowly, more and more students started to (12)______ the rules.\n\nNow, after a month, our school has produced 30% less waste than before. Everyone feels proud of what we have achieved."
+      "group_passage": "Our school started a recycling program last month. The idea came from a group of students who wanted to make our campus greener. They (8)______ a meeting with the headmaster and explained their plan. The headmaster was very supportive and agreed to help them.\n\nThe program works like this: students collect plastic bottles, waste paper and old books. They put these items into special bins (9)______ around the school. Every Friday afternoon, volunteers sort the materials and send them to recycling centers. In return, the centers give the school some money.\n\nSo far, the program has been very successful. We (10)______ over 500 kilograms of waste. The money earned will be used to buy new plants for the school garden. \"It's amazing to see how small actions can make a big (11)______,\" said Li Ming, one of the student leaders. \"Everyone can help protect the environment in daily life.\"\n\nThe program has also changed students' habits. Many of us now think twice before (12)______ away things that can be reused. Our school hopes more schools will start similar programs to protect our planet."
     },
     {
       "id": 10,
       "type": "cloze",
-      "knowledge_point": "cloze_general",
+      "knowledge_point": "present_perfect",
       "difficulty": 2,
-      "stem": "(10)___",
+      "stem": "(10)______",
       "options": [
-        "A. bought",
-        "B. borrowed",
-        "C. designed",
-        "D. stole"
+        "A. collected",
+        "B. have collected",
+        "C. collect",
+        "D. were collecting"
       ],
-      "correct_answer": "C",
-      "explanation": "① 学生为垃圾分类活动\"设计\"海报，designed符合语境；② bought购买（学生通常自己制作而非购买），borrowed借（不符），stole偷（负面词，不符）；③ 根据语境推理，学校环保活动通常是学生自己动手设计制作。",
+      "correct_answer": "B",
+      "explanation": "本题考查现在完成时的用法。句首\"So far\"（到目前为止）是现在完成时的标志性时间状语，表示从过去某一时间开始一直持续到现在的动作。主语we是复数，因此用have collected。A选项是一般过去时，不能与so far连用；C选项是一般现在时，表示习惯性动作；D选项是过去进行时，表示过去某一时刻正在进行的动作。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Our school has started a new program called \"Green Campus\" this semester. The aim is to make our school more environmentally friendly. Last month, our class was asked to (8)______ a special project about waste sorting.\n\nAt first, many students thought it was (9)______ and didn't want to take part. However, after our teacher explained the importance of protecting the environment, we changed our minds. We (10)______ posters and put them up around the school to remind everyone to sort their rubbish.\n\nDuring the first week, things were not easy. Some students still threw everything into the same bin. But we didn't (11)______. We stood near the bins during break time and helped our classmates sort the waste correctly. Slowly, more and more students started to (12)______ the rules.\n\nNow, after a month, our school has produced 30% less waste than before. Everyone feels proud of what we have achieved."
+      "group_passage": "Our school started a recycling program last month. The idea came from a group of students who wanted to make our campus greener. They (8)______ a meeting with the headmaster and explained their plan. The headmaster was very supportive and agreed to help them.\n\nThe program works like this: students collect plastic bottles, waste paper and old books. They put these items into special bins (9)______ around the school. Every Friday afternoon, volunteers sort the materials and send them to recycling centers. In return, the centers give the school some money.\n\nSo far, the program has been very successful. We (10)______ over 500 kilograms of waste. The money earned will be used to buy new plants for the school garden. \"It's amazing to see how small actions can make a big (11)______,\" said Li Ming, one of the student leaders. \"Everyone can help protect the environment in daily life.\"\n\nThe program has also changed students' habits. Many of us now think twice before (12)______ away things that can be reused. Our school hopes more schools will start similar programs to protect our planet."
     },
     {
       "id": 11,
       "type": "cloze",
       "knowledge_point": "cloze_general",
       "difficulty": 1,
-      "stem": "(11)___",
+      "stem": "(11)______",
       "options": [
-        "A. give up",
-        "B. get up",
-        "C. look up",
-        "D. take up"
+        "A. mistake",
+        "B. decision",
+        "C. difference",
+        "D. progress"
       ],
-      "correct_answer": "A",
-      "explanation": "① 前文说\"事情不容易\"，but转折表示\"但我们没有放弃\"，give up放弃；② get up起床，look up查阅，take up开始从事/占据；③ 固定短语辨析，根据语境逻辑（困难但不放弃）。",
+      "correct_answer": "C",
+      "explanation": "本题考查固定搭配。Make a big difference是固定短语，意为\"产生重大影响、带来很大不同\"。句意：\"看到微小的行动能产生如此大的影响，真是令人惊奇。\"Make a mistake（犯错误）、make a decision（做决定）、make progress（取得进步）虽然都是固定搭配，但不符合此处语境，因为文章强调的是小行动的大影响。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Our school has started a new program called \"Green Campus\" this semester. The aim is to make our school more environmentally friendly. Last month, our class was asked to (8)______ a special project about waste sorting.\n\nAt first, many students thought it was (9)______ and didn't want to take part. However, after our teacher explained the importance of protecting the environment, we changed our minds. We (10)______ posters and put them up around the school to remind everyone to sort their rubbish.\n\nDuring the first week, things were not easy. Some students still threw everything into the same bin. But we didn't (11)______. We stood near the bins during break time and helped our classmates sort the waste correctly. Slowly, more and more students started to (12)______ the rules.\n\nNow, after a month, our school has produced 30% less waste than before. Everyone feels proud of what we have achieved."
+      "group_passage": "Our school started a recycling program last month. The idea came from a group of students who wanted to make our campus greener. They (8)______ a meeting with the headmaster and explained their plan. The headmaster was very supportive and agreed to help them.\n\nThe program works like this: students collect plastic bottles, waste paper and old books. They put these items into special bins (9)______ around the school. Every Friday afternoon, volunteers sort the materials and send them to recycling centers. In return, the centers give the school some money.\n\nSo far, the program has been very successful. We (10)______ over 500 kilograms of waste. The money earned will be used to buy new plants for the school garden. \"It's amazing to see how small actions can make a big (11)______,\" said Li Ming, one of the student leaders. \"Everyone can help protect the environment in daily life.\"\n\nThe program has also changed students' habits. Many of us now think twice before (12)______ away things that can be reused. Our school hopes more schools will start similar programs to protect our planet."
     },
     {
       "id": 12,
       "type": "cloze",
       "knowledge_point": "cloze_general",
       "difficulty": 2,
-      "stem": "(12)___",
+      "stem": "(12)______",
       "options": [
-        "A. break",
-        "B. follow",
-        "C. make",
-        "D. write"
+        "A. giving",
+        "B. throwing",
+        "C. sending",
+        "D. putting"
       ],
       "correct_answer": "B",
-      "explanation": "① follow the rules遵守规则，固定搭配；② break破坏（与语境相反），make制定（主语通常是学校而非学生），write写（不与rules搭配）；③ 根据语境\"越来越多学生开始遵守规则\"，以及固定搭配选择。",
+      "explanation": "本题考查语境理解和动词搭配。Throw away是固定短语，意为\"扔掉\"。句意：\"现在我们很多人在扔掉可以重复使用的东西之前都会三思而后行。\"Giving away（赠送、泄露）、sending away（送走）、putting away（收拾好、放起来）均不符合语境，因为文章讨论的是回收再利用，针对的是原本会被丢弃的物品。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Our school has started a new program called \"Green Campus\" this semester. The aim is to make our school more environmentally friendly. Last month, our class was asked to (8)______ a special project about waste sorting.\n\nAt first, many students thought it was (9)______ and didn't want to take part. However, after our teacher explained the importance of protecting the environment, we changed our minds. We (10)______ posters and put them up around the school to remind everyone to sort their rubbish.\n\nDuring the first week, things were not easy. Some students still threw everything into the same bin. But we didn't (11)______. We stood near the bins during break time and helped our classmates sort the waste correctly. Slowly, more and more students started to (12)______ the rules.\n\nNow, after a month, our school has produced 30% less waste than before. Everyone feels proud of what we have achieved."
+      "group_passage": "Our school started a recycling program last month. The idea came from a group of students who wanted to make our campus greener. They (8)______ a meeting with the headmaster and explained their plan. The headmaster was very supportive and agreed to help them.\n\nThe program works like this: students collect plastic bottles, waste paper and old books. They put these items into special bins (9)______ around the school. Every Friday afternoon, volunteers sort the materials and send them to recycling centers. In return, the centers give the school some money.\n\nSo far, the program has been very successful. We (10)______ over 500 kilograms of waste. The money earned will be used to buy new plants for the school garden. \"It's amazing to see how small actions can make a big (11)______,\" said Li Ming, one of the student leaders. \"Everyone can help protect the environment in daily life.\"\n\nThe program has also changed students' habits. Many of us now think twice before (12)______ away things that can be reused. Our school hopes more schools will start similar programs to protect our planet."
     },
     {
       "id": 13,
       "type": "reading",
       "knowledge_point": "detail",
       "difficulty": 2,
-      "stem": "What happens when sea turtles eat plastic bags?",
+      "stem": "According to the survey mentioned in the passage, about ______ of teenagers spend more than 3 hours on their phones every day.",
       "options": [
-        "A. They feel sick immediately and die.",
-        "B. They stop eating real food.",
-        "C. They become more active in the ocean.",
-        "D. They return to the beach for help."
+        "A. 30%",
+        "B. 40%",
+        "C. 50%",
+        "D. 60%"
       ],
-      "correct_answer": "B",
-      "explanation": "① 细节理解题，定位原文第二段：\"the plastic stays in their stomachs and makes them feel full, so they stop eating real food\"；② 塑料让海龟感到饱胀，因此停止进食真正的食物；③ A项\"立即死亡\"与原文不符（原文说many turtles die，但不是immediately），C、D项文中未提及。",
+      "correct_answer": "D",
+      "explanation": "本题是细节理解题。根据文章第二段第一句\"According to a recent survey... about 60% of teenagers aged 12 to 15 spend more than 3 hours on their phones every day\"可知，大约60%的青少年每天使用手机超过3小时。细节题解题技巧：先读题干找关键词（如survey, 3 hours），然后回原文定位具体句子，仔细比对选项与原文信息。",
       "label": "阅读-细节理解",
       "group": "reading_1",
-      "group_passage": "Every year, more than 8 million tons of plastic waste ends up in our oceans. This is a serious problem that affects not only sea animals but also human health.\n\nSea turtles often mistake plastic bags for jellyfish (水母), which is their favorite food. When they eat these bags, the plastic stays in their stomachs and makes them feel full, so they stop eating real food. Sadly, many turtles die because of this.\n\nScientists have also found microplastics (微塑料) in the deepest parts of the ocean. These tiny pieces of plastic come from larger items that break down over time. Fish can absorb these microplastics, and when humans eat these fish, the plastics enter our bodies too.\n\nTo solve this problem, many countries have banned (禁止) single-use plastics like straws and plastic bags. Some scientists are working on new materials that can break down naturally in the environment. However, the most important solution is to reduce how much plastic we use in our daily lives.\n\n\"We can't wait for others to fix this,\" says marine biologist Dr. Li. \"Everyone needs to take action now, or our oceans will be in great danger.\""
+      "group_passage": "Smartphones have become an important part of our daily life. They help us communicate with friends, study online and entertain ourselves during free time. With just a few taps, we can access endless information and connect with people worldwide. However, using smartphones too much can cause serious problems that many teenagers don't realize.\n\nAccording to a recent survey conducted by a medical center, about 60% of teenagers aged 12 to 15 spend more than 3 hours on their phones every day. Many of them check their phones every few minutes, even during meals or right before sleeping. This behavior, commonly called \"phone addiction\" (手机上瘾), affects both their physical health and academic performance. Students who use phones excessively often have trouble concentrating in class and suffer from poor eyesight.\n\nDr. Wang, a well-known psychologist, explains that phone addiction happens because apps are specifically designed to attract and hold our attention. The colorful icons, endless scrolling features and instant notifications (即时通知) trigger our brains to release dopamine, a chemical that makes us feel happy and rewarded. That's exactly why we find it increasingly difficult to put down our phones even when we know we should.\n\nFortunately, there are effective ways to solve this problem. First, turn off unnecessary notifications so you won't be disturbed by constant buzzing all the time. Second, set a strict \"phone-free\" time each day, such as during dinner or at least one hour before bedtime. Third, find other meaningful hobbies like reading paper books, playing basketball or learning a musical instrument to replace excessive screen time.\n\nRemember, technology should serve us as a useful tool, not control our lives. Using phones wisely and moderately helps us enjoy a healthier, more balanced and meaningful life."
     },
     {
       "id": 14,
       "type": "reading",
       "knowledge_point": "word_guessing",
       "difficulty": 2,
-      "stem": "What does the underlined word \"banned\" in Paragraph 4 probably mean?",
+      "stem": "The underlined word \"trigger\" in Paragraph 3 probably means ______ in Chinese.",
       "options": [
-        "A. Allowed to use freely",
-        "B. Stopped by law",
-        "C. Produced in large numbers",
-        "D. Sold at high prices"
+        "A. 阻止",
+        "B. 触发",
+        "C. 减少",
+        "D. 储存"
       ],
       "correct_answer": "B",
-      "explanation": "① 词义猜测题，根据上下文：为了解决污染问题，各国对一次性塑料（如吸管、塑料袋）采取了banned措施；② 后文说\"最重要的是减少使用\"，可推测banned是\"禁止\"之意；③ stopped by law（法律禁止）符合语境，allowed to use（允许使用）与语境相反，produced（生产）和sold（销售）不符。",
+      "explanation": "本题是词义猜测题。根据第三段语境，\"色彩鲜艳的图标、无限滚动功能和即时通知______我们的大脑释放多巴胺\"，结合常识可知，这些手机功能会刺激大脑释放化学物质。Trigger意为\"触发、引发\"，与\"cause\"或\"start\"意思相近。词义猜测技巧：通过上下文逻辑关系（因果、递进）和常识判断。后文提到\"这就是为什么我们很难放下手机\"，说明前文讲的是手机吸引注意力的机制，因此\"触发\"最符合语境。",
       "label": "阅读-词义猜测",
       "group": "reading_1",
-      "group_passage": "Every year, more than 8 million tons of plastic waste ends up in our oceans. This is a serious problem that affects not only sea animals but also human health.\n\nSea turtles often mistake plastic bags for jellyfish (水母), which is their favorite food. When they eat these bags, the plastic stays in their stomachs and makes them feel full, so they stop eating real food. Sadly, many turtles die because of this.\n\nScientists have also found microplastics (微塑料) in the deepest parts of the ocean. These tiny pieces of plastic come from larger items that break down over time. Fish can absorb these microplastics, and when humans eat these fish, the plastics enter our bodies too.\n\nTo solve this problem, many countries have banned (禁止) single-use plastics like straws and plastic bags. Some scientists are working on new materials that can break down naturally in the environment. However, the most important solution is to reduce how much plastic we use in our daily lives.\n\n\"We can't wait for others to fix this,\" says marine biologist Dr. Li. \"Everyone needs to take action now, or our oceans will be in great danger.\""
+      "group_passage": "Smartphones have become an important part of our daily life. They help us communicate with friends, study online and entertain ourselves during free time. With just a few taps, we can access endless information and connect with people worldwide. However, using smartphones too much can cause serious problems that many teenagers don't realize.\n\nAccording to a recent survey conducted by a medical center, about 60% of teenagers aged 12 to 15 spend more than 3 hours on their phones every day. Many of them check their phones every few minutes, even during meals or right before sleeping. This behavior, commonly called \"phone addiction\" (手机上瘾), affects both their physical health and academic performance. Students who use phones excessively often have trouble concentrating in class and suffer from poor eyesight.\n\nDr. Wang, a well-known psychologist, explains that phone addiction happens because apps are specifically designed to attract and hold our attention. The colorful icons, endless scrolling features and instant notifications (即时通知) trigger our brains to release dopamine, a chemical that makes us feel happy and rewarded. That's exactly why we find it increasingly difficult to put down our phones even when we know we should.\n\nFortunately, there are effective ways to solve this problem. First, turn off unnecessary notifications so you won't be disturbed by constant buzzing all the time. Second, set a strict \"phone-free\" time each day, such as during dinner or at least one hour before bedtime. Third, find other meaningful hobbies like reading paper books, playing basketball or learning a musical instrument to replace excessive screen time.\n\nRemember, technology should serve us as a useful tool, not control our lives. Using phones wisely and moderately helps us enjoy a healthier, more balanced and meaningful life."
     },
     {
       "id": 15,
       "type": "reading",
       "knowledge_point": "inference",
       "difficulty": 3,
-      "stem": "What can we infer from Dr. Li's words in the last paragraph?",
+      "stem": "What can we infer from the passage?",
       "options": [
-        "A. Scientists have already solved the plastic problem.",
-        "B. We should wait for the government to take action.",
-        "C. Everyone should take part in protecting the oceans.",
-        "D. Ocean pollution is not as serious as people think."
+        "A. All teenagers are addicted to smartphones nowadays.",
+        "B. Using phones before bed helps us sleep better.",
+        "C. Finding other hobbies can help reduce phone addiction.",
+        "D. Smartphones are completely harmful to teenagers."
       ],
       "correct_answer": "C",
-      "explanation": "① 推理判断题，Dr. Li说\"我们不能等别人来解决这个问题，每个人都需要立即采取行动\"；② 可推断出：每个人都应参与保护海洋；③ A项\"已解决\"与原文can't wait for others矛盾，B项\"等待政府\"与原文\"不能等\"相反，D项\"不严重\"与in great danger矛盾。",
+      "explanation": "本题是推理判断题。根据文章第四段提到的解决方法\"Third, find other meaningful hobbies like reading paper books, playing basketball... to replace excessive screen time\"可知，寻找其他爱好有助于减少手机使用时间，从而减轻成瘾。A选项\"所有青少年\"过于绝对，原文说的是60%；B选项与原文矛盾，原文说睡前使用手机影响健康；D选项\"完全有害\"过于绝对，原文第一段提到手机有帮助沟通、学习等好处。推理题技巧：避免绝对化表述，基于原文信息合理推断，不要过度推理。",
       "label": "阅读-推理判断",
       "group": "reading_1",
-      "group_passage": "Every year, more than 8 million tons of plastic waste ends up in our oceans. This is a serious problem that affects not only sea animals but also human health.\n\nSea turtles often mistake plastic bags for jellyfish (水母), which is their favorite food. When they eat these bags, the plastic stays in their stomachs and makes them feel full, so they stop eating real food. Sadly, many turtles die because of this.\n\nScientists have also found microplastics (微塑料) in the deepest parts of the ocean. These tiny pieces of plastic come from larger items that break down over time. Fish can absorb these microplastics, and when humans eat these fish, the plastics enter our bodies too.\n\nTo solve this problem, many countries have banned (禁止) single-use plastics like straws and plastic bags. Some scientists are working on new materials that can break down naturally in the environment. However, the most important solution is to reduce how much plastic we use in our daily lives.\n\n\"We can't wait for others to fix this,\" says marine biologist Dr. Li. \"Everyone needs to take action now, or our oceans will be in great danger.\""
+      "group_passage": "Smartphones have become an important part of our daily life. They help us communicate with friends, study online and entertain ourselves during free time. With just a few taps, we can access endless information and connect with people worldwide. However, using smartphones too much can cause serious problems that many teenagers don't realize.\n\nAccording to a recent survey conducted by a medical center, about 60% of teenagers aged 12 to 15 spend more than 3 hours on their phones every day. Many of them check their phones every few minutes, even during meals or right before sleeping. This behavior, commonly called \"phone addiction\" (手机上瘾), affects both their physical health and academic performance. Students who use phones excessively often have trouble concentrating in class and suffer from poor eyesight.\n\nDr. Wang, a well-known psychologist, explains that phone addiction happens because apps are specifically designed to attract and hold our attention. The colorful icons, endless scrolling features and instant notifications (即时通知) trigger our brains to release dopamine, a chemical that makes us feel happy and rewarded. That's exactly why we find it increasingly difficult to put down our phones even when we know we should.\n\nFortunately, there are effective ways to solve this problem. First, turn off unnecessary notifications so you won't be disturbed by constant buzzing all the time. Second, set a strict \"phone-free\" time each day, such as during dinner or at least one hour before bedtime. Third, find other meaningful hobbies like reading paper books, playing basketball or learning a musical instrument to replace excessive screen time.\n\nRemember, technology should serve us as a useful tool, not control our lives. Using phones wisely and moderately helps us enjoy a healthier, more balanced and meaningful life."
     },
     {
       "id": 16,
@@ -265,92 +265,92 @@
       "difficulty": 3,
       "stem": "What is the best title for this passage?",
       "options": [
-        "A. The Life of Sea Turtles",
-        "B. Plastic Pollution in Oceans",
-        "C. New Materials for the Future",
-        "D. How to Sort Household Waste"
+        "A. The History of Smartphones",
+        "B. How to Make Phone Apps",
+        "C. Phone Addiction and Solutions",
+        "D. The Importance of Technology"
       ],
-      "correct_answer": "B",
-      "explanation": "① 主旨大意题，文章首段点明主题：每年800万吨塑料进入海洋，这是严重问题；② 全文围绕海洋塑料污染的危害（海龟、微塑料）和解决办法展开；③ A项只涉及海龟（细节），C项只涉及新材料（细节），D项\"家庭垃圾分类\"未提及；B项\"海洋塑料污染\"概括全文。技巧：主旨题要抓住首段和每段首句。",
+      "correct_answer": "C",
+      "explanation": "本题是主旨大意题/最佳标题题。文章结构为：第一段引出手机过度使用问题，第二段描述手机成瘾现象，第三段解释成瘾原因，第四段给出解决方法，第五段总结。因此文章主要讨论手机成瘾问题及解决方案。A选项（手机历史）只在开头提及；B选项（制作应用）只在第三段提及；D选项（科技重要性）过于宽泛。主旨题技巧：关注首尾段和各段首句，概括全文核心内容，避免以偏概全。标题要涵盖文章主要内容，不能过大或过小。",
       "label": "阅读-主旨大意",
       "group": "reading_1",
-      "group_passage": "Every year, more than 8 million tons of plastic waste ends up in our oceans. This is a serious problem that affects not only sea animals but also human health.\n\nSea turtles often mistake plastic bags for jellyfish (水母), which is their favorite food. When they eat these bags, the plastic stays in their stomachs and makes them feel full, so they stop eating real food. Sadly, many turtles die because of this.\n\nScientists have also found microplastics (微塑料) in the deepest parts of the ocean. These tiny pieces of plastic come from larger items that break down over time. Fish can absorb these microplastics, and when humans eat these fish, the plastics enter our bodies too.\n\nTo solve this problem, many countries have banned (禁止) single-use plastics like straws and plastic bags. Some scientists are working on new materials that can break down naturally in the environment. However, the most important solution is to reduce how much plastic we use in our daily lives.\n\n\"We can't wait for others to fix this,\" says marine biologist Dr. Li. \"Everyone needs to take action now, or our oceans will be in great danger.\""
+      "group_passage": "Smartphones have become an important part of our daily life. They help us communicate with friends, study online and entertain ourselves during free time. With just a few taps, we can access endless information and connect with people worldwide. However, using smartphones too much can cause serious problems that many teenagers don't realize.\n\nAccording to a recent survey conducted by a medical center, about 60% of teenagers aged 12 to 15 spend more than 3 hours on their phones every day. Many of them check their phones every few minutes, even during meals or right before sleeping. This behavior, commonly called \"phone addiction\" (手机上瘾), affects both their physical health and academic performance. Students who use phones excessively often have trouble concentrating in class and suffer from poor eyesight.\n\nDr. Wang, a well-known psychologist, explains that phone addiction happens because apps are specifically designed to attract and hold our attention. The colorful icons, endless scrolling features and instant notifications (即时通知) trigger our brains to release dopamine, a chemical that makes us feel happy and rewarded. That's exactly why we find it increasingly difficult to put down our phones even when we know we should.\n\nFortunately, there are effective ways to solve this problem. First, turn off unnecessary notifications so you won't be disturbed by constant buzzing all the time. Second, set a strict \"phone-free\" time each day, such as during dinner or at least one hour before bedtime. Third, find other meaningful hobbies like reading paper books, playing basketball or learning a musical instrument to replace excessive screen time.\n\nRemember, technology should serve us as a useful tool, not control our lives. Using phones wisely and moderately helps us enjoy a healthier, more balanced and meaningful life."
     },
     {
       "id": 17,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "stem": "(17)___",
+      "stem": "(17)______",
       "options": [
-        "A. However, with good time management, you can handle everything better.",
-        "B. For example, you can take a 10-minute walk or listen to music.",
-        "C. Try to do the most difficult tasks when your energy is highest.",
-        "D. This helps you stay organized and focused throughout the day.",
-        "E. On the other hand, some students prefer to study with friends."
+        "A. However, staying up late is not a good habit.",
+        "B. Regular exercise is also necessary for your body.",
+        "C. Reading books is a great way to relax yourself.",
+        "D. A balanced diet plays an important role in health.",
+        "E. They can offer you support and helpful advice."
       ],
       "correct_answer": "A",
-      "explanation": "① 前文说\"许多中学生感到压力大，因为作业太多、课外班太多\"，后文\"以下是一些有用的时间管理建议\"，中间需要过渡句引出解决方案；② A项\"然而，通过良好的时间管理，你能更好地处理一切\"承上启下，However转折引出解决办法；③ 其余选项：B举例休息方式（对应后文take breaks），C建议高效时间做难题（对应productive time），D解释清单的作用（对应to-do list），E另一方面（无对应内容）。",
+      "explanation": "本题考查段落主旨句。空格后内容围绕\"尽量晚上10:30前睡觉、每天同一时间起床、充足睡眠帮助大脑工作\"展开，因此本段主题是规律作息和充足睡眠。选项A\"然而，熬夜不是一个好习惯\"引出睡眠话题，与后文建议早睡形成逻辑衔接。B谈论运动，C谈论阅读，D谈论饮食，均与睡眠无关。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Many middle school students feel stressed because they have too much homework and too many after-school classes. (17)______ Here are some useful tips to help you manage your time better.\n\nFirst, make a to-do list every morning. Write down all the things you need to do and put them in order of importance. (18)______ This way, you won't forget important tasks.\n\nSecond, find your most productive time. Some students work best in the morning, while others focus better at night. (19)______ Don't waste your best hours on unimportant things like playing mobile games.\n\nFinally, remember to take breaks. Studying for hours without rest actually makes you less efficient. (20)______ You'll return to your studies with a clearer mind."
+      "group_passage": "Building healthy habits is important for everyone, especially for busy students who need to balance study and rest. Good habits not only keep us physically fit but also help us perform better in school. Here are some practical tips to help you live a healthier and happier life.\n\n(17)______ First, try to go to bed before 10:30 p.m. and wake up at the same time every day, even on weekends. Getting enough sleep helps your brain work better, improves your memory and strengthens your immune system. Avoid using electronic devices at least one hour before bedtime.\n\n(18)______ You don't need to run marathons or go to expensive gyms. Simple activities like brisk walking, cycling around your neighborhood or playing ball games with classmates for 30 minutes every day can make you stronger, more energetic and better at handling stress.\n\n(19)______ Eat more fresh fruits and vegetables instead of junk food and sugary drinks. Remember to have a nutritious breakfast every morning because it provides the essential energy you need for the whole morning. Try to eat regularly and never skip meals.\n\nFinally, stay positive and learn to manage your stress effectively. When you feel worried or depressed, don't hesitate to talk to your friends, parents or teachers. (20)______ Remember that small but consistent changes in your daily routine can lead to significant improvements in your overall health. Start with these simple steps today and you will feel the difference soon!"
     },
     {
       "id": 18,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "stem": "(18)___",
+      "stem": "(18)______",
       "options": [
-        "A. However, with good time management, you can handle everything better.",
-        "B. For example, you can take a 10-minute walk or listen to music.",
-        "C. Try to do the most difficult tasks when your energy is highest.",
-        "D. This helps you stay organized and focused throughout the day.",
-        "E. On the other hand, some students prefer to study with friends."
+        "A. However, staying up late is not a good habit.",
+        "B. Regular exercise is also necessary for your body.",
+        "C. Reading books is a great way to relax yourself.",
+        "D. A balanced diet plays an important role in health.",
+        "E. They can offer you support and helpful advice."
       ],
-      "correct_answer": "D",
-      "explanation": "① 前文讲\"列待办清单，按重要性排序\"，后文\"这样你就不会忘记重要任务\"，中间需要解释列清单的好处；② D项\"这帮助你全天保持有条理和专注\"中This指代前文的make a to-do list；③ This/That/These/Those通常是解题线索，指代前文内容。",
+      "correct_answer": "B",
+      "explanation": "本题考查段落主旨句。空格后提到\"不需要跑马拉松、去昂贵的健身房，简单的活动如快走、骑车或打球每天30分钟\"，这些都是关于体育锻炼的内容。选项B\"规律运动对你的身体也是必要的\"准确概括了本段主题。A关于睡眠，C关于阅读，D关于饮食，E关于寻求帮助，均不符合本段内容。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Many middle school students feel stressed because they have too much homework and too many after-school classes. (17)______ Here are some useful tips to help you manage your time better.\n\nFirst, make a to-do list every morning. Write down all the things you need to do and put them in order of importance. (18)______ This way, you won't forget important tasks.\n\nSecond, find your most productive time. Some students work best in the morning, while others focus better at night. (19)______ Don't waste your best hours on unimportant things like playing mobile games.\n\nFinally, remember to take breaks. Studying for hours without rest actually makes you less efficient. (20)______ You'll return to your studies with a clearer mind."
+      "group_passage": "Building healthy habits is important for everyone, especially for busy students who need to balance study and rest. Good habits not only keep us physically fit but also help us perform better in school. Here are some practical tips to help you live a healthier and happier life.\n\n(17)______ First, try to go to bed before 10:30 p.m. and wake up at the same time every day, even on weekends. Getting enough sleep helps your brain work better, improves your memory and strengthens your immune system. Avoid using electronic devices at least one hour before bedtime.\n\n(18)______ You don't need to run marathons or go to expensive gyms. Simple activities like brisk walking, cycling around your neighborhood or playing ball games with classmates for 30 minutes every day can make you stronger, more energetic and better at handling stress.\n\n(19)______ Eat more fresh fruits and vegetables instead of junk food and sugary drinks. Remember to have a nutritious breakfast every morning because it provides the essential energy you need for the whole morning. Try to eat regularly and never skip meals.\n\nFinally, stay positive and learn to manage your stress effectively. When you feel worried or depressed, don't hesitate to talk to your friends, parents or teachers. (20)______ Remember that small but consistent changes in your daily routine can lead to significant improvements in your overall health. Start with these simple steps today and you will feel the difference soon!"
     },
     {
       "id": 19,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "stem": "(19)___",
+      "stem": "(19)______",
       "options": [
-        "A. However, with good time management, you can handle all tasks better.",
-        "B. For example, you can take a 10-minute walk or listen to music.",
-        "C. Try to do the most difficult tasks when your energy is highest.",
-        "D. This helps you stay organized and focused throughout the day.",
-        "E. On the other hand, some students prefer to study with friends."
+        "A. However, staying up late is not a good habit.",
+        "B. Regular exercise is also necessary for your body.",
+        "C. Reading books is a great way to relax yourself.",
+        "D. A balanced diet plays an important role in health.",
+        "E. They can offer you support and helpful advice."
       ],
-      "correct_answer": "C",
-      "explanation": "① 本段主题是\"找到你效率最高的时间\"，前文说有些学生早上效率高，有些晚上效率高；② C项\"尽量在你精力最旺盛时做最难的任务\"承接上文，符合\"高效时间做重要事\"的逻辑；③ 后文\"不要把最佳时间浪费在玩手机上\"也验证了应把高效时间用于重要任务（难题）。",
+      "correct_answer": "D",
+      "explanation": "本题考查段落主旨句。空格后内容涉及\"多吃新鲜水果和蔬菜、不吃垃圾食品和含糖饮料、营养早餐、规律饮食\"，这些都是关于饮食的建议。选项D\"均衡饮食在健康中扮演重要角色\"准确概括了本段主题。A关于睡眠，B关于运动，C关于阅读，E关于寻求帮助，均与本段饮食内容不符。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Many middle school students feel stressed because they have too much homework and too many after-school classes. (17)______ Here are some useful tips to help you manage your time better.\n\nFirst, make a to-do list every morning. Write down all the things you need to do and put them in order of importance. (18)______ This way, you won't forget important tasks.\n\nSecond, find your most productive time. Some students work best in the morning, while others focus better at night. (19)______ Don't waste your best hours on unimportant things like playing mobile games.\n\nFinally, remember to take breaks. Studying for hours without rest actually makes you less efficient. (20)______ You'll return to your studies with a clearer mind."
+      "group_passage": "Building healthy habits is important for everyone, especially for busy students who need to balance study and rest. Good habits not only keep us physically fit but also help us perform better in school. Here are some practical tips to help you live a healthier and happier life.\n\n(17)______ First, try to go to bed before 10:30 p.m. and wake up at the same time every day, even on weekends. Getting enough sleep helps your brain work better, improves your memory and strengthens your immune system. Avoid using electronic devices at least one hour before bedtime.\n\n(18)______ You don't need to run marathons or go to expensive gyms. Simple activities like brisk walking, cycling around your neighborhood or playing ball games with classmates for 30 minutes every day can make you stronger, more energetic and better at handling stress.\n\n(19)______ Eat more fresh fruits and vegetables instead of junk food and sugary drinks. Remember to have a nutritious breakfast every morning because it provides the essential energy you need for the whole morning. Try to eat regularly and never skip meals.\n\nFinally, stay positive and learn to manage your stress effectively. When you feel worried or depressed, don't hesitate to talk to your friends, parents or teachers. (20)______ Remember that small but consistent changes in your daily routine can lead to significant improvements in your overall health. Start with these simple steps today and you will feel the difference soon!"
     },
     {
       "id": 20,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "stem": "(20)___",
+      "stem": "(20)______",
       "options": [
-        "A. However, with good time management, you can handle everything better.",
-        "B. For example, you can take a 10-minute walk or listen to music.",
-        "C. Try to do the most difficult tasks when your energy is highest.",
-        "D. This helps you stay organized and focused throughout the day.",
-        "E. On the other hand, some students prefer to study with friends."
+        "A. However, staying up late is not a good habit.",
+        "B. Regular exercise is also necessary for your body.",
+        "C. Reading books is a great way to relax yourself.",
+        "D. A balanced diet plays an important role in health.",
+        "E. They can offer you support and helpful advice."
       ],
-      "correct_answer": "B",
-      "explanation": "① 本段主题是\"记得休息\"，前文说\"不休息会降低效率\"，后文\"你会以更清晰的头脑回到学习中\"；② B项\"例如，你可以散步10分钟或听音乐\"举例说明如何休息，衔接上下文；③ For example是明显的举例信号，用于解释前文take breaks的具体做法。",
+      "correct_answer": "E",
+      "explanation": "本题考查逻辑衔接和代词指代。空格前一句提到\"当你感到焦虑或沮丧时，不要犹豫去和朋友、父母或老师谈谈\"，空格处应说明为什么要寻求他们的帮助。选项E\"他们可以提供给你支持和有用的建议\"中，They指代前文提到的friends, parents or teachers，逻辑连贯。A、B、C、D都是段落主旨句，不适合放在此处作为细节补充。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Many middle school students feel stressed because they have too much homework and too many after-school classes. (17)______ Here are some useful tips to help you manage your time better.\n\nFirst, make a to-do list every morning. Write down all the things you need to do and put them in order of importance. (18)______ This way, you won't forget important tasks.\n\nSecond, find your most productive time. Some students work best in the morning, while others focus better at night. (19)______ Don't waste your best hours on unimportant things like playing mobile games.\n\nFinally, remember to take breaks. Studying for hours without rest actually makes you less efficient. (20)______ You'll return to your studies with a clearer mind."
+      "group_passage": "Building healthy habits is important for everyone, especially for busy students who need to balance study and rest. Good habits not only keep us physically fit but also help us perform better in school. Here are some practical tips to help you live a healthier and happier life.\n\n(17)______ First, try to go to bed before 10:30 p.m. and wake up at the same time every day, even on weekends. Getting enough sleep helps your brain work better, improves your memory and strengthens your immune system. Avoid using electronic devices at least one hour before bedtime.\n\n(18)______ You don't need to run marathons or go to expensive gyms. Simple activities like brisk walking, cycling around your neighborhood or playing ball games with classmates for 30 minutes every day can make you stronger, more energetic and better at handling stress.\n\n(19)______ Eat more fresh fruits and vegetables instead of junk food and sugary drinks. Remember to have a nutritious breakfast every morning because it provides the essential energy you need for the whole morning. Try to eat regularly and never skip meals.\n\nFinally, stay positive and learn to manage your stress effectively. When you feel worried or depressed, don't hesitate to talk to your friends, parents or teachers. (20)______ Remember that small but consistent changes in your daily routine can lead to significant improvements in your overall health. Start with these simple steps today and you will feel the difference soon!"
     }
   ]
 }
