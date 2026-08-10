@@ -1,21 +1,21 @@
 ﻿{
-  "date": "2026-08-10",
+  "date": "2026-08-11",
   "session_number": 1,
   "questions": [
     {
       "id": 1,
       "type": "grammar",
       "knowledge_point": "present_perfect_vs_past_simple",
-      "difficulty": 1,
-      "stem": "My father _____ to Beijing twice. He went there last month for a business trip.",
+      "difficulty": 2,
+      "stem": "—I can't find my keys. ______ you ______ them?\n—Yes. I put them on the desk just now.",
       "options": [
-        "A. has gone",
-        "B. has been",
-        "C. went",
-        "D. goes"
+        "A. Did; see",
+        "B. Have; seen",
+        "C. Do; see",
+        "D. Will; see"
       ],
       "correct_answer": "B",
-      "explanation": "选B。has been to表示\"曾经去过某地（已经回来）\"，has gone to表示\"去了某地（还没回来）\"。根据后句\"He went there last month\"可知父亲已经回来，且twice表示经历，用现在完成时。went是一般过去时，只表示过去动作，不强调对现在的影响（去过两次的经历）。",
+      "explanation": "考查现在完成时与一般过去时的区别。问句强调'到现在为止你是否见过钥匙'，是对现在造成的影响（钥匙现在不见了），应用现在完成时'Have you seen'；答句中'just now'（刚才）是明确的过去时间状语，应用一般过去时'put'。A选项Did see只强调过去动作，不体现与现在的联系；C是一般现在时，不符合语境；D是将来时，明显错误。解题技巧：看到'just now'用过去时，强调'过去动作对现在影响'用现在完成时。",
       "label": "语法题"
     },
     {
@@ -23,95 +23,95 @@
       "type": "grammar",
       "knowledge_point": "relative_clause_who_which",
       "difficulty": 2,
-      "stem": "The boy _____ is wearing a red jacket is my best friend. He helped me with my math yesterday.",
+      "stem": "The book ______ cover is red belongs to my sister.",
       "options": [
-        "A. which",
-        "B. who",
-        "C. whom",
-        "D. whose"
+        "A. who",
+        "B. which",
+        "C. whose",
+        "D. that"
       ],
-      "correct_answer": "B",
-      "explanation": "选B。先行词是the boy（人），且在定语从句中作主语，用who。which用于先行词是物；whom用于先行词是人但作宾语；whose表示\"谁的\"，作定语。口诀：人主who，人宾whom，人物whose，物which。",
+      "correct_answer": "C",
+      "explanation": "考查定语从句关系词的选择。先行词是'the book'，定语从句中'cover'（封面）与先行词是所属关系（书的面），应用whose表示'……的'。A选项who指人；B选项which在从句中作主语或宾语；D选项that不能表示所属关系。解题技巧：空格后有名词，且表示所属关系（……的），选whose。",
       "label": "语法题"
     },
     {
       "id": 3,
       "type": "grammar",
       "knowledge_point": "passive_voice",
-      "difficulty": 2,
-      "stem": "These old buildings _____ by the government last year to make room for a new park.",
+      "difficulty": 1,
+      "stem": "The broken bike ______ by my father tomorrow.",
       "options": [
-        "A. are pulled down",
-        "B. were pulled down",
-        "C. pull down",
-        "D. pulled down"
+        "A. is repaired",
+        "B. was repaired",
+        "C. will repair",
+        "D. will be repaired"
       ],
-      "correct_answer": "B",
-      "explanation": "选B。last year是一般过去时标志，且建筑物是\"被拆除\"，用一般过去时的被动语态was/were+过去分词。buildings是复数，用were。A是一般现在时被动；C、D是主动语态。解题关键：找时间标志词（last year）+ 判断主被动关系。",
+      "correct_answer": "D",
+      "explanation": "考查一般将来时的被动语态。主语'the broken bike'是动作'repair'的承受者，应用被动语态；时间状语'tomorrow'表明是将来时，所以用'will be repaired'。A是现在时被动；B是过去时被动；C是主动语态，且bike不能自己修理自己。解题技巧：看到tomorrow用将来时，主语是物且是动作承受者用被动，结构为will be done。",
       "label": "语法题"
     },
     {
       "id": 4,
       "type": "grammar",
-      "knowledge_point": "present_perfect_vs_past_simple",
+      "knowledge_point": "object_clause",
       "difficulty": 3,
-      "stem": "I _____ the book for two weeks, but I _____ it yet because it's quite difficult.",
+      "stem": "—Could you tell me ______?\n—Sure. Next Friday afternoon.",
       "options": [
-        "A. have borrowed; haven't finished",
-        "B. have kept; haven't finished",
-        "C. borrowed; didn't finish",
-        "D. have kept; didn't finish"
+        "A. when we will have the meeting",
+        "B. when will we have the meeting",
+        "C. when we had the meeting",
+        "D. when did we have the meeting"
       ],
-      "correct_answer": "B",
-      "explanation": "选B。第一空：for two weeks是时间段，要求用延续性动词，borrow（借）是瞬间动词，不能与时间段连用，需换成keep（保存/借阅）；第二空：yet是现在完成时标志词（用于否定句和疑问句），表示\"还/尚未\"。A错在borrow不能接时间段；C、D错在yet要求搭配现在完成时。",
+      "correct_answer": "A",
+      "explanation": "考查宾语从句的语序和时态。宾语从句必须用陈述句语序（主语+谓语），排除B和D；根据答句'Next Friday afternoon'（下周五下午）可知是将来时，排除C（过去时）。解题技巧：宾语从句三要素——陈述语序、时态呼应（主现从随便，主过从必过）、连接词选择。答句是将来时间，所以用will have。",
       "label": "语法题"
     },
     {
       "id": 5,
       "type": "vocabulary",
-      "knowledge_point": "word_guessing_context",
+      "knowledge_point": "word_meaning",
       "difficulty": 1,
-      "stem": "The doctor told Tom to reduce his sugar intake. He advised him to eat less candy, soda, and desserts to stay healthy. The word \"reduce\" probably means _____.",
+      "stem": "It's ______ to play with fire. We must stay away from it.",
       "options": [
-        "A. increase",
-        "B. decrease",
-        "C. keep",
-        "D. change"
+        "A. dangerous",
+        "B. safe",
+        "C. exciting",
+        "D. boring"
       ],
-      "correct_answer": "B",
-      "explanation": "选B。根据上下文线索\"eat less\"（少吃）可知，reduce的意思是\"减少\"，与decrease同义。increase是增加（反义），keep是保持，change是改变。解题技巧：通过解释性的同义线索（eat less）或反义线索猜测词义。",
+      "correct_answer": "A",
+      "explanation": "考查形容词词义辨析。根据常识和后半句'stay away from it'（远离它）可知玩火是'dangerous'（危险的）。B选项safe（安全的）与句意相反；C选项exciting（令人兴奋的）和D选项boring（无聊的）不符合语境。解题技巧：根据上下文逻辑和常识判断，'stay away'提示负面情绪或危险。",
       "label": "词汇题"
     },
     {
       "id": 6,
       "type": "vocabulary",
-      "knowledge_point": "phrasal_verbs",
+      "knowledge_point": "prefix_suffix",
       "difficulty": 2,
-      "stem": "We need to _____ the meeting until next Friday because the manager is sick today.",
+      "stem": "The ______ news made all of us very happy.",
       "options": [
-        "A. put off",
-        "B. put on",
-        "C. put up",
-        "D. put away"
+        "A. pleased",
+        "B. pleasant",
+        "C. please",
+        "D. pleasing"
       ],
-      "correct_answer": "A",
-      "explanation": "选A。put off表示\"推迟\"；put on表示\"穿上/上演\"；put up表示\"张贴/搭建\"；put away表示\"收起来/放好\"。根据语境\"经理生病了\"可知需要\"推迟\"会议。解题技巧：put短语是中考高频考点，记住核心含义：off（离开/推迟）、on（穿上/上演）、up（向上/张贴）、away（离开/收起）。",
+      "correct_answer": "B",
+      "explanation": "考查词性转换和形容词辨析。空格修饰名词'news'（物），需要形容词。pleasant表示'令人愉快的'，常修饰物；pleased表示'感到高兴的'，常修饰人；please是动词；pleasing虽可修饰物，但pleasant更常用且符合此语境。解题技巧：-ing形容词修饰物（令人……的），-ed形容词修饰人（感到……的）。news是物，选pleasant。",
       "label": "词汇题"
     },
     {
       "id": 7,
       "type": "vocabulary",
-      "knowledge_point": "prefix_suffix",
+      "knowledge_point": "phrasal_verbs",
       "difficulty": 2,
-      "stem": "It is _____ to talk loudly in the library. Everyone should keep quiet there.",
+      "stem": "Please ______ the TV when you go to bed. Don't waste electricity.",
       "options": [
-        "A. possible",
-        "B. impossible",
-        "C. polite",
-        "D. impolite"
+        "A. turn on",
+        "B. turn off",
+        "C. turn up",
+        "D. turn down"
       ],
-      "correct_answer": "D",
-      "explanation": "选D。根据后句\"Everyone should keep quiet\"（应该保持安静）可知，大声说话是\"不礼貌的\"。im-是否定前缀，impolite=not polite。possible（可能的）和impossible（不可能的）不符合语境逻辑。",
+      "correct_answer": "B",
+      "explanation": "考查动词短语辨析。turn on打开，turn off关闭，turn up调大（音量），turn down调小（音量）/拒绝。根据'go to bed'（睡觉）和'Don't waste electricity'（不要浪费电）可知要'关掉'电视。解题技巧：根据语境逻辑，睡前为了省电应该关闭电器，而不是打开或调节音量。",
       "label": "词汇题"
     },
     {
@@ -119,238 +119,238 @@
       "type": "cloze",
       "knowledge_point": "cloze_context",
       "difficulty": 2,
-      "stem": "(8)_____",
+      "stem": "(8)______",
       "options": [
-        "A. instead",
-        "B. either",
-        "C. too",
-        "D. also"
+        "A. easy",
+        "B. difficult",
+        "C. possible",
+        "D. necessary"
       ],
-      "correct_answer": "A",
-      "explanation": "选A。instead放在句末表示\"相反/取而代之\"，符合语境：过去买瓶装水，现在带可重复使用的水瓶\"代替\"。either用于否定句末\"也\"；too用于肯定句末\"也\"；also用于句中。解题关键：根据上下文逻辑关系（转折/替代）选择。",
-      "label": "完形填空",
+      "correct_answer": "B",
       "group": "cloze_1",
-      "group_passage": "My name is Lily. I am a middle school student who cares deeply about the environment. Last year, I decided to change my lifestyle to reduce waste. At first, it was not easy. I used to buy bottled water every day, but now I carry a reusable bottle (8) _____. I also stopped using plastic bags when shopping. Instead, I bring my own cloth bags. My friends were surprised by my changes. They asked me why I was doing this. I explained that small actions can make a big (9) _____ to our planet. Some of them even joined me. Every weekend, we (10) _____ together to clean up the local park. It makes us feel proud to see the park become cleaner. I believe that if everyone takes responsibility, we (11) _____ a better world in the future. This lifestyle change has not only helped the environment but also taught me to be more (12) _____ about my choices."
+      "group_passage": "Last month, our school started a green project called \"Zero Waste Classroom\". The goal was to reduce waste and protect the environment. As members of the Environmental Club, my classmates and I were excited to take part in it.\n\nAt first, we found it (8)______ to change our habits. Many students used to throw away plastic bottles and paper casually. To solve this problem, we placed recycling bins in every classroom. We also made posters to remind everyone to sort their waste properly.\n\nThe most challenging part was convincing some stubborn students. They didn't understand why they had to spend extra time sorting garbage. We didn't give up. Instead, we organized a presentation showing how plastic pollution harms sea animals. After watching the video, many students changed their (9)______. They started bringing reusable water bottles and using both sides of paper.\n\nBy the end of the semester, we had achieved amazing results. The amount of daily waste dropped by 60%. Our principal was so impressed that he decided to (10)______ the project to the whole school next term. He praised our team for making such a great difference.\n\nThis experience taught me that small actions can lead to big changes. Although it required patience and hard work, seeing the cleaner campus made it all worthwhile. I am proud that we (11)______ something positive for our planet. Environmental protection is not just a slogan; it requires everyone's (12)______.",
+      "explanation": "考查语境推理。根据下文'Many students used to throw away plastic bottles and paper casually'（许多学生过去常随意扔掉塑料瓶和纸）以及'To solve this problem'（为了解决这个问题）可知，起初改变习惯是'困难的'。A选项easy（容易的）与语境相反；C选项possible（可能的）和D选项necessary（必要的）不符合上下文逻辑。解题技巧：通过下文描述的问题严重性推断出改变的难度。",
+      "label": "完形填空"
     },
     {
       "id": 9,
       "type": "cloze",
       "knowledge_point": "cloze_fixed_phrase",
       "difficulty": 2,
-      "stem": "(9)_____",
+      "stem": "(9)______",
       "options": [
-        "A. difference",
-        "B. decision",
-        "C. difficulty",
-        "D. direction"
+        "A. minds",
+        "B. faces",
+        "C. bodies",
+        "D. voices"
       ],
       "correct_answer": "A",
-      "explanation": "选A。make a difference是固定搭配，意为\"有影响/起作用\"。make a decision（做决定）、make a difficulty（制造困难）、make a direction（指明方向）都不是固定搭配。根据语境\"小行动能对地球产生大影响\"，选difference。",
-      "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "My name is Lily. I am a middle school student who cares deeply about the environment. Last year, I decided to change my lifestyle to reduce waste. At first, it was not easy. I used to buy bottled water every day, but now I carry a reusable bottle (8) _____. I also stopped using plastic bags when shopping. Instead, I bring my own cloth bags. My friends were surprised by my changes. They asked me why I was doing this. I explained that small actions can make a big (9) _____ to our planet. Some of them even joined me. Every weekend, we (10) _____ together to clean up the local park. It makes us feel proud to see the park become cleaner. I believe that if everyone takes responsibility, we (11) _____ a better world in the future. This lifestyle change has not only helped the environment but also taught me to be more (12) _____ about my choices."
+      "group_passage": "Last month, our school started a green project called \"Zero Waste Classroom\". The goal was to reduce waste and protect the environment. As members of the Environmental Club, my classmates and I were excited to take part in it.\n\nAt first, we found it (8)______ to change our habits. Many students used to throw away plastic bottles and paper casually. To solve this problem, we placed recycling bins in every classroom. We also made posters to remind everyone to sort their waste properly.\n\nThe most challenging part was convincing some stubborn students. They didn't understand why they had to spend extra time sorting garbage. We didn't give up. Instead, we organized a presentation showing how plastic pollution harms sea animals. After watching the video, many students changed their (9)______. They started bringing reusable water bottles and using both sides of paper.\n\nBy the end of the semester, we had achieved amazing results. The amount of daily waste dropped by 60%. Our principal was so impressed that he decided to (10)______ the project to the whole school next term. He praised our team for making such a great difference.\n\nThis experience taught me that small actions can lead to big changes. Although it required patience and hard work, seeing the cleaner campus made it all worthwhile. I am proud that we (11)______ something positive for our planet. Environmental protection is not just a slogan; it requires everyone's (12)______.",
+      "explanation": "考查固定搭配和语境理解。change one's mind是固定搭配，意为'改变主意'。根据上文'convincing some stubborn students'（说服一些固执的学生）和下文'They started bringing reusable water bottles'（他们开始带可重复使用的水瓶）可知学生们'改变了想法'。B选项faces（脸）、C选项bodies（身体）、D选项voices（声音）均无此搭配且不符合语境。解题技巧：记住固定搭配change one's mind，结合上下文'从反对到支持'的转变。",
+      "label": "完形填空"
     },
     {
       "id": 10,
       "type": "cloze",
-      "knowledge_point": "cloze_phrasal_verbs",
-      "difficulty": 1,
-      "stem": "(10)_____",
+      "knowledge_point": "cloze_context",
+      "difficulty": 2,
+      "stem": "(10)______",
       "options": [
-        "A. get up",
-        "B. get together",
-        "C. get off",
-        "D. get over"
+        "A. spread",
+        "B. stop",
+        "C. finish",
+        "D. cancel"
       ],
-      "correct_answer": "B",
-      "explanation": "选B。get together表示\"聚集/集合\"；get up（起床）、get off（下车）、get over（克服）。根据语境\"每周末我们_____一起清理公园\"，应该是\"聚集/集合\"。这是基础短语辨析，难度较低。",
-      "label": "完形填空",
+      "correct_answer": "A",
       "group": "cloze_1",
-      "group_passage": "My name is Lily. I am a middle school student who cares deeply about the environment. Last year, I decided to change my lifestyle to reduce waste. At first, it was not easy. I used to buy bottled water every day, but now I carry a reusable bottle (8) _____. I also stopped using plastic bags when shopping. Instead, I bring my own cloth bags. My friends were surprised by my changes. They asked me why I was doing this. I explained that small actions can make a big (9) _____ to our planet. Some of them even joined me. Every weekend, we (10) _____ together to clean up the local park. It makes us feel proud to see the park become cleaner. I believe that if everyone takes responsibility, we (11) _____ a better world in the future. This lifestyle change has not only helped the environment but also taught me to be more (12) _____ about my choices."
+      "group_passage": "Last month, our school started a green project called \"Zero Waste Classroom\". The goal was to reduce waste and protect the environment. As members of the Environmental Club, my classmates and I were excited to take part in it.\n\nAt first, we found it (8)______ to change our habits. Many students used to throw away plastic bottles and paper casually. To solve this problem, we placed recycling bins in every classroom. We also made posters to remind everyone to sort their waste properly.\n\nThe most challenging part was convincing some stubborn students. They didn't understand why they had to spend extra time sorting garbage. We didn't give up. Instead, we organized a presentation showing how plastic pollution harms sea animals. After watching the video, many students changed their (9)______. They started bringing reusable water bottles and using both sides of paper.\n\nBy the end of the semester, we had achieved amazing results. The amount of daily waste dropped by 60%. Our principal was so impressed that he decided to (10)______ the project to the whole school next term. He praised our team for making such a great difference.\n\nThis experience taught me that small actions can lead to big changes. Although it required patience and hard work, seeing the cleaner campus made it all worthwhile. I am proud that we (11)______ something positive for our planet. Environmental protection is not just a slogan; it requires everyone's (12)______.",
+      "explanation": "考查语境推理。根据上文'achieved amazing results'（取得了惊人成果）和'waste dropped by 60%'（垃圾减少60%）以及'to the whole school'（到整个学校）可知校长决定'推广'这个项目。spread意为'传播、推广'；B选项stop（停止）、C选项finish（完成）、D选项cancel（取消）均与'impressed'（印象深刻）和积极语境相反。解题技巧：根据积极成果推断后续动作应该是扩大/推广，而非终止。",
+      "label": "完形填空"
     },
     {
       "id": 11,
       "type": "cloze",
-      "knowledge_point": "cloze_grammar",
-      "difficulty": 2,
-      "stem": "(11)_____",
+      "knowledge_point": "present_perfect",
+      "difficulty": 1,
+      "stem": "(11)______",
       "options": [
-        "A. will create",
-        "B. created",
-        "C. have created",
-        "D. create"
+        "A. have done",
+        "B. did",
+        "C. do",
+        "D. are doing"
       ],
       "correct_answer": "A",
-      "explanation": "选A。if引导的条件状语从句遵循\"主将从现\"原则：从句用一般现在时（takes），主句用一般将来时（will create）。created是过去时，have created是现在完成时，create是一般现在时，都不符合主将从现规则。",
-      "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "My name is Lily. I am a middle school student who cares deeply about the environment. Last year, I decided to change my lifestyle to reduce waste. At first, it was not easy. I used to buy bottled water every day, but now I carry a reusable bottle (8) _____. I also stopped using plastic bags when shopping. Instead, I bring my own cloth bags. My friends were surprised by my changes. They asked me why I was doing this. I explained that small actions can make a big (9) _____ to our planet. Some of them even joined me. Every weekend, we (10) _____ together to clean up the local park. It makes us feel proud to see the park become cleaner. I believe that if everyone takes responsibility, we (11) _____ a better world in the future. This lifestyle change has not only helped the environment but also taught me to be more (12) _____ about my choices."
+      "group_passage": "Last month, our school started a green project called \"Zero Waste Classroom\". The goal was to reduce waste and protect the environment. As members of the Environmental Club, my classmates and I were excited to take part in it.\n\nAt first, we found it (8)______ to change our habits. Many students used to throw away plastic bottles and paper casually. To solve this problem, we placed recycling bins in every classroom. We also made posters to remind everyone to sort their waste properly.\n\nThe most challenging part was convincing some stubborn students. They didn't understand why they had to spend extra time sorting garbage. We didn't give up. Instead, we organized a presentation showing how plastic pollution harms sea animals. After watching the video, many students changed their (9)______. They started bringing reusable water bottles and using both sides of paper.\n\nBy the end of the semester, we had achieved amazing results. The amount of daily waste dropped by 60%. Our principal was so impressed that he decided to (10)______ the project to the whole school next term. He praised our team for making such a great difference.\n\nThis experience taught me that small actions can lead to big changes. Although it required patience and hard work, seeing the cleaner campus made it all worthwhile. I am proud that we (11)______ something positive for our planet. Environmental protection is not just a slogan; it requires everyone's (12)______.",
+      "explanation": "考查现在完成时。句意为'我为我们为地球做了一些积极的事情感到骄傲'，强调过去动作（做环保项目）对现在的影响（现在的自豪感和结果），应用现在完成时have done。B选项did只强调过去；C是一般现在时；D是现在进行时。解题技巧：根据句意'已经做了'且对现在有影响，用现在完成时have/has done结构。",
+      "label": "完形填空"
     },
     {
       "id": 12,
       "type": "cloze",
-      "knowledge_point": "cloze_word_meaning",
+      "knowledge_point": "cloze_general",
       "difficulty": 1,
-      "stem": "(12)_____",
+      "stem": "(12)______",
       "options": [
-        "A. careful",
-        "B. careless",
-        "C. carelessly",
-        "D. carefully"
+        "A. excuse",
+        "B. effort",
+        "C. promise",
+        "D. excuse"
       ],
-      "correct_answer": "A",
-      "explanation": "选A。be动词后接形容词作表语，排除副词carelessly和carefully。根据语境\"这种生活方式教会我对选择更加_____\"，应该是\"谨慎的/认真的\"（careful），而不是\"粗心的\"（careless）。这是基础词义辨析。",
-      "label": "完形填空",
+      "correct_answer": "B",
       "group": "cloze_1",
-      "group_passage": "My name is Lily. I am a middle school student who cares deeply about the environment. Last year, I decided to change my lifestyle to reduce waste. At first, it was not easy. I used to buy bottled water every day, but now I carry a reusable bottle (8) _____. I also stopped using plastic bags when shopping. Instead, I bring my own cloth bags. My friends were surprised by my changes. They asked me why I was doing this. I explained that small actions can make a big (9) _____ to our planet. Some of them even joined me. Every weekend, we (10) _____ together to clean up the local park. It makes us feel proud to see the park become cleaner. I believe that if everyone takes responsibility, we (11) _____ a better world in the future. This lifestyle change has not only helped the environment but also taught me to be more (12) _____ about my choices."
+      "group_passage": "Last month, our school started a green project called \"Zero Waste Classroom\". The goal was to reduce waste and protect the environment. As members of the Environmental Club, my classmates and I were excited to take part in it.\n\nAt first, we found it (8)______ to change our habits. Many students used to throw away plastic bottles and paper casually. To solve this problem, we placed recycling bins in every classroom. We also made posters to remind everyone to sort their waste properly.\n\nThe most challenging part was convincing some stubborn students. They didn't understand why they had to spend extra time sorting garbage. We didn't give up. Instead, we organized a presentation showing how plastic pollution harms sea animals. After watching the video, many students changed their (9)______. They started bringing reusable water bottles and using both sides of paper.\n\nBy the end of the semester, we had achieved amazing results. The amount of daily waste dropped by 60%. Our principal was so impressed that he decided to (10)______ the project to the whole school next term. He praised our team for making such a great difference.\n\nThis experience taught me that small actions can lead to big changes. Although it required patience and hard work, seeing the cleaner campus made it all worthwhile. I am proud that we (11)______ something positive for our planet. Environmental protection is not just a slogan; it requires everyone's (12)______.",
+      "explanation": "考查语境推理和词汇辨析。句意为'环境保护不只是一句口号，它需要每个人的努力'。effort意为'努力'；A和D选项excuse（借口）不符合语境；C选项promise（承诺）虽相关，但不如effort贴切，因为上文提到'required patience and hard work'（需要耐心和努力工作）。解题技巧：呼应上文的hard work，选择effort（努力）最符合逻辑。",
+      "label": "完形填空"
     },
     {
       "id": 13,
       "type": "reading",
       "knowledge_point": "detail",
       "difficulty": 2,
-      "stem": "What was the writer responsible for in the group?",
+      "stem": "According to the passage, why do many teenagers have sleep problems?",
       "options": [
-        "A. Designing the structure",
-        "B. Writing explanation cards",
-        "C. Testing the model",
-        "D. Collecting materials"
+        "A. They have too much homework.",
+        "B. They use electronic devices before sleep.",
+        "C. They don't like sleeping.",
+        "D. They drink too much coffee."
       ],
       "correct_answer": "B",
-      "explanation": "选B。细节理解题。根据文章第三段\"I was responsible for writing the explanation cards\"可知，作者负责写说明卡片。A是Tom负责的（Tom...designed the structure），C是Lisa负责的（Lisa, tested the model），D是大家一起做的（we...collected materials）。解题技巧：细节题要准确定位原文，注意人名与职责的对应关系。",
-      "label": "阅读-细节理解",
       "group": "reading_1",
-      "group_passage": "Last month, our school held an annual science fair that attracted great attention from both students and teachers. Each class was asked to create an innovative project focused on environmental protection and sustainable living. After several discussions, my group of four classmates decided to make a working model demonstrating how to recycle and reuse greywater (生活废水) in daily life.\n\nWe spent two intense weeks preparing for the exhibition. First, we conducted thorough research online about modern water recycling systems and filtration methods. Then, we enthusiastically collected recyclable materials from our homes and neighborhoods, such as plastic bottles, old PVC pipes, and discarded filters. Our team leader, Tom, who has a talent for engineering, carefully designed the structure and assembly process. I was responsible for writing clear explanation cards and preparing the presentation script. Meanwhile, another teammate, Lisa, repeatedly tested the model to ensure it operated smoothly without leaks.\n\nOn the day of the fair, the gymnasium was packed with curious visitors. Many students and teachers stopped by our booth, asking detailed questions about how the filtration system functioned and its practical applications in households. We patiently explained that the recycled water could be safely used to water garden plants or flush toilets, significantly reducing water waste. To our absolute delight and surprise, our eco-friendly project won the first prize among twenty competing teams! The judges praised our idea as being both scientifically sound and practically applicable to daily life.\n\nThis rewarding experience taught me that science is not merely about abstract theories confined within textbooks. Rather, it is about collaboratively solving real-world problems through creative teamwork and persistent innovation. I sincerely hope more students will participate in such hands-on activities to discover the true joy and value of scientific exploration."
+      "group_passage": "Sleep is one of the most important parts of our daily life, but many teenagers don't get enough of it. Studies show that adolescents need about 8-10 hours of sleep per night to stay healthy and perform well at school.\n\nHowever, modern lifestyles often prevent students from sleeping enough. The blue light from smartphones and computers can trick the brain into thinking it is still daytime. This suppresses (抑制) the production of melatonin, a hormone that makes us feel sleepy. As a result, many students find it hard to fall asleep even when they feel tired.\n\nLack of sleep affects both physical and mental health. Tired students usually have trouble concentrating in class and remembering new information. They are also more likely to feel stressed or irritated (易怒的). In the long term, chronic sleep deprivation can weaken the immune system and increase the risk of obesity.\n\nTo solve this problem, experts suggest creating a regular sleep schedule. Going to bed and waking up at the same time every day helps regulate your body clock. It is also helpful to keep electronic devices out of the bedroom at least one hour before bedtime. Instead of scrolling through social media, try reading a book or listening to calm music.\n\nRemember, sacrificing sleep time to study often backfires. A well-rested brain learns much faster than an exhausted one. By prioritizing sleep, you are actually investing in your academic success and overall well-being.",
+      "explanation": "考查细节理解。根据第二段'The blue light from smartphones and computers can trick the brain...'（智能手机和电脑发出的蓝光会欺骗大脑……）可知，睡前使用电子设备导致睡眠问题。A选项作业太多、C选项不喜欢睡觉、D选项喝太多咖啡文中均未提及。解题技巧：定位关键词'sleep problems'，在第二段找到对应原因'blue light from smartphones and computers'。",
+      "label": "阅读-细节理解"
     },
     {
       "id": 14,
       "type": "reading",
-      "knowledge_point": "inference",
-      "difficulty": 3,
-      "stem": "What can we infer from the passage?",
+      "knowledge_point": "word_guessing",
+      "difficulty": 1,
+      "stem": "The underlined word 'suppresses' in Paragraph 2 probably means ______.",
       "options": [
-        "A. The team didn't prepare well for the fair",
-        "B. Only Tom worked hard on the project",
-        "C. The project was practical and creative",
-        "D. They didn't win any prize at the fair"
+        "A. increases",
+        "B. reduces",
+        "C. produces",
+        "D. changes"
       ],
-      "correct_answer": "C",
-      "explanation": "选C。推理判断题。根据第三段\"The judges praised our idea as being both scientifically sound and practically applicable\"可知，这个项目既科学又实用，可推断出它实用且有创意。A与文中\"spent two intense weeks preparing\"矛盾；B与文中大家分工合作（Tom设计、作者写卡片、Lisa测试）矛盾；D与\"won the first prize\"矛盾。解题技巧：推理题要基于原文信息进行合理推断，不能选与原文矛盾的选项。",
-      "label": "阅读-推理判断",
+      "correct_answer": "B",
       "group": "reading_1",
-      "group_passage": "Last month, our school held an annual science fair that attracted great attention from both students and teachers. Each class was asked to create an innovative project focused on environmental protection and sustainable living. After several discussions, my group of four classmates decided to make a working model demonstrating how to recycle and reuse greywater (生活废水) in daily life.\n\nWe spent two intense weeks preparing for the exhibition. First, we conducted thorough research online about modern water recycling systems and filtration methods. Then, we enthusiastically collected recyclable materials from our homes and neighborhoods, such as plastic bottles, old PVC pipes, and discarded filters. Our team leader, Tom, who has a talent for engineering, carefully designed the structure and assembly process. I was responsible for writing clear explanation cards and preparing the presentation script. Meanwhile, another teammate, Lisa, repeatedly tested the model to ensure it operated smoothly without leaks.\n\nOn the day of the fair, the gymnasium was packed with curious visitors. Many students and teachers stopped by our booth, asking detailed questions about how the filtration system functioned and its practical applications in households. We patiently explained that the recycled water could be safely used to water garden plants or flush toilets, significantly reducing water waste. To our absolute delight and surprise, our eco-friendly project won the first prize among twenty competing teams! The judges praised our idea as being both scientifically sound and practically applicable to daily life.\n\nThis rewarding experience taught me that science is not merely about abstract theories confined within textbooks. Rather, it is about collaboratively solving real-world problems through creative teamwork and persistent innovation. I sincerely hope more students will participate in such hands-on activities to discover the true joy and value of scientific exploration."
+      "group_passage": "Sleep is one of the most important parts of our daily life, but many teenagers don't get enough of it. Studies show that adolescents need about 8-10 hours of sleep per night to stay healthy and perform well at school.\n\nHowever, modern lifestyles often prevent students from sleeping enough. The blue light from smartphones and computers can trick the brain into thinking it is still daytime. This suppresses (抑制) the production of melatonin, a hormone that makes us feel sleepy. As a result, many students find it hard to fall asleep even when they feel tired.\n\nLack of sleep affects both physical and mental health. Tired students usually have trouble concentrating in class and remembering new information. They are also more likely to feel stressed or irritated (易怒的). In the long term, chronic sleep deprivation can weaken the immune system and increase the risk of obesity.\n\nTo solve this problem, experts suggest creating a regular sleep schedule. Going to bed and waking up at the same time every day helps regulate your body clock. It is also helpful to keep electronic devices out of the bedroom at least one hour before bedtime. Instead of scrolling through social media, try reading a book or listening to calm music.\n\nRemember, sacrificing sleep time to study often backfires. A well-rested brain learns much faster than an exhausted one. By prioritizing sleep, you are actually investing in your academic success and overall well-being.",
+      "explanation": "考查词义猜测。根据括号内中文注释'抑制'可直接选出reduces（减少）。也可通过上下文逻辑推断：蓝光让大脑以为是白天，这会'suppresses'褪黑素的产生，导致难以入睡，所以suppresses应该是'减少、抑制'的意思。A选项increases（增加）相反；C选项produces（产生）与主语'蓝光'逻辑不符；D选项changes（改变）过于笼统。解题技巧：利用括号内中文提示，或通过'导致失眠'的结果反推是'减少'了让人困倦的激素。",
+      "label": "阅读-词义猜测"
     },
     {
       "id": 15,
       "type": "reading",
-      "knowledge_point": "word_guessing",
-      "difficulty": 2,
-      "stem": "What does the underlined word \"greywater\" mean in the passage?",
+      "knowledge_point": "inference",
+      "difficulty": 3,
+      "stem": "What can we infer from the last paragraph?",
       "options": [
-        "A. 饮用水",
-        "B. 生活废水",
-        "C. 矿泉水",
-        "D. 雨水"
+        "A. Studying late at night improves grades.",
+        "B. Sleeping less gives students more study time.",
+        "C. Enough sleep is good for academic performance.",
+        "D. Successful students never sleep during exams."
       ],
-      "correct_answer": "B",
-      "explanation": "选B。词义猜测题。根据括号内的中文注释\"生活废水\"可直接得出答案。也可根据上下文\"recycle and reuse...in daily life\"以及\"used to water garden plants or flush toilets\"（用于浇花或冲厕所）推断这不是饮用水，而是可回收利用的生活废水。解题技巧：中考阅读通常会给出生词的中文注释，注意查找括号内的提示。",
-      "label": "阅读-词义猜测",
+      "correct_answer": "C",
       "group": "reading_1",
-      "group_passage": "Last month, our school held an annual science fair that attracted great attention from both students and teachers. Each class was asked to create an innovative project focused on environmental protection and sustainable living. After several discussions, my group of four classmates decided to make a working model demonstrating how to recycle and reuse greywater (生活废水) in daily life.\n\nWe spent two intense weeks preparing for the exhibition. First, we conducted thorough research online about modern water recycling systems and filtration methods. Then, we enthusiastically collected recyclable materials from our homes and neighborhoods, such as plastic bottles, old PVC pipes, and discarded filters. Our team leader, Tom, who has a talent for engineering, carefully designed the structure and assembly process. I was responsible for writing clear explanation cards and preparing the presentation script. Meanwhile, another teammate, Lisa, repeatedly tested the model to ensure it operated smoothly without leaks.\n\nOn the day of the fair, the gymnasium was packed with curious visitors. Many students and teachers stopped by our booth, asking detailed questions about how the filtration system functioned and its practical applications in households. We patiently explained that the recycled water could be safely used to water garden plants or flush toilets, significantly reducing water waste. To our absolute delight and surprise, our eco-friendly project won the first prize among twenty competing teams! The judges praised our idea as being both scientifically sound and practically applicable to daily life.\n\nThis rewarding experience taught me that science is not merely about abstract theories confined within textbooks. Rather, it is about collaboratively solving real-world problems through creative teamwork and persistent innovation. I sincerely hope more students will participate in such hands-on activities to discover the true joy and value of scientific exploration."
+      "group_passage": "Sleep is one of the most important parts of our daily life, but many teenagers don't get enough of it. Studies show that adolescents need about 8-10 hours of sleep per night to stay healthy and perform well at school.\n\nHowever, modern lifestyles often prevent students from sleeping enough. The blue light from smartphones and computers can trick the brain into thinking it is still daytime. This suppresses (抑制) the production of melatonin, a hormone that makes us feel sleepy. As a result, many students find it hard to fall asleep even when they feel tired.\n\nLack of sleep affects both physical and mental health. Tired students usually have trouble concentrating in class and remembering new information. They are also more likely to feel stressed or irritated (易怒的). In the long term, chronic sleep deprivation can weaken the immune system and increase the risk of obesity.\n\nTo solve this problem, experts suggest creating a regular sleep schedule. Going to bed and waking up at the same time every day helps regulate your body clock. It is also helpful to keep electronic devices out the bedroom at least one hour before bedtime. Instead of scrolling through social media, try reading a book or listening to calm music.\n\nRemember, sacrificing sleep time to study often backfires. A well-rested brain learns much faster than an exhausted one. By prioritizing sleep, you are actually investing in your academic success and overall well-being.",
+      "explanation": "考查推理判断。最后一段提到'A well-rested brain learns much faster than an exhausted one'（休息良好的大脑比疲惫的大脑学习快得多）和'investing in your academic success'（为学业成功投资），可推断出充足的睡眠对学业表现有好处。A选项与'sacrificing sleep time...often backfires'（牺牲睡眠时间往往适得其反）相反；B选项与文意相反；D选项过于绝对且文中未提及。解题技巧：关注段首'sacrificing sleep...backfires'（牺牲睡眠会适得其反）和段尾'investing in academic success'（投资学业成功），推断出睡眠与学习成绩的正向关系。",
+      "label": "阅读-推理判断"
     },
     {
       "id": 16,
       "type": "reading",
       "knowledge_point": "main_idea",
       "difficulty": 3,
-      "stem": "What is the best title for the passage?",
+      "stem": "What is the best title for this passage?",
       "options": [
-        "A. How to Save Water",
-        "B. My School Science Fair Experience",
-        "C. The Importance of Teamwork",
-        "D. Environmental Protection Methods"
+        "A. The Dangers of Blue Light",
+        "B. How to Improve Memory",
+        "C. The Importance of Sleep for Teenagers",
+        "D. Ways to Reduce Obesity"
       ],
-      "correct_answer": "B",
-      "explanation": "选B。主旨大意题。文章主要讲述了作者参加学校科学展览的经历，包括准备过程、展示过程和获奖感受。A太宽泛（如何节水），C只涉及文章部分内容（团队合作），D也过于宽泛（环保方法）。B选项\"我的学校科学展览经历\"最能概括全文内容。解题技巧：主旨题要抓住文章主线（叙事类看人物和事件，说明类看说明对象），避免选择过于宽泛或片面的标题。",
-      "label": "阅读-主旨大意",
+      "correct_answer": "C",
       "group": "reading_1",
-      "group_passage": "Last month, our school held an annual science fair that attracted great attention from both students and teachers. Each class was asked to create an innovative project focused on environmental protection and sustainable living. After several discussions, my group of four classmates decided to make a working model demonstrating how to recycle and reuse greywater (生活废水) in daily life.\n\nWe spent two intense weeks preparing for the exhibition. First, we conducted thorough research online about modern water recycling systems and filtration methods. Then, we enthusiastically collected recyclable materials from our homes and neighborhoods, such as plastic bottles, old PVC pipes, and discarded filters. Our team leader, Tom, who has a talent for engineering, carefully designed the structure and assembly process. I was responsible for writing clear explanation cards and preparing the presentation script. Meanwhile, another teammate, Lisa, repeatedly tested the model to ensure it operated smoothly without leaks.\n\nOn the day of the fair, the gymnasium was packed with curious visitors. Many students and teachers stopped by our booth, asking detailed questions about how the filtration system functioned and its practical applications in households. We patiently explained that the recycled water could be safely used to water garden plants or flush toilets, significantly reducing water waste. To our absolute delight and surprise, our eco-friendly project won the first prize among twenty competing teams! The judges praised our idea as being both scientifically sound and practically applicable to daily life.\n\nThis rewarding experience taught me that science is not merely about abstract theories confined within textbooks. Rather, it is about collaboratively solving real-world problems through creative teamwork and persistent innovation. I sincerely hope more students will participate in such hands-on activities to discover the true joy and value of scientific exploration."
+      "group_passage": "Sleep is one of the most important parts of our daily life, but many teenagers don't get enough of it. Studies show that adolescents need about 8-10 hours of sleep per night to stay healthy and perform well at school.\n\nHowever, modern lifestyles often prevent students from sleeping enough. The blue light from smartphones and computers can trick the brain into thinking it is still daytime. This suppresses (抑制) the production of melatonin, a hormone that makes us feel sleepy. As a result, many students find it hard to fall asleep even when they feel tired.\n\nLack of sleep affects both physical and mental health. Tired students usually have trouble concentrating in class and remembering new information. They are also more likely to feel stressed or irritated (易怒的). In the long term, chronic sleep deprivation can weaken the immune system and increase the risk of obesity.\n\nTo solve this problem, experts suggest creating a regular sleep schedule. Going to bed and waking up at the same time every day helps regulate your body clock. It is also helpful to keep electronic devices out of the bedroom at least one hour before bedtime. Instead of scrolling through social media, try reading a book or listening to calm music.\n\nRemember, sacrificing sleep time to study often backfires. A well-rested brain learns much faster than an exhausted one. By prioritizing sleep, you are actually investing in your academic success and overall well-being.",
+      "explanation": "考查主旨大意。文章第一段引出青少年睡眠不足的问题，第二段讲原因，第三段讲危害，第四段讲建议，最后总结。全文围绕'青少年睡眠的重要性'展开。A选项蓝光只是第二段的细节；B选项提高记忆只是第三段的细节；D选项减少肥胖只是第三段末尾的细节。解题技巧：选择能涵盖全文内容的标题，而非某段细节。文章反复出现sleep和teenagers/students，C选项最全面。",
+      "label": "阅读-主旨大意"
     },
     {
       "id": 17,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "stem": "(17)_____",
+      "stem": "(17)______",
       "options": [
-        "A. However, don't let hobbies take over your study time completely.",
-        "B. First of all, it's important to set clear priorities and schedules.",
-        "C. In addition, try to combine your hobbies with your learning.",
-        "D. For example, you can use your hobbies as motivation for studying.",
-        "E. Finally, always remember to maintain a healthy balance between work and play."
+        "A. However, make sure your hobby time doesn't conflict with important deadlines.",
+        "B. The first step is to make a to-do list.",
+        "C. As a result, you will become more productive and less stressed.",
+        "D. Another useful strategy is to prioritize your tasks.",
+        "E. Then, you should give up all your hobbies to focus on study."
       ],
       "correct_answer": "B",
-      "explanation": "选B。根据后句\"First, create a weekly schedule...\"（首先，制定每周时间表）可知，此处需要总起句，提出\"设定明确的优先事项和时间表\"，且B选项的\"First of all\"与后文的\"First\"呼应。这是总分结构中的主题句。",
-      "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Many middle school students struggle to balance their academic responsibilities with personal hobbies. However, with proper planning, it is possible to enjoy both study and leisure time. Here are some practical tips.\n\n(17) _____ First, create a weekly schedule that includes specific time slots for studying and for hobbies. This helps ensure that neither is neglected. Be realistic about how much time you need for homework.\n\n(18) _____ Use hobbies as rewards after completing study tasks. For example, promise yourself thirty minutes of basketball practice after finishing math homework. This motivates you to work efficiently.\n\n(19) _____ Additionally, choose hobbies that complement your studies. If you enjoy photography, you can practice writing skills by keeping a photo journal. If you like music, listen to English songs to improve your language skills.\n\n(20) _____ Remember that balance is key. Too much studying leads to burnout, while too much hobby time affects grades. Find the rhythm that works best for you and adjust when necessary."
+      "group_passage": "Many students struggle to balance their schoolwork with hobbies. Here are some tips to help you manage your time better.\n\n(17)______ First, write down all your assignments and their deadlines. This helps you see clearly what needs to be done urgently. Use a planner or a digital app to organize your tasks.\n\n(18)______ Not all homework requires the same amount of time. Focus on difficult subjects when your mind is fresh, usually in the morning or early evening. Save easier tasks for when you feel tired.\n\nIt is also important to schedule specific time for your hobbies. (19)______ Treat this time as seriously as you would treat a class. If you love painting, set aside Saturday afternoon for it. This way, you won't feel guilty about taking breaks because they are planned.\n\n(20)______ Remember that it's okay to say no to extra activities when you're already busy. Quality matters more than quantity. By following these suggestions, you can enjoy both good grades and personal interests.",
+      "explanation": "考查段落衔接和逻辑关系。空格后'First, write down...'（首先，写下……）表明这是第一个步骤，因此选B'第一步是制作待办清单'。A选项However表示转折，不符合开篇语境；C选项As a result表示结果，通常用于结尾；D选项Another表示另一个，暗示前面已有策略，但此处是开头；E选项建议放弃爱好，与文章主题'平衡学业与爱好'相悖。解题技巧：根据连接词'First'判断此处是第一条建议，应选表示'第一步'的句子。",
+      "label": "短文填空"
     },
     {
       "id": 18,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "stem": "(18)_____",
+      "stem": "(18)______",
       "options": [
-        "A. However, don't let hobbies take over your study time completely.",
-        "B. First of all, it's important to set clear priorities and schedules.",
-        "C. In addition, try to combine your hobbies with your learning.",
-        "D. For example, you can use your hobbies as motivation for studying.",
-        "E. Finally, always remember to maintain a healthy balance between work and play."
+        "A. However, make sure your hobby time doesn't conflict with important deadlines.",
+        "B. The first step is to make a to-do list.",
+        "C. As a result, you will become more productive and less stressed.",
+        "D. Another useful strategy is to prioritize your tasks.",
+        "E. Then, you should give up all your hobbies to focus on study."
       ],
       "correct_answer": "D",
-      "explanation": "选D。根据后句\"Use hobbies as rewards after completing study tasks\"（把爱好作为完成学习任务后的奖励）可知，这里是在举例说明如何利用爱好作为学习动力，与D选项\"例如，你可以把爱好作为学习的动力\"完美衔接。且后文的\"For example\"也提示了这是具体举例。",
-      "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Many middle school students struggle to balance their academic responsibilities with personal hobbies. However, with proper planning, it is possible to enjoy both study and leisure time. Here are some practical tips.\n\n(17) _____ First, create a weekly schedule that includes specific time slots for studying and for hobbies. This helps ensure that neither is neglected. Be realistic about how much time you need for homework.\n\n(18) _____ Use hobbies as rewards after completing study tasks. For example, promise yourself thirty minutes of basketball practice after finishing math homework. This motivates you to work efficiently.\n\n(19) _____ Additionally, choose hobbies that complement your studies. If you enjoy photography, you can practice writing skills by keeping a photo journal. If you like music, listen to English songs to improve your language skills.\n\n(20) _____ Remember that balance is key. Too much studying leads to burnout, while too much hobby time affects grades. Find the rhythm that works best for you and adjust when necessary."
+      "group_passage": "Many students struggle to balance their schoolwork with hobbies. Here are some tips to help you manage your time better.\n\n(17)______ First, write down all your assignments and their deadlines. This helps you see clearly what needs to be done urgently. Use a planner or a digital app to organize your tasks.\n\n(18)______ Not all homework requires the same amount of time. Focus on difficult subjects when your mind is fresh, usually in the morning or early evening. Save easier tasks for when you feel tired.\n\nIt is also important to schedule specific time for your hobbies. (19)______ Treat this time as seriously as you would treat a class. If you love painting, set aside Saturday afternoon for it. This way, you won't feel guilty about taking breaks because they are planned.\n\n(20)______ Remember that it's okay to say no to extra activities when you're already busy. Quality matters more than quantity. By following these suggestions, you can enjoy both good grades and personal interests.",
+      "explanation": "考查段落衔接。上文讲了第一个策略（列清单），本段讲'不是所有作业都需要同样时间，要优先处理难题'，这是'另一个'策略，因此选D'另一个有用的策略是优先处理任务'。A选项讲爱好时间，而本段讲的是作业处理；B选项是第一步，已用于17题；C选项是结果；E选项与主题相悖。解题技巧：根据'Another'（另一个）判断这是第二条建议，且内容关于区分任务轻重缓急。",
+      "label": "短文填空"
     },
     {
       "id": 19,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "stem": "(19)_____",
+      "stem": "(19)______",
       "options": [
-        "A. However, don't let hobbies take over your study time completely.",
-        "B. First of all, it's important to set clear priorities and schedules.",
-        "C. In addition, try to combine your hobbies with your learning.",
-        "D. For example, you can use your hobbies as motivation for studying.",
-        "E. Finally, always remember to maintain a healthy balance between work and play."
+        "A. However, make sure your hobby时间 doesn't conflict with important deadlines.",
+        "B. The first step is to make a to-do list.",
+        "C. As a result, you will become more productive and less stressed.",
+        "D. Another useful strategy is to prioritize your tasks.",
+        "E. Then, you should give up all your hobbies to focus on study."
       ],
-      "correct_answer": "C",
-      "explanation": "选C。根据后句\"Additionally...\"（此外/另外）以及内容\"把爱好和学习结合起来\"（摄影练习写作、音乐学英语），可知此处是另一个建议：尝试将爱好与学习结合。C选项的\"In addition\"与后文的\"Additionally\"形成递进关系，且内容完全匹配。",
-      "label": "短文填空",
+      "correct_answer": "A",
       "group": "fill_1",
-      "group_passage": "Many middle school students struggle to balance their academic responsibilities with personal hobbies. However, with proper planning, it is possible to enjoy both study and leisure time. Here are some practical tips.\n\n(17) _____ First, create a weekly schedule that includes specific time slots for studying and for hobbies. This helps ensure that neither is neglected. Be realistic about how much time you need for homework.\n\n(18) _____ Use hobbies as rewards after completing study tasks. For example, promise yourself thirty minutes of basketball practice after finishing math homework. This motivates you to work efficiently.\n\n(19) _____ Additionally, choose hobbies that complement your studies. If you enjoy photography, you can practice writing skills by keeping a photo journal. If you like music, listen to English songs to improve your language skills.\n\n(20) _____ Remember that balance is key. Too much studying leads to burnout, while too much hobby time affects grades. Find the rhythm that works best for you and adjust when necessary."
+      "group_passage": "Many students struggle to balance their schoolwork with hobbies. Here are some tips to help you manage your time better.\n\n(17)______ First, write down all your assignments and their deadlines. This helps you see clearly what needs to be done urgently. Use a planner or a digital app to organize your tasks.\n\n(18)______ Not all homework requires the same amount of time. Focus on difficult subjects when your mind is fresh, usually in the morning or early evening. Save easier tasks for when you feel tired.\n\nIt is also important to schedule specific time for your hobbies. (19)______ Treat this time as seriously as you would treat a class. If you love painting, set aside Saturday afternoon for it. This way, you won't feel guilty about taking breaks because they are planned.\n\n(20)______ Remember that it's okay to say no to extra activities when you're already busy. Quality matters more than quantity. By following these suggestions, you can enjoy both good grades and personal interests.",
+      "explanation": "考查逻辑关系。上文说'为爱好安排专门时间很重要'，下文说'要像对待课程一样认真对待这段时间'，中间需要转折提醒'但要确保不与重要截止日期冲突'。A选项However表示转折，提醒注意平衡。B、C、D已用或不符合；E与主题相反。解题技巧：根据However的转折逻辑，承认爱好的重要性同时提醒不要影响学业截止日期。",
+      "label": "短文填空"
     },
     {
       "id": 20,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "stem": "(20)_____",
+      "stem": "(20)______",
       "options": [
-        "A. However, don't let hobbies take over your study time completely.",
-        "B. First of all, it's important to set clear priorities and schedules.",
-        "C. In addition, try to combine your hobbies with your learning.",
-        "D. For example, you can use your hobbies as motivation for studying.",
-        "E. Finally, always remember to maintain a healthy balance between work and play."
+        "A. However, make sure your hobby time doesn't conflict with important deadlines.",
+        "B. The first step is to make a to-do list.",
+        "C. As a result, you will become more productive and less stressed.",
+        "D. Another useful strategy is to prioritize your tasks.",
+        "E. Then, you should give up all your hobbies to focus on study."
       ],
-      "correct_answer": "E",
-      "explanation": "选E。根据位置（最后一段）和内容\"Remember that balance is key\"（记住平衡是关键），可知此处是总结句。E选项\"Finally...\"（最后...）是典型的总结性连接词，且\"maintain a healthy balance\"与后文\"balance is key\"完美呼应。解题技巧：选句子填空要注意逻辑连接词（First/Additionally/Finally）和内容连贯性。",
-      "label": "短文填空",
+      "correct_answer": "C",
       "group": "fill_1",
-      "group_passage": "Many middle school students struggle to balance their academic responsibilities with personal hobbies. However, with proper planning, it is possible to enjoy both study and leisure time. Here are some practical tips.\n\n(17) _____ First, create a weekly schedule that includes specific time slots for studying and for hobbies. This helps ensure that neither is neglected. Be realistic about how much time you need for homework.\n\n(18) _____ Use hobbies as rewards after completing study tasks. For example, promise yourself thirty minutes of basketball practice after finishing math homework. This motivates you to work efficiently.\n\n(19) _____ Additionally, choose hobbies that complement your studies. If you enjoy photography, you can practice writing skills by keeping a photo journal. If you like music, listen to English songs to improve your language skills.\n\n(20) _____ Remember that balance is key. Too much studying leads to burnout, while too much hobby time affects grades. Find the rhythm that works best for you and adjust when necessary."
+      "group_passage": "Many students struggle to balance their schoolwork with hobbies. Here are some tips to help you manage your time better.\n\n(17)______ First, write down all your assignments and their deadlines. This helps you see clearly what needs to be done urgently. Use a planner or a digital app to organize your tasks.\n\n(18)______ Not all homework requires the same amount of time. Focus on difficult subjects when your mind is fresh, usually in the morning or early evening. Save easier tasks for when you feel tired.\n\nIt is also important to schedule specific time for your hobbies. (19)______ Treat this time as seriously as you would treat a class. If you love painting, set aside Saturday afternoon for it. This way, you won't feel guilty about taking breaks because they are planned.\n\n(20)______ Remember that it's okay to say no to extra activities when you're already busy. Quality matters more than quantity. By following these suggestions, you can enjoy both good grades and personal interests.",
+      "explanation": "考查总结归纳。空格位于最后一段开头，后文讲'记住当你很忙时可以说不'，这是总结性建议。C选项'As a result, you will become more productive and less stressed'（结果，你会变得更高效且压力更小）作为遵循上述建议后的结果/总结最合适。A、B、D已用；E与主题相反。解题技巧：最后一段通常总结或说明结果，'As a result'（结果是）符合总结逻辑。",
+      "label": "短文填空"
     }
   ]
 }
