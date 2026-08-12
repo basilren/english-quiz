@@ -1,5 +1,5 @@
 ﻿{
-  "date": "2026-08-12",
+  "date": "2026-08-13",
   "session_number": 1,
   "questions": [
     {
@@ -7,15 +7,15 @@
       "type": "grammar",
       "knowledge_point": "present_perfect_vs_past_simple",
       "difficulty": 1,
-      "stem": "I ______ my homework two hours ago. It was easy.",
+      "stem": "I ________ my key yesterday, so I can't open the door now.",
       "options": [
-        "A. have finished",
-        "B. finished",
-        "C. finish",
-        "D. am finishing"
+        "A. lost",
+        "B. have lost",
+        "C. lose",
+        "D. had lost"
       ],
-      "correct_answer": "B",
-      "explanation": "本题考查现在完成时与一般过去时的区别。句中的'two hours ago'（两小时前）是明确的过去时间状语，只能与一般过去时连用。现在完成时（have finished）不能与具体的过去时间状语（如ago, yesterday, last week等）连用。因此选B。解题技巧：看到'ago'就选一般过去时。",
+      "correct_answer": "A",
+      "explanation": "本题考查一般过去时与现在完成时的区别。句中出现明确过去时间状语'yesterday'，表示过去特定时间发生的动作，必须用一般过去时'lost'。虽然结果影响现在（打不开门），但动作发生在明确的过去时间点，不能用现在完成时。B选项'have lost'用于无明确过去时间状语但强调对现在影响的情况；C选项'lose'是一般现在时，表示习惯动作；D选项'had lost'是过去完成时，表示'过去的过去'，需要有另一个过去动作作为参照点。",
       "label": "语法题"
     },
     {
@@ -23,7 +23,7 @@
       "type": "grammar",
       "knowledge_point": "relative_clause_who_which",
       "difficulty": 2,
-      "stem": "The book ______ I borrowed from the library yesterday is very interesting.",
+      "stem": "The book ________ is on the desk belongs to my sister.",
       "options": [
         "A. who",
         "B. which",
@@ -31,7 +31,7 @@
         "D. whose"
       ],
       "correct_answer": "B",
-      "explanation": "本题考查定语从句关系词的选择。先行词'the book'是物，在定语从句中作宾语，因此用which或that。who/whom用于先行词是人时，whose表示所属关系。因此选B。解题技巧：先行词是物用which/that，是人用who/whom。",
+      "explanation": "本题考查定语从句关系代词的选择。先行词'the book'指物，且在定语从句中作主语，应使用关系代词which或that。A选项'who'指人且在从句中作主语；C选项'whom'指人但在从句中作宾语；D选项'whose'表示所属关系，后需接名词。解题口诀：先行词是物，从句缺主宾，which/that来相助。",
       "label": "语法题"
     },
     {
@@ -39,63 +39,63 @@
       "type": "grammar",
       "knowledge_point": "passive_voice",
       "difficulty": 2,
-      "stem": "These trees ______ by the students last spring. Now they are growing well.",
+      "stem": "Many trees ________ in our school every year to make the air cleaner.",
       "options": [
-        "A. are planted",
-        "B. were planted",
+        "A. plant",
+        "B. are planted",
         "C. planted",
-        "D. plant"
+        "D. were planted"
       ],
       "correct_answer": "B",
-      "explanation": "本题考查一般过去时的被动语态。时间状语'last spring'表明是过去时，主语'trees'与动词'plant'是被动关系（树被种植），因此用一般过去时的被动语态was/were + 过去分词。主语是复数，用were planted。因此选B。",
+      "explanation": "本题考查被动语态。主语'many trees'是动作'plant'的承受者，需用被动语态（be + 过去分词）。时间状语'every year'表示习惯性动作，应用一般现在时的被动语态'are planted'。A选项是主动语态；C选项缺少助动词，不能构成谓语；D选项是一般过去时的被动语态，与'every year'表示的经常性动作不符。",
       "label": "语法题"
     },
     {
       "id": 4,
       "type": "grammar",
-      "knowledge_point": "object_clause",
+      "knowledge_point": "present_perfect_vs_past_simple",
       "difficulty": 3,
-      "stem": "—Excuse me, could you tell me ______?\n—Sure. It's next to the post office.",
+      "stem": "—________ you ever ________ to the new science museum?<br>—Yes, I ________ there with my classmates last weekend.",
       "options": [
-        "A. where is the bank",
-        "B. where the bank is",
-        "C. where was the bank",
-        "D. where the bank was"
+        "A. Did; go; went",
+        "B. Have; been; went",
+        "C. Have; gone; have been",
+        "D. Do; go; went"
       ],
       "correct_answer": "B",
-      "explanation": "本题考查宾语从句的语序和时态。宾语从句必须使用陈述语序（主语+谓语），排除A和C。主句'could you tell me'中的could表示委婉请求，不是过去时，因此从句根据实际情况用一般现在时。因此选B。解题技巧：宾语从句用陈述语序，注意时态呼应。",
+      "explanation": "本题考查现在完成时与一般过去时的混合使用。第一空'ever'是现在完成时的标志词，询问'曾经去过某地吗'用'have been to'（已回）或'have gone to'（未回），根据语境是'去过且已回'，用'have been'；第二空'last weekend'是明确的过去时间状语，必须用一般过去时'went'。A选项第一空用Did与ever搭配不当；C选项第二空使用现在完成时与last weekend矛盾；D选项第一空用Do构成一般现在时，与ever不搭配。",
       "label": "语法题"
     },
     {
       "id": 5,
       "type": "vocabulary",
-      "knowledge_point": "word_meaning_context",
+      "knowledge_point": "word_formation",
       "difficulty": 1,
-      "stem": "We should ______ the environment by saving water and reducing waste.",
+      "stem": "It is our duty to protect the ________ for our future generations.",
       "options": [
-        "A. protect",
-        "B. pollute",
-        "C. destroy",
-        "D. damage"
+        "A. environment",
+        "B. environmental",
+        "C. environmentally",
+        "D. environmentalist"
       ],
       "correct_answer": "A",
-      "explanation": "本题考查语境中的词义辨析。根据后半句'saving water and reducing waste'（节约用水和减少浪费）可知这是保护环境的行为。protect意为'保护'，pollute意为'污染'，destroy意为'破坏'，damage意为'损害'。因此选A。",
+      "explanation": "本题考查词性转换。定冠词'the'后应接名词作动词'protect'的宾语。A选项'environment'（环境，名词）符合语法和语义；B选项'environmental'（环境的，形容词）；C选项'environmentally'（环境地，副词）；D选项'environmentalist'（环保主义者，名词，但语义不符，保护环保主义者不合逻辑）。解题关键：the + 名词，protect the environment（保护环境）是固定搭配。",
       "label": "词汇题"
     },
     {
       "id": 6,
       "type": "vocabulary",
-      "knowledge_point": "word_formation",
+      "knowledge_point": "word_meaning",
       "difficulty": 2,
-      "stem": "The ______ news made everyone excited. (wonder)",
+      "stem": "After reading the article, we need to ________ whether the information is true or not.",
       "options": [
-        "A. wonderful",
-        "B. wonderfully",
-        "C. wonder",
-        "D. wondering"
+        "A. look for",
+        "B. find out",
+        "C. look after",
+        "D. find"
       ],
-      "correct_answer": "A",
-      "explanation": "本题考查词性转换。空格处修饰名词'news'，需要形容词。wonder是名词/动词，wonderful是形容词（精彩的），wonderfully是副词，wondering是现在分词。因此选A。后缀-ful通常构成形容词，表示'充满...的'。",
+      "correct_answer": "B",
+      "explanation": "本题考查动词短语辨析。find out强调经过调查、研究、思考后'查明、弄清楚'真相；look for强调寻找的动作（look for a pen）；look after表示照顾（look after children）；find强调找到的结果（find the key）。此处需要表达'核实/查明信息真伪'，是经过思考判断的过程，因此用find out最准确。",
       "label": "词汇题"
     },
     {
@@ -103,7 +103,7 @@
       "type": "vocabulary",
       "knowledge_point": "phrasal_verbs",
       "difficulty": 2,
-      "stem": "Please ______ the lights when you leave the classroom to save electricity.",
+      "stem": "Remember to ________ the TV when no one is watching it to save electricity.",
       "options": [
         "A. turn on",
         "B. turn off",
@@ -111,246 +111,246 @@
         "D. turn down"
       ],
       "correct_answer": "B",
-      "explanation": "本题考查短语动词辨析。turn on打开，turn off关闭，turn up调大（音量），turn down调小/拒绝。根据'leave the classroom'和'save electricity'可知应该关灯。因此选B。",
+      "explanation": "本题考查动词短语辨析。turn off表示'关闭（电器）'；turn on表示'打开'；turn up表示'调大（音量）'或'出现'；turn down表示'调小（音量）'或'拒绝'。根据语境'save electricity'（省电）和'no one is watching'（没人看），可知应该'关闭'电视。",
       "label": "词汇题"
     },
     {
       "id": 8,
       "type": "cloze",
       "knowledge_point": "cloze_general",
-      "difficulty": 1,
-      "stem": "(8)______",
+      "difficulty": 2,
+      "stem": "(8)________",
       "options": [
-        "A. give",
-        "B. take",
-        "C. play",
-        "D. join"
+        "A. importance",
+        "B. different",
+        "C. difficult",
+        "D. interesting"
       ],
-      "correct_answer": "B",
-      "explanation": "本题考查固定搭配'take part in'（参加）。give part in无此搭配，play后通常接球类运动，join后直接加组织/人。因此选B。",
+      "correct_answer": "A",
+      "explanation": "考查名词及语境理解。根据上下文，学校开展垃圾分类项目的目标是帮助学生理解保护环境的'重要性'。A选项importance（重要性）符合语境；B选项different（不同的，形容词，语法错误）；C选项difficult（困难的，形容词）；D选项interesting（有趣的，形容词）。the后面需接名词，且the importance of...（...的重要性）是固定搭配。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last week, our school organized an environmental protection activity. All the students were asked to (8)______ part in it. The activity aimed to teach us how to live a green life and protect our planet.\n\nOn Monday morning, we attended a lecture given by a scientist. He told us that our planet is facing serious (9)______. For example, many animals are losing their homes because of pollution and climate change. We also learned that even small actions can make a big (10)______ to the environment.\n\nAfter the lecture, we started a recycling project in our classroom. We collected plastic bottles and waste paper. At first, some students thought it was (11)______ and didn't want to join. But when they saw how much waste we could reuse, they changed their minds and became very active.\n\nBy the end of the week, we had collected over 200 kilograms of recyclable materials. Our teacher said we (12)______ a great job. This activity helped us understand the importance of protecting our environment for future generations."
+      "group_passage": "Last month, our school started a garbage sorting (垃圾分类) program. The goal was to help students understand the (8)________ of protecting the environment.\n\nAt first, many students found it difficult. They didn't know which bin to use for different kinds of waste. Our science teacher, Mr. Li, gave us a special lesson. He explained that food waste should go into the green bin, while paper and plastic belong to the blue one. He also (9)________ some interesting videos to help us remember the rules.\n\nAfter two weeks, things became much (10)________. Students got used to the new system. We even had a competition to see which class could do the best job. My class won the first prize! Everyone felt very (11)________.\n\nNow, garbage sorting has become part of our daily life. It not only helps reduce pollution but also teaches us to be responsible citizens. We hope more schools will (12)________ this practice to make our city cleaner."
     },
     {
       "id": 9,
       "type": "cloze",
       "knowledge_point": "cloze_general",
       "difficulty": 2,
-      "stem": "(9)______",
+      "stem": "(9)________",
       "options": [
-        "A. chances",
-        "B. problems",
-        "C. advantages",
-        "D. solutions"
+        "A. showed",
+        "B. drew",
+        "C. wrote",
+        "D. made"
       ],
-      "correct_answer": "B",
-      "explanation": "本题考查语境推理。根据下文'For example, many animals are losing their homes because of pollution'（例如，许多动物因污染失去家园）可知，这里讲的是地球面临的'问题'。problems意为'问题'，符合语境。因此选B。",
+      "correct_answer": "A",
+      "explanation": "考查动词及固定搭配。show videos（播放/展示视频）是固定搭配。B选项drew（画画）与videos不搭配；C选项wrote（写）与videos不搭配；D选项made（制作），虽然可以说make videos，但结合语境，老师是在课堂上'展示'视频帮助学生记忆，而非制作视频。因此showed最符合语境。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last week, our school organized an environmental protection activity. All the students were asked to (8)______ part in it. The activity aimed to teach us how to live a green life and protect our planet.\n\nOn Monday morning, we attended a lecture given by a scientist. He told us that our planet is facing serious (9)______. For example, many animals are losing their homes because of pollution and climate change. We also learned that even small actions can make a big (10)______ to the environment.\n\nAfter the lecture, we started a recycling project in our classroom. We collected plastic bottles and waste paper. At first, some students thought it was (11)______ and didn't want to join. But when they saw how much waste we could reuse, they changed their minds and became very active.\n\nBy the end of the week, we had collected over 200 kilograms of recyclable materials. Our teacher said we (12)______ a great job. This activity helped us understand the importance of protecting our environment for future generations."
+      "group_passage": "Last month, our school started a garbage sorting (垃圾分类) program. The goal was to help students understand the (8)________ of protecting the environment.\n\nAt first, many students found it difficult. They didn't know which bin to use for different kinds of waste. Our science teacher, Mr. Li, gave us a special lesson. He explained that food waste should go into the green bin, while paper and plastic belong to the blue one. He also (9)________ some interesting videos to help us remember the rules.\n\nAfter two weeks, things became much (10)________. Students got used to the new system. We even had a competition to see which class could do the best job. My class won the first prize! Everyone felt very (11)________.\n\nNow, garbage sorting has become part of our daily life. It not only helps reduce pollution but also teaches us to be responsible citizens. We hope more schools will (12)________ this practice to make our city cleaner."
     },
     {
       "id": 10,
       "type": "cloze",
       "knowledge_point": "cloze_general",
       "difficulty": 2,
-      "stem": "(10)______",
+      "stem": "(10)________",
       "options": [
-        "A. decision",
-        "B. mistake",
-        "C. difference",
-        "D. progress"
+        "A. harder",
+        "B. easier",
+        "C. worse",
+        "D. better"
       ],
-      "correct_answer": "C",
-      "explanation": "本题考查固定搭配'make a difference'（产生影响，起作用）。句意为'即使是小行动也能对环境产生重大影响'。decision决定，mistake错误，progress进步（通常与make搭配为make progress）。因此选C。",
+      "correct_answer": "B",
+      "explanation": "考查形容词比较级及语境逻辑。前文提到'At first, many students found it difficult'（起初觉得难），本句'After two weeks'（两周后）暗示转折，事情变得'更容易'了。A选项harder（更难）与语境相反；C选项worse（更糟）不符合；D选项better（更好）虽然可以，但此处强调与difficult的对比，easier（更容易）更准确对应前文的困难。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last week, our school organized an environmental protection activity. All the students were asked to (8)______ part in it. The activity aimed to teach us how to live a green life and protect our planet.\n\nOn Monday morning, we attended a lecture given by a scientist. He told us that our planet is facing serious (9)______. For example, many animals are losing their homes because of pollution and climate change. We also learned that even small actions can make a big (10)______ to the environment.\n\nAfter the lecture, we started a recycling project in our classroom. We collected plastic bottles and waste paper. At first, some students thought it was (11)______ and didn't want to join. But when they saw how much waste we could reuse, they changed their minds and became very active.\n\nBy the end of the week, we had collected over 200 kilograms of recyclable materials. Our teacher said we (12)______ a great job. This activity helped us understand the importance of protecting our environment for future generations."
+      "group_passage": "Last month, our school started a garbage sorting (垃圾分类) program. The goal was to help students understand the (8)________ of protecting the environment.\n\nAt first, many students found it difficult. They didn't know which bin to use for different kinds of waste. Our science teacher, Mr. Li, gave us a special lesson. He explained that food waste should go into the green bin, while paper and plastic belong to the blue one. He also (9)________ some interesting videos to help us remember the rules.\n\nAfter two weeks, things became much (10)________. Students got used to the new system. We even had a competition to see which class could do the best job. My class won the first prize! Everyone felt very (11)________.\n\nNow, garbage sorting has become part of our daily life. It not only helps reduce pollution but also teaches us to be responsible citizens. We hope more schools will (12)________ this practice to make our city cleaner."
     },
     {
       "id": 11,
       "type": "cloze",
       "knowledge_point": "cloze_general",
-      "difficulty": 2,
-      "stem": "(11)______",
+      "difficulty": 1,
+      "stem": "(11)________",
       "options": [
-        "A. boring",
-        "B. dangerous",
-        "C. expensive",
-        "D. difficult"
+        "A. sorry",
+        "B. worried",
+        "C. proud",
+        "D. tired"
       ],
-      "correct_answer": "A",
-      "explanation": "本题考查语境推理。根据'didn't want to join'（不想参加）可知，一些学生觉得这个活动很'无聊'。boring意为'无聊的，枯燥的'，符合语境。dangerous危险的，expensive昂贵的，difficult困难的，均不符合收集废品这一活动的语境。因此选A。",
+      "correct_answer": "C",
+      "explanation": "考查形容词及情感线索。前文提到'My class won the first prize'（我们班得了一等奖），因此大家的感受应该是'自豪的'。A选项sorry（抱歉的）；B选项worried（担心的）；D选项tired（疲倦的）均不符合获奖后的积极情绪。C选项proud（自豪的）符合语境。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last week, our school organized an environmental protection activity. All the students were asked to (8)______ part in it. The activity aimed to teach us how to live a green life and protect our planet.\n\nOn Monday morning, we attended a lecture given by a scientist. He told us that our planet is facing serious (9)______. For example, many animals are losing their homes because of pollution and climate change. We also learned that even small actions can make a big (10)______ to the environment.\n\nAfter the lecture, we started a recycling project in our classroom. We collected plastic bottles and waste paper. At first, some students thought it was (11)______ and didn't want to join. But when they saw how much waste we could reuse, they changed their minds and became very active.\n\nBy the end of the week, we had collected over 200 kilograms of recyclable materials. Our teacher said we (12)______ a great job. This activity helped us understand the importance of protecting our environment for future generations."
+      "group_passage": "Last month, our school started a garbage sorting (垃圾分类) program. The goal was to help students understand the (8)________ of protecting the environment.\n\nAt first, many students found it difficult. They didn't know which bin to use for different kinds of waste. Our science teacher, Mr. Li, gave us a special lesson. He explained that food waste should go into the green bin, while paper and plastic belong to the blue one. He also (9)________ some interesting videos to help us remember the rules.\n\nAfter two weeks, things became much (10)________. Students got used to the new system. We even had a competition to see which class could do the best job. My class won the first prize! Everyone felt very (11)________.\n\nNow, garbage sorting has become part of our daily life. It not only helps reduce pollution but also teaches us to be responsible citizens. We hope more schools will (12)________ this practice to make our city cleaner."
     },
     {
       "id": 12,
       "type": "cloze",
       "knowledge_point": "cloze_general",
       "difficulty": 1,
-      "stem": "(12)______",
+      "stem": "(12)________",
       "options": [
-        "A. made",
-        "B. did",
-        "C. took",
-        "D. had"
+        "A. look for",
+        "B. talk about",
+        "C. think of",
+        "D. take up"
       ],
-      "correct_answer": "B",
-      "explanation": "本题考查固定搭配'do a great job'（做得很好）。make制作，take拿取，have有，均不与a great job构成此搭配。因此选B。",
+      "correct_answer": "D",
+      "explanation": "考查动词短语辨析。take up表示'开始从事、采纳（做法）'；look for表示'寻找'；talk about表示'谈论'；think of表示'想起、认为'。根据语境'希望更多学校采纳这一做法'，take up this practice（采纳这一做法）最为恰当。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last week, our school organized an environmental protection activity. All the students were asked to (8)______ part in it. The activity aimed to teach us how to live a green life and protect our planet.\n\nOn Monday morning, we attended a lecture given by a scientist. He told us that our planet is facing serious (9)______. For example, many animals are losing their homes because of pollution and climate change. We also learned that even small actions can make a big (10)______ to the environment.\n\nAfter the lecture, we started a recycling project in our classroom. We collected plastic bottles and waste paper. At first, some students thought it was (11)______ and didn't want to join. But when they saw how much waste we could reuse, they changed their minds and became very active.\n\nBy the end of the week, we had collected over 200 kilograms of recyclable materials. Our teacher said we (12)______ a great job. This activity helped us understand the importance of protecting our environment for future generations."
+      "group_passage": "Last month, our school started a garbage sorting (垃圾分类) program. The goal was to help students understand the (8)________ of protecting the environment.\n\nAt first, many students found it difficult. They didn't know which bin to use for different kinds of waste. Our science teacher, Mr. Li, gave us a special lesson. He explained that food waste should go into the green bin, while paper and plastic belong to the blue one. He also (9)________ some interesting videos to help us remember the rules.\n\nAfter two weeks, things became much (10)________. Students got used to the new system. We even had a competition to see which class could do the best job. My class won the first prize! Everyone felt very (11)________.\n\nNow, garbage sorting has become part of our daily life. It not only helps reduce pollution but also teaches us to be responsible citizens. We hope more schools will (12)________ this practice to make our city cleaner."
     },
     {
       "id": 13,
       "type": "reading",
       "knowledge_point": "detail",
       "difficulty": 2,
-      "stem": "According to the passage, what can a solar backpack do?",
+      "stem": "What did Lin Tao often forget to bring last term?",
       "options": [
-        "A. It can store more books than normal bags.",
-        "B. It can connect to the internet anywhere.",
-        "C. It can charge devices using sunlight.",
-        "D. It can keep food and drinks cold."
+        "A. His tablet.",
+        "B. His heavy textbooks.",
+        "C. His homework.",
+        "D. His feedback."
       ],
-      "correct_answer": "C",
-      "explanation": "细节理解题。根据文章第一段'They are special bags that can charge your electronic devices using sunlight'和第三段'You can then use this energy to charge your mobile phone...'可知，太阳能背包可以利用阳光给电子设备充电。因此选C。A、B、D在文中均未提及。",
+      "correct_answer": "B",
+      "explanation": "本题考查细节理解。根据文章第二段Lin Tao所说的话'Last term, I often forgot to bring my heavy textbooks'可知，上学期他经常忘记带沉重的教科书。A选项是他的平板电脑，这是他现在用来替代课本的工具；C选项作业；D选项反馈，均与原文细节不符。解题技巧：细节题要定位关键词'last term'和'Lin Tao'，在原文中找到直接对应的句子。",
       "label": "阅读-细节理解",
       "group": "reading_1",
-      "group_passage": "Have you ever heard of \"solar backpacks\"? They are special bags that can charge your electronic devices using sunlight. This green invention is becoming increasingly popular among students who love outdoor activities.\n\nThe backpack looks similar to a normal school bag, but it has a thin solar panel attached to the back. When you walk under the sun, the panel collects solar energy and stores it in a small battery inside the bag. You can then use this energy to charge your mobile phone, tablet, or other USB devices whenever needed.\n\nTom, a 14-year-old student from Shenzhen, bought one last month. \"I often go hiking with my friends on weekends,\" he explained. \"Before, I always worried about my phone running out of battery in the middle of nowhere. But now, as long as there is sunshine, I can keep my devices charged all day long.\"\n\nHowever, experts remind us that these backpacks also have limitations. They don't work well on cloudy days or when you're walking in the shade. Also, they are more expensive than regular backpacks, usually costing between 300 to 500 yuan.\n\nDespite these drawbacks, many students still want to own one. They believe that using solar energy is an excellent way to reduce carbon emissions and protect the environment. \"Every small step counts,\" said Tom. \"If more people choose green products like this, we can definitely make our planet a better place to live.\""
+      "group_passage": "In recent years, technology has changed the way students study. At Guangming Middle School, students are using tablets (平板电脑) in class to make learning more interesting.\n\nLin Tao, a Grade 8 student, shares his experience. \"Last term, I often forgot to bring my heavy textbooks. Now with the tablet, all my books are in one device,\" he says. The school also uses special apps that allow students to do homework online. Teachers can check the work immediately and give feedback (反馈) quickly.\n\nHowever, some parents worry about screen time. \"I am concerned that my son spends too much time on the device,\" says Mr. Wang, Lin Tao's father. The school has made rules to solve this problem. Students can only use the tablets during class time and for one hour of homework each day.\n\nDr. Chen, an education expert, believes this change is positive. \"Technology makes learning more efficient (高效的). Students can find information quickly and learn at their own pace,\" he explains. But he also reminds students to protect their eyes and take breaks regularly.\n\nThe school plans to expand (扩展) this program to more grades next year. They hope to find a better balance between technology and traditional learning methods."
     },
     {
       "id": 14,
       "type": "reading",
       "knowledge_point": "inference",
       "difficulty": 3,
-      "stem": "Why did Tom buy the solar backpack?",
+      "stem": "What can we infer from the passage?",
       "options": [
-        "A. Because it was cheaper than other bags.",
-        "B. Because he needed it for his hiking trips.",
-        "C. Because he wanted to show off to his friends.",
-        "D. Because it looked more fashionable."
+        "A. All parents support using tablets in class.",
+        "B. Students can use tablets anytime they want.",
+        "C. The school has set time limits for tablet use.",
+        "D. Dr. Chen thinks tablets are harmful to students."
       ],
-      "correct_answer": "B",
-      "explanation": "推理判断题。根据第三段Tom的话'I often go hiking with my friends on weekends... Before, I always worried about my phone running out of battery... But now... I can keep my devices charged'可知，Tom购买这个背包是因为他周末经常徒步旅行，需要解决手机没电的问题。因此选B。A与文中'more expensive'矛盾，C和D文中未提及。",
+      "correct_answer": "C",
+      "explanation": "本题考查推理判断。根据第三段最后一句'Students can only use the tablets during class time and for one hour of homework each day'可以推断出学校对平板电脑的使用设定了时间限制（time limits）。A选项'所有家长都支持'与文中'some parents worry'矛盾；B选项'随时使用'与'only during class time and for one hour'矛盾；D选项'Dr. Chen认为有害'与'believes this change is positive'矛盾。推理题要注意区分原文直接陈述的内容和需要推断的结论。",
       "label": "阅读-推理判断",
       "group": "reading_1",
-      "group_passage": "Have you ever heard of \"solar backpacks\"? They are special bags that can charge your electronic devices using sunlight. This green invention is becoming increasingly popular among students who love outdoor activities.\n\nThe backpack looks similar to a normal school bag, but it has a thin solar panel attached to the back. When you walk under the sun, the panel collects solar energy and stores it in a small battery inside the bag. You can then use this energy to charge your mobile phone, tablet, or other USB devices whenever needed.\n\nTom, a 14-year-old student from Shenzhen, bought one last month. \"I often go hiking with my friends on weekends,\" he explained. \"Before, I always worried about my phone running out of battery in the middle of nowhere. But now, as long as there is sunshine, I can keep my devices charged all day long.\"\n\nHowever, experts remind us that these backpacks also have limitations. They don't work well on cloudy days or when you're walking in the shade. Also, they are more expensive than regular backpacks, usually costing between 300 to 500 yuan.\n\nDespite these drawbacks, many students still want to own one. They believe that using solar energy is an excellent way to reduce carbon emissions and protect the environment. \"Every small step counts,\" said Tom. \"If more people choose green products like this, we can definitely make our planet a better place to live.\""
+      "group_passage": "In recent years, technology has changed the way students study. At Guangming Middle School, students are using tablets (平板电脑) in class to make learning more interesting.\n\nLin Tao, a Grade 8 student, shares his experience. \"Last term, I often forgot to bring my heavy textbooks. Now with the tablet, all my books are in one device,\" he says. The school also uses special apps that allow students to do homework online. Teachers can check the work immediately and give feedback (反馈) quickly.\n\nHowever, some parents worry about screen time. \"I am concerned that my son spends too much time on the device,\" says Mr. Wang, Lin Tao's father. The school has made rules to solve this problem. Students can only use the tablets during class time and for one hour of homework each day.\n\nDr. Chen, an education expert, believes this change is positive. \"Technology makes learning more efficient (高效的). Students can find information quickly and learn at their own pace,\" he explains. But he also reminds students to protect their eyes and take breaks regularly.\n\nThe school plans to expand (扩展) this program to more grades next year. They hope to find a better balance between technology and traditional learning methods."
     },
     {
       "id": 15,
       "type": "reading",
-      "knowledge_point": "word_guessing_context",
+      "knowledge_point": "word_guessing",
       "difficulty": 2,
-      "stem": "What does the word \"limitations\" in Paragraph 4 probably mean?",
+      "stem": "What does the underlined word \"efficient\" probably mean in Paragraph 4?",
       "options": [
-        "A. Advantages and benefits",
-        "B. Instructions for use",
-        "C. Disadvantages or weaknesses",
-        "D. Prices and costs"
+        "A. Difficult and boring.",
+        "B. Quick and effective.",
+        "C. Slow but interesting.",
+        "D. Easy but useless."
       ],
-      "correct_answer": "C",
-      "explanation": "词义猜测题。根据第四段后面的解释'They don't work well on cloudy days... Also, they are more expensive'（阴天不好用，而且更贵）可知，这些都是在讲太阳能背包的缺点或局限性。因此'limitations'意为'缺点，局限性'。因此选C。",
+      "correct_answer": "B",
+      "explanation": "本题考查词义猜测。根据第四段Dr. Chen的解释'Students can find information quickly'（学生能快速找到信息），可以推断efficient的意思是'高效的'，即'quick and effective'（快速且有效的）。A选项困难且无聊；C选项慢但有趣；D选项简单但无用，均与后文解释的积极含义和'quickly'的提示不符。解题技巧：通过上下文线索（如quickly）和积极/消极态度判断词义。",
       "label": "阅读-词义猜测",
       "group": "reading_1",
-      "group_passage": "Have you ever heard of \"solar backpacks\"? They are special bags that can charge your electronic devices using sunlight. This green invention is becoming increasingly popular among students who love outdoor activities.\n\nThe backpack looks similar to a normal school bag, but it has a thin solar panel attached to the back. When you walk under the sun, the panel collects solar energy and stores it in a small battery inside the bag. You can then use this energy to charge your mobile phone, tablet, or other USB devices whenever needed.\n\nTom, a 14-year-old student from Shenzhen, bought one last month. \"I often go hiking with my friends on weekends,\" he explained. \"Before, I always worried about my phone running out of battery in the middle of nowhere. But now, as long as there is sunshine, I can keep my devices charged all day long.\"\n\nHowever, experts remind us that these backpacks also have limitations. They don't work well on cloudy days or when you're walking in the shade. Also, they are more expensive than regular backpacks, usually costing between 300 to 500 yuan.\n\nDespite these drawbacks, many students still want to own one. They believe that using solar energy is an excellent way to reduce carbon emissions and protect the environment. \"Every small step counts,\" said Tom. \"If more people choose green products like this, we can definitely make our planet a better place to live.\""
+      "group_passage": "In recent years, technology has changed the way students study. At Guangming Middle School, students are using tablets (平板电脑) in class to make learning more interesting.\n\nLin Tao, a Grade 8 student, shares his experience. \"Last term, I often forgot to bring my heavy textbooks. Now with the tablet, all my books are in one device,\" he says. The school also uses special apps that allow students to do homework online. Teachers can check the work immediately and give feedback (反馈) quickly.\n\nHowever, some parents worry about screen time. \"I am concerned that my son spends too much time on the device,\" says Mr. Wang, Lin Tao's father. The school has made rules to solve this problem. Students can only use the tablets during class time and for one hour of homework each day.\n\nDr. Chen, an education expert, believes this change is positive. \"Technology makes learning more efficient (高效的). Students can find information quickly and learn at their own pace,\" he explains. But he also reminds students to protect their eyes and take breaks regularly.\n\nThe school plans to expand (扩展) this program to more grades next year. They hope to find a better balance between technology and traditional learning methods."
     },
     {
       "id": 16,
       "type": "reading",
-      "knowledge_point": "main_idea_title",
+      "knowledge_point": "main_idea",
       "difficulty": 3,
-      "stem": "What is the best title for this passage?",
+      "stem": "What is the best title for the passage?",
       "options": [
-        "A. How to Save Energy at School",
-        "B. The Importance of Outdoor Activities",
-        "C. Solar Backpacks: A Green Choice for Students",
-        "D. The Life of a Shenzhen Student"
+        "A. How to Protect Your Eyes",
+        "B. The History of Guangming Middle School",
+        "C. Technology Changes Learning Ways",
+        "D. Problems of Using Tablets"
       ],
       "correct_answer": "C",
-      "explanation": "主旨大意题。文章主要介绍了太阳能背包的工作原理、使用体验以及优缺点，最后强调这是一种环保选择。A选项范围过大，B选项侧重户外活动而非背包，D选项只是文中的例子。C选项'Solar Backpacks: A Green Choice for Students'（太阳能背包：学生的绿色选择）最能概括全文主旨。因此选C。",
+      "explanation": "本题考查主旨大意/最佳标题。文章开篇第一句'In recent years, technology has changed the way students study'点明主题，全文围绕光明中学使用平板电脑改变学习方式展开，包括学生体验、家长担忧、专家观点等。A选项'如何保护眼睛'只是文末提到的细节；B选项'学校历史'未提及；D选项'使用平板的问题'只是文章一部分，忽略了积极方面。C选项'科技改变学习方式'最能概括全文主旨。解题技巧：寻找主题句（通常在首段或尾段），标题要涵盖全文核心内容，不能以偏概全。",
       "label": "阅读-主旨大意",
       "group": "reading_1",
-      "group_passage": "Have you ever heard of \"solar backpacks\"? They are special bags that can charge your electronic devices using sunlight. This green invention is becoming increasingly popular among students who love outdoor activities.\n\nThe backpack looks similar to a normal school bag, but it has a thin solar panel attached to the back. When you walk under the sun, the panel collects solar energy and stores it in a small battery inside the bag. You can then use this energy to charge your mobile phone, tablet, or other USB devices whenever needed.\n\nTom, a 14-year-old student from Shenzhen, bought one last month. \"I often go hiking with my friends on weekends,\" he explained. \"Before, I always worried about my phone running out of battery in the middle of nowhere. But now, as long as there is sunshine, I can keep my devices charged all day long.\"\n\nHowever, experts remind us that these backpacks also have limitations. They don't work well on cloudy days or when you're walking in the shade. Also, they are more expensive than regular backpacks, usually costing between 300 to 500 yuan.\n\nDespite these drawbacks, many students still want to own one. They believe that using solar energy is an excellent way to reduce carbon emissions and protect the environment. \"Every small step counts,\" said Tom. \"If more people choose green products like this, we can definitely make our planet a better place to live.\""
+      "group_passage": "In recent years, technology has changed the way students study. At Guangming Middle School, students are using tablets (平板电脑) in class to make learning more interesting.\n\nLin Tao, a Grade 8 student, shares his experience. \"Last term, I often forgot to bring my heavy textbooks. Now with the tablet, all my books are in one device,\" he says. The school also uses special apps that allow students to do homework online. Teachers can check the work immediately and give feedback (反馈) quickly.\n\nHowever, some parents worry about screen time. \"I am concerned that my son spends too much time on the device,\" says Mr. Wang, Lin Tao's father. The school has made rules to solve this problem. Students can only use the tablets during class time and for one hour of homework each day.\n\nDr. Chen, an education expert, believes this change is positive. \"Technology makes learning more efficient (高效的). Students can find information quickly and learn at their own pace,\" he explains. But he also reminds students to protect their eyes and take breaks regularly.\n\nThe school plans to expand (扩展) this program to more grades next year. They hope to find a better balance between technology and traditional learning methods."
     },
     {
       "id": 17,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "stem": "(17)______",
+      "stem": "(17)________",
       "options": [
-        "A. First, maintain a regular sleep schedule.",
-        "B. Second, never skip your breakfast.",
-        "C. Third, stay focused during classes.",
-        "D. However, changing habits is never easy.",
-        "E. It doesn't have to be intense sports activities."
+        "A. However, it's not easy to achieve the balance immediately.",
+        "B. First, you should make a proper schedule.",
+        "C. In addition, remember that hobbies are important for your health.",
+        "D. In conclusion, balancing study and hobbies requires patience.",
+        "E. On the other hand, study should always come first."
       ],
       "correct_answer": "A",
-      "explanation": "本题考查段落衔接。空格后讲的是'每天同一时间起床，不要熬夜'，这与'保持规律的睡眠时间'相关。且根据后文的'Second'和'Third'可知此处应为'First'。因此选A。",
+      "explanation": "本题考查段落衔接。前文提出'很多学生难以平衡学习与爱好'的问题，此处需要承上启下的过渡句。A选项'然而，立即实现这种平衡并不容易'承接上文的困难，并自然引出下文的建议，符合逻辑。B、C选项是具体建议，应在引出建议的过渡之后；D选项是总结句，应在文末；E选项'另一方面'通常用于并列或对比已有观点，不适合作为首个过渡句。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Having a good daily routine is essential for middle school students. It helps us stay healthy, improve our study efficiency, and maintain a positive mood. Here are some practical tips for organizing your day better.\n\n(17)______. Try to wake up at the same time every morning, even on weekends. This regular schedule helps your biological clock work properly. Avoid staying up late playing computer games or watching videos, as lack of sleep affects your concentration.\n\n(18)______. Breakfast is widely considered the most important meal of the day. It provides the necessary energy for your brain and body throughout the morning. Never go to school on an empty stomach, or you might feel dizzy and unable to focus in class.\n\n(19)______. During class time, listen carefully to your teachers and take organized notes. If you encounter something you don't understand, raise your hand and ask questions immediately. Don't accumulate problems until the night before exams.\n\nFinally, make sure to include some physical exercise in your daily schedule. (20)______. You can choose activities like playing basketball, jogging, or simply taking a brisk walk for 30 minutes. Regular exercise not only strengthens your body but also helps you relieve stress."
+      "group_passage": "Many middle school students have trouble balancing their studies and hobbies. They often feel stressed because they don't have enough time for both. (17)________ The following advice may help you.\n\n(18)________ Write down all your tasks and arrange time properly. This helps you manage your day better.\n\n(19)________ Don't give up your hobbies completely when you are busy. Hobbies help you relax and improve creativity.\n\n(20)________ Keep trying, and you will find the right balance soon."
     },
     {
       "id": 18,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "stem": "(18)______",
+      "stem": "(18)________",
       "options": [
-        "A. First, maintain a regular sleep schedule.",
-        "B. Second, never skip your breakfast.",
-        "C. Third, stay focused during classes.",
-        "D. However, changing habits is never easy.",
-        "E. It doesn't have to be intense sports activities."
+        "A. However, it's not easy to achieve the balance immediately.",
+        "B. First, you should make a proper schedule.",
+        "C. In addition, remember that hobbies are important for your health.",
+        "D. In conclusion, balancing study and hobbies requires patience.",
+        "E. On the other hand, study should always come first."
       ],
       "correct_answer": "B",
-      "explanation": "本题考查段落衔接。空格后整段都在讲早餐的重要性，且根据前文的'First'和后文的'Third'可知此处应为'Second'。因此选B。",
+      "explanation": "本题考查段落衔接及顺序词。根据后文'Write down all your tasks...'（写下所有任务...）可知这是第一条具体建议，因此用'First'（首先）引出。B选项'First, you should make a proper schedule'（首先，你应该制定适当的计划）与后文内容完全匹配。A选项是承上启下句，已用于17空；C选项'In addition'（此外）用于补充说明，应在第一条建议之后；D选项是总结；E选项'On the other hand'（另一方面）用于对比或并列，不适合作为第一条建议。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Having a good daily routine is essential for middle school students. It helps us stay healthy, improve our study efficiency, and maintain a positive mood. Here are some practical tips for organizing your day better.\n\n(17)______. Try to wake up at the same time every morning, even on weekends. This regular schedule helps your biological clock work properly. Avoid staying up late playing computer games or watching videos, as lack of sleep affects your concentration.\n\n(18)______. Breakfast is widely considered the most important meal of the day. It provides the necessary energy for your brain and body throughout the morning. Never go to school on an empty stomach, or you might feel dizzy and unable to focus in class.\n\n(19)______. During class time, listen carefully to your teachers and take organized notes. If you encounter something you don't understand, raise your hand and ask questions immediately. Don't accumulate problems until the night before exams.\n\nFinally, make sure to include some physical exercise in your daily schedule. (20)______. You can choose activities like playing basketball, jogging, or simply taking a brisk walk for 30 minutes. Regular exercise not only strengthens your body but also helps you relieve stress."
+      "group_passage": "Many middle school students have trouble balancing their studies and hobbies. They often feel stressed because they don't have enough time for both. (17)________ The following advice may help you.\n\n(18)________ Write down all your tasks and arrange time properly. This helps you manage your day better.\n\n(19)________ Don't give up your hobbies completely when you are busy. Hobbies help you relax and improve creativity.\n\n(20)________ Keep trying, and you will find the right balance soon."
     },
     {
       "id": 19,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "stem": "(19)______",
+      "stem": "(19)________",
       "options": [
-        "A. First, maintain a regular sleep schedule.",
-        "B. Second, never skip your breakfast.",
-        "C. Third, stay focused during classes.",
-        "D. However, changing habits is never easy.",
-        "E. It doesn't have to be intense sports activities."
+        "A. However, it's not easy to achieve the balance immediately.",
+        "B. First, you should make a proper schedule.",
+        "C. In addition, remember that hobbies are important for your health.",
+        "D. In conclusion, balancing study and hobbies requires patience.",
+        "E. On the other hand, study should always come first."
       ],
       "correct_answer": "C",
-      "explanation": "本题考查段落衔接。空格后讲的是'上课时认真听讲、做笔记、提问'，这与'在课堂上保持专注'相关。且根据前文的'First'和'Second'可知此处应为'Third'。因此选C。",
+      "explanation": "本题考查段落衔接及逻辑关系。前文第一条建议讲制定计划安排时间（针对学习），本段讲'不要完全放弃爱好'，是从另一个角度补充建议，属于递进关系。C选项'In addition, remember that hobbies are important...'（此外，记住爱好对你的健康很重要）用In addition（此外）表示递进，引出第二条建议，与后文'不要放弃爱好'内容匹配。E选项'On the other hand'（另一方面）通常表示对比或相反观点，而此处是补充说明，并非对立。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Having a good daily routine is essential for middle school students. It helps us stay healthy, improve our study efficiency, and maintain a positive mood. Here are some practical tips for organizing your day better.\n\n(17)______. Try to wake up at the same time every morning, even on weekends. This regular schedule helps your biological clock work properly. Avoid staying up late playing computer games or watching videos, as lack of sleep affects your concentration.\n\n(18)______. Breakfast is widely considered the most important meal of the day. It provides the necessary energy for your brain and body throughout the morning. Never go to school on an empty stomach, or you might feel dizzy and unable to focus in class.\n\n(19)______. During class time, listen carefully to your teachers and take organized notes. If you encounter something you don't understand, raise your hand and ask questions immediately. Don't accumulate problems until the night before exams.\n\nFinally, make sure to include some physical exercise in your daily schedule. (20)______. You can choose activities like playing basketball, jogging, or simply taking a brisk walk for 30 minutes. Regular exercise not only strengthens your body but also helps you relieve stress."
+      "group_passage": "Many middle school students have trouble balancing their studies and hobbies. They often feel stressed because they don't have enough time for both. (17)________ The following advice may help you.\n\n(18)________ Write down all your tasks and arrange time properly. This helps you manage your day better.\n\n(19)________ Don't give up your hobbies completely when you are busy. Hobbies help you relax and improve creativity.\n\n(20)________ Keep trying, and you will find the right balance soon."
     },
     {
       "id": 20,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "stem": "(20)______",
+      "stem": "(20)________",
       "options": [
-        "A. First, maintain a regular sleep schedule.",
-        "B. Second, never skip your breakfast.",
-        "C. Third, stay focused during classes.",
-        "D. However, changing habits is never easy.",
-        "E. It doesn't have to be intense sports activities."
+        "A. However, it's not easy to achieve the balance immediately.",
+        "B. First, you should make a proper schedule.",
+        "C. In addition, remember that hobbies are important for your health.",
+        "D. In conclusion, balancing study and hobbies requires patience.",
+        "E. On the other hand, study should always come first."
       ],
-      "correct_answer": "E",
-      "explanation": "本题考查段落衔接。空格前提到'exercise'，空格后举例'playing basketball, jogging, or simply walking'（打篮球、慢跑或简单散步），这些都不是剧烈运动，因此空格处应填'It doesn't have to be intense sports activities'（不一定是剧烈运动）。因此选E。",
+      "correct_answer": "D",
+      "explanation": "本题考查段落衔接及总结句。根据位置（文章最后一段）和后文'Keep trying...'（坚持尝试...）可知此处需要总结性语句。D选项'In conclusion, balancing study and hobbies requires patience'（总之，平衡学习和爱好需要耐心）是标准的总结用语，且与后文'坚持尝试，很快会找到正确平衡'语义连贯。A、B、C选项已使用；E选项强调学习优先，与文章强调平衡的主旨不完全吻合，且不适合作为结尾总结。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Having a good daily routine is essential for middle school students. It helps us stay healthy, improve our study efficiency, and maintain a positive mood. Here are some practical tips for organizing your day better.\n\n(17)______. Try to wake up at the same time every morning, even on weekends. This regular schedule helps your biological clock work properly. Avoid staying up late playing computer games or watching videos, as lack of sleep affects your concentration.\n\n(18)______. Breakfast is widely considered the most important meal of the day. It provides the necessary energy for your brain and body throughout the morning. Never go to school on an empty stomach, or you might feel dizzy and unable to focus in class.\n\n(19)______. During class time, listen carefully to your teachers and take organized notes. If you encounter something you don't understand, raise your hand and ask questions immediately. Don't accumulate problems until the night before exams.\n\nFinally, make sure to include some physical exercise in your daily schedule. (20)______. You can choose activities like playing basketball, jogging, or simply taking a brisk walk for 30 minutes. Regular exercise not only strengthens your body but also helps you relieve stress."
+      "group_passage": "Many middle school students have trouble balancing their studies and hobbies. They often feel stressed because they don't have enough time for both. (17)________ The following advice may help you.\n\n(18)________ Write down all your tasks and arrange time properly. This helps you manage your day better.\n\n(19)________ Don't give up your hobbies completely when you are busy. Hobbies help you relax and improve creativity.\n\n(20)________ Keep trying, and you will find the right balance soon."
     }
   ]
 }
