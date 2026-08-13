@@ -1,5 +1,5 @@
 ﻿{
-  "date": "2026-08-13",
+  "date": "2026-08-14",
   "session_number": 1,
   "questions": [
     {
@@ -7,15 +7,15 @@
       "type": "grammar",
       "knowledge_point": "present_perfect_vs_past_simple",
       "difficulty": 1,
-      "stem": "I ________ my key yesterday, so I can't open the door now.",
+      "stem": "—______ you ever ______ to the Shenzhen Science Museum?\n—Yes, I ______ there with my classmates last month.",
       "options": [
-        "A. lost",
-        "B. have lost",
-        "C. lose",
-        "D. had lost"
+        "A. Did; go; went",
+        "B. Have; been; went",
+        "C. Have; gone; went",
+        "D. Did; be; went"
       ],
-      "correct_answer": "A",
-      "explanation": "本题考查一般过去时与现在完成时的区别。句中出现明确过去时间状语'yesterday'，表示过去特定时间发生的动作，必须用一般过去时'lost'。虽然结果影响现在（打不开门），但动作发生在明确的过去时间点，不能用现在完成时。B选项'have lost'用于无明确过去时间状语但强调对现在影响的情况；C选项'lose'是一般现在时，表示习惯动作；D选项'had lost'是过去完成时，表示'过去的过去'，需要有另一个过去动作作为参照点。",
+      "correct_answer": "B",
+      "explanation": "第一空根据ever（曾经）可知用现在完成时，have been to表示\"去过某地已返回\"，have gone to表示\"去了某地未回\"，答句说上个月和同学去的，说明已返回，故用have been；第二空根据last month（上个月，一般过去时标志词）用went。A、D第一空用助动词Did，后面动词应用原形go，且与ever不搭配；C选项have gone表示人还没回来，与答句逻辑矛盾。",
       "label": "语法题"
     },
     {
@@ -23,15 +23,15 @@
       "type": "grammar",
       "knowledge_point": "relative_clause_who_which",
       "difficulty": 2,
-      "stem": "The book ________ is on the desk belongs to my sister.",
+      "stem": "The book ______ I borrowed from the library yesterday is about environmental protection.",
       "options": [
         "A. who",
-        "B. which",
-        "C. whom",
+        "B. whom",
+        "C. which",
         "D. whose"
       ],
-      "correct_answer": "B",
-      "explanation": "本题考查定语从句关系代词的选择。先行词'the book'指物，且在定语从句中作主语，应使用关系代词which或that。A选项'who'指人且在从句中作主语；C选项'whom'指人但在从句中作宾语；D选项'whose'表示所属关系，后需接名词。解题口诀：先行词是物，从句缺主宾，which/that来相助。",
+      "correct_answer": "C",
+      "explanation": "本题考查定语从句关系代词。先行词是the book（指物），在从句中作宾语，应用which或that。who/whom指人；whose表示\"……的\"，表所属关系。解题技巧：一看先行词是人还是物，二看关系词在从句中充当什么成分。",
       "label": "语法题"
     },
     {
@@ -39,318 +39,318 @@
       "type": "grammar",
       "knowledge_point": "passive_voice",
       "difficulty": 2,
-      "stem": "Many trees ________ in our school every year to make the air cleaner.",
+      "stem": "These old newspapers ______ to make paper bags by the students every week.",
       "options": [
-        "A. plant",
-        "B. are planted",
-        "C. planted",
-        "D. were planted"
+        "A. are used",
+        "B. used",
+        "C. use",
+        "D. were used"
       ],
-      "correct_answer": "B",
-      "explanation": "本题考查被动语态。主语'many trees'是动作'plant'的承受者，需用被动语态（be + 过去分词）。时间状语'every year'表示习惯性动作，应用一般现在时的被动语态'are planted'。A选项是主动语态；C选项缺少助动词，不能构成谓语；D选项是一般过去时的被动语态，与'every year'表示的经常性动作不符。",
+      "correct_answer": "A",
+      "explanation": "本题考查一般现在时的被动语态。主语newspapers（报纸）是动作use的承受者，应用被动语态（be+过去分词）；时间状语every week（每周）表示经常性动作，用一般现在时；主语是复数，be动词用are。D选项were used是一般过去时被动，与every week不符；B、C是主动语态。",
       "label": "语法题"
     },
     {
       "id": 4,
       "type": "grammar",
-      "knowledge_point": "present_perfect_vs_past_simple",
+      "knowledge_point": "object_clause_modal_verbs",
       "difficulty": 3,
-      "stem": "—________ you ever ________ to the new science museum?<br>—Yes, I ________ there with my classmates last weekend.",
+      "stem": "—Do you know ______?\n—I'm not sure. It ______ be cloudy or rainy tomorrow.",
       "options": [
-        "A. Did; go; went",
-        "B. Have; been; went",
-        "C. Have; gone; have been",
-        "D. Do; go; went"
+        "A. what will the weather be like; must",
+        "B. what the weather will be like; might",
+        "C. how will the weather be; can",
+        "D. how the weather will be; must"
       ],
       "correct_answer": "B",
-      "explanation": "本题考查现在完成时与一般过去时的混合使用。第一空'ever'是现在完成时的标志词，询问'曾经去过某地吗'用'have been to'（已回）或'have gone to'（未回），根据语境是'去过且已回'，用'have been'；第二空'last weekend'是明确的过去时间状语，必须用一般过去时'went'。A选项第一空用Did与ever搭配不当；C选项第二空使用现在完成时与last weekend矛盾；D选项第一空用Do构成一般现在时，与ever不搭配。",
+      "explanation": "第一空考查宾语从句语序，必须用陈述语序（主语+谓语），即what the weather will be like或how the weather will be，排除A、C（疑问语序）；第二空根据I'm not sure（不确定）可知是可能性推测，might表示\"可能\"，must表示\"一定\"（肯定推测），can表推测通常用于否定句和疑问句。因此选B。",
       "label": "语法题"
     },
     {
       "id": 5,
       "type": "vocabulary",
-      "knowledge_point": "word_formation",
+      "knowledge_point": "prefix_word_formation",
       "difficulty": 1,
-      "stem": "It is our duty to protect the ________ for our future generations.",
+      "stem": "It is ______ (possible) for humans to live on Mars without special equipment because there is no air there.",
       "options": [
-        "A. environment",
-        "B. environmental",
-        "C. environmentally",
-        "D. environmentalist"
+        "A. possible",
+        "B. impossible",
+        "C. possiblely",
+        "D. impossibly"
       ],
-      "correct_answer": "A",
-      "explanation": "本题考查词性转换。定冠词'the'后应接名词作动词'protect'的宾语。A选项'environment'（环境，名词）符合语法和语义；B选项'environmental'（环境的，形容词）；C选项'environmentally'（环境地，副词）；D选项'environmentalist'（环保主义者，名词，但语义不符，保护环保主义者不合逻辑）。解题关键：the + 名词，protect the environment（保护环境）是固定搭配。",
+      "correct_answer": "B",
+      "explanation": "根据句意\"火星上没有空气\"可知\"没有特殊设备人类无法生存\"，应用possible的否定形式impossible（不可能的）。im-是常见否定前缀。C、D词性错误（此处需形容词作表语，而非副词）。",
       "label": "词汇题"
     },
     {
       "id": 6,
       "type": "vocabulary",
-      "knowledge_point": "word_meaning",
+      "knowledge_point": "phrasal_verbs",
       "difficulty": 2,
-      "stem": "After reading the article, we need to ________ whether the information is true or not.",
+      "stem": "We should ______ the lights when we leave the classroom to save electricity.",
       "options": [
-        "A. look for",
-        "B. find out",
-        "C. look after",
-        "D. find"
+        "A. put up",
+        "B. take off",
+        "C. turn off",
+        "D. set up"
       ],
-      "correct_answer": "B",
-      "explanation": "本题考查动词短语辨析。find out强调经过调查、研究、思考后'查明、弄清楚'真相；look for强调寻找的动作（look for a pen）；look after表示照顾（look after children）；find强调找到的结果（find the key）。此处需要表达'核实/查明信息真伪'，是经过思考判断的过程，因此用find out最准确。",
+      "correct_answer": "C",
+      "explanation": "turn off关闭（电器、水源等）；put up张贴、搭建；take off起飞、脱下（衣服）；set up建立。根据save electricity（省电）可知是\"关灯\"。解题技巧：积累常见动词短语，注意off/up/down等副词改变动词含义。",
       "label": "词汇题"
     },
     {
       "id": 7,
       "type": "vocabulary",
-      "knowledge_point": "phrasal_verbs",
+      "knowledge_point": "word_meaning_context",
       "difficulty": 2,
-      "stem": "Remember to ________ the TV when no one is watching it to save electricity.",
+      "stem": "The air in the countryside is much fresher than that in the city because there are fewer cars and factories to ______ pollution.",
       "options": [
-        "A. turn on",
-        "B. turn off",
-        "C. turn up",
-        "D. turn down"
+        "A. produce",
+        "B. protect",
+        "C. prevent",
+        "D. provide"
       ],
-      "correct_answer": "B",
-      "explanation": "本题考查动词短语辨析。turn off表示'关闭（电器）'；turn on表示'打开'；turn up表示'调大（音量）'或'出现'；turn down表示'调小（音量）'或'拒绝'。根据语境'save electricity'（省电）和'no one is watching'（没人看），可知应该'关闭'电视。",
+      "correct_answer": "A",
+      "explanation": "produce产生；protect保护；prevent阻止；provide提供。根据常识，汽车和工厂\"产生\"污染，导致城市空气不如乡村新鲜。通过上下文逻辑（因果关系）判断词义。",
       "label": "词汇题"
     },
     {
       "id": 8,
       "type": "cloze",
-      "knowledge_point": "cloze_general",
-      "difficulty": 2,
-      "stem": "(8)________",
+      "knowledge_point": "cloze_context",
+      "difficulty": 1,
+      "stem": "(8)______",
       "options": [
-        "A. importance",
-        "B. different",
-        "C. difficult",
-        "D. interesting"
+        "A. easy",
+        "B. difficult",
+        "C. interesting",
+        "D. necessary"
       ],
-      "correct_answer": "A",
-      "explanation": "考查名词及语境理解。根据上下文，学校开展垃圾分类项目的目标是帮助学生理解保护环境的'重要性'。A选项importance（重要性）符合语境；B选项different（不同的，形容词，语法错误）；C选项difficult（困难的，形容词）；D选项interesting（有趣的，形容词）。the后面需接名词，且the importance of...（...的重要性）是固定搭配。",
+      "correct_answer": "B",
+      "explanation": "根据下文\"But after a few weeks, it became a habit for everyone（但几周后成了习惯）\"可知，起初觉得\"困难\"，形成转折对比。A（容易的）与后文逻辑矛盾；C（有趣的）、D（必要的）不符合语境。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school started a garbage sorting (垃圾分类) program. The goal was to help students understand the (8)________ of protecting the environment.\n\nAt first, many students found it difficult. They didn't know which bin to use for different kinds of waste. Our science teacher, Mr. Li, gave us a special lesson. He explained that food waste should go into the green bin, while paper and plastic belong to the blue one. He also (9)________ some interesting videos to help us remember the rules.\n\nAfter two weeks, things became much (10)________. Students got used to the new system. We even had a competition to see which class could do the best job. My class won the first prize! Everyone felt very (11)________.\n\nNow, garbage sorting has become part of our daily life. It not only helps reduce pollution but also teaches us to be responsible citizens. We hope more schools will (12)________ this practice to make our city cleaner."
+      "group_passage": "Our school started a \"Green Campus\" project last semester. The goal was to make our school more environmentally friendly. As members of the environmental club, my classmates and I took part in many activities.\n\nFirst, we set up recycling bins in every classroom. We labeled them clearly for paper, plastic, and metal. At first, some students found it (8)______ to remember which bin to use. But after a few weeks, it became a habit for everyone.\n\nNext, we worked on saving energy. We made posters to remind students to (9)______ the lights and computers when leaving. The teachers also joined us. They promised to use less paper by writing on both sides.\n\nThe most challenging part was the \"Zero Waste Lunch\" week. We asked students to bring reusable lunch boxes (10)______ of disposable ones. Many parents supported this idea. They said it was healthier for their children too.\n\nBy the end of the term, we had collected over 500 kilos of recyclables. The principal praised our (11)______ during the school meeting. He said we had made a real difference to our school environment.\n\nThis project taught us that small actions can (12)______ big changes. I feel proud to be part of this green movement."
     },
     {
       "id": 9,
       "type": "cloze",
-      "knowledge_point": "cloze_general",
+      "knowledge_point": "cloze_phrase",
       "difficulty": 2,
-      "stem": "(9)________",
+      "stem": "(9)______",
       "options": [
-        "A. showed",
-        "B. drew",
-        "C. wrote",
-        "D. made"
+        "A. turn off",
+        "B. turn on",
+        "C. turn up",
+        "D. turn down"
       ],
       "correct_answer": "A",
-      "explanation": "考查动词及固定搭配。show videos（播放/展示视频）是固定搭配。B选项drew（画画）与videos不搭配；C选项wrote（写）与videos不搭配；D选项made（制作），虽然可以说make videos，但结合语境，老师是在课堂上'展示'视频帮助学生记忆，而非制作视频。因此showed最符合语境。",
+      "explanation": "turn off关闭；turn on打开；turn up调大（音量）；turn down调小（音量）。根据saving energy（节约能源）和when leaving（离开时）可知是\"关闭\"灯和电脑。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school started a garbage sorting (垃圾分类) program. The goal was to help students understand the (8)________ of protecting the environment.\n\nAt first, many students found it difficult. They didn't know which bin to use for different kinds of waste. Our science teacher, Mr. Li, gave us a special lesson. He explained that food waste should go into the green bin, while paper and plastic belong to the blue one. He also (9)________ some interesting videos to help us remember the rules.\n\nAfter two weeks, things became much (10)________. Students got used to the new system. We even had a competition to see which class could do the best job. My class won the first prize! Everyone felt very (11)________.\n\nNow, garbage sorting has become part of our daily life. It not only helps reduce pollution but also teaches us to be responsible citizens. We hope more schools will (12)________ this practice to make our city cleaner."
+      "group_passage": "Our school started a \"Green Campus\" project last semester. The goal was to make our school more environmentally friendly. As members of the environmental club, my classmates and I took part in many activities.\n\nFirst, we set up recycling bins in every classroom. We labeled them clearly for paper, plastic, and metal. At first, some students found it (8)______ to remember which bin to use. But after a few weeks, it became a habit for everyone.\n\nNext, we worked on saving energy. We made posters to remind students to (9)______ the lights and computers when leaving. The teachers also joined us. They promised to use less paper by writing on both sides.\n\nThe most challenging part was the \"Zero Waste Lunch\" week. We asked students to bring reusable lunch boxes (10)______ of disposable ones. Many parents supported this idea. They said it was healthier for their children too.\n\nBy the end of the term, we had collected over 500 kilos of recyclables. The principal praised our (11)______ during the school meeting. He said we had made a real difference to our school environment.\n\nThis project taught us that small actions can (12)______ big changes. I feel proud to be part of this green movement."
     },
     {
       "id": 10,
       "type": "cloze",
-      "knowledge_point": "cloze_general",
+      "knowledge_point": "cloze_fixed_phrase",
       "difficulty": 2,
-      "stem": "(10)________",
+      "stem": "(10)______",
       "options": [
-        "A. harder",
-        "B. easier",
-        "C. worse",
-        "D. better"
+        "A. because",
+        "B. full",
+        "C. instead",
+        "D. made"
       ],
-      "correct_answer": "B",
-      "explanation": "考查形容词比较级及语境逻辑。前文提到'At first, many students found it difficult'（起初觉得难），本句'After two weeks'（两周后）暗示转折，事情变得'更容易'了。A选项harder（更难）与语境相反；C选项worse（更糟）不符合；D选项better（更好）虽然可以，但此处强调与difficult的对比，easier（更容易）更准确对应前文的困难。",
+      "correct_answer": "C",
+      "explanation": "instead of是固定短语，意为\"代替、而不是\"，后接名词/代词/动名词。此处指用可重复使用的饭盒\"而不是\"一次性饭盒。其他选项无法与of构成符合句意的搭配。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school started a garbage sorting (垃圾分类) program. The goal was to help students understand the (8)________ of protecting the environment.\n\nAt first, many students found it difficult. They didn't know which bin to use for different kinds of waste. Our science teacher, Mr. Li, gave us a special lesson. He explained that food waste should go into the green bin, while paper and plastic belong to the blue one. He also (9)________ some interesting videos to help us remember the rules.\n\nAfter two weeks, things became much (10)________. Students got used to the new system. We even had a competition to see which class could do the best job. My class won the first prize! Everyone felt very (11)________.\n\nNow, garbage sorting has become part of our daily life. It not only helps reduce pollution but also teaches us to be responsible citizens. We hope more schools will (12)________ this practice to make our city cleaner."
+      "group_passage": "Our school started a \"Green Campus\" project last semester. The goal was to make our school more environmentally friendly. As members of the environmental club, my classmates and I took part in many activities.\n\nFirst, we set up recycling bins in every classroom. We labeled them clearly for paper, plastic, and metal. At first, some students found it (8)______ to remember which bin to use. But after a few weeks, it became a habit for everyone.\n\nNext, we worked on saving energy. We made posters to remind students to (9)______ the lights and computers when leaving. The teachers also joined us. They promised to use less paper by writing on both sides.\n\nThe most challenging part was the \"Zero Waste Lunch\" week. We asked students to bring reusable lunch boxes (10)______ of disposable ones. Many parents supported this idea. They said it was healthier for their children too.\n\nBy the end of the term, we had collected over 500 kilos of recyclables. The principal praised our (11)______ during the school meeting. He said we had made a real difference to our school environment.\n\nThis project taught us that small actions can (12)______ big changes. I feel proud to be part of this green movement."
     },
     {
       "id": 11,
       "type": "cloze",
-      "knowledge_point": "cloze_general",
-      "difficulty": 1,
-      "stem": "(11)________",
+      "knowledge_point": "cloze_context",
+      "difficulty": 2,
+      "stem": "(11)______",
       "options": [
-        "A. sorry",
-        "B. worried",
-        "C. proud",
-        "D. tired"
+        "A. mistakes",
+        "B. efforts",
+        "C. excuses",
+        "D. jokes"
       ],
-      "correct_answer": "C",
-      "explanation": "考查形容词及情感线索。前文提到'My class won the first prize'（我们班得了一等奖），因此大家的感受应该是'自豪的'。A选项sorry（抱歉的）；B选项worried（担心的）；D选项tired（疲倦的）均不符合获奖后的积极情绪。C选项proud（自豪的）符合语境。",
+      "correct_answer": "B",
+      "explanation": "efforts努力；mistakes错误；excuses借口；jokes玩笑。根据前文\"收集了500多公斤可回收物\"和\"表扬\"可知，校长表扬的是我们的\"努力\"。根据上下文情感线索（积极正向）判断。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school started a garbage sorting (垃圾分类) program. The goal was to help students understand the (8)________ of protecting the environment.\n\nAt first, many students found it difficult. They didn't know which bin to use for different kinds of waste. Our science teacher, Mr. Li, gave us a special lesson. He explained that food waste should go into the green bin, while paper and plastic belong to the blue one. He also (9)________ some interesting videos to help us remember the rules.\n\nAfter two weeks, things became much (10)________. Students got used to the new system. We even had a competition to see which class could do the best job. My class won the first prize! Everyone felt very (11)________.\n\nNow, garbage sorting has become part of our daily life. It not only helps reduce pollution but also teaches us to be responsible citizens. We hope more schools will (12)________ this practice to make our city cleaner."
+      "group_passage": "Our school started a \"Green Campus\" project last semester. The goal was to make our school more environmentally friendly. As members of the environmental club, my classmates and I took part in many activities.\n\nFirst, we set up recycling bins in every classroom. We labeled them clearly for paper, plastic, and metal. At first, some students found it (8)______ to remember which bin to use. But after a few weeks, it became a habit for everyone.\n\nNext, we worked on saving energy. We made posters to remind students to (9)______ the lights and computers when leaving. The teachers also joined us. They promised to use less paper by writing on both sides.\n\nThe most challenging part was the \"Zero Waste Lunch\" week. We asked students to bring reusable lunch boxes (10)______ of disposable ones. Many parents supported this idea. They said it was healthier for their children too.\n\nBy the end of the term, we had collected over 500 kilos of recyclables. The principal praised our (11)______ during the school meeting. He said we had made a real difference to our school environment.\n\nThis project taught us that small actions can (12)______ big changes. I feel proud to be part of this green movement."
     },
     {
       "id": 12,
       "type": "cloze",
-      "knowledge_point": "cloze_general",
+      "knowledge_point": "cloze_context",
       "difficulty": 1,
-      "stem": "(12)________",
+      "stem": "(12)______",
       "options": [
-        "A. look for",
-        "B. talk about",
-        "C. think of",
-        "D. take up"
+        "A. depend on",
+        "B. wait for",
+        "C. bring about",
+        "D. look after"
       ],
-      "correct_answer": "D",
-      "explanation": "考查动词短语辨析。take up表示'开始从事、采纳（做法）'；look for表示'寻找'；talk about表示'谈论'；think of表示'想起、认为'。根据语境'希望更多学校采纳这一做法'，take up this practice（采纳这一做法）最为恰当。",
+      "correct_answer": "C",
+      "explanation": "bring about带来、导致；depend on依赖；wait for等待；look after照顾。句意：小行动能\"带来\"大改变。根据宾语big changes（大改变）搭配，bring about最符合语境。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school started a garbage sorting (垃圾分类) program. The goal was to help students understand the (8)________ of protecting the environment.\n\nAt first, many students found it difficult. They didn't know which bin to use for different kinds of waste. Our science teacher, Mr. Li, gave us a special lesson. He explained that food waste should go into the green bin, while paper and plastic belong to the blue one. He also (9)________ some interesting videos to help us remember the rules.\n\nAfter two weeks, things became much (10)________. Students got used to the new system. We even had a competition to see which class could do the best job. My class won the first prize! Everyone felt very (11)________.\n\nNow, garbage sorting has become part of our daily life. It not only helps reduce pollution but also teaches us to be responsible citizens. We hope more schools will (12)________ this practice to make our city cleaner."
+      "group_passage": "Our school started a \"Green Campus\" project last semester. The goal was to make our school more environmentally friendly. As members of the environmental club, my classmates and I took part in many activities.\n\nFirst, we set up recycling bins in every classroom. We labeled them clearly for paper, plastic, and metal. At first, some students found it (8)______ to remember which bin to use. But after a few weeks, it became a habit for everyone.\n\nNext, we worked on saving energy. We made posters to remind students to (9)______ the lights and computers when leaving. The teachers also joined us. They promised to use less paper by writing on both sides.\n\nThe most challenging part was the \"Zero Waste Lunch\" week. We asked students to bring reusable lunch boxes (10)______ of disposable ones. Many parents supported this idea. They said it was healthier for their children too.\n\nBy the end of the term, we had collected over 500 kilos of recyclables. The principal praised our (11)______ during the school meeting. He said we had made a real difference to our school environment.\n\nThis project taught us that small actions can (12)______ big changes. I feel proud to be part of this green movement."
     },
     {
       "id": 13,
       "type": "reading",
       "knowledge_point": "detail",
       "difficulty": 2,
-      "stem": "What did Lin Tao often forget to bring last term?",
+      "stem": "According to the passage, urban gardens help reduce ______.",
       "options": [
-        "A. His tablet.",
-        "B. His heavy textbooks.",
-        "C. His homework.",
-        "D. His feedback."
+        "A. the number of cars",
+        "B. the cost of living",
+        "C. the heat island effect",
+        "D. the price of vegetables"
       ],
-      "correct_answer": "B",
-      "explanation": "本题考查细节理解。根据文章第二段Lin Tao所说的话'Last term, I often forgot to bring my heavy textbooks'可知，上学期他经常忘记带沉重的教科书。A选项是他的平板电脑，这是他现在用来替代课本的工具；C选项作业；D选项反馈，均与原文细节不符。解题技巧：细节题要定位关键词'last term'和'Lin Tao'，在原文中找到直接对应的句子。",
+      "correct_answer": "C",
+      "explanation": "细节理解题。根据第三段第一句\"Besides cleaning the air, urban gardens also help reduce the 'heat island effect.'\"可知，城市花园有助于减少\"热岛效应\"。解题技巧：通过题干关键词reduce定位原文，找到对应句子即可得出答案。",
       "label": "阅读-细节理解",
       "group": "reading_1",
-      "group_passage": "In recent years, technology has changed the way students study. At Guangming Middle School, students are using tablets (平板电脑) in class to make learning more interesting.\n\nLin Tao, a Grade 8 student, shares his experience. \"Last term, I often forgot to bring my heavy textbooks. Now with the tablet, all my books are in one device,\" he says. The school also uses special apps that allow students to do homework online. Teachers can check the work immediately and give feedback (反馈) quickly.\n\nHowever, some parents worry about screen time. \"I am concerned that my son spends too much time on the device,\" says Mr. Wang, Lin Tao's father. The school has made rules to solve this problem. Students can only use the tablets during class time and for one hour of homework each day.\n\nDr. Chen, an education expert, believes this change is positive. \"Technology makes learning more efficient (高效的). Students can find information quickly and learn at their own pace,\" he explains. But he also reminds students to protect their eyes and take breaks regularly.\n\nThe school plans to expand (扩展) this program to more grades next year. They hope to find a better balance between technology and traditional learning methods."
+      "group_passage": "Urban gardens are becoming popular in big cities around the world. These green spaces are not just beautiful to look at—they actually help improve city life in many ways.\n\nScientists have found that plants can clean the air by absorbing (吸收) harmful gases and releasing oxygen. In crowded cities where there are many cars and factories, this is especially important. A study shows that one square meter of grass can produce enough oxygen for one person every day.\n\nBesides cleaning the air, urban gardens also help reduce the \"heat island effect.\" This happens when cities become much hotter than nearby countryside because of concrete (混凝土) buildings and roads. Plants provide shade and release water vapor (水蒸气) into the air, which cools down the temperature.\n\nFurthermore, these gardens offer great educational opportunities. Schools often take students to community gardens to learn about biology and environmental science. Children can see how vegetables grow and understand where their food comes from.\n\nHowever, creating urban gardens is not always easy. Space is limited in cities, and land can be expensive. Some people also worry about the cost of maintaining these gardens. Despite these challenges, many cities continue to support urban gardening projects because of their long-term benefits."
     },
     {
       "id": 14,
+      "type": "reading",
+      "knowledge_point": "word_guessing",
+      "difficulty": 2,
+      "stem": "The underlined word 'absorbing' in Paragraph 2 probably means ______.",
+      "options": [
+        "A. taking in",
+        "B. giving out",
+        "C. pushing away",
+        "D. turning down"
+      ],
+      "correct_answer": "A",
+      "explanation": "词义猜测题。根据第二段\"plants can clean the air by absorbing harmful gases and releasing oxygen\"，由and连接并列动作，与releasing（释放）相对的是\"吸收\"，因此absorbing意为taking in（吸收）。B（释放）是反义词；C（推开）、D（调小）不符合语境。解题技巧：利用并列结构、对比关系或定义解释猜测词义。",
+      "label": "阅读-词义猜测",
+      "group": "reading_1",
+      "group_passage": "Urban gardens are becoming popular in big cities around the world. These green spaces are not just beautiful to look at—they actually help improve city life in many ways.\n\nScientists have found that plants can clean the air by absorbing (吸收) harmful gases and releasing oxygen. In crowded cities where there are many cars and factories, this is especially important. A study shows that one square meter of grass can produce enough oxygen for one person every day.\n\nBesides cleaning the air, urban gardens also help reduce the \"heat island effect.\" This happens when cities become much hotter than nearby countryside because of concrete (混凝土) buildings and roads. Plants provide shade and release water vapor (水蒸气) into the air, which cools down the temperature.\n\nFurthermore, these gardens offer great educational opportunities. Schools often take students to community gardens to learn about biology and environmental science. Children can see how vegetables grow and understand where their food comes from.\n\nHowever, creating urban gardens is not always easy. Space is limited in cities, and land can be expensive. Some people also worry about the cost of maintaining these gardens. Despite these challenges, many cities continue to support urban gardening projects because of their long-term benefits."
+    },
+    {
+      "id": 15,
       "type": "reading",
       "knowledge_point": "inference",
       "difficulty": 3,
       "stem": "What can we infer from the passage?",
       "options": [
-        "A. All parents support using tablets in class.",
-        "B. Students can use tablets anytime they want.",
-        "C. The school has set time limits for tablet use.",
-        "D. Dr. Chen thinks tablets are harmful to students."
+        "A. Urban gardens are more important than parks.",
+        "B. All cities should replace roads with gardens.",
+        "C. Urban gardens have both advantages and challenges.",
+        "D. Children learn better in gardens than in classrooms."
       ],
       "correct_answer": "C",
-      "explanation": "本题考查推理判断。根据第三段最后一句'Students can only use the tablets during class time and for one hour of homework each day'可以推断出学校对平板电脑的使用设定了时间限制（time limits）。A选项'所有家长都支持'与文中'some parents worry'矛盾；B选项'随时使用'与'only during class time and for one hour'矛盾；D选项'Dr. Chen认为有害'与'believes this change is positive'矛盾。推理题要注意区分原文直接陈述的内容和需要推断的结论。",
+      "explanation": "推理判断题。文章前四段介绍了城市花园的好处（净化空气、减少热岛效应、教育机会），最后一段提到挑战（空间有限、土地昂贵、维护成本），因此可推断城市花园既有优点也有挑战。A、B、D选项都过于绝对（more important, all, better than），且文中没有相关比较。解题技巧：推理题必须基于原文信息，不能过度推断，排除绝对化选项。",
       "label": "阅读-推理判断",
       "group": "reading_1",
-      "group_passage": "In recent years, technology has changed the way students study. At Guangming Middle School, students are using tablets (平板电脑) in class to make learning more interesting.\n\nLin Tao, a Grade 8 student, shares his experience. \"Last term, I often forgot to bring my heavy textbooks. Now with the tablet, all my books are in one device,\" he says. The school also uses special apps that allow students to do homework online. Teachers can check the work immediately and give feedback (反馈) quickly.\n\nHowever, some parents worry about screen time. \"I am concerned that my son spends too much time on the device,\" says Mr. Wang, Lin Tao's father. The school has made rules to solve this problem. Students can only use the tablets during class time and for one hour of homework each day.\n\nDr. Chen, an education expert, believes this change is positive. \"Technology makes learning more efficient (高效的). Students can find information quickly and learn at their own pace,\" he explains. But he also reminds students to protect their eyes and take breaks regularly.\n\nThe school plans to expand (扩展) this program to more grades next year. They hope to find a better balance between technology and traditional learning methods."
-    },
-    {
-      "id": 15,
-      "type": "reading",
-      "knowledge_point": "word_guessing",
-      "difficulty": 2,
-      "stem": "What does the underlined word \"efficient\" probably mean in Paragraph 4?",
-      "options": [
-        "A. Difficult and boring.",
-        "B. Quick and effective.",
-        "C. Slow but interesting.",
-        "D. Easy but useless."
-      ],
-      "correct_answer": "B",
-      "explanation": "本题考查词义猜测。根据第四段Dr. Chen的解释'Students can find information quickly'（学生能快速找到信息），可以推断efficient的意思是'高效的'，即'quick and effective'（快速且有效的）。A选项困难且无聊；C选项慢但有趣；D选项简单但无用，均与后文解释的积极含义和'quickly'的提示不符。解题技巧：通过上下文线索（如quickly）和积极/消极态度判断词义。",
-      "label": "阅读-词义猜测",
-      "group": "reading_1",
-      "group_passage": "In recent years, technology has changed the way students study. At Guangming Middle School, students are using tablets (平板电脑) in class to make learning more interesting.\n\nLin Tao, a Grade 8 student, shares his experience. \"Last term, I often forgot to bring my heavy textbooks. Now with the tablet, all my books are in one device,\" he says. The school also uses special apps that allow students to do homework online. Teachers can check the work immediately and give feedback (反馈) quickly.\n\nHowever, some parents worry about screen time. \"I am concerned that my son spends too much time on the device,\" says Mr. Wang, Lin Tao's father. The school has made rules to solve this problem. Students can only use the tablets during class time and for one hour of homework each day.\n\nDr. Chen, an education expert, believes this change is positive. \"Technology makes learning more efficient (高效的). Students can find information quickly and learn at their own pace,\" he explains. But he also reminds students to protect their eyes and take breaks regularly.\n\nThe school plans to expand (扩展) this program to more grades next year. They hope to find a better balance between technology and traditional learning methods."
+      "group_passage": "Urban gardens are becoming popular in big cities around the world. These green spaces are not just beautiful to look at—they actually help improve city life in many ways.\n\nScientists have found that plants can clean the air by absorbing (吸收) harmful gases and releasing oxygen. In crowded cities where there are many cars and factories, this is especially important. A study shows that one square meter of grass can produce enough oxygen for one person every day.\n\nBesides cleaning the air, urban gardens also help reduce the \"heat island effect.\" This happens when cities become much hotter than nearby countryside because of concrete (混凝土) buildings and roads. Plants provide shade and release water vapor (水蒸气) into the air, which cools down the temperature.\n\nFurthermore, these gardens offer great educational opportunities. Schools often take students to community gardens to learn about biology and environmental science. Children can see how vegetables grow and understand where their food comes from.\n\nHowever, creating urban gardens is not always easy. Space is limited in cities, and land can be expensive. Some people also worry about the cost of maintaining these gardens. Despite these challenges, many cities continue to support urban gardening projects because of their long-term benefits."
     },
     {
       "id": 16,
       "type": "reading",
       "knowledge_point": "main_idea",
       "difficulty": 3,
-      "stem": "What is the best title for the passage?",
+      "stem": "What is the best title for this passage?",
       "options": [
-        "A. How to Protect Your Eyes",
-        "B. The History of Guangming Middle School",
-        "C. Technology Changes Learning Ways",
-        "D. Problems of Using Tablets"
+        "A. How to Build a Garden",
+        "B. The Benefits of Urban Gardens",
+        "C. Plants and Animals in Cities",
+        "D. Why Cities Are So Hot"
       ],
-      "correct_answer": "C",
-      "explanation": "本题考查主旨大意/最佳标题。文章开篇第一句'In recent years, technology has changed the way students study'点明主题，全文围绕光明中学使用平板电脑改变学习方式展开，包括学生体验、家长担忧、专家观点等。A选项'如何保护眼睛'只是文末提到的细节；B选项'学校历史'未提及；D选项'使用平板的问题'只是文章一部分，忽略了积极方面。C选项'科技改变学习方式'最能概括全文主旨。解题技巧：寻找主题句（通常在首段或尾段），标题要涵盖全文核心内容，不能以偏概全。",
+      "correct_answer": "B",
+      "explanation": "主旨大意题。全文围绕城市花园展开，重点介绍了它们带来的各种好处（清洁空气、降温、教育等），尽管提到挑战，但重心在益处。A选项太窄（不只讲建造）；C选项错误（未提及动物）；D选项只是文章一个细节（热岛效应）。解题技巧：最佳标题应涵盖全文主要内容，具有概括性，通常是高频出现的主题词+核心内容。",
       "label": "阅读-主旨大意",
       "group": "reading_1",
-      "group_passage": "In recent years, technology has changed the way students study. At Guangming Middle School, students are using tablets (平板电脑) in class to make learning more interesting.\n\nLin Tao, a Grade 8 student, shares his experience. \"Last term, I often forgot to bring my heavy textbooks. Now with the tablet, all my books are in one device,\" he says. The school also uses special apps that allow students to do homework online. Teachers can check the work immediately and give feedback (反馈) quickly.\n\nHowever, some parents worry about screen time. \"I am concerned that my son spends too much time on the device,\" says Mr. Wang, Lin Tao's father. The school has made rules to solve this problem. Students can only use the tablets during class time and for one hour of homework each day.\n\nDr. Chen, an education expert, believes this change is positive. \"Technology makes learning more efficient (高效的). Students can find information quickly and learn at their own pace,\" he explains. But he also reminds students to protect their eyes and take breaks regularly.\n\nThe school plans to expand (扩展) this program to more grades next year. They hope to find a better balance between technology and traditional learning methods."
+      "group_passage": "Urban gardens are becoming popular in big cities around the world. These green spaces are not just beautiful to look at—they actually help improve city life in many ways.\n\nScientists have found that plants can clean the air by absorbing (吸收) harmful gases and releasing oxygen. In crowded cities where there are many cars and factories, this is especially important. A study shows that one square meter of grass can produce enough oxygen for one person every day.\n\nBesides cleaning the air, urban gardens also help reduce the \"heat island effect.\" This happens when cities become much hotter than nearby countryside because of concrete (混凝土) buildings and roads. Plants provide shade and release water vapor (水蒸气) into the air, which cools down the temperature.\n\nFurthermore, these gardens offer great educational opportunities. Schools often take students to community gardens to learn about biology and environmental science. Children can see how vegetables grow and understand where their food comes from.\n\nHowever, creating urban gardens is not always easy. Space is limited in cities, and land can be expensive. Some people also worry about the cost of maintaining these gardens. Despite these challenges, many cities continue to support urban gardening projects because of their long-term benefits."
     },
     {
       "id": 17,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "stem": "(17)________",
+      "stem": "(17)______",
       "options": [
-        "A. However, it's not easy to achieve the balance immediately.",
-        "B. First, you should make a proper schedule.",
-        "C. In addition, remember that hobbies are important for your health.",
-        "D. In conclusion, balancing study and hobbies requires patience.",
-        "E. On the other hand, study should always come first."
+        "A. However, you should never let hobbies affect your grades.",
+        "B. Then, mark the time needed for each task clearly.",
+        "C. For instance, finish all your homework on Saturday morning.",
+        "D. On the other hand, study should always come first.",
+        "E. Short breaks for hobbies can actually help you study better."
       ],
-      "correct_answer": "A",
-      "explanation": "本题考查段落衔接。前文提出'很多学生难以平衡学习与爱好'的问题，此处需要承上启下的过渡句。A选项'然而，立即实现这种平衡并不容易'承接上文的困难，并自然引出下文的建议，符合逻辑。B、C选项是具体建议，应在引出建议的过渡之后；D选项是总结句，应在文末；E选项'另一方面'通常用于并列或对比已有观点，不适合作为首个过渡句。",
+      "correct_answer": "B",
+      "explanation": "前文提到\"制定时间表，写下所有作业和课外活动\"，后文说\"这样你就能清楚看到有多少空闲时间\"。B选项\"然后，清楚标记每项任务所需时间\"承上启下，then表示步骤递进，mark the time与后文see...free time呼应。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Many middle school students have trouble balancing their studies and hobbies. They often feel stressed because they don't have enough time for both. (17)________ The following advice may help you.\n\n(18)________ Write down all your tasks and arrange time properly. This helps you manage your day better.\n\n(19)________ Don't give up your hobbies completely when you are busy. Hobbies help you relax and improve creativity.\n\n(20)________ Keep trying, and you will find the right balance soon."
+      "group_passage": "As a middle school student, I know how hard it can be to balance study and hobbies. Here are some tips that have helped me.\n\nFirst, make a schedule. Write down all your homework and after-school activities. (17)______ This way, you can see exactly how much free time you have for hobbies.\n\nSecond, choose hobbies that don't take too much time. For example, reading for 30 minutes before bed is better than playing video games for three hours. (18)______ You can still enjoy yourself without wasting time.\n\nThird, use your weekends wisely. (19)______ On Sunday afternoon, you can spend time on your favorite activities like painting or playing basketball.\n\nFinally, remember that hobbies are important too. They help you relax and develop new skills. (20)______ Finding the right balance will make your school life more colorful."
     },
     {
       "id": 18,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "stem": "(18)________",
+      "stem": "(18)______",
       "options": [
-        "A. However, it's not easy to achieve the balance immediately.",
-        "B. First, you should make a proper schedule.",
-        "C. In addition, remember that hobbies are important for your health.",
-        "D. In conclusion, balancing study and hobbies requires patience.",
-        "E. On the other hand, study should always come first."
+        "A. However, you should never let hobbies affect your grades.",
+        "B. Then, mark the time needed for each task clearly.",
+        "C. For instance, finish all your homework on Saturday morning.",
+        "D. On the other hand, study should always come first.",
+        "E. Short breaks for hobbies can actually help you study better."
       ],
-      "correct_answer": "B",
-      "explanation": "本题考查段落衔接及顺序词。根据后文'Write down all your tasks...'（写下所有任务...）可知这是第一条具体建议，因此用'First'（首先）引出。B选项'First, you should make a proper schedule'（首先，你应该制定适当的计划）与后文内容完全匹配。A选项是承上启下句，已用于17空；C选项'In addition'（此外）用于补充说明，应在第一条建议之后；D选项是总结；E选项'On the other hand'（另一方面）用于对比或并列，不适合作为第一条建议。",
+      "correct_answer": "E",
+      "explanation": "前文建议\"选择不太耗时的爱好，如睡前阅读30分钟比玩3小时游戏好\"，后文说\"你仍然可以不浪费时间地享受生活\"。E选项\"简短的爱好休息实际上能帮助你更好地学习\"解释了为什么短时间爱好是好的，承接上文建议。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Many middle school students have trouble balancing their studies and hobbies. They often feel stressed because they don't have enough time for both. (17)________ The following advice may help you.\n\n(18)________ Write down all your tasks and arrange time properly. This helps you manage your day better.\n\n(19)________ Don't give up your hobbies completely when you are busy. Hobbies help you relax and improve creativity.\n\n(20)________ Keep trying, and you will find the right balance soon."
+      "group_passage": "As a middle school student, I know how hard it can be to balance study and hobbies. Here are some tips that have helped me.\n\nFirst, make a schedule. Write down all your homework and after-school activities. (17)______ This way, you can see exactly how much free time you have for hobbies.\n\nSecond, choose hobbies that don't take too much time. For example, reading for 30 minutes before bed is better than playing video games for three hours. (18)______ You can still enjoy yourself without wasting time.\n\nThird, use your weekends wisely. (19)______ On Sunday afternoon, you can spend time on your favorite activities like painting or playing basketball.\n\nFinally, remember that hobbies are important too. They help you relax and develop new skills. (20)______ Finding the right balance will make your school life more colorful."
     },
     {
       "id": 19,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "stem": "(19)________",
+      "stem": "(19)______",
       "options": [
-        "A. However, it's not easy to achieve the balance immediately.",
-        "B. First, you should make a proper schedule.",
-        "C. In addition, remember that hobbies are important for your health.",
-        "D. In conclusion, balancing study and hobbies requires patience.",
-        "E. On the other hand, study should always come first."
+        "A. However, you should never let hobbies affect your grades.",
+        "B. Then, mark the time needed for each task clearly.",
+        "C. For instance, finish all your homework on Saturday morning.",
+        "D. On the other hand, study should always come first.",
+        "E. Short breaks for hobbies can actually help you study better."
       ],
       "correct_answer": "C",
-      "explanation": "本题考查段落衔接及逻辑关系。前文第一条建议讲制定计划安排时间（针对学习），本段讲'不要完全放弃爱好'，是从另一个角度补充建议，属于递进关系。C选项'In addition, remember that hobbies are important...'（此外，记住爱好对你的健康很重要）用In addition（此外）表示递进，引出第二条建议，与后文'不要放弃爱好'内容匹配。E选项'On the other hand'（另一方面）通常表示对比或相反观点，而此处是补充说明，并非对立。",
+      "explanation": "前文说\"明智地使用周末\"，后文说\"周日下午你可以花时间做喜欢的活动如画画或打篮球\"。C选项\"例如，周六上午完成所有作业\"举例说明如何明智使用周末，与后文周下午活动形成时间上的先后安排。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Many middle school students have trouble balancing their studies and hobbies. They often feel stressed because they don't have enough time for both. (17)________ The following advice may help you.\n\n(18)________ Write down all your tasks and arrange time properly. This helps you manage your day better.\n\n(19)________ Don't give up your hobbies completely when you are busy. Hobbies help you relax and improve creativity.\n\n(20)________ Keep trying, and you will find the right balance soon."
+      "group_passage": "As a middle school student, I know how hard it can be to balance study and hobbies. Here are some tips that have helped me.\n\nFirst, make a schedule. Write down all your homework and after-school activities. (17)______ This way, you can see exactly how much free time you have for hobbies.\n\nSecond, choose hobbies that don't take too much time. For example, reading for 30 minutes before bed is better than playing video games for three hours. (18)______ You can still enjoy yourself without wasting time.\n\nThird, use your weekends wisely. (19)______ On Sunday afternoon, you can spend time on your favorite activities like painting or playing basketball.\n\nFinally, remember that hobbies are important too. They help you relax and develop new skills. (20)______ Finding the right balance will make your school life more colorful."
     },
     {
       "id": 20,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "stem": "(20)________",
+      "stem": "(20)______",
       "options": [
-        "A. However, it's not easy to achieve the balance immediately.",
-        "B. First, you should make a proper schedule.",
-        "C. In addition, remember that hobbies are important for your health.",
-        "D. In conclusion, balancing study and hobbies requires patience.",
-        "E. On the other hand, study should always come first."
+        "A. However, you should never let hobbies affect your grades.",
+        "B. Then, mark the time needed for each task clearly.",
+        "C. For instance, finish all your homework on Saturday morning.",
+        "D. On the other hand, study should always come first.",
+        "E. Short breaks for hobbies can actually help you study better."
       ],
-      "correct_answer": "D",
-      "explanation": "本题考查段落衔接及总结句。根据位置（文章最后一段）和后文'Keep trying...'（坚持尝试...）可知此处需要总结性语句。D选项'In conclusion, balancing study and hobbies requires patience'（总之，平衡学习和爱好需要耐心）是标准的总结用语，且与后文'坚持尝试，很快会找到正确平衡'语义连贯。A、B、C选项已使用；E选项强调学习优先，与文章强调平衡的主旨不完全吻合，且不适合作为结尾总结。",
+      "correct_answer": "A",
+      "explanation": "前文说\"爱好也很重要，帮助你放松和发展技能\"，后文说\"找到正确的平衡会让你的学校生活更丰富多彩\"。A选项\"然而，你绝不应该让爱好影响成绩\"用however转折，提醒注意爱好的边界，与后文\"找到平衡\"衔接自然。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Many middle school students have trouble balancing their studies and hobbies. They often feel stressed because they don't have enough time for both. (17)________ The following advice may help you.\n\n(18)________ Write down all your tasks and arrange time properly. This helps you manage your day better.\n\n(19)________ Don't give up your hobbies completely when you are busy. Hobbies help you relax and improve creativity.\n\n(20)________ Keep trying, and you will find the right balance soon."
+      "group_passage": "As a middle school student, I know how hard it can be to balance study and hobbies. Here are some tips that have helped me.\n\nFirst, make a schedule. Write down all your homework and after-school activities. (17)______ This way, you can see exactly how much free time you have for hobbies.\n\nSecond, choose hobbies that don't take too much time. For example, reading for 30 minutes before bed is better than playing video games for three hours. (18)______ You can still enjoy yourself without wasting time.\n\nThird, use your weekends wisely. (19)______ On Sunday afternoon, you can spend time on your favorite activities like painting or playing basketball.\n\nFinally, remember that hobbies are important too. They help you relax and develop new skills. (20)______ Finding the right balance will make your school life more colorful."
     }
   ]
 }
