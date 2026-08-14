@@ -1,5 +1,5 @@
 ﻿{
-  "date": "2026-08-14",
+  "date": "2026-08-15",
   "session_number": 1,
   "questions": [
     {
@@ -7,15 +7,15 @@
       "type": "grammar",
       "knowledge_point": "present_perfect_vs_past_simple",
       "difficulty": 1,
-      "stem": "—______ you ever ______ to the Shenzhen Science Museum?\n—Yes, I ______ there with my classmates last month.",
+      "stem": "I ______ my homework already. I ______ it an hour ago.",
       "options": [
-        "A. Did; go; went",
-        "B. Have; been; went",
-        "C. Have; gone; went",
-        "D. Did; be; went"
+        "A. have finished; finished",
+        "B. finished; have finished",
+        "C. finish; finished",
+        "D. have finished; have finished"
       ],
-      "correct_answer": "B",
-      "explanation": "第一空根据ever（曾经）可知用现在完成时，have been to表示\"去过某地已返回\"，have gone to表示\"去了某地未回\"，答句说上个月和同学去的，说明已返回，故用have been；第二空根据last month（上个月，一般过去时标志词）用went。A、D第一空用助动词Did，后面动词应用原形go，且与ever不搭配；C选项have gone表示人还没回来，与答句逻辑矛盾。",
+      "correct_answer": "A",
+      "explanation": "第一空后面有already（已经），是现在完成时的标志词，表示动作已经完成，用have finished；第二空后面有an hour ago（一小时前），是一般过去时的标志，表示过去某个具体时间发生的动作，用finished。句意：我已经完成作业了。我一小时前做完的。",
       "label": "语法题"
     },
     {
@@ -23,15 +23,15 @@
       "type": "grammar",
       "knowledge_point": "relative_clause_who_which",
       "difficulty": 2,
-      "stem": "The book ______ I borrowed from the library yesterday is about environmental protection.",
+      "stem": "The boy ______ is wearing a red jacket is my brother.",
       "options": [
         "A. who",
-        "B. whom",
-        "C. which",
+        "B. which",
+        "C. whom",
         "D. whose"
       ],
-      "correct_answer": "C",
-      "explanation": "本题考查定语从句关系代词。先行词是the book（指物），在从句中作宾语，应用which或that。who/whom指人；whose表示\"……的\"，表所属关系。解题技巧：一看先行词是人还是物，二看关系词在从句中充当什么成分。",
+      "correct_answer": "A",
+      "explanation": "先行词是the boy（指人），定语从句中缺少主语，因此用关系代词who。which用于指物；whom用于指人但在从句中作宾语；whose表示'...的'，在从句中作定语。句意：那个穿着红色夹克的男孩是我哥哥。",
       "label": "语法题"
     },
     {
@@ -39,242 +39,242 @@
       "type": "grammar",
       "knowledge_point": "passive_voice",
       "difficulty": 2,
-      "stem": "These old newspapers ______ to make paper bags by the students every week.",
+      "stem": "The new bridge ______ by the workers last year.",
       "options": [
-        "A. are used",
-        "B. used",
-        "C. use",
-        "D. were used"
+        "A. is built",
+        "B. was built",
+        "C. built",
+        "D. has built"
       ],
-      "correct_answer": "A",
-      "explanation": "本题考查一般现在时的被动语态。主语newspapers（报纸）是动作use的承受者，应用被动语态（be+过去分词）；时间状语every week（每周）表示经常性动作，用一般现在时；主语是复数，be动词用are。D选项were used是一般过去时被动，与every week不符；B、C是主动语态。",
+      "correct_answer": "B",
+      "explanation": "主语the new bridge（新桥）与动词build（建造）之间是被动关系，需要用被动语态be+done；时间状语last year（去年）表示过去，因此用一般过去时的被动语态was built。is built是一般现在时被动；built是主动语态过去式；has built是现在完成时主动语态。",
       "label": "语法题"
     },
     {
       "id": 4,
       "type": "grammar",
-      "knowledge_point": "object_clause_modal_verbs",
+      "knowledge_point": "present_perfect_vs_past_simple",
       "difficulty": 3,
-      "stem": "—Do you know ______?\n—I'm not sure. It ______ be cloudy or rainy tomorrow.",
+      "stem": "—______ you ever ______ to the Great Wall?\n—Yes, I ______ there with my parents last summer.",
       "options": [
-        "A. what will the weather be like; must",
-        "B. what the weather will be like; might",
-        "C. how will the weather be; can",
-        "D. how the weather will be; must"
+        "A. Did; go; went",
+        "B. Have; been; went",
+        "C. Have; gone; went",
+        "D. Do; go; have gone"
       ],
       "correct_answer": "B",
-      "explanation": "第一空考查宾语从句语序，必须用陈述语序（主语+谓语），即what the weather will be like或how the weather will be，排除A、C（疑问语序）；第二空根据I'm not sure（不确定）可知是可能性推测，might表示\"可能\"，must表示\"一定\"（肯定推测），can表推测通常用于否定句和疑问句。因此选B。",
+      "explanation": "第一空有ever（曾经），是现在完成时标志，且人已经回来，用have been to（去过某地）；第二空last summer（去年夏天）是过去时间状语，用一般过去时went。have gone to表示去了某地（人未回），不符合答句语境；did和do开头的一般疑问句无法与ever搭配表示经历。",
       "label": "语法题"
     },
     {
       "id": 5,
       "type": "vocabulary",
-      "knowledge_point": "prefix_word_formation",
+      "knowledge_point": "phrasal_verbs",
       "difficulty": 1,
-      "stem": "It is ______ (possible) for humans to live on Mars without special equipment because there is no air there.",
+      "stem": "Please ______ the lights before leaving the classroom.",
       "options": [
-        "A. possible",
-        "B. impossible",
-        "C. possiblely",
-        "D. impossibly"
+        "A. turn on",
+        "B. turn off",
+        "C. turn up",
+        "D. turn down"
       ],
       "correct_answer": "B",
-      "explanation": "根据句意\"火星上没有空气\"可知\"没有特殊设备人类无法生存\"，应用possible的否定形式impossible（不可能的）。im-是常见否定前缀。C、D词性错误（此处需形容词作表语，而非副词）。",
+      "explanation": "turn off表示'关闭（电器、水源等）'，符合句意'离开教室前请关灯'。turn on是打开；turn up是调大（音量）；turn down是调小（音量）或拒绝。根据before leaving（离开前）的语境，应该是关灯。",
       "label": "词汇题"
     },
     {
       "id": 6,
       "type": "vocabulary",
-      "knowledge_point": "phrasal_verbs",
+      "knowledge_point": "word_formation",
       "difficulty": 2,
-      "stem": "We should ______ the lights when we leave the classroom to save electricity.",
+      "stem": "The ______ news made everyone ______.",
       "options": [
-        "A. put up",
-        "B. take off",
-        "C. turn off",
-        "D. set up"
+        "A. excited; exciting",
+        "B. exciting; excited",
+        "C. excited; excited",
+        "D. exciting; exciting"
       ],
-      "correct_answer": "C",
-      "explanation": "turn off关闭（电器、水源等）；put up张贴、搭建；take off起飞、脱下（衣服）；set up建立。根据save electricity（省电）可知是\"关灯\"。解题技巧：积累常见动词短语，注意off/up/down等副词改变动词含义。",
+      "correct_answer": "B",
+      "explanation": "-ing结尾的形容词exciting（令人兴奋的）通常修饰事物，-ed结尾的形容词excited（感到兴奋的）通常修饰人。第一空修饰news（消息，事物），用exciting；第二空修饰everyone（每个人，人），用excited。句意：这个令人兴奋的消息让每个人都感到兴奋。",
       "label": "词汇题"
     },
     {
       "id": 7,
       "type": "vocabulary",
-      "knowledge_point": "word_meaning_context",
+      "knowledge_point": "fixed_collocation",
       "difficulty": 2,
-      "stem": "The air in the countryside is much fresher than that in the city because there are fewer cars and factories to ______ pollution.",
+      "stem": "We should ______ our best to protect the environment.",
       "options": [
-        "A. produce",
-        "B. protect",
-        "C. prevent",
-        "D. provide"
+        "A. try",
+        "B. do",
+        "C. make",
+        "D. take"
       ],
       "correct_answer": "A",
-      "explanation": "produce产生；protect保护；prevent阻止；provide提供。根据常识，汽车和工厂\"产生\"污染，导致城市空气不如乡村新鲜。通过上下文逻辑（因果关系）判断词义。",
+      "explanation": "try one's best是固定搭配，意为'尽某人最大努力'。do one's best也有此意，但选项B是do，缺少one's；make one's best和take one's best都不是正确搭配。句意：我们应该尽最大努力保护环境。",
       "label": "词汇题"
     },
     {
       "id": 8,
       "type": "cloze",
-      "knowledge_point": "cloze_context",
-      "difficulty": 1,
+      "knowledge_point": "cloze_general",
+      "difficulty": 2,
       "stem": "(8)______",
       "options": [
-        "A. easy",
-        "B. difficult",
-        "C. interesting",
-        "D. necessary"
+        "A. result",
+        "B. importance",
+        "C. reason",
+        "D. example"
       ],
       "correct_answer": "B",
-      "explanation": "根据下文\"But after a few weeks, it became a habit for everyone（但几周后成了习惯）\"可知，起初觉得\"困难\"，形成转折对比。A（容易的）与后文逻辑矛盾；C（有趣的）、D（必要的）不符合语境。",
+      "explanation": "根据上下文，活动目的是帮助学生理解保护环境的'重要性'。importance（重要性）符合语境。the importance of是固定搭配。result（结果）、reason（原因）、example（例子）代入后语义不通。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Our school started a \"Green Campus\" project last semester. The goal was to make our school more environmentally friendly. As members of the environmental club, my classmates and I took part in many activities.\n\nFirst, we set up recycling bins in every classroom. We labeled them clearly for paper, plastic, and metal. At first, some students found it (8)______ to remember which bin to use. But after a few weeks, it became a habit for everyone.\n\nNext, we worked on saving energy. We made posters to remind students to (9)______ the lights and computers when leaving. The teachers also joined us. They promised to use less paper by writing on both sides.\n\nThe most challenging part was the \"Zero Waste Lunch\" week. We asked students to bring reusable lunch boxes (10)______ of disposable ones. Many parents supported this idea. They said it was healthier for their children too.\n\nBy the end of the term, we had collected over 500 kilos of recyclables. The principal praised our (11)______ during the school meeting. He said we had made a real difference to our school environment.\n\nThis project taught us that small actions can (12)______ big changes. I feel proud to be part of this green movement."
+      "group_passage": "Last month, our school held an activity called \"Green School, Green Life\". The purpose was to help students understand the (8)______ of protecting our environment.\n\nDuring the activity, we were asked to (9)______ waste into different groups. Paper, plastic and glass should be put into different bins. At first, many students found it difficult to remember which bin was for which kind of waste. (10)______, after a week of practice, everyone got used to it.\n\nWhat surprised us most was that the amount of waste produced by our school dropped by 30% in just two weeks. This (11)______ us that small actions can make a big difference. The headmaster praised our efforts and said we were (12)______ role models for other schools.\n\nI believe if everyone takes action, we will have a cleaner and greener future."
     },
     {
       "id": 9,
       "type": "cloze",
-      "knowledge_point": "cloze_phrase",
+      "knowledge_point": "cloze_general",
       "difficulty": 2,
       "stem": "(9)______",
       "options": [
-        "A. turn off",
-        "B. turn on",
-        "C. turn up",
-        "D. turn down"
+        "A. separate",
+        "B. mix",
+        "C. collect",
+        "D. produce"
       ],
       "correct_answer": "A",
-      "explanation": "turn off关闭；turn on打开；turn up调大（音量）；turn down调小（音量）。根据saving energy（节约能源）和when leaving（离开时）可知是\"关闭\"灯和电脑。",
+      "explanation": "根据下文'Paper, plastic and glass should be put into different bins'（纸、塑料和玻璃应该放进不同的垃圾桶），可知是要把垃圾分类。separate...into...表示'把...分成...'。mix（混合）与文意相反；collect（收集）和produce（产生）不符合语境。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Our school started a \"Green Campus\" project last semester. The goal was to make our school more environmentally friendly. As members of the environmental club, my classmates and I took part in many activities.\n\nFirst, we set up recycling bins in every classroom. We labeled them clearly for paper, plastic, and metal. At first, some students found it (8)______ to remember which bin to use. But after a few weeks, it became a habit for everyone.\n\nNext, we worked on saving energy. We made posters to remind students to (9)______ the lights and computers when leaving. The teachers also joined us. They promised to use less paper by writing on both sides.\n\nThe most challenging part was the \"Zero Waste Lunch\" week. We asked students to bring reusable lunch boxes (10)______ of disposable ones. Many parents supported this idea. They said it was healthier for their children too.\n\nBy the end of the term, we had collected over 500 kilos of recyclables. The principal praised our (11)______ during the school meeting. He said we had made a real difference to our school environment.\n\nThis project taught us that small actions can (12)______ big changes. I feel proud to be part of this green movement."
+      "group_passage": "Last month, our school held an activity called \"Green School, Green Life\". The purpose was to help students understand the (8)______ of protecting our environment.\n\nDuring the activity, we were asked to (9)______ waste into different groups. Paper, plastic and glass should be put into different bins. At first, many students found it difficult to remember which bin was for which kind of waste. (10)______, after a week of practice, everyone got used to it.\n\nWhat surprised us most was that the amount of waste produced by our school dropped by 30% in just two weeks. This (11)______ us that small actions can make a big difference. The headmaster praised our efforts and said we were (12)______ role models for other schools.\n\nI believe if everyone takes action, we will have a cleaner and greener future."
     },
     {
       "id": 10,
       "type": "cloze",
-      "knowledge_point": "cloze_fixed_phrase",
-      "difficulty": 2,
+      "knowledge_point": "cloze_logic",
+      "difficulty": 1,
       "stem": "(10)______",
       "options": [
-        "A. because",
-        "B. full",
-        "C. instead",
-        "D. made"
+        "A. Instead",
+        "B. Otherwise",
+        "C. However",
+        "D. Therefore"
       ],
       "correct_answer": "C",
-      "explanation": "instead of是固定短语，意为\"代替、而不是\"，后接名词/代词/动名词。此处指用可重复使用的饭盒\"而不是\"一次性饭盒。其他选项无法与of构成符合句意的搭配。",
+      "explanation": "前文说'一开始很多学生觉得很难记住'，后文说'一周后大家都习惯了'，前后是转折关系。However（然而）表转折。Instead（代替）、Otherwise（否则）、Therefore（因此）都不符合此处逻辑。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Our school started a \"Green Campus\" project last semester. The goal was to make our school more environmentally friendly. As members of the environmental club, my classmates and I took part in many activities.\n\nFirst, we set up recycling bins in every classroom. We labeled them clearly for paper, plastic, and metal. At first, some students found it (8)______ to remember which bin to use. But after a few weeks, it became a habit for everyone.\n\nNext, we worked on saving energy. We made posters to remind students to (9)______ the lights and computers when leaving. The teachers also joined us. They promised to use less paper by writing on both sides.\n\nThe most challenging part was the \"Zero Waste Lunch\" week. We asked students to bring reusable lunch boxes (10)______ of disposable ones. Many parents supported this idea. They said it was healthier for their children too.\n\nBy the end of the term, we had collected over 500 kilos of recyclables. The principal praised our (11)______ during the school meeting. He said we had made a real difference to our school environment.\n\nThis project taught us that small actions can (12)______ big changes. I feel proud to be part of this green movement."
+      "group_passage": "Last month, our school held an activity called \"Green School, Green Life\". The purpose was to help students understand the (8)______ of protecting our environment.\n\nDuring the activity, we were asked to (9)______ waste into different groups. Paper, plastic and glass should be put into different bins. At first, many students found it difficult to remember which bin was for which kind of waste. (10)______, after a week of practice, everyone got used to it.\n\nWhat surprised us most was that the amount of waste produced by our school dropped by 30% in just two weeks. This (11)______ us that small actions can make a big difference. The headmaster praised our efforts and said we were (12)______ role models for other schools.\n\nI believe if everyone takes action, we will have a cleaner and greener future."
     },
     {
       "id": 11,
       "type": "cloze",
-      "knowledge_point": "cloze_context",
+      "knowledge_point": "cloze_general",
       "difficulty": 2,
       "stem": "(11)______",
       "options": [
-        "A. mistakes",
-        "B. efforts",
-        "C. excuses",
-        "D. jokes"
+        "A. taught",
+        "B. asked",
+        "C. warned",
+        "D. promised"
       ],
-      "correct_answer": "B",
-      "explanation": "efforts努力；mistakes错误；excuses借口；jokes玩笑。根据前文\"收集了500多公斤可回收物\"和\"表扬\"可知，校长表扬的是我们的\"努力\"。根据上下文情感线索（积极正向）判断。",
+      "correct_answer": "A",
+      "explanation": "句意：这'教会'了我们小行动可以带来大改变。taught（teach的过去式，教）符合语境。asked（问）、warned（警告）、promised（承诺）都不符合句意。垃圾分类减少30%垃圾量的结果'教会'了我们道理。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Our school started a \"Green Campus\" project last semester. The goal was to make our school more environmentally friendly. As members of the environmental club, my classmates and I took part in many activities.\n\nFirst, we set up recycling bins in every classroom. We labeled them clearly for paper, plastic, and metal. At first, some students found it (8)______ to remember which bin to use. But after a few weeks, it became a habit for everyone.\n\nNext, we worked on saving energy. We made posters to remind students to (9)______ the lights and computers when leaving. The teachers also joined us. They promised to use less paper by writing on both sides.\n\nThe most challenging part was the \"Zero Waste Lunch\" week. We asked students to bring reusable lunch boxes (10)______ of disposable ones. Many parents supported this idea. They said it was healthier for their children too.\n\nBy the end of the term, we had collected over 500 kilos of recyclables. The principal praised our (11)______ during the school meeting. He said we had made a real difference to our school environment.\n\nThis project taught us that small actions can (12)______ big changes. I feel proud to be part of this green movement."
+      "group_passage": "Last month, our school held an activity called \"Green School, Green Life\". The purpose was to help students understand the (8)______ of protecting our environment.\n\nDuring the activity, we were asked to (9)______ waste into different groups. Paper, plastic and glass should be put into different bins. At first, many students found it difficult to remember which bin was for which kind of waste. (10)______, after a week of practice, everyone got used to it.\n\nWhat surprised us most was that the amount of waste produced by our school dropped by 30% in just two weeks. This (11)______ us that small actions can make a big difference. The headmaster praised our efforts and said we were (12)______ role models for other schools.\n\nI believe if everyone takes action, we will have a cleaner and greener future."
     },
     {
       "id": 12,
       "type": "cloze",
-      "knowledge_point": "cloze_context",
+      "knowledge_point": "cloze_general",
       "difficulty": 1,
       "stem": "(12)______",
       "options": [
-        "A. depend on",
-        "B. wait for",
-        "C. bring about",
-        "D. look after"
+        "A. terrible",
+        "B. excellent",
+        "C. common",
+        "D. serious"
       ],
-      "correct_answer": "C",
-      "explanation": "bring about带来、导致；depend on依赖；wait for等待；look after照顾。句意：小行动能\"带来\"大改变。根据宾语big changes（大改变）搭配，bring about最符合语境。",
+      "correct_answer": "B",
+      "explanation": "根据前文'校长表扬了我们的努力'，可知应该是说我们是'优秀的'榜样。excellent（优秀的，出色的）符合语境。terrible（糟糕的）与文意相反；common（普通的）、serious（严肃的）不符合表扬的语境。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Our school started a \"Green Campus\" project last semester. The goal was to make our school more environmentally friendly. As members of the environmental club, my classmates and I took part in many activities.\n\nFirst, we set up recycling bins in every classroom. We labeled them clearly for paper, plastic, and metal. At first, some students found it (8)______ to remember which bin to use. But after a few weeks, it became a habit for everyone.\n\nNext, we worked on saving energy. We made posters to remind students to (9)______ the lights and computers when leaving. The teachers also joined us. They promised to use less paper by writing on both sides.\n\nThe most challenging part was the \"Zero Waste Lunch\" week. We asked students to bring reusable lunch boxes (10)______ of disposable ones. Many parents supported this idea. They said it was healthier for their children too.\n\nBy the end of the term, we had collected over 500 kilos of recyclables. The principal praised our (11)______ during the school meeting. He said we had made a real difference to our school environment.\n\nThis project taught us that small actions can (12)______ big changes. I feel proud to be part of this green movement."
+      "group_passage": "Last month, our school held an activity called \"Green School, Green Life\". The purpose was to help students understand the (8)______ of protecting our environment.\n\nDuring the activity, we were asked to (9)______ waste into different groups. Paper, plastic and glass should be put into different bins. At first, many students found it difficult to remember which bin was for which kind of waste. (10)______, after a week of practice, everyone got used to it.\n\nWhat surprised us most was that the amount of waste produced by our school dropped by 30% in just two weeks. This (11)______ us that small actions can make a big difference. The headmaster praised our efforts and said we were (12)______ role models for other schools.\n\nI believe if everyone takes action, we will have a cleaner and greener future."
     },
     {
       "id": 13,
       "type": "reading",
       "knowledge_point": "detail",
       "difficulty": 2,
-      "stem": "According to the passage, urban gardens help reduce ______.",
+      "stem": "According to the passage, how many hours of sleep do teenagers need at least?",
       "options": [
-        "A. the number of cars",
-        "B. the cost of living",
-        "C. the heat island effect",
-        "D. the price of vegetables"
+        "A. 6 hours",
+        "B. 7 hours",
+        "C. 8 hours",
+        "D. 9 hours"
       ],
       "correct_answer": "C",
-      "explanation": "细节理解题。根据第三段第一句\"Besides cleaning the air, urban gardens also help reduce the 'heat island effect.'\"可知，城市花园有助于减少\"热岛效应\"。解题技巧：通过题干关键词reduce定位原文，找到对应句子即可得出答案。",
+      "explanation": "细节理解题。根据文章第二段第二句'Teenagers need at least 8 hours of sleep every night.'（青少年每晚至少需要8小时睡眠）可知答案为C。做细节题要找准关键词teenagers和sleep，在原文中定位具体数字。",
       "label": "阅读-细节理解",
       "group": "reading_1",
-      "group_passage": "Urban gardens are becoming popular in big cities around the world. These green spaces are not just beautiful to look at—they actually help improve city life in many ways.\n\nScientists have found that plants can clean the air by absorbing (吸收) harmful gases and releasing oxygen. In crowded cities where there are many cars and factories, this is especially important. A study shows that one square meter of grass can produce enough oxygen for one person every day.\n\nBesides cleaning the air, urban gardens also help reduce the \"heat island effect.\" This happens when cities become much hotter than nearby countryside because of concrete (混凝土) buildings and roads. Plants provide shade and release water vapor (水蒸气) into the air, which cools down the temperature.\n\nFurthermore, these gardens offer great educational opportunities. Schools often take students to community gardens to learn about biology and environmental science. Children can see how vegetables grow and understand where their food comes from.\n\nHowever, creating urban gardens is not always easy. Space is limited in cities, and land can be expensive. Some people also worry about the cost of maintaining these gardens. Despite these challenges, many cities continue to support urban gardening projects because of their long-term benefits."
+      "group_passage": "Do you know how to keep your brain healthy? Many people think that doing math problems is the only way to exercise the brain. However, scientists have found that daily habits play a more important role.\n\nFirst, getting enough sleep is crucial. During sleep, the brain removes waste chemicals (chemicals 化学物质) that build up during the day. Teenagers need at least 8 hours of sleep every night. Without enough rest, it becomes hard to concentrate (concentrate 集中注意力) on studies.\n\nSecond, physical exercise benefits the brain too. When you run or play ball games, your heart pumps more blood to the brain. This helps improve memory and learning ability. A study shows that students who exercise regularly often get better grades than those who don't.\n\nThird, eating the right food matters. Fish, nuts and fruits contain nutrients (nutrients 营养) that are good for brain development. On the other hand, too much sugar and junk food can make you feel tired and slow down your thinking speed.\n\nFinally, learning new skills keeps the brain active. Whether it's playing a musical instrument or speaking a new language, challenging your brain helps create new connections between brain cells.\n\nIn short, keeping your brain healthy is not as difficult as you might think. Start with these simple habits, and you will see the difference."
     },
     {
       "id": 14,
-      "type": "reading",
-      "knowledge_point": "word_guessing",
-      "difficulty": 2,
-      "stem": "The underlined word 'absorbing' in Paragraph 2 probably means ______.",
-      "options": [
-        "A. taking in",
-        "B. giving out",
-        "C. pushing away",
-        "D. turning down"
-      ],
-      "correct_answer": "A",
-      "explanation": "词义猜测题。根据第二段\"plants can clean the air by absorbing harmful gases and releasing oxygen\"，由and连接并列动作，与releasing（释放）相对的是\"吸收\"，因此absorbing意为taking in（吸收）。B（释放）是反义词；C（推开）、D（调小）不符合语境。解题技巧：利用并列结构、对比关系或定义解释猜测词义。",
-      "label": "阅读-词义猜测",
-      "group": "reading_1",
-      "group_passage": "Urban gardens are becoming popular in big cities around the world. These green spaces are not just beautiful to look at—they actually help improve city life in many ways.\n\nScientists have found that plants can clean the air by absorbing (吸收) harmful gases and releasing oxygen. In crowded cities where there are many cars and factories, this is especially important. A study shows that one square meter of grass can produce enough oxygen for one person every day.\n\nBesides cleaning the air, urban gardens also help reduce the \"heat island effect.\" This happens when cities become much hotter than nearby countryside because of concrete (混凝土) buildings and roads. Plants provide shade and release water vapor (水蒸气) into the air, which cools down the temperature.\n\nFurthermore, these gardens offer great educational opportunities. Schools often take students to community gardens to learn about biology and environmental science. Children can see how vegetables grow and understand where their food comes from.\n\nHowever, creating urban gardens is not always easy. Space is limited in cities, and land can be expensive. Some people also worry about the cost of maintaining these gardens. Despite these challenges, many cities continue to support urban gardening projects because of their long-term benefits."
-    },
-    {
-      "id": 15,
       "type": "reading",
       "knowledge_point": "inference",
       "difficulty": 3,
       "stem": "What can we infer from the passage?",
       "options": [
-        "A. Urban gardens are more important than parks.",
-        "B. All cities should replace roads with gardens.",
-        "C. Urban gardens have both advantages and challenges.",
-        "D. Children learn better in gardens than in classrooms."
+        "A. Only math problems can exercise the brain.",
+        "B. Students who exercise often may perform better in studies.",
+        "C. Junk food helps improve thinking speed.",
+        "D. Learning new skills is too difficult for teenagers."
       ],
-      "correct_answer": "C",
-      "explanation": "推理判断题。文章前四段介绍了城市花园的好处（净化空气、减少热岛效应、教育机会），最后一段提到挑战（空间有限、土地昂贵、维护成本），因此可推断城市花园既有优点也有挑战。A、B、D选项都过于绝对（more important, all, better than），且文中没有相关比较。解题技巧：推理题必须基于原文信息，不能过度推断，排除绝对化选项。",
+      "correct_answer": "B",
+      "explanation": "推理判断题。根据第三段最后一句'A study shows that students who exercise regularly often get better grades than those who don't.'（研究表明经常锻炼的学生往往比不锻炼的学生成绩更好）可推断出经常锻炼的学生学业表现可能更好。A选项与第一段'许多人认为做数学题是唯一锻炼大脑的方式，然而科学家发现日常习惯更重要'相悖；C选项与第四段'太多糖和垃圾食品会让你感到疲劳并减慢思维速度'相悖；D选项文中未提及且与最后一段建议学习新技能相悖。",
       "label": "阅读-推理判断",
       "group": "reading_1",
-      "group_passage": "Urban gardens are becoming popular in big cities around the world. These green spaces are not just beautiful to look at—they actually help improve city life in many ways.\n\nScientists have found that plants can clean the air by absorbing (吸收) harmful gases and releasing oxygen. In crowded cities where there are many cars and factories, this is especially important. A study shows that one square meter of grass can produce enough oxygen for one person every day.\n\nBesides cleaning the air, urban gardens also help reduce the \"heat island effect.\" This happens when cities become much hotter than nearby countryside because of concrete (混凝土) buildings and roads. Plants provide shade and release water vapor (水蒸气) into the air, which cools down the temperature.\n\nFurthermore, these gardens offer great educational opportunities. Schools often take students to community gardens to learn about biology and environmental science. Children can see how vegetables grow and understand where their food comes from.\n\nHowever, creating urban gardens is not always easy. Space is limited in cities, and land can be expensive. Some people also worry about the cost of maintaining these gardens. Despite these challenges, many cities continue to support urban gardening projects because of their long-term benefits."
+      "group_passage": "Do you know how to keep your brain healthy? Many people think that doing math problems is the only way to exercise the brain. However, scientists have found that daily habits play a more important role.\n\nFirst, getting enough sleep is crucial. During sleep, the brain removes waste chemicals (chemicals 化学物质) that build up during the day. Teenagers need at least 8 hours of sleep every night. Without enough rest, it becomes hard to concentrate (concentrate 集中注意力) on studies.\n\nSecond, physical exercise benefits the brain too. When you run or play ball games, your heart pumps more blood to the brain. This helps improve memory and learning ability. A study shows that students who exercise regularly often get better grades than those who don't.\n\nThird, eating the right food matters. Fish, nuts and fruits contain nutrients (nutrients 营养) that are good for brain development. On the other hand, too much sugar and junk food can make you feel tired and slow down your thinking speed.\n\nFinally, learning new skills keeps the brain active. Whether it's playing a musical instrument or speaking a new language, challenging your brain helps create new connections between brain cells.\n\nIn short, keeping your brain healthy is not as difficult as you might think. Start with these simple habits, and you will see the difference."
+    },
+    {
+      "id": 15,
+      "type": "reading",
+      "knowledge_point": "word_guessing_context",
+      "difficulty": 2,
+      "stem": "The underlined word \"crucial\" in Paragraph 2 probably means ______.",
+      "options": [
+        "A. difficult",
+        "B. important",
+        "C. boring",
+        "D. dangerous"
+      ],
+      "correct_answer": "B",
+      "explanation": "词义猜测题。根据上下文，第二段讲睡眠对大脑健康的作用，'During sleep, the brain removes waste chemicals...'（睡眠期间大脑清除废物），且下文说'Without enough rest, it becomes hard to concentrate'（没有足够休息很难集中注意力），说明睡眠很'重要'。crucial意为'至关重要的'，与important同义。difficult（困难的）、boring（无聊的）、dangerous（危险的）都不符合语境。",
+      "label": "阅读-词义猜测",
+      "group": "reading_1",
+      "group_passage": "Do you know how to keep your brain healthy? Many people think that doing math problems is the only way to exercise the brain. However, scientists have found that daily habits play a more important role.\n\nFirst, getting enough sleep is crucial. During sleep, the brain removes waste chemicals (chemicals 化学物质) that build up during the day. Teenagers need at least 8 hours of sleep every night. Without enough rest, it becomes hard to concentrate (concentrate 集中注意力) on studies.\n\nSecond, physical exercise benefits the brain too. When you run or play ball games, your heart pumps more blood to the brain. This helps improve memory and learning ability. A study shows that students who exercise regularly often get better grades than those who don't.\n\nThird, eating the right food matters. Fish, nuts and fruits contain nutrients (nutrients 营养) that are good for brain development. On the other hand, too much sugar and junk food can make you feel tired and slow down your thinking speed.\n\nFinally, learning new skills keeps the brain active. Whether it's playing a musical instrument or speaking a new language, challenging your brain helps create new connections between brain cells.\n\nIn short, keeping your brain healthy is not as difficult as you might think. Start with these simple habits, and you will see the difference."
     },
     {
       "id": 16,
       "type": "reading",
-      "knowledge_point": "main_idea",
+      "knowledge_point": "main_idea_title",
       "difficulty": 3,
       "stem": "What is the best title for this passage?",
       "options": [
-        "A. How to Build a Garden",
-        "B. The Benefits of Urban Gardens",
-        "C. Plants and Animals in Cities",
-        "D. Why Cities Are So Hot"
+        "A. The Importance of Math Problems",
+        "B. How to Sleep Well Every Night",
+        "C. Ways to Keep Your Brain Healthy",
+        "D. Why Exercise is Good for You"
       ],
-      "correct_answer": "B",
-      "explanation": "主旨大意题。全文围绕城市花园展开，重点介绍了它们带来的各种好处（清洁空气、降温、教育等），尽管提到挑战，但重心在益处。A选项太窄（不只讲建造）；C选项错误（未提及动物）；D选项只是文章一个细节（热岛效应）。解题技巧：最佳标题应涵盖全文主要内容，具有概括性，通常是高频出现的主题词+核心内容。",
+      "correct_answer": "C",
+      "explanation": "主旨大意题。文章首句'Do you know how to keep your brain healthy?'（你知道如何保持大脑健康吗？）点明主题，接下来从睡眠、运动、饮食、学习新技能四个方面介绍保持大脑健康的方法，最后总结。因此C选项'保持大脑健康的方法'最能概括全文。A选项只是第一段提到的错误观点；B、D选项只是文章的局部信息，不能概括全文。做主旨题要关注首段和尾段，寻找主题句。",
       "label": "阅读-主旨大意",
       "group": "reading_1",
-      "group_passage": "Urban gardens are becoming popular in big cities around the world. These green spaces are not just beautiful to look at—they actually help improve city life in many ways.\n\nScientists have found that plants can clean the air by absorbing (吸收) harmful gases and releasing oxygen. In crowded cities where there are many cars and factories, this is especially important. A study shows that one square meter of grass can produce enough oxygen for one person every day.\n\nBesides cleaning the air, urban gardens also help reduce the \"heat island effect.\" This happens when cities become much hotter than nearby countryside because of concrete (混凝土) buildings and roads. Plants provide shade and release water vapor (水蒸气) into the air, which cools down the temperature.\n\nFurthermore, these gardens offer great educational opportunities. Schools often take students to community gardens to learn about biology and environmental science. Children can see how vegetables grow and understand where their food comes from.\n\nHowever, creating urban gardens is not always easy. Space is limited in cities, and land can be expensive. Some people also worry about the cost of maintaining these gardens. Despite these challenges, many cities continue to support urban gardening projects because of their long-term benefits."
+      "group_passage": "Do you know how to keep your brain healthy? Many people think that doing math problems is the only way to exercise the brain. However, scientists have found that daily habits play a more important role.\n\nFirst, getting enough sleep is crucial. During sleep, the brain removes waste chemicals (chemicals 化学物质) that build up during the day. Teenagers need at least 8 hours of sleep every night. Without enough rest, it becomes hard to concentrate (concentrate 集中注意力) on studies.\n\nSecond, physical exercise benefits the brain too. When you run or play ball games, your heart pumps more blood to the brain. This helps improve memory and learning ability. A study shows that students who exercise regularly often get better grades than those who don't.\n\nThird, eating the right food matters. Fish, nuts and fruits contain nutrients (nutrients 营养) that are good for brain development. On the other hand, too much sugar and junk food can make you feel tired and slow down your thinking speed.\n\nFinally, learning new skills keeps the brain active. Whether it's playing a musical instrument or speaking a new language, challenging your brain helps create new connections between brain cells.\n\nIn short, keeping your brain healthy is not as difficult as you might think. Start with these simple habits, and you will see the difference."
     },
     {
       "id": 17,
@@ -283,17 +283,17 @@
       "difficulty": 2,
       "stem": "(17)______",
       "options": [
-        "A. However, you should never let hobbies affect your grades.",
-        "B. Then, mark the time needed for each task clearly.",
-        "C. For instance, finish all your homework on Saturday morning.",
-        "D. On the other hand, study should always come first.",
-        "E. Short breaks for hobbies can actually help you study better."
+        "A. However, things changed when our new teacher Mr. Li arrived.",
+        "B. As a result, we became more confident in speaking English.",
+        "C. In addition, he often organized English corner activities after school.",
+        "D. Before that, I was afraid to speak English in public.",
+        "E. On the other hand, some students still preferred traditional methods."
       ],
-      "correct_answer": "B",
-      "explanation": "前文提到\"制定时间表，写下所有作业和课外活动\"，后文说\"这样你就能清楚看到有多少空闲时间\"。B选项\"然后，清楚标记每项任务所需时间\"承上启下，then表示步骤递进，mark the time与后文see...free time呼应。",
+      "correct_answer": "D",
+      "explanation": "根据上文'我过去讨厌英语课，课程很无聊'和下文'每次老师提问，我都会低下头保持沉默'，可知此处描述过去的负面状态。D选项'在那之前，我害怕在公众场合说英语'承接上文，引出下文保持沉默的具体表现，逻辑连贯。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "As a middle school student, I know how hard it can be to balance study and hobbies. Here are some tips that have helped me.\n\nFirst, make a schedule. Write down all your homework and after-school activities. (17)______ This way, you can see exactly how much free time you have for hobbies.\n\nSecond, choose hobbies that don't take too much time. For example, reading for 30 minutes before bed is better than playing video games for three hours. (18)______ You can still enjoy yourself without wasting time.\n\nThird, use your weekends wisely. (19)______ On Sunday afternoon, you can spend time on your favorite activities like painting or playing basketball.\n\nFinally, remember that hobbies are important too. They help you relax and develop new skills. (20)______ Finding the right balance will make your school life more colorful."
+      "group_passage": "I used to hate English classes. The lessons were boring, and I always felt sleepy. (17)______ Every time the teacher asked questions, I would lower my head and keep silent.\n\n(18)______ He made his classes lively and interesting by using games and songs. We started to enjoy learning English. (19)______ We could practice speaking with classmates and even foreign teachers there. Little by little, I found myself looking forward to English classes. (20)______ Now I dare to answer questions loudly and even give speeches in front of the whole school."
     },
     {
       "id": 18,
@@ -302,17 +302,17 @@
       "difficulty": 2,
       "stem": "(18)______",
       "options": [
-        "A. However, you should never let hobbies affect your grades.",
-        "B. Then, mark the time needed for each task clearly.",
-        "C. For instance, finish all your homework on Saturday morning.",
-        "D. On the other hand, study should always come first.",
-        "E. Short breaks for hobbies can actually help you study better."
+        "A. However, things changed when our new teacher Mr. Li arrived.",
+        "B. As a result, we became more confident in speaking English.",
+        "C. In addition, he often organized English corner activities after school.",
+        "D. Before that, I was afraid to speak English in public.",
+        "E. On the other hand, some students still preferred traditional methods."
       ],
-      "correct_answer": "E",
-      "explanation": "前文建议\"选择不太耗时的爱好，如睡前阅读30分钟比玩3小时游戏好\"，后文说\"你仍然可以不浪费时间地享受生活\"。E选项\"简短的爱好休息实际上能帮助你更好地学习\"解释了为什么短时间爱好是好的，承接上文建议。",
+      "correct_answer": "A",
+      "explanation": "前文描述过去讨厌英语课的状态，后文讲'他通过游戏和歌曲让课堂生动有趣'，前后是转折关系，且引出新人物Mr. Li。A选项'然而，当我们的新老师李老师到来时，事情改变了'起到承上启下的转折作用，符合语境。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "As a middle school student, I know how hard it can be to balance study and hobbies. Here are some tips that have helped me.\n\nFirst, make a schedule. Write down all your homework and after-school activities. (17)______ This way, you can see exactly how much free time you have for hobbies.\n\nSecond, choose hobbies that don't take too much time. For example, reading for 30 minutes before bed is better than playing video games for three hours. (18)______ You can still enjoy yourself without wasting time.\n\nThird, use your weekends wisely. (19)______ On Sunday afternoon, you can spend time on your favorite activities like painting or playing basketball.\n\nFinally, remember that hobbies are important too. They help you relax and develop new skills. (20)______ Finding the right balance will make your school life more colorful."
+      "group_passage": "I used to hate English classes. The lessons were boring, and I always felt sleepy. (17)______ Every time the teacher asked questions, I would lower my head and keep silent.\n\n(18)______ He made his classes lively and interesting by using games and songs. We started to enjoy learning English. (19)______ We could practice speaking with classmates and even foreign teachers there. Little by little, I found myself looking forward to English classes. (20)______ Now I dare to answer questions loudly and even give speeches in front of the whole school."
     },
     {
       "id": 19,
@@ -321,17 +321,17 @@
       "difficulty": 2,
       "stem": "(19)______",
       "options": [
-        "A. However, you should never let hobbies affect your grades.",
-        "B. Then, mark the time needed for each task clearly.",
-        "C. For instance, finish all your homework on Saturday morning.",
-        "D. On the other hand, study should always come first.",
-        "E. Short breaks for hobbies can actually help you study better."
+        "A. However, things changed when our new teacher Mr. Li arrived.",
+        "B. As a result, we became more confident in speaking English.",
+        "C. In addition, he often organized English corner activities after school.",
+        "D. Before that, I was afraid to speak English in public.",
+        "E. On the other hand, some students still preferred traditional methods."
       ],
       "correct_answer": "C",
-      "explanation": "前文说\"明智地使用周末\"，后文说\"周日下午你可以花时间做喜欢的活动如画画或打篮球\"。C选项\"例如，周六上午完成所有作业\"举例说明如何明智使用周末，与后文周下午活动形成时间上的先后安排。",
+      "explanation": "根据下文'我们可以在那里和同学甚至外教练习口语'，可知此处应提到一个可以练习口语的场合。C选项'此外，他经常放学后组织英语角活动'中的English corner（英语角）正是练习口语的场所，there指代English corner，逻辑通顺。In addition表示递进，补充说明李老师的另一个举措。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "As a middle school student, I know how hard it can be to balance study and hobbies. Here are some tips that have helped me.\n\nFirst, make a schedule. Write down all your homework and after-school activities. (17)______ This way, you can see exactly how much free time you have for hobbies.\n\nSecond, choose hobbies that don't take too much time. For example, reading for 30 minutes before bed is better than playing video games for three hours. (18)______ You can still enjoy yourself without wasting time.\n\nThird, use your weekends wisely. (19)______ On Sunday afternoon, you can spend time on your favorite activities like painting or playing basketball.\n\nFinally, remember that hobbies are important too. They help you relax and develop new skills. (20)______ Finding the right balance will make your school life more colorful."
+      "group_passage": "I used to hate English classes. The lessons were boring, and I always felt sleepy. (17)______ Every time the teacher asked questions, I would lower my head and keep silent.\n\n(18)______ He made his classes lively and interesting by using games and songs. We started to enjoy learning English. (19)______ We could practice speaking with classmates and even foreign teachers there. Little by little, I found myself looking forward to English classes. (20)______ Now I dare to answer questions loudly and even give speeches in front of the whole school."
     },
     {
       "id": 20,
@@ -340,17 +340,17 @@
       "difficulty": 2,
       "stem": "(20)______",
       "options": [
-        "A. However, you should never let hobbies affect your grades.",
-        "B. Then, mark the time needed for each task clearly.",
-        "C. For instance, finish all your homework on Saturday morning.",
-        "D. On the other hand, study should always come first.",
-        "E. Short breaks for hobbies can actually help you study better."
+        "A. However, things changed when our new teacher Mr. Li arrived.",
+        "B. As a result, we became more confident in speaking English.",
+        "C. In addition, he often organized English corner activities after school.",
+        "D. Before that, I was afraid to speak English in public.",
+        "E. On the other hand, some students still preferred traditional methods."
       ],
-      "correct_answer": "A",
-      "explanation": "前文说\"爱好也很重要，帮助你放松和发展技能\"，后文说\"找到正确的平衡会让你的学校生活更丰富多彩\"。A选项\"然而，你绝不应该让爱好影响成绩\"用however转折，提醒注意爱好的边界，与后文\"找到平衡\"衔接自然。",
+      "correct_answer": "B",
+      "explanation": "根据前文'渐渐地，我发现自己开始期待英语课'和后文'现在我敢大声回答问题，甚至能在全校面前演讲'，可知此处表示结果。B选项'结果，我们在说英语方面变得更自信了'承上启下，说明前面的改变带来的结果，引出后文现在敢于表现的具体事例。As a result表示因果关系。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "As a middle school student, I know how hard it can be to balance study and hobbies. Here are some tips that have helped me.\n\nFirst, make a schedule. Write down all your homework and after-school activities. (17)______ This way, you can see exactly how much free time you have for hobbies.\n\nSecond, choose hobbies that don't take too much time. For example, reading for 30 minutes before bed is better than playing video games for three hours. (18)______ You can still enjoy yourself without wasting time.\n\nThird, use your weekends wisely. (19)______ On Sunday afternoon, you can spend time on your favorite activities like painting or playing basketball.\n\nFinally, remember that hobbies are important too. They help you relax and develop new skills. (20)______ Finding the right balance will make your school life more colorful."
+      "group_passage": "I used to hate English classes. The lessons were boring, and I always felt sleepy. (17)______ Every time the teacher asked questions, I would lower my head and keep silent.\n\n(18)______ He made his classes lively and interesting by using games and songs. We started to enjoy learning English. (19)______ We could practice speaking with classmates and even foreign teachers there. Little by little, I found myself looking forward to English classes. (20)______ Now I dare to answer questions loudly and even give speeches in front of the whole school."
     }
   ]
 }
