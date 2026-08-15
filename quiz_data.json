@@ -1,21 +1,21 @@
 ﻿{
-  "date": "2026-08-15",
+  "date": "2026-08-16",
   "session_number": 1,
   "questions": [
     {
       "id": 1,
       "type": "grammar",
       "knowledge_point": "present_perfect_vs_past_simple",
-      "difficulty": 1,
-      "stem": "I ______ my homework already. I ______ it an hour ago.",
+      "difficulty": 2,
+      "stem": "—Where is Tom? I haven't seen him for days.\n—He ________ to Beijing. He will come back next week.",
       "options": [
-        "A. have finished; finished",
-        "B. finished; have finished",
-        "C. finish; finished",
-        "D. have finished; have finished"
+        "A. went",
+        "B. has been",
+        "C. has gone",
+        "D. was going"
       ],
-      "correct_answer": "A",
-      "explanation": "第一空后面有already（已经），是现在完成时的标志词，表示动作已经完成，用have finished；第二空后面有an hour ago（一小时前），是一般过去时的标志，表示过去某个具体时间发生的动作，用finished。句意：我已经完成作业了。我一小时前做完的。",
+      "correct_answer": "C",
+      "explanation": "这道题考查现在完成时have been to与have gone to的区别以及一般过去时的辨析。have gone to表示\"去了某地（现在不在说话现场）\"，have been to表示\"去过某地（现在已经回来）\"。根据答句\"He will come back next week\"可知Tom现在还在北京，没回来，所以选C。A选项went是一般过去时，只强调过去的动作，不表示对现在的影响；B选项has been表示去过已回，与后文矛盾；D选项was going是过去进行时表过去将来，与语境不符。",
       "label": "语法题"
     },
     {
@@ -23,95 +23,95 @@
       "type": "grammar",
       "knowledge_point": "relative_clause_who_which",
       "difficulty": 2,
-      "stem": "The boy ______ is wearing a red jacket is my brother.",
+      "stem": "The boy ________ won the first prize is called Roy.",
       "options": [
-        "A. who",
-        "B. which",
+        "A. which",
+        "B. who",
         "C. whom",
         "D. whose"
       ],
-      "correct_answer": "A",
-      "explanation": "先行词是the boy（指人），定语从句中缺少主语，因此用关系代词who。which用于指物；whom用于指人但在从句中作宾语；whose表示'...的'，在从句中作定语。句意：那个穿着红色夹克的男孩是我哥哥。",
+      "correct_answer": "B",
+      "explanation": "这道题考查定语从句关系代词的选择。先行词是The boy（人），且关系代词在从句中作主语，因此用who。which用于指物；whom用于指人但作宾语；whose表示\"谁的\"，在从句中作定语。解题口诀：先行词是人作主语用who，作宾语用whom/who；先行词是物用which；whose后常接名词。",
       "label": "语法题"
     },
     {
       "id": 3,
       "type": "grammar",
       "knowledge_point": "passive_voice",
-      "difficulty": 2,
-      "stem": "The new bridge ______ by the workers last year.",
+      "difficulty": 1,
+      "stem": "The new bridge ________ last year. It is very convenient for us to cross the river now.",
       "options": [
-        "A. is built",
-        "B. was built",
-        "C. built",
-        "D. has built"
+        "A. builds",
+        "B. is built",
+        "C. was built",
+        "D. built"
       ],
-      "correct_answer": "B",
-      "explanation": "主语the new bridge（新桥）与动词build（建造）之间是被动关系，需要用被动语态be+done；时间状语last year（去年）表示过去，因此用一般过去时的被动语态was built。is built是一般现在时被动；built是主动语态过去式；has built是现在完成时主动语态。",
+      "correct_answer": "C",
+      "explanation": "这道题考查一般过去时的被动语态。主语The new bridge与动词build之间是被动关系（桥被建），且时间状语last year表示过去，因此用一般过去时的被动语态was built。A选项是主动语态一般现在时；B选项是一般现在时被动，时态不符；D选项是过去式或过去分词，缺少助动词，不能构成谓语。被动语态基本结构：be + 过去分词，注意时态变化。",
       "label": "语法题"
     },
     {
       "id": 4,
       "type": "grammar",
-      "knowledge_point": "present_perfect_vs_past_simple",
+      "knowledge_point": "object_clause",
       "difficulty": 3,
-      "stem": "—______ you ever ______ to the Great Wall?\n—Yes, I ______ there with my parents last summer.",
+      "stem": "Could you tell me ________? I want to mail a letter.",
       "options": [
-        "A. Did; go; went",
-        "B. Have; been; went",
-        "C. Have; gone; went",
-        "D. Do; go; have gone"
+        "A. where is the post office",
+        "B. where the post office is",
+        "C. where was the post office",
+        "D. where the post office was"
       ],
       "correct_answer": "B",
-      "explanation": "第一空有ever（曾经），是现在完成时标志，且人已经回来，用have been to（去过某地）；第二空last summer（去年夏天）是过去时间状语，用一般过去时went。have gone to表示去了某地（人未回），不符合答句语境；did和do开头的一般疑问句无法与ever搭配表示经历。",
+      "explanation": "这道题考查宾语从句的语序和时态。宾语从句必须使用陈述语序（主语+谓语），排除A和C；主句Could you tell me是委婉请求，不是过去时，从句用一般现在时，因此选B。D选项虽然语序正确，但时态为过去时，与语境不符。解题技巧：宾语从句三步走：1. 看引导词；2. 看语序（必须用陈述语序）；3. 看时态（主现从随便，主过从必过，真理永一现）。",
       "label": "语法题"
     },
     {
       "id": 5,
       "type": "vocabulary",
-      "knowledge_point": "phrasal_verbs",
+      "knowledge_point": "word_meaning",
       "difficulty": 1,
-      "stem": "Please ______ the lights before leaving the classroom.",
+      "stem": "I ________ a gift from my friend yesterday, but I didn't ________ it because it was too expensive.",
       "options": [
-        "A. turn on",
-        "B. turn off",
-        "C. turn up",
-        "D. turn down"
+        "A. received; receive",
+        "B. accepted; accept",
+        "C. received; accept",
+        "D. accepted; receive"
       ],
-      "correct_answer": "B",
-      "explanation": "turn off表示'关闭（电器、水源等）'，符合句意'离开教室前请关灯'。turn on是打开；turn up是调大（音量）；turn down是调小（音量）或拒绝。根据before leaving（离开前）的语境，应该是关灯。",
+      "correct_answer": "C",
+      "explanation": "这道题考查receive与accept的词义辨析。receive表示\"客观上收到\"，不涉及主观意愿；accept表示\"主观上接受\"。第一空表示\"收到礼物\"，用received；第二空表示\"不接受\"，用accept。A选项第二空receive不符合句意；B、D选项第一空accept使用不当，因为\"接受礼物\"这个动作是主观决定，但句中yesterday只是客观描述收到这一事实，且后半句明确说没接受。",
       "label": "词汇题"
     },
     {
       "id": 6,
       "type": "vocabulary",
-      "knowledge_point": "word_formation",
+      "knowledge_point": "phrasal_verbs",
       "difficulty": 2,
-      "stem": "The ______ news made everyone ______.",
+      "stem": "We had to ________ the sports meeting because of the heavy rain.",
       "options": [
-        "A. excited; exciting",
-        "B. exciting; excited",
-        "C. excited; excited",
-        "D. exciting; exciting"
+        "A. put up",
+        "B. put off",
+        "C. put on",
+        "D. put away"
       ],
       "correct_answer": "B",
-      "explanation": "-ing结尾的形容词exciting（令人兴奋的）通常修饰事物，-ed结尾的形容词excited（感到兴奋的）通常修饰人。第一空修饰news（消息，事物），用exciting；第二空修饰everyone（每个人，人），用excited。句意：这个令人兴奋的消息让每个人都感到兴奋。",
+      "explanation": "这道题考查put短语动词辨析。put off表示\"推迟\"；put up表示\"张贴；搭建；举起\"；put on表示\"穿上；上演\"；put away表示\"把……收起来\"。根据句意\"因为大雨我们不得不推迟运动会\"，选B。记忆技巧：off有\"离开、远离\"之意，put off就是把事情推到以后，远离现在。",
       "label": "词汇题"
     },
     {
       "id": 7,
       "type": "vocabulary",
-      "knowledge_point": "fixed_collocation",
+      "knowledge_point": "word_formation",
       "difficulty": 2,
-      "stem": "We should ______ our best to protect the environment.",
+      "stem": "It is ________ for us to finish so much work in such a short time. We need two more days.",
       "options": [
-        "A. try",
-        "B. do",
-        "C. make",
-        "D. take"
+        "A. possible",
+        "B. impossible",
+        "C. necessary",
+        "D. important"
       ],
-      "correct_answer": "A",
-      "explanation": "try one's best是固定搭配，意为'尽某人最大努力'。do one's best也有此意，但选项B是do，缺少one's；make one's best和take one's best都不是正确搭配。句意：我们应该尽最大努力保护环境。",
+      "correct_answer": "B",
+      "explanation": "这道题考查词义辨析及前缀im-的用法。根据后句\"We need two more days\"可知，在短时间内完成这么多工作对我们来说是不可能的，因此选B（impossible不可能的）。im-是常见的否定前缀，加在possible前构成反义词。A选项possible（可能的）与句意相反；C选项necessary（必要的）和D选项important（重要的）不符合语境逻辑。",
       "label": "词汇题"
     },
     {
@@ -119,238 +119,238 @@
       "type": "cloze",
       "knowledge_point": "cloze_general",
       "difficulty": 2,
-      "stem": "(8)______",
+      "stem": "(8)___",
       "options": [
-        "A. result",
-        "B. importance",
-        "C. reason",
-        "D. example"
+        "A. stop",
+        "B. promote",
+        "C. prevent",
+        "D. protect"
       ],
       "correct_answer": "B",
-      "explanation": "根据上下文，活动目的是帮助学生理解保护环境的'重要性'。importance（重要性）符合语境。the importance of是固定搭配。result（结果）、reason（原因）、example（例子）代入后语义不通。",
+      "explanation": "这道题考查语境推理。根据上下文，学校开展绿色项目是为了减少浪费并\"促进\"回收利用，promote意为\"促进、推广\"，符合语境。stop（停止）和prevent（阻止）与句意相反；protect（保护）虽然意义相关，但protect recycling搭配不当，通常说protect the environment。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school held an activity called \"Green School, Green Life\". The purpose was to help students understand the (8)______ of protecting our environment.\n\nDuring the activity, we were asked to (9)______ waste into different groups. Paper, plastic and glass should be put into different bins. At first, many students found it difficult to remember which bin was for which kind of waste. (10)______, after a week of practice, everyone got used to it.\n\nWhat surprised us most was that the amount of waste produced by our school dropped by 30% in just two weeks. This (11)______ us that small actions can make a big difference. The headmaster praised our efforts and said we were (12)______ role models for other schools.\n\nI believe if everyone takes action, we will have a cleaner and greener future."
+      "group_passage": "Last month, our school started a green project called \"Zero Waste Campus\". As a member of the environmental club, I was excited to take part in it. The project aimed to reduce waste and (8)___ recycling among students.\n\nEvery morning, volunteers stood at the school gate to give out reusable bags. At first, some students thought it was (9)___ to carry their own bags. However, after (10)___ the harm of plastic bags to the environment, more and more students began to support the idea.\n\nThe most challenging part was sorting garbage correctly. We put up colorful posters showing how to separate waste into different bins. For example, food waste went into the green bin, (11)___ paper and plastic went into the blue one. It took us some time to get used to it, but now it has become a habit.\n\nBy the end of the term, the amount of waste in our school had (12)___ by 30%. This experience taught us that small actions could make a big difference to our planet."
     },
     {
       "id": 9,
       "type": "cloze",
       "knowledge_point": "cloze_general",
-      "difficulty": 2,
-      "stem": "(9)______",
+      "difficulty": 1,
+      "stem": "(9)___",
       "options": [
-        "A. separate",
-        "B. mix",
-        "C. collect",
-        "D. produce"
+        "A. easy",
+        "B. interesting",
+        "C. troublesome",
+        "D. necessary"
       ],
-      "correct_answer": "A",
-      "explanation": "根据下文'Paper, plastic and glass should be put into different bins'（纸、塑料和玻璃应该放进不同的垃圾桶），可知是要把垃圾分类。separate...into...表示'把...分成...'。mix（混合）与文意相反；collect（收集）和produce（产生）不符合语境。",
+      "correct_answer": "C",
+      "explanation": "这道题考查语境和情感线索。根据下文However表示转折，以及\"more and more students began to support\"暗示起初有抵触情绪，可知起初学生认为自带袋子很\"麻烦\"（troublesome）。easy（容易的）、interesting（有趣的）、necessary（必要的）都不符合转折逻辑。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school held an activity called \"Green School, Green Life\". The purpose was to help students understand the (8)______ of protecting our environment.\n\nDuring the activity, we were asked to (9)______ waste into different groups. Paper, plastic and glass should be put into different bins. At first, many students found it difficult to remember which bin was for which kind of waste. (10)______, after a week of practice, everyone got used to it.\n\nWhat surprised us most was that the amount of waste produced by our school dropped by 30% in just two weeks. This (11)______ us that small actions can make a big difference. The headmaster praised our efforts and said we were (12)______ role models for other schools.\n\nI believe if everyone takes action, we will have a cleaner and greener future."
+      "group_passage": "Last month, our school started a green project called \"Zero Waste Campus\". As a member of the environmental club, I was excited to take part in it. The project aimed to reduce waste and (8)___ recycling among students.\n\nEvery morning, volunteers stood at the school gate to give out reusable bags. At first, some students thought it was (9)___ to carry their own bags. However, after (10)___ the harm of plastic bags to the environment, more and more students began to support the idea.\n\nThe most challenging part was sorting garbage correctly. We put up colorful posters showing how to separate waste into different bins. For example, food waste went into the green bin, (11)___ paper and plastic went into the blue one. It took us some time to get used to it, but now it has become a habit.\n\nBy the end of the term, the amount of waste in our school had (12)___ by 30%. This experience taught us that small actions could make a big difference to our planet."
     },
     {
       "id": 10,
       "type": "cloze",
-      "knowledge_point": "cloze_logic",
-      "difficulty": 1,
-      "stem": "(10)______",
+      "knowledge_point": "cloze_general",
+      "difficulty": 2,
+      "stem": "(10)___",
       "options": [
-        "A. Instead",
-        "B. Otherwise",
-        "C. However",
-        "D. Therefore"
+        "A. knowing",
+        "B. to know",
+        "C. knew",
+        "D. knows"
       ],
-      "correct_answer": "C",
-      "explanation": "前文说'一开始很多学生觉得很难记住'，后文说'一周后大家都习惯了'，前后是转折关系。However（然而）表转折。Instead（代替）、Otherwise（否则）、Therefore（因此）都不符合此处逻辑。",
+      "correct_answer": "A",
+      "explanation": "这道题考查语法结构。after是介词，介词后面接动词时必须用动名词形式（doing），因此选knowing。to know是不定式，knew是过去式，knows是第三人称单数形式，都不能直接放在介词after后面。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school held an activity called \"Green School, Green Life\". The purpose was to help students understand the (8)______ of protecting our environment.\n\nDuring the activity, we were asked to (9)______ waste into different groups. Paper, plastic and glass should be put into different bins. At first, many students found it difficult to remember which bin was for which kind of waste. (10)______, after a week of practice, everyone got used to it.\n\nWhat surprised us most was that the amount of waste produced by our school dropped by 30% in just two weeks. This (11)______ us that small actions can make a big difference. The headmaster praised our efforts and said we were (12)______ role models for other schools.\n\nI believe if everyone takes action, we will have a cleaner and greener future."
+      "group_passage": "Last month, our school started a green project called \"Zero Waste Campus\". As a member of the environmental club, I was excited to take part in it. The project aimed to reduce waste and (8)___ recycling among students.\n\nEvery morning, volunteers stood at the school gate to give out reusable bags. At first, some students thought it was (9)___ to carry their own bags. However, after (10)___ the harm of plastic bags to the environment, more and more students began to support the idea.\n\nThe most challenging part was sorting garbage correctly. We put up colorful posters showing how to separate waste into different bins. For example, food waste went into the green bin, (11)___ paper and plastic went into the blue one. It took us some time to get used to it, but now it has become a habit.\n\nBy the end of the term, the amount of waste in our school had (12)___ by 30%. This experience taught us that small actions could make a big difference to our planet."
     },
     {
       "id": 11,
       "type": "cloze",
       "knowledge_point": "cloze_general",
       "difficulty": 2,
-      "stem": "(11)______",
+      "stem": "(11)___",
       "options": [
-        "A. taught",
-        "B. asked",
-        "C. warned",
-        "D. promised"
+        "A. because",
+        "B. while",
+        "C. if",
+        "D. so"
       ],
-      "correct_answer": "A",
-      "explanation": "句意：这'教会'了我们小行动可以带来大改变。taught（teach的过去式，教）符合语境。asked（问）、warned（警告）、promised（承诺）都不符合句意。垃圾分类减少30%垃圾量的结果'教会'了我们道理。",
+      "correct_answer": "B",
+      "explanation": "这道题考查逻辑关系。句意：例如，食物垃圾进入绿色垃圾桶，而纸张和塑料进入蓝色垃圾桶。while在这里表示对比关系，意为\"而、然而\"。because表原因，if表条件，so表结果，都不符合此处对比两种不同垃圾投放方式的逻辑。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school held an activity called \"Green School, Green Life\". The purpose was to help students understand the (8)______ of protecting our environment.\n\nDuring the activity, we were asked to (9)______ waste into different groups. Paper, plastic and glass should be put into different bins. At first, many students found it difficult to remember which bin was for which kind of waste. (10)______, after a week of practice, everyone got used to it.\n\nWhat surprised us most was that the amount of waste produced by our school dropped by 30% in just two weeks. This (11)______ us that small actions can make a big difference. The headmaster praised our efforts and said we were (12)______ role models for other schools.\n\nI believe if everyone takes action, we will have a cleaner and greener future."
+      "group_passage": "Last month, our school started a green project called \"Zero Waste Campus\". As a member of the environmental club, I was excited to take part in it. The project aimed to reduce waste and (8)___ recycling among students.\n\nEvery morning, volunteers stood at the school gate to give out reusable bags. At first, some students thought it was (9)___ to carry their own bags. However, after (10)___ the harm of plastic bags to the environment, more and more students began to support the idea.\n\nThe most challenging part was sorting garbage correctly. We put up colorful posters showing how to separate waste into different bins. For example, food waste went into the green bin, (11)___ paper and plastic went into the blue one. It took us some time to get used to it, but now it has become a habit.\n\nBy the end of the term, the amount of waste in our school had (12)___ by 30%. This experience taught us that small actions could make a big difference to our planet."
     },
     {
       "id": 12,
       "type": "cloze",
       "knowledge_point": "cloze_general",
       "difficulty": 1,
-      "stem": "(12)______",
+      "stem": "(12)___",
       "options": [
-        "A. terrible",
-        "B. excellent",
-        "C. common",
-        "D. serious"
+        "A. increased",
+        "B. reduced",
+        "C. decreased",
+        "D. changed"
       ],
-      "correct_answer": "B",
-      "explanation": "根据前文'校长表扬了我们的努力'，可知应该是说我们是'优秀的'榜样。excellent（优秀的，出色的）符合语境。terrible（糟糕的）与文意相反；common（普通的）、serious（严肃的）不符合表扬的语境。",
+      "correct_answer": "C",
+      "explanation": "这道题考查语境推理。根据上文提到的环保措施和成功的结果，垃圾量应该是\"减少\"了30%。decrease和reduce都有减少之意，但decrease更常用于描述数量、程度的自然下降，且常与by连用表示减少的幅度；reduce更多用于人为减少。increase（增加）与文意相反；change（改变）没有说明是减少还是增加，不够准确。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school held an activity called \"Green School, Green Life\". The purpose was to help students understand the (8)______ of protecting our environment.\n\nDuring the activity, we were asked to (9)______ waste into different groups. Paper, plastic and glass should be put into different bins. At first, many students found it difficult to remember which bin was for which kind of waste. (10)______, after a week of practice, everyone got used to it.\n\nWhat surprised us most was that the amount of waste produced by our school dropped by 30% in just two weeks. This (11)______ us that small actions can make a big difference. The headmaster praised our efforts and said we were (12)______ role models for other schools.\n\nI believe if everyone takes action, we will have a cleaner and greener future."
+      "group_passage": "Last month, our school started a green project called \"Zero Waste Campus\". As a member of the environmental club, I was excited to take part in it. The project aimed to reduce waste and (8)___ recycling among students.\n\nEvery morning, volunteers stood at the school gate to give out reusable bags. At first, some students thought it was (9)___ to carry their own bags. However, after (10)___ the harm of plastic bags to the environment, more and more students began to support the idea.\n\nThe most challenging part was sorting garbage correctly. We put up colorful posters showing how to separate waste into different bins. For example, food waste went into the green bin, (11)___ paper and plastic went into the blue one. It took us some time to get used to it, but now it has become a habit.\n\nBy the end of the term, the amount of waste in our school had (12)___ by 30%. This experience taught us that small actions could make a big difference to our planet."
     },
     {
       "id": 13,
       "type": "reading",
       "knowledge_point": "detail",
       "difficulty": 2,
-      "stem": "According to the passage, how many hours of sleep do teenagers need at least?",
+      "stem": "According to the passage, how many hours of sleep do teenagers need each night?",
       "options": [
-        "A. 6 hours",
-        "B. 7 hours",
-        "C. 8 hours",
-        "D. 9 hours"
+        "A. 6-7 hours",
+        "B. 7-8 hours",
+        "C. 8-10 hours",
+        "D. 10-12 hours"
       ],
       "correct_answer": "C",
-      "explanation": "细节理解题。根据文章第二段第二句'Teenagers need at least 8 hours of sleep every night.'（青少年每晚至少需要8小时睡眠）可知答案为C。做细节题要找准关键词teenagers和sleep，在原文中定位具体数字。",
+      "explanation": "这道题考查细节理解。根据文章第二段第一句\"According to a recent study, teenagers need about 8-10 hours of sleep each night\"可知，青少年每晚需要8-10小时睡眠，因此选C。细节题解题技巧：关键词定位法，在原文中找到与题干对应的关键词（teenagers need...hours），即可快速定位答案。",
       "label": "阅读-细节理解",
       "group": "reading_1",
-      "group_passage": "Do you know how to keep your brain healthy? Many people think that doing math problems is the only way to exercise the brain. However, scientists have found that daily habits play a more important role.\n\nFirst, getting enough sleep is crucial. During sleep, the brain removes waste chemicals (chemicals 化学物质) that build up during the day. Teenagers need at least 8 hours of sleep every night. Without enough rest, it becomes hard to concentrate (concentrate 集中注意力) on studies.\n\nSecond, physical exercise benefits the brain too. When you run or play ball games, your heart pumps more blood to the brain. This helps improve memory and learning ability. A study shows that students who exercise regularly often get better grades than those who don't.\n\nThird, eating the right food matters. Fish, nuts and fruits contain nutrients (nutrients 营养) that are good for brain development. On the other hand, too much sugar and junk food can make you feel tired and slow down your thinking speed.\n\nFinally, learning new skills keeps the brain active. Whether it's playing a musical instrument or speaking a new language, challenging your brain helps create new connections between brain cells.\n\nIn short, keeping your brain healthy is not as difficult as you might think. Start with these simple habits, and you will see the difference."
+      "group_passage": "Many teenagers love staying up late to play games or chat with friends online. However, scientists have found that lack of sleep can seriously affect teenagers' health and study performance.\n\nAccording to a recent study, teenagers need about 8-10 hours of sleep each night. During sleep, the brain processes information learned during the day and stores it in memory. Without enough sleep, students may find it hard to concentrate in class and remember new knowledge.\n\nMoreover, sleep deprivation can lead to mood problems. Teenagers who don't sleep well are more likely to feel stressed and anxious. Some may even gain weight because tiredness affects the hormones (荷尔蒙) that control hunger.\n\nDr. Li, a sleep expert, suggests that teenagers should develop good sleeping habits. \"Try to go to bed before 10:30 pm and avoid using electronic devices one hour before sleep,\" he says. \"A good night's sleep is the best preparation for the next day.\""
     },
     {
       "id": 14,
       "type": "reading",
       "knowledge_point": "inference",
       "difficulty": 3,
-      "stem": "What can we infer from the passage?",
+      "stem": "What can we infer from Dr. Li's suggestion about electronic devices?",
       "options": [
-        "A. Only math problems can exercise the brain.",
-        "B. Students who exercise often may perform better in studies.",
-        "C. Junk food helps improve thinking speed.",
-        "D. Learning new skills is too difficult for teenagers."
+        "A. They help teenagers sleep better",
+        "B. They should be avoided before sleep",
+        "C. They are necessary for study",
+        "D. They store information in memory"
       ],
       "correct_answer": "B",
-      "explanation": "推理判断题。根据第三段最后一句'A study shows that students who exercise regularly often get better grades than those who don't.'（研究表明经常锻炼的学生往往比不锻炼的学生成绩更好）可推断出经常锻炼的学生学业表现可能更好。A选项与第一段'许多人认为做数学题是唯一锻炼大脑的方式，然而科学家发现日常习惯更重要'相悖；C选项与第四段'太多糖和垃圾食品会让你感到疲劳并减慢思维速度'相悖；D选项文中未提及且与最后一段建议学习新技能相悖。",
+      "explanation": "这道题考查推理判断。根据文章最后一段Dr. Li的建议\"avoid using electronic devices one hour before sleep\"（避免在睡前一小时使用电子设备），可以推断出电子设备应该在睡前避免使用，因此选B。A选项与文意相反；C选项文中未提及；D选项张冠李戴，文中说的是大脑在睡眠中存储信息，而非电子设备。推理题技巧：答案通常不会直接在原文中出现，需要根据文中信息进行合理推断，注意排除与原文明显矛盾或未提及的选项。",
       "label": "阅读-推理判断",
       "group": "reading_1",
-      "group_passage": "Do you know how to keep your brain healthy? Many people think that doing math problems is the only way to exercise the brain. However, scientists have found that daily habits play a more important role.\n\nFirst, getting enough sleep is crucial. During sleep, the brain removes waste chemicals (chemicals 化学物质) that build up during the day. Teenagers need at least 8 hours of sleep every night. Without enough rest, it becomes hard to concentrate (concentrate 集中注意力) on studies.\n\nSecond, physical exercise benefits the brain too. When you run or play ball games, your heart pumps more blood to the brain. This helps improve memory and learning ability. A study shows that students who exercise regularly often get better grades than those who don't.\n\nThird, eating the right food matters. Fish, nuts and fruits contain nutrients (nutrients 营养) that are good for brain development. On the other hand, too much sugar and junk food can make you feel tired and slow down your thinking speed.\n\nFinally, learning new skills keeps the brain active. Whether it's playing a musical instrument or speaking a new language, challenging your brain helps create new connections between brain cells.\n\nIn short, keeping your brain healthy is not as difficult as you might think. Start with these simple habits, and you will see the difference."
+      "group_passage": "Many teenagers love staying up late to play games or chat with friends online. However, scientists have found that lack of sleep can seriously affect teenagers' health and study performance.\n\nAccording to a recent study, teenagers need about 8-10 hours of sleep each night. During sleep, the brain processes information learned during the day and stores it in memory. Without enough sleep, students may find it hard to concentrate in class and remember new knowledge.\n\nMoreover, sleep deprivation can lead to mood problems. Teenagers who don't sleep well are more likely to feel stressed and anxious. Some may even gain weight because tiredness affects the hormones (荷尔蒙) that control hunger.\n\nDr. Li, a sleep expert, suggests that teenagers should develop good sleeping habits. \"Try to go to bed before 10:30 pm and avoid using electronic devices one hour before sleep,\" he says. \"A good night's sleep is the best preparation for the next day.\""
     },
     {
       "id": 15,
       "type": "reading",
-      "knowledge_point": "word_guessing_context",
+      "knowledge_point": "word_guessing",
       "difficulty": 2,
-      "stem": "The underlined word \"crucial\" in Paragraph 2 probably means ______.",
+      "stem": "The underlined word \"deprivation\" in Paragraph 3 probably means ________.",
       "options": [
-        "A. difficult",
-        "B. important",
-        "C. boring",
-        "D. dangerous"
+        "A. having enough",
+        "B. lacking",
+        "C. enjoying",
+        "D. wasting"
       ],
       "correct_answer": "B",
-      "explanation": "词义猜测题。根据上下文，第二段讲睡眠对大脑健康的作用，'During sleep, the brain removes waste chemicals...'（睡眠期间大脑清除废物），且下文说'Without enough rest, it becomes hard to concentrate'（没有足够休息很难集中注意力），说明睡眠很'重要'。crucial意为'至关重要的'，与important同义。difficult（困难的）、boring（无聊的）、dangerous（危险的）都不符合语境。",
+      "explanation": "这道题考查词义猜测。根据上下文，第三段开头\"Moreover\"表示递进，承接第二段讨论的睡眠不足问题，且后文\"Teenagers who don't sleep well\"进一步解释了sleep deprivation指的是睡眠不足，因此deprivation意为\"缺乏\"（lacking）。A选项（拥有足够）和C选项（享受）与文意相反；D选项（浪费）不符合语境。词义猜测题技巧：利用上下文线索（同义、反义、解释、举例）推断词义，关注连接词如moreover, however等。",
       "label": "阅读-词义猜测",
       "group": "reading_1",
-      "group_passage": "Do you know how to keep your brain healthy? Many people think that doing math problems is the only way to exercise the brain. However, scientists have found that daily habits play a more important role.\n\nFirst, getting enough sleep is crucial. During sleep, the brain removes waste chemicals (chemicals 化学物质) that build up during the day. Teenagers need at least 8 hours of sleep every night. Without enough rest, it becomes hard to concentrate (concentrate 集中注意力) on studies.\n\nSecond, physical exercise benefits the brain too. When you run or play ball games, your heart pumps more blood to the brain. This helps improve memory and learning ability. A study shows that students who exercise regularly often get better grades than those who don't.\n\nThird, eating the right food matters. Fish, nuts and fruits contain nutrients (nutrients 营养) that are good for brain development. On the other hand, too much sugar and junk food can make you feel tired and slow down your thinking speed.\n\nFinally, learning new skills keeps the brain active. Whether it's playing a musical instrument or speaking a new language, challenging your brain helps create new connections between brain cells.\n\nIn short, keeping your brain healthy is not as difficult as you might think. Start with these simple habits, and you will see the difference."
+      "group_passage": "Many teenagers love staying up late to play games or chat with friends online. However, scientists have found that lack of sleep can seriously affect teenagers' health and study performance.\n\nAccording to a recent study, teenagers need about 8-10 hours of sleep each night. During sleep, the brain processes information learned during the day and stores it in memory. Without enough sleep, students may find it hard to concentrate in class and remember new knowledge.\n\nMoreover, sleep deprivation can lead to mood problems. Teenagers who don't sleep well are more likely to feel stressed and anxious. Some may even gain weight because tiredness affects the hormones (荷尔蒙) that control hunger.\n\nDr. Li, a sleep expert, suggests that teenagers should develop good sleeping habits. \"Try to go to bed before 10:30 pm and avoid using electronic devices one hour before sleep,\" he says. \"A good night's sleep is the best preparation for the next day.\""
     },
     {
       "id": 16,
       "type": "reading",
-      "knowledge_point": "main_idea_title",
+      "knowledge_point": "main_idea",
       "difficulty": 3,
-      "stem": "What is the best title for this passage?",
+      "stem": "What is the best title for the passage?",
       "options": [
-        "A. The Importance of Math Problems",
-        "B. How to Sleep Well Every Night",
-        "C. Ways to Keep Your Brain Healthy",
-        "D. Why Exercise is Good for You"
+        "A. How to Play Games Healthily",
+        "B. The Importance of Sleep for Teenagers",
+        "C. Why Teenagers Feel Stressed",
+        "D. Electronic Devices and Study"
       ],
-      "correct_answer": "C",
-      "explanation": "主旨大意题。文章首句'Do you know how to keep your brain healthy?'（你知道如何保持大脑健康吗？）点明主题，接下来从睡眠、运动、饮食、学习新技能四个方面介绍保持大脑健康的方法，最后总结。因此C选项'保持大脑健康的方法'最能概括全文。A选项只是第一段提到的错误观点；B、D选项只是文章的局部信息，不能概括全文。做主旨题要关注首段和尾段，寻找主题句。",
+      "correct_answer": "B",
+      "explanation": "这道题考查主旨大意/最佳标题。文章第一段提出睡眠不足影响青少年健康和学习，第二段说明青少年需要多少睡眠及睡眠的作用，第三段讲睡眠不足的后果，第四段给出建议。全文围绕青少年睡眠的重要性展开，因此B选项最贴切。A选项只涉及第一段提到的玩游戏，过于片面；C选项只是睡眠不足的一个后果，不能概括全文；D选项只在最后提到，不是主要内容。主旨题技巧：寻找主题句（通常在首尾段），概括各段大意，选择能覆盖全文内容的选项，避免以偏概全。",
       "label": "阅读-主旨大意",
       "group": "reading_1",
-      "group_passage": "Do you know how to keep your brain healthy? Many people think that doing math problems is the only way to exercise the brain. However, scientists have found that daily habits play a more important role.\n\nFirst, getting enough sleep is crucial. During sleep, the brain removes waste chemicals (chemicals 化学物质) that build up during the day. Teenagers need at least 8 hours of sleep every night. Without enough rest, it becomes hard to concentrate (concentrate 集中注意力) on studies.\n\nSecond, physical exercise benefits the brain too. When you run or play ball games, your heart pumps more blood to the brain. This helps improve memory and learning ability. A study shows that students who exercise regularly often get better grades than those who don't.\n\nThird, eating the right food matters. Fish, nuts and fruits contain nutrients (nutrients 营养) that are good for brain development. On the other hand, too much sugar and junk food can make you feel tired and slow down your thinking speed.\n\nFinally, learning new skills keeps the brain active. Whether it's playing a musical instrument or speaking a new language, challenging your brain helps create new connections between brain cells.\n\nIn short, keeping your brain healthy is not as difficult as you might think. Start with these simple habits, and you will see the difference."
+      "group_passage": "Many teenagers love staying up late to play games or chat with friends online. However, scientists have found that lack of sleep can seriously affect teenagers' health and study performance.\n\nAccording to a recent study, teenagers need about 8-10 hours of sleep each night. During sleep, the brain processes information learned during the day and stores it in memory. Without enough sleep, students may find it hard to concentrate in class and remember new knowledge.\n\nMoreover, sleep deprivation can lead to mood problems. Teenagers who don't sleep well are more likely to feel stressed and anxious. Some may even gain weight because tiredness affects the hormones (荷尔蒙) that control hunger.\n\nDr. Li, a sleep expert, suggests that teenagers should develop good sleeping habits. \"Try to go to bed before 10:30 pm and avoid using electronic devices one hour before sleep,\" he says. \"A good night's sleep is the best preparation for the next day.\""
     },
     {
       "id": 17,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "stem": "(17)______",
+      "stem": "(17)___",
       "options": [
-        "A. However, things changed when our new teacher Mr. Li arrived.",
-        "B. As a result, we became more confident in speaking English.",
-        "C. In addition, he often organized English corner activities after school.",
-        "D. Before that, I was afraid to speak English in public.",
-        "E. On the other hand, some students still preferred traditional methods."
+        "A. However, with the right methods, you can handle it well.",
+        "B. Then, you will have enough time to review your lessons.",
+        "C. For example, playing sports for 30 minutes every day can help you relax.",
+        "D. If you have problems, talk to your teachers or parents.",
+        "E. In addition, you should buy many reference books."
       ],
-      "correct_answer": "D",
-      "explanation": "根据上文'我过去讨厌英语课，课程很无聊'和下文'每次老师提问，我都会低下头保持沉默'，可知此处描述过去的负面状态。D选项'在那之前，我害怕在公众场合说英语'承接上文，引出下文保持沉默的具体表现，逻辑连贯。",
+      "correct_answer": "A",
+      "explanation": "这道题考查段落衔接与逻辑关系。上文提到\"Many students find it hard to adapt...The subjects become more difficult\"（很多学生觉得适应初中很难，科目变难），下文紧接着\"Here are some useful tips\"（这里有一些有用的建议），因此中间需要过渡句承上启下，A选项\"然而，用正确的方法，你能处理好\"既承认困难又引出解决办法，符合逻辑。B、C、D都是具体建议，应在引出建议之后出现；E选项与文意不符。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "I used to hate English classes. The lessons were boring, and I always felt sleepy. (17)______ Every time the teacher asked questions, I would lower my head and keep silent.\n\n(18)______ He made his classes lively and interesting by using games and songs. We started to enjoy learning English. (19)______ We could practice speaking with classmates and even foreign teachers there. Little by little, I found myself looking forward to English classes. (20)______ Now I dare to answer questions loudly and even give speeches in front of the whole school."
+      "group_passage": "Many students find it hard to adapt to junior high school. The subjects become more difficult and there are more exams. (17)___ Here are some useful tips.\n\nFirst, make a study plan. Write down what you need to do every day and follow the schedule. (18)___ You won't feel stressed when exams come.\n\nSecond, don't be afraid to ask for help. (19)___ They have more experience and can give you valuable advice.\n\nFinally, keep a balance between study and rest. (20)___ Remember, a healthy body supports a healthy mind."
     },
     {
       "id": 18,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "stem": "(18)______",
+      "stem": "(18)___",
       "options": [
-        "A. However, things changed when our new teacher Mr. Li arrived.",
-        "B. As a result, we became more confident in speaking English.",
-        "C. In addition, he often organized English corner activities after school.",
-        "D. Before that, I was afraid to speak English in public.",
-        "E. On the other hand, some students still preferred traditional methods."
+        "A. However, with the right methods, you can handle it well.",
+        "B. Then, you will have enough time to review your lessons.",
+        "C. For example, playing sports for 30 minutes every day can help you relax.",
+        "D. If you have problems, talk to your teachers or parents.",
+        "E. In addition, you should buy many reference books."
       ],
-      "correct_answer": "A",
-      "explanation": "前文描述过去讨厌英语课的状态，后文讲'他通过游戏和歌曲让课堂生动有趣'，前后是转折关系，且引出新人物Mr. Li。A选项'然而，当我们的新老师李老师到来时，事情改变了'起到承上启下的转折作用，符合语境。",
+      "correct_answer": "B",
+      "explanation": "这道题考查因果逻辑与衔接。上文讲制定学习计划并遵循，下文讲考试来临时不会感到压力，因此中间需要说明制定计划的好处/结果。B选项\"这样你就有足够的时间复习功课\"承接上文的制定计划，引出下文的考试不紧张，形成\"计划→有时间复习→考试不紧张\"的逻辑链。A是过渡句已用过；C是具体例子；D是求助建议；E不符合语境。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "I used to hate English classes. The lessons were boring, and I always felt sleepy. (17)______ Every time the teacher asked questions, I would lower my head and keep silent.\n\n(18)______ He made his classes lively and interesting by using games and songs. We started to enjoy learning English. (19)______ We could practice speaking with classmates and even foreign teachers there. Little by little, I found myself looking forward to English classes. (20)______ Now I dare to answer questions loudly and even give speeches in front of the whole school."
+      "group_passage": "Many students find it hard to adapt to junior high school. The subjects become more difficult and there are more exams. (17)___ Here are some useful tips.\n\nFirst, make a study plan. Write down what you need to do every day and follow the schedule. (18)___ You won't feel stressed when exams come.\n\nSecond, don't be afraid to ask for help. (19)___ They have more experience and can give you valuable advice.\n\nFinally, keep a balance between study and rest. (20)___ Remember, a healthy body supports a healthy mind."
     },
     {
       "id": 19,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "stem": "(19)______",
+      "stem": "(19)___",
       "options": [
-        "A. However, things changed when our new teacher Mr. Li arrived.",
-        "B. As a result, we became more confident in speaking English.",
-        "C. In addition, he often organized English corner activities after school.",
-        "D. Before that, I was afraid to speak English in public.",
-        "E. On the other hand, some students still preferred traditional methods."
+        "A. However, with the right methods, you can handle it well.",
+        "B. Then, you will have enough time to review your lessons.",
+        "C. For example, playing sports for 30 minutes every day can help you relax.",
+        "D. If you have problems, talk to your teachers or parents.",
+        "E. In addition, you should buy many reference books."
       ],
-      "correct_answer": "C",
-      "explanation": "根据下文'我们可以在那里和同学甚至外教练习口语'，可知此处应提到一个可以练习口语的场合。C选项'此外，他经常放学后组织英语角活动'中的English corner（英语角）正是练习口语的场所，there指代English corner，逻辑通顺。In addition表示递进，补充说明李老师的另一个举措。",
+      "correct_answer": "D",
+      "explanation": "这道题考查指代衔接。下文\"They have more experience\"中的They指代前文提到的人，D选项中的\"teachers or parents\"正是经验丰富的人，形成完美衔接。A、B已用过；C是举例，但下文They指代不明；E与下文衔接不当。解题技巧：关注下文的代词指代（如they, it, this等），前文必须有对应的指代对象。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "I used to hate English classes. The lessons were boring, and I always felt sleepy. (17)______ Every time the teacher asked questions, I would lower my head and keep silent.\n\n(18)______ He made his classes lively and interesting by using games and songs. We started to enjoy learning English. (19)______ We could practice speaking with classmates and even foreign teachers there. Little by little, I found myself looking forward to English classes. (20)______ Now I dare to answer questions loudly and even give speeches in front of the whole school."
+      "group_passage": "Many students find it hard to adapt to junior high school. The subjects become more difficult and there are more exams. (17)___ Here are some useful tips.\n\nFirst, make a study plan. Write down what you need to do every day and follow the schedule. (18)___ You won't feel stressed when exams come.\n\nSecond, don't be afraid to ask for help. (19)___ They have more experience and can give you valuable advice.\n\nFinally, keep a balance between study and rest. (20)___ Remember, a healthy body supports a healthy mind."
     },
     {
       "id": 20,
       "type": "fill",
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
-      "stem": "(20)______",
+      "stem": "(20)___",
       "options": [
-        "A. However, things changed when our new teacher Mr. Li arrived.",
-        "B. As a result, we became more confident in speaking English.",
-        "C. In addition, he often organized English corner activities after school.",
-        "D. Before that, I was afraid to speak English in public.",
-        "E. On the other hand, some students still preferred traditional methods."
+        "A. However, with the right methods, you can handle it well.",
+        "B. Then, you will have enough time to review your lessons.",
+        "C. For example, playing sports for 30 minutes every day can help you relax.",
+        "D. If you have problems, talk to your teachers or parents.",
+        "E. In addition, you should buy many reference books."
       ],
-      "correct_answer": "B",
-      "explanation": "根据前文'渐渐地，我发现自己开始期待英语课'和后文'现在我敢大声回答问题，甚至能在全校面前演讲'，可知此处表示结果。B选项'结果，我们在说英语方面变得更自信了'承上启下，说明前面的改变带来的结果，引出后文现在敢于表现的具体事例。As a result表示因果关系。",
+      "correct_answer": "C",
+      "explanation": "这道题考查举例衔接。上文讲\"保持学习与休息的平衡\"，下文讲\"健康的身体支撑健康的头脑\"，因此中间需要具体说明如何休息或保持健康。C选项\"例如，每天运动30分钟可以帮助你放松\"是对\"rest\"的具体举例，符合逻辑。A、B、D已用；E与休息主题无关。解题技巧：看到\"For example\"等举例信号词时，上文通常是概括性陈述。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "I used to hate English classes. The lessons were boring, and I always felt sleepy. (17)______ Every time the teacher asked questions, I would lower my head and keep silent.\n\n(18)______ He made his classes lively and interesting by using games and songs. We started to enjoy learning English. (19)______ We could practice speaking with classmates and even foreign teachers there. Little by little, I found myself looking forward to English classes. (20)______ Now I dare to answer questions loudly and even give speeches in front of the whole school."
+      "group_passage": "Many students find it hard to adapt to junior high school. The subjects become more difficult and there are more exams. (17)___ Here are some useful tips.\n\nFirst, make a study plan. Write down what you need to do every day and follow the schedule. (18)___ You won't feel stressed when exams come.\n\nSecond, don't be afraid to ask for help. (19)___ They have more experience and can give you valuable advice.\n\nFinally, keep a balance between study and rest. (20)___ Remember, a healthy body supports a healthy mind."
     }
   ]
 }
