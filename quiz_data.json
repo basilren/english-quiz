@@ -1,53 +1,53 @@
 ﻿{
-  "date": "2026-08-18",
+  "date": "2026-08-19",
   "session_number": 1,
   "questions": [
     {
       "id": 1,
       "type": "grammar",
-      "knowledge_point": "present_perfect_vs_past_simple",
-      "difficulty": 2,
-      "stem": "—_____ you ever _____ to the Shenzhen Science Museum?\n—Yes, I _____. I _____ there with my classmates last weekend.",
+      "knowledge_point": "passive_voice",
+      "difficulty": 1,
+      "stem": "The books ______ to the library every Monday.",
       "options": [
-        "A. Did; go; did; went",
-        "B. Have; been; have; went",
-        "C. Have; gone; have; have been",
-        "D. Do; go; do; went"
+        "A. return",
+        "B. are returned",
+        "C. returned",
+        "D. are returning"
       ],
       "correct_answer": "B",
-      "explanation": "选B。第一空根据ever可知用现在完成时have been to（表示去过已回）；回答也用现在完成时have；最后一空有last weekend明确过去时间状语，用一般过去时went。A选项第一空用Did则ever位置不对且语义不符；C选项have gone to表示去了未回，与回答矛盾；D选项时态全错。",
+      "explanation": "本题考查一般现在时的被动语态。主语The books与动词return之间是被动关系（书被归还），且时间状语every Monday表示经常性动作，应用一般现在时的被动语态am/is/are + 过去分词。主语是复数，所以用are returned。A是主动语态原形；C是过去式或过去分词，缺少be动词；D是现在进行时的主动语态。",
       "label": "语法题"
     },
     {
       "id": 2,
       "type": "grammar",
-      "knowledge_point": "relative_clause_who_which",
+      "knowledge_point": "present_perfect_vs_past_simple",
       "difficulty": 2,
-      "stem": "The boy _____ is playing basketball over there is the monitor of Class 3. The book _____ he is reading is about environmental protection.",
+      "stem": "—______ you ever ______ to the Science Museum? —Yes, I ______ there last weekend.",
       "options": [
-        "A. which; who",
-        "B. who; which",
-        "C. that; who",
-        "D. who; that"
+        "A. Did; go; went",
+        "B. Have; been; went",
+        "C. Have; gone; have been",
+        "D. Do; go; went"
       ],
       "correct_answer": "B",
-      "explanation": "选B。第一空先行词the boy指人，关系代词用who；第二空先行词the book指物，关系代词用which。口诀：人用who物用which，that通用不挑剔。A选项两空反了；C选项第一空可用that但第二空指物不能用who；D选项第二空that虽然可用，但选项B更符合'人用who物用which'的规范教学。",
+      "explanation": "本题考查现在完成时与一般过去时的区别。第一句中有ever，询问\"曾经是否去过\"，用have been to表示\"去过某地（已回）\"；第二句中有明确的过去时间状语last weekend，需用一般过去时went。A选项第一空用了Did，但ever通常与现在完成时连用；C选项have gone to表示\"去了某地（未回）\"，与答句矛盾；D选项时态均不正确。",
       "label": "语法题"
     },
     {
       "id": 3,
       "type": "grammar",
-      "knowledge_point": "passive_voice",
-      "difficulty": 1,
-      "stem": "Many old buildings in Shenzhen _____ down last year to make room for new schools.",
+      "knowledge_point": "relative_clause_who_which",
+      "difficulty": 2,
+      "stem": "The story ______ is written by a 14-year-old student is very popular in our school.",
       "options": [
-        "A. were pulled",
-        "B. pulled",
-        "C. are pulled",
-        "D. pull"
+        "A. who",
+        "B. which",
+        "C. whom",
+        "D. whose"
       ],
-      "correct_answer": "A",
-      "explanation": "选A。主语buildings与pull down是被动关系（被拆除），时间状语last year表明用一般过去时的被动语态were pulled。B选项是主动语态；C选项是一般现在时被动，时态不符；D选项主动且时态错误。被动语态结构：be + done，注意时态变化。",
+      "correct_answer": "B",
+      "explanation": "本题考查定语从句的关系代词。先行词是The story（物），在定语从句中作主语，应用which或that引导。A选项who用于指人；C选项whom用于指人且作宾语；D选项whose表示\"...的\"，在从句中作定语。解题技巧：指人用who/whom/that，指物用which/that， whose可指人也可指物。",
       "label": "语法题"
     },
     {
@@ -55,15 +55,15 @@
       "type": "grammar",
       "knowledge_point": "object_clause",
       "difficulty": 3,
-      "stem": "—Could you tell me _____?\n—Sure. He will come back as soon as he finishes his work in Guangzhou.",
+      "stem": "—Could you tell me ______? —Sure. Next Friday afternoon.",
       "options": [
-        "A. when will your father come back",
-        "B. when your father will come back",
-        "C. when your father came back",
-        "D. when did your father come back"
+        "A. when we will have the English exam",
+        "B. when will we have the English exam",
+        "C. when do we have the English exam",
+        "D. when we have the English exam"
       ],
-      "correct_answer": "B",
-      "explanation": "选B。宾语从句必须用陈述语序（主语+谓语），排除A和D；根据答句He will come back可知用一般将来时，排除C（过去时）。宾语从句三注意：时态呼应、陈述语序、连接词选择。本题考查语序和时态，难度较大。",
+      "correct_answer": "A",
+      "explanation": "本题考查宾语从句的语序和时态。宾语从句必须用陈述语序（主语+谓语），排除B和C；根据答句Next Friday afternoon（下周五下午），可知应用一般将来时will have，而D选项是一般现在时。解题技巧：宾语从句三要素——陈述语序、时态呼应、连接词选择。",
       "label": "语法题"
     },
     {
@@ -71,15 +71,15 @@
       "type": "vocabulary",
       "knowledge_point": "word_meaning",
       "difficulty": 1,
-      "stem": "—How do you usually _____ your weekends?\n—I usually stay at home and read books. Sometimes I play basketball with friends.",
+      "stem": "I'm very ______ to hear that you passed the driving test.",
       "options": [
-        "A. take",
-        "B. cost",
-        "C. spend",
-        "D. pay"
+        "A. surprise",
+        "B. surprised",
+        "C. surprising",
+        "D. surprises"
       ],
-      "correct_answer": "C",
-      "explanation": "选C。spend time表示'度过时间'，主语是人。take通常用it takes sb time to do sth；cost主语是物，指花费金钱；pay通常与for搭配指付款。固定搭配：spend weekends/holidays表示'过周末/假期'。",
+      "correct_answer": "B",
+      "explanation": "本题考查形容词辨析。主语是人（I），表示\"感到惊讶的\"，用surprised；surprising表示\"令人惊讶的\"，通常修饰物。A是名词或动词原形；D是第三人称单数形式。固定搭配：be surprised to do sth. 惊讶地做某事。",
       "label": "词汇题"
     },
     {
@@ -87,15 +87,15 @@
       "type": "vocabulary",
       "knowledge_point": "prefix_suffix",
       "difficulty": 2,
-      "stem": "It is _____ (possible) for humans to live on Mars without special equipment because there is no air there.",
+      "stem": "The ______ news made everyone cry at the party.",
       "options": [
-        "A. impossibly",
-        "B. impossible",
-        "C. possible",
-        "D. possibility"
+        "A. happy",
+        "B. unhappy",
+        "C. happily",
+        "D. unhappily"
       ],
       "correct_answer": "B",
-      "explanation": "选B。根据句意'没有特殊装备人类在火星生活是不可能的'，需要形容词impossible（不可能的）。前缀im-表示否定，接在p开头形容词前。A是副词；C意思相反；D是名词。结构：It is + adj. + for sb to do sth。",
+      "explanation": "本题考查前缀un-和词性转换。空格修饰名词news，需用形容词，排除C和D（副词）；根据句意\"让大家哭泣\"，可知是\"不愉快的消息\"，unhappy（不愉快的）符合语境。A选项happy（愉快的）与句意矛盾。技巧：un-是常见否定前缀，加在形容词前构成反义词。",
       "label": "词汇题"
     },
     {
@@ -103,15 +103,15 @@
       "type": "vocabulary",
       "knowledge_point": "phrasal_verbs",
       "difficulty": 2,
-      "stem": "We should _____ the lights when we leave the classroom to save electricity.",
+      "stem": "We need to ______ the pollution problem before it's too late.",
       "options": [
-        "A. turn on",
-        "B. turn off",
-        "C. turn up",
-        "D. turn down"
+        "A. look after",
+        "B. deal with",
+        "C. take off",
+        "D. put away"
       ],
       "correct_answer": "B",
-      "explanation": "选B。turn off表示'关闭'，符合句意'离开教室关灯省电'。turn on打开；turn up调大（音量）；turn down调小/拒绝。动词短语辨析要结合语境，save electricity提示是'关'灯。",
+      "explanation": "本题考查短语动词辨析。deal with表示\"处理、对付\"，与problem搭配合理；look after照顾；take off起飞/脱下；put away收起来。根据句意\"处理污染问题\"，选B。技巧：积累常见短语动词，注意与宾语的搭配。",
       "label": "词汇题"
     },
     {
@@ -120,52 +120,52 @@
       "knowledge_point": "cloze_general",
       "difficulty": 2,
       "group": "cloze_1",
-      "group_passage": "Last month, our school started a Green Campus Project. The aim was to help students understand the importance of protecting the environment in daily life. All the students were encouraged to take part in different activities.\n\nFirst, we set up recycling boxes in every classroom. We collected waste paper, plastic bottles and old books. At first, some students thought it was troublesome (麻烦的) to separate the rubbish. But when they learned that these materials could be reused to make new products, they became more active. Every Friday afternoon, volunteers would carry the recyclable items to a local recycling center.\n\nBesides recycling, we also worked on saving energy. We made sure to turn off the lights and computers before leaving the classrooms. The teachers told us that even small actions could make a big difference to our planet. By the end of the month, we found that our school had saved about 20% more electricity than before.\n\nThrough this project, we not only learned practical skills but also realized that everyone can contribute to environmental protection. It was a meaningful experience for all of us.",
-      "stem": "(8)___",
+      "group_passage": "Last month, our school started a new project called \"Green Campus\". The goal was to help students understand the importance of protecting the environment. Every class was asked to collect plastic bottles for recycling. At first, many students thought it was (8)______ to carry bottles to school every day. However, as time went by, they realized how much waste they could save. My class decided to do something different. We (9)______ to make art works from the collected bottles. Our teacher, Mr. Zhang, was very (10)______ about our idea. He said it was a creative way to reuse waste. We spent two weeks working on our project. Some students cut the bottles into different shapes, while others painted them colorful. Finally, we made a beautiful tree sculpture. It (11)______ in the school hall now. Every time I see it, I feel proud of what we have done. This project has taught us that small actions can make a big (12)______. If everyone tries to protect the environment, our world will become a better place to live.",
+      "stem": "(8)______",
       "options": [
-        "A. classes",
-        "B. activities",
-        "C. meetings",
-        "D. exams"
+        "A. boring",
+        "B. interesting",
+        "C. easy",
+        "D. relaxing"
       ],
-      "correct_answer": "B",
-      "explanation": "选B。根据上文'参加不同的...'以及下文提到的recycling boxes, saving energy等具体活动，可知此处指activities（活动）。classes班级/课程；meetings会议；exams考试，均不符合上下文语境。完形填空要注意词汇复现和上下文逻辑。",
+      "correct_answer": "A",
+      "explanation": "本题考查语境推理。根据下文However（然而）表示转折，以及\"他们意识到能节省多少浪费\"，可推断起初学生觉得每天带瓶子很\"无聊/烦人\"，boring符合语境。B、C、D都是积极词汇，与However后的转变逻辑不符。",
       "label": "完形填空"
     },
     {
       "id": 9,
       "type": "cloze",
       "knowledge_point": "cloze_general",
-      "difficulty": 2,
+      "difficulty": 1,
       "group": "cloze_1",
-      "group_passage": "Last month, our school started a Green Campus Project. The aim was to help students understand the importance of protecting the environment in daily life. All the students were encouraged to take part in different activities.\n\nFirst, we set up recycling boxes in every classroom. We collected waste paper, plastic bottles and old books. At first, some students thought it was troublesome (麻烦的) to separate the rubbish. But when they learned that these materials could be reused to make new products, they became more active. Every Friday afternoon, volunteers would carry the recyclable items to a local recycling center.\n\nBesides recycling, we also worked on saving energy. We made sure to turn off the lights and computers before leaving the classrooms. The teachers told us that even small actions could make a big difference to our planet. By the end of the month, we found that our school had saved about 20% more electricity than before.\n\nThrough this project, we not only learned practical skills but also realized that everyone can contribute to environmental protection. It was a meaningful experience for all of us.",
-      "stem": "(9)___",
+      "group_passage": "Last month, our school started a new project called \"Green Campus\". The goal was to help students understand the importance of protecting the environment. Every class was asked to collect plastic bottles for recycling. At first, many students thought it was (8)______ to carry bottles to school every day. However, as time went by, they realized how much waste they could save. My class decided to do something different. We (9)______ to make art works from the collected bottles. Our teacher, Mr. Zhang, was very (10)______ about our idea. He said it was a creative way to reuse waste. We spent two weeks working on our project. Some students cut the bottles into different shapes, while others painted them colorful. Finally, we made a beautiful tree sculpture. It (11)______ in the school hall now. Every time I see it, I feel proud of what we have done. This project has taught us that small actions can make a big (12)______. If everyone tries to protect the environment, our world will become a better place to live.",
+      "stem": "(9)______",
       "options": [
-        "A. boring",
-        "B. difficult",
-        "C. troublesome",
-        "D. interesting"
+        "A. wanted",
+        "B. decided",
+        "C. hoped",
+        "D. agreed"
       ],
-      "correct_answer": "C",
-      "explanation": "选C。上文已给出中文注释troublesome（麻烦的），且与下文But转折后'变得更积极'形成对比，说明起初觉得麻烦。boring无聊的；difficult困难的；interesting有趣的，均不如troublesome准确对应后文的转折逻辑。",
+      "correct_answer": "B",
+      "explanation": "本题考查固定搭配。decide to do sth. 表示\"决定做某事\"，符合语境\"我们决定用收集的瓶子制作艺术品\"。want后接不定式通常说want to do，但语气较弱；hope表示希望，不一定实现；agree后常接with sb.或to sth.，不接不定式。",
       "label": "完形填空"
     },
     {
       "id": 10,
       "type": "cloze",
       "knowledge_point": "cloze_general",
-      "difficulty": 1,
+      "difficulty": 2,
       "group": "cloze_1",
-      "group_passage": "Last month, our school started a Green Campus Project. The aim was to help students understand the importance of protecting the environment in daily life. All the students were encouraged to take part in different activities.\n\nFirst, we set up recycling boxes in every classroom. We collected waste paper, plastic bottles and old books. At first, some students thought it was troublesome (麻烦的) to separate the rubbish. But when they learned that these materials could be reused to make new products, they became more active. Every Friday afternoon, volunteers would carry the recyclable items to a local recycling center.\n\nBesides recycling, we also worked on saving energy. We made sure to turn off the lights and computers before leaving the classrooms. The teachers told us that even small actions could make a big difference to our planet. By the end of the month, we found that our school had saved about 20% more electricity than before.\n\nThrough this project, we not only learned practical skills but also realized that everyone can contribute to environmental protection. It was a meaningful experience for all of us.",
-      "stem": "(10)___",
+      "group_passage": "Last month, our school started a new project called \"Green Campus\". The goal was to help students understand the importance of protecting the environment. Every class was asked to collect plastic bottles for recycling. At first, many students thought it was (8)______ to carry bottles to school every day. However, as time went by, they realized how much waste they could save. My class decided to do something different. We (9)______ to make art works from the collected bottles. Our teacher, Mr. Zhang, was very (10)______ about our idea. He said it was a creative way to reuse waste. We spent two weeks working on our project. Some students cut the bottles into different shapes, while others painted them colorful. Finally, we made a beautiful tree sculpture. It (11)______ in the school hall now. Every time I see it, I feel proud of what we have done. This project has taught us that small actions can make a big (12)______. If everyone tries to protect the environment, our world will become a better place to live.",
+      "stem": "(10)______",
       "options": [
-        "A. sell",
-        "B. throw",
-        "C. carry",
-        "D. hide"
+        "A. worried",
+        "B. angry",
+        "C. excited",
+        "D. sad"
       ],
       "correct_answer": "C",
-      "explanation": "选C。carry...to...表示'搬运到...'，符合句意'志愿者把可回收物品搬到回收中心'。sell卖；throw扔；hide藏，均不符合环保项目的语境。固定搭配carry sth to somewhere。",
+      "explanation": "本题考查情感线索。根据下文\"他说这是一种创造性的废物利用方式\"，可知老师对这个想法感到\"兴奋/激动\"，excited符合语境。A（担心的）、B（生气的）、D（难过的）均为负面情绪，与后文评价矛盾。",
       "label": "完形填空"
     },
     {
@@ -174,16 +174,16 @@
       "knowledge_point": "cloze_general",
       "difficulty": 2,
       "group": "cloze_1",
-      "group_passage": "Last month, our school started a Green Campus Project. The aim was to help students understand the importance of protecting the environment in daily life. All the students were encouraged to take part in different activities.\n\nFirst, we set up recycling boxes in every classroom. We collected waste paper, plastic bottles and old books. At first, some students thought it was troublesome (麻烦的) to separate the rubbish. But when they learned that these materials could be reused to make new products, they became more active. Every Friday afternoon, volunteers would carry the recyclable items to a local recycling center.\n\nBesides recycling, we also worked on saving energy. We made sure to turn off the lights and computers before leaving the classrooms. The teachers told us that even small actions could make a big difference to our planet. By the end of the month, we found that our school had saved about 20% more electricity than before.\n\nThrough this project, we not only learned practical skills but also realized that everyone can contribute to environmental protection. It was a meaningful experience for all of us.",
-      "stem": "(11)___",
+      "group_passage": "Last month, our school started a new project called \"Green Campus\". The goal was to help students understand the importance of protecting the environment. Every class was asked to collect plastic bottles for recycling. At first, many students thought it was (8)______ to carry bottles to school every day. However, as time went by, they realized how much waste they could save. My class decided to do something different. We (9)______ to make art works from the collected bottles. Our teacher, Mr. Zhang, was very (10)______ about our idea. He said it was a creative way to reuse waste. We spent two weeks working on our project. Some students cut the bottles into different shapes, while others painted them colorful. Finally, we made a beautiful tree sculpture. It (11)______ in the school hall now. Every time I see it, I feel proud of what we have done. This project has taught us that small actions can make a big (12)______. If everyone tries to protect the environment, our world will become a better place to live.",
+      "stem": "(11)______",
       "options": [
-        "A. turn on",
-        "B. turn off",
-        "C. turn up",
-        "D. turn down"
+        "A. stands",
+        "B. stood",
+        "C. has stood",
+        "D. is standing"
       ],
-      "correct_answer": "B",
-      "explanation": "选B。根据saving energy（节能）和before leaving（离开前），可知要'关闭'灯和电脑。turn off关闭；turn on打开；turn up调大；turn down调小。环保主题中leave对应的是turn off。",
+      "correct_answer": "A",
+      "explanation": "本题考查时态。句末有now，但此处表示客观状态\"它现在陈列在学校大厅\"，用一般现在时stands表示状态即可。D选项is standing强调动作正在进行， sculptures（雕塑）通常不用进行时表状态；B是过去式；C是现在完成时，均不符合语境。",
       "label": "完形填空"
     },
     {
@@ -192,16 +192,16 @@
       "knowledge_point": "cloze_general",
       "difficulty": 1,
       "group": "cloze_1",
-      "group_passage": "Last month, our school started a Green Campus Project. The aim was to help students understand the importance of protecting the environment in daily life. All the students were encouraged to take part in different activities.\n\nFirst, we set up recycling boxes in every classroom. We collected waste paper, plastic bottles and old books. At first, some students thought it was troublesome (麻烦的) to separate the rubbish. But when they learned that these materials could be reused to make new products, they became more active. Every Friday afternoon, volunteers would carry the recyclable items to a local recycling center.\n\nBesides recycling, we also worked on saving energy. We made sure to turn off the lights and computers before leaving the classrooms. The teachers told us that even small actions could make a big difference to our planet. By the end of the month, we found that our school had saved about 20% more electricity than before.\n\nThrough this project, we not only learned practical skills but also realized that everyone can contribute to environmental protection. It was a meaningful experience for all of us.",
-      "stem": "(12)___",
+      "group_passage": "Last month, our school started a new project called \"Green Campus\". The goal was to help students understand the importance of protecting the environment. Every class was asked to collect plastic bottles for recycling. At first, many students thought it was (8)______ to carry bottles to school every day. However, as time went by, they realized how much waste they could save. My class decided to do something different. We (9)______ to make art works from the collected bottles. Our teacher, Mr. Zhang, was very (10)______ about our idea. He said it was a creative way to reuse waste. We spent two weeks working on our project. Some students cut the bottles into different shapes, while others painted them colorful. Finally, we made a beautiful tree sculpture. It (11)______ in the school hall now. Every time I see it, I feel proud of what we have done. This project has taught us that small actions can make a big (12)______. If everyone tries to protect the environment, our world will become a better place to live.",
+      "stem": "(12)______",
       "options": [
-        "A. take",
-        "B. make",
-        "C. get",
-        "D. give"
+        "A. mistake",
+        "B. decision",
+        "C. difference",
+        "D. plan"
       ],
-      "correct_answer": "B",
-      "explanation": "选B。make a difference是固定搭配，表示'有影响/起作用'。句意：即使是小行动也能对地球产生重大影响。take拿；get得到；give给，均不与difference构成此搭配。固定短语make a difference to...对...产生影响。",
+      "correct_answer": "C",
+      "explanation": "本题考查固定搭配。make a difference是固定短语，意为\"有影响、起作用\"，符合句意\"小小的行动能产生很大的影响\"。make a mistake犯错误；make a decision做决定；make a plan制定计划，均不符合语境。",
       "label": "完形填空"
     },
     {
@@ -210,53 +210,53 @@
       "knowledge_point": "detail",
       "difficulty": 2,
       "group": "reading_1",
-      "group_passage": "Do you feel stressed when you have too much homework and no time for your hobbies? Many middle school students in Shenzhen face this problem. However, Li Wei, a 14-year-old student from Futian, has found a good way to balance his study and interests.\n\nLi Wei loves playing the guitar. He practices every day, but he never lets it affect his schoolwork. \"The key is time management,\" he says. \"I make a schedule every Sunday evening for the whole week. I write down all my homework and deadlines first. Then I block out time for guitar practice.\"\n\nHis method works well. Li Wei not only gets good grades but also won the second prize in a city guitar competition last month. He suggests that students should use small pieces of time wisely. \"For example, you can review English words while waiting for the bus, or do some reading before bedtime. This way, you can save big blocks of time for your hobbies.\"\n\nHowever, Li Wei also warns that hobbies should not become another source of stress. \"If you feel too tired, it's okay to skip practice for a day. The most important thing is to enjoy both studying and your hobbies,\" he adds.\n\nMany of his classmates have started to follow his advice. They find that having hobbies actually helps them study better because they feel happier and more relaxed.",
-      "stem": "What does Li Wei do every Sunday evening?",
+      "group_passage": "When Bosco was in Grade 7, he noticed that his school wasted a lot of water in the bathroom. The taps were often left running after students washed their hands. This made him very worried.\n\nWith the help of his science teacher, Bosco started working on a solution. After six months of hard work, he finally invented a smart tap. This special tap can sense when hands are near and automatically turns on the water. When hands move away, it stops immediately.\n\n\"The device is simple but useful,\" says Bosco. \"It can save about 30% of water compared to normal taps.\" Many schools in Shenzhen have shown interest in his invention. Some of them have already started using similar taps in their buildings.\n\nBosco's invention won the first prize in the city science competition last month. When asked about his future plans, he says, \"I want to design more green products to help protect our environment. I believe that technology can make our life better and greener.\"\n\n(Note: \"device\" means 装置; \"automatically\" means 自动地)",
+      "stem": "How long did Bosco spend working on the smart tap?",
       "options": [
-        "A. He plays the guitar for the whole evening.",
-        "B. He makes a plan for the coming week.",
-        "C. He takes part in guitar competitions.",
-        "D. He reviews all his school subjects."
+        "A. Two weeks",
+        "B. Three months",
+        "C. Six months",
+        "D. One year"
       ],
-      "correct_answer": "B",
-      "explanation": "选B。根据文章第二段第三句'I make a schedule every Sunday evening for the whole week'（我每周日晚上制定整周的时间表），schedule与plan同义。A选项弹吉他整晚与原文'never lets it affect schoolwork'矛盾；C选项参加竞赛是偶尔行为；D选项复习所有科目未提及。",
+      "correct_answer": "C",
+      "explanation": "本题为细节理解题。根据文章第二段第二句\"After six months of hard work, he finally invented a smart tap\"可知，Bosco花了六个月时间研发这个智能水龙头。A、B、D选项的时间均与原文不符。解题技巧：细节题要找准关键词（how long对应时间），回原文定位具体信息。",
       "label": "阅读-细节理解"
     },
     {
       "id": 14,
       "type": "reading",
-      "knowledge_point": "word_guessing",
-      "difficulty": 2,
+      "knowledge_point": "inference",
+      "difficulty": 3,
       "group": "reading_1",
-      "group_passage": "Do you feel stressed when you have too much homework and no time for your hobbies? Many middle school students in Shenzhen face this problem. However, Li Wei, a 14-year-old student from Futian, has found a good way to balance his study and interests.\n\nLi Wei loves playing the guitar. He practices every day, but he never lets it affect his schoolwork. \"The key is time management,\" he says. \"I make a schedule every Sunday evening for the whole week. I write down all my homework and deadlines first. Then I block out time for guitar practice.\"\n\nHis method works well. Li Wei not only gets good grades but also won the second prize in a city guitar competition last month. He suggests that students should use small pieces of time wisely. \"For example, you can review English words while waiting for the bus, or do some reading before bedtime. This way, you can save big blocks of time for your hobbies.\"\n\nHowever, Li Wei also warns that hobbies should not become another source of stress. \"If you feel too tired, it's okay to skip practice for a day. The most important thing is to enjoy both studying and your hobbies,\" he adds.\n\nMany of his classmates have started to follow his advice. They find that having hobbies actually helps them study better because they feel happier and more relaxed.",
-      "stem": "What does the underlined word \"deadlines\" in Paragraph 2 probably mean?",
+      "group_passage": "When Bosco was in Grade 7, he noticed that his school wasted a lot of water in the bathroom. The taps were often left running after students washed their hands. This made him very worried.\n\nWith the help of his science teacher, Bosco started working on a solution. After six months of hard work, he finally invented a smart tap. This special tap can sense when hands are near and automatically turns on the water. When hands move away, it stops immediately.\n\n\"The device is simple but useful,\" says Bosco. \"It can save about 30% of water compared to normal taps.\" Many schools in Shenzhen have shown interest in his invention. Some of them have already started using similar taps in their buildings.\n\nBosco's invention won the first prize in the city science competition last month. When asked about his future plans, he says, \"I want to design more green products to help protect our environment. I believe that technology can make our life better and greener.\"\n\n(Note: \"device\" means 装置; \"automatically\" means 自动地)",
+      "stem": "What can we learn from the passage?",
       "options": [
-        "A. 截止日期",
-        "B. 学习内容",
-        "C. 休闲时间",
-        "D. 考试科目"
+        "A. Bosco's invention is too expensive for schools",
+        "B. All schools in Shenzhen use Bosco's taps now",
+        "C. Bosco cares about environmental protection",
+        "D. Bosco won the competition in Grade 7"
       ],
-      "correct_answer": "A",
-      "explanation": "选A。根据上下文，Li Wei先写下所有作业和deadlines，然后安排吉他练习时间。deadlines指'截止日期/最后期限'，与作业提交时间相关。词义猜测题要结合上下文：homework和deadlines并列，且与时间管理相关，提示是时间概念。B、C、D均不符合语境。",
-      "label": "阅读-词义猜测"
+      "correct_answer": "C",
+      "explanation": "本题为推理判断题。从Bosco注意到学校浪费水、发明节水装置、想设计更多绿色产品等信息，可以推断出他关心环境保护，C正确。A选项\"太贵\"文中未提及；B选项\"所有学校都用\"与原文\"many schools... some of them\"不符；D选项\"七年级获奖\"错误，根据last month和When Bosco was in Grade 7（过去时）可知获奖是后来的事。",
+      "label": "阅读-推理判断"
     },
     {
       "id": 15,
       "type": "reading",
-      "knowledge_point": "inference",
-      "difficulty": 3,
+      "knowledge_point": "word_guessing",
+      "difficulty": 2,
       "group": "reading_1",
-      "group_passage": "Do you feel stressed when you have too much homework and no time for your hobbies? Many middle school students in Shenzhen face this problem. However, Li Wei, a 14-year-old student from Futian, has found a good way to balance his study and interests.\n\nLi Wei loves playing the guitar. He practices every day, but he never lets it affect his schoolwork. \"The key is time management,\" he says. \"I make a schedule every Sunday evening for the whole week. I write down all my homework and deadlines first. Then I block out time for guitar practice.\"\n\nHis method works well. Li Wei not only gets good grades but also won the second prize in a city guitar competition last month. He suggests that students should use small pieces of time wisely. \"For example, you can review English words while waiting for the bus, or do some reading before bedtime. This way, you can save big blocks of time for your hobbies.\"\n\nHowever, Li Wei also warns that hobbies should not become another source of stress. \"If you feel too tired, it's okay to skip practice for a day. The most important thing is to enjoy both studying and your hobbies,\" he adds.\n\nMany of his classmates have started to follow his advice. They find that having hobbies actually helps them study better because they feel happier and more relaxed.",
-      "stem": "What can we infer from the passage?",
+      "group_passage": "When Bosco was in Grade 7, he noticed that his school wasted a lot of water in the bathroom. The taps were often left running after students washed their hands. This made him very worried.\n\nWith the help of his science teacher, Bosco started working on a solution. After six months of hard work, he finally invented a smart tap. This special tap can sense when hands are near and automatically turns on the water. When hands move away, it stops immediately.\n\n\"The device is simple but useful,\" says Bosco. \"It can save about 30% of water compared to normal taps.\" Many schools in Shenzhen have shown interest in his invention. Some of them have already started using similar taps in their buildings.\n\nBosco's invention won the first prize in the city science competition last month. When asked about his future plans, he says, \"I want to design more green products to help protect our environment. I believe that technology can make our life better and greener.\"\n\n(Note: \"device\" means 装置; \"automatically\" means 自动地)",
+      "stem": "The underlined word \"solution\" in Paragraph 2 probably means ______.",
       "options": [
-        "A. Li Wei spends more time on guitar than on study.",
-        "B. All students in Li Wei's class have won prizes.",
-        "C. Having proper hobbies may help improve study efficiency.",
-        "D. Li Wei never feels tired because he has good time management."
+        "A. 问题",
+        "B. 解决方案",
+        "C. 实验",
+        "D. 课程"
       ],
-      "correct_answer": "C",
-      "explanation": "选C。根据最后一段'having hobbies actually helps them study better because they feel happier and more relaxed'可推断出，有适当的爱好可能提高学习效率。A与原文'never lets it affect schoolwork'矛盾；B选项all绝对化，且只提到Li Wei获奖；D选项never feels tired与原文'If you feel too tired'矛盾。推理题要注意基于原文合理推断，避免绝对化选项。",
-      "label": "阅读-推理判断"
+      "correct_answer": "B",
+      "explanation": "本题为词义猜测题。根据上下文，第一段提到学校浪费水的问题（problem），第二段说Bosco开始研究solution，结果发明了智能水龙头，可推断solution指\"解决方案\"。A是problem的意思；C、D与语境无关。技巧：通过上下文逻辑关系（问题→解决→结果）猜测词义。",
+      "label": "阅读-词义猜测"
     },
     {
       "id": 16,
@@ -264,16 +264,16 @@
       "knowledge_point": "main_idea",
       "difficulty": 3,
       "group": "reading_1",
-      "group_passage": "Do you feel stressed when you have too much homework and no time for your hobbies? Many middle school students in Shenzhen face this problem. However, Li Wei, a 14-year-old student from Futian, has found a good way to balance his study and interests.\n\nLi Wei loves playing the guitar. He practices every day, but he never lets it affect his schoolwork. \"The key is time management,\" he says. \"I make a schedule every Sunday evening for the whole week. I write down all my homework and deadlines first. Then I block out time for guitar practice.\"\n\nHis method works well. Li Wei not only gets good grades but also won the second prize in a city guitar competition last month. He suggests that students should use small pieces of time wisely. \"For example, you can review English words while waiting for the bus, or do some reading before bedtime. This way, you can save big blocks of time for your hobbies.\"\n\nHowever, Li Wei also warns that hobbies should not become another source of stress. \"If you feel too tired, it's okay to skip practice for a day. The most important thing is to enjoy both studying and your hobbies,\" he adds.\n\nMany of his classmates have started to follow his advice. They find that having hobbies actually helps them study better because they feel happier and more relaxed.",
-      "stem": "What is the best title for this passage?",
+      "group_passage": "When Bosco was in Grade 7, he noticed that his school wasted a lot of water in the bathroom. The taps were often left running after students washed their hands. This made him very worried.\n\nWith the help of his science teacher, Bosco started working on a solution. After six months of hard work, he finally invented a smart tap. This special tap can sense when hands are near and automatically turns on the water. When hands move away, it stops immediately.\n\n\"The device is simple but useful,\" says Bosco. \"It can save about 30% of water compared to normal taps.\" Many schools in Shenzhen have shown interest in his invention. Some of them have already started using similar taps in their buildings.\n\nBosco's invention won the first prize in the city science competition last month. When asked about his future plans, he says, \"I want to design more green products to help protect our environment. I believe that technology can make our life better and greener.\"\n\n(Note: \"device\" means 装置; \"automatically\" means 自动地)",
+      "stem": "What is the best title for the passage?",
       "options": [
-        "A. How to Win a Guitar Competition",
-        "B. The Importance of Homework",
-        "C. Balancing Study and Hobbies",
-        "D. Stress Problems of Shenzhen Students"
+        "A. How to Save Water at School",
+        "B. A Young Inventor's Green Dream",
+        "C. The Importance of Water Protection",
+        "D. Science Competitions in Shenzhen"
       ],
-      "correct_answer": "C",
-      "explanation": "选C。文章主旨是Li Wei如何平衡学习与爱好，并给出建议。首段即点题'found a good way to balance his study and interests'。A选项只是细节；B选项偏离主题；D选项是问题引入，非主旨。主旨题要抓首尾段和反复出现的关键词（balance, study, hobbies）。",
+      "correct_answer": "B",
+      "explanation": "本题为主旨大意题。文章主要讲述了Bosco发明节水装置并想继续设计环保产品的故事，B选项\"一位年轻发明家的绿色梦想\"最能概括全文。A、C选项只涉及节约用水，过于片面；D选项只提到竞赛，忽略了发明过程和Bosco的环保理想。技巧：标题要涵盖主要内容，既要有具体事件（inventor）又要有主题（green）。",
       "label": "阅读-主旨大意"
     },
     {
@@ -282,17 +282,17 @@
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
       "group": "fill_1",
-      "group_passage": "Joining a school club is a great way to enrich your middle school life. However, many students feel nervous when they first enter a club. Here are some tips to help you.\n\n(17)_____ First, find out what the club does and what activities they offer. You can ask senior students or check the club's online page. Knowing this helps you prepare mentally.\n\n(18)_____ Don't be afraid to introduce yourself to other members. A simple \"Hello, I'm new here\" is enough to start a conversation. Remember that everyone was new once.\n\n(19)_____ Clubs usually meet regularly, so try to attend every activity. If you keep showing up, you will gradually build relationships with other members and feel more comfortable.\n\n(20)_____ Whether it's a sports competition or an art exhibition, take part actively. This not only improves your skills but also helps you make friends with similar interests.",
-      "stem": "(17)___",
+      "group_passage": "Many students have trouble balancing their studies and hobbies. They often feel stressed because they don't have enough time for both. (17)______ Here are some useful tips.\n\nFirst, make a weekly plan. Write down all your homework and after-school activities. (18)______ This way, you can see clearly how much free time you actually have.\n\nSecond, choose your hobbies wisely. You don't need to join every club at school. Pick one or two that you really enjoy. (19)______ Quality is more important than quantity.\n\n(20)______ Even 30 minutes of reading or drawing every day can help you relax and learn better. Remember, hobbies are not a waste of time if they make you happy and creative.",
+      "stem": "(17)______",
       "options": [
-        "A. However, don't push yourself too hard.",
-        "B. Then, be active in club activities.",
-        "C. First, do some research before joining.",
-        "D. Next, be friendly and open to others.",
-        "E. Finally, keep attending regularly."
+        "A. Then, mark the time slots for studying.",
+        "B. However, this problem can be solved with good time management.",
+        "C. In addition, try to do a little bit of your hobby every day.",
+        "D. It's better to be good at one thing than to be average at many things.",
+        "E. On the other hand, studying is always more important than hobbies."
       ],
-      "correct_answer": "C",
-      "explanation": "选C。本段主要讲加入前先了解俱乐部情况（find out what the club does），与C选项'先做些调查'对应。注意段落中的First提示这是第一条建议，与C选项的First呼应。干扰项D的Next表示接下来，E的Finally表示最后，均不符合此处顺序。",
+      "correct_answer": "B",
+      "explanation": "本题考查段落衔接。上文提到问题（无法平衡学习与爱好，感到压力），下文提出解决方法（Here are some useful tips），因此此处需要过渡句承上启下。B选项\"然而，这个问题可以通过良好的时间管理解决\"符合逻辑。A用于列举步骤；C用于递进；D用于解释；E用于转折对比。",
       "label": "短文填空"
     },
     {
@@ -301,17 +301,17 @@
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
       "group": "fill_1",
-      "group_passage": "Joining a school club is a great way to enrich your middle school life. However, many students feel nervous when they first enter a club. Here are some tips to help you.\n\n(17)_____ First, find out what the club does and what activities they offer. You can ask senior students or check the club's online page. Knowing this helps you prepare mentally.\n\n(18)_____ Don't be afraid to introduce yourself to other members. A simple \"Hello, I'm new here\" is enough to start a conversation. Remember that everyone was new once.\n\n(19)_____ Clubs usually meet regularly, so try to attend every activity. If you keep showing up, you will gradually build relationships with other members and feel more comfortable.\n\n(20)_____ Whether it's a sports competition or an art exhibition, take part actively. This not only improves your skills but also helps you make friends with similar interests.",
-      "stem": "(18)___",
+      "group_passage": "Many students have trouble balancing their studies and hobbies. They often feel stressed because they don't have enough time for both. (17)______ Here are some useful tips.\n\nFirst, make a weekly plan. Write down all your homework and after-school activities. (18)______ This way, you can see clearly how much free time you actually have.\n\nSecond, choose your hobbies wisely. You don't need to join every club at school. Pick one or two that you really enjoy. (19)______ Quality is more important than quantity.\n\n(20)______ Even 30 minutes of reading or drawing every day can help you relax and learn better. Remember, hobbies are not a waste of time if they make you happy and creative.",
+      "stem": "(18)______",
       "options": [
-        "A. However, don't push yourself too hard.",
-        "B. Then, be active in club activities.",
-        "C. First, do some research before joining.",
-        "D. Next, be friendly and open to others.",
-        "E. Finally, keep attending regularly."
+        "A. Then, mark the time slots for studying.",
+        "B. However, this problem can be solved with good time management.",
+        "C. In addition, try to do a little bit of your hobby every day.",
+        "D. It's better to be good at one thing than to be average at many things.",
+        "E. On the other hand, studying is always more important than hobbies."
       ],
-      "correct_answer": "D",
-      "explanation": "选D。本段讲自我介绍、主动交流（introduce yourself, start a conversation），与D选项'对他人友好开放'匹配。衔接词上，前文用了First，此处用Next表示第二条建议。Be friendly对应introduce yourself和start a conversation。",
+      "correct_answer": "A",
+      "explanation": "本题考查逻辑顺序。上文说\"写下所有作业和课外活动\"，下文说\"这样你就能清楚看到实际有多少空闲时间\"，因此中间步骤应是\"然后，标出学习的时间段\"，Then表示顺序承接。B用于转折过渡；C用于递进；D用于总结评价；E用于对比。",
       "label": "短文填空"
     },
     {
@@ -320,17 +320,17 @@
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
       "group": "fill_1",
-      "group_passage": "Joining a school club is a great way to enrich your middle school life. However, many students feel nervous when they first enter a club. Here are some tips to help you.\n\n(17)_____ First, find out what the club does and what activities they offer. You can ask senior students or check the club's online page. Knowing this helps you prepare mentally.\n\n(18)_____ Don't be afraid to introduce yourself to other members. A simple \"Hello, I'm new here\" is enough to start a conversation. Remember that everyone was new once.\n\n(19)_____ Clubs usually meet regularly, so try to attend every activity. If you keep showing up, you will gradually build relationships with other members and feel more comfortable.\n\n(20)_____ Whether it's a sports competition or an art exhibition, take part actively. This not only improves your skills but also helps you make friends with similar interests.",
-      "stem": "(19)___",
+      "group_passage": "Many students have trouble balancing their studies and hobbies. They often feel stressed because they don't have enough time for both. (17)______ Here are some useful tips.\n\nFirst, make a weekly plan. Write down all your homework and after-school activities. (18)______ This way, you can see clearly how much free time you actually have.\n\nSecond, choose your hobbies wisely. You don't need to join every club at school. Pick one or two that you really enjoy. (19)______ Quality is more important than quantity.\n\n(20)______ Even 30 minutes of reading or drawing every day can help you relax and learn better. Remember, hobbies are not a waste of time if they make you happy and creative.",
+      "stem": "(19)______",
       "options": [
-        "A. However, don't push yourself too hard.",
-        "B. Then, be active in club activities.",
-        "C. First, do some research before joining.",
-        "D. Next, be friendly and open to others.",
-        "E. Finally, keep attending regularly."
+        "A. Then, mark the time slots for studying.",
+        "B. However, this problem can be solved with good time management.",
+        "C. In addition, try to do a little bit of your hobby every day.",
+        "D. It's better to be good at one thing than to be average at many things.",
+        "E. On the other hand, studying is always more important than hobbies."
       ],
-      "correct_answer": "E",
-      "explanation": "选E。本段关键词attend every activity, keep showing up与E选项'坚持定期参加'完全一致。Finally表示最后一条建议（实际是第三条，但文中最后一段有Then/Finally暗示）。注意本段提到regularly与regularly对应。",
+      "correct_answer": "D",
+      "explanation": "本题考查解释说明关系。上文说\"选择一到两个真正喜欢的爱好\"，下文说\"质量比数量更重要\"，D选项\"精通一件事比平庸地做很多事要好\"恰好解释了为什么选择一两个爱好，并与后文quality... quantity呼应。A表顺序；B表转折；C表递进；E表对比。",
       "label": "短文填空"
     },
     {
@@ -339,17 +339,17 @@
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
       "group": "fill_1",
-      "group_passage": "Joining a school club is a great way to enrich your middle school life. However, many students feel nervous when they first enter a club. Here are some tips to help you.\n\n(17)_____ First, find out what the club does and what activities they offer. You can ask senior students or check the club's online page. Knowing this helps you prepare mentally.\n\n(18)_____ Don't be afraid to introduce yourself to other members. A simple \"Hello, I'm new here\" is enough to start a conversation. Remember that everyone was new once.\n\n(19)_____ Clubs usually meet regularly, so try to attend every activity. If you keep showing up, you will gradually build relationships with other members and feel more comfortable.\n\n(20)_____ Whether it's a sports competition or an art exhibition, take part actively. This not only improves your skills but also helps you make friends with similar interests.",
-      "stem": "(20)___",
+      "group_passage": "Many students have trouble balancing their studies and hobbies. They often feel stressed because they don't have enough time for both. (17)______ Here are some useful tips.\n\nFirst, make a weekly plan. Write down all your homework and after-school activities. (18)______ This way, you can see clearly how much free time you actually have.\n\nSecond, choose your hobbies wisely. You don't need to join every club at school. Pick one or two that you really enjoy. (19)______ Quality is more important than quantity.\n\n(20)______ Even 30 minutes of reading or drawing every day can help you relax and learn better. Remember, hobbies are not a waste of time if they make you happy and creative.",
+      "stem": "(20)______",
       "options": [
-        "A. However, don't push yourself too hard.",
-        "B. Then, be active in club activities.",
-        "C. First, do some research before joining.",
-        "D. Next, be friendly and open to others.",
-        "E. Finally, keep attending regularly."
+        "A. Then, mark the time slots for studying.",
+        "B. However, this problem can be solved with good time management.",
+        "C. In addition, try to do a little bit of your hobby every day.",
+        "D. It's better to be good at one thing than to be average at many things.",
+        "E. On the other hand, studying is always more important than hobbies."
       ],
-      "correct_answer": "B",
-      "explanation": "选B。本段关键词take part actively与B选项'积极参与活动'完全对应。Then表示接下来的建议。注意区分E和B：E强调attend（出席），B强调active（积极参与），本段有actively复现。",
+      "correct_answer": "C",
+      "explanation": "本题考查递进关系。此处是第三条建议（虽然没写Third，但从结构看是新的要点），下文说\"即使每天30分钟阅读或画画也能帮助你放松和学习更好\"，因此C选项\"此外，尽量每天做一点你的爱好\"引出本段主题。In addition表示补充/递进，用于引出另一个建议。A表顺序；B表转折；D表总结；E表对比。",
       "label": "短文填空"
     }
   ]
