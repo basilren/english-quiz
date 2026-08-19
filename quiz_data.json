@@ -1,53 +1,53 @@
 ﻿{
-  "date": "2026-08-19",
+  "date": "2026-08-20",
   "session_number": 1,
   "questions": [
     {
       "id": 1,
       "type": "grammar",
-      "knowledge_point": "passive_voice",
-      "difficulty": 1,
-      "stem": "The books ______ to the library every Monday.",
+      "knowledge_point": "present_perfect_vs_past_simple",
+      "difficulty": 2,
+      "stem": "Kate ______ to Beijing three times, but she ______ there last month with her parents.",
       "options": [
-        "A. return",
-        "B. are returned",
-        "C. returned",
-        "D. are returning"
+        "A. has gone; went",
+        "B. has been; went",
+        "C. went; has been",
+        "D. has been; has gone"
       ],
       "correct_answer": "B",
-      "explanation": "本题考查一般现在时的被动语态。主语The books与动词return之间是被动关系（书被归还），且时间状语every Monday表示经常性动作，应用一般现在时的被动语态am/is/are + 过去分词。主语是复数，所以用are returned。A是主动语态原形；C是过去式或过去分词，缺少be动词；D是现在进行时的主动语态。",
+      "explanation": "选B。第一空'has been to'表示'去过某地（已经回来）'，强调经历；第二空'went'是一般过去时，后面有具体过去时间状语'last month'，表示过去某个特定时间发生的动作。A选项'has gone to'表示去了还没回来，与'three times'矛盾；C选项时态颠倒；D选项第二空现在完成时不能与'last month'连用。口诀：'has been to表经历，过去式配过去时'。",
       "label": "语法题"
     },
     {
       "id": 2,
       "type": "grammar",
-      "knowledge_point": "present_perfect_vs_past_simple",
-      "difficulty": 2,
-      "stem": "—______ you ever ______ to the Science Museum? —Yes, I ______ there last weekend.",
-      "options": [
-        "A. Did; go; went",
-        "B. Have; been; went",
-        "C. Have; gone; have been",
-        "D. Do; go; went"
-      ],
-      "correct_answer": "B",
-      "explanation": "本题考查现在完成时与一般过去时的区别。第一句中有ever，询问\"曾经是否去过\"，用have been to表示\"去过某地（已回）\"；第二句中有明确的过去时间状语last weekend，需用一般过去时went。A选项第一空用了Did，但ever通常与现在完成时连用；C选项have gone to表示\"去了某地（未回）\"，与答句矛盾；D选项时态均不正确。",
-      "label": "语法题"
-    },
-    {
-      "id": 3,
-      "type": "grammar",
       "knowledge_point": "relative_clause_who_which",
-      "difficulty": 2,
-      "stem": "The story ______ is written by a 14-year-old student is very popular in our school.",
+      "difficulty": 1,
+      "stem": "The man ______ is standing under the big tree is my uncle, who is a doctor.",
       "options": [
         "A. who",
         "B. which",
         "C. whom",
         "D. whose"
       ],
-      "correct_answer": "B",
-      "explanation": "本题考查定语从句的关系代词。先行词是The story（物），在定语从句中作主语，应用which或that引导。A选项who用于指人；C选项whom用于指人且作宾语；D选项whose表示\"...的\"，在从句中作定语。解题技巧：指人用who/whom/that，指物用which/that， whose可指人也可指物。",
+      "correct_answer": "A",
+      "explanation": "选A。先行词'the man'指人，在定语从句中作主语（is standing），所以用关系代词who。which指物；whom指人但只能作宾语；whose表示'谁的'，在从句中作定语。解题技巧：看空后是否缺主语，缺主语指人用who，指物用which。",
+      "label": "语法题"
+    },
+    {
+      "id": 3,
+      "type": "grammar",
+      "knowledge_point": "passive_voice",
+      "difficulty": 2,
+      "stem": "These story books ______ to the library already by the students.",
+      "options": [
+        "A. returned",
+        "B. have returned",
+        "C. have been returned",
+        "D. were returned"
+      ],
+      "correct_answer": "C",
+      "explanation": "选C。'already'是现在完成时的标志词，且书是'被归还'，需要用被动语态，所以用现在完成时的被动语态'have been returned'。A选项缺少助动词；B选项是主动语态；D选项是一般过去时被动，与'already'提示的时态不符。技巧：看到'already/yet'想现在完成，看到'by'想被动。",
       "label": "语法题"
     },
     {
@@ -55,63 +55,63 @@
       "type": "grammar",
       "knowledge_point": "object_clause",
       "difficulty": 3,
-      "stem": "—Could you tell me ______? —Sure. Next Friday afternoon.",
+      "stem": "Could you please tell me ______? I need to post a letter.",
       "options": [
-        "A. when we will have the English exam",
-        "B. when will we have the English exam",
-        "C. when do we have the English exam",
-        "D. when we have the English exam"
+        "A. where is the nearest post office",
+        "B. where the nearest post office is",
+        "C. where does the nearest post office",
+        "D. where the nearest post office does"
       ],
-      "correct_answer": "A",
-      "explanation": "本题考查宾语从句的语序和时态。宾语从句必须用陈述语序（主语+谓语），排除B和C；根据答句Next Friday afternoon（下周五下午），可知应用一般将来时will have，而D选项是一般现在时。解题技巧：宾语从句三要素——陈述语序、时态呼应、连接词选择。",
+      "correct_answer": "B",
+      "explanation": "选B。宾语从句必须用陈述语序（主语+谓语），不能用疑问语序。A选项是疑问语序（is放在主语前）；C和D选项结构错误，从句中缺少谓语动词。技巧：宾语从句用陈述语序，即'引导词+主语+谓语'。",
       "label": "语法题"
     },
     {
       "id": 5,
       "type": "vocabulary",
-      "knowledge_point": "word_meaning",
+      "knowledge_point": "word_formation",
       "difficulty": 1,
-      "stem": "I'm very ______ to hear that you passed the driving test.",
+      "stem": "If you add 'un-' to the word 'happy', you get '______', which means not happy.",
       "options": [
-        "A. surprise",
-        "B. surprised",
-        "C. surprising",
-        "D. surprises"
+        "A. unhappily",
+        "B. unhappy",
+        "C. happiness",
+        "D. unhappiness"
       ],
       "correct_answer": "B",
-      "explanation": "本题考查形容词辨析。主语是人（I），表示\"感到惊讶的\"，用surprised；surprising表示\"令人惊讶的\"，通常修饰物。A是名词或动词原形；D是第三人称单数形式。固定搭配：be surprised to do sth. 惊讶地做某事。",
+      "explanation": "选B。un-是前缀，表示'不、无'，加在形容词happy前构成反义词unhappy（不开心的），词性仍是形容词。A是副词；C是名词（快乐）；D是名词（不快乐）。注意：前缀un-通常改变词义但不改变词性。",
       "label": "词汇题"
     },
     {
       "id": 6,
       "type": "vocabulary",
-      "knowledge_point": "prefix_suffix",
+      "knowledge_point": "phrasal_verbs",
       "difficulty": 2,
-      "stem": "The ______ news made everyone cry at the party.",
+      "stem": "We have to ______ the sports meeting because of the heavy rain tomorrow.",
       "options": [
-        "A. happy",
-        "B. unhappy",
-        "C. happily",
-        "D. unhappily"
+        "A. put off",
+        "B. put on",
+        "C. put up",
+        "D. put down"
       ],
-      "correct_answer": "B",
-      "explanation": "本题考查前缀un-和词性转换。空格修饰名词news，需用形容词，排除C和D（副词）；根据句意\"让大家哭泣\"，可知是\"不愉快的消息\"，unhappy（不愉快的）符合语境。A选项happy（愉快的）与句意矛盾。技巧：un-是常见否定前缀，加在形容词前构成反义词。",
+      "correct_answer": "A",
+      "explanation": "选A。put off表示'推迟'，符合句意'因为大雨推迟运动会'。put on表示'穿上、上演'；put up表示'张贴、搭建'；put down表示'放下、记下'。技巧：off有'离开、远离'的含义，put off就是让事情远离原定时间，即推迟。",
       "label": "词汇题"
     },
     {
       "id": 7,
       "type": "vocabulary",
-      "knowledge_point": "phrasal_verbs",
+      "knowledge_point": "word_meaning_context",
       "difficulty": 2,
-      "stem": "We need to ______ the pollution problem before it's too late.",
+      "stem": "The little girl was ______ when she saw the snake in the garden; she ran away quickly.",
       "options": [
-        "A. look after",
-        "B. deal with",
-        "C. take off",
-        "D. put away"
+        "A. excited",
+        "B. frightened",
+        "C. interested",
+        "D. bored"
       ],
       "correct_answer": "B",
-      "explanation": "本题考查短语动词辨析。deal with表示\"处理、对付\"，与problem搭配合理；look after照顾；take off起飞/脱下；put away收起来。根据句意\"处理污染问题\"，选B。技巧：积累常见短语动词，注意与宾语的搭配。",
+      "explanation": "选B。根据上下文'snake（蛇）'和'ran away quickly（快速跑开）'可知女孩感到'害怕'。frightened表示'受惊的、害怕的'。excited（兴奋的）、interested（感兴趣的）、bored（无聊的）都不符合语境。解题技巧：利用上下文线索（蛇+逃跑）推断情感态度。",
       "label": "词汇题"
     },
     {
@@ -120,124 +120,124 @@
       "knowledge_point": "cloze_general",
       "difficulty": 2,
       "group": "cloze_1",
-      "group_passage": "Last month, our school started a new project called \"Green Campus\". The goal was to help students understand the importance of protecting the environment. Every class was asked to collect plastic bottles for recycling. At first, many students thought it was (8)______ to carry bottles to school every day. However, as time went by, they realized how much waste they could save. My class decided to do something different. We (9)______ to make art works from the collected bottles. Our teacher, Mr. Zhang, was very (10)______ about our idea. He said it was a creative way to reuse waste. We spent two weeks working on our project. Some students cut the bottles into different shapes, while others painted them colorful. Finally, we made a beautiful tree sculpture. It (11)______ in the school hall now. Every time I see it, I feel proud of what we have done. This project has taught us that small actions can make a big (12)______. If everyone tries to protect the environment, our world will become a better place to live.",
+      "group_passage": "Our school started a recycling program last month. It has changed the way we deal with waste. Before the program, students threw everything into one bin. Now we have three different bins for paper, plastic and other waste.\n\nAt first, many students found it (8)______ to remember which bin to use. Some put food waste into the paper bin. Others were (9)______ about why we needed to separate waste. \"It takes too much time,\" complained Tom.\n\nHowever, things improved after two weeks. Student volunteers stood near the bins to (10)______ classmates. They explained that recycling helps protect our environment. When we recycle paper, we save trees. When we recycle plastic, we reduce pollution.\n\nNow most students have (11)______ used to the new system. \"I feel good knowing I'm helping the planet,\" said Lily. The program has (12)______ us that small actions can make a big difference.",
       "stem": "(8)______",
       "options": [
-        "A. boring",
-        "B. interesting",
-        "C. easy",
-        "D. relaxing"
+        "A. easy",
+        "B. difficult",
+        "C. interesting",
+        "D. boring"
       ],
-      "correct_answer": "A",
-      "explanation": "本题考查语境推理。根据下文However（然而）表示转折，以及\"他们意识到能节省多少浪费\"，可推断起初学生觉得每天带瓶子很\"无聊/烦人\"，boring符合语境。B、C、D都是积极词汇，与However后的转变逻辑不符。",
+      "correct_answer": "B",
+      "explanation": "选B。根据下文'Some put food waste into the paper bin（有人把食物垃圾放进纸类垃圾桶）'可知，一开始学生们觉得'很难'记住哪个桶放什么。difficult表示'困难的'。easy（容易的）与文意相反；interesting（有趣的）和boring（无聊的）不符合上下文逻辑。",
       "label": "完形填空"
     },
     {
       "id": 9,
       "type": "cloze",
       "knowledge_point": "cloze_general",
-      "difficulty": 1,
+      "difficulty": 2,
       "group": "cloze_1",
-      "group_passage": "Last month, our school started a new project called \"Green Campus\". The goal was to help students understand the importance of protecting the environment. Every class was asked to collect plastic bottles for recycling. At first, many students thought it was (8)______ to carry bottles to school every day. However, as time went by, they realized how much waste they could save. My class decided to do something different. We (9)______ to make art works from the collected bottles. Our teacher, Mr. Zhang, was very (10)______ about our idea. He said it was a creative way to reuse waste. We spent two weeks working on our project. Some students cut the bottles into different shapes, while others painted them colorful. Finally, we made a beautiful tree sculpture. It (11)______ in the school hall now. Every time I see it, I feel proud of what we have done. This project has taught us that small actions can make a big (12)______. If everyone tries to protect the environment, our world will become a better place to live.",
+      "group_passage": "Our school started a recycling program last month. It has changed the way we deal with waste. Before the program, students threw everything into one bin. Now we have three different bins for paper, plastic and other waste.\n\nAt first, many students found it (8)______ to remember which bin to use. Some put food waste into the paper bin. Others were (9)______ about why we needed to separate waste. \"It takes too much time,\" complained Tom.\n\nHowever, things improved after two weeks. Student volunteers stood near the bins to (10)______ classmates. They explained that recycling helps protect our environment. When we recycle paper, we save trees. When we recycle plastic, we reduce pollution.\n\nNow most students have (11)______ used to the new system. \"I feel good knowing I'm helping the planet,\" said Lily. The program has (12)______ us that small actions can make a big difference.",
       "stem": "(9)______",
       "options": [
-        "A. wanted",
-        "B. decided",
-        "C. hoped",
-        "D. agreed"
+        "A. excited",
+        "B. worried",
+        "C. confused",
+        "D. surprised"
       ],
-      "correct_answer": "B",
-      "explanation": "本题考查固定搭配。decide to do sth. 表示\"决定做某事\"，符合语境\"我们决定用收集的瓶子制作艺术品\"。want后接不定式通常说want to do，但语气较弱；hope表示希望，不一定实现；agree后常接with sb.或to sth.，不接不定式。",
+      "correct_answer": "C",
+      "explanation": "选C。根据后文'why we needed to separate waste（为什么需要分类垃圾）'可知，学生们对此感到'困惑'。confused about表示'对……感到困惑'。excited about（对……兴奋）；worried about（担心）；surprised at（对……惊讶）。注意搭配和语境：质疑'为什么要分类'体现的是困惑而非担心。",
       "label": "完形填空"
     },
     {
       "id": 10,
       "type": "cloze",
       "knowledge_point": "cloze_general",
-      "difficulty": 2,
+      "difficulty": 1,
       "group": "cloze_1",
-      "group_passage": "Last month, our school started a new project called \"Green Campus\". The goal was to help students understand the importance of protecting the environment. Every class was asked to collect plastic bottles for recycling. At first, many students thought it was (8)______ to carry bottles to school every day. However, as time went by, they realized how much waste they could save. My class decided to do something different. We (9)______ to make art works from the collected bottles. Our teacher, Mr. Zhang, was very (10)______ about our idea. He said it was a creative way to reuse waste. We spent two weeks working on our project. Some students cut the bottles into different shapes, while others painted them colorful. Finally, we made a beautiful tree sculpture. It (11)______ in the school hall now. Every time I see it, I feel proud of what we have done. This project has taught us that small actions can make a big (12)______. If everyone tries to protect the environment, our world will become a better place to live.",
+      "group_passage": "Our school started a recycling program last month. It has changed the way we deal with waste. Before the program, students threw everything into one bin. Now we have three different bins for paper, plastic and other waste.\n\nAt first, many students found it (8)______ to remember which bin to use. Some put food waste into the paper bin. Others were (9)______ about why we needed to separate waste. \"It takes too much time,\" complained Tom.\n\nHowever, things improved after two weeks. Student volunteers stood near the bins to (10)______ classmates. They explained that recycling helps protect our environment. When we recycle paper, we save trees. When we recycle plastic, we reduce pollution.\n\nNow most students have (11)______ used to the new system. \"I feel good knowing I'm helping the planet,\" said Lily. The program has (12)______ us that small actions can make a big difference.",
       "stem": "(10)______",
       "options": [
-        "A. worried",
-        "B. angry",
-        "C. excited",
-        "D. sad"
+        "A. help",
+        "B. teach",
+        "C. guide",
+        "D. stop"
       ],
       "correct_answer": "C",
-      "explanation": "本题考查情感线索。根据下文\"他说这是一种创造性的废物利用方式\"，可知老师对这个想法感到\"兴奋/激动\"，excited符合语境。A（担心的）、B（生气的）、D（难过的）均为负面情绪，与后文评价矛盾。",
+      "explanation": "选C。志愿者站在垃圾桶旁是为了'指导'同学们正确分类。guide表示'引导、指导'，符合语境。help（帮助）虽然意思通但不如guide准确；teach（教）过于正式且需要长时间；stop（阻止）与文意相反。",
       "label": "完形填空"
     },
     {
       "id": 11,
       "type": "cloze",
       "knowledge_point": "cloze_general",
-      "difficulty": 2,
+      "difficulty": 1,
       "group": "cloze_1",
-      "group_passage": "Last month, our school started a new project called \"Green Campus\". The goal was to help students understand the importance of protecting the environment. Every class was asked to collect plastic bottles for recycling. At first, many students thought it was (8)______ to carry bottles to school every day. However, as time went by, they realized how much waste they could save. My class decided to do something different. We (9)______ to make art works from the collected bottles. Our teacher, Mr. Zhang, was very (10)______ about our idea. He said it was a creative way to reuse waste. We spent two weeks working on our project. Some students cut the bottles into different shapes, while others painted them colorful. Finally, we made a beautiful tree sculpture. It (11)______ in the school hall now. Every time I see it, I feel proud of what we have done. This project has taught us that small actions can make a big (12)______. If everyone tries to protect the environment, our world will become a better place to live.",
+      "group_passage": "Our school started a recycling program last month. It has changed the way we deal with waste. Before the program, students threw everything into one bin. Now we have three different bins for paper, plastic and other waste.\n\nAt first, many students found it (8)______ to remember which bin to use. Some put food waste into the paper bin. Others were (9)______ about why we needed to separate waste. \"It takes too much time,\" complained Tom.\n\nHowever, things improved after two weeks. Student volunteers stood near the bins to (10)______ classmates. They explained that recycling helps protect our environment. When we recycle paper, we save trees. When we recycle plastic, we reduce pollution.\n\nNow most students have (11)______ used to the new system. \"I feel good knowing I'm helping the planet,\" said Lily. The program has (12)______ us that small actions can make a big difference.",
       "stem": "(11)______",
       "options": [
-        "A. stands",
-        "B. stood",
-        "C. has stood",
-        "D. is standing"
+        "A. get",
+        "B. got",
+        "C. getting",
+        "D. gets"
       ],
-      "correct_answer": "A",
-      "explanation": "本题考查时态。句末有now，但此处表示客观状态\"它现在陈列在学校大厅\"，用一般现在时stands表示状态即可。D选项is standing强调动作正在进行， sculptures（雕塑）通常不用进行时表状态；B是过去式；C是现在完成时，均不符合语境。",
+      "correct_answer": "B",
+      "explanation": "选B。'get used to'表示'习惯于'，前面有助动词have，构成现在完成时，所以用过去分词got。固定搭配：have/has got used to... 表示'已经习惯了……'。注意get的过去分词可以是got或gotten，初中阶段常用got。",
       "label": "完形填空"
     },
     {
       "id": 12,
       "type": "cloze",
       "knowledge_point": "cloze_general",
-      "difficulty": 1,
+      "difficulty": 2,
       "group": "cloze_1",
-      "group_passage": "Last month, our school started a new project called \"Green Campus\". The goal was to help students understand the importance of protecting the environment. Every class was asked to collect plastic bottles for recycling. At first, many students thought it was (8)______ to carry bottles to school every day. However, as time went by, they realized how much waste they could save. My class decided to do something different. We (9)______ to make art works from the collected bottles. Our teacher, Mr. Zhang, was very (10)______ about our idea. He said it was a creative way to reuse waste. We spent two weeks working on our project. Some students cut the bottles into different shapes, while others painted them colorful. Finally, we made a beautiful tree sculpture. It (11)______ in the school hall now. Every time I see it, I feel proud of what we have done. This project has taught us that small actions can make a big (12)______. If everyone tries to protect the environment, our world will become a better place to live.",
+      "group_passage": "Our school started a recycling program last month. It has changed the way we deal with waste. Before the program, students threw everything into one bin. Now we have three different bins for paper, plastic and other waste.\n\nAt first, many students found it (8)______ to remember which bin to use. Some put food waste into the paper bin. Others were (9)______ about why we needed to separate waste. \"It takes too much time,\" complained Tom.\n\nHowever, things improved after two weeks. Student volunteers stood near the bins to (10)______ classmates. They explained that recycling helps protect our environment. When we recycle paper, we save trees. When we recycle plastic, we reduce pollution.\n\nNow most students have (11)______ used to the new system. \"I feel good knowing I'm helping the planet,\" said Lily. The program has (12)______ us that small actions can make a big difference.",
       "stem": "(12)______",
       "options": [
-        "A. mistake",
-        "B. decision",
-        "C. difference",
-        "D. plan"
+        "A. taught",
+        "B. showed",
+        "C. told",
+        "D. reminded"
       ],
-      "correct_answer": "C",
-      "explanation": "本题考查固定搭配。make a difference是固定短语，意为\"有影响、起作用\"，符合句意\"小小的行动能产生很大的影响\"。make a mistake犯错误；make a decision做决定；make a plan制定计划，均不符合语境。",
+      "correct_answer": "A",
+      "explanation": "选A。这个项目'教会'了我们小行动可以带来大改变。teach表示'教导、使明白道理'，强调通过经历或教育获得认知。show（展示）后面常接具体事物；tell（告诉）后面常接人；remind（提醒）不符合句意。技巧：teach sb. that...表示'使某人明白……'。",
       "label": "完形填空"
     },
     {
       "id": 13,
       "type": "reading",
       "knowledge_point": "detail",
-      "difficulty": 2,
+      "difficulty": 1,
       "group": "reading_1",
-      "group_passage": "When Bosco was in Grade 7, he noticed that his school wasted a lot of water in the bathroom. The taps were often left running after students washed their hands. This made him very worried.\n\nWith the help of his science teacher, Bosco started working on a solution. After six months of hard work, he finally invented a smart tap. This special tap can sense when hands are near and automatically turns on the water. When hands move away, it stops immediately.\n\n\"The device is simple but useful,\" says Bosco. \"It can save about 30% of water compared to normal taps.\" Many schools in Shenzhen have shown interest in his invention. Some of them have already started using similar taps in their buildings.\n\nBosco's invention won the first prize in the city science competition last month. When asked about his future plans, he says, \"I want to design more green products to help protect our environment. I believe that technology can make our life better and greener.\"\n\n(Note: \"device\" means 装置; \"automatically\" means 自动地)",
-      "stem": "How long did Bosco spend working on the smart tap?",
+      "group_passage": "Do you often feel sleepy in class? Many students do, and it's not always because they stayed up late. Scientists have found that our body clocks work differently from school schedules.\n\nTeenagers naturally feel more awake later at night and sleepier in the early morning. This is because the hormone (荷尔蒙) melatonin, which makes us sleepy, is released later in teenage brains than in adult brains.\n\nHowever, most schools start classes before 8:00 a.m. This means many students are fighting against their natural body clocks when they should be sleeping. Studies show that students who get enough sleep perform better in exams and have better mental health.\n\nSome schools in the US have tried starting classes later, at 9:00 a.m. The results were surprising. Students' grades improved, and there were fewer car accidents involving teenage drivers.\n\nExperts suggest that schools should consider students' biological needs. \"Education is important, but so is health,\" says Dr. Smith, a sleep researcher.",
+      "stem": "Why do teenagers feel sleepy in the early morning according to the passage?",
       "options": [
-        "A. Two weeks",
-        "B. Three months",
-        "C. Six months",
-        "D. One year"
+        "A. Because they stay up late playing computer games.",
+        "B. Because their brains release sleep hormone later than adults.",
+        "C. Because they don't like going to school early.",
+        "D. Because they have too much homework to do at night."
       ],
-      "correct_answer": "C",
-      "explanation": "本题为细节理解题。根据文章第二段第二句\"After six months of hard work, he finally invented a smart tap\"可知，Bosco花了六个月时间研发这个智能水龙头。A、B、D选项的时间均与原文不符。解题技巧：细节题要找准关键词（how long对应时间），回原文定位具体信息。",
+      "correct_answer": "B",
+      "explanation": "选B。细节理解题。根据第二段第二句'This is because the hormone melatonin, which makes us sleepy, is released later in teenage brains than in adult brains.'可知，青少年早上困倦是因为大脑释放褪黑素（睡眠荷尔蒙）的时间比成年人晚。A、C、D选项都不是文中提到的原因。",
       "label": "阅读-细节理解"
     },
     {
       "id": 14,
       "type": "reading",
       "knowledge_point": "inference",
-      "difficulty": 3,
+      "difficulty": 2,
       "group": "reading_1",
-      "group_passage": "When Bosco was in Grade 7, he noticed that his school wasted a lot of water in the bathroom. The taps were often left running after students washed their hands. This made him very worried.\n\nWith the help of his science teacher, Bosco started working on a solution. After six months of hard work, he finally invented a smart tap. This special tap can sense when hands are near and automatically turns on the water. When hands move away, it stops immediately.\n\n\"The device is simple but useful,\" says Bosco. \"It can save about 30% of water compared to normal taps.\" Many schools in Shenzhen have shown interest in his invention. Some of them have already started using similar taps in their buildings.\n\nBosco's invention won the first prize in the city science competition last month. When asked about his future plans, he says, \"I want to design more green products to help protect our environment. I believe that technology can make our life better and greener.\"\n\n(Note: \"device\" means 装置; \"automatically\" means 自动地)",
+      "group_passage": "Do you often feel sleepy in class? Many students do, and it's not always because they stayed up late. Scientists have found that our body clocks work differently from school schedules.\n\nTeenagers naturally feel more awake later at night and sleepier in the early morning. This is because the hormone (荷尔蒙) melatonin, which makes us sleepy, is released later in teenage brains than in adult brains.\n\nHowever, most schools start classes before 8:00 a.m. This means many students are fighting against their natural body clocks when they should be sleeping. Studies show that students who get enough sleep perform better in exams and have better mental health.\n\nSome schools in the US have tried starting classes later, at 9:00 a.m. The results were surprising. Students' grades improved, and there were fewer car accidents involving teenage drivers.\n\nExperts suggest that schools should consider students' biological needs. \"Education is important, but so is health,\" says Dr. Smith, a sleep researcher.",
       "stem": "What can we learn from the passage?",
       "options": [
-        "A. Bosco's invention is too expensive for schools",
-        "B. All schools in Shenzhen use Bosco's taps now",
-        "C. Bosco cares about environmental protection",
-        "D. Bosco won the competition in Grade 7"
+        "A. All schools in the US now start classes at 9:00 a.m.",
+        "B. Teenagers should go to bed earlier to solve the problem.",
+        "C. Changing school start time may bring benefits to students.",
+        "D. Dr. Smith thinks education is more important than health."
       ],
       "correct_answer": "C",
-      "explanation": "本题为推理判断题。从Bosco注意到学校浪费水、发明节水装置、想设计更多绿色产品等信息，可以推断出他关心环境保护，C正确。A选项\"太贵\"文中未提及；B选项\"所有学校都用\"与原文\"many schools... some of them\"不符；D选项\"七年级获奖\"错误，根据last month和When Bosco was in Grade 7（过去时）可知获奖是后来的事。",
+      "explanation": "选C。推理判断题。根据第四段，美国一些学校尝试9点上课后，'Students' grades improved, and there were fewer car accidents'，可推断出推迟上课时间可能给学生带来好处。A选项'all'过于绝对，文中只说some schools；B选项文中未提及；D选项与最后一段'Education is important, but so is health'（教育重要，健康也重要）矛盾。",
       "label": "阅读-推理判断"
     },
     {
@@ -246,16 +246,16 @@
       "knowledge_point": "word_guessing",
       "difficulty": 2,
       "group": "reading_1",
-      "group_passage": "When Bosco was in Grade 7, he noticed that his school wasted a lot of water in the bathroom. The taps were often left running after students washed their hands. This made him very worried.\n\nWith the help of his science teacher, Bosco started working on a solution. After six months of hard work, he finally invented a smart tap. This special tap can sense when hands are near and automatically turns on the water. When hands move away, it stops immediately.\n\n\"The device is simple but useful,\" says Bosco. \"It can save about 30% of water compared to normal taps.\" Many schools in Shenzhen have shown interest in his invention. Some of them have already started using similar taps in their buildings.\n\nBosco's invention won the first prize in the city science competition last month. When asked about his future plans, he says, \"I want to design more green products to help protect our environment. I believe that technology can make our life better and greener.\"\n\n(Note: \"device\" means 装置; \"automatically\" means 自动地)",
-      "stem": "The underlined word \"solution\" in Paragraph 2 probably means ______.",
+      "group_passage": "Do you often feel sleepy in class? Many students do, and it's not always because they stayed up late. Scientists have found that our body clocks work differently from school schedules.\n\nTeenagers naturally feel more awake later at night and sleepier in the early morning. This is because the hormone (荷尔蒙) melatonin, which makes us sleepy, is released later in teenage brains than in adult brains.\n\nHowever, most schools start classes before 8:00 a.m. This means many students are fighting against their natural body clocks when they should be sleeping. Studies show that students who get enough sleep perform perform better in exams and have better mental health.\n\nSome schools in the US have tried starting classes later, at 9:00 a.m. The results were surprising. Students' grades improved, and there were fewer car accidents involving teenage drivers.\n\nExperts suggest that schools should consider students' biological needs. \"Education is important, but so is health,\" says Dr. Smith, a sleep researcher.",
+      "stem": "The underlined word 'released' in Paragraph 2 probably means ______.",
       "options": [
-        "A. 问题",
-        "B. 解决方案",
-        "C. 实验",
-        "D. 课程"
+        "A. 释放",
+        "B. 减少",
+        "C. 阻止",
+        "D. 吸收"
       ],
-      "correct_answer": "B",
-      "explanation": "本题为词义猜测题。根据上下文，第一段提到学校浪费水的问题（problem），第二段说Bosco开始研究solution，结果发明了智能水龙头，可推断solution指\"解决方案\"。A是problem的意思；C、D与语境无关。技巧：通过上下文逻辑关系（问题→解决→结果）猜测词义。",
+      "correct_answer": "A",
+      "explanation": "选A。词义猜测题。根据上下文，melatonin（褪黑素）是'让我们感到困倦的荷尔蒙'，结合生物学常识，荷尔蒙是由大脑'释放'到身体中的。release表示'释放、分泌'。技巧：通过上下文'which makes us sleepy'和常识推断，荷尔蒙是释放出来才能起作用。",
       "label": "阅读-词义猜测"
     },
     {
@@ -264,16 +264,16 @@
       "knowledge_point": "main_idea",
       "difficulty": 3,
       "group": "reading_1",
-      "group_passage": "When Bosco was in Grade 7, he noticed that his school wasted a lot of water in the bathroom. The taps were often left running after students washed their hands. This made him very worried.\n\nWith the help of his science teacher, Bosco started working on a solution. After six months of hard work, he finally invented a smart tap. This special tap can sense when hands are near and automatically turns on the water. When hands move away, it stops immediately.\n\n\"The device is simple but useful,\" says Bosco. \"It can save about 30% of water compared to normal taps.\" Many schools in Shenzhen have shown interest in his invention. Some of them have already started using similar taps in their buildings.\n\nBosco's invention won the first prize in the city science competition last month. When asked about his future plans, he says, \"I want to design more green products to help protect our environment. I believe that technology can make our life better and greener.\"\n\n(Note: \"device\" means 装置; \"automatically\" means 自动地)",
+      "group_passage": "Do you often feel sleepy in class? Many students do, and it's not always because they stayed up late. Scientists have found that our body clocks work differently from school schedules.\n\nTeenagers naturally feel more awake later at night and sleepier in the early morning. This is because the hormone (荷尔蒙) melatonin, which makes us sleepy, is released later in teenage brains than in adult brains.\n\nHowever, most schools start classes before 8:00 a.m. This means many students are fighting against their natural body clocks when they should be sleeping. Studies show that students who get enough sleep perform better in exams and have better mental health.\n\nSome schools in the US have tried starting classes later, at 9:00 a.m. The results were surprising. Students' grades improved, and there were fewer car accidents involving teenage drivers.\n\nExperts suggest that schools should consider students' biological needs. \"Education is important, but so is health,\" says Dr. Smith, a sleep researcher.",
       "stem": "What is the best title for the passage?",
       "options": [
-        "A. How to Save Water at School",
-        "B. A Young Inventor's Green Dream",
-        "C. The Importance of Water Protection",
-        "D. Science Competitions in Shenzhen"
+        "A. How to Sleep Well at Night",
+        "B. Teenagers' Body Clocks and School Time",
+        "C. The Importance of Education",
+        "D. How Hormones Work in the Brain"
       ],
       "correct_answer": "B",
-      "explanation": "本题为主旨大意题。文章主要讲述了Bosco发明节水装置并想继续设计环保产品的故事，B选项\"一位年轻发明家的绿色梦想\"最能概括全文。A、C选项只涉及节约用水，过于片面；D选项只提到竞赛，忽略了发明过程和Bosco的环保理想。技巧：标题要涵盖主要内容，既要有具体事件（inventor）又要有主题（green）。",
+      "explanation": "选B。主旨大意题。文章主要讨论了青少年的生物钟（褪黑素释放晚导致早上困倦）与学校上课时间（过早开始）之间的矛盾，以及推迟上课时间的可能好处。A选项只涉及睡眠，太宽泛；C选项偏离主题；D选项只是细节。技巧：最佳标题要涵盖全文核心——生物钟与上课时间的关系。",
       "label": "阅读-主旨大意"
     },
     {
@@ -282,17 +282,17 @@
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
       "group": "fill_1",
-      "group_passage": "Many students have trouble balancing their studies and hobbies. They often feel stressed because they don't have enough time for both. (17)______ Here are some useful tips.\n\nFirst, make a weekly plan. Write down all your homework and after-school activities. (18)______ This way, you can see clearly how much free time you actually have.\n\nSecond, choose your hobbies wisely. You don't need to join every club at school. Pick one or two that you really enjoy. (19)______ Quality is more important than quantity.\n\n(20)______ Even 30 minutes of reading or drawing every day can help you relax and learn better. Remember, hobbies are not a waste of time if they make you happy and creative.",
+      "group_passage": "Joining a school club is a great way to make friends and learn new skills. (17)______ Here are some tips to help you choose the right club.\n\nFirst, think about your interests. Do you enjoy music, sports, or art? (18)______ If you love what you're doing, you'll have more fun and stick with it longer.\n\nSecond, consider your schedule. Some clubs meet every day, while others meet once a week. (19)______ Make sure you have enough time for both club activities and homework.\n\nFinally, don't be afraid to try something new. (20)______ You might discover a hidden talent or passion. Remember, the goal is to learn and enjoy yourself, not to be perfect from day one.",
       "stem": "(17)______",
       "options": [
-        "A. Then, mark the time slots for studying.",
-        "B. However, this problem can be solved with good time management.",
-        "C. In addition, try to do a little bit of your hobby every day.",
-        "D. It's better to be good at one thing than to be average at many things.",
-        "E. On the other hand, studying is always more important than hobbies."
+        "A. However, it can be hard to decide which one to join.",
+        "B. For example, if you like drawing, the art club might be perfect for you.",
+        "C. In addition, you should avoid clubs that require too much time.",
+        "D. Choose a club that fits your free time.",
+        "E. You may feel nervous at first, but that's normal."
       ],
-      "correct_answer": "B",
-      "explanation": "本题考查段落衔接。上文提到问题（无法平衡学习与爱好，感到压力），下文提出解决方法（Here are some useful tips），因此此处需要过渡句承上启下。B选项\"然而，这个问题可以通过良好的时间管理解决\"符合逻辑。A用于列举步骤；C用于递进；D用于解释；E用于转折对比。",
+      "correct_answer": "A",
+      "explanation": "选A。前文说加入社团很好，后文说'这里有一些建议帮助你选择'，中间需要转折过渡，表示'然而，很难决定加入哪一个'。However表示转折关系，承上启下。B是举例，适合用于兴趣段；C是并列建议，但语气与后文'consider your schedule'重复；D是具体建议；E是鼓励，适合用于最后一段。",
       "label": "短文填空"
     },
     {
@@ -301,17 +301,17 @@
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
       "group": "fill_1",
-      "group_passage": "Many students have trouble balancing their studies and hobbies. They often feel stressed because they don't have enough time for both. (17)______ Here are some useful tips.\n\nFirst, make a weekly plan. Write down all your homework and after-school activities. (18)______ This way, you can see clearly how much free time you actually have.\n\nSecond, choose your hobbies wisely. You don't need to join every club at school. Pick one or two that you really enjoy. (19)______ Quality is more important than quantity.\n\n(20)______ Even 30 minutes of reading or drawing every day can help you relax and learn better. Remember, hobbies are not a waste of time if they make you happy and creative.",
+      "group_passage": "Joining a school club is a great way to make friends and learn new skills. (17)______ Here are some tips to help you choose the right club.\n\nFirst, think about your interests. Do you enjoy music, sports, or art? (18)______ If you love what you're doing, you'll have more fun and stick with it longer.\n\nSecond, consider your schedule. Some clubs meet every day, while others meet once a week. (19)______ Make sure you have enough time for both club activities and homework.\n\nFinally, don't be afraid to try something new. (20)______ You might discover a hidden talent or passion. Remember, the goal is to learn and enjoy yourself, not to be perfect from day one.",
       "stem": "(18)______",
       "options": [
-        "A. Then, mark the time slots for studying.",
-        "B. However, this problem can be solved with good time management.",
-        "C. In addition, try to do a little bit of your hobby every day.",
-        "D. It's better to be good at one thing than to be average at many things.",
-        "E. On the other hand, studying is always more important than hobbies."
+        "A. However, it can be hard to decide which one to join.",
+        "B. For example, if you like drawing, the art club might be perfect for you.",
+        "C. In addition, you should avoid clubs that require too much time.",
+        "D. Choose a club that fits your free time.",
+        "E. You may feel nervous at first, but that's normal."
       ],
-      "correct_answer": "A",
-      "explanation": "本题考查逻辑顺序。上文说\"写下所有作业和课外活动\"，下文说\"这样你就能清楚看到实际有多少空闲时间\"，因此中间步骤应是\"然后，标出学习的时间段\"，Then表示顺序承接。B用于转折过渡；C用于递进；D用于总结评价；E用于对比。",
+      "correct_answer": "B",
+      "explanation": "选B。本段主题是'考虑兴趣'，前句问'你喜欢音乐、运动还是艺术？'，后句应举例说明。For example（例如）引出具体例子：如果你喜欢画画，艺术俱乐部可能很适合你。这是典型的'观点+举例'结构。",
       "label": "短文填空"
     },
     {
@@ -320,17 +320,17 @@
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
       "group": "fill_1",
-      "group_passage": "Many students have trouble balancing their studies and hobbies. They often feel stressed because they don't have enough time for both. (17)______ Here are some useful tips.\n\nFirst, make a weekly plan. Write down all your homework and after-school activities. (18)______ This way, you can see clearly how much free time you actually have.\n\nSecond, choose your hobbies wisely. You don't need to join every club at school. Pick one or two that you really enjoy. (19)______ Quality is more important than quantity.\n\n(20)______ Even 30 minutes of reading or drawing every day can help you relax and learn better. Remember, hobbies are not a waste of time if they make you happy and creative.",
+      "group_passage": "Joining a school club is a great way to make friends and learn new skills. (17)______ Here are some tips to help you choose the right club.\n\nFirst, think about your interests. Do you enjoy music, sports, or art? (18)______ If you love what you're doing, you'll have more fun and stick with it longer.\n\nSecond, consider your schedule. Some clubs meet every day, while others meet once a week. (19)______ Make sure you have enough time for both club activities and homework.\n\nFinally, don't be afraid to try something new. (20)______ You might discover a hidden talent or passion. Remember, the goal is to learn and enjoy yourself, not to be perfect from day one.",
       "stem": "(19)______",
       "options": [
-        "A. Then, mark the time slots for studying.",
-        "B. However, this problem can be solved with good time management.",
-        "C. In addition, try to do a little bit of your hobby every day.",
-        "D. It's better to be good at one thing than to be average at many things.",
-        "E. On the other hand, studying is always more important than hobbies."
+        "A. However, it can be hard to decide which one to join.",
+        "B. For example, if you like drawing, the art club might be perfect for you.",
+        "C. In addition, you should avoid clubs that require too much time.",
+        "D. Choose a club that fits your free time.",
+        "E. You may feel nervous at first, but that's normal."
       ],
       "correct_answer": "D",
-      "explanation": "本题考查解释说明关系。上文说\"选择一到两个真正喜欢的爱好\"，下文说\"质量比数量更重要\"，D选项\"精通一件事比平庸地做很多事要好\"恰好解释了为什么选择一两个爱好，并与后文quality... quantity呼应。A表顺序；B表转折；C表递进；E表对比。",
+      "explanation": "选D。本段主题是'考虑时间安排'，前句说'有些社团每天见面，有些一周一次'，后句应总结建议：选择适合你空闲时间的社团。Choose a club that fits your free time与主题句'consider your schedule'呼应。",
       "label": "短文填空"
     },
     {
@@ -339,17 +339,17 @@
       "knowledge_point": "sentence_fill",
       "difficulty": 2,
       "group": "fill_1",
-      "group_passage": "Many students have trouble balancing their studies and hobbies. They often feel stressed because they don't have enough time for both. (17)______ Here are some useful tips.\n\nFirst, make a weekly plan. Write down all your homework and after-school activities. (18)______ This way, you can see clearly how much free time you actually have.\n\nSecond, choose your hobbies wisely. You don't need to join every club at school. Pick one or two that you really enjoy. (19)______ Quality is more important than quantity.\n\n(20)______ Even 30 minutes of reading or drawing every day can help you relax and learn better. Remember, hobbies are not a waste of time if they make you happy and creative.",
+      "group_passage": "Joining a school club is a great way to make friends and learn new skills. (17)______ Here are some tips to help you choose the right club.\n\nFirst, think about your interests. Do you enjoy music, sports, or art? (18)______ If you love what you're doing, you'll have more fun and stick with it longer.\n\nSecond, consider your schedule. Some clubs meet every day, while others meet once a week. (19)______ Make sure you have enough time for both club activities and homework.\n\nFinally, don't be afraid to try something new. (20)______ You might discover a hidden talent or passion. Remember, the goal is to learn and enjoy yourself, not to be perfect from day one.",
       "stem": "(20)______",
       "options": [
-        "A. Then, mark the time slots for studying.",
-        "B. However, this problem can be solved with good time management.",
-        "C. In addition, try to do a little bit of your hobby every day.",
-        "D. It's better to be good at one thing than to be average at many things.",
-        "E. On the other hand, studying is always more important than hobbies."
+        "A. However, it can be hard to decide which one to join.",
+        "B. For example, if you like drawing, the art club might be perfect for you.",
+        "C. In addition, you should avoid clubs that require too much time.",
+        "D. Choose a club that fits your free time.",
+        "E. You may feel nervous at first, but that's normal."
       ],
-      "correct_answer": "C",
-      "explanation": "本题考查递进关系。此处是第三条建议（虽然没写Third，但从结构看是新的要点），下文说\"即使每天30分钟阅读或画画也能帮助你放松和学习更好\"，因此C选项\"此外，尽量每天做一点你的爱好\"引出本段主题。In addition表示补充/递进，用于引出另一个建议。A表顺序；B表转折；D表总结；E表对比。",
+      "correct_answer": "E",
+      "explanation": "选E。本段主题是'不要害怕尝试新事物'，后句说'你可能发现隐藏的天赋'，前句应表示：一开始你可能会感到紧张，但这是正常的。这是鼓励尝试的常用表达，与'don't be afraid'形成呼应。",
       "label": "短文填空"
     }
   ]
