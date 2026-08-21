@@ -1,21 +1,21 @@
 ﻿{
-  "date": "2026-08-21",
+  "date": "2026-08-22",
   "session_number": 1,
   "questions": [
     {
       "id": 1,
       "type": "grammar",
       "knowledge_point": "present_perfect_vs_past_simple",
-      "difficulty": 2,
-      "stem": "—______ you ______ your homework yet? \n—Yes, I have. I ______ it an hour ago.",
+      "difficulty": 1,
+      "stem": "I ______ the film yesterday. But I ______ it before yesterday.",
       "options": [
-        "A. Did; finish; have finished",
-        "B. Have; finished; finished",
-        "C. Are; finishing; finished",
-        "D. Have; finished; have finished"
+        "A. saw; haven't seen",
+        "B. have seen; didn't see",
+        "C. saw; didn't see",
+        "D. have seen; haven't seen"
       ],
-      "correct_answer": "B",
-      "explanation": "第一空和第二空考查现在完成时yet是现在完成时的标志词，结构为have/has+过去分词；第三空考查一般过去时，ago是一般过去时的标志词。A选项第一空用Did，后面动词应还原为finish，但第二空是finished，矛盾；C选项时态不符合语境；D选项第三空用现在完成时与ago冲突。",
+      "correct_answer": "A",
+      "explanation": "第一空有明确过去时间状语yesterday，必须用一般过去时saw；第二空before yesterday表示\"昨天之前\"，是从过去持续到现在的时间段，且与现在有关（昨天看了，昨天之前没看过），用现在完成时haven't seen。B选项时态颠倒，C选项第二空时态错误，D选项第一空时态错误。",
       "label": "语法题"
     },
     {
@@ -23,258 +23,258 @@
       "type": "grammar",
       "knowledge_point": "relative_clause_who_which",
       "difficulty": 2,
-      "stem": "The book ______ cover is red belongs to my sister.",
+      "stem": "The girl ______ is standing under the tree is my sister.",
       "options": [
         "A. who",
         "B. which",
-        "C. whose",
-        "D. that"
+        "C. whom",
+        "D. whose"
       ],
-      "correct_answer": "C",
-      "explanation": "考查定语从句关系词的选择。先行词是the book，与cover之间存在所属关系（书的书皮），因此用whose作定语。who指代人；which和that在从句中作主语或宾语，不能表示所属关系。",
+      "correct_answer": "A",
+      "explanation": "先行词the girl指人，且在定语从句中作主语（is standing），所以用who。which用于指物；whom用于指人但作宾语；whose表示\"谁的\"，在从句中作定语。句意：站在树下的那个女孩是我妹妹。",
       "label": "语法题"
     },
     {
       "id": 3,
       "type": "grammar",
       "knowledge_point": "passive_voice",
-      "difficulty": 1,
-      "stem": "These old buildings ______ by the government next year to make room for a new park.",
+      "difficulty": 2,
+      "stem": "The bridge ______ by the workers last year.",
       "options": [
-        "A. will pull down",
-        "B. will be pulled down",
-        "C. pulled down",
-        "D. are pulling down"
+        "A. builds",
+        "B. built",
+        "C. was built",
+        "D. is built"
       ],
-      "correct_answer": "B",
-      "explanation": "考查一般将来时的被动语态。时间状语next year提示用将来时；主语buildings与pull down之间是被动关系（建筑被拆除），因此用will be+过去分词结构。A是主动语态；C是一般过去时；D是现在进行时主动语态。",
+      "correct_answer": "C",
+      "explanation": "主语the bridge与build是被动关系（桥被建），且时间状语last year表示过去，所以用一般过去时的被动语态was built。A是主动语态现在时；B是主动语态过去时；D是被动语态现在时，时态不符。",
       "label": "语法题"
     },
     {
       "id": 4,
       "type": "grammar",
-      "knowledge_point": "object_clause",
+      "knowledge_point": "present_perfect_vs_past_simple",
       "difficulty": 3,
-      "stem": "—Could you tell me ______?\n—Sure. It's about 10 minutes' walk from here.",
+      "stem": "—______ you ever ______ to the Great Wall? —Yes, I ______ there with my parents last summer.",
       "options": [
-        "A. how far is the museum",
-        "B. how far the museum is",
-        "C. where the museum is",
-        "D. how can I get to the museum"
+        "A. Did; go; went",
+        "B. Have; been; went",
+        "C. Have; gone; have been",
+        "D. Have; been; have gone"
       ],
       "correct_answer": "B",
-      "explanation": "考查宾语从句的语序和连接词。宾语从句必须用陈述语序（主语+谓语），排除A和D；根据答语\"步行约10分钟\"可知询问的是距离，用how far。where询问地点，与答语不符。",
+      "explanation": "第一空ever是现在完成时标志词，问\"曾经去过吗\"用have been to；第二空last summer是过去时间，用一般过去时went。have gone to表示\"去了某地（未回）\"，不符合语境；A选项第一空助动词错误；C、D选项第二空时态错误。",
       "label": "语法题"
     },
     {
       "id": 5,
       "type": "vocabulary",
-      "knowledge_point": "word_meaning",
+      "knowledge_point": "phrasal_verbs",
       "difficulty": 1,
-      "stem": "We should take action to ______ the environment for our future generations.",
+      "stem": "Please ______ the lights when you leave the classroom.",
       "options": [
-        "A. protect",
-        "B. prevent",
-        "C. pollute",
-        "D. provide"
+        "A. turn on",
+        "B. turn off",
+        "C. turn up",
+        "D. turn down"
       ],
-      "correct_answer": "A",
-      "explanation": "考查动词词义辨析。protect保护；prevent阻止；pollute污染；provide提供。根据句意\"为了后代我们应该采取行动____环境\"，应选择protect。prevent常与from搭配；pollute与句意相反；provide常与with搭配。",
+      "correct_answer": "B",
+      "explanation": "turn off表示\"关闭（电器等）\"，符合句意\"离开教室时请关灯\"。turn on打开；turn up调高（音量等）；turn down调低或拒绝。根据leave the classroom的语境，应该是关灯。",
       "label": "词汇题"
     },
     {
       "id": 6,
       "type": "vocabulary",
-      "knowledge_point": "phrasal_verbs",
+      "knowledge_point": "word_formation",
       "difficulty": 2,
-      "stem": "It's important to ______ bad habits like staying up late and eating junk food.",
+      "stem": "The news is ______. I feel very ______ about it.",
       "options": [
-        "A. give up",
-        "B. give away",
-        "C. give out",
-        "D. give in"
+        "A. surprised; surprising",
+        "B. surprising; surprised",
+        "C. surprised; surprised",
+        "D. surprising; surprising"
       ],
-      "correct_answer": "A",
-      "explanation": "考查动词短语辨析。give up放弃；give away赠送，泄露；give out分发，耗尽；give in屈服，投降。根据句意\"____像熬夜和吃垃圾食品这样的坏习惯\"，应选择give up表示\"戒除、放弃\"。",
+      "correct_answer": "B",
+      "explanation": "surprising表示\"令人惊讶的\"，修饰物（the news）；surprised表示\"感到惊讶的\"，修饰人（I）。句意：这个消息令人惊讶。我对它感到很惊讶。ing形容词描述事物特性，ed形容词描述人的感受。",
       "label": "词汇题"
     },
     {
       "id": 7,
       "type": "vocabulary",
-      "knowledge_point": "word_formation",
+      "knowledge_point": "fixed_collocation",
       "difficulty": 2,
-      "stem": "The ______ news made all of us feel very ______.",
+      "stem": "We should ______ our best to protect the environment.",
       "options": [
-        "A. excited; exciting",
-        "B. exciting; excited",
-        "C. excited; excited",
-        "D. exciting; exciting"
+        "A. try",
+        "B. do",
+        "C. make",
+        "D. give"
       ],
-      "correct_answer": "B",
-      "explanation": "考查形容词-ing和-ed形式的区别。exciting令人兴奋的（修饰事物）；excited感到兴奋的（修饰人）。第一空修饰news（事物），用exciting；第二空修饰us（人），用excited。口诀：-ing令人…，-ed感到…。",
+      "correct_answer": "A",
+      "explanation": "try one's best是固定搭配，表示\"尽某人最大努力\"。do one's best也是正确搭配，但选项B是do，没有所有格our；make和give不与best构成此含义的固定搭配。",
       "label": "词汇题"
     },
     {
       "id": 8,
       "type": "cloze",
-      "knowledge_point": "cloze_general",
+      "knowledge_point": "cloze_context",
       "difficulty": 2,
       "stem": "(8)______",
       "options": [
-        "A. started",
-        "B. joined",
-        "C. visited",
-        "D. left"
+        "A. boring",
+        "B. interesting",
+        "C. necessary",
+        "D. possible"
       ],
       "correct_answer": "A",
-      "explanation": "考查动词辨析。start创办，建立；join加入；visit参观；leave离开。根据下文\"This club was founded by...\"可知学校\"创办\"了一个俱乐部，started与founded同义复现。",
+      "explanation": "根据下文\"didn't want to take part in it\"（不想参加）可知，起初学生认为这个活动很\"无聊\"。boring令人无聊的；interesting有趣的（与下文态度矛盾）；necessary必要的（不能解释不想参加）；possible可能的（不符合语境）。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school started a new environmental club called \"Green Future\". This club was founded by our science teacher, Mr. Green, who has been working on environmental protection for ten years. He believes that small actions can make a big difference to our planet, and he wants to help students understand how to live a greener life.\n\nEvery Friday afternoon, we meet in the science lab to (9)______ practical ways to make our school greener. Sometimes we watch educational videos about endangered animals, and sometimes we invite guest speakers to share their experiences. Last week, we (10)______ a poster competition about saving water. Many students from different grades took part in it and created wonderful artworks with creative ideas about reducing water waste at home and school.\n\nThe best posters will (12)______ on the school website next Monday to remind everyone of the importance of water conservation in our daily life. The winners will also receive small prizes made from recycled materials.\n\nSince I joined the club two weeks ago, I have changed many of my daily habits. For example, I used to throw away plastic bottles after drinking, but now I collect them for recycling. I have also learned to save electricity by turning off lights when leaving the classroom. These small steps may seem simple, but they really help protect our environment.\n\nBeing a member of this club makes me feel proud and responsible. I believe that if everyone takes action starting from small things, we will create a better and cleaner environment for future generations to enjoy."
+      "group_passage": "Last month, our school started a green project called \"Zero Waste Campus\". The goal was to help students understand the importance of environmental protection and develop good habits.\n\nEvery class was asked to collect plastic bottles and waste paper. At first, many students thought it was (8)______ and didn't want to take part in it. However, after the teacher explained how much waste we produced every day, we realized that our small actions could make a big (9)______.\n\nMy class decided to do something different. We set up a recycling corner in our classroom. Students brought used books and stationery from home. These items were then (10)______ to other students who needed them. This not only reduced waste but also helped those who couldn't afford new school things.\n\nAfter two months, the results were amazing. The amount of waste in our school dropped by 30%. The headmaster was (11)______ with our efforts and praised us in the school meeting. He said this project had changed the way we think about waste.\n\nNow, recycling has become a part of our daily life. I believe if everyone takes action, we can create a (12)______ world for future generations. This experience has taught me that environmental protection starts with small steps."
     },
     {
       "id": 9,
       "type": "cloze",
-      "knowledge_point": "passive_voice",
-      "difficulty": 2,
+      "knowledge_point": "cloze_fixed_phrase",
+      "difficulty": 1,
       "stem": "(9)______",
       "options": [
-        "A. is founded",
-        "B. was founded",
-        "C. found",
-        "D. founded"
+        "A. difference",
+        "B. mistake",
+        "C. decision",
+        "D. change"
       ],
-      "correct_answer": "B",
-      "explanation": "考查一般过去时的被动语态。主语This club与found（创立）之间是被动关系，且根据上下文Last month可知用过去时，因此用was founded。is founded是一般现在时被动；found是find（发现）的过去式或find的动词原形，易混淆；founded是主动语态。",
+      "correct_answer": "A",
+      "explanation": "make a difference是固定短语，表示\"产生影响、起作用\"。句意：我们意识到我们的小行动可以产生重大影响。make a mistake犯错误；make a decision做决定；make a change做出改变（通常说make changes或make a big change）。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school started a new environmental club called \"Green Future\". This club was founded by our science teacher, Mr. Green, who has been working on environmental protection for ten years. He believes that small actions can make a big difference to our planet, and he wants to help students understand how to live a greener life.\n\nEvery Friday afternoon, we meet in the science lab to (9)______ practical ways to make our school greener. Sometimes we watch educational videos about endangered animals, and sometimes we invite guest speakers to share their experiences. Last week, we (10)______ a poster competition about saving water. Many students from different grades took part in it and created wonderful artworks with creative ideas about reducing water waste at home and school.\n\nThe best posters will (12)______ on the school website next Monday to remind everyone of the importance of water conservation in our daily life. The winners will also receive small prizes made from recycled materials.\n\nSince I joined the club two weeks ago, I have changed many of my daily habits. For example, I used to throw away plastic bottles after drinking, but now I collect them for recycling. I have also learned to save electricity by turning off lights when leaving the classroom. These small steps may seem simple, but they really help protect our environment.\n\nBeing a member of this club makes me feel proud and responsible. I believe that if everyone takes action starting from small things, we will create a better and cleaner environment for future generations to enjoy."
+      "group_passage": "Last month, our school started a green project called \"Zero Waste Campus\". The goal was to help students understand the importance of environmental protection and develop good habits.\n\nEvery class was asked to collect plastic bottles and waste paper. At first, many students thought it was (8)______ and didn't want to take part in it. However, after the teacher explained how much waste we produced every day, we realized that our small actions could make a big (9)______.\n\nMy class decided to do something different. We set up a recycling corner in our classroom. Students brought used books and stationery from home. These items were then (10)______ to other students who needed them. This not only reduced waste but also helped those who couldn't afford new school things.\n\nAfter two months, the results were amazing. The amount of waste in our school dropped by 30%. The headmaster was (11)______ with our efforts and praised us in the school meeting. He said this project had changed the way we think about waste.\n\nNow, recycling has become a part of our daily life. I believe if everyone takes action, we can create a (12)______ world for future generations. This experience has taught me that environmental protection starts with small steps."
     },
     {
       "id": 10,
       "type": "cloze",
-      "knowledge_point": "cloze_general",
-      "difficulty": 1,
+      "knowledge_point": "cloze_context",
+      "difficulty": 2,
       "stem": "(10)______",
       "options": [
-        "A. discussed",
-        "B. organized",
-        "C. refused",
-        "D. attended"
+        "A. given",
+        "B. sold",
+        "C. lent",
+        "D. thrown"
       ],
-      "correct_answer": "B",
-      "explanation": "考查动词与名词的搭配。organize a competition组织比赛；discuss讨论；refuse拒绝；attend参加（活动）。根据语境，我们在俱乐部\"组织\"了一场海报比赛，organized符合语境。",
+      "correct_answer": "A",
+      "explanation": "根据下文\"helped those who couldn't afford new school things\"（帮助那些买不起新学习用品的人）可知，这些物品是\"赠送\"给需要的学生，而不是卖（sold）或扔（thrown）。lent是借出，需要归还，而文中说的是帮助贫困学生，应该是赠送。given是give的过去分词，表示给予。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school started a new environmental club called \"Green Future\". This club was founded by our science teacher, Mr. Green, who has been working on environmental protection for ten years. He believes that small actions can make a big difference to our planet, and he wants to help students understand how to live a greener life.\n\nEvery Friday afternoon, we meet in the science lab to discuss practical ways to make our school greener. Sometimes we watch educational videos about endangered animals, and sometimes we invite guest speakers to share their experiences. Last week, we (10)______ a poster competition about saving water. Many students from different grades took part in it and created wonderful artworks with creative ideas about reducing water waste at home and school.\n\nThe best posters will (11)______ on the school website next Monday to remind everyone of the importance of water conservation in our daily life. The winners will also receive small prizes made from recycled materials.\n\nSince I joined the club two weeks ago, I have changed many of my daily habits. For example, I used to throw away plastic bottles after drinking, but now I collect them for recycling. I have also learned to save electricity by turning off lights when leaving the classroom. These small steps may seem simple, but they really help protect our environment.\n\nBeing a member of this club makes me feel proud and responsible. I believe that if everyone takes action starting from small things, we will create a better and cleaner environment for future generations to enjoy."
+      "group_passage": "Last month, our school started a green project called \"Zero Waste Campus\". The goal was to help students understand the importance of environmental protection and develop good habits.\n\nEvery class was asked to collect plastic bottles and waste paper. At first, many students thought it was (8)______ and didn't want to take part in it. However, after the teacher explained how much waste we produced every day, we realized that our small actions could make a big (9)______.\n\nMy class decided to do something different. We set up a recycling corner in our classroom. Students brought used books and stationery from home. These items were then (10)______ to other students who needed them. This not only reduced waste but also helped those who couldn't afford new school things.\n\nAfter two months, the results were amazing. The amount of waste in our school dropped by 30%. The headmaster was (11)______ with our efforts and praised us in the school meeting. He said this project had changed the way we think about waste.\n\nNow, recycling has become a part of our daily life. I believe if everyone takes action, we can create a (12)______ world for future generations. This experience has taught me that environmental protection starts with small steps."
     },
     {
       "id": 11,
       "type": "cloze",
-      "knowledge_point": "cloze_general",
-      "difficulty": 2,
+      "knowledge_point": "cloze_emotion",
+      "difficulty": 1,
       "stem": "(11)______",
       "options": [
-        "A. show",
-        "B. be shown",
-        "C. showed",
-        "D. are showing"
+        "A. angry",
+        "B. happy",
+        "C. surprised",
+        "D. worried"
       ],
       "correct_answer": "B",
-      "explanation": "考查一般将来时的被动语态。时间状语next Monday提示用将来时；主语posters与show之间是被动关系（海报被展示），因此用will be shown。show是主动语态；showed是过去式；are showing是现在进行时主动语态。",
+      "explanation": "根据下文\"praised us\"（表扬我们）可知，校长对我们的努力感到\"高兴\"。be happy with对...感到满意/高兴；angry生气的（与表扬矛盾）；surprised惊讶的（下文未体现惊讶）；worried担心的（与语境不符）。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school started a new environmental club called \"Green Future\". This club was founded by our science teacher, Mr. Green, who has been working on environmental protection for ten years. He believes that small actions can make a big difference to our planet, and he wants to help students understand how to live a greener life.\n\nEvery Friday afternoon, we meet in the science lab to discuss practical ways to make our school greener. Sometimes we watch educational videos about endangered animals, and sometimes we invite guest speakers to share their experiences. Last week, we organized a poster competition about saving water. Many students from different grades took part in it and created wonderful artworks with creative ideas about reducing water waste at home and school.\n\nThe best posters will (11)______ on the school website next Monday to remind everyone of the importance of water conservation in our daily life. The winners will also receive small prizes made from recycled materials.\n\nSince I joined the club two weeks ago, I have changed many of my daily habits. For example, I used to throw away plastic bottles after drinking, but now I collect them for recycling. I have also learned to save electricity by turning off lights when leaving the classroom. These small steps may seem simple, but they really help protect our environment.\n\nBeing a member of this club makes me feel proud and responsible. I believe that if everyone takes action starting from small things, we will create a better and cleaner environment for future generations to enjoy."
+      "group_passage": "Last month, our school started a green project called \"Zero Waste Campus\". The goal was to help students understand the importance of environmental protection and develop good habits.\n\nEvery class was asked to collect plastic bottles and waste paper. At first, many students thought it was (8)______ and didn't want to take part in it. However, after the teacher explained how much waste we produced every day, we realized that our small actions could make a big (9)______.\n\nMy class decided to do something different. We set up a recycling corner in our classroom. Students brought used books and stationery from home. These items were then (10)______ to other students who needed them. This not only reduced waste but also helped those who couldn't afford new school things.\n\nAfter two months, the results were amazing. The amount of waste in our school dropped by 30%. The headmaster was (11)______ with our efforts and praised us in the school meeting. He said this project had changed the way we think about waste.\n\nNow, recycling has become a part of our daily life. I believe if everyone takes action, we can create a (12)______ world for future generations. This experience has taught me that environmental protection starts with small steps."
     },
     {
       "id": 12,
       "type": "cloze",
-      "knowledge_point": "passive_voice",
-      "difficulty": 1,
+      "knowledge_point": "cloze_logic",
+      "difficulty": 2,
       "stem": "(12)______",
       "options": [
-        "A. forget",
-        "B. remember",
-        "C. forgets",
-        "D. remembered"
+        "A. dirtier",
+        "B. cleaner",
+        "C. bigger",
+        "D. smaller"
       ],
       "correct_answer": "B",
-      "explanation": "考查动词不定式。此处用to remind...表示目的，意为\"为了提醒大家\"。remember to do记得去做；forget to do忘记去做。根据语境，展示海报的目的是\"提醒\"大家，因此选remember。",
+      "explanation": "全文主题是环保（Zero Waste Campus），所以应该是创造一个\"更干净的\"世界给后代。dirtier更脏的（与文意相反）；bigger更大的；smaller更小的（不修饰world表示环保含义）。cleaner既符合环保主题，也符合逻辑。",
       "label": "完形填空",
       "group": "cloze_1",
-      "group_passage": "Last month, our school started a new environmental club called \"Green Future\". This club was founded by our science teacher, Mr. Green, who has been working on environmental protection for ten years. He believes that small actions can make a big difference to our planet, and he wants to help students understand how to live a greener life.\n\nEvery Friday afternoon, we meet in the science lab to discuss practical ways to make our school greener. Sometimes we watch educational videos about endangered animals, and sometimes we invite guest speakers to share their experiences. Last week, we organized a poster competition about saving water. Many students from different grades took part in it and created wonderful artworks with creative ideas about reducing water waste at home and school.\n\nThe best posters will be shown on the school website next Monday to (12)______ everyone of the importance of water conservation in our daily life. The winners will also receive small prizes made from recycled materials.\n\nSince I joined the club two weeks ago, I have changed many of my daily habits. For example, I used to throw away plastic bottles after drinking, but now I collect them for recycling. I have also learned to save electricity by turning off lights when leaving the classroom. These small steps may seem simple, but they really help protect our environment.\n\nBeing a member of this club makes me feel proud and responsible. I believe that if everyone takes action starting from small things, we will create a better and cleaner environment for future generations to enjoy."
+      "group_passage": "Last month, our school started a green project called \"Zero Waste Campus\". The goal was to help students understand the importance of environmental protection and develop good habits.\n\nEvery class was asked to collect plastic bottles and waste paper. At first, many students thought it was (8)______ and didn't want to take part in it. However, after the teacher explained how much waste we produced every day, we realized that our small actions could make a big (9)______.\n\nMy class decided to do something different. We set up a recycling corner in our classroom. Students brought used books and stationery from home. These items were then (10)______ to other students who needed them. This not only reduced waste but also helped those who couldn't afford new school things.\n\nAfter two months, the results were amazing. The amount of waste in our school dropped by 30%. The headmaster was (11)______ with our efforts and praised us in the school meeting. He said this project had changed the way we think about waste.\n\nNow, recycling has become a part of our daily life. I believe if everyone takes action, we can create a (12)______ world for future generations. This experience has taught me that environmental protection starts with small steps."
     },
     {
       "id": 13,
       "type": "reading",
       "knowledge_point": "detail",
       "difficulty": 2,
-      "stem": "According to the passage, what does the blue light from screens do?",
+      "stem": "According to the passage, what should you do first when using the memory palace technique?",
       "options": [
-        "A. It helps us fall asleep faster.",
-        "B. It makes us feel hungry at night.",
-        "C. It stops the body from producing melatonin.",
-        "D. It improves our memory effectively."
+        "A. Walk through your house physically",
+        "B. Choose a familiar place",
+        "C. Make a shopping list",
+        "D. Review information regularly"
       ],
-      "correct_answer": "C",
-      "explanation": "细节理解题。根据第二段第一句\"the blue light from electronic screens stops the body from producing melatonin\"可知，蓝光阻止身体产生褪黑素。A与原文相反；B和D在文中未提及。做细节题要找准关键词blue light，回原文定位。",
+      "correct_answer": "B",
+      "explanation": "细节理解题。根据第二段\"First, choose a place you know very well, such as your home\"可知，第一步是选择一个你非常熟悉的地方。A选项是物理上走过房子，而文中说的是imagine（想象）；C是举例中的细节；D是另一个方法的内容。",
       "label": "阅读-细节理解",
       "group": "reading_1",
-      "group_passage": "Many teenagers love to use their smartphones before going to bed. However, scientists have found that this habit can seriously affect the quality of sleep and next day's study efficiency, which has become a major concern for both parents and teachers.\n\nAccording to recent research published in the Journal of Sleep Medicine, the blue light from electronic screens stops the body from producing melatonin (褪黑素), a chemical that helps us fall asleep naturally. When teenagers spend hours scrolling through social media or playing mobile games at night, their brains become too excited to rest properly. As a result, they often feel tired and find it hard to concentrate in class the next morning, leading to poor academic performance.\n\nDr. Li, a well-known sleep expert from Beijing University, suggests that students should stop using electronic devices at least one hour before bedtime. Instead, they can read physical books or listen to light music to relax their minds and prepare for sleep. \"Good sleep is just as important as good study habits,\" Dr. Li explains. \"Without enough rest, your brain cannot process and remember new knowledge effectively, no matter how many hours you spend studying.\"\n\nSome schools have already taken creative action to solve this problem. For example, No.8 Middle School in Shanghai has started a \"Sleep First\" project this semester. Students living in the dormitory are encouraged to hand in their phones to teachers before going to bed. After one month of trial, most participants reported feeling more energetic during daytime classes and getting better grades in monthly exams. The principal said they would expand this program to all grades next term."
+      "group_passage": "Do you often forget things? Many students complain that they can't remember new English words or historical dates. In fact, memory is like a muscle - the more you use it, the stronger it becomes. Scientists have found some effective ways to improve memory.\n\nOne popular method is called the \"memory palace\" technique. This method has been used for thousands of years. Here's how it works: First, choose a place you know very well, such as your home. Then, imagine you are walking through it. Place the things you want to remember at different spots (locations) in your mind. For example, if you need to remember a shopping list, you might put apples on your bed and milk on your desk. When you need to recall the list, just take a mental walk through your house.\n\nAnother useful tip is to review information at regular intervals (间隔). Instead of studying for five hours straight, it's better to study for one hour a day over five days. This gives your brain time to process and store the information properly.\n\nSleep also plays an important role in memory. During sleep, your brain organizes the information you learned during the day. That's why pulling an all-nighter (熬夜) before an exam is usually not effective.\n\nSo next time you struggle to remember something, try these methods. With practice, you'll find that remembering things becomes much easier."
     },
     {
       "id": 14,
       "type": "reading",
       "knowledge_point": "inference",
       "difficulty": 3,
-      "stem": "What can we infer from the passage about the \"Sleep First\" project?",
+      "stem": "What can we infer from the passage about studying?",
       "options": [
-        "A. It is only for day students.",
-        "B. It has been running for several years.",
-        "C. It seems to have positive effects on students.",
-        "D. It forces students to give up their phones forever."
+        "A. Studying for long hours without breaks is the best way",
+        "B. Sleeping less helps improve memory",
+        "C. Short regular study sessions are more effective than cramming",
+        "D. The memory palace only works for shopping lists"
       ],
       "correct_answer": "C",
-      "explanation": "推理判断题。根据最后一段\"most participants reported feeling more energetic...and getting better grades\"可知，参与学生报告说感到更有精力且成绩更好，因此可推断该项目有积极效果。A错误，原文说dormitory（住校生）；B错误，是this semester（本学期）开始的；D错误，只是睡前上交，不是forever（永远放弃）。",
+      "explanation": "推理判断题。根据第三段\"Instead of studying for five hours straight, it's better to study for one hour a day over five days\"可知，分散的短时学习比长时间连续学习（填鸭式学习）更有效。A与文意相反；B与第四段强调睡眠重要性相悖；D过于绝对，文中只是用购物清单举例。",
       "label": "阅读-推理判断",
       "group": "reading_1",
-      "group_passage": "Many teenagers love to use their smartphones before going to bed. However, scientists have found that this habit can seriously affect the quality of sleep and next day's study efficiency, which has become a major concern for both parents and teachers.\n\nAccording to recent research published in the Journal of Sleep Medicine, the blue light from electronic screens stops the body from producing melatonin (褪黑素), a chemical that helps us fall asleep naturally. When teenagers spend hours scrolling through social media or playing mobile games at night, their brains become too excited to rest properly. As a result, they often feel tired and find it hard to concentrate in class the next morning, leading to poor academic performance.\n\nDr. Li, a well-known sleep expert from Beijing University, suggests that students should stop using electronic devices at least one hour before bedtime. Instead, they can read physical books or listen to light music to relax their minds and prepare for sleep. \"Good sleep is just as important as good study habits,\" Dr. Li explains. \"Without enough rest, your brain cannot process and remember new knowledge effectively, no matter how many hours you spend studying.\"\n\nSome schools have already taken creative action to solve this problem. For example, No.8 Middle School in Shanghai has started a \"Sleep First\" project this semester. Students living in the dormitory are encouraged to hand in their phones to teachers before going to bed. After one month of trial, most participants reported feeling more energetic during daytime classes and getting better grades in monthly exams. The principal said they would expand this program to all grades next term."
+      "group_passage": "Do you often forget things? Many students complain that they can't remember new English words or historical dates. In fact, memory is like a muscle - the more you use it, the stronger it becomes. Scientists have found some effective ways to improve memory.\n\nOne popular method is called the \"memory palace\" technique. This method has been used for thousands of years. Here's how it works: First, choose a place you know very well, such as your home. Then, imagine you are walking through it. Place the things you want to remember at different spots (locations) in your mind. For example, if you need to remember a shopping list, you might put apples on your bed and milk on your desk. When you need to recall the list, just take a mental walk through your house.\n\nAnother useful tip is to review information at regular intervals (间隔). Instead of studying for five hours straight, it's better to study for one hour a day over five days. This gives your brain time to process and store the information properly.\n\nSleep also plays an important role in memory. During sleep, your brain organizes the information you learned during the day. That's why pulling an all-nighter (熬夜) before an exam is usually not effective.\n\nSo next time you struggle to remember something, try these methods. With practice, you'll find that remembering things becomes much easier."
     },
     {
       "id": 15,
       "type": "reading",
-      "knowledge_point": "word_guessing_context",
+      "knowledge_point": "word_guessing",
       "difficulty": 2,
-      "stem": "What does the underlined word \"concentrate\" in Paragraph 2 probably mean?",
+      "stem": "What does the word \"locations\" in Paragraph 2 probably mean?",
       "options": [
-        "A. Sleep deeply.",
-        "B. Pay attention.",
-        "C. Take notes.",
-        "D. Feel relaxed."
+        "A. 位置",
+        "B. 锁",
+        "C. 当地",
+        "D. 建筑"
       ],
-      "correct_answer": "B",
-      "explanation": "词义猜测题。根据上下文，前文说晚上玩手机导致大脑太兴奋无法休息，后文说导致学习成绩差，因此concentrate应指\"集中注意力\"。pay attention与之同义。sleep deeply深度睡眠；take notes记笔记；feel relaxed感到放松，均不符合语境。",
+      "correct_answer": "A",
+      "explanation": "词义猜测题。根据上下文\"Place the things you want to remember at different spots...\"（把你想记的东西放在不同的...），spots意思是\"地点、位置\"，locations与spots同义，指在大脑中想象出的不同位置。其他选项代入后语义不通。",
       "label": "阅读-词义猜测",
       "group": "reading_1",
-      "group_passage": "Many teenagers love to use their smartphones before going to bed. However, scientists have found that this habit can seriously affect the quality of sleep and next day's study efficiency, which has become a major concern for both parents and teachers.\n\nAccording to recent research published in the Journal of Sleep Medicine, the blue light from electronic screens stops the body from producing melatonin (褪黑素), a chemical that helps us fall asleep naturally. When teenagers spend hours scrolling through social media or playing mobile games at night, their brains become too excited to rest properly. As a result, they often feel tired and find it hard to concentrate in class the next morning, leading to poor academic performance.\n\nDr. Li, a well-known sleep expert from Beijing University, suggests that students should stop using electronic devices at least one hour before bedtime. Instead, they can read physical books or listen to light music to relax their minds and prepare for sleep. \"Good sleep is just as important as good study habits,\" Dr. Li explains. \"Without enough rest, your brain cannot process and remember new knowledge effectively, no matter how many hours you spend studying.\"\n\nSome schools have already taken creative action to solve this problem. For example, No.8 Middle School in Shanghai has started a \"Sleep First\" project this semester. Students living in the dormitory are encouraged to hand in their phones to teachers before going to bed. After one month of trial, most participants reported feeling more energetic during daytime classes and getting better grades in monthly exams. The principal said they would expand this program to all grades next term."
+      "group_passage": "Do you often forget things? Many students complain that they can't remember new English words or historical dates. In fact, memory is like a muscle - the more you use it, the stronger it becomes. Scientists have found some effective ways to improve memory.\n\nOne popular method is called the \"memory palace\" technique. This method has been used for thousands of years. Here's how it works: First, choose a place you know very well, such as your home. Then, imagine you are walking through it. Place the things you want to remember at different spots (locations) in your mind. For example, if you need to remember a shopping list, you might put apples on your bed and milk on your desk. When you need to recall the list, just take a mental walk through your house.\n\nAnother useful tip is to review information at regular intervals (间隔). Instead of studying for five hours straight, it's better to study for one hour a day over five days. This gives your brain time to process and store the information properly.\n\nSleep also plays an important role in memory. During sleep, your brain organizes the information you learned during the day. That's why pulling an all-nighter (熬夜) before an exam is usually not effective.\n\nSo next time you struggle to remember something, try these methods. With practice, you'll find that remembering things becomes much easier."
     },
     {
       "id": 16,
       "type": "reading",
-      "knowledge_point": "main_idea_title",
-      "difficulty": 2,
+      "knowledge_point": "main_idea",
+      "difficulty": 3,
       "stem": "What is the best title for this passage?",
       "options": [
-        "A. How to Use Smartphones Wisely",
-        "B. The Importance of Melatonin",
-        "C. Sleep and Academic Performance",
-        "D. A New School Project in Shanghai"
+        "A. The Importance of Sleep",
+        "B. How to Build a Memory Palace",
+        "C. Ways to Improve Your Memory",
+        "D. Why We Forget Things"
       ],
       "correct_answer": "C",
-      "explanation": "主旨大意题。文章主要讲述睡眠不足（由睡前使用手机导致）对学习效率的影响，以及改善睡眠的方法。A只涉及手机使用，片面；B只涉及褪黑素，是细节；D只涉及上海的项目，是例子。C选项\"睡眠与学业表现\"最能概括全文主旨。",
+      "explanation": "主旨大意题。文章首段引出话题\"Scientists have found some effective ways to improve memory\"，随后介绍了记忆宫殿法、定期复习法和睡眠的重要性三种提高记忆力的方法。A只涉及最后一点；B只涉及第二点；D只在开头提及，不是重点。C选项\"提高记忆力的方法\"最能概括全文。",
       "label": "阅读-主旨大意",
       "group": "reading_1",
-      "group_passage": "Many teenagers love to use their smartphones before going to bed. However, scientists have found that this habit can seriously affect the quality of sleep and next day's study efficiency, which has become a major concern for both parents and teachers.\n\nAccording to recent research published in the Journal of Sleep Medicine, the blue light from electronic screens stops the body from producing melatonin (褪黑素), a chemical that helps us fall asleep naturally. When teenagers spend hours scrolling through social media or playing mobile games at night, their brains become too excited to rest properly. As a result, they often feel tired and find it hard to concentrate in class the next morning, leading to poor academic performance.\n\nDr. Li, a well-known sleep expert from Beijing University, suggests that students should stop using electronic devices at least one hour before bedtime. Instead, they can read physical books or listen to light music to relax their minds and prepare for sleep. \"Good sleep is just as important as good study habits,\" Dr. Li explains. \"Without enough rest, your brain cannot process and remember new knowledge effectively, no matter how many hours you spend studying.\"\n\nSome schools have already taken creative action to solve this problem. For example, No.8 Middle School in Shanghai has started a \"Sleep First\" project this semester. Students living in the dormitory are encouraged to hand in their phones to teachers before going to bed. After one month of trial, most participants reported feeling more energetic during daytime classes and getting better grades in monthly exams. The principal said they would expand this program to all grades next term."
+      "group_passage": "Do you often forget things? Many students complain that they can't remember new English words or historical dates. In fact, memory is like a muscle - the more you use it, the stronger it becomes. Scientists have found some effective ways to improve memory.\n\nOne popular method is called the \"memory palace\" technique. This method has been used for thousands of years. Here's how it works: First, choose a place you know very well, such as your home. Then, imagine you are walking through it. Place the things you want to remember at different spots (locations) in your mind. For example, if you need to remember a shopping list, you might put apples on your bed and milk on your desk. When you need to recall the list, just take a mental walk through your house.\n\nAnother useful tip is to review information at regular intervals (间隔). Instead of studying for five hours straight, it's better to study for one hour a day over five days. This gives your brain time to process and store the information properly.\n\nSleep also plays an important role in memory. During sleep, your brain organizes the information you learned during the day. That's why pulling an all-nighter (熬夜) before an exam is usually not effective.\n\nSo next time you struggle to remember something, try these methods. With practice, you'll find that remembering things becomes much easier."
     },
     {
       "id": 17,
@@ -283,17 +283,17 @@
       "difficulty": 2,
       "stem": "(17)______",
       "options": [
-        "A. However, many students ignore this advice.",
-        "B. A tired brain cannot think clearly or remember information well.",
-        "C. This simple action can help you relax and focus better.",
-        "D. Don't try to learn everything in one night.",
-        "E. Good food fuels your body and mind."
+        "A. Then, fill these slots with your hobby activities.",
+        "B. You can draw whenever you have a few minutes free.",
+        "C. However, don't push yourself too hard.",
+        "D. Here are some tips to help you achieve that balance.",
+        "E. Therefore, you should focus only on your studies."
       ],
       "correct_answer": "D",
-      "explanation": "选句子填空题。前句说\"提前准备，定期复习笔记，不要等到最后一周\"，后句说\"这会帮助你逐步建立知识，考试时更自信\"。D选项\"不要试图一夜学完所有内容\"承接上文，解释为什么要提前准备，而非临时抱佛脚。",
+      "explanation": "前文提到\"然而，通过适当的规划，你可以在不牺牲成绩的情况下享受两者\"，此处需要一个承上启下的过渡句引出具体建议。D选项\"这里有一些帮助你实现这种平衡的建议\"完美衔接。A、B是具体建议，应在后面；C是转折提醒，应在最后；E与文意相反。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Many students feel nervous before important exams, which is completely normal. However, too much stress can affect your performance and health. Here are some useful tips to help you stay calm and perform well in your next test.\n\nFirst, prepare early and review your notes regularly instead of waiting until the last week. (17)______ This will help you build knowledge gradually and feel more confident when the exam day comes.\n\nSecond, get enough sleep the night before the test, preferably eight hours. (18)______ Avoid staying up late to cram at the last minute, as it usually does more harm than good.\n\nThird, eat a healthy breakfast on the exam morning, even if you don't feel hungry. (19)______ Foods like eggs, whole-grain bread, and milk can give you enough energy to last through the morning.\n\nFinally, take deep breaths slowly if you feel anxious during the exam. (20)______ Remember that one exam doesn't define your whole life, and you always have chances to improve."
+      "group_passage": "Many students have trouble balancing their schoolwork and hobbies. They often feel stressed because they don't have enough time for both. However, with proper planning, you can enjoy both without sacrificing your grades. (17)______\n\nFirst, make a weekly schedule. Write down all your classes and homework deadlines. Then, look for free time slots. (18)______ Even thirty minutes a day can make a difference.\n\nSecond, use your time wisely. Instead of playing games on your phone during breaks, you could practice your hobby. For example, if you like drawing, carry a small sketchbook with you. (19)______ This way, you won't waste any time.\n\n(20)______ Remember that your health and happiness are more important than perfect grades. If you feel too tired, it's okay to take a break from your hobby for a while. Finding the right balance takes time, but it's worth the effort."
     },
     {
       "id": 18,
@@ -302,17 +302,17 @@
       "difficulty": 2,
       "stem": "(18)______",
       "options": [
-        "A. However, many students ignore this advice.",
-        "B. A tired brain cannot think clearly or remember information well.",
-        "C. This simple action can help you relax and focus better.",
-        "D. Don't try to learn everything in one night.",
-        "E. Good food fuels your body and mind."
+        "A. Then, fill these slots with your hobby activities.",
+        "B. You can draw whenever you have a few minutes free.",
+        "C. However, don't push yourself too hard.",
+        "D. Here are some tips to help you achieve that balance.",
+        "E. Therefore, you should focus only on your studies."
       ],
-      "correct_answer": "B",
-      "explanation": "前句建议\"考前睡够8小时\"，后句说\"避免熬夜临时抱佛脚\"。B选项\"疲惫的大脑无法清晰思考或记住信息\"解释了为什么要睡够觉，承上启下。",
+      "correct_answer": "A",
+      "explanation": "前文提到\"寻找空闲时间段\"，A选项\"然后用你的爱好活动填满这些时间段\"中的slots与前文time slots完美对应，Then也承接了前文的First。B与drawing相关，应放在爱好举例段；C是转折，不适合此处；D已用过；E与文意相反。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Many students feel nervous before important exams, which is completely normal. However, too much stress can affect your performance and health. Here are some useful tips to help you stay calm and perform well in your next test.\n\nFirst, prepare early and review your notes regularly instead of waiting until the last week. Don't try to learn everything in one night. This will help you build knowledge gradually and feel more confident when the exam day comes.\n\nSecond, get enough sleep the night before the test, preferably eight hours. (18)______ Avoid staying up late to cram at the last minute, as it usually does more harm than good.\n\nThird, eat a healthy breakfast on the exam morning, even if you don't feel hungry. (19)______ Foods like eggs, whole-grain bread, and milk can give you enough energy to last through the morning.\n\nFinally, take deep breaths slowly if you feel anxious during the exam. (20)______ Remember that one exam doesn't define your whole life, and you always have chances to improve."
+      "group_passage": "Many students have trouble balancing their schoolwork and hobbies. They often feel stressed because they don't have enough time for both. However, with proper planning, you can enjoy both without sacrificing your grades. (17)______\n\nFirst, make a weekly schedule. Write down all your classes and homework deadlines. Then, look for free time slots. (18)______ Even thirty minutes a day can make a difference.\n\nSecond, use your time wisely. Instead of playing games on your phone during breaks, you could practice your hobby. For example, if you like drawing, carry a small sketchbook with you. (19)______ This way, you won't waste any time.\n\n(20)______ Remember that your health and happiness are more important than perfect grades. If you feel too tired, it's okay to take a break from your hobby for a while. Finding the right balance takes time, but it's worth the effort."
     },
     {
       "id": 19,
@@ -321,17 +321,17 @@
       "difficulty": 2,
       "stem": "(19)______",
       "options": [
-        "A. However, many students ignore this advice.",
-        "B. A tired brain cannot think clearly or remember information well.",
-        "C. This simple action can help you relax and focus better.",
-        "D. Don't try to learn everything in one night.",
-        "E. Good food fuels your body and mind."
+        "A. Then, fill these slots with your hobby activities.",
+        "B. You can draw whenever you have a few minutes free.",
+        "C. However, don't push yourself too hard.",
+        "D. Here are some tips to help you achieve that balance.",
+        "E. Therefore, you should focus only on your studies."
       ],
-      "correct_answer": "E",
-      "explanation": "前句建议\"考试当天早上吃健康早餐\"，后句举例\"鸡蛋、全麦面包和牛奶能提供能量\"。E选项\"好的食物为身体和大脑提供能量\"承上启下，解释为什么要吃早餐。",
+      "correct_answer": "B",
+      "explanation": "前文举例\"如果你喜欢画画，随身携带一个小素描本\"，B选项\"你可以每当有几分钟空闲时就画画\"承接上文，解释带素描本的目的。A已用过；C是转折，不适合此处；D已用过；E与文意相反。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Many students feel nervous before important exams, which is completely normal. However, too much stress can affect your performance and health. Here are some useful tips to help you stay calm and perform well in your next test.\n\nFirst, prepare early and review your notes regularly instead of waiting until the last week. Don't try to learn everything in one night. This will help you build knowledge gradually and feel more confident when the exam day comes.\n\nSecond, get enough sleep the night before the test, preferably eight hours. A tired brain cannot think clearly or remember information well. Avoid staying up late to cram at the last minute, as it usually does more harm than good.\n\nThird, eat a healthy breakfast on the exam morning, even if you don't feel hungry. (19)______ Foods like eggs, whole-grain bread, and milk can give you enough energy to last through the morning.\n\nFinally, take deep breaths slowly if you feel anxious during the exam. (20)______ Remember that one exam doesn't define your whole life, and you always have chances to improve."
+      "group_passage": "Many students have trouble balancing their schoolwork and hobbies. They often feel stressed because they don't have enough time for both. However, with proper planning, you can enjoy both without sacrificing your grades. (17)______\n\nFirst, make a weekly schedule. Write down all your classes and homework deadlines. Then, look for free time slots. (18)______ Even thirty minutes a day can make a difference.\n\nSecond, use your time wisely. Instead of playing games on your phone during breaks, you could practice your hobby. For example, if you like drawing, carry a small sketchbook with you. (19)______ This way, you won't waste any time.\n\n(20)______ Remember that your health and happiness are more important than perfect grades. If you feel too tired, it's okay to take a break from your hobby for a while. Finding the right balance takes time, but it's worth the effort."
     },
     {
       "id": 20,
@@ -340,17 +340,17 @@
       "difficulty": 2,
       "stem": "(20)______",
       "options": [
-        "A. However, many students ignore this advice.",
-        "B. A tired brain cannot think clearly or remember information well.",
-        "C. This simple action can help you relax and focus better.",
-        "D. Don't try to learn everything in one night.",
-        "E. Good food fuels your body and mind."
+        "A. Then, fill these slots with your hobby activities.",
+        "B. You can draw whenever you have a few minutes free.",
+        "C. However, don't push yourself too hard.",
+        "D. Here are some tips to help you achieve that balance.",
+        "E. Therefore, you should focus only on your studies."
       ],
       "correct_answer": "C",
-      "explanation": "前句建议\"如果感到焦虑就慢慢深呼吸\"，C选项\"这个简单的动作能帮助你放松并更好地集中注意力\"中，This simple action指代前文的take deep breaths，逻辑连贯。",
+      "explanation": "后文提到\"记住你的健康和快乐比完美的成绩更重要\"，这是提醒不要过度压力，C选项\"然而，不要把自己逼得太紧\"引出这一提醒，However表示转折，从具体建议转向注意事项。其他选项已用过或与文意不符。",
       "label": "短文填空",
       "group": "fill_1",
-      "group_passage": "Many students feel nervous before important exams, which is completely normal. However, too much stress can affect your performance and health. Here are some useful tips to help you stay calm and perform well in your next test.\n\nFirst, prepare early and review your notes regularly instead of waiting until the last week. Don't try to learn everything in one night. This will help you build knowledge gradually and feel more confident when the exam day comes.\n\nSecond, get enough sleep the night before the test, preferably eight hours. A tired brain cannot think clearly or remember information well. Avoid staying up late to cram at the last minute, as it usually does more harm than good.\n\nThird, eat a healthy breakfast on the exam morning, even if you don't feel hungry. Good food fuels your body and mind. Foods like eggs, whole-grain bread, and milk can give you enough energy to last through the morning.\n\nFinally, take deep breaths slowly if you feel anxious during the exam. (20)______ Remember that one exam doesn't define your whole life, and you always have chances to improve."
+      "group_passage": "Many students have trouble balancing their schoolwork and hobbies. They often feel stressed because they don't have enough time for both. However, with proper planning, you can enjoy both without sacrificing your grades. (17)______\n\nFirst, make a weekly schedule. Write down all your classes and homework deadlines. Then, look for free time slots. (18)______ Even thirty minutes a day can make a difference.\n\nSecond, use your time wisely. Instead of playing games on your phone during breaks, you could practice your hobby. For example, if you like drawing, carry a small sketchbook with you. (19)______ This way, you won't waste any time.\n\n(20)______ Remember that your health and happiness are more important than perfect grades. If you feel too tired, it's okay to take a break from your hobby for a while. Finding the right balance takes time, but it's worth the effort."
     }
   ]
 }
